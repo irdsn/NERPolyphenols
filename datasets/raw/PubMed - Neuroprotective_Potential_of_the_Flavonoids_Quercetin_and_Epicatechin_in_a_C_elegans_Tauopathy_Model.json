@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "Neuroprotective Potential of the Flavonoids Quercetin and Epicatechin in a C. elegans Tauopathy Model.",
+  "abstract": "The prevalence of cognitive disorders such as Alzheimer's disease (AD) is increasing due to the global rise in longevity. The accumulation of amyloid β (Aβ) deposits and hyperphosphorylated Tau protein (p-Tau) are considered the main hallmarks of AD. A growing body of evidence suggests that the regular intake of flavonoid-rich foods could reduce the risk of developing AD or mitigate its progression. This study explores the potential of quercetin (Q) and epicatechin (EC) as effective molecules against AD-like pathology, using the Caenorhabditis elegans BR5270 strain, which expresses the pro-aggregant F3DK280 fragment of the human Tau protein. The results showed that after exposure to 150 µM of EC or Q, worms exhibited increased lifespan, improved chemotaxis, and delayed age-related decline in locomotion. To explore the molecular mechanisms involved, the expression of genes associated with the inhibition of p-Tau proteotoxicity were measured by RT-qPCR. It was found that Q and EC significantly increased the expression levels of autophagy-related genes and of a key gene for de novo synthesis of α- tubulin. EC and Q delay neurodegeneration in the C. elegans tauopathy model, suggesting their potential to reduce the risk of AD progression.",
+  "publication_date": "2025-05-12",
+  "journal": "Molecular nutrition & food research",
+  "doi": "10.1002/mnfr.70108"
+}

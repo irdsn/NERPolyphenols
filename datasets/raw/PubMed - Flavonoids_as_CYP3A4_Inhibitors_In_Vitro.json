@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Flavonoids as CYP3A4 Inhibitors In Vitro.",
+  "abstract": "Flavonoids, a diverse group of polyphenolic compounds found abundantly in fruits, vegetables, and beverages like tea and wine, offer a plethora of health benefits. However, they have a potential interaction with drug metabolism, particularly through the inhibition of the cytochrome P450 3A4 enzyme, the most versatile and abundant enzyme in the liver. CYP3A4 is responsible for metabolizing approximately 50% of clinically prescribed drugs across diverse therapeutic classes, so these interactions have raised concerns about potential adverse effects. This review delves into the scientific evidence surrounding flavonoid-mediated CYP3A4 inhibition, exploring the inhibitory potential of investigated flavonoids and future implications. Kusehnol I, chrysin, leachianone A, and sophoraflavone G showed the largest inhibitory potentials and lowestIC50values. While the clinical significance of flavonoid-mediated CYP3A4 inhibition in dietary contexts is generally considered low due to moderate intake and complex interactions, it poses a potential concern for individuals consuming high doses of flavonoid supplements or concurrently taking medications metabolized by CYP3A4. This can lead to increased drug exposure, potentially triggering adverse reactions or reduced efficacy.",
+  "publication_date": "2024-03-13",
+  "journal": "Biomedicines",
+  "doi": "10.3390/biomedicines12030644"
+}

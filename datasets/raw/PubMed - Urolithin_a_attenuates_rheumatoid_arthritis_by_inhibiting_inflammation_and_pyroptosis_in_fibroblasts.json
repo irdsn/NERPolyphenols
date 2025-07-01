@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Urolithin a attenuates rheumatoid arthritis by inhibiting inflammation and pyroptosis in fibroblasts via the AMPK/ NF-κB signaling pathway.",
+  "abstract": "Urolithin A (UA), a metabolite of natural polyphenols produced by the gut microbiota, alleviates the symptoms of rheumatoid arthritis (RA) by inhibiting the inflammatory response. UA alleviates the clinical symptoms of RA by inhibiting the occurrence of an inflammatory response, but the specific regulatory mechanism remains unclear. In this study, we established a CIA model in 8-week-old DBA mice and chose LPS-stimulated NIH/3 T3 cells to explore the effects of UA and attempted to elucidate its potential mechanisms. Our results showed UA significantly reduced arthritis scores, and inhibited inflammation, pannus formation, and cartilage and bone destruction of inflamed joints in CIA mice. In vitro, UA inhibited LPS-induced migration and proliferation, and alleviated NLRP3-mediated pyroptosis, significantly inhibiting the protein expression levels of NLRP3, N-terminal gasdermin D, interleukin-1β, caspase-1, and ASC in NIH/3T3 cells. A mechanistic investigation revealed that LPS enhanced phosphorylation of NF-κB and downregulated that of AMPK, which were categorically counteracted by UA treatment. Therefore, UA represents a new class of promising RA treatments targeting fibroblasts, widening the therapeutic options for RA.",
+  "publication_date": "2025-04-10",
+  "journal": "International immunopharmacology",
+  "doi": "10.1016/j.intimp.2025.114604"
+}

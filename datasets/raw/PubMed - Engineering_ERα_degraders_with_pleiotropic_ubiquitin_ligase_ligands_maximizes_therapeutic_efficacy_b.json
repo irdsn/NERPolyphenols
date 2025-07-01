@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Engineering ERα degraders with pleiotropic ubiquitin ligase ligands maximizes therapeutic efficacy by co-opting distinct effector ligases.",
+  "abstract": "Proximity-inducing compounds that modulate target protein homeostasis represent an emerging therapeutic strategy. While the inherent complexity of these bifunctional compounds presents certain challenges, their unique composition offers opportunities to co-opt specific cellular effectors to enhance therapeutic impact. In this study, we systematically evaluate a series of bifunctional degrader compounds engineered with the estrogen receptor-alpha (ERα) inhibitor endoxifen linked to various bioactive ubiquitin ligase ligands. Notably, ERα degraders containing pan-IAP antagonist ligands significantly reduced the proliferation of ERα-dependent cells compared to clinical-stage ERα degraders. These pan-IAP antagonist-based ERα degraders leverage distinct effector ligases to achieve dual therapeutic effects: They utilize XIAP within tumor cells to promote ERα degradation and activate cIAP1/2 in both tumor and immune cells to induce TNFα, which drives tumor cell death. Our findings illustrate a broader concept that co-opting the discrete functions of selected cellular effectors, while simultaneously modulating therapeutic target protein homeostasis, are dual strategies that can significantly enhance the efficacy of induced proximity therapeutics.",
+  "publication_date": "2025-05-01",
+  "journal": "Cell chemical biology",
+  "doi": "10.1016/j.chembiol.2025.04.008"
+}

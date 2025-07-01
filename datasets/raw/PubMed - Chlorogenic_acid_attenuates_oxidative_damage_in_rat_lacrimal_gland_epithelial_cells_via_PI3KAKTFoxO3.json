@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Chlorogenic acid attenuates oxidative damage in rat lacrimal gland epithelial cells via PI3K/AKT/FoxO3 signaling: network pharmacology and experimental evidence.",
+  "abstract": "Oxidative stress and inflammation are crucial in dry eye pathogenesis. The antioxidant and anti-inflammatory activities of chlorogenic acid (CGA) have been studied in various fields, including ophthalmology. However, its therapeutic effects on dry eye remain unclear. This study aims to predict and validate the mechanisms of CGA in treating dry eye through data mining and in vitro experiments. Data mining integrated multiple online databases to predict potential therapeutic targets of CGA for dry eye and performed target enrichment analysis. In vitro experiments involved dividing rat lacrimal gland epithelial cells (LGECs) into seven groups: (1) control, (2) H2O2 model (200µM), (3) H2O2 + AKT inhibitor (MK-2206, 2.5µM), (4) H2O2 + AKT activator (SC79, 10ng/ml), (5) H2O2 + CGA (500nM), (6) H2O2 + AKT inhibitor + CGA, (7) H2O2 + AKT activator + CGA. We measured cell viability, mitochondrial ROS, PI3K/AKT/FoxO3 pathway proteins, and key indicators like Caspase3, TRAIL, Bcl-2, and SOD2. Results showed that CGA treatment and AKT activation could activate the PI3K/AKT/FoxO3 pathway, reduce ROS in LGECs, increase SOD2 production, and inhibit apoptosis. These findings suggest CGA as a promising candidate for further research in dry eye prevention and treatment.",
+  "publication_date": "2025-05-30",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-02788-0"
+}

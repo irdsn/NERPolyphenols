@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Identification of potential human targets for epigallocatechin gallate through a novel protein binding site screening approach.",
+  "abstract": "Epigallocatechin-3-gallate (EGCG), a compound found in green tea, is known for its anticancer properties, although its specific protein targets remain largely undefined. In this study, we identified EGCG targets across the human proteome using a novel protein binding site screening approach. Among the 20 most likely predicted targets, six proteins-KRAS, FXa, MMP1, PLA2G2A, Hb, and CDK2-had been experimentally validated in previous studies. Fourteen additional proteins, including five kinases, were newly predicted as potential targets, all of which are implicated in cancer development and may mediate EGCG's anticancer effects. Enrichment analysis revealed KEGG pathways associated with cancer, with KRAS and PIM1 appearing as key nodes. These findings, which align with previous experimental research, offer new insights into the molecular mechanisms of EGCG and its potential role in modulating cancer-related pathways.",
+  "publication_date": "2025-06-13",
+  "journal": "Journal of molecular modeling",
+  "doi": "10.1007/s00894-025-06410-y"
+}

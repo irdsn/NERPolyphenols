@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Targeted Dereplication ofH. patulumandH. hookeraniumExtracts: Establishing MS/MS Fingerprints for the Identification of Polycyclic Polyprenylated Acylphloroglucinols.",
+  "abstract": "In this study, we combined automated annotation tools with targeted dereplication based on MS/MS fragmentation pathway studies to identify polycyclic polyprenylated acylphloroglucinols (PPAPs) inHypericumspecies, usingH. patulumandH. hookeraniumas a case study. These species, extensively used in traditional medicine, exhibit morphological similarities that often result in misidentification. Following UHPLC-HRMS/MS analysis of plant extracts, a molecular network approach facilitated a comprehensive comparison of their chemical composition, assigning specific clusters toO-glycosylated flavonoids and PPAPs. Eight peaks, including quercitrin, isoquercitrin, procyanidins, chlorogenic acid, quercetin, and glycosylated derivatives, were annotated from the GNPS database. For PPAPs, despite the structural complexity posing challenges for automated annotation using public databases, our targeted-dereplication strategy, relying on in-house spectral data, led to the putative identification of 22 peaks forH. patulumandH. hookeranium. Key compounds such as hyperforin, hyperscabrone K, and garcinialliptone M were detected in both species, underscoring their chemical similarity. MS/MS fragmentation pathways, particularly the successive losses of isobutene and isoprenyl units, emerged as a consistent signature for PPAP detection and may be useful for selecting PPAP-enriched extracts or fractions for further phytochemical investigations.",
+  "publication_date": "2025-06-10",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122531"
+}

@@ -1,0 +1,36 @@
+PubMed | polyphenols | 2025-07-01T18:55:17.583121
+PubMed | flavonoids | 2025-07-01T18:55:47.578341
+PubMed | flavonols | 2025-07-01T18:56:17.915345
+PubMed | phenolic acids | 2025-07-01T18:56:31.161381
+PubMed | tannins | 2025-07-01T18:56:47.193373
+PubMed | anthocyanins | 2025-07-01T18:57:02.737566
+PubMed | stilbenes | 2025-07-01T18:57:13.333638
+PubMed | lignans | 2025-07-01T18:57:23.882928
+PubMed | proanthocyanidins | 2025-07-01T18:57:34.748342
+PubMed | catechins | 2025-07-01T18:57:44.321403
+PubMed | epicatechin | 2025-07-01T18:57:56.022527
+PubMed | resveratrol | 2025-07-01T18:58:07.121971
+PubMed | quercetin | 2025-07-01T18:58:17.246228
+PubMed | gallic acid | 2025-07-01T18:58:27.526751
+PubMed | chlorogenic acid | 2025-07-01T18:58:37.193090
+PubMed | plant polyphenols | 2025-07-01T18:58:48.956264
+PubMed | dietary polyphenols | 2025-07-01T18:59:01.043508
+PubMed | fruit polyphenols | 2025-07-01T18:59:10.980466
+PubMed | tea polyphenols | 2025-07-01T18:59:20.535344
+PubMed | wine polyphenols | 2025-07-01T18:59:31.730720
+PubMed | grape skin | 2025-07-01T18:59:41.635843
+PubMed | olive polyphenols | 2025-07-01T18:59:51.514983
+PubMed | cocoa flavonoids | 2025-07-01T19:00:01.017262
+PubMed | vegetable phenolics | 2025-07-01T19:00:10.542186
+PubMed | polyphenols inflammation | 2025-07-01T19:00:25.137426
+PubMed | polyphenols antioxidant | 2025-07-01T19:00:35.692887
+PubMed | flavonoids cancer | 2025-07-01T19:00:45.431733
+PubMed | polyphenols gut microbiota | 2025-07-01T19:00:55.699771
+PubMed | flavonoids cardiovascular | 2025-07-01T19:01:05.773431
+PubMed | phenolic compounds metabolic syndrome | 2025-07-01T19:01:16.945035
+PubMed | resveratrol aging | 2025-07-01T19:01:27.113659
+PubMed | phenolic compounds | 2025-07-01T19:01:38.240837
+PubMed | natural antioxidants | 2025-07-01T19:01:49.278226
+PubMed | secondary metabolites | 2025-07-01T19:01:58.343325
+PubMed | bioactive phytochemicals | 2025-07-01T19:02:11.641243
+PubMed | functional foods polyphenols | 2025-07-01T19:02:21.149970

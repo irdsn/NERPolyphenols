@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Exometabolome of Pantoea targets pathogen associated scytalone dehydratase and XopQ for suppression of foliar blast and bacterial blight in rice.",
+  "abstract": "Pantoea species, known for their metabolic versatility and ability to thrive in the phyllosphere, hold promise for sustainable crop protection. This study investigates the exometabolomic activity of three leaf-epiphytic Pantoea species against Magnaporthe oryzae (rice blast) and Xanthomonas oryzae pv. oryzae (bacterial blight). Functional assays confirmed that these strains produce ACC deaminase and siderophores, while their exometabolomes significantly reduced disease severity and enhanced the activity of defense enzymes such as peroxidase and polyphenol oxidase in rice. Gene expression analysis showed upregulation of key defense-related genes (OsCERK1, OsFLS2, and OsFMO1), indicating enhanced plant immunity. UPLC-QToF-ESI profiling identified metabolites such as dapdiamide and pantocins, which exhibited strong antimicrobial properties. Molecular docking analysis demonstrated that exometabolome components interact with pathogen virulence proteins, including Scytalone dehydratase and SEC13 in M. oryzae and XopQ and adenyltransferase in X. oryzae pv. oryzae, thereby interfering with pathogen virulence mechanisms. The combined effects of direct antimicrobial action, suppression of pathogen virulence, and activation of host defenses highlight the potential of Pantoea exometabolomes as a biocontrol strategy. This study underscores their role in sustainable disease management and presents a viable alternative to chemical-based crop protection methods.",
+  "publication_date": "2025-06-09",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145079"
+}

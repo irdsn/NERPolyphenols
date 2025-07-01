@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Microfluidic fiber-spinning chemistry for hydrophilic-hydrophobic Janus membranes towards efficient interfacial solar evaporation.",
+  "abstract": "Janus nanofiber membrane has emerged as a promising solar-driven interfacial evaporator for seawater desalination. However, salt ion accumulation and crystallization persist during long-term operation, which remains a key challenge. In this work, we report a hydrophilic-hydrophobic Janus nanofiber membrane evaporator, which is preparedviacontinuous microfluidic electrospinning. This method allowsin situchemical reaction of tannin (TA) and Fe3+to be carried out in a \"Y\" chip during the spinning process, enabling rapid, facile, and flexible fabrication of the nanofiber membrane. TA is rich in hydroxyl groups, which endows the bottom layer with hydrophilicity and electronegativity, thereby enhancing the water transport and Donnan effect. Thus, a high evaporation rate of 1.73 kg m-2h-1in pure water is achieved. More importantly, long-term stability in seawater desalination is realized with an evaporation rate of 1.68 kg m-2h-1, and there is no salt crystallization on the surface during continuous evaporation for 8 hours in 10 wt% NaCl solution. On the one hand, the bottom layer shows electronegativity, which is liable to immobilize cations Na+and repel anions Cl-, achieving the purpose of salt resistance. On the other hand, the Janus structure also favors the redissolution of concentrated salts into raw water, further avoiding salt accumulation. This work offers a promising common strategy for constructing high-performance Janus evaporator, which will stimulate the development of seawater desalination.",
+  "publication_date": "2025-06-05",
+  "journal": "Nanoscale horizons",
+  "doi": "10.1039/d5nh00186b"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Syringic acid alleviates cadmium-induced neurotoxicity in rats by modulating cellular signaling pathways.",
+  "abstract": "Cadmium (Cd) is a metal found widely in nature that negatively affects brain health by affecting the DNA repair mechanisms of the cell through the effect it creates on various reactive oxygen species in the body. Antioxidants provide the potential to reduce the neurotoxic effects of cadmium. Therefore, we aimed to investigate the protective properties of syringic acid (SA) in cadmium-induced neurotoxicity. Fifty male Sprague Dawley rats were used in the study. The rats were divided into 5 groups: Control, SA100, Cd, SA50 + Cd and SA100 + Cd. Cd (6.5 mg/kg) was administered intraperitoneally, and SA (50-100 mg/kg) intragastrically for seven days. Our results showed that SA significantly mitigated Cd-induced brain damage. The up-regulation of MDA and down-regulation of GSH, SOD, and CAT in brain tissues induced by Cd was significantly reversed by SA treatment. Additionally, the decreased expression of Nrf2/HO-1/SIRT1, impaired by ROS induced by Cd, was enhanced by SA. While Cd caused inflammation by triggering proinflammatory cytokines such as IL-1β and TNF-α via TLR4/NF-κB and suppressing IL-10, SA reduced inflammation in the tissue. This study demonstrated that SA treatment significantly reversed Beclin-1 and LC3A/B expression. Finally, it was revealed that SA treatment inhibited Cd-induced apoptosis by decreasing Bax, Caspase3 levels, and increasing Bcl2 levels. Collectively, our data revealed that SA exerts its neuroprotective effects by regulating various Cd-induced cellular signaling pathways in rat brains.",
+  "publication_date": "2025-05-11",
+  "journal": "International immunopharmacology",
+  "doi": "10.1016/j.intimp.2025.114816"
+}

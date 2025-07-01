@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Regulation of pyroptosis by natural products in ulcerative colitis: mechanisms and therapeutic potential.",
+  "abstract": "Ulcerative colitis (UC), a chronic inflammatory bowel disease, is driven by dysregulated immune responses and persistent intestinal inflammation. Pyroptosis, a caspase/gasdermin-mediated inflammatory cell death that exacerbates mucosal damage through excessive cytokine release and epithelial barrier disruption. Although pyroptosis is considered to be a key mechanism in the pathogenesis of UC, the systematic assessment of the role of natural products in targeting the pyroptosis pathway remains a critical research gap. The purpose of this review is to investigate the regulatory effects of natural products on pyroptosis in UC and elucidate the mechanisms of action and potential therapeutic effects. Key findings highlight polyphenols (e.g., resveratrol), flavonoids (e.g., Quercetin), and terpenoids as promising agents that inhibit NLRP3 inflammasome activation, suppress gasdermin D cleavage, and restore barrier integrity, thereby reducing pro-inflammatory cytokine release in preclinical UC models. Current evidence shows enhanced efficacy and safety when these compounds are combined with standard therapies, but clinical translation requires overcoming three key barriers: limited human trial data, uncharacterized polypharmacology, and suboptimal pharmacokinetics needing formulation refinement. Future research should prioritize standardized animal-to-human translational models, mechanistic studies on synergistic pathways, and rigorous clinical validation to harness the full potential of natural products in pyroptosis-targeted UC therapies.",
+  "publication_date": "2025-04-09",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1573684"
+}

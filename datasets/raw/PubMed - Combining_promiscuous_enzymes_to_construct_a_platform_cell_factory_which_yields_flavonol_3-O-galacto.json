@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Combining promiscuous enzymes to construct a platform cell factory which yields flavonol 3-O-galactoside 6''-O-acetates.",
+  "abstract": "Promiscuous enzymes are distributed widely in nature. These promiscuous enzymes recognize multiple substrates and yield a variety of metabolites. Hence, the enzyme promiscuity is usually avoided to improve the specificity of metabolites. In this study, the enzyme promiscuity, however, is used to diversify flavonol 3-O-galactoside 6''-O-acetates (F3Gal-6''As), which are active compounds in plants. Specifically, a pathway harbouring four promiscuous flavanone 3-O-hydroxylase (CsF3Ha), flavonol synthase (AcFLS-HRB), flavonol 3-O-galactosyltransferase (PhUGT), and acetyltransferase (GAT), was successfully constructed and introduced into Escherichia coli BL21 (DE3) cells to form engineered strains via modular engineering. An engineered strain, MT4, was selected for further optimization. Protein engineering and condition optimization were thus performed to generate a MT4-derived strain MT4-D17W capable of synthesizing multiple F3Gal-6''As. The medium-dependent yields of three F3Gal-6''As, trifolin 6''-O-acetate (T6''A), hyperoside 6''-O-acetate (H6''A), and myricetin-3-O-(6''-O-acetyl)-galactoside (MGal6''A), in the shake-flask culture of MT4-D17W were 404.4, 255.5, and 117.1 mg/L, respectively. The T6''A yield in the 6-L reactor reached 750.8 mg/L. These enzymatically synthesized F3Gal-6''As displayed an increased liposolubility, while T6″A and MGal6″A displayed hepatoprotective activity. This research not only provides a new insight for the promiscuous enzymes, but also lays a foundation for the scale preparation of flavonol 3-O-galactoside 6''-O-acetates.",
+  "publication_date": "2025-06-10",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145169"
+}

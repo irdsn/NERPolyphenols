@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Effects of drying methods on phytochemicals and antioxidant activity of broccoli by-products.",
+  "abstract": "The application of drying technology can rationally utilize fruit and vegetable resources and improve their economic benefits. To expand the application range of broccoli stems and leaves and enrich product varieties, drying them is a feasible high-value utilization method. This study aimed to identify the influences of freeze drying, microwave drying, and hot air drying on the metabolite and antioxidant activity of by-products. Phytochemical analysis revealed freeze-dried samples closely resembled fresh samples, while microwave and hot air drying increased phenolic acids, glucosinolates, and alkaloids. Random forest analysis identified the key differential compounds: the top three contributing compounds in leaves were alkaloids, phenolic acids, and glucosinolates, while the top three contributing compounds in stems were phenolic acids, alkaloids, and amino acids. Differences in antioxidant enzyme activities and free radical scavenging rates were linked to changes in flavonoid and glucosinolate content. These results offer novel insights into metabolite profiles of broccoli by-products under various drying methods, highlighting their potential in food applications.",
+  "publication_date": "2025-03-15",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116284"
+}

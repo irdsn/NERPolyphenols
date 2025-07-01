@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Genistein and Vanadate Differentially Modulate Cortical GABAAReceptor/ATPase Activity and Behavior in Rats via a Phenol-Sensitive Mechanism.",
+  "abstract": "Although some GABAAreceptor subtypes are involved in both the passive permeability of anions and the ATP-dependent recovery of neuronal anion concentrations, the molecular mechanisms that ensure the coordination of passive and active transport processes remain unclear. Here we used fluorescence measurements to investigate the role of genistein (tyrosine kinase inhibitor) and vanadate (tyrosine phosphatase and ATPase inhibitor) in modulating GABAAR-mediated [Cl-]i/[HCO3-]ichanges and ATPase activity in rat cortical neurons and HEK 293FT cells expressing the heteropentameric α2β3γ2 GABAAR isoform. We found that genistein plays an important role in the inhibition of passive GABAAR-mediated Cl-influx and Cl-ATPase activity, whereas vanadate plays an important role in the inhibition of Cl-, HCO3-ATPase activity and ATP-dependent recovery of [HCO3-]ivia changes in the formation of the phosphorylated intermediate. The effect of blockers was significantly restored in the presence of phenol. In behavioral experiments, the administration of phenol has been established to induce tremors and head twitching in rats, with the involvement of GABAAR/ATPase in these behavioral responses. Genistein can reduce the adverse effects of phenol, thereby confirming the interaction of these chemicals when binding to binding receptor sites. While our data demonstrate the opposing roles of genistein and vanadate in modulating GABAAR/ATPase function in a bicarbonate-dependent manner. Such multidirectional systems are considered to be bistable elements involved in the regulatory mechanisms of synaptic plasticity.",
+  "publication_date": "2025-06-15",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26125731"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Fluoroether Design Enables High-Voltage All-Solid-State Lithium Metal Batteries.",
+  "abstract": "Developing high-voltage all-solid-state lithium metal batteries (ASSLMBs) holds transformative potential for next-generation energy storage technologies but remains a formidable challenge. Herein, a new prototype design is presented that integrates fluorinated ether segments into the traditional oxide nanocomposite phase, enabling poly(ethylene oxide)-based composite electrolytes with exceptional anti-oxidation durability and enhance overall electrochemical performance. Through a combination of experimental and computational analyses, it is demonstrated that the superior performance is attributed to the formation of reconstructed Li⁺ solvation with weakly coordinating environments. The proposed formulation exhibits excellent Li-metal compatibility, enabling stable cycling in symmetric Li||Li cells for over 9500 h. The solid-state electrolyte also exhibits outstanding high-voltage stability with LiNi0.8Co0.1Mn0.1O2cathodes, extending the operational voltage from 4.0 to 4.5 V. Moreover, the LiMn1-xFexPO4||Li cells have delivered remarkable cycling performance, achieving over 1200 cycles with 99% capacity retention after 500 cycles. This work establishes an innovative platform for designing electrolytes with superior antioxidation properties and enhance structural durability, paving the way for the advancement of high-voltage all-solid-state lithium metal batteries.",
+  "publication_date": "2025-07-01",
+  "journal": "Advanced materials (Deerfield Beach, Fla.)",
+  "doi": "10.1002/adma.202506020"
+}

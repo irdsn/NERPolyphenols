@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Complex networks interactions between bioactive compounds and adipose tissue vis-à-vis insulin resistance.",
+  "abstract": "Fatty acids disorders may lead to insulin resistance, resulting in long-term oxidative stress and inflammatory processes, both mediated by adipose tissue. Either in normal condition or obesogenic status, adipose cells components play an important role in several physiological and metabolic conditions. It has been shown that bioactive compounds can influence the development of obesity and its pathological complications such as insulin resistance. In this study, we performed a network between bioactive compounds and adipose tissue vis-a-vis insulin resistance. We constructed a regulatory network of 62 adipocyte cell components that incorporates current evidence of cellular and molecular interactions involved in healthy and obesity states. The network incorporated information about inflammation pathways and inhibition of insulin signaling; insulin signaling and GLUT 4 translocation; triglycerides production; ATP production; M2 macrophages recruitment; adipogenesis and lipolysis as well as mitochondrial biogenesis. Our mathematical model showed a discernment between the impact of various bioactive substances on the transitions from health to obesity and vice versa. We found that anthocyanins, punicalagin, oleanolic acid, and NRG4 proved to be critical nodes in the transition from obesity to the healthy state, due to their switch-on potential to up-regulate the complex network resulting in a beneficial transition.",
+  "publication_date": "2025-05-13",
+  "journal": "Frontiers in endocrinology",
+  "doi": "10.3389/fendo.2025.1578552"
+}

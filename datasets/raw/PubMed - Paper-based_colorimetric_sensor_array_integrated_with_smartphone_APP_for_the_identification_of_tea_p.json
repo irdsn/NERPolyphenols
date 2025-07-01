@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Paper-based colorimetric sensor array integrated with smartphone APP for the identification of tea polyphenol and Longjing tea.",
+  "abstract": "West Lake Longjing tea is among the top ten renowned teas in China. However, consumers often struggle to accurately identify genuine West Lake Longjing tea through visual inspection, leading to widespread counterfeiting and fraud in the market. The aim of this work is to develop a real-time detection tool for consumers, including a visual color-changing test paper and an accompanying mobile phone recognition application. The mobile application has been developed for the purpose of facilitating rapid identification of the provenance of Longjing tea. Firstly, we used the polyphenol oxidase-like activity and the peroxidase-like activity of nanozymes to construct the sensor array, and found that tea polyphenols and Longjing tea had different responses to the sensor array. Then combined with LDA and HCA algorithms, the identification of tea polyphenols and the differentiation of Longjing production area were realized. The results showed that as low as 1 μM of seven tea polyphenols could be efficiently recognized, and Longjing green tea from six production regions could be differentiated from West Lake Longjing adulterated with different proportions of other production regions. In addition, we developed a paper-based sensor array and a smartphone APP to distinguish multiple concentrations of tea polyphenols and Longjing from different production areas by recognizing the color difference of the paper. The construction of this sensor array and the development of smartphone APP can be successfully applied to the source identification and the adulteration of Longjing tea.",
+  "publication_date": "2025-03-24",
+  "journal": "Biosensors & bioelectronics",
+  "doi": "10.1016/j.bios.2025.117391"
+}

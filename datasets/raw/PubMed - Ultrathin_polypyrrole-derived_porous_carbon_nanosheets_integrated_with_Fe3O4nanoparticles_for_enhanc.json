@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Ultrathin polypyrrole-derived porous carbon nanosheets integrated with Fe3O4nanoparticles for enhanced electrochemical detection of catechin.",
+  "abstract": "The development of two-dimensional porous carbon nanosheets (mNPC) presents a promising solution to address the aggregation challenges of transition metal oxides in catalytic sensing applications. In this study, hierarchical porous carbon nanosheets were synthesized through a dual-template strategy employing octadecylamine and the block copolymer PEO-b-PS during pyrrole monomer polymerization under mild conditions, followed by controlled pyrolysis. Subsequent uniform dispersion of Fe3O4nanoparticles on the carbon matrix yielded an advanced mNPC/Fe3O4nanocomposite. Comprehensive characterization via field-emission scanning electron microscopy (FESEM), transmission electron microscopy (TEM), X-ray diffraction (XRD), Raman spectroscopy, and X-ray photoelectron spectroscopy (XPS) confirmed the successful formation of the hierarchical porous structure and homogeneous distribution of Fe3O4. Electrochemical evaluation revealed that the mNPC/Fe3O4modified glassy carbon electrode exhibited exceptional electrocatalytic performance for catechin detection, achieving an ultra-low detection limit of 0.36 nM (S/N = 3) with a broad linear response range from 0.1 nM to 1.1 μM under optimized conditions. The sensor demonstrated remarkable anti-interference in complex matrices. This work not only provides a novel strategy for food safety monitoring but also expands the application scope of conductive polymer-derived nanomaterials in electrochemical sensing platforms.",
+  "publication_date": "2025-05-14",
+  "journal": "Mikrochimica acta",
+  "doi": "10.1007/s00604-025-07214-w"
+}

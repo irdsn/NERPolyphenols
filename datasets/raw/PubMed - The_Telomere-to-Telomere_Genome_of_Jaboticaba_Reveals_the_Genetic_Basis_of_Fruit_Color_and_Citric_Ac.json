@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "The Telomere-to-Telomere Genome of Jaboticaba Reveals the Genetic Basis of Fruit Color and Citric Acid Content.",
+  "abstract": "Jaboticaba is a typical tropical plant that blossoms and bears fruit on the tree trunks and branches. The fruits resemble grapes in appearance and texture and are also known as \"treegrapes\". Currently, research on the genomics of jaboticaba is lacking. In this study, we constructed an integrated, telomere-to-telomere (T2T) gap-free reference genome and two nearly complete haploid genomes, thereby providing a high-quality genomic resource. Furthermore, we unveiled the evolutionary history of several species within the Myrtaceae family, highlighting significant expansions in metabolic pathways such as the citric acid cycle, glycolysis/gluconeogenesis, and phenylpropanoid biosynthesis throughout their evolutionary process. Transcriptome analysis of jaboticaba fruits of different colors revealed that the development of fruit skin color in jaboticaba is associated with the phenylpropanoid and flavonoid biosynthesis pathways, with the flavanone 3-hydroxylase (F3H) gene potentially regulating fruit skin color. Additionally, by constructing the regulatory pathway of the citric acid cycle, we found that low citric acid content is correlated with high expression levels of genes such as thiamin diphosphate (ThDP) and low expression of phosphoenolpyruvate carboxykinase (PEPCK), indicating thatPEPCKpositively regulates citric acid content. These T2T genomic resources will accelerate jaboticaba pepper genetic improvement and help to understand jaboticaba genome evolution.",
+  "publication_date": "2024-11-07",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms252211951"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Synthesis, Fluorescence Properties, in Vitro Anticancer Activity, inter-intramolecular Hydrogen Bonding and Molecular Docking Studies on (E)-2-((2-nitrobenzylidene) amino)phenol.",
+  "abstract": "Synthesized (E)-2-((2-nitrobenzylidene)amino)phenol (2NB2AM), a Schiff base from 2-aminophenol and 2-nitrobenzaldehyde using DMSO solvent. Comparison of the characteristic properties evaluated by various spectroscopic techniques such as FTIR, Raman,1H, and13C NMR, and UV-vis spectroscopy analyses to validate the results that predicted using quantum chemical computations. The HOMO-LUMO energy gap was computed by FMO analysis and directed to lower global hardness and higher global softness values. The locations of electrophilic and nucleophilic attack sites, as well as localized and delocalized orbitals, were uncovered by various topological investigations. It was also hypothetically examined where the non-covalent and covalent interactions occurred. In addition, the ALIE study was conducted to determine the electron removal or excitation. NBO analysis was performed to understand the different inter and intramolecular interactions present in the synthesized Schiff base compound (2NB2AM). Drug-likeness and ADME analysis indicated a high bioavailability score and the potential to treat preneoplastic conditions. In vitro, anticancer activity tests found that 2NB2AM was effective towards the cell strains of MCF-7 breast carcinoma, with increased activity against the drug cisplatin. Molecular docking was used to determine the energetically advantageous ligand posture and related binding value for the 6NLV-2NB2AM protein-ligand system.",
+  "publication_date": "2025-06-28",
+  "journal": "Journal of fluorescence",
+  "doi": "10.1007/s10895-025-04419-3"
+}

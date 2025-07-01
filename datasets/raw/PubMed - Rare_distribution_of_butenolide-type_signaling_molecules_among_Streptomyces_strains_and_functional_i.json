@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Rare distribution of butenolide-type signaling molecules among Streptomyces strains and functional importance as inducing factors for secondary metabolite production in Streptomyces rochei 7434AN4.",
+  "abstract": "Streptomyces rochei 7434AN4 produces two structurally unrelated polyketide antibiotics, lankacidin (LC) and lankamycin (LM), and their biosynthesis is tightly controlled by 2,3-disubstituted butenolide-type signaling molecules SRB1 and SRB2. We here investigated the distribution of 2,3-disubstituted butenolides (SRB-type butenolides) among randomly selected 122 Streptomyces strains using two approaches; (1) feeding of their culture extracts into an srrX-deficient strain KA20 of S. rochei, and (2) co-fermentation with strain KA20. All the randomly selected donor strains, except for Streptomyces cellostaticus (a LC and LM producer), failed to restore LC and LM production in strain KA20. These findings strongly revealed the rare distribution of SRB-type butenolide molecules in Streptomyces species. One of the SRB-type butenolide, SAB1, an inducing molecule for nikkomycin production in Streptomyces ansochromogenes, was unable to restore antibiotic production in strain KA20 even at 1 mM concentration. Furthermore, we noticed the accumulation of 4-dehydroxy-SRB1 as a novel compound when SRB1 was fed into strain KA20. Purified 4-dehydroxy-SRB1 has no inducing activity of antibiotic production in strain KA20 even at 1000-fold higher concentration (50 µM) against a minimum inducing concentration of natural SRB1 (40 nM). These findings suggested the importance of the length of a hydrocarbon chain attached at C-2 and a hydroxyl group at C-4 for inducing activity in S. rochei.",
+  "publication_date": "2025-06-12",
+  "journal": "The Journal of antibiotics",
+  "doi": "10.1038/s41429-025-00840-9"
+}

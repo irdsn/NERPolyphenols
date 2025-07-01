@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "ZIP8 modulates ferroptosis to drive esophageal carcinoma progression.",
+  "abstract": "Ferroptosis, a regulated form of cell death characterized by iron-dependent phospholipid peroxidation, remains poorly understood in the context of esophageal cancer development and its regulatory mechanisms. Through comprehensive bioinformatic analyses, we identified ferroptosis-related pathways as crucial mediators in esophageal cancer progression, with ZIP8 emerging as a key regulatory element. We observed significant upregulation of ZIP8 in esophageal cancer specimens, which correlated with poor clinical outcomes. Functional studies demonstrated that ZIP8 depletion significantly attenuated cellular proliferation in vitro. Mechanistically, elevated ZIP8 expression enhanced zinc-dependent phosphorylation of CREB, leading to upregulation of the ferroptosis suppressor GPX4 and inhibition of this iron-dependent cell death modality. Significantly, we discovered that the natural compound Nobiletin targeted ZIP8, inhibiting Esophageal squamous cell carcinoma (ESCC) cell growth in vitro and in vivo. Our findings demonstrate ZIP8 as a potential therapeutic target in ESCC and suggest that promoting ferroptosis through ZIP8 inhibition may represent a novel anti-cancer strategy for ESCC therapy.",
+  "publication_date": "2025-05-06",
+  "journal": "Cell death & disease",
+  "doi": "10.1038/s41419-025-07692-z"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Supramolecular dye self-assembly mediated by host-guest interactions for the sensitive and portable detection of pyrene derivatives in environmental samples and urine.",
+  "abstract": "Polycyclic aromatic hydrocarbons (PAHs), especially pyrene, are hazardous pollutants with serious health risks. Effective detection methods for PAHs are essential for environmental monitoring. In this study, we construct a simple, efficient method to detect pyrene derivatives in water. A squaraine dye (J3-Ad) with dual host-guest sites was synthesized and paired with a β-cyclodextrin dimer (H2-CD) to regulate host-guest interactions. In the presence of pyrenes, J3-Ad monomers in the J3-Ad/H2-CD mixture (JH-AC) are displaced by pyrenes and self-assemble into H-aggregates, resulting in a ∼135 nm absorption spectral shift. The transformation was confirmed through Scanning Electron Microscope (SEM), Dynamic Light Scattering (DLS), and Density Functional Theory (DFT) analysis. The system showed high sensitivity, with detection limits of 1.76 nmol/L for pyrene and 60.02 nmol/L for 1-hydroxypyrene (1-OHP), along with strong anti-interference and reliable colorimetric recognition. A smartphone-based, real-time detection platform was developed for visual monitoring of pyrene in soil and vegetables. Pyrene in tap water and river water, as well as 1-OHP in urine, were successfully detected, with acceptable recovery rates and a relative standard deviation (RSD) of less than 10.14 %. This work provides a sensitive, rapid, and visual method for tracking PAH pollution, offering significant potential for practical, on-site environmental applications.",
+  "publication_date": "2025-03-01",
+  "journal": "Journal of hazardous materials",
+  "doi": "10.1016/j.jhazmat.2025.137799"
+}

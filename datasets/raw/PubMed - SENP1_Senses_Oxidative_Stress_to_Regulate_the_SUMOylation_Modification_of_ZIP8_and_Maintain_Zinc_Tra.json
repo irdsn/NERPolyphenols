@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "SENP1 Senses Oxidative Stress to Regulate the SUMOylation Modification of ZIP8 and Maintain Zinc Transport Functions.",
+  "abstract": "Zinc (Zn) is a crucial trace element in vertebrates, fulfilling a range of physiological functions, whose metabolism and homeostasis are manipulated by Zn transporter proteins. SUMOylation, a reversible post-translational modification (PTM), extensively participates in various biological processes in the body, yet its underlying mechanism in regulating Zn transporters remains unexplored. Our findings indicate that high dietary Zn substantially elevated intestinal Zn content and modulated the expression profiles of Zn transporter-related genes and proteins, including ZIP8 transporter. In addition, high Zn diet tended to inhibit the SUMOylation modification and upregulate deSUMOylation modification in the intestine and intestinal epithelial cells. Furthermore, we found that the ZIP8 protein undergoes SUMOylation modification; UBC9 upregulated but SENP1 and Zn downregulated the SUMOylation level of ZIP8, and the K24 and K222 positions are the primary SUMOylation modification sites of ZIP8 protein in yellow catfish. Mechanistically, SENP1 modulates the deSUMOylation modification of ZIP8 by sensing Zn-induced oxidative stress. In summary, for the first time, we have uncovered a unique regulatory mechanism of ZIP8 mediated by SUMOylation modification in vertebrates and demonstrate that SENP1 is capable of sensing oxidative stress to reduce the SUMOylation modification of ZIP8 at K24 and K222 sites.",
+  "publication_date": "2025-06-18",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060750"
+}

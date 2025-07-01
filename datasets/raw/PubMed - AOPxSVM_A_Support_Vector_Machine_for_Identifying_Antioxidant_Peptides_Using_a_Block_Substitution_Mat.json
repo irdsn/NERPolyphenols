@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "AOPxSVM: A Support Vector Machine for Identifying Antioxidant Peptides Using a Block Substitution Matrix and Amino Acid Composition, Transformation, and Distribution Embeddings.",
+  "abstract": "Antioxidant peptides (AOPs) have the natural properties of food preservatives; they are capable of improving the oxidation stability of food while also providing additional benefits such as disease prevention. Traditional experimental methods for identifying antioxidant peptides are time consuming and costly, so effective machine learning models are increasingly being valued by researchers. In this study, we integrated amino acid composition, transformation, and distribution (CTD) and block substitution matrix 62 (BLOSUM62) to develop an SVM-based AOP prediction model called AOPxSVM. This strategy significantly improves the prediction accuracy of the model by comparing 15 feature combinations and feature selection strategies, with their effectiveness being visually verified using UMAP. AOPxSVM achieves high accuracy values of 0.9092 and 0.9330, as well as Matthew's correlation coefficients (MCCs) of 0.8253 and 0.8670, on two independent test sets, both surpassing the state-of-the-art methods based on the same test sets, thus demonstrating AOPs' excellent identification capability. We believe that AOPxSVM can serve as a powerful tool for identifying AOPs.",
+  "publication_date": "2025-06-06",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14122014"
+}

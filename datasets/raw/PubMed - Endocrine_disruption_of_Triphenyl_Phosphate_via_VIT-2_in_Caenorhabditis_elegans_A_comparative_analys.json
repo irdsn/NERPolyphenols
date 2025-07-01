@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Endocrine disruption of Triphenyl Phosphate via VIT-2 in Caenorhabditis elegans: A comparative analysis with estradiol and 4-hydroxytamoxifen.",
+  "abstract": "Triphenyl phosphate (TPHP) is widely used as a flame retardant and plasticizer in consumer products and is frequently detected in the environment. TPHP competitively binds to estrogen receptors, exhibiting both estrogenic and anti-estrogenic effects, leading to ongoing debate about its role. This study demonstrates that TPHP shows a higher affinity for the estrogen receptor NHR-14 in Caenorhabditis elegans (C. elegans) compared to the typical estrogen estradiol (E2) and the estrogen antagonist 4-hydroxytamoxifen (4-HT). The study also examines the production, distribution, and transport of the estrogen biomarker Vitellogenin family member 2 (VIT-2) following exposure to TPHP, E2, and 4-HT. Environmentally-relevant concentrations of TPHP significantly increased VIT-2 transcription and protein expression levels in C. elegans during early pregnancy, similar to the effects observed with E2. However, during peak pregnancy, TPHP exposure led to abnormal accumulation of VIT-2, primarily due to an increase in the Gibbs Free Energy of the VIT-2_RME-2 complex, which reduced their affinity and subsequently impaired the normal transport of VIT-2. These findings provide novel insights into the toxic mechanisms of TPHP in oviparous animals, highlighting its broader environmental impacts and emphasizing the urgency for further research and regulatory actions to mitigate its risks.",
+  "publication_date": "2025-05-09",
+  "journal": "Journal of hazardous materials",
+  "doi": "10.1016/j.jhazmat.2025.138546"
+}

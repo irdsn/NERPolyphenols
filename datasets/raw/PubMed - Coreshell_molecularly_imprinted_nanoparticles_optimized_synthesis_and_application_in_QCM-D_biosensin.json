@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Core/shell molecularly imprinted nanoparticles: optimized synthesis and application in QCM-D biosensing.",
+  "abstract": "Molecularly imprinted nanoparticles (MI-NPs) are synthetic receptors with high selectivity and stability, offering advantages for biosensing applications. In this study, we developed and optimized core/shell molecularly imprinted nanoparticles (CS-MI-NPs) tailored for quartz crystal microbalance with dissipation monitoring (QCM-D) sensors. The nanoparticles were synthesized through a controlled sol-gel process, achieving tunable sizes (22-63 nm) and high monomer conversion. Functionalization with amine and vinyl groups facilitated imprinting of a selective shell, enhancing the recognition capabilities of CS-MI-NPs. The optimized system demonstrated significantly improved binding performance, with a specific surface area increase of 260-270% and a target protein retention rate of 34-37%, compared to 6-12% in non-imprinted controls. Langmuir modeling confirmed high affinity and selective binding sites, while QCM-D measurements validated efficient immobilization, low nonspecific interactions, and a detection limit of 2.8 nM for streptavidin. Additionally, CS-MI-NPs selectively recognized tannins in complex mixtures, distinguishing between proanthocyanidins, ellagic, and gallic tannins, with detection levels comparable to biologically derived probes. These results highlight CS-MI-NPs as a versatile and high-performance platform for nanostructured biosensors, with potential applications in biomedical diagnostics, environmental monitoring, and food analysis.",
+  "publication_date": "2025-06-02",
+  "journal": "RSC advances",
+  "doi": "10.1039/d5ra02297e"
+}

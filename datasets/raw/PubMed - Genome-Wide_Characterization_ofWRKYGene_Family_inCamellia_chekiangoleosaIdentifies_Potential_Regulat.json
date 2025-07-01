@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Genome-Wide Characterization ofWRKYGene Family inCamellia chekiangoleosaIdentifies Potential Regulatory Components in Pigment Biosynthesis Pathways.",
+  "abstract": "TheWRKYgene family is essential for controlling a variety of plant physiological functions, yet the involvement of specificWRKYmembers in pigment biosynthesis and accumulation inCamellia chekiangoleosaremains unexplored, particularly in anthocyanins and carotenoids, which play crucial roles in the pigmentation ofC. chekiangoleosa. This study systematically identified 87WRKYgenes across 15 chromosomes inC. chekiangoleosathrough bioinformatic approaches. Further structural and phylogenetic analyses of these TFs enabled their classification into six different subgroups.WRKYfamily expansion was shown to be mostly driven by tandem duplication. W-box elements, which can be binding sites for WRKY transcription factors, were present in a number of biosynthetic genes in the pigment production pathway. Yeast one-hybrid assay confirmed that five WRKY transcription factors (CchWRKY15/24/33/47/76) directly bind to the promoter regions of two key biosynthetic genes,CchPSY1andCch4CL1. Intriguingly, among the five WRKYs tested, the expression levels of CchWRKY15, CchWRKY33, and CchWRKY47 showed the strongest positive associations with flavonoid accumulation (p< 0.05, Pearson correlation analysis).These findings provide novel insights into the evolutionary patterns, transcriptional regulation, and functional characteristics of CchWRKYs, while elucidating their possible regulatory mechanisms in the fruit coloration ofC. chekiangoleosa.",
+  "publication_date": "2025-05-12",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26104622"
+}

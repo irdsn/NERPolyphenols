@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Identification of antifungal metabolites from a soil-derived Streptomyces strain active against Fusarium graminearum using genome mining.",
+  "abstract": "Microbes derived from soil environments are well-recognized as prolific producers of bioactive secondary metabolites, making significant contributions to the advancement of antibiotic research. In this study, we isolated a soil-derived Streptomyces strain, designated Streptomyces sp. AHU1, which exhibited potent antifungal activity against Fusarium graminearum, the primary causative agent of Fusarium head blight. The potential of Streptomyces sp. AHU1 as a novel phytopathogenic fungicide was validated through in vitro antifungal assays and infection bioassays conducted on wheat seedlings. Whole genome sequencing combined with anti-SMASH genome mining identified approximately 34 biosynthetic gene clusters (BGCs) within the genome of Streptomyces sp. AHU1. Targeted isolation and functional analysis of these BGCs revealed that the antifungal activity is primarily attributed to lucensomycin, a previously characterized antifungal compound. This study underscores the potential of Streptomyces sp. AHU1 as a promising agent for sustainable crop protection and highlights the effectiveness of integrating bioassay-based screening with genome mining for BGC characterization as a robust strategy for the discovery of novel phytopathogenic fungicides.",
+  "publication_date": "2025-06-13",
+  "journal": "Biotechnology letters",
+  "doi": "10.1007/s10529-025-03605-4"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Transcriptomics and metabolomics analyses of the effects of plant age and organ on caffeic acid derivative accumulation in Echinacea purpurea.",
+  "abstract": "Echinacea purpurea (L.) Moench (E. purpurea) is a perennial herbaceous plant used worldwide for medicinal purposes. Caffeic acid derivatives (CADs), such as chicoric acid, caftaric acid, and chlorogenic acid, are its key active ingredients with anti-inflammatory and immunomodulatory properties. The differences in the accumulation of CADs at different ages and in different organs of E. purpurea remain unclear. In this study, we investigated the roots of 1-3-year-old E. purpurea plants and organs of 2-year-old plants. The highest levels of total polyphenols and CADs were observed in 3-year-old roots and 2-year-old flowers. To identify the synthetic and regulatory genes related to CAD accumulation, we conducted transcriptome and metabolome analyses of these samples. The combined analyses identified 21 candidate genes that showed strong correlations with CAD accumulation. Among them, 14 were identified as novel potential regulators. In addition, weighted gene co-expression network analysis was performed to identify several transcription factors highly correlated with chicoric acid synthesis-related genes, including the AP2/ERF, WRKY, and B3-ARF families. Transient expression of ARF9 (Unigene_218732) in E. purpurea significantly increased accumulation of chicoric acid, whereas ERF5L (Unigene_012493) and AP2L13 (Unigene_055544) negatively regulated accumulation. This study advances our understanding of the mechanisms underlying CAD accumulation and provides a theoretical foundation for the rational utilization and evaluation of E. purpurea resources.",
+  "publication_date": "2025-05-19",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.110051"
+}

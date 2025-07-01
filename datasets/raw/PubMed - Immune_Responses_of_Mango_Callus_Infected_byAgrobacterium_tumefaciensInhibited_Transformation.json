@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Immune Responses of Mango Callus Infected byAgrobacterium tumefaciensInhibited Transformation.",
+  "abstract": "Mango is a vital fruit crop in tropical and subtropical regions, yet pests and diseases cause 30-70% production losses. Developing disease-resistant cultivars through transgenic methods could mitigate these issues.Agrobacterium-mediated callus transformation is a common genetic engineering approach, but successful transgenic mango plants from callus remain unreported due to severe browning and necrosis post-infection. We hypothesized thatAgrobacterium-induced immune responses trigger callus death, hindering transformation. To improve efficiency, we engineered anAgrobacteriumstrain carrying the type III secretion system (T3SS) and effector geneAvrPto. Compared to controls, infected calluses exhibited elevated reactive oxygen species (ROS), along with up-regulated ROS-related, gallic acid biosynthesis, and defense genes. Calluses infected with T3SS-AvrPto-harboringAgrobacteriumshowed delayed browning and necrosis versus those infected with the empty vector (NV). The transformation rate withAgrobacterium(T3SS-AvrPto-EGFP) reached 1.6%, whileAgrobacterium(NV-EGFP) failed entirely. These findings demonstrate that T3SS andAvrPtoenhance mango transformation efficiency, offering a promising strategy for breeding multi-resistant varieties.",
+  "publication_date": "2025-05-22",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26115006"
+}

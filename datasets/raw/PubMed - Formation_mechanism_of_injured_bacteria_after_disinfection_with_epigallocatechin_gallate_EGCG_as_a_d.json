@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Formation mechanism of injured bacteria after disinfection with epigallocatechin gallate (EGCG) as a disinfectant.",
+  "abstract": "This study explored the effects of epigallocatechin gallate (EGCG), the main antibacterial component of tea polyphenols, onEscherichia coliin terms of disinfection damage and the underlying mechanisms. The researchers assessed inactivation and injury rates, cell morphology, and antioxidant indicators ofE. coliwhen subjected to different concentrations of EGCG. The results showed that varying EGCG concentrations produced damaged bacteria, with the extent of damage depending on EGCG dosage and treatment duration. The disinfection process involving EGCG resulted in oxidative damage inE. coli, evoking alterations in the antioxidant system of the affected bacteria. During disinfection-induced bacterial injury,E. colishowed the active regulation of metabolism and redox activities in response to EGCG-induced environmental stimuli. Transcriptomic analysis was conducted to investigate the damage mechanism at the gene level. The damagedE. colicountered oxidative stress by adjusting gene expression related to peroxidase and glutathione metabolism processes. In this way,E. coliadjusts its gene expression to alleviate the detrimental effects of EGCG-induced oxidative stress and maintain cellular homeostasis. These findings contribute to our understanding of tea polyphenols' disinfection effects and provide insights into EGCG's mechanisms of damaging bacteria such asE. coli.",
+  "publication_date": "2024-07-24",
+  "journal": "Journal of water and health",
+  "doi": "10.2166/wh.2024.145"
+}

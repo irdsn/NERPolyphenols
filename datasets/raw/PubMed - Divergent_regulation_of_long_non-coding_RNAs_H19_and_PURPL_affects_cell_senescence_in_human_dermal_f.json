@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Divergent regulation of long non-coding RNAs H19 and PURPL affects cell senescence in human dermal fibroblasts.",
+  "abstract": "Cellular senescence is a permanent cell growth arrest that occurs in response to various intrinsic and extrinsic stimuli and is associated with cellular and molecular changes. Long non-coding RNAs (lncRNAs) are key regulators of cellular senescence by affecting the expression of many important genes involved in senescence-associated pathways and processes. Here, we evaluated a panel of lncRNAs associated with senescence for their differential expression between young and senescent human dermal fibroblasts (NHDFs) and studied the effect of a known senomorphic compound, resveratrol, on the expression of lncRNAs in senescent NHDFs. As markers of senescence, we evaluated cell growth, senescence-associated (SA)-β-Gal staining, and the expression of p21, Lamin B1 and γH2AX. We found that H19 and PURPL were the most altered lncRNAs in replicative, in doxorubicin (DOXO) and ionising radiation (IR)-induced senescence models. We then investigated the function of H19 and PURPL in cell senescence by siRNA-mediated silencing in young and senescent fibroblasts, respectively. Our results showed that H19 knockdown reduced cell viability and induced cell senescence and autophagy of NHDFs through the regulation of the PI3K/AKT/mTOR pathway; conversely, PURPL silencing reversed senescence by reducing (SA)-β-Gal staining, recovering cell proliferation with an increase of S-phase cells, and reducing the p53-dependent DNA damage response. Overall, our data highlighted the role of H19 and PURPL in the senescent phenotype and suggested that these lncRNAs may have important implications in senescence-related diseases.",
+  "publication_date": "2024-10-22",
+  "journal": "GeroScience",
+  "doi": "10.1007/s11357-024-01399-3"
+}

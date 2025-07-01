@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Rational Design of Methylene Blue-Raloxifene Conjugates for Efficient Breast Tumor Elimination Triggered by ERα Degradation.",
+  "abstract": "Small molecules capable of degrading estrogen receptor α (ERα) are of significant interest in breast cancer treatment. Herein, we rationally designed a series of ERα degraders (MR1-MR3) by conjugating methylene blue, a bifunctional photosensitizer, with the raloxifene pharmacophore. The lead compoundMR3exhibited high affinity to ERα, and it can induce a complete depletion of ERα in MCF7 breast cancer cells after 660 nm irradiation (0.4 W/cm2) for 1 min. Owing to the ERα degradation merit,MR3displayed a 45-fold boosted anticancer activity (IC50= 0.55 μM) after irradiation. In the breast cancer xenograft mouse model,MR3induced an obvious tumor regression (tumor growth inhibition = 118%), which was superior to that of the FDA-approved ERα degraderFaslodex. These important features makeMR3extremely intriguing for breast cancer treatment.",
+  "publication_date": "2025-04-11",
+  "journal": "Journal of medicinal chemistry",
+  "doi": "10.1021/acs.jmedchem.5c00490"
+}

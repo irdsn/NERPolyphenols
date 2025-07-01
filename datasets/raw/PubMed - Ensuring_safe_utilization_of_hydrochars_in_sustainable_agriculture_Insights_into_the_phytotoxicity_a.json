@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Ensuring safe utilization of hydrochars in sustainable agriculture: Insights into the phytotoxicity and plant-promoting effects of low molecular weight organic compounds (LMWOCs) based on the untargeted metabolomics analysis.",
+  "abstract": "Hydrothermal carbonization (HTC) converts agricultural residues into hydrochar for soil amendment, yet its phytotoxicity limits agricultural application. This study investigates hydrochar-derived dissolved organic matter (DOM) to unravel phytotoxicity mechanisms and proposes co-HTC as a mitigation strategy. Untargeted metabolomics identified low molecular weight organic compounds (LMWOCs) in hydrochar extracts from lignocellulosic biomass (ZB), swine manure (SM), and their 1:1 mixture. Seed germination assays revealed phytotoxicity (germination index [GI] reduction by 18.6-96.0 %) linked to phenolic derivatives, PAHs and furans, which increased with HTC temperature and lignocellulosic content. Co-HTC of ZB with SM reduced phytotoxic LMWOCs by 63.9-90.7 % through feedstock interactions, while enriching growth-promoting indoles and amino acids. Random forest modeling identified 4-methylcatechol, tyrosol and 5-HMF (r = -0.81 to -0.88) as dominant phytotoxins, validated via dose-response assays. Response surface optimization demonstrated non-toxic hydrochar (GI >70 %) production at 200 °C with 40-60 % ZB, balancing waste valorization and crop safety. This work elucidates the chemical basis of hydrochar phytotoxicity and establishes co-HTC as a sustainable strategy for safe agricultural reuse.",
+  "publication_date": "2025-06-16",
+  "journal": "Environmental research",
+  "doi": "10.1016/j.envres.2025.122168"
+}

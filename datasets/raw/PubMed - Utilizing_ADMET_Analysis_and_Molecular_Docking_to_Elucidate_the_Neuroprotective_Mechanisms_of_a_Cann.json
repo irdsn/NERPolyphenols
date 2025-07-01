@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Utilizing ADMET Analysis and Molecular Docking to Elucidate the Neuroprotective Mechanisms of a Cannabis-Containing Herbal Remedy (Suk-Saiyasna) in Inhibiting Acetylcholinesterase.",
+  "abstract": "Alzheimer's disease is characterized by the degeneration of cholinergic neurons, which is primarily driven by the acetylcholinesterase (AChE) enzyme and oxidative stress. This study investigated the therapeutic potential of the cannabis-containing herbal remedy Suk-Saiyasna in alleviating amyloid β42 (Aβ42)-induced cytotoxicity in SH-SY5Y cells. The DPPH radical-scavenging activity and inhibitory effects on AChE were evaluated in vitro. The AChE inhibitory potential of 167 ligands, including cannabinoids, flavonoids, terpenoids, and alkaloids derived from Suk-Saiyasna, was assessed using ADMET analysis and molecular docking techniques. The results demonstrated that the Suk-Saiyasna extract exhibited a DPPH radical scavenging effect with an IC50value of 27.40 ± 1.15 µg/mL and notable AChE inhibitory activity with an IC50of 1.25 ± 0.35 mg/mL. Importantly, at a concentration of 1 µg/mL, the extract significantly protected cells from Aβ42-induced stress compared to controls. Docking studies revealed that delta-9-tetrahydrocannabinol (Δ9-THC), mesuaferrone B, piperine, β-sitosterol, and chlorogenic acid exhibited substantial binding affinities to AChE, surpassing reference drugs like galantamine and rivastigmine. Furthermore, in silico ADMET predictions indicated that Δ9-THC and piperine possessed favorable pharmacokinetic profiles, including solubility, absorption, and blood-brain barrier permeability, with no neurotoxicity or carcinogenicity associated with Δ9-THC.",
+  "publication_date": "2025-03-29",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26073189"
+}

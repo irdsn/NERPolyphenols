@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Metabolomic profiles and differential metabolites in the fruiting bodies of Morchella spp. infected with white mold at different degrees.",
+  "abstract": "White mold is one of the most common and serious fungal diseases of morel affecting the entire growth cycle. Studies show that when infected, plants defend against pathogens by regulating metabolic responses within their systems. A total of 310 metabolites for infecting Paecilomyces penicillatus in morel mushrooms were identified by UPLC-MS/MS. Most metabolites showed an intuitive downward trend during infection and reached their lowest levels at the third stage. For PCA and HCA, infection period had a significant effect on metabolites, and the second stage was the key turning point for metabolite accumulation in response to disease. Correlation analysis of the top 50 differential metabolites with the highest VIP values screened by OPLS-DA suggested that lipids, nucleotides and their derivatives, sugars, organic acids, phenolic acids and alkaloids may respond synergistically to disease during infection. Taken together, this study provided an entry point for studying white mold pathogenesis in morel.",
+  "publication_date": "2025-03-14",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.143892"
+}

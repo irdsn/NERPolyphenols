@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Antioxidants as Modulators of NETosis: Mechanisms, Evidence, and Therapeutic Potential.",
+  "abstract": "Neutrophil extracellular trap (NET) formation is a process known as NETosis and is a critical innate immune response mechanism that can become pathologically dysregulated in various inflammatory, autoimmune, infectious, and neoplastic diseases. Reactive oxygen species (ROS) play a central role in NETosis induction, making antioxidants a promising therapeutic approach. This review outlines the molecular mechanisms underlying NET formation and highlights three principal antioxidant-based inhibitory strategies: NADPH oxidase (NOX) inhibition, ROS scavenging, and myeloperoxidase (MPO) inhibition. Evidence supports the use of agents such as diphenylene iodonium (NOX inhibitor), N-acetylcysteine and glutathione (ROS scavengers), and thiocyanate (MPO inhibitor), which significantly reduce NETosis in vitro and in vivo. Moreover, natural compounds like resveratrol show pleiotropic effects by modulating neutrophil activation, ROS production, and protease activity. Combination therapies that enhance total antioxidant capacity are particularly effective, though their translation to clinical practice faces challenges such as stimulus specificity, bioavailability, and maintaining immune competence. Antioxidant-based therapies thus represent a promising avenue for targeted NETosis modulation. Future research should focus on improving delivery systems, identifying NET-specific biomarkers, and integrating antioxidants into broader immunomodulatory strategies.",
+  "publication_date": "2025-05-30",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26115272"
+}

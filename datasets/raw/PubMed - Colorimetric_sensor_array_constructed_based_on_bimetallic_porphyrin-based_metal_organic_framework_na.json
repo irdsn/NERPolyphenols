@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Colorimetric sensor array constructed based on bimetallic porphyrin-based metal organic framework nanozyme for the detection and recognition of tannic acid.",
+  "abstract": "Colorimetric sensor arrays based on nanozymes hold promise for the simultaneous detection of multiple target analytes, but the rational design of nanozymes with high catalytic activity remains a major challenge. Herein, a porphyrin-based metal organic framework (Zr-MOFFe/CuPh) with bimetallic reaction centers (M - N4) were prepared by solvothermal method. Zr-MOFFe/CuPhnanozyme formed a redox cycle between different valence states, which significantly improved the peroxidase-like activity of the nanozyme, and further revealed its catalytic mechanism. In view of tannic acid (TA) can effectively inhibit nanozyme activity, an enzyme-driven colorimetry method was designed to detect TA, the method showed a good linear relationship in the range of 0.5-6.0 μM and the detection limit was as low as 0.143 μM. Interestingly, due to the varying inhibition levels of antioxidant molecules, resulting in different colorimetric response and forming a unique \"fingerprint\". A three-channel colorimetric sensor array to accurately identify and detect TA and other antioxidants was developed based on Zr-MOFFe/CuPhas a single sensing receptor. The proposed colorimetric sensor array achieved 100 % accuracy in identifying TA and other antioxidants, and was capable of measuring TA in real samples. This work not only designed an effective method for the TA detection, but also carried out a promising way for the application of bimetallic nanozymes in food monitoring.",
+  "publication_date": "2025-04-30",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144592"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Spectral analysis and computational simulation to investigate the synergistic mechanism of L-theanine and epigallocatechin gallate in inhibiting α-glucosidase activity.",
+  "abstract": "Natural products are gaining attention as α-glucosidase (α-GLU) inhibitors owing to their safety and multifunctionality. L-theanine (THE) and epigallocatechin gallate (EGCG) in tea have inhibitory effects, but whether their synergistic inhibition of α-GLU remains unclear. This study investigated the synergistic mechanism of THE and EGCG in inhibiting α-GLU activity using spectral analysis and computational simulation. The results showed that a combination of 1.6 mM THE and 0.11 mM EGCG significantly enhanced α-GLU inhibition. Fluorescence quenching experiments revealed that EGCG did not alter the static quenching pattern of THE on α-GLU. However, it promoted enzyme conformational changes. Multi-spectral analysis and molecular dynamics simulations further demonstrated that THE and EGCG interacted non-covalently with key α-GLU residues (ASP-242, PHE-303, and PRO-312, etc.), disrupting the active site structure, reducing its catalytic efficiency. These findings provide valuable insight into the synergistic inhibition of α-GLU by natural active ingredients, with potential applications in functional foods.",
+  "publication_date": "2025-05-21",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144858"
+}

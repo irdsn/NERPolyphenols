@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Risk factors for developing hypertension in patients with type 2 diabetes: A cross-sectional study.",
+  "abstract": "This study explores the prevalence of hypertension in patients with type 2 diabetes mellitus (T2DM) and identifies the potential risk factors associated with the development of hypertension. A cross-sectional study was conducted among 699 T2DM patients. Demographic data and clinical parameters were collected using structured questionnaires and physical examinations. Binary logistic regression was used to assess associations between hypertension and potential risk factors, adjusting for confounders. Body mass index was positively associated with uric acid levels and high-density lipoprotein cholesterol (HDL-c) in the non-hypertensive group. In the hypertensive group, HDL-c was positively correlated with fasting insulin, postprandial insulin, and triglycerides. The primary factors associated with hypertension in patients with T2DM include glycosylated hemoglobin A1C (odds ratio [OR] = 0.54, 95% confidence interval [CI]: 0.32-0.92, P = .02), HDL-c (OR = 0.54, 95% CI: 0.23-0.86, P = .02), education level (OR = 0.44, 95% CI: 0.23-0.82, P = .01), lactate dehydrogenase (OR = 1.01, 95% CI: 1.00-1.02, P = .01), urinary albumin-to-creatinine ratio (OR = 0.97, 95% CI: 0.94-1.00, P = .03), and microalbumin (OR = 1.01, 95% CI: 1.00-1.01, P = .02). Hemoglobin A1c, HDL-c, lactate dehydrogenase, urinary albumin-to-creatinine ratio, microalbumin, and postprandial insulin are critical predictors of hypertension in individuals with T2DM. In conjunction with lifestyle modifications aimed at weight management and glycemic control, regular monitoring of these biomarkers is recommended to prevent hypertension in diabetes management.",
+  "publication_date": "2025-06-01",
+  "journal": "Medicine",
+  "doi": "10.1097/MD.0000000000043104"
+}

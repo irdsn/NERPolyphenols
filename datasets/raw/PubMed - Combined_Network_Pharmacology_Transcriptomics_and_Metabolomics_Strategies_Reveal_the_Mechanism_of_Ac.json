@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Combined Network Pharmacology, Transcriptomics and Metabolomics Strategies Reveal the Mechanism of Action of Lang Chuang Wan to Ameliorate Lupus Nephritis in MRL/lpr Mice.",
+  "abstract": "Background: Lupus nephritis (LN) is a serious complication of systemic lupus erythematosus (SLE) and is difficult to cure. Lang Chuang Wan (LCW) has been widely used in clinical practice as a treatment for SLE and LN, but its active ingredients and mechanism of action have not been elucidated. To address this, we aim to analyze LCW's chemical components and clarify its mechanisms in treating LN.Methods: We utilized ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) to analyze the components of LCW and assessed its effects on MRL/lpr mice through ELISA, H&E staining, Masson's trichrome staining, and IgG immunofluorescence. Then, we further explored the mechanisms of action through network pharmacology, transcriptomics, and metabolomics, and validated with Western blot.Results: LCW contained 1303 chemical components, primarily flavonoids and terpenoids. It significantly improved kidney pathology and normalized levels of serum ANA, anti-dsDNA, anti-Sm, C3, C4, Cr, BUN, IL-6, IL-10, IL-17, TNF-α, and urinary protein (UP) in MRL/lpr mice. Network pharmacology, transcriptomics, and metabolomics indicated that LCW's therapeutic effect on LN involved the PI3K/AKT pathway, confirmed by Western blot showing LCW's suppression of the PI3K/AKT/mTOR pathway.Conclusions: LCW alleviates pathological symptoms in MRL/lpr mice by inhibiting the PI3K/AKT/mTOR signaling pathway, providing insights into its therapeutic mechanisms for lupus nephritis.",
+  "publication_date": "2025-06-18",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18060916"
+}

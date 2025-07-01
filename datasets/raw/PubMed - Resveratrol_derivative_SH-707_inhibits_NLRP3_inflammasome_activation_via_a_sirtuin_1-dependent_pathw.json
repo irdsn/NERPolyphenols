@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Resveratrol derivative SH-707 inhibits NLRP3 inflammasome activation via a sirtuin 1-dependent pathway.",
+  "abstract": "The nucleotide-binding oligomerization domain-like receptors protein 3 (NLRP3) inflammasome is a protein complex that plays a crucial role in initiating immune responses to harmful stimuli. However, excessive activation of the NLRP3 inflammasome can cause acute and chronic inflammation, leading to the progression of various inflammatory diseases, such as arthritis, inflammatory bowel disease, and sepsis. Resveratrol (RSV) is a polyphenolic compound found in plants with anti-inflammatory and antioxidant properties. Among the previously synthesized and purified RSV derivatives, SH-707 was identified as a novel therapeutic candidate for inflammatory diseases due to its ability to target the NLRP3 inflammasome. Thus, this study aimed to investigate the therapeutic effects of SH-707 on lipopolysaccharide-induced sepsis. SH-707 significantly decreased interleukin-1β (IL-1β) secretion and pyroptosis in macrophages, which are associated with the activation of the NLRP3 inflammasome. Furthermore, the IL-1β inhibitory effect of SH-707 surpassed that of conventional RSV. SH-707 treatment increased the expression of sirtuin (SIRT) 1 and SIRT3 in macrophages. However, SH-707 inhibited NLRP3 inflammasome activation primarily through the SIRT1 signaling pathway, rather than SIRT3. Furthermore, SH-707 exerted significant therapeutic effects in the lipopolysaccharide-induced septic mouse model by reducing IL-1β and inflammation in lung tissue. Investigating SH-707 and its molecular mechanism offers the potential for novel therapeutic strategies in inflammasome-mediated diseases.",
+  "publication_date": "2025-06-15",
+  "journal": "International immunopharmacology",
+  "doi": "10.1016/j.intimp.2025.115049"
+}

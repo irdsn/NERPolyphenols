@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "In vitro bioactivity and metabolomics of green tea processed from raw materials of different.",
+  "abstract": "Tea maturity significantly influences processing quality and classification; however, research in this area remains limited, leading to challenges in classifying and processing mechanically harvested tea leaves. This study systematically examined the effects and applicability of different maturity levels on green tea processing using computer vision, taste evaluation, metabolomics, and microplate reader detection. Results showed that bud green tea (BGT) exhibited the highest yellowness, umami, bitterness, antioxidant activity, andα-glucosidase andα-amylase inhibitory activities, while tea stems (TS) had the lowest greenness and the strongest astringency. Non-targeted metabolomics identified 30 differential metabolites, revealing that the growth of tea leaves at different maturity levels depends on both specific and common metabolites. Correlation analysis indicated that high levels ofL-glutamic acid, gallic acid, theogallin, and galloylated catechins (EGCG, ECG) in BGT contributed to its umami and bitterness, whereas the strong astringency of TS was attributed to high levels of non-galloylated catechins (EC, C), 4-O-p-coumaroylquinic acid, procyanidin B2, and rutin. Additionally, potential biosynthetic pathways in tea plants and variations in differential metabolite content across samples were further annotated. This study proposed a \"raw material maturity-processing suitability\" model, providing a scientific basis for the high-quality utilization of mechanically harvested tea leaves.",
+  "publication_date": "2025-05-19",
+  "journal": "Current research in food science",
+  "doi": "10.1016/j.crfs.2025.101076"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "An Artificial Peroxynitrite-Resistant Superoxide Dismutase for Acute Kidney Injury Alleviation.",
+  "abstract": "Manganese superoxide dismutase (Mn-SOD) is the most common natural antioxidant enzyme that defends cells against oxidative stress. However, it is intrinsically vulnerable to nitration by peroxynitrite (ONOO-) to result in accumulation of reactive oxygen species and inducement of acute kidney injury (AKI). Designing Mn-SOD mimics that are both active and resistant to ONOO-is essential for advancing artificial enzymes and broadening the application of enzymatic catalytic therapies. Herein, an artificial manganese-based single-atom nanozymes (Mn-O5/CN SAzyme) featuring square-pyramidal Mn-O5active sites and abundant hydroxyl groups is presented. Mn-O5/CN SAzyme demonstrates excellent biocompatibility, superior SOD-like activity, and tolerance to ONOO-, positioning it as a promising artificial enzyme mimics for alleviating AKI. Theoretical calculations suggest that the square-pyramidal Mn-O5coordination in Mn-O5/CN SAzyme enhances its SOD-like activity and ONOO-resistance. Mn-O5/CN SAzyme has high antioxidant efficacy toward HK-2 cells. It significantly reduces renal oxidative stress and inflammation in AKI mice, without any side effects. Mechanistically, Mn-O5/CN SAzyme alleviates AKI by suppressing the pro-inflammatory cytokine cascade driven by the NOD-like receptor protein 3 (NLRP3)/caspase-1/gasdermin D pathway. This study highlights the crucial role of the Mn-O5coordination structure in enhancing SOD-like activity and ONOO-resistance, presenting a novel strategy for treating inflammatory diseases.",
+  "publication_date": "2025-06-26",
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "doi": "10.1002/smll.202503033"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Hierarchical mesoporous ZIF-8-immobilized enzyme microreactor coupled with HPLC for screening of α-glucosidase inhibitors from green tea.",
+  "abstract": "Hierarchical mesoporous ZIF-8 (HZIF-8) was synthesized using a thermosensitive hydrogel as a soft template. Zinc ions (Zn2+) were uniformly dispersed on the hydrogel surface through metal-ion coordination with salicylic acid and melamine, followed by coordination with 2-methylimidazole at room temperature. After the thermal removal of salicylic acid and melamine, HZIF-8 was obtained which exhibited a bimodal pore structure comprising both micropores and mesopores. α-Glucosidase (α-Glu) was encapsulated into HZIF-8 via an in-situ diffusion method to construct an immobilized α-Glu microreactor. The morphological and structural characteristics of HZIF-8 before and after α-Glu immobilization were thoroughly characterized using Fourier transform infrared spectroscopy (FT-IR), electron microscopy, X-ray diffraction (XRD), and Brunauer-Emmet-Teller (BET) analysis. The immobilization optimization studies revealed that the optimal immobilization time was 3 h, and the ideal mass ratio of HZIF-8 to α-Glu was 5:2 (w/w). Under these conditions, the α-Glu loading capacity reached 82.09 μg/mg, and the immobilized α-Glu microreactor still retained 70% enzyme activity after seven cycles. The application of the HZIF-8-α-Glu microreactor was verified by coupling with high performance liquid chromatography (HPLC) for the offline screening of α-Glu inhibitors in green tea extract. The experimental results demonstrated the application of the immobilized α-Glu microreactor by screening out catechin and epicatechin gallate from the tea extract.",
+  "publication_date": "2025-05-06",
+  "journal": "Mikrochimica acta",
+  "doi": "10.1007/s00604-025-07201-1"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Comprehensive analysis and identification of TCP proteins involved in modulating ABA-induced biosynthesis of tanshinones and phenolic acids in Salvia miltiorrhiza.",
+  "abstract": "Salvia miltiorrhiza is a medicinal plant valued for its bioactive constituents tanshinones and phenolic acids, with established clinical efficacy in treating cardiovascular disorders. Abscisic acid (ABA), an important phytohormone, can effectively promote the biosynthesis of tanshinones and phenolic acids, yet the underlying regulatory mechanisms remain elusive. In this study, we identified a total of 33 SmTCP proteins of S. miltiorrhiza by genome-wide characterization. Bioinformatics analyses revealed their phylogenetic classification, structural features, chromosomal distribution, and conserved domains. Multi-omics profiling identified five candidate genes (SmTCP1/6/17/19/21) showing correlative expression with the ABA-induced biosynthesis of tanshinones and phenolic acids. Functional validation through subcellular localization, Y1H assays, and dual-LUC reporter systems confirmed their regulatory roles in tanshinone and phenolic acid production. As the first comprehensive study of TCP transcription factors in S. miltiorrhiza, our findings elucidate molecular mechanisms of ABA-mediated phytochemical regulation and provide potential genetic targets for improving medicinal compound biosynthesis through metabolic engineering.",
+  "publication_date": "2025-05-30",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.110100"
+}

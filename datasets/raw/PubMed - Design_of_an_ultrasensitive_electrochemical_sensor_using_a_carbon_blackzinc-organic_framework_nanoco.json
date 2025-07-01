@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Design of an ultrasensitive electrochemical sensor using a carbon black/zinc-organic framework nanocomposite for quantifying quercetin in fruits.",
+  "abstract": "Quercetin, a potent flavonoid recognized for its antioxidant and anti-inflammatory attributes, is abundantly found in fruits and vegetables, considerably enhancing their health benefits. Monitoring quercetin concentrations in food matrices is crucial for quality assurance, nutritional assessment, and substantiating health claims. We report a unique zinc-based metal-organic framework (Zn-MOF) incorporated with carbon black (CB) to create a highly sensitive electrochemical sensor specifically designed for quercetin detection. The distinctive porous architecture of the Zn-MOF, together with the superior conductivity of carbon black, have a synergistic effect that improves electron transfer. The sensor reports a wide linear range of 0.05-350.9 μM and a lowest detection limit of 3.7 nM. Furthermore, Zn-MOF@CB/GCE demonstrates excellent current retention (95.64 %) over a period of one month, together with commendable repeatability and reproducibility. The real-sample study of the proposed sensor demonstrates an effective recovery range for fruits: apple (95.0-99.0 %), grapes (96.0-98.0 %), and guava (97.0-101.0 %).",
+  "publication_date": "2025-06-20",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145222"
+}

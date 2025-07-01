@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "5-O-Methylvisammioside inhibits HMGB1-induced Angiogenesis of hepatocellular carcinoma through RAGE/MEK/ERK signaling pathway.",
+  "abstract": "5-O-Methylvisammioside (5OMV), a flavonol compound derived from the traditional Chinese medicine plant Saposhnikovia divaricat, has been shown to inhibit vasospasm induced by High Mobility Group Box 1 (HMGB1) protein. However, its therapeutic potential and molecular mechanisms in HMGB1-induced tumor angiogenesis remain unexplored. Through comprehensive in vitro assays, we demonstrated that 5OMV significantly attenuates HMGB1-induced proliferation, migration, tube formation, and angiogenic activity in human umbilical vein endothelial cells (HUVECs). Parallel in vivo studies using an orthotopic hepatocellular carcinoma model in C57BL/6 mice revealed that 5OMV treatment markedly reduced tumor progression and microvascular density. Mechanistic studies identified that 5OMV downregulates both total and phosphorylated forms of RAGE, MEK, and ERK in HUVECs and tumor tissues. These findings collectively establish that 5OMV exerts anti-tumor effects in hepatocellular carcinoma through targeted modulation of the HMGB1/RAGE/MEK/ERK signaling axis.",
+  "publication_date": "2025-05-05",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0322056"
+}

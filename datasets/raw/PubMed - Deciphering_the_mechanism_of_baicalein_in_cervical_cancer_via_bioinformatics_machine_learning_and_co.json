@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Deciphering the mechanism of baicalein in cervical cancer via bioinformatics, machine learning and computational simulations: PIM1 and CDK2 are key target proteins.",
+  "abstract": "Cervical cancer is one of the leading causes of death among women worldwide. Current treatments are limited by chemoresistance and chemotherapeutic agents' adverse effects, prompting the search for better therapeutic alternatives. Baicalein, a natural compound with potent antitumor activity and low toxicity, has drawn significant attention. However, the precise mechanisms of baicalein against cervical cancer remain to be fully elucidated. In this study, bioinformatics and machine learning algorithms predicted six potential core targets of baicalein against cervical cancer. Molecular docking and molecular dynamics simulations were employed to further validate these targets, with a focus on assessing their binding affinity and stability. The molecular docking results demonstrated that five of the core targets exhibited significant binding affinity with baicalein. Notably, PIM1 and CDK2 showed stable binding conformations in molecular dynamics simulations. GO and KEGG enrichment analyses indicated baicalein might regulate cell cycle progression via histone kinase - mediated phosphorylation modifications. Thus, baicalein likely suppresses cervical cancer cells' abnormal proliferation by inhibiting PIM1 and CDK2 activity, inducing cell cycle arrest.",
+  "publication_date": "2025-05-06",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144014"
+}

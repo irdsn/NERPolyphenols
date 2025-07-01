@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Therapeutic targeting of circTNK2 with nanoparticles restores tamoxifen sensitivity and enhances NK cell-mediated immunity in ER-positive breast cancer.",
+  "abstract": "Endocrine resistance is a leading cause of relapse in patients with estrogen receptor (ER)-positive breast cancer (ER+BC), with tamoxifen resistance being the most prevalent form. circTNK2, a circular RNA, is overexpressed in tamoxifen-resistant BC tissues and is correlated with poor prognosis. circTNK2 encodes a novel 487-amino acid protein, termed C-TNK2-487aa, which inhibits the recruitment of natural killer (NK) cells into BC tumors. Mechanistically, C-TNK2-487aa interacts with STAT3 and promotes STAT3 phosphorylation (p-STAT3) in ER+BC cells. The increased p-STAT3 competes with STAT1 binding, inhibiting the formation of STAT1 homodimers that induces CXCL10 expression, ultimately leading to immune evasion. Additionally, circTNK2 RNA binds to SRSF1 and promotes tamoxifen resistance and BC tumorigenicity by activating AKT-mTOR signaling. Delivery of BC-targeting ZIF-8 nanoparticles loaded with circTNK2 antisense oligonucleotides (ASOs) and a CXCL10-encoding plasmid DNA markedly suppresses the growth of BC tumor xenografts, restores tamoxifen sensitivity, and increases CD56+NK cell infiltration into BC tumors. Our data describe a critical role of the circTNK2-encoded peptide and its RNA in ER+BC resistance to tamoxifen and immune evasion, providing a therapeutic vulnerability in treating tamoxifen-resistant breast cancer.",
+  "publication_date": "2025-05-24",
+  "journal": "Cancer letters",
+  "doi": "10.1016/j.canlet.2025.217823"
+}

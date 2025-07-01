@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Metabolomic Insights into the Adaptations and Biotechnological Potential ofEuglena gracilisUnder Different Trophic Conditions.",
+  "abstract": "Euglena gracilisis a metabolically versatile microalga capable of thriving under photoautotrophic (light, no ethanol), mixotrophic (light with 1%v/vethanol), and heterotrophic (dark with 1%v/vethanol) conditions. Here, we applied untargeted LC-MS metabolomics (Agilent 1290 LC, 6545XT QTOF-MS; Agilent Technologies, Santa Clara, California, USA) to investigate its trophic-mode-dependent metabolic adaptations and assess its biotechnological potential. Metabolites were separated on a C18 column and analyzed in both positive and negative ion modes. Multivariate analyses (PCA and sPLS-DA) revealed clear and reproducible metabolic separations among growth modes (p< 0.001). Photoautotrophic cultures were enriched in phenolic acids, flavonoids, and lipid classes associated with oxidative stress protection. Mixotrophy induced a broader spectrum of upregulated metabolite classes, including saccharolipids, macrolactams, and triterpenoids, reflecting a hybrid metabolism combining photosynthesis and ethanol utilization. Heterotrophic cultures showed elevated levels of polyamines and amino acids (e.g., putrescine, proline), indicative of redox regulation and stress adaptation in dark, ethanol-rich conditions. Class-level comparisons identified distinct and shared metabolite categories, with photoautotrophy favoring antioxidant biosynthesis and mixotrophy supporting metabolic diversity. These findings provide metabolite-level insights into the extraordinary plasticity ofE. gracilisand offer a framework for optimizing cultivation strategies to enhance the targeted production of high-value bioproducts.",
+  "publication_date": "2025-05-22",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14111580"
+}

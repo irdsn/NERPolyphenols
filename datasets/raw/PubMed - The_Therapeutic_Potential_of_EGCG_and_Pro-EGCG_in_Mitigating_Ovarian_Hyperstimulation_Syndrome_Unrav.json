@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "The Therapeutic Potential of EGCG and Pro-EGCG in Mitigating Ovarian Hyperstimulation Syndrome: Unraveling the Modulatory Mechanism through the VEGF Pathway.",
+  "abstract": "Ovarian hyperstimulation syndrome (OHSS) is a severe complication of controlled ovarian hyperstimulation (COH) duringin vitrofertilization (IVF) treatment, characterized by increased capillary permeability. Vascular endothelial growth factor (VEGF) is a key mediator in OHSS, with serum VEGF levels correlating with its severity. In this study, we investigated the therapeutic potential of (-)-epigallocatechin-3-gallate (EGCG) and its derivative, Pro-EGCG, in mitigating OHSS. Using bothin vitroandin vivomodels, including primary human granulosa-lutein cells, the human granulosa-like tumor KGN cell line, and a rat OHSS model induced with pregnant mare serum gonadotropin, we found that EGCG and Pro-EGCG significantly reduced OHSS progression. This was supported by histological analyses, reductions in ovarian weight, and decreased VEGF expression at both transcriptomic and proteomic levels. Mechanistic studies revealed that EGCG and Pro-EGCG inhibit TGF-β-induced VEGF production through suppression of the TGF-β/Smad and PKA-CREB signaling pathways. RNA sequencing further validated the downregulation of VEGF expression following treatment. These findings highlight the potential of EGCG as a novel adjuvant therapy for managing OHSS, providing a mechanistic basis for its clinical application.",
+  "publication_date": "2025-04-22",
+  "journal": "International journal of biological sciences",
+  "doi": "10.7150/ijbs.98653"
+}

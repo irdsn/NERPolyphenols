@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Investigating the Role of Surface Confinement and Reaction Dynamics in the Production of Polyphenol-Based Nanoparticles.",
+  "abstract": "The use of polyphenol-based particles as functional materials has demonstrated great promise for applications ranging from targeted therapeutics to environmental remediation due to their biocompatibility, potent reactivity, and modular chemistry. Despite these rich benefits, polyphenols remain difficult to formulate with due to their susceptibility to spontaneous aggregation in aqueous environments. In this study, we explore conditions that leverage this aggregation as a feature to seed the production of monodispersed (polydispersity index of <0.1) nanoparticles with controlled diameters <200 nm. To accomplish this goal, we evaluated the assembly dynamics of a heterogeneous population of green tea extracts in water and investigated the interplay between temperature, time, and surface confinement in both fixed vessels and emulsion droplets on particle size and uniformity. In both cases, homogeneous nanoparticles are created, highlighting a feasible pathway to control and scale the production of polyphenolic nanostructures for future materials applications.",
+  "publication_date": "2025-01-27",
+  "journal": "ACS omega",
+  "doi": "10.1021/acsomega.4c09744"
+}

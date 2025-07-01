@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "VqGT33 responds to biotic and abiotic stress and regulates VqNSTSs expression to enhance powdery mildew resistance in grapevine.",
+  "abstract": "Previously, we identified five stilbene synthase family members, VqNSTS2-VqNSTS6, from Chinese wild grapevine (Vitis quinquangularis) accession 'Danfeng-2' using transcriptome analysis. Promoter sequence analysis revealed that the promoters of all the VqNSTS genes harbor GT transcription factor (TF) binding motifs. Gene correlation analysis revealed a robust relationship between VqGT33 and VqNSTS6. Yeast one hybrid (Y1H) and dual luciferase (DLR) assays confirmed the binding of VqGT33 to VqNSTS2-VqNSTS6 promoters. Further investigation indicated that VqGT33 specifically binds to the GT-box2, GT-box3, and GT-box4 motifs, but not to GT-box1. In comparison to the VvGT33 promoter, we observed both deletion and insertion mutations in the VqGT33 promoter. GUS activity driven by the VqGT33 promoter significantly increased upon inoculation with Erysiphe necator and salicylic acid (SA) compared to the control, while no significant change was observed with the VvGT33 promoter post-infection, suggesting a pathogen-responsive nature of the VqGT33 promoter. Transient overexpression of VqGT33 in leaves enhanced stilbene and SA accumulation after E. necator inoculation, leading to increased resistance. Overexpression of VqGT33 also upregulated VqNSTSs and the disease-resistance genes VqPR1, VqPR5, VqRBOHD, and VqCHIT4C post-infection. Conversely, RNAi silencing of VqGT33 had contrasting effects. These findings suggest that VqGT33 plays a role in responding to powdery mildew (PM), by regulating the expression of VqNSTSs, promoting stilbene accumulation, and enhancing resistance to PM.",
+  "publication_date": "2025-06-18",
+  "journal": "Plant science : an international journal of experimental plant biology",
+  "doi": "10.1016/j.plantsci.2025.112607"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "On the Importance of Balancing the pKaof the Additive in β-Ketoenamine COF Synthesis.",
+  "abstract": "Due to the irreversible tautomerization of imine linkages to their corresponding ketoenamines, β-ketoenamine-linked Covalent Organic Frameworks (COFs) are a stable type of COF that displays high surface areas. In the solvothermal synthesis of such COFs, the use of (acetic) acid is ubiquitous. However, the effect of the added acid on the COF properties (notably their surface area) has never been investigated. Building on an extensive literature overview, we systematically studied the effect of the pKaof several added acids on COF performance characteristics and extended the investigation by including a series of (organo-)bases with varying pKa. Interestingly, the highest BET surface areas, above 1400 m2/g, were found in the alkaline region of the pKawindow, with a maximum near pKa∼10.8 for triethylamine (TEA) and N,N-diisopropylethylamine (DIPEA). Considering the pKavalues related to the three phenolic hydroxyl groups of 2,4,6-triformylphloroglucinol, one of the COF building blocks, these organobases fully deprotonate two of these hydroxyl groups and partly deprotonate the third one, which optimizes the reaction rate of the β-ketoenamine bond formation, explaining the improved COF crystallinity and associated microporosity. The largely overlooked use of organobases in the synthesis of β-ketoenamine-linked COFs thus offers a promising approach to improve the COF performance.",
+  "publication_date": "2025-06-05",
+  "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+  "doi": "10.1002/chem.202501512"
+}

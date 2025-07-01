@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Unveiling the Pyridine Functionalized Dicyanostilbene/Reduced Graphene Oxide Electrode Materials for High Performance Symmetric Supercapacitors.",
+  "abstract": "Pseudocapacitors (PSCs) are attractive alternatives with great potential in the next generation of electrical energy storage (EES) devices. So far, PSCs are mainly fabricated using inorganic transition metal oxides. To overcome the cost and stability issues of such PSCs, organic electrode materials available from renewable sources are attracting researchers' attention. In this study, to enhance the electrochemical performance of PSCs, we non-covalently functionalized reduced graphene oxide (rGO) substrate with a redox-active (2Z,2'Z)-2,2'-(1,4-phenylene)bis(3-(pyridin-4-yl)acrylonitrile) (DCBS), yielding the composite electrode systems. The presence of the pyridine ring system in combination with the nitrile (─C≡N) functional group provides an additional contribution of faradaic reversible redox reactions and stability of the DCBS/rGO electrode in PSC performance. Significantly, our DCBS/rGO composite electrode-based three-electrode supercapacitor (SC) device exhibited excellent specific capacitance of 318.98 F g-1at 0.5 A g-1current density. Moreover, in symmetric supercapacitor (SSC) cell configuration, the DCBS/rGO at 0.5 A g-1current density displayed Cspas high as 135.10 F g-1and an energy density of 24.31 Wh kg-1at 1080 W kg-1power density. The SSC device showed great Cspretention (98.3%) after 10000 galvanostatic charge-discharge (GCD) cycles at a current density of 3 A g-1. The present investigation underscores the DCBS/rGO based electrode materials offer ideas to improve the charge storage capacity, device stability and energy density for supercapacitors.",
+  "publication_date": "2025-06-05",
+  "journal": "Chemistry, an Asian journal",
+  "doi": "10.1002/asia.202500125"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "An efficient ECL aptasensor based on resonance energy transfer between NCDs@Ag3PO4and Cu-doped Cu: Eu MOF for the detection of diethylstilbestrol.",
+  "abstract": "As a synthetic estrogen, diethylstilbestrol (DES) residues in water pose a threat to human health. In this work, a novel electrochemiluminescence resonance energy transfer (ECL-RET) aptamer sensor based on NCDs@Ag3PO4as a resonance energy transfer donor and Cu2+doped Eu MOF (Cu: Eu MOF) as an efficient resonance energy transfer acceptor for the detection of diethylstilbestrol (DES) was proposed for the first time. The aptamer sensor uses Ag3PO4nanoparticles loaded with nitrogen-doped carbon quantum dots (NCDs) as the ECL emitter, which improves the electron transfer efficiency of the sensor and promotes the generation of SO4·-radicals, thereby improving the luminescence intensity and stability of the ECL sensor. The energy acceptor Cu: Eu MOF binds to the apt on NCDs@Ag3PO4by complementary base pairing through complementary DNA (cDNA). When DES is present in the sample, DES competes with the energy acceptor. The stronger interaction between DES and apt leads to the shedding of Cu: Eu MOF-cDNA from the electrode and the recovery of ECL signal. Based on this, under optimal conditions, the linear range of the sensor for detecting DES is 1.0 × 10-13-1.0 × 10-6M, and the detection limit is 7.4 × 10-14M (S/N = 3). The developed aptasensor showed excellent recognition ability for residual DES in actual water samples. The sensor has superior measurement ability and potential application value in the field of environmental water quality monitoring.",
+  "publication_date": "2025-04-08",
+  "journal": "Bioelectrochemistry (Amsterdam, Netherlands)",
+  "doi": "10.1016/j.bioelechem.2025.108987"
+}

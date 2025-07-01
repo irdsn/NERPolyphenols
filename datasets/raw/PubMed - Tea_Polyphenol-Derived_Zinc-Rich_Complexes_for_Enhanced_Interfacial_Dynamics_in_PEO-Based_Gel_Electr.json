@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Tea Polyphenol-Derived Zinc-Rich Complexes for Enhanced Interfacial Dynamics in PEO-Based Gel Electrolytes.",
+  "abstract": "The aqueous zinc-ion battery (AZIB) is regarded as one of the most promising energy storage solutions. However, its widespread adoption is hindered by challenges such as zinc dendrite formation and undesirable side reactions, primarily caused by excess free water molecules and ions. This study introduces an ethylene oxide (PEO)-based gel electrolyte designed to address these limitations. By incorporating a zinc-rich ionic conductor (TP-Zn) that establishes a cross-linked hydrogen bond network, we successfully reduce the crystallinity of the PEO matrix and enhance the ionic conductivity and mechanical strength of the electrolyte. The resulting PGPS@TP-Zn gel electrolyte exhibits a remarkable tensile deformation of up to 1785%. The incorporation of TP-Zn significantly alleviates interfacial challenges between the electrolyte and electrode, leading to a more uniform zinc ion flux distribution. This, in turn, improves ion transport kinetics, resulting in a high ionic conductivity of 1.32 × 10-3S cm-1and a zinc ion transference number of 0.86. Furthermore, the Zn||Zn symmetrical cell shows exceptional stability when using PGPS@TP-Zn, with a cycle life exceeding 3000 h at a current density of 1 mA cm-2and a capacity of 1 mAh cm-2. In addition, the Zn||PGPS@TP-Zn||α-MnO2full cell maintains a capacity retention of 76.9% even after 1000 cycles at a current of 2 A g-1. Remarkably, the assembled pouch cell functions normally even when bent to a maximum angle of 180 degrees. This study highlights the significant practical advantages of the PGPS@TP-Zn gel electrolyte design for advanced AZIB applications.",
+  "publication_date": "2025-02-18",
+  "journal": "ACS applied materials & interfaces",
+  "doi": "10.1021/acsami.4c17361"
+}

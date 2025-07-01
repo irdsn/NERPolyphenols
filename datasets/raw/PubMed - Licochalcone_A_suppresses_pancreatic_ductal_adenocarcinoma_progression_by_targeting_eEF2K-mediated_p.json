@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Licochalcone A suppresses pancreatic ductal adenocarcinoma progression by targeting eEF2K-mediated pyroptosis.",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDAC), a highly aggressive malignancy with increasing incidence and low survival rates, urgently requires novel therapeutic strategies to overcome the limitations posed by current treatment agents like gemcitabine. Licochalcone A (LHA), a bioactive flavonoid derived fromGlycyrrhizaspecies, exhibits anticancer properties in multiple cancers, yet its efficacy and mechanisms in PDAC remain unexplored. This study aims to investigate the anticancer potential of LHA in PDAC.In vitroassays demonstrated that LHA dose-dependently inhibited PDAC cell proliferation and induced pyroptosis, a lytic inflammatory cell death, while autophagy inhibition synergistically enhanced the cytotoxicity of LHA. Furthermore, LHA suppressed the migration of PDAC cells. Mechanistically, molecular docking and functional studies revealed that LHA directly binds to eukaryotic elongation factor 2 kinase (eEF2K), reducing its expression and downstream phosphorylation of eukaryotic elongation factor 2 (p-eEF2). Notably, eEF2K overexpression reversed LHA-induced pyroptosis in PDAC cells.In vivo, LHA significantly reduced tumor growth and altered tumor histopathology in a PDAC xenograft model, along with downregulated eEF2K and upregulated pyroptosis executors (GSDMD/GSDME). Collectively, these findings identify LHA as a dual-function agent: a natural eEF2K inhibitor and a pyroptosis inducer with potent antitumor activity against PDAC. This study provides a foundational rationale for further clinical exploration of LHA as a promising chemotherapeutic agent or adjuvant to enhance PDAC treatment outcomes.",
+  "publication_date": "2025-06-11",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1595686"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "A chromosome-levelDendrobium moniliformegenome assembly reveals the regulatory mechanisms of flavonoid and carotenoid biosynthesis pathways.",
+  "abstract": "Dendrobium moniliforme(D. moniliforme) is a traditional medicinal herb widely cultivated in Asia. Flavonoids, one of the largest groups of secondary metabolites in plants, are significant medicinal components inDendrobiumspecies. Several subgroups of R2R3-MYB proteins have been validated to directly regulate flavonoid biosynthesis. Using PacBio sequencing technology, we assembled a high-quality chromosome-levelD. moniliformegenome with a total length of 1.20 Gb and a contig N50 of 3.97 Mb. The BUSCO assessment of genome annotation was 91.4%. By integrating the genome and transcriptome, we identified biosynthesis pathway enzyme genes related to flavonoids, polysaccharides, carotenoids, and alkaloids. A total of 90 R2R3-MYBs were identified inD. moniliformeand classified into 21 subgroups. Studies on the functions of R2R3-MYB transcription factors revealed that R2R3-MYB in SG6 can up-regulate flavonoid biosynthesis. Various validation experiments, including subcellular localization, transient overexpression, UPLC-MS/MS, HPLC, yeast one-hybrid, and dual-luciferase assays, demonstrated that DMYB69 directly up-regulates the expression of enzyme genes involved in flavonoid biosynthesis, increasing the content of flavonoids such as anthocyanin, flavone, and flavonol. Additionally, DMYB44 was shown to directly up-regulate the expression of carotenoid biosynthesis enzyme genes, thereby increasing carotenoid content. This study provides an essential genome resource and theoretical basis for molecular breeding research inD. moniliforme.",
+  "publication_date": "2025-03-07",
+  "journal": "Acta pharmaceutica Sinica. B",
+  "doi": "10.1016/j.apsb.2025.03.005"
+}

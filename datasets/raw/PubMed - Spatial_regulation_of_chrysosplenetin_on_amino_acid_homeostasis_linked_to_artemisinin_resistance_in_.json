@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Spatial regulation of chrysosplenetin on amino acid homeostasis linked to artemisinin resistance in Plasmodium berghei K173 based on targeted metabolomics.",
+  "abstract": "Chrysosplenetin, a polymethoxy flavonol purified in our laboratory from the waste products generated during the industrial extraction of artemisinin, has been previously demonstrated to be a potential inhibitor of artemisinin resistance. Based on NMR-untargeted metabolomics, one of its hypothesized mechanisms of action is associated with the regulation of amino acid metabolism. In this study, we further quantified the key amino acids using LC-MS/MS targeted metabolomics and screened out the perturbed metabolic pathway network, which was characterized by tissue-specific differences. As a result, among the commonly and uniquely altered metabolites, increased levels of phenylalanine, tryptophan, and isoleucine were detected in the serum and various organs of the resistant groups. Interestingly, while the individual use of chrysosplenetin or artemisinin elevated the contents of these amino acids, their combination led to a significant down-regulation of these amino acids in the serum and intestines. Therefore, chrysosplenetin has the potential to act as a restorer of amino acid metabolism homeostasis, which is associated with artemisinin resistance in Plasmodium berghei K173.",
+  "publication_date": "2025-04-21",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-98409-x"
+}
