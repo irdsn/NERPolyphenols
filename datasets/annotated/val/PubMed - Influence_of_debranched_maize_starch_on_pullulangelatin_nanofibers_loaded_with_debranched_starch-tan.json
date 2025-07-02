@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Influence of debranched maize starch on pullulan/gelatin nanofibers loaded with debranched starch-tannin complexes.",
+  "abstract": "Grape seed tannins, the by-products of wine-making, are rich in antioxidant activity due to their high phenolic content. In this study, tannin was complexed with debranched starch from three types of maize starch (high amylose maize starch, normal maize starch and waxy maize starch). The starch-tannin complexes were further incorporated into pullulan/gelatin nanofibers to obtain an antioxidant composite nanofibrous film. The characteristics of debranched starch-tannin complexes were examined for incorporation into nanofibers. As a result, the long-chain amylose-tannin complexes exhibited V-type and B-type crystalline structure, while the short-chain amylose-tannin complexes showed exclusively B-type crystalline structure. After encapsulation, nanofibers loaded with long-chain amylose-tannin complexes demonstrated significantly higher tannin loading capacity (2.54\u00a0\u00b1\u00a00.06\u00a0%), slower tannin release (18.2\u00a0%) and better mechanical properties, with Young's modulus of 233.7\u00a0\u00b1\u00a036.3\u00a0MPa, elongation at break of 15.4\u00a0\u00b1\u00a00.6\u00a0% and tensile strength of 18.2\u00a0\u00b1\u00a00.9\u00a0MPa, compared to those loaded with short-chain amylose-tannin complexes. This study provided an understanding of how de-branched starches influenced the potential of starch-tannin complexes for use in antioxidant food packaging through electrospinning.",
+  "publication_date": "2025-04-21",
+  "journal": "Carbohydrate polymers",
+  "doi": "10.1016/j.carbpol.2025.123630",
+  "entities": {
+    "POLYPHENOL": [
+      "better mechanical properties",
+      "debranched starch-tannin complexes",
+      "grape seed tannins",
+      "long-chain amylose-tannin complexes",
+      "short-chain amylose-tannin complexes",
+      "significantly higher tannin loading capacity",
+      "slower tannin release",
+      "starch-tannin complexes",
+      "tannin",
+      "the long-chain amylose-tannin complexes",
+      "the short-chain amylose-tannin complexes",
+      "the starch-tannin complexes"
+    ],
+    "FOOD": [
+      "wine-making"
+    ],
+    "SYMPTOM": [
+      "antioxidant food packaging"
+    ]
+  }
+}

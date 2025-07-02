@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Tannic acid-mediated covalent effects on the structural and antioxidant properties of dual zein/casein protein complex nanoparticles.",
+  "abstract": "Protein-polyphenol conjugates with enhanced antioxidant properties offer significant benefits to multiple food systems, including emulsions, gels, and food packaging systems. In this study, tannic acid (TA)-covalently mediated ternary zein/casein-tannic acid nanoparticles (ZCTPs) were effectively fabricated using a pH-driven method. Results showed that the addition of TA reduced the particle size of ZCTPs (from 93 to 74\u00a0nm), with improved uniformities (PDI of 0.25) and greater stabilities (zeta potential of -48\u00a0mV) compared to zein/casein nanoparticles (ZCPs). Further, SDS-PAGE confirmed the successful establishment of covalent binding between TA and dual proteins. In ZCTPs, TA exhibited a high affinity (66-93\u00a0%) to proteins, obviously inducing rearrangements in the protein secondary and tertiary structures. Afterward, the antioxidant activities of ZCTPs were significantly enhanced to 57 and 79\u00a0% against DPPH\u00b7 and ABTS+\u00b7, respectively. This novel protein-polyphenol conjugate holds promising potential as a functional ingredient and delivery system in the food industry.",
+  "publication_date": "2025-04-09",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144293",
+  "entities": {
+    "POLYPHENOL": [
+      "protein-polyphenol conjugates",
+      "the protein secondary and tertiary structures",
+      "this novel protein-polyphenol conjugate"
+    ],
+    "SYMPTOM": [
+      "food packaging systems"
+    ]
+  }
+}

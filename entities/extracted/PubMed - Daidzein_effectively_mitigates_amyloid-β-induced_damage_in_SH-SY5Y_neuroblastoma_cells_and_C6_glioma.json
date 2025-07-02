@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Daidzein effectively mitigates amyloid-\u03b2-induced damage in SH-SY5Y neuroblastoma cells and C6 glioma cells.",
+  "abstract": "Alzheimer's disease (AD) is the most debilitating form of dementia, characterized by amyloid-\u03b2 (A\u03b2)-related toxic mechanisms such as oxidative stress, neuroinflammation, and mitochondrial dysfunction. The development of AD is influenced by environmental factors linked to lifestyle, including physical and mental inactivity, diet, and smoking, all of which have been associated with the severity of the disease and A\u03b2-related pathology. In this study, we used differentiated SH-SY5Y neuroblastoma and C6 glioma cells to investigate the neuroprotective and anti-inflammatory effects of daidzein, a naturally occurring isoflavone, in the context of A\u03b2 oligomer-related toxicity. We observed that pre-treatment with daidzein prevented A\u03b2-induced cell viability loss, increased oxidative stress, and mitochondrial membrane potential decline in both SH-SY5Y and C6 cells. Furthermore, daidzein application reduced elevated levels of MAPK pathway proteins, pro-inflammatory molecules (cyclooxygenase-2 and IL-1\u03b2), and pyroptosis markers, including caspase-1 and gasdermin D, all of which were increased by A\u03b2 exposure. These findings strongly suggest that daidzein alleviates inflammation and toxicity caused by A\u03b2 oligomers. Our results indicate that daidzein could be a potential therapeutic agent for AD and other A\u03b2-related neurodegenerative diseases.",
+  "publication_date": "2025-05-12",
+  "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "doi": "10.1016/j.biopha.2025.118157",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "dementia",
+      "inflammation",
+      "mitochondrial dysfunction",
+      "neuroinflammation",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "amyloid-\u03b2 (a\u03b2)-related toxic mechanisms",
+      "daidzein",
+      "daidzein application",
+      "pro-inflammatory molecules",
+      "the neuroprotective and anti-inflammatory effects"
+    ]
+  }
+}

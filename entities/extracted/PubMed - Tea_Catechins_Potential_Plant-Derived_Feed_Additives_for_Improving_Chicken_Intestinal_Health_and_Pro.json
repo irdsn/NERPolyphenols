@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Tea Catechins: Potential Plant-Derived Feed Additives for Improving Chicken Intestinal Health and Productivity.",
+  "abstract": "In response to the global antimicrobial resistance and residue issues, most countries and regions have implemented comprehensive bans on the use of growth-promoting antibiotics in animal feed formulations. Catechins are a group of polyphenolic compounds that are naturally present in many fruits and plant-derived foods, emerging as potential antibiotic-alternative additives for promoting gut health and production performance in poultry farming. The compounds demonstrate dual biological functions: mitigating oxidative tissue damage and actively remodeling gut microbiota composition by suppressing enteric pathogens (e.g.,Clostridium) and enriching beneficial bacteria (e.g.,Bifidobacterium). Such multifaceted regulation enhances intestinal barrier integrity, thereby improving nutrient absorption and translating into measurable production benefits, including elevated growth rates and feed conversion efficiency. The current research suggests that the added levels of catechins in chicken diets ranges from 40 to 600 mg/kg. However, the research and application of catechins in chicken production are still at the initial stage, which requires more attention worldwide and further mechanism exploration. This mini-review synthesizes recent research findings on the effects of catechins on chicken health, aiming to promote the formulation of feed additive strategies using plant-derived compounds such as catechins as substitutes for antibiotics, to maintain the health of poultry and other animals while preserving production performance.",
+  "publication_date": "2025-05-26",
+  "journal": "Animals : an open access journal from MDPI",
+  "doi": "10.3390/ani15111553",
+  "entities": {
+    "POLYPHENOL": [
+      "catechins",
+      "polyphenolic compounds",
+      "recent research findings",
+      "the effects"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Unlocking Corn Silk's Potential: Bioactive Compounds Targeting Age-Related Diseases.",
+  "abstract": "Corn silk, the stigmas and styles of maize, is a traditional medicinal herb with promising anti-aging potential. This review systematically examines its bioactive compounds, including flavonoids, polysaccharides, terpenoids, and sterols, which contribute to its antioxidant, anti-inflammatory, anti-tumor, and metabolic regulatory effects. These properties support its potential therapeutic applications in aging-related conditions such as neurodegenerative diseases (e.g., Alzheimer's and Parkinson's), cardiovascular disorders, metabolic diseases (e.g., diabetes and obesity), and kidney dysfunction. Preclinical studies highlight corn silk's role in mitigating oxidative stress and inflammation-key drivers of aging. Additionally, preliminary clinical trials, particularly on its anti-diabetic effects, show promise, but larger randomized controlled trials are needed to establish its safety and efficacy. Future research should focus on standardizing extraction methods, elucidating mechanisms of action, and exploring synergistic interactions among its bioactive constituents. Together, this review emphasizes the need for continued investigation into corn silk as a natural, multi-target therapeutic agent for aging and age-related diseases, and advancing its potential for clinical applications.",
+  "publication_date": "2025-05-28",
+  "journal": "Molecular nutrition & food research",
+  "doi": "10.1002/mnfr.70117",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "aging-related conditions",
+      "anti-aging potential",
+      "inflammation-key drivers",
+      "obesity",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "elucidating mechanisms",
+      "flavonoids",
+      "its anti-diabetic effects",
+      "its antioxidant, anti-inflammatory, anti-tumor, and metabolic regulatory effects",
+      "preclinical studies"
+    ]
+  }
+}

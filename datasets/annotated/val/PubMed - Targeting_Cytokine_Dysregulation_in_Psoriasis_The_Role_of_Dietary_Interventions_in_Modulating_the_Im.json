@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Targeting Cytokine Dysregulation in Psoriasis: The Role of Dietary Interventions in Modulating the Immune Response.",
+  "abstract": "Psoriasis is a chronic immune-mediated skin disease characterized by cytokine dysregulation. Pro-inflammatory mediators, including tumor necrosis factor-alpha (TNF-\u03b1), interleukin (IL)-17, and IL-23, play pivotal roles in the pathogenesis of psoriasis. Emerging evidence suggests that dietary interventions can modulate cytokine activity, providing a complementary approach to standard therapies. This narrative review examines the impact of various dietary strategies, including a Mediterranean diet, ketogenic diet, gluten-free diet, and fasting-mimicking diet, on cytokine profiles and clinical outcomes in psoriasis. Research insights reveal that dietary components such as omega-3 fatty acids, polyphenols, and short-chain fatty acids influence immune signaling pathways. These pathways include nuclear factor-kappa B (NF-\u03baB) and Signal Transducer and Activator of Transcription 3 (STAT3). Additionally, these dietary components promote anti-inflammatory effects mediated by gut microbiota. Clinical studies demonstrate significant reductions in psoriasis severity, improved quality of life, and modulation of key cytokines associated with disease activity. Despite these advancements, significant challenges persist in effectively integrating these findings into clinical practice. These challenges include variability in patient responses, adherence issues, and the need for robust biomarkers to monitor efficacy. Future directions emphasize the potential of personalized nutrition and precision medicine approaches to optimize dietary interventions tailored to individual cytokine profiles and genetic predispositions. Integrating these strategies into psoriasis care could transform treatment paradigms by simultaneously addressing both systemic inflammation and comorbid conditions.",
+  "publication_date": "2025-03-22",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26072895",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory effects",
+      "future directions",
+      "polyphenols",
+      "precision medicine",
+      "tumor necrosis factor-alpha"
+    ],
+    "FOOD": [
+      "omega-3 fatty acids"
+    ],
+    "SYMPTOM": [
+      "both systemic inflammation"
+    ]
+  }
+}

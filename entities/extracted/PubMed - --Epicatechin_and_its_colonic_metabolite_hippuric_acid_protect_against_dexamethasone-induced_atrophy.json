@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "(-)-Epicatechin and its colonic metabolite hippuric acid protect against dexamethasone-induced atrophy in skeletal muscle cells.",
+  "abstract": "Cocoa flavanols have been shown to improve muscle function and may offer a novel approach to protect against muscle atrophy. Hippuric acid (HA) is a colonic metabolite of (-)-epicatechin (EPI), the primary bioactive compound of cocoa, and may be responsible for the associations between cocoa supplementation and muscle metabolic alterations. Accordingly, we investigated the effects of EPI and HA upon skeletal muscle morphology and metabolism within an in vitro model of muscle atrophy. Under atrophy-like conditions (24h 100\u03bcM dexamethasone (DEX)), C2C12 myotube diameter was significantly greater following co-incubation with either 25\u03bcM HA (11.19\u00b10.39\u03bcm) or 25\u03bcM EPI (11.01\u00b10.21\u03bcm) compared to the vehicle control (VC; 7.61\u00b10.16\u03bcm, both P < .001). In basal and leucine-stimulated states, there was a significant reduction in myotube protein synthesis (MPS) rates following DEX treatment in VC (P\u00a0=\u00a0.024). Interestingly, co-incubation with EPI or HA abrogated the DEX-induced reductions in MPS rates, whereas no significant differences versus control treated myotubes (CTL) were noted. Furthermore, co-incubation with EPI or HA partially attenuated the increase in proteolysis seen in DEX-treated cells, preserving LC3 \u03b1/\u03b2 II:I and caspase-3 protein expression in atrophy-like conditions. The protein content of PGC1\u03b1, ACC, and TFAM (regulators of mitochondrial function) were significantly lower in DEX-treated versus. CTL cells (all P < .050). However, co-incubation with EPI or HA was unable to prevent these DEX-induced alterations. For the first time we demonstrate that EPI and HA exert anti-atrophic effects on C2C12 myotubes, providing novel insight into the association between flavanol supplementation and favourable effects on muscle health.",
+  "publication_date": "2022-08-30",
+  "journal": "The Journal of nutritional biochemistry",
+  "doi": "10.1016/j.jnutbio.2022.109150",
+  "entities": {
+    "FOOD": [
+      "cocoa",
+      "cocoa flavanols",
+      "cocoa supplementation"
+    ],
+    "SYMPTOM": [
+      "muscle atrophy"
+    ],
+    "POLYPHENOL": [
+      "-)-epicatechin",
+      "anti-atrophic effects",
+      "favourable effects",
+      "the effects"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Deciphering metabolomics modulations in peanut induced by nonthermal plasma: A quasi-targeted approach.",
+  "abstract": "Nonthermal plasma (NTP) is a promising food processing technology that enhances food safety and quality while preserving nutrition. This study used a novel quasi-targeted metabolomics approach to analyze NTP's effects on peanuts (Arachis hypogaea) under three treatment conditions (90, 270, 450\u00a0s at 160\u00a0kV, 150\u00a0Hz) and a control. The quasi-targeted method combines the strengths of targeted and untargeted metabolomics, offering high throughput, extensive coverage, and increased sensitivity. Of 1175 identified metabolites, 247 were significantly altered (135 upregulated, 112 downregulated). Key findings include upregulation of antioxidants like ascorbic acid (+23\u00a0%) and naringenin (+18\u00a0%) and markers of lipid peroxidation such as malondialdehyde (+42\u00a0%) and 4-hydroxy-2-nonenal (+30\u00a0%), indicating oxidative stress. Notably, Sulfur-containing amino acids, such as L-cysteine (+15\u00a0%) and homocysteine (+18\u00a0%), emerged as novel biomarkers for NTP-induced oxidative stress. Moderate treatment (270\u00a0s) enhanced antioxidant levels and maintained membrane integrity, whereas prolonged exposure (450\u00a0s) caused excessive oxidative stress, leading to nutrient degradation and protein oxidation. PCA and pathway analysis revealed changes in energy metabolism, amino acid biosynthesis, and secondary metabolites. These findings underscore NTP's potential to enhance peanut nutritional quality and shelf life, but the treatment must be optimized to balance its benefits with oxidative damage. Additionally, this study introduces sulfur-containing amino acids as innovative biomarkers for oxidative stress, offering new directions for monitoring NTP treatment effects and guiding industrial applications.",
+  "publication_date": "2025-06-16",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145156",
+  "entities": {
+    "POLYPHENOL": [
+      "a promising food processing technology",
+      "naringenin",
+      "new directions",
+      "ntp treatment effects",
+      "ntp's effects",
+      "secondary metabolites"
+    ],
+    "FOOD": [
+      "peanuts"
+    ],
+    "SYMPTOM": [
+      "excessive oxidative stress",
+      "ntp-induced oxidative stress",
+      "oxidative damage",
+      "oxidative stress"
+    ]
+  }
+}

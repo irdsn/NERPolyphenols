@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "An oxygen-independent therapeutic nanosystem for fighting against hypoxic and antioxidant microenvironment of tumor.",
+  "abstract": "The innate hypoxic and antioxidant defendant microenvironment are the main obstacles for improving reactive oxygen species (ROS) based therapeutic efficacy against cancer. Herein, bismuth tungstate (BWO) nanoparticles (NPs) were fabricated for ultrasound activated hydroxyl radical (OH\u2022) production through being reacted with water in an oxygen-independent manner due to their more positive potential of valent band position than that of OH\u2022 generation. For relieving antioxidant defense, BWOST NPs were designed through loading L-buthionine sulfoximine into hollow BWO NPs to inhibit the synthesis of glutathione (GSH), and coating pH-responsive tannic acid-Fe complex on the surface to prevent drug leakage. Both in vitro and in vivo assessments demonstrated that BWOST NPs could effectively lower intracellular GSH levels, inducing apoptosis of cancer cells and eliminating tumors. Therefore, BWOST NPs showed an amplified sonodynamic therapy efficacy through lower antioxidant defense and oxygen-independent OH\u2022 generation, which provided an effective strategy for improving ROS based cancer therapy.",
+  "publication_date": "2025-05-18",
+  "journal": "Journal of photochemistry and photobiology. B, Biology",
+  "doi": "10.1016/j.jphotobiol.2025.113184",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective strategy",
+      "reactive oxygen species"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer",
+      "cancer cells",
+      "ros based cancer therapy"
+    ]
+  }
+}

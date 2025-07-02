@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "A combination of three antioxidants decreases the impact of rural particulate pollution in Normal human keratinocytes.",
+  "abstract": "It is well established that exposure of human skin to airborne pollution, particularly in the form of particulate matter sized 2.5\u2009\u03bcm (PM2.5), is associated with oxidative stress, DNA damage and inflammation, leading to premature signs of skin aging. Because much of the damage results from oxidative stress, we examined the effects of a topical composition containing three antioxidants in an in vitro model system to assess the potential for amelioration of premature aging. The use of multiple antioxidants was of interest based on the typical composition of therapeutic skincare products. It is important to determine the efficacy of multiple antioxidants together and develop a short-term assay for larger scale efficacy testing.",
+  "publication_date": "2023-09-12",
+  "journal": "International journal of cosmetic science",
+  "doi": "10.1111/ics.12888",
+  "entities": {
+    "SYMPTOM": [
+      "dna damage",
+      "inflammation",
+      "oxidative stress",
+      "premature aging"
+    ],
+    "POLYPHENOL": [
+      "the effects"
+    ]
+  }
+}

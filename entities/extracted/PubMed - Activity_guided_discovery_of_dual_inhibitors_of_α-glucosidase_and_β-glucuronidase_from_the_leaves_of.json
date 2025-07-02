@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Activity guided discovery of dual inhibitors of \u03b1-glucosidase and \u03b2-glucuronidase from the leaves ofMillettia pachycarpaBenth.",
+  "abstract": "Type 2 diabetes mellitus (T2DM) and cancers are two globally prevalent diseases which can increase the incidence of each other. Intestinal \u03b1-glucosidase and \u03b2-glucuronidase are key targets for glycaemic control and chemotherapy detoxification, respectively. This study first found that the leaf methanol extract ofMillettia pachycarpadisplayed dual inhibition to the two enzymes. The dually active constituents were then isolated and identified as two prenylated isoflavones of 6,8-diprenylorobol and 6,8-diprenylgenistein. Diprenylorobol exhibits competitive inhibition to both the two enzymes withKivalues of 21.6\u2009\u03bcM (\u03b1-glucosidase) and 1.41\u2009\u03bcM (\u03b2-glucuronidase). Diprenylgenistein is an uncompetitive inhibitor of \u03b1-glucosidase (Ki=\u00a011.4\u2009\u03bcM) but a competitive inhibitor of \u03b2-glucuronidase (Ki=\u00a01.69\u2009\u03bcM). Molecular docking studies showed that both the two isoflavones tightly bind into the active pockets via various hydrogen bonds and hydrophobic interactions. In summary, the current study identifies two promising dual inhibitors of \u03b1-glucosidase and \u03b2-glucuronidase from the leaves ofMillettia pachycarpa.",
+  "publication_date": "2025-05-15",
+  "journal": "Journal of enzyme inhibition and medicinal chemistry",
+  "doi": "10.1080/14756366.2025.2501041",
+  "entities": {
+    "SYMPTOM": [
+      "cancers"
+    ],
+    "POLYPHENOL": [
+      "6,8-diprenylgenistein",
+      "diprenylgenistein",
+      "molecular docking studies"
+    ]
+  }
+}

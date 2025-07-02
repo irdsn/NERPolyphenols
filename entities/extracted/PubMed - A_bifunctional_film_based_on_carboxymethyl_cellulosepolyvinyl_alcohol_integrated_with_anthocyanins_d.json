@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "A bifunctional film based on carboxymethyl cellulose/polyvinyl alcohol integrated with anthocyanins doped zeolitic imidazolate framework-8 for monitoring and maintaining fruit freshness.",
+  "abstract": "The development of eco-friendly and smart packaging materials is of great importance in food safety. Herein, a bifunctional composite film (Ant@ZIF-8/CP) for freshness monitoring and quality preservation of fruit was fabricated by anthocyanins doped ZIF-8 as additive and carboxymethyl cellulose/polyvinyl alcohol as matrix. The incorporation of Ant@ZIF-8 enhanced the mechanical properties, hydrophobicity, and gas-barrier capacity of the film. The ultimate tensile strength and elongation at break of Ant@ZIF-8/CP film were 13.97\u00a0MPa and 32.96\u00a0%, respectively. The Ant@ZIF-8/CP film exhibited an excellent colorimetric response, antibacterial activity, and biodegradability. The inhibition zone against E. coli of Ant@ZIF-8/CP film was 2.42\u00a0mm. The obvious color change of Ant@ZIF-8/CP film after storing the grapes was due to the structure transformation of anthocyanins under acidic conditions. Zinc ions released from Ant@ZIF-8 inhibited the growth of bacteria, thereby maintaining the quality of grapes. This work presents a promising film for prolonging food shelf life and monitoring food freshness.",
+  "publication_date": "2025-05-18",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144368",
+  "entities": {
+    "POLYPHENOL": [
+      "eco-friendly and smart packaging materials",
+      "the mechanical properties"
+    ],
+    "FOOD": [
+      "grapes",
+      "the grapes"
+    ]
+  }
+}

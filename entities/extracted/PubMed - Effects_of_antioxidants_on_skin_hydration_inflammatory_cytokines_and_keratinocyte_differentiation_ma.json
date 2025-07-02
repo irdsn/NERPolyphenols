@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Effects of antioxidants on skin hydration, inflammatory cytokines, and keratinocyte differentiation markers in a PM10-exposed skin barrier-disrupted mouse model.",
+  "abstract": "Given that particulate matter (PM) has an established role in inducing oxidative stress, inflammation, and skin aging, it is plausible that PM could exacerbate inflammatory skin conditions such as xerosis. Xerosis represents a significant dermatological concern among older adults within aging populations. We conducted an investigation into the efficacy of antioxidants, such as dieckol, punicalagin, epigallocatechin gallate (EGCG), and resveratrol, against PM10in a skin barrier-disrupted mouse model. A skin barrier-disrupted mouse model was induced by tape stripping. This study investigated the antioxidative and anti-inflammatory properties of antioxidants on PM-induced changes using the skin barrier-disrupted mouse model. Tape strips were attached to the back of 7-week-old nude mice and removed quickly. To investigate variations in skin hydration, levels of inflammatory cytokines, and indicators of keratinocyte differentiation, mice underwent treatment with several compounds: a control vehicle (100\u2009\u03bcL), PM10100\u2009\u03bcL (100\u2009\u03bcg/mL), PM10100\u2009\u03bcL (100\u2009\u03bcg/mL) with antioxidants 100\u2009\u03bcL (Punicalagin 5\u2009\u03bcM, Dieckol 5\u2009\u03bcM, EGCG 1\u2009\u03bcM, resveratol 1\u2009\u03bcM) for 1\u2009week. To assess their effects, different analysis were conducted using measurements of skin moisture, real-time polymerase chain reaction, enzyme-linked immunosorbent assay for detecting inflammatory cytokines, and immunofluorescence staining to identify markers of keratinocyte differentiation. While PM10decreased water content in disrupted skin, all antioxidants preserved skin hydration in the skin barrier-disrupted mice, regardless of the presence of PM10. All antioxidants also inhibited the upregulation of inflammatory cytokines, such as interleukin (IL)-1\u03b2, IL-4, IL-6, IL-8, and tumor necrosis factor-alpha and normalized the downregulation of keratinocyte differentiation markers against PM10in skin barrier-disrupted mice. This study elucidated the protective effects of antioxidants-namely, punicalagin, dieckol, EGCG, and resveratrol-in mitigating the impact of PM10on skin barrier integrity and inflammation in a disrupted skin barrier mouse model, highlighting their potential utility in dermatological treatments.",
+  "publication_date": "2024-12-01",
+  "journal": "International journal of immunopathology and pharmacology",
+  "doi": "10.1177/03946320241303860",
+  "entities": {
+    "SYMPTOM": [
+      "aging populations",
+      "inflammation",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "dieckol",
+      "egcg",
+      "pm10decreased water content",
+      "the protective effects",
+      "their effects",
+      "tumor necrosis factor-alpha"
+    ]
+  }
+}

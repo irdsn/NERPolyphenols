@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Research progress on microglial pyroptosis and inflammasomes: a comprehensive analysis.",
+  "abstract": "Microglial pyroptosis and inflammasome activation play critical roles in neurodegenerative diseases, especially Alzheimer's disease (AD), Parkinson's disease (PD), and multiple sclerosis (MS). In recent years, substantial attention has been directed toward elucidating their underlying mechanisms, diagnostic approaches, and prognostic implications. This study aimed to analyze the current research landscape, hotspots, and trends in this field.",
+  "publication_date": "2025-06-09",
+  "journal": "Frontiers in aging neuroscience",
+  "doi": "10.3389/fnagi.2025.1582579",
+  "entities": {
+    "POLYPHENOL": [
+      "especially alzheimer's disease",
+      "recent years",
+      "their underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "parkinson's disease"
+    ]
+  }
+}

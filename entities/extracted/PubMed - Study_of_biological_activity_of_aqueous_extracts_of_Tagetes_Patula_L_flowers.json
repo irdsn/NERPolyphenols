@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Study of biological activity of aqueous extracts of Tagetes Patula L. flowers.",
+  "abstract": "Tagetes patula L. is a unique plant rich in biologically active substances. This study aimed to investigate the antimicrobial, fungicidal, and antioxidant activities of hot and cold Tagetes patula flower extracts. Spectrometric methods of analysis, high-performance liquid chromatography (HPLC), and the disk-diffusion method for the determination of antibacterial activity were used to achieve the objective. The antioxidant activities of hot Tagetes patula extracts exceeded those of cold extracts and were 7.6\u00a0\u00b1\u00a00.34\u00a0mmol Trolox equivalent/g, 3.9\u00a0\u00b1\u00a00.16\u00a0mmol Trolox equivalent/g, and 2.9\u00a0\u00b1\u00a00.06\u00a0mmol Trolox equivalent/g for ABTS, DPPH, and FRAP. The maximum amount of phenolic compounds was reached in Tagetes patula flower extracts obtained by maceration, then it gradually decreased as the duration of the process increased. Cold and hot extracts of Tagetes patula flowers showed antibacterial activity against known pathogens. The antifungal properties of Tagetes patula flower extracts against Aspergillus oryzae were enhanced by boiling. Further research on the properties of Tagetes patula is needed for its practical use in medicine, veterinary medicine, and agriculture.",
+  "publication_date": "2025-06-23",
+  "journal": "Fitoterapia",
+  "doi": "10.1016/j.fitote.2025.106712",
+  "entities": {
+    "POLYPHENOL": [
+      "phenolic compounds",
+      "spectrometric methods",
+      "the objective"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Effect of replacing commonly consumed fruit in the United States with berries in the USDA healthy Dietary Patterns: a modeling analysis.",
+  "abstract": "A recent review of the evidence suggests that berry consumption may have an effect in reducing cardiovascular disease risk.",
+  "publication_date": "2025-06-12",
+  "journal": "Annals of medicine",
+  "doi": "10.1080/07853890.2025.2517817",
+  "entities": {
+    "POLYPHENOL": [
+      "a recent review",
+      "an effect"
+    ]
+  }
+}

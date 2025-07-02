@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Therapeutic effects of resveratrol on epigenetic mechanisms in age-related diseases: A comprehensive review.",
+  "abstract": "Recently, various studies have shown that epigenetic changes are associated with aging and age-related diseases. Both animal and human models have revealed that epigenetic processes are involved in aging mechanisms. These processes happen at multiple levels and include histone modification, DNA methylation, and changes in noncoding RNA expression. Consequently, changes in the organization of chromatin and DNA accessibility lead to the regulation of gene expression. With increasing awareness of the pivotal function of epigenetics in the aging process, researchers' attention has been drawn to how these epigenetic changes can be modified to prevent, stop, or reverse aging, senescence, and age-related diseases. Among various agents that can affect epigenetic, polyphenols are well-known phytochemicals found in fruits, vegetables, and plants. Polyphenols are found to modify epigenetic-related mechanisms in various diseases and conditions, such as metabolic disorders, obesity, neurodegenerative diseases, cancer, and cardiovascular diseases. Resveratrol (RSV) is a member of the stilbene subgroup of polyphenols which is derived from various plants, such as grapes, apples, and blueberries. Therefore, herein, we aim to summarize how RSV affects different epigenetic processes to change aging-related mechanisms. Furthermore, we discuss its roles in age-related diseases, such as Alzheimer's, Parkinson's, osteoporosis, and cardiovascular diseases.",
+  "publication_date": "2024-02-29",
+  "journal": "Phytotherapy research : PTR",
+  "doi": "10.1002/ptr.8176",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "alzheimer's, parkinson's, osteoporosis, and cardiovascular diseases",
+      "cancer",
+      "obesity",
+      "the aging process"
+    ],
+    "POLYPHENOL": [
+      "aging mechanisms",
+      "aging-related mechanisms",
+      "epigenetic-related mechanisms",
+      "polyphenols",
+      "resveratrol"
+    ],
+    "FOOD": [
+      "apples",
+      "blueberries",
+      "grapes"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "The Potential ofMoringa oleiferato Ameliorate HAART-Induced Pathophysiological Complications.",
+  "abstract": "Highly active antiretroviral therapy (HAART) comprises a combination of two or three antiretroviral (ARV) drugs that are administered together in a single tablet. These drugs target different steps within the human immunodeficiency virus (HIV) life cycle, providing either a synergistic or additive antiviral effect; this enhances the efficiency in which viral replication is suppressed. HIV cannot be completely eliminated, making HAART a lifetime treatment. With long-term HAART usage, an increasing number of patients experience a broadening array of complications, and this significantly affects their quality of life, despite cautious use. The mechanism through which ARV drugs induce toxicity is associated with metabolic complications such as mitochondrial dysfunction, oxidative stress, and inflammation. To address this, it is necessary to improve ARV drug formulation without compromising its efficacy; alternatively, safe supplementary medicine may be a suitable solution. The medicinal plantMoringa oleifera(MO) is considered one of the most important sources of novel nutritionally and pharmacologically active compounds that have been shown to prevent and treat various diseases. MO leaves are rich in polyphenols, vitamins, minerals, and tannins; studies have confirmed the therapeutic properties of MO. MO leaves provide powerful antioxidants, scavenge free radicals, promote carbohydrate metabolism, and repair DNA. MO also induces anti-inflammatory, hepatoprotective, anti-proliferative, and anti-mutagenic effects. Therefore, MO can be a source of affordable and safe supplement therapy for HAART-induced toxicity. This review highlights the potential of MO leaves to protect against HAART-induced toxicity in HIV patients.",
+  "publication_date": "2022-09-24",
+  "journal": "Cells",
+  "doi": "10.3390/cells11192981",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory, hepatoprotective, anti-proliferative, and anti-mutagenic effects",
+      "either a synergistic or additive antiviral effect",
+      "polyphenols",
+      "tannins",
+      "the mechanism",
+      "the medicinal plantmoringa oleifera(mo"
+    ],
+    "FOOD": [
+      "long-term haart usage"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "mitochondrial dysfunction",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Benefits of a Multifunctional Sunscreen Formulation Containing Nanoencapsulated Antioxidants in the Skin Protection Against UV Radiation and Blue Light: Clinical and Preclinical Studies.",
+  "abstract": "The development of sunscreens with properties beyond photoprotection involves carefully optimizing the blend of ingredients and employing advanced systems to ensure effective delivery through the skin layers.",
+  "publication_date": "2025-06-01",
+  "journal": "Journal of cosmetic dermatology",
+  "doi": "10.1111/jocd.70282",
+  "entities": {
+    "POLYPHENOL": [
+      "effective delivery",
+      "photoprotection"
+    ]
+  }
+}

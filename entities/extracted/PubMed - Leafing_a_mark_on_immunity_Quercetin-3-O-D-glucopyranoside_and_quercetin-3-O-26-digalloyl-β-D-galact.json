@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Leafing a mark on immunity: Quercetin-3-O-D-glucopyranoside and quercetin-3-O-(2\u2033,6\u2033-digalloyl)-\u03b2-D-galactopyranoside-rich Melia azedarach L. extract's immunoinflammatory effects on an sRBC-immunized BALB/c model.",
+  "abstract": "Melia azedarach L. (Meliaceae) (MA) leaves are traditionally used for inflammatory disorders, yet their immunomodulatory effects on lymphocytes remain underexplored. This study investigates the ethyl-acetate partition of a 90\u00a0% ethanolic leaf extract (MLE) using LC-MS, HPLC-UV, in silico, in vitro, and in vivo methods to evaluate lymphocyte responses. HPLC-UV identified quercetin-3-O-D-glucopyranoside (C1, 7.75\u00a0% w/w) and quercetin-3-O-(2\u2033,6\u2033-digalloyl)-\u03b2-D-galactopyranoside (C3, 15.81\u00a0% w/w) as major constituents. In silico QSAR and molecular docking predicted immunotoxicity for C1 and C3, targeting CD28, CD4, and CD11b receptors. MLE (125\u00a0\u03bcg/mL) was non-cytotoxic to splenocytes, enhancing B and T-cell proliferation and IgM production (p\u00a0<\u00a00.05), assessed via MTT and plaque-forming assays (PFA) in vitro. MLE was further tested in a sheep red blood cell (sRBC) immunized BALB/c mouse model at 200 (T1) and 400 (T2) mg/kg b.wt. At T1, MLE mildly suppressed lymphocyte proliferation, supporting traditional anti-inflammatory properties. At T2, MLE significantly increased (p\u00a0<\u00a00.05) lymphocyte counts, sRBC hemolysis, NK cell activity, and cytotoxic T-cell function, measured by hemagglutination and LDH release assays. Serum cytokines (IFN-\u03b3, IL-2, IL-12, TNF-\u03b1) were elevated as quantified by ELISA. Mechanistically, qRT-PCR and phospho-ELISAs confirmed NF-\u03baB upregulation via PI3K/AKT/I\u03baB\u03b1 signaling without influencing NFAT, supported by network pharmacology. These dose-dependent effects highlight MLE's potential for modulating lymphocyte-driven immune responses, particularly in immunostimulatory applications. However, the immunotoxicity of C1 and C3, predicted in silico and observed at higher doses, necessitates further safety studies to optimize therapeutic use of MA leaf extracts.",
+  "publication_date": "2025-05-07",
+  "journal": "Fitoterapia",
+  "doi": "10.1016/j.fitote.2025.106601",
+  "entities": {
+    "POLYPHENOL": [
+      "cd11b receptors",
+      "molecular docking",
+      "quercetin-3",
+      "quercetin-3-o-d-glucopyranoside",
+      "their immunomodulatory effects",
+      "these dose-dependent effects"
+    ]
+  }
+}

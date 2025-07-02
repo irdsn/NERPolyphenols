@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Resveratrol from Peanut Sprout Extract Promotes NK Cell Activation and Antitumor Activity.",
+  "abstract": "Natural killer (NK) cells are innate immune cells that are crucial for anticancer activity and have been developed as an immune cell therapy for leukemia. However, their limited effectiveness against solid tumors has prompted research into methods to enhance NK cell activity through combination therapies. Health supplements capable of boosting immune surveillance against tumor cells are gaining attention owing to their potential benefits. Resveratrol, a stilbenoid produced by several plants including peanuts and grapes, reportedly exerts anticancer effects and can activate immune cells. The peanut sprout extract cultivated with fermented sawdust medium (PSEFS) is rich in resveratrol, leveraging its health benefits in terms of the dry weight of herbal products, thus maximizing the utilization of resveratrol's beneficial properties. Our study compared the efficacy of resveratrol and PSEFS and revealed that PSEFS significantly enhanced NK cell activation compared with an equivalent dose of resveratrol. We investigated the ability of PSEFS to potentiate NK cell anticancer activity, focusing on NK cell survival, tumor cell lysis, and NK cell activation in PSEFS-administered mice. Our findings suggest that PSEFS could be a potential NK cell booster for cancer immunotherapy.",
+  "publication_date": "2025-02-20",
+  "journal": "Biomolecules & therapeutics",
+  "doi": "10.4062/biomolther.2024.133",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer activity",
+      "cancer immunotherapy",
+      "leukemia",
+      "nk cell anticancer activity"
+    ],
+    "POLYPHENOL": [
+      "anticancer effects",
+      "resveratrol",
+      "resveratrol's beneficial properties",
+      "their limited effectiveness"
+    ],
+    "FOOD": [
+      "grapes",
+      "peanuts"
+    ]
+  }
+}

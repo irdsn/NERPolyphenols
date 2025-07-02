@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Recent Advances on the Chemical Composition, Pharmacological Properties, and Product Development of Morus alba.",
+  "abstract": "Morus alba, a member of the Moraceae family, has a long history of medicinal use in China. Its branches, fruits, leaves, and root bark are rich in various bioactive compounds, including flavonoids, alkaloids, and other phytochemicals. These plant parts exhibit a broad spectrum of pharmacological activities, such as antidiabetic, antitumor, antibacterial, and antioxidant effects. Owing to these properties, various parts of M. alba have been developed into functional foods and health products, attracting considerable public and scientific interest.",
+  "publication_date": "2025-05-30",
+  "journal": "Phytochemical analysis : PCA",
+  "doi": "10.1002/pca.3544",
+  "entities": {
+    "POLYPHENOL": [
+      "a broad spectrum",
+      "antidiabetic, antitumor, antibacterial, and antioxidant effects",
+      "flavonoids"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

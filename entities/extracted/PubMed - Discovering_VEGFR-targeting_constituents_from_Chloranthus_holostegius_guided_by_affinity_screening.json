@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Discovering VEGFR-targeting constituents from Chloranthus holostegius guided by affinity screening.",
+  "abstract": "Natural products remain an indispensable resource for pharmaceutical exploration. This investigation focuses on discovering bioactive compounds that target the vascular endothelial growth factor receptor 2 (VEGFR-2) from Chloranthus holostegius. Our phytochemical analysis led to the isolation and structural elucidation of six previously undescribed sesquiterpene derivatives (1-6) and seven known analogs (7-13). Comprehensive structural characterization was achieved through integrated high-resolution electrospray ionization mass spectrometry and nuclear magnetic resonance spectroscopic analysis, with the absolute configurations of the undescribed compounds established via electronic circular dichroism calculations. Among the six undescribed compounds, 1 and 2 were identified as a rare lindenane-monoterpene heterodimer fused by a 1,2-dioxane moiety and an lindenane sesquiterpenoid dimer featuring an oxaspiro[4.5]decane unit, respectively. Affinity ultrafiltration combined with ultra-performance liquid chromatography-mass spectrometry identified seven potential ligands for VEGFR-2 (2, 3, 7-10, and 12). Molecular docking studies elucidated the interactions between these compounds and VEGFR-2. Subsequent in vivo evaluations in transgenic zebrafish models confirmed potent anti-angiogenic effects for multiple candidates, with compound 2 demonstrating the strongest anti-angiogenic effects in this study. This study validates C. holostegius as a promising source for anticancer drug development while identifying structurally novel VEGFR-2 inhibitors with demonstrated biological efficacy. The findings provide both a chemical foundation and pharmacological rationale for advancing natural product-based anti-angiogenic therapeutics.",
+  "publication_date": "2025-06-18",
+  "journal": "Phytochemistry",
+  "doi": "10.1016/j.phytochem.2025.114591",
+  "entities": {
+    "POLYPHENOL": [
+      "an oxaspiro[4.5]decane unit",
+      "electronic circular dichroism calculations",
+      "integrated high-resolution electrospray ionization mass spectrometry and nuclear magnetic resonance spectroscopic analysis",
+      "molecular docking studies",
+      "potent anti-angiogenic effects",
+      "the strongest anti-angiogenic effects",
+      "the vascular endothelial growth factor receptor",
+      "ultra-performance liquid chromatography-mass spectrometry"
+    ],
+    "FOOD": [
+      "the absolute configurations"
+    ],
+    "SYMPTOM": [
+      "anticancer drug development"
+    ]
+  }
+}

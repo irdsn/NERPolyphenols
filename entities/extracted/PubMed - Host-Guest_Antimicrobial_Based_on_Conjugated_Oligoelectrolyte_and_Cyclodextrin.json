@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Host-Guest Antimicrobial Based on Conjugated Oligoelectrolyte and Cyclodextrin.",
+  "abstract": "The escalating global threat of antimicrobial resistance necessitates the development of new antimicrobial agents. In this study, we prepared a resveratrol-derived antimicrobial conjugated oligoelectrolyte (COE) named DY6 to enhance drug-like properties. While DY6's increased hydrophobicity augmented its antibacterial efficacy, it also induced significant cytotoxicity, highlighting the long-existing dilemma of amphiphilic antimicrobials. To mitigate this issue, we employed a supramolecular strategy by complexing DY6 with sodium sulfobutyl ether \u03b2-cyclodextrin (S\u03b2CD), forming the host-guest inclusion complex DY6@S\u03b2CD. This complex elevated the half-maximal inhibitory concentration (IC50) against L929 cells from 9.4 to over 128\u00a0\u00b5g mL-1while maintaining a minimum inhibitory concentration (MIC) of 2\u00a0\u00b5g mL-1against methicillin-resistant Staphylococcus aureus (MRSA). NMR and UV-vis spectroscopic analyses confirmed that DY6's aromatic backbone is encapsulated within the hydrophobic cavity of S\u03b2CD. Isothermal titration calorimetry revealed that size compatibility and electrostatic interactions are essential for stable complex formation and enhanced biocompatibility. Importantly, DY6@S\u03b2CD exhibited no resistance development over 14-day serial passages against S. aureus, significantly outperforming norfloxacin. In biofilm-based MRSA-infected wound and corneal models, DY6@S\u03b2CD more effectively reduced bacterial load and inflammation compared to the last-resort antibiotic vancomycin. These findings demonstrate the potential utility of supramolecular host-guest approach based on COEs to overcome the drug-resistant challenges.",
+  "publication_date": "2025-05-19",
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "doi": "10.1002/anie.202504581",
+  "entities": {
+    "POLYPHENOL": [
+      "a resveratrol-derived antimicrobial conjugated oligoelectrolyte",
+      "a supramolecular strategy",
+      "biofilm-based mrsa-infected wound and corneal models",
+      "electrostatic interactions",
+      "more effectively reduced bacterial load",
+      "nmr and uv-vis spectroscopic analyses",
+      "supramolecular host-guest approach"
+    ],
+    "FOOD": [
+      "14-day serial passages"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

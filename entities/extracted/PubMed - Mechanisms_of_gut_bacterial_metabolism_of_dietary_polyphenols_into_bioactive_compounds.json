@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Mechanisms of gut bacterial metabolism of dietary polyphenols into bioactive compounds.",
+  "abstract": "The fruits and vegetables we consume as part of our diet are rich in bioactive metabolites that can prevent and ameliorate cardiometabolic diseases, cancers, and neurological conditions. Polyphenols are a major metabolite family that has been intensively investigated in this context. However, for these compounds to exert their optimal bioactivity, they rely on the enzymatic capacity of an individual's gut microbiota. Indeed, for most polyphenols, the human host is restricted to more basic metabolism such as deglycosylation and hepatic conjugation. In this review, we discuss the mechanisms by which gut bacteria metabolize the core scaffold of polyphenol substrates, and how their conversion into bioactive small molecules impacts host health.",
+  "publication_date": "2024-11-14",
+  "journal": "Gut microbes",
+  "doi": "10.1080/19490976.2024.2426614",
+  "entities": {
+    "SYMPTOM": [
+      "cancers"
+    ],
+    "POLYPHENOL": [
+      "bioactive small molecules",
+      "most polyphenols",
+      "polyphenol substrates",
+      "polyphenols",
+      "the mechanisms"
+    ]
+  }
+}

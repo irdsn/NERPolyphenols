@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Correlation between the biological activities and the chemical structures of conidendrin-related compounds: (-)-\u03b2-conidendrin inhibits degranulation of RBL-2H3 cells.",
+  "abstract": "Conidendrin, a metabolite of lariciresinol (a lignan in dietary plants), has 8 stereoisomers with 3 asymmetric carbon atoms. However, the relationship between the chemical structure and biological activity of these stereoisomers remains unclear. Since strong cytotoxicity against rat basophilic cell line RBL-2H3 cells has been observed in 4 stereoisomers, the degranulation inhibitory effect of the other conidendrin isomers possessing no cytotoxicity was investigated. Significant degranulation inhibitory effect was observed on all 4 stereoisomers especially on (-)-\u03b2-conidendrin, suggesting that conidendrin exhibits stereospecific cytotoxic and degranulation inhibitory activities, and (-)-\u03b2-conidendrin is the most structurally effective isomer on antidegranulation. Additionally, (-)-\u03b2-conidendrin inhibited the antigen-induced increase in intracellular Ca2+ concentration and phosphorylation levels of Syk, PLC\u03b3, and Akt, indicating that (-)-\u03b2-conidendrin inhibits Ca2+ influx into cells by downregulating the Syk/PLC\u03b3 and PI3K/Akt signaling pathways, thereby suppressing degranulation. Our findings suggest that conidendrin may be useful as an antiallergic functional food ingredient.",
+  "publication_date": "2025-05-01",
+  "journal": "Bioscience, biotechnology, and biochemistry",
+  "doi": "10.1093/bbb/zbaf039",
+  "entities": {
+    "POLYPHENOL": [
+      "lariciresinol",
+      "significant degranulation inhibitory effect",
+      "stereospecific",
+      "the degranulation inhibitory effect",
+      "the most structurally effective isomer"
+    ],
+    "FOOD": [
+      "an antiallergic functional food ingredient"
+    ]
+  }
+}

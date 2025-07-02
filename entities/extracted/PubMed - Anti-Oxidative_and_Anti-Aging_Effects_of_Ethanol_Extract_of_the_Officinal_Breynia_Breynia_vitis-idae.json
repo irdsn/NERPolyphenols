@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Anti-Oxidative and Anti-Aging Effects of Ethanol Extract of the Officinal Breynia (Breynia vitis-idaea) In Vitro.",
+  "abstract": "The skin is the largest organ of the human body, and it is also the one most exposed to external environmental contaminants. The skin is the body's first defense against harmful environmental stimuli, including ultraviolet B (UVB) rays and hazardous chemicals. Therefore, proper care of the skin is required to prevent skin-related diseases and age-related symptoms. In this study, we analyzed anti-aging and anti-oxidative effects ofBreynia vitis-idaeaethanol extract (Bv-EE) in human keratinocytes and dermal fibroblasts. The Bv-EE had free radical scavenging activity and decreased the mRNA expression ofMMPsandCOX-2in H2O2- or UVB-treated HaCaT cells. The Bv-EE also inhibited AP-1 transcriptional activity and phosphorylation of c-Jun N-terminal kinase, extracellular signal-regulated kinase, and mitogen-activated protein kinase 14 (p38), which are major AP-1 activators upon H2O2or UVB exposure. Furthermore, the promoter activity and mRNA expression of collagen type I (Col1A1) increased in HDF cells treated with Bv-EE, and Bv-EE recovered the collagen mRNA expression decreased by H2O2or UVB exposure. These results suggest that Bv-EE has anti-oxidative effects by inhibiting the AP-1 signaling pathway, and shows anti-aging effects by upregulating collagen synthesis.",
+  "publication_date": "2023-03-01",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants12051088",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-aging and anti-oxidative effects",
+      "anti-aging effects",
+      "anti-oxidative effects"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Rutin-Associated Hepatoprotection: A Review of Mechanisms and Therapeutic Prospects.",
+  "abstract": "Liver disorders pose a considerable global health challenge, accompanied by rising mortality rates. Current therapeutic strategies, though effective, often face limitations due to adverse effects and therapeutic resistance, prompting the exploration of alternative treatments, particularly safer natural compounds. Rutin, a widely available bioflavonoid, has emerged as a promising candidate owing to its varied pharmacological properties.",
+  "publication_date": "2025-05-01",
+  "journal": "Basic & clinical pharmacology & toxicology",
+  "doi": "10.1111/bcpt.70042",
+  "entities": {
+    "POLYPHENOL": [
+      "a widely available bioflavonoid",
+      "adverse effects",
+      "rutin"
+    ]
+  }
+}

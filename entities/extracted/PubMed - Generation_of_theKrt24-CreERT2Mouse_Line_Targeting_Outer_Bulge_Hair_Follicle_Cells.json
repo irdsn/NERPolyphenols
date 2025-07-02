@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Generation of theKrt24-CreERT2Mouse Line Targeting Outer Bulge Hair Follicle Cells.",
+  "abstract": "Outer bulge (OB) hair follicle stem cells (HFSCs) play a crucial role in maintaining hair follicle structural stability and regulating the hair follicle cycle. Previous studies demonstrated that keratin 24 (Krt24) exhibits spatiotemporally restricted expression in OB HFSCs. Here, we report the generation of theKrt24-CreERT2mouse line. When crossed withRosa26LSL-tdTomatoorRosa26LSL-DTRreporter lines, offspring exhibited specific labeling (Krt24-CreERT2;Rosa26LSL-tdTomato) or ablation (Krt24-CreERT2;Rosa26LSL-DTR) ofKrt24+cells. InKrt24-CreERT2;Rosa26LSL-tdTomatomice, phase-specific tamoxifen (TAM) administration demonstrated spatiotemporal fidelity of Cre activity to endogenousKrt24expression patterns. Lineage tracing revealed that tdTomato-labeledKrt24+cells differentiated into the outer root sheath (ORS) during the anagen phase and persisted when hair follicles reentered telogen. Ablation ofKrt24+cells via diphtheria toxin (DT) administration significantly delayed anagen initiation. Mice under continuous depletion ofKrt24+HFSCs experienced substantial mortality after ionizing irradiation. Notably, ionizing radiation triggered a marked expansion of tdTomato-labeledKrt24+cells, accompanied by maintained hair follicle homeostasis. Taken together, this study established aKrt24-CreERT2mouse line targeting OB HFSCs, which are essential for hair follicle development and damage repair.",
+  "publication_date": "2025-03-29",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26073165",
+  "entities": {
+    "FOOD": [
+      "krt24-creert2;rosa26lsl-tdtomato",
+      "tdtomato-labeledkrt24+cells",
+      "withrosa26lsl-tdtomatoorrosa26lsl-dtrreporter lines"
+    ],
+    "POLYPHENOL": [
+      "inkrt24-creert2;rosa26lsl-tdtomatomice, phase-specific tamoxifen (tam) administration",
+      "specific labeling"
+    ]
+  }
+}

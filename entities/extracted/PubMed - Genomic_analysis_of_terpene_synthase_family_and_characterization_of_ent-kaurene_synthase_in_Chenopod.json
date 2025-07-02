@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Genomic analysis of terpene synthase family and characterization of ent-kaurene synthase in Chenopodium quinoa.",
+  "abstract": "Terpenoids produced in plants play important roles in growth, development and response to environmental stimuli. Terpene synthases are responsible for the terpene backbone formation of terpenoid metabolites. In this study, fifty-one terpene synthase genes were identified in the quinoa genome and categorized into seven sub-families through bioinformatics and phylogenetic analysis. Gene structures, conserved motifs and cis-elements in promoters were also analyzed for these CqTPSs, as well as prediction of secondary and tertiary protein structure. Four terpene synthase genes in the TPS-e sub-family were further cloned for functional characterization. Among which, CqTPS49 and CqTPS51 were detected to react with ent-CPP to generate ent-kaurene, the intermediate of gibberellin biosynthesis, subsequently name as CqTPS49/KS1 and CqTPS51/KS2, respectively. CqTPS47 and CqTPS48 reacted with syn-CPP to form diterpene products, which needs to be identified with chemical structure characterization. All four tested CqTPSs were found to be localized in the chloroplast, consistent with their functions as diterpene synthease. Expression patterns analysis in different tissues revealed that CqTPS49/KS1 and CqTPS51/KS2 are mainly expressed in the active growing buds, suggesting involvement in gibberellic acid metabolism. This study identified the terpene synthase gene family in quinoa and provided the basis for further functional characterization of terpenoid metabolism.",
+  "publication_date": "2025-06-30",
+  "journal": "Molecular genetics and genomics : MGG",
+  "doi": "10.1007/s00438-025-02269-z",
+  "entities": {
+    "FOOD": [
+      "quinoa",
+      "the quinoa genome"
+    ],
+    "POLYPHENOL": [
+      "secondary and tertiary protein structure"
+    ]
+  }
+}

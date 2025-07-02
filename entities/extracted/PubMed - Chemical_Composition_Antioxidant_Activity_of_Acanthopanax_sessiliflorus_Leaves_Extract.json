@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Chemical Composition, Antioxidant Activity of Acanthopanax sessiliflorus Leaves Extract.",
+  "abstract": "Acanthopanax sessiliflorus leaves (ASLs) are a kind of medicine food homology plant that can produce secondary metabolites with high antioxidant activity, such as phenolic acids and flavonoids. Such plants are increasingly being recommended as natural dietary supplements to inhibit oxidative stress. In this study, the UHPLC-Q-Exactive Orbitrap MS technology was employed to conduct qualitative and quantitative analyses on the chemical components of the ethanol extract (ASLE) and water extract(ASLW) of ASL. The total phenolic and total flavonoid contents of ASLE and ASLW were determined using colorimetric methods. Antioxidant activity was assessed by various in vitro assays such as 2,2-Diphenyl-1-picrylhydrazyl (DPPH), 2,2'-Azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) diammonium salt (ABTS+), and ferric reducing power. The results indicated that 103 compounds were identified in ASLs, including triterpenoids, flavonoids, phenolic acids, etc. Moreover, the contents of chlorogenic acid, cryptochlorogenic acid, hyperoside, and chiisanoside were relatively high in ASLs. Finally, ASLE and ASLW exhibited high levels of total phenolics, flavonoids, and in vitro antioxidant activity. In summary, ASL is rich in antioxidant-active compounds, such as chlorogenic acid, cryptochlorogenic acid, and hyperoside, and exhibits significant free radical scavenging activity. It holds potential for development as a novel natural antioxidant, with promising prospects in the fields of functional foods and pharmaceutical applications.",
+  "publication_date": "2025-04-13",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202500231",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "cryptochlorogenic acid",
+      "flavonoids",
+      "promising prospects",
+      "secondary metabolites",
+      "the total phenolic and total flavonoid contents",
+      "the uhplc-q-exactive orbitrap ms technology"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Flavonoid Polyphenols as Therapeutic Agents for Fatty Liver Disease: Mechanisms, Microbiome Interactions, and Metabolic Insights.",
+  "abstract": "Fatty liver disease (FLD), encompassing non-alcoholic fatty liver disease (NAFLD) and alcoholic fatty liver disease (AFLD), has become a major global health concern, primarily driven by unhealthy diets and lifestyle changes. Recently, flavonoids, which account for approximately 60% of polyphenolic compounds, have garnered attention for their antioxidant, anti-inflammatory, and immunomodulatory properties in combating metabolic diseases. This review summarizes recent advancements in the therapeutic potential of flavonoid polyphenols for treating FLD, with a focus on their bioactivity and mechanisms of action, interactions with the gut microbiome, and metabolic effects. The review discusses the bioactivity and biomarkers of flavonoids in treating FLD, their similar and differing roles in NAFLD and AFLD, regulation of gut microbiota, and synergistic mechanisms with other polyphenolic compounds. This review provides insights into the potential applications of flavonoids in treating fatty liver disease and suggests future research directions.",
+  "publication_date": "2025-06-16",
+  "journal": "Molecular nutrition & food research",
+  "doi": "10.1002/mnfr.70144",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoid polyphenols",
+      "flavonoids",
+      "future research directions",
+      "mechanisms",
+      "metabolic effects",
+      "other polyphenolic compounds",
+      "polyphenolic compounds",
+      "recent advancements",
+      "synergistic mechanisms"
+    ]
+  }
+}

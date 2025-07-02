@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Identification of key enzymes participated in the biosynthesis of a rare flavonol patuletin in the medicinal plant Echinacea angustifolia.",
+  "abstract": "Echinacea species are widely recognized as medicinal herbs producing top-selling herbal supplements in the United States. Instead of the common flavonoids quercetin and kaempferol and their glycosides, a rutinoside of the rare flavonol patuletin has been identified as the predominant flavonoid in the E. angustifolia, an important resource plant for Echinacea. Patuletin features an additional 6-methoxy group on the A ring compared to quercetin. The specific enzymes responsible for flavone 6-hydroxylation and methylation remain elusive. In this study, we constructed a multi-tissue transcriptome of E. angustifolia and screened flavone 6-hydroxylase (F6H) and methyltransferase (OMT)-encoding genes through phylogenetic analysis. Two CYP450 oxidases, EaF6H1 and EaF6H2, from the CYP706X and CYP82D subfamilies, respectively, were identified as possessing F6H activity, along with two CCoAOMTs (EaCCoAOMT1/2) mediating subsequent 6-O-methylation for the biosynthesis of patuletin. The tissue-specific expression patterns, substrate specificity, and molecular docking simulations of these hydroxylases and OMTs were thoroughly investigated. Finally, we successfully reconstructed patuletin biosynthesis in Nicotiana benthamiana leaves using these identified genes. Our results enhance the understanding of the flavonoid biosynthesis pathway and provide synthetic elements for the production of rare flavonoids from the medicinal plant E. angustifolia.",
+  "publication_date": "2025-05-03",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.143924"
+}

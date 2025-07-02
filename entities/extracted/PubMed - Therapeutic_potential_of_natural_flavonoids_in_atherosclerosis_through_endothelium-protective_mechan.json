@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Therapeutic potential of natural flavonoids in atherosclerosis through endothelium-protective mechanisms: An update.",
+  "abstract": "Atherosclerosis and its associated cardiovascular complications remain significant global public health challenges, underscoring the urgent need for effective therapeutic strategies. Endothelial cells are critical for maintaining vascular health and homeostasis, and their dysfunction is a key contributor to the initiation and progression of atherosclerosis. Targeting endothelial dysfunction has, therefore, emerged as a promising approach for the prevention and management of atherosclerosis. Among natural products, flavonoids, a diverse class of plant-derived phenolic compounds, have garnered significant attention for their anti-atherosclerotic properties. A growing body of evidence demonstrates that flavonoids can mitigate endothelial dysfunction, highlighting their potential as endothelial dysfunction-targeted therapeutics for atherosclerosis. In this review, we summarize current knowledge on the roles of natural flavonoids in modulating various aspects of endothelial dysfunction and their therapeutic effects on atherosclerosis, focusing on the underlying molecular mechanisms. We also discuss the challenges and future prospects of translating natural flavonoids into clinical applications for cardiovascular medicine. This review aims to provide critical insights to advance the development of novel endothelium-protective pharmacotherapies for atherosclerosis.",
+  "publication_date": "2025-04-22",
+  "journal": "Pharmacology & therapeutics",
+  "doi": "10.1016/j.pharmthera.2025.108864",
+  "entities": {
+    "SYMPTOM": [
+      "atherosclerosis",
+      "endothelial dysfunction",
+      "endothelial dysfunction-targeted therapeutics"
+    ],
+    "POLYPHENOL": [
+      "effective therapeutic strategies",
+      "flavonoids",
+      "future prospects",
+      "natural flavonoids",
+      "novel endothelium-protective pharmacotherapies",
+      "plant-derived phenolic compounds",
+      "the underlying molecular mechanisms",
+      "their therapeutic effects",
+      "various aspects"
+    ]
+  }
+}

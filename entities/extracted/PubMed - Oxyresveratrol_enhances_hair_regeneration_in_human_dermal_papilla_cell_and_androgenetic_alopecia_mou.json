@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Oxyresveratrol enhances hair regeneration in human dermal papilla cell and androgenetic alopecia mouse model.",
+  "abstract": "Alopecia, or hair loss, is a common dermatological condition caused by multiple factors. Oxyresveratrol (ORV), a compound derived from the heartwood of Artocarpus lakoocha, is recognized for its potent antioxidant properties, with recent studies highlighting its anti-inflammatory effect across various cell types. This study aims to explore the therapeutic potential of ORV in treating alopecia. We evaluated the effects of ORV on Human Follicle Dermal Papilla Cells (HFDPCs) and an androgenetic alopecia (AGA) mouse model. Oxidative stress in HFDPCs was induced using hydrogen peroxide (H2O2), and dihydrotestosterone (DHT) was used to simulate AGA in both HFDPCs and C57BL/6NJcl mice. Our finding demonstrated that ORV significantly enhanced HFDPCs proliferation. In H2O2-induced oxidative stress conditions, pretreatment with ORV decreased reactive oxygen species (ROS) levels and reduced the production of pro-inflammatory cytokine. In the AGA model, ORV inhibited \u03b2-Catenin phosphorylation in HFDPCs, thereby promoting hair growth and maintaining skin thickness, hair bulb size, and count in mice. Overall, ORV demonstrated anti-inflammatory and hair-regenerative effects in both in vitro and in vivo models of alopecia. These findings suggest that ORV is a promising candidate for the treatment of hair loss.",
+  "publication_date": "2025-05-20",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-02581-z",
+  "entities": {
+    "POLYPHENOL": [
+      "alopecia",
+      "an androgenetic alopecia",
+      "anti-inflammatory and hair-regenerative effects",
+      "its anti-inflammatory effect",
+      "oxyresveratrol",
+      "reactive oxygen species (ros) levels",
+      "recent studies",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "h2o2-induced oxidative stress conditions",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Improving stability of frying oils and food quality with addition of dried olive mill wastewater.",
+  "abstract": "The olive oil industry in Mediterranean countries generates large quantities of waste, recognized as a cheap source of valuable compounds. This study evaluated the antioxidant properties, nutritional value and antimicrobial activity of dried olive mill wastewater (OMWW) and its effect on vegetable oils (corn and soybean) during frying and selected food products. OMWW was found to contain 5.75\u2009g GAE/L of free phenols, with oleuropein being the most bioactive compounds. Refined vegetable oils enriched with OMWW (600\u2009mg/L) showed an increase in induction times, indicating higher oxidative stability compared to oils with BHT. Sensory evaluation revealed no significant differences (p\u2009<\u20090.05) in characteristics of French fries which fried in enriched refined oils versus controls. OMWW polyphenols effectively retarded lipid oxidation and improved oxidative stability of oils, nutritional value of French fries, and sensory attribute of mayonnaise. Beneficial use of OMWW as a natural antioxidant was recommended by the present study.",
+  "publication_date": "2025-05-16",
+  "journal": "NPJ science of food",
+  "doi": "10.1038/s41538-025-00430-x",
+  "entities": {
+    "FOOD": [
+      "soybean",
+      "the olive oil industry"
+    ],
+    "POLYPHENOL": [
+      "its effect",
+      "oleuropein",
+      "omww polyphenols",
+      "selected food products"
+    ]
+  }
+}

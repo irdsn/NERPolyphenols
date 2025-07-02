@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Genome-wide analysis of the bHLH gene family in Spatholobus suberectus identifies SsbHLH112 as a regulator of flavonoid biosynthesis.",
+  "abstract": "Spatholobus suberectus Dunn (S. suberectus), a medicinal herb from the Leguminosae family, is widely utilized in traditional medicine. The dried stem of S. suberectus demonstrates a variety of pharmacological effects, primarily attributed to its rich content of flavonoid compounds, such as catechin. The bHLH gene family serves diverse functions in plants, including regulating flavonoid biosynthesis, yet its specific function in S. suberectus remains uncertain. To address this, the sequenced genome of S. suberectus was leveraged for an extensive genome-wide analysis of the bHLH gene family. This analysis identified 156 SsbHLH genes, which were phylogenetically classified into 19 distinct subgroups. Of these, 153 genes were mapped across 9 chromosomes, while 3 remained unlocalized. Furthermore, genes within the identical subgroups displayed preserved exon-intron arrangements and motif patterns. Ka/Ks analysis further revealed that most duplicated genes have undergone purifying selection. A subset of 12 SsbHLH genes was found to be markedly associated with flavonoid content, including catechin, isoliquiritigenin, formononetin, and genistein. Among these, SsbHLH112, which strongly correlates with catechin levels, was shown to markedly elevate flavonoids and catechin accumulation when overexpressed in Nicotiana benthamiana. This overexpression also notably upregulated NbDFR and NbLAR, consistent with increased catechin production. These results elucidate the role of SsbHLH transcription factors in flavonoid biosynthesis, providing a basis for additional exploration of SsbHLH gene functions in S. suberectus.",
+  "publication_date": "2025-05-06",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-025-06452-7",
+  "entities": {
+    "POLYPHENOL": [
+      "catechin",
+      "catechin accumulation",
+      "catechin levels",
+      "flavonoid biosynthesis",
+      "flavonoid compounds",
+      "flavonoid content",
+      "formononetin",
+      "genistein",
+      "increased catechin production",
+      "its specific function",
+      "markedly elevate flavonoids",
+      "pharmacological effects",
+      "s. suberectus",
+      "spatholobus suberectus dunn",
+      "undergone purifying selection"
+    ]
+  }
+}

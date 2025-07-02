@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "A new cytotoxic stilbene fromPaphiopedilum hirsutissimum(Lindl. ex Hook.) Stein.",
+  "abstract": "A newtrans-stilbene, (E)-2,4-bis(4-hydroxybenzyl)-3,5-dihydroxystilbene (1), and ten known compounds including stilbenoids (2,7,8,10), coumaric acid ester (3), flavonoids (4-6), aromatic aldehyde (9) and triterpenoid glycoside (11) were isolated from the leaves and roots of the lady slipper's orchidPaphiopedilum hirsutissimum(Lindl. ex Hook.) Stein. The structures of these chemical constituents were determined based on their spectroscopic data and comparison with literature.In vitrocytotoxicity of all isolated compounds towards human hepatic cancer (HepG2) cell line was examined by MTT assay. Izalpinin (6) was potently cytotoxic to the cancer cells, with an IC50value of 4.62\u2009\u00b1\u20091.50\u2009\u03bcM. Stilbenoids2,7and8also exhibited notable activity in the range of 6.31-6.68\u2009\u03bcM. All compounds, except the new stilbene1, were non-toxic to normal fibroblast (OUMS-36) cell line.",
+  "publication_date": "2025-06-09",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2514732",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "their spectroscopic data"
+    ],
+    "SYMPTOM": [
+      "human hepatic cancer",
+      "the cancer cells"
+    ]
+  }
+}

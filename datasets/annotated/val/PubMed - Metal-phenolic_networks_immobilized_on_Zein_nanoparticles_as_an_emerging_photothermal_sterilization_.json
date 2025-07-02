@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Metal-phenolic networks immobilized on Zein nanoparticles as an emerging photothermal sterilization for foods.",
+  "abstract": "Bacterial-mediated food spoilage poses global challenges to food safety and waste. While biocompatible metal-phenolic network (MPN)-based photothermal platforms offer a promising alternative to conventional high-temperature sterilization, their pH-responsive disassembly significantly compromises effectiveness in acidic foods. To address this challenge, we developed a photothermal antibacterial nanoplatform composing of all-natural materials by covalently immobilizing epigallocatechin gallate (EGCG)/Fe3+networks onto zein nanoparticles (ZEF). This design ensures pH-stable photothermal performance across acidic, neutral, and weakly basic matrices. Under near-infrared (NIR) irradiation (808\u00a0nm, 10\u00a0min), ZEF generated localized hyperthermia (59-65\u00a0\u00b0C), eradicating 6.5 log10CFU/mL of E. coli and methicillin-resistant Staphylococcus aureus (MRSA). ZEF achieved complete bacterial elimination (100\u00a0% reduction) under NIR treatment in liquid foods, including NFC juice and beer (pH\u00a03-4) and milk (pH\u00a06.5), surpassing the effectiveness of conventional pasteurization. Surface decontamination tests on fresh beef demonstrated nearly complete inhibition of MRSA. With a photothermal conversion efficiency of up to 39.49\u00a0% and recyclability over six irradiation cycles, ZEF offers a green, scalable strategy for gentle yet effective food sterilization.",
+  "publication_date": "2025-06-13",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145248",
+  "entities": {
+    "POLYPHENOL": [
+      "effectiveness",
+      "epigallocatechin gallate",
+      "gentle yet effective food sterilization",
+      "recyclability",
+      "surface decontamination tests",
+      "the effectiveness"
+    ],
+    "FOOD": [
+      "nfc juice"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Evolution of Physicochemical Properties and Phenolic Maturity of Vilana, Vidiano, Kotsifali and Mandilari Wine Grape Cultivars (Vitis viniferaL.) during Ripening.",
+  "abstract": "Determining the optimum harvest time is a significant factor affecting the quality of the grapes and the wine. Monitoring the evolution of grapes' physicochemical properties and phenolic maturity during ripening could be a valuable tool for determining the optimum harvest time. In this study, the total phenolic content, antioxidant activity, flavonols, flavanols, anthocyanins and resveratrol content were determined during the last weeks of ripening for the white cultivars Vilana and Vidiano, as well as for the red cultivars Kotsifali and Mandilari (Vitis viniferaL.). According to the results, an early harvest for the white cultivars and a late harvest for the red cultivars may increase the total phenolics and trans-resveratrol content in grapes and wine. An early harvest would be desirable to maintain high flavanols content and high levels of antioxidant activity in the grapes' skin and seeds. Conversely, a late harvest for the red cultivars may be desirable to increase the total flavonols and anthocyanin content in grapes and wines.",
+  "publication_date": "2022-12-15",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants11243547",
+  "entities": {
+    "FOOD": [
+      "grapes",
+      "grapes' physicochemical properties",
+      "the grapes",
+      "the grapes' skin",
+      "the wine",
+      "wine",
+      "wines"
+    ],
+    "POLYPHENOL": [
+      "resveratrol content",
+      "the total phenolics and trans-resveratrol content"
+    ]
+  }
+}

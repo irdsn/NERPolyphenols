@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Promiscuity in Polyphenol-Protein Interactions-Monitoring Protein Conformational Change upon Polyphenol-Protein Binding by Nano-Differential Fluorimetry (Nano-DSF).",
+  "abstract": "In this article, we introduce nano-differential fluorimetry (nano-DSF) as an analytical technique that is suitable for investigating polyphenol-protein interactions in solution. Nano-DSF monitors conformational changes in proteins induced by external agents upon interaction at the molecular level. We demonstrate the suitability of this technique to qualitatively monitor an interaction between selected dietary polyphenols and selected proteins including BSA, ovalbumin, amylase, pepsin, trypsin, mucin and ACE-1. Protein conformational changes induced by dietary polyphenols can be investigated. As a major advantage, measurements are carried out at a high dilution, avoiding the precipitation of polyphenol-protein complexes, allowing the rapid and efficient acquisition of quantitative and qualitative binding data. From this concentration, quantitative binding data could be obtained from the fluorescence response curve in line with published values for the association constants. We demonstrate that qualitative interactions can also be established for real food extracts such as cocoa, tea or coffee containing mixtures of dietary polyphenols. Most importantly, we demonstrate that polyphenols of very different structural classes interact with the same protein target. Conversely, multiple protein targets show an affinity to a series of structurally diverse polyphenols, therefore suggesting a dual level of promiscuity with respect to the protein target and polyphenol structure.",
+  "publication_date": "2025-02-19",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30040965",
+  "entities": {
+    "POLYPHENOL": [
+      "an analytical technique",
+      "dietary polyphenols",
+      "polyphenol structure",
+      "polyphenol-protein complexes",
+      "polyphenol-protein interactions",
+      "polyphenols",
+      "respect",
+      "selected dietary polyphenols",
+      "selected proteins",
+      "structurally diverse polyphenols",
+      "the molecular level",
+      "the precipitation",
+      "this technique"
+    ],
+    "FOOD": [
+      "cocoa",
+      "coffee"
+    ]
+  }
+}

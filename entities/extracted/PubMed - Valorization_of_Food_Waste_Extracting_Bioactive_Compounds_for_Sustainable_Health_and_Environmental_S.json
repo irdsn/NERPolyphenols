@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Valorization of Food Waste: Extracting Bioactive Compounds for Sustainable Health and Environmental Solutions.",
+  "abstract": "Food waste is a major economic, environmental, and ethical challenge, as around a third of the edible food produced worldwide is lost or wasted. This inefficiency not only increases food insecurity but also results in resource depletion and environmental degradation. Dealing with food waste through sustainable management strategies, such as upcycling food by-products, has proven to be a promising approach to optimize resource use and support the circular economy. Valorization of food waste enables the extraction of valuable bioactive compounds with strong antioxidant properties. These natural antioxidants play a crucial role in mitigating diseases caused by oxidative stress, including cardiovascular diseases, neurodegenerative diseases, and diabetes. Utilizing food-derived polysaccharides as functional ingredients in the food, pharmaceutical, and cosmetics industries represents an environmentally friendly alternative to synthetic additives and is in line with global sustainability goals. Various extraction techniques, including enzymatic hydrolysis and ultrasound-assisted methods, enhance the recovery of these bioactives while preserving their structural integrity and efficacy. By integrating technological advances and sustainable practices, the food industry can significantly reduce waste while developing high-value products that contribute to human health and environmental protection. This review underscores the significance of food by-product valorization, aiming to bridge the gap between fundamental research and practical applications for a more sustainable future. The literature was selected based on scientific relevance, methodological quality, and applicability to the food, pharmaceutical, or cosmetic sectors. Studies lacking empirical data, not addressing the extraction or application of bioactives, or published in languages other than English were excluded.",
+  "publication_date": "2025-06-11",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060714",
+  "entities": {
+    "POLYPHENOL": [
+      "a major economic, environmental, and ethical challenge",
+      "cosmetic sectors",
+      "environmental protection",
+      "food insecurity",
+      "technological advances",
+      "the circular economy",
+      "the recovery",
+      "various extraction techniques"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

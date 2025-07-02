@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Comparative Study on Grape Berry Anthocyanins of Various Teinturier Varieties.",
+  "abstract": "The red-fleshed grape cultivars, called teinturier or dyer grapes, contain anthocyanins in both the skin and flesh. These phenolic compounds exhibit excellent coloring ability, and as antioxidants, they are important bioactive compounds in food crops. In this work, anthocyanin patterns of grape berries of fifteen teinturier varieties collected from the gene bank located at P\u00e9cs in the southwest of Hungary were compared. Anthocyanin profiles of numerous varieties originating from Hungary such as 'B\u00edborkadarka', 'K\u00e1rmin', 'Kurucv\u00e9r', and 'Tur\u00e1n' are reported for the first time. Anthocyanins extracted separately from the skin and juice were analyzed using high-performance liquid chromatography coupled with a photodiode array detector. For the identification of compounds, high-resolution orbitrap mass spectrometry was used. All in all, twenty-one anthocyanins were identified and quantified. We found that anthocyanin patterns differed significantly in the skin and juice for all investigated cultivars. ForVitis viniferavarieties, the predominant anthocyanin in the skin was malvidin-3-O-glucoside, while the main pigment in the juice was peonidin-3-O-glucoside. For the first time, a significant amount of diglucosides was detected in twoVitis Viniferacultivars with a direct relationship. In general, the pigment composition of the skin was much more complex than that of the juice. The comparative study with presented patterns gives valuable and beneficial information from a chemotaxonomical point of view. Our results also help to choose the appropriate teinturier varieties with the desired anthocyanins for food coloring or winemaking purposes.",
+  "publication_date": "2022-11-16",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods11223668",
+  "entities": {
+    "FOOD": [
+      "grape berries",
+      "juice",
+      "teinturier or dyer grapes",
+      "the juice",
+      "the red-fleshed grape cultivars"
+    ],
+    "POLYPHENOL": [
+      "a direct relationship",
+      "a photodiode array detector",
+      "high-resolution orbitrap mass spectrometry",
+      "malvidin-3-o-glucoside",
+      "these phenolic compounds"
+    ]
+  }
+}

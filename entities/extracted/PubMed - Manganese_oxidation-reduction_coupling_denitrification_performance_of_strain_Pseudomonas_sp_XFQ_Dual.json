@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Manganese oxidation-reduction coupling denitrification performance of strain Pseudomonas sp. XFQ: Dual-function comparison and potential mechanisms.",
+  "abstract": "In response to the nitrate (NO3--N) and manganese (Mn) contamination in aquatic systems polluted by industrial and agricultural activities, this study isolated a strain Pseudomonas sp. XFQ that can simultaneously achieve Mn redox coupled denitrification. In the Mn(\u2161) oxidation-coupled denitrification system (carbon to nitrogen ratio = 2.0, Mn(\u2161) =\u202f10\u202fmg\u202fL-1, and pH =\u202f7.0), the denitrification process by strain XFQ reached 98\u202f% NO3--N elimination within 12\u202fh. Meanwhile, the Mn(\u2163)-driven denitrification system achieved 99\u202f% NO3--N removal within 16\u202fh at a MnO2dosage of 500\u202fmg\u202fL-1. A comparison between Mn(\u2161) oxidation and Mn(\u2163) reduction driven denitrification systems showed that the nitrate reductase and nitrite reductase levels, electron transfer capacity, the intensity of Mn(III), and the membrane-intact cell counts are all lower in the Mn reduction-driven system. The introduction of gallic acid (GA) enhanced the electron transfer chain activity by regulating the complex stability of Mn(\u2162), redox-mediating ability, and the denitrification enzyme activity in the Mn(\u2163) reduction-coupled denitrification system, while promoting the co-metabolic degradation efficiency of NO3--N and diclofenac. This significantly enhances Mn transformation efficiency in the Mn redox-coupled denitrification system, thereby improving Mn cycling, denitrification effectiveness, and DCF removal.",
+  "publication_date": "2025-06-04",
+  "journal": "Journal of hazardous materials",
+  "doi": "10.1016/j.jhazmat.2025.138839",
+  "entities": {
+    "FOOD": [
+      "a mno2dosage"
+    ],
+    "POLYPHENOL": [
+      "denitrification effectiveness",
+      "electron transfer capacity",
+      "gallic acid",
+      "the electron transfer chain activity"
+    ]
+  }
+}

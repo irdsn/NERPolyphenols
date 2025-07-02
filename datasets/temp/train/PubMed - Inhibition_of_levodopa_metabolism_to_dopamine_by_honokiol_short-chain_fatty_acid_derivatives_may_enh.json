@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Inhibition of levodopa metabolism to dopamine by honokiol short-chain fatty acid derivatives may enhance therapeutic efficacy in Parkinson's disease.",
+  "abstract": "This study investigates the antimicrobial properties of honokiol (HNK), a naturally occurring polyphenol, when conjugated with short-chain fatty acids (SCFAs) such as butyrate. We examined the effects of HNK-SCFA ester conjugates on Enterococcus faecalis, a gut bacterium that metabolizes levodopa, a drug used to manage Parkinson's disease symptoms. Our findings indicate that HNK-SCFA-esters (e.g., HNK-acetate, HNK-propionate, HNK-butyrate, and HNK-hexanoate) inhibit E. faecalis growth in a dose-dependent manner, followed by a temporary recovery period during which levodopa remains intact and unmetabolized. Notably, HNK-SCFAs exhibit enhanced cellular permeability and are hydrolyzed within bacterial cells, releasing HNK and SCFAs. These results suggest that HNK-SCFAs may reversibly modulate the gut metabolism of levodopa to dopamine, potentially enhancing its therapeutic efficacy in treating Parkinson's disease.",
+  "publication_date": "2025-06-06",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-05072-3"
+}

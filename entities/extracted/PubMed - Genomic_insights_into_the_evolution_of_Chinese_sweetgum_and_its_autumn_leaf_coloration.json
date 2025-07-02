@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Genomic insights into the evolution of Chinese sweetgum and its autumn leaf coloration.",
+  "abstract": "Chinese sweetgum (Liquidambar formosana) is valued as a source of resin and timber and is an important ornamental tree due to its showy fall foliage. Here, we report the chromosome-level assembly of the Chinese sweetgum genome. Phylogenomic analyses showed the basal phylogenetic position of Chinese sweetgum in core eudicots. Comparative genomic analyses revealed that the well-known gamma event in the common ancestors of core eudicots is evident in the Chinese sweetgum genome, and ancestral triplicated blocks resulting from that event are more intact in Chinese sweetgum than in grapevine (Vitis vinifera). Because of its conserved genome structure, very slow rate of evolution, and basal phylogenetic position, the Chinese sweetgum genome is a good reference for comparative genome studies. Further, we reconstructed the entire metabolic pathway for anthocyanins and potential regulatory networks of autumn leaf coloration of this species via metabolomics and transcriptomics. The transcription factors LfMYB69, basic helix-loop-helix (LfbHLH4), and WD40-repeat (LfWDR1) may collectively regulate the transcription of anthocyanin biosynthetic genes. The regulation of chalcone synthase genes (LfCHS1-3) and dihydroflavonol 4-reductase genes (LfDFR1-2) by the LfMYB69-LfbHLH4-LfWDR1 complex was confirmed by luciferase assays. Epigenomic analyses revealed that 5 structural genes, including LfCHS1, and 2 regulatory LfMYBs are epigenetically regulated. This study expands our understanding of autumn leaf coloration and provides valuable genomic resources for comparative biology, breeding, and biotechnology.",
+  "publication_date": "2025-06-01",
+  "journal": "Plant physiology",
+  "doi": "10.1093/plphys/kiaf218",
+  "entities": {
+    "FOOD": [
+      "grapevine"
+    ],
+    "POLYPHENOL": [
+      "biotechnology",
+      "this species"
+    ]
+  }
+}

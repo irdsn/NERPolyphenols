@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Intelligent pH-responsive films based on natural blueberry anthocyanins: A non-destructive monitoring system for the freshness of aquatic products with prospective smartphone compatibility.",
+  "abstract": "Packaging plays a pivotal role in preserving food quality throughout processing and storage. This study developed a smart hydroxypropyl methylcellulose- \u03ba-carrageenan- gelatin (H-K-G-B) film containing blueberry anthocyanins (BA) for freshness monitoring. The incorporation of BA significantly enhanced the film's antioxidant properties, with DPPH and ABTS radical scavenging capacities reaching 82.92\u00a0% and 86.44\u00a0%, respectively. The mechanical strength of H-K-G-B film was satisfactory, achieving tensile strength of 5.85\u00a0MPa and Young's modulus of 24.05\u00a0MPa, along with superior UV-vis light barrier performance. The H-K-G-B film exhibited high NH3sensitivity at 32.79\u00a0% and distinct color changes with pH response in alkaline environments (R2=\u00a00.9502), which was successfully applied in salmon spoilage indication. Moreover, based on the significantly correlations (R2>\u00a00.90) between chromatic parameters and quality parameters, including pH, TVB-N, and TBARS, a smartphone-based visual detection platform for real-time food freshness indication was established. So, this work provides a scientifically validated solution for intelligent food packaging.",
+  "publication_date": "2025-05-26",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102587",
+  "entities": {
+    "SYMPTOM": [
+      "intelligent food packaging",
+      "packaging"
+    ],
+    "FOOD": [
+      "blueberry anthocyanins"
+    ],
+    "POLYPHENOL": [
+      "a smartphone-based visual detection platform",
+      "the mechanical strength"
+    ]
+  }
+}

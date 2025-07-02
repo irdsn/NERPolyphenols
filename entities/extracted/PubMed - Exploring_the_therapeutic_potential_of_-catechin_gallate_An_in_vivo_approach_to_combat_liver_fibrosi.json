@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Exploring the therapeutic potential of (+)-catechin gallate: An in vivo approach to combat liver fibrosis.",
+  "abstract": "Liver fibrosis occurs as a result of the progression of chronic liver diseases, regardless of underlying causes such as hepatitis virus infection, alcohol intake, and metabolic fatty liver disorder. It is often associated with liver damage, inflammation, and cell death. In the current study, the potential of (+)-catechin gallate was checked against liver fibrosis in rat models. Carbon tetrachloride (CCl4) was administrated to induce liver fibrosis, and 0.7 mL/kg of CCl4with olive oil was injected into rats for six weeks twice a week. The analysis of liver markers (i.e., alkaline phosphatase (ALP), aspartate transaminase (AST), and alanine transaminase (ALT)) was found to be increased in rats treated with CCl4, confirming the induction of liver fibrosis. After induction, the rats were divided into four groups (i.e., G2 to G5) with 6 rats in each group. Group 3 was treated with silymarin standard drug, and groups 4 and 5 were treated with (+)-catechin gallate low dose (50 mg/kg) and high dose (100 mg/kg), respectively for four weeks. After treatment, the levels of ALP, AST, and ALT revealed highly significant results compared to the standard drug. Histopathological study after treatment with (+)-catechin gallate revealed reduced inflammation, nuclear damage, necrosis, and hemorrhage. The study clearly shows the anti-liver fibrosis potential of (+)-catechin gallate, which could be used as a potential drug candidate in the treatment of liver fibrosis in the future.",
+  "publication_date": "2025-06-01",
+  "journal": "Pakistan journal of pharmaceutical sciences",
+  "doi": null,
+  "entities": {
+    "SYMPTOM": [
+      "cell death",
+      "inflammation",
+      "liver damage",
+      "liver fibrosis",
+      "reduced inflammation",
+      "the anti-liver fibrosis potential"
+    ],
+    "POLYPHENOL": [
+      "(+)-catechin gallate",
+      "(+)-catechin gallate low dose",
+      "hepatitis virus infection",
+      "necrosis",
+      "silymarin standard drug"
+    ],
+    "FOOD": [
+      "ccl4with olive oil"
+    ]
+  }
+}

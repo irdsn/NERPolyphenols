@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Identification and Characterization of a Leoligin-Inspired Synthetic Lignan as a TGR5 Agonist.",
+  "abstract": "The G-protein coupled bile acid receptor 1 (GPBAR1 or TGR5) is the major cell membrane receptor for bile acids regulating metabolic and immunological functions. Its pharmacological modulation has been shown to alleviate inflammatory diseases, such as type 2 diabetes and atherosclerosis. The naturally occurring lignan leoligin and structural analogues have shown anti-inflammatory effects in vitro. However, the underlying molecular targets are still unknown. In this study, we identify the natural product-inspired synthetic structural analogue of leoligin, LT-188A (1), as a novel nonsteroidal TGR5 agonist. LT-188A (1) induced cyclic adenosine monophosphate (cAMP) accumulation and cAMP response element (CRE)-dependent luciferase activity in a concentration- and TGR5-dependent manner. Consistently, LT-188A (1) inhibited activation of the pro-inflammatory transcription factor nuclear factor \u03baB (NF\u03baB) only in TGR5 expressing cells. In macrophages, LT-188A (1) reduced the expression levels of pro-inflammatory cytokines and the production of nitric oxide (NO) as determined by qPCR and the Griess assay, respectively. We showed that LT-188A (1) decreased the levels of production of these inflammatory mediators in macrophages. In conclusion, we demonstrate that LT-188A (1) is a novel natural product-inspired TGR5 agonist with promising anti-inflammatory in vitro bioactivity in relevant cellular assays representing a promising tool compound with potential for further development.",
+  "publication_date": "2025-03-27",
+  "journal": "Journal of natural products",
+  "doi": "10.1021/acs.jnatprod.5c00059",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory effects",
+      "the g-protein coupled bile acid receptor",
+      "the major cell membrane receptor",
+      "the underlying molecular targets"
+    ],
+    "SYMPTOM": [
+      "atherosclerosis",
+      "type 2 diabetes"
+    ]
+  }
+}

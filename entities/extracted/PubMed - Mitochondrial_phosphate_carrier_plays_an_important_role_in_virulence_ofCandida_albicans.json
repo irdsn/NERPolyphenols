@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Mitochondrial phosphate carrier plays an important role in virulence ofCandida albicans.",
+  "abstract": "Candida albicansis a common fungal pathogen that can cause life-threatening infections.MIR1is considered to be a mitochondrial phosphate carrier ofC. albicans, while its role in virulence has not been fully elucidated. In this study, we found thatmir1\u0394/\u0394mutant exhibited severe virulence defect in both nematode and murine models. Further mechanism studies revealed that themir1\u0394/\u0394mutant grew more slowly than the wild-type strain and showed severe filamentation defects on the hypha-inducing agar media, including YPD\u2009+\u2009serum, Lee, Spider\u2009+\u2009glucose, SLAD, SLD, and YPS. Furthermore, the loss ofMIR1resulted in unfermentable carbon utilisation defect, ATP decrease, and reactive oxygen species (ROS) accumulation inC. albicans. Antioxidant proanthocyanidins, vitamin E, and N-acetyl cysteine (NAC) could reduce intracellular ROS levels and partially rescue the filamentation defects of themir1\u0394/\u0394mutant. Accordingly, hypha-specific genes, as well asCEK1andRIM101were down-regulated in themir1\u0394/\u0394mutant, and this down-regulation could be partially rescued by the addition of the antioxidant NAC. Collectively,MIR1plays an important role inC. albicansmitochondrial function, filamentation and virulence, and would be a promising antifungal target.",
+  "publication_date": "2024-05-16",
+  "journal": "Mycology",
+  "doi": "10.1080/21501203.2024.2354876",
+  "entities": {
+    "POLYPHENOL": [
+      "accordingly, hypha-specific genes",
+      "antioxidant proanthocyanidins",
+      "atp decrease",
+      "further mechanism studies",
+      "life-threatening infections",
+      "reactive oxygen species",
+      "severe filamentation defects",
+      "severe virulence defect",
+      "the filamentation defects",
+      "unfermentable carbon utilisation defect"
+    ]
+  }
+}

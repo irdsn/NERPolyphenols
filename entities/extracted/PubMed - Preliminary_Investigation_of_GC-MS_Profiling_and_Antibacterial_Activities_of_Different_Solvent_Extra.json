@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Preliminary Investigation of GC-MS Profiling and Antibacterial Activities of Different Solvent Extracts FromLitchi chinensisSonn. Seed.",
+  "abstract": "Traditionally different parts ofLitchi chinensisSonn. (Family: Sapindaceae) have been used medicinally to treat a variety of diseases, including stomach ulcers, flatulence, obesity, cough, diabetes, and hernia-like situations. This study investigates the gas chromatography-mass spectrometry (GC-MS) profiling to detect different types of phytochemicals and antibacterial activity of various solvent extracts derived from the seeds ofLitchi chinensisSonn. Eventually, comprehending the potential biological functions of the detected compounds is explored. GC-MS analysis revealed a diverse array of chemical compounds, with 34, 35, and 25 compounds identified in the n-hexane, n-hexane-chloroform (2:1), and methanol extracts, respectively. The major compounds identified were 2,4-bis (1,1-dimethylethyl) phenol (14.38%) in the n-hexane extract, hexadecenoic acid (13.35%) in the n-hexane-chloroform extract, and 2-(hydroxymethyl)-2-nitro-1,3-propanediol (39.16%) in the methanol extract. While most compounds exhibited biological activity, some were neutral or fatty acid derivatives. Notable bioactive compounds included bis (2-ethylhexyl) phthalate and pentadecane in the n-hexane extract, naphthalene in the n-hexane-chloroform extract, and 13-docosanamide (Z) and beta-longipinene in the methanol extract. Antibacterial activity was tested againstListeria monocytogenesandSalmonella choleraesuis,where methanolic extract showed the highest activity (ZOI-10\u2009mm for both bacteria), followed by n-hexane extract and n-hexane-chloroform (2:1) extract, respectively. The study's findings highlight the potential ofL. chinensisseed extracts as sources of bioactive compounds, supporting their traditional medicinal uses and suggesting possible applications in antimicrobial therapy. Future studies should focus on isolating and characterizing the key bioactive compounds and broadening the scope to test against additional pathogens and assess other biological activities, such as anticancer and anti-inflammatory effects, could further validate the medicinal uses ofL. chinensisSonn.",
+  "publication_date": "2025-06-18",
+  "journal": "Scientifica",
+  "doi": "10.1155/sci5/7644558",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer",
+      "obesity"
+    ],
+    "POLYPHENOL": [
+      "anti-inflammatory effects",
+      "hexadecenoic acid",
+      "pentadecane",
+      "the detected compounds",
+      "the gas chromatography-mass spectrometry"
+    ]
+  }
+}

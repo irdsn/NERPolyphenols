@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Therapeutic Effects and Mechanisms of Icaritin in Parkinson's Disease.",
+  "abstract": "Parkinson's Disease (PD) is a neurodegenerative disorder of the central nervous system (CNS). Given the increasing age of the general population, PD has emerged as a significant public health and societal concern, impacting both individual well-being and socioeconomic progress. The present interventions have proven insufficient in impeding the progressive nature of PD. Consequently, it is imperative to promptly identify efficacious strategies for the prevention and treatment of PD. Icaritin (ICT) is a flavonoid extracted from Epimedium Brevicornu Maxim that is a phytoestrogen with antitumour, anti-inflammatory, antioxidant, antiaging, and neuroprotective properties. This paper reviews the protective effect of ICT on dopaminergic neurons through anti-oxidative stress, improving mitochondrial function, inhibiting neuroinflammatory responses, reducing Lewy body formation, and decreasing apoptosis. The primary objective of this article is to provide valuable insights and serve as a reference for the potential use of ICT in the prevention and treatment of PD.",
+  "publication_date": "2025-02-10",
+  "journal": "Current pharmaceutical design",
+  "doi": "10.2174/0113816128344629250115074105",
+  "entities": {
+    "SYMPTOM": [
+      "anti-oxidative stress",
+      "parkinson's disease"
+    ],
+    "POLYPHENOL": [
+      "a flavonoid",
+      "both individual well-being and socioeconomic progress",
+      "decreasing apoptosis",
+      "neuroprotective properties",
+      "the primary objective",
+      "the protective effect"
+    ]
+  }
+}

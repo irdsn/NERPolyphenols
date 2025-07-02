@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Dihydromyricetin improving myocardial function in the mice induced by CCl4.",
+  "abstract": "To study the role and underlying mechanisms of dihydromyricetin on the myocardial function in mice induced by CCl4.",
+  "publication_date": "2025-03-15",
+  "journal": "International journal of immunopathology and pharmacology",
+  "doi": "10.1177/03946320251317397",
+  "entities": {
+    "POLYPHENOL": [
+      "dihydromyricetin",
+      "underlying mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Identification of 1-O-Galloyl -\u03b2-D-glucose as a potent activator of Sirtuin-1: an in-silico study.",
+  "abstract": "Sirt-1 is a deacetylase acting on histones and various non-histone proteins, playing a crucial role in multiple physiological and pathological processes. Scientific efforts to regulate its activity primarily focus on small molecule activators. In order to identify better small molecular natural compounds activating Sirt-1, this study employed traditional knowledge-driven in silico studies based on phytochemicals from selected medicinal plants. Molecular docking studies against Sirt-1 using a phytochemical library, identified 1-O-galloyl-\u03b2-D-Glucose (GBDG) that binds to the allosteric site of Sirt-1 with docking score, H-bond interaction and other docking features better than that of resveratrol, a known natural small molecular activator of Sirt-1. Molecular dynamic simulation of the docked complex, followed by trajectory analysis (RMSD, RMSF, Radius of Gyration and binding energy) demonstrated that the complex is structurally and thermodynamically stable. Centroid distance measurement between key residues in the regulatory and catalytic domain revealed that docking of GBDG resulted in change in conformation fetching catalytic domain closer to the regulatory domain. GBDG docking against Sirt-1 increased its affinity to the acetylated substrate as indicated by better docking parameters when compared with that of Sirt-1(apo) and resveratrol-Sirt-1 docked complex. The docking of GBDG to the allosteric site along with favorable docking parameters, enhanced interactions between the catalytic and regulatory domains, increased complex stability (as shown by molecular dynamics simulation), and greater binding affinity to acetylated peptide substrate suggest that GBDG is a potent allosteric regulator of Sirt-1.",
+  "publication_date": "2025-06-20",
+  "journal": "Journal of molecular graphics & modelling",
+  "doi": "10.1016/j.jmgm.2025.109114",
+  "entities": {
+    "POLYPHENOL": [
+      "1-o-galloyl-\u03b2-d-glucose",
+      "a known natural small molecular activator",
+      "better small molecular natural compounds",
+      "molecular dynamic simulation",
+      "molecular dynamics simulation",
+      "resveratrol",
+      "selected medicinal plants",
+      "small molecule activators",
+      "trajectory analysis"
+    ]
+  }
+}

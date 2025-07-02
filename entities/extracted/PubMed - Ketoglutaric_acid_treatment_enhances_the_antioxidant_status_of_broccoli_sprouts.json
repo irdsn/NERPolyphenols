@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Ketoglutaric acid treatment enhances the antioxidant status of broccoli sprouts.",
+  "abstract": "Ketoglutaric acid (\u03b1-KGA) is a dicarboxylic ketoacid with strong biological activity, whose main role in eukaryotic organisms is to participate in the Krebs cycle. In the present study, we tested whether the application of \u03b1-KGA to edible sprout culture would increase the content of low-molecular-weight antioxidants by improving their mitochondrial activity. For this purpose, broccoli sprouts were treated at the beginning of germination with an aqueous solution of \u03b1-KGA, at various concentrations (0, 0.1, 1, and 10\u2009mmol\u2009L-1), which after 5\u2009days of germination were analyzed for markers of antioxidant status, oxidative stress, and energy metabolism.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.14323",
+  "entities": {
+    "POLYPHENOL": [
+      "low-molecular-weight antioxidants"
+    ],
+    "FOOD": [
+      "broccoli sprouts"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Mycorrhiza Inoculation and Soil-Available Phosphorus Modulate Phosphorus Acquisition Strategies of Alfalfa.",
+  "abstract": "The comprehensive understanding of how arbuscular mycorrhizal fungi (AMF) and phosphorus (P) application affect P uptake by alfalfa roots is poorly understood. We analyzed the effects of AMF inoculation and P application levels on the trade-offs and variations in P acquisition strategies of alfalfa by assessing plant growth, root morphology, organic acid contents, phosphatase activity, root transcriptome, and soil P forms. AMF inoculation increased five organic acid contents (glutaric acid, 3-hydroxymethylglutaric acid, gallic acid, 2-hydroxyphenylacetic acid, and fumaric acid) and phosphatase activity synthesized by alfalfa and secreted by the roots and hyphae, which activated soil Ca2-P, Fe-P, and organic P, promoting root growth for P absorption and biomass. Without AMF inoculation, plant biomass, P accumulation, and root growth increased with increasing P application, and organic acid contents were higher at P20 and P40 (20 and 40 mg P kg-1dry soil). AMF colonization and phosphatase played a crucial role in P acquisition under P-limiting conditions.",
+  "publication_date": "2025-05-30",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c05160",
+  "entities": {
+    "POLYPHENOL": [
+      "gallic acid",
+      "the effects"
+    ]
+  }
+}

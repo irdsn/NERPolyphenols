@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Resveratrol and N-acetylcystein reduce hepatic steatosis but enhance initiation and progression of hepatocellular carcinoma by inhibiting GST-pi-MAPK axis in mice.",
+  "abstract": "Accumulating evidence indicates that antioxidants promote tumor growth and metastasis after tumor onset in several cancer types. However, whether antioxidants prevent or accelerate hepatic tumorigenesis during steatosis remains unknown. Therefore, we investigated the effects of resveratrol (RES) and N-acetylcysteine (NAC) on hepatocellular carcinoma (HCC) development using two fatty liver mouse models.",
+  "publication_date": "2025-04-28",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1574039",
+  "entities": {
+    "SYMPTOM": [
+      "several cancer types",
+      "steatosis",
+      "tumor growth"
+    ],
+    "POLYPHENOL": [
+      "resveratrol",
+      "the effects"
+    ]
+  }
+}

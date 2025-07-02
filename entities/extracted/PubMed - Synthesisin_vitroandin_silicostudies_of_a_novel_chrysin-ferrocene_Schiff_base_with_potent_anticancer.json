@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Synthesis,in vitroandin silicostudies of a novel chrysin-ferrocene Schiff base with potent anticancer activityviaG1 arrest, caspase-dependent apoptosis and inhibition of topoisomerase II.",
+  "abstract": "A novel chrysin-ferrocene Schiff base (CFSB) was synthesised as a potential anticancer agent. CFSB demonstrated high cytotoxicity against cancer cells with HepG2 (liver) being the most susceptible (IC50= 3.11\u2009\u00b5M). The compound was less toxic towards normal MRC5 cells and exhibited \u223c5-fold selectivity towards most cancer cells. CFSB caused G1-phase arrest, induced caspase-dependent apoptosis by increasing Bax/Bcl2 ratio and reduced metastasis by decreasing MMP9 in HepG2. Furthermore, CFSB was inactive against CDK2, EGFR, TrkA and VEGFR, but it strongly inhibited topoisomerase II (IC50= 20\u2009\u00b5M) with potency comparable to etoposide (IC50= 15\u2009\u00b5M), while weak inhibition was observed against tubulin (IC50= 76\u2009\u00b5M). DFT calculations revealed that CFSB had desirable reactivity, while docking indicated high binding affinity with topoisomerase II. Molecular dynamics and MM-GBSA analyses showed that CFSB-topoisomerase II complex was stable with favourable binding energies, whilein silicoADMET studies showed drug-like properties for CFSB.",
+  "publication_date": "2025-05-21",
+  "journal": "Journal of enzyme inhibition and medicinal chemistry",
+  "doi": "10.1080/14756366.2025.2501377",
+  "entities": {
+    "POLYPHENOL": [
+      "a novel chrysin-ferrocene schiff base",
+      "molecular dynamics",
+      "\u223c5-fold selectivity"
+    ],
+    "SYMPTOM": [
+      "a potential anticancer agent",
+      "cancer cells",
+      "caspase-dependent apoptosis",
+      "most cancer cells"
+    ]
+  }
+}

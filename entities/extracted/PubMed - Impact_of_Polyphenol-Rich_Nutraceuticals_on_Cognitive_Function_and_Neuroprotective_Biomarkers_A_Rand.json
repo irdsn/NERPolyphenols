@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Impact of Polyphenol-Rich Nutraceuticals on Cognitive Function and Neuroprotective Biomarkers: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial.",
+  "abstract": "Recent studies have highlighted the neuroprotective effects of polyphenols, particularly their role in enhancing brain-derived neurotrophic factor (BDNF) and cAMP response element-binding protein (CREB) activity. This study aimed to evaluate the relationship between BDNF and CREB levels and cognitive performance in individuals undergoing a polyphenol-rich dietary intervention.",
+  "publication_date": "2025-02-07",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17040601",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol-rich dietary intervention",
+      "polyphenols",
+      "recent studies",
+      "the neuroprotective effects"
+    ]
+  }
+}

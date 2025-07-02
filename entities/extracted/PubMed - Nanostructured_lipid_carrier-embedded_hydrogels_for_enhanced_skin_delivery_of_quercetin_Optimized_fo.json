@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Nanostructured lipid carrier-embedded hydrogels for enhanced skin delivery of quercetin: Optimized formulation with pomegranate oil for UVB protection.",
+  "abstract": "Nanoparticle-embedded hydrogels are promising delivery systems for cutaneous applications. This study aimed to enhance skin delivery and bioavailability of quercetin, a biologically active flavonoid using nanostructured lipid carriers (NLCs) embedded within sodium alginate/ poly(vinyl alcohol) hydrogels. Pomegranate oil, selected for its anti-inflammatory, antioxidant, and anti-apoptotic properties, served as a natural liquid lipid for NLCs production. A Box-Behnken design optimized the NLC production, considering the lipid ratio, water content, and drug concentration as variables. The resulting NLCs (200 to 300\u00a0nm) achieved 55\u00a0% quercetin entrapment efficiency, outperforming solid lipid nanoparticles (43\u00a0%). The NLCs showed long-term colloidal stability (3\u00a0months) with a surface potential of -19\u00a0\u00b1\u00a03\u00a0mV, maintained through combined electrostatic and steric stabilization mechanisms. While quercetin's antioxidant activity slightly decreased when encapsulated. Cellular viability was demonstrated in fibroblasts and keratinocytes. Rheological analysis confirmed the hydrogels' robustness and stability, while Human keratinocytes studies indicated a photoprotective effect, making this delivery system a promising approach for preventing UVB-induced skin damage.",
+  "publication_date": "2025-06-24",
+  "journal": "International journal of pharmaceutics",
+  "doi": "10.1016/j.ijpharm.2025.125894",
+  "entities": {
+    "POLYPHENOL": [
+      "55\u00a0% quercetin entrapment efficiency",
+      "a biologically active flavonoid",
+      "a photoprotective effect",
+      "combined electrostatic and steric stabilization mechanisms",
+      "quercetin",
+      "quercetin's antioxidant activity"
+    ],
+    "FOOD": [
+      "pomegranate oil"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Non-Alcoholic Beer Influences Glucose and Lipid Metabolism and Changes Body Composition in Healthy, Young, Male Adults.",
+  "abstract": "Background and Aims:Non-alcoholic beers (NABs) are gaining popularity as alternatives to alcoholic beverages, yet their metabolic and health effects compared to no consumption of these drinks remain unclear.Material and Methods:The investigator-blinded, single-center, randomized study compares the effects on the metabolism, health, and gut microbiome of the daily consumption of different NABs-pilsener, mixed beer, and wheat beer-on glucose and fat metabolism, body composition, and liver function in 44 healthy young men. The participants consumed 660 mL of one of these beers or water daily for 4 weeks. We measured indicators of glucose and lipid metabolism, liver enzymes, body composition, and the composition of the gut microbiota.Results:The findings revealed that mixed beer increased fasting glucose and triglycerides, and wheat beer increased insulin, C-peptide, and triglycerides. The intake of pilsener and water decreased cholesterol and LDL levels without significantly affecting glucose metabolism. Biomarkers of liver damage such as M30 lowered in water and pilsener, while ALT and AST lowered in mixed beer. The pattern of the gut microbiota also changed, as pilsener loweredFirmicutesand increasedActinobacteria.Conclusions:In summary, consumption of NABs, especially mixed and wheat beers, exerts an unfavorable metabolic impact on glucose and fat, while pilsener and water are more favorable from a metabolic perspective. We concluded that the metabolic alterations seen are probably due to the caloric and sugar content in NABs, rather than polyphenols. The chronic effects of NABs on health should be evaluated in future studies.",
+  "publication_date": "2025-05-09",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17101625",
+  "entities": {
+    "POLYPHENOL": [
+      "a metabolic perspective",
+      "especially mixed and wheat beers",
+      "polyphenols",
+      "the chronic effects",
+      "the effects",
+      "their metabolic and health effects"
+    ],
+    "FOOD": [
+      "wheat beer"
+    ],
+    "SYMPTOM": [
+      "liver damage"
+    ]
+  }
+}

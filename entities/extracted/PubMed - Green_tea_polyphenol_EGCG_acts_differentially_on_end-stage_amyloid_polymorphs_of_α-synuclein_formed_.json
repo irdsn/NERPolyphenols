@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Green tea polyphenol EGCG acts differentially on end-stage amyloid polymorphs of \u03b1-synuclein formed in different polyol osmolytes.",
+  "abstract": "Synucleinopathies are heterogenous group of disorders characterized by \u03b1-synuclein amyloid aggregates in the nervous system. Different synucleinopathy clinical subtypes are encoded by structurally diverse \u03b1-synuclein amyloid polymorphs referred to as 'strains'. The underlying structural differences between polymorphs can potentially hamper the drug design against synucleinopathies. Polyphenolic compounds like EGCG have shown promise in inhibiting and remodeling of \u03b1-synuclein amyloid aggregates, but their effects on different polymorphs are not well-studied. The cellular environment is one factor contributing to the heterogeneity in the amyloid landscape. Herein, we generated diverse polymorphs of \u03b1-synuclein by fine-tuning its aggregation using different polyol osmolytes, varying in their physicochemical properties. These osmolytes act as globular protein stabilizers and conformational modulators of intrinsically disordered proteins. While the buffer control \u03b1-synuclein aggregates were evenly dispersed, the polyol-induced aggregate solutions contained a heterogeneous mixture of co-existing polymorphs, as evidenced by AFM and TEM measurements. The polyol-induced aggregated solutions consisted of a mixture of both fibrillar and nonfibrillar cross-\u03b2-rich species. Using various spectroscopic tools, we observed differences in the structures of osmolyte-induced polymorphic aggregates. We incubated these aggregates with EGCG and observed its disparate action over polymorphs wherein the treated species were either disintegrated or structurally altered. Contrary to previous reports, all EGCG-treated polymorphs were \u03b2-sheet-rich and seeding-competent. Our findings are relevant in assessing the efficacy of polyphenolic compounds on diverse aggregate strains encoding different proteinopathy variants. The formation of \u03b2-sheet-rich species in our study also engenders a more critical examination of EGCG's mode of action on diverse classes of amyloids.",
+  "publication_date": "2025-04-04",
+  "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+  "doi": "10.1016/j.bbapap.2025.141073",
+  "entities": {
+    "POLYPHENOL": [
+      "all egcg-treated polymorphs",
+      "both fibrillar and nonfibrillar cross-\u03b2-rich species",
+      "egcg",
+      "egcg's mode",
+      "polyphenolic compounds",
+      "the treated species",
+      "their effects",
+      "various spectroscopic tools",
+      "\u03b2-sheet-rich species"
+    ]
+  }
+}

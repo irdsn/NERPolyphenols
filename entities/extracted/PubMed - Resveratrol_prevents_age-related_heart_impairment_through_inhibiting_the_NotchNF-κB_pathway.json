@@ -1,0 +1,37 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Resveratrol prevents age-related heart impairment through inhibiting the Notch/NF-\u03baB pathway.",
+  "abstract": "Resveratrol (RSV) is a natural polyphenol compound found in various plants that has been shown to have potential benefits for preventing aging and supporting cardiovascular health. However, the specific signal pathway by which RSV protects the aging heart is not yet well understood. This study aimed to explore the protective effects of RSV against age-related heart injury and investigate the underlying mechanisms using a D-galactose-induced aging model. The results of the study indicated that RSV provided protection against age-related heart impairment in mice. This was evidenced by the reduction of cardiac histopathological changes as well as the attenuation of apoptosis. RSV-induced cardioprotection was linked to a significant increase in antioxidant activity and mitochondrial transmembrane potential, as well as a reduction in oxidative damage. Additionally, RSV inhibited the production of pro-inflammatory cytokines such as interleukin-1\u03b2 (IL-1\u03b2) and tumor necrosis factor-\u03b1 (TNF-\u03b1). Furthermore, the expression of toll-like receptor 4 (TLR4), nuclear factor kappa-B p65 (NF-\u03baB p65), and notch 1 protein were inhibited by RSV, indicating that inhibiting the Notch/NF-\u03baB pathway played a critical role in RSV-triggered heart protection in aging mice. Moreover, further data on intestinal function demonstrated that RSV significantly increased short-chain fatty acids (SCFAs) in intestinal contents and reduced the pH value in the feces of aging mice. RSV alleviated aging-induced cardiac dysfunction through the suppression of oxidative stress and inflammation via the Notch/NF-\u03baB pathway in heart tissue. Furthermore, this therapeutic effect was found to be associated with its protective roles in the intestine.",
+  "publication_date": "2023-11-13",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.3817",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural polyphenol compound",
+      "its protective roles",
+      "protection",
+      "resveratrol",
+      "rsv-induced cardioprotection",
+      "rsv-triggered heart protection",
+      "the feces",
+      "the protective effects",
+      "the specific signal pathway",
+      "the underlying mechanisms",
+      "this therapeutic effect",
+      "toll-like receptor",
+      "tumor necrosis factor"
+    ],
+    "SYMPTOM": [
+      "a d-galactose-induced aging model",
+      "aging",
+      "aging mice",
+      "apoptosis",
+      "inflammation",
+      "oxidative damage",
+      "oxidative stress",
+      "rsv alleviated aging-induced cardiac dysfunction",
+      "the aging heart"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Unveiling the potential of HS-1793: a review of its anticancer properties and therapeutic promise.",
+  "abstract": "HS-1793 is a novel derivative of resveratrol, a compound known for its numerous beneficial effects, including anticancer activity, anti-inflammatory response, antimicrobial, antiaging, anti-cardiovascular disease activity, neuroprotective activity, etc. Despite its wide and interesting properties, resveratrol suffers from a crucial flaw because it is low bioavailable. For this reason, many other derivatives were explored and among them, HS-1793 has caught the attention of researchers. HS-1793 is a synthetic derivative of resveratrol discovered in 2007 that has been shown to have anti-cancer and anti-inflammatory properties. In addition, the compound showed a positive profile in metabolic processes, with adequate pharmacokinetics and pharmacodynamics. This review highlights current research on HS-1793, evaluatingin vitroandin vivoworks and lays the foundation for novel explorative trials in human diseases.",
+  "publication_date": "2024-11-18",
+  "journal": "Future medicinal chemistry",
+  "doi": "10.1080/17568919.2024.2424150",
+  "entities": {
+    "POLYPHENOL": [
+      "its numerous beneficial effects",
+      "resveratrol"
+    ],
+    "SYMPTOM": [
+      "anti-cancer and anti-inflammatory properties",
+      "anticancer activity"
+    ]
+  }
+}

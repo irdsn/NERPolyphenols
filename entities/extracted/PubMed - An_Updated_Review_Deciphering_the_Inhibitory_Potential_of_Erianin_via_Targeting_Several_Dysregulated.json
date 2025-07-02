@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "An Updated Review Deciphering the Inhibitory Potential of Erianin via Targeting Several Dysregulated Oncogenes in Several Human Carcinomas.",
+  "abstract": "Numerous edible vegetables and fruits possess plant-based compounds with enormous anticarcinogenic attributes, including phenolic, vitamins, and alkaloid compounds. Cancer therapies mainly encompass surgery, chemotherapy, and radiation therapy, sometimes accompanied by rapid recurrence and significant side effects. Consequently, elucidating efficacious chemotherapeutic procedures are needed to diminish the likelihood of recurrence and metastasis. Erianin (Shihu, Traditional Chinese Medicine), a naturally occurring compound derived from Dendrobium chrysotoxum Lindl., has been documented to possess anticancer and antioxidative properties. This review presented an overview of Erianin's (ER) involvement in cancer and elucidated the molecular mechanisms underlying its anticancer effect via regulating signaling pathways, including PI3K/AKT, MEK, JNK, NRF2/PLOOH, JAK/STAT3, GSK3\u03b2, and NLRP3/ROS pathways. All these mechanisms ultimately induce apoptosis via targeting mainly invasion, migration, and angiogenesis. This review is thus intended to include all possible recent progress in the anticancer efficacy of erianin and to justify the necessity for further investigation into its anticancer properties in the future.",
+  "publication_date": "2025-06-18",
+  "journal": "Current pharmaceutical design",
+  "doi": "10.2174/0113816128372087250528163929",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer and antioxidative properties",
+      "apoptosis",
+      "cancer",
+      "cancer therapies",
+      "its anticancer properties",
+      "the anticancer efficacy"
+    ],
+    "POLYPHENOL": [
+      "all possible recent progress",
+      "all these mechanisms",
+      "its anticancer effect",
+      "rapid recurrence",
+      "recurrence",
+      "significant side effects",
+      "the molecular mechanisms",
+      "the necessity"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Protective Effect of Curcumin on Metabolic Syndrome Components through the Microbiota.",
+  "abstract": "Curcumin, a natural polyphenolic compound found in turmeric, has garnered increasing research interest due to its potential health benefits, particularly in the context of the rising global prevalence of metabolic syndrome (MetS). With MetS affecting a significant portion of the global population and serving as a precursor to chronic diseases, such as type 2 diabetes and cardiovascular diseases, identifying effective, accessible, and safe interventions has become a critical public health priority. This review explores curcumin's role in regulating gut microbiota composition, enhancing intestinal barrier function, and reducing inflammation, which can collectively improve key components of MetS, such as hyperglycemia, dyslipidemia, obesity, and hypertension. Supplementation with curcumin has shown promising results in improving metabolic health by promoting the production of short-chain fatty acids (SCFAs), such as butyric and propionic acids. These effects may protect against dyslipidemia and reduce the risk of chronic conditions. Furthermore, curcumin has demonstrated potential in reducing hypertension through various mechanisms, including inflammation reduction, modulation of lipopolysaccharide (LPS) production, activation of G-protein-coupled receptor 43 (GPR43), and increased levels of SCFAs. Given the significant public health implications of MetS, understanding curcumin's impact on gut microbiota presents an opportunity for developing novel therapeutic strategies that address this urgent health challenge. Despite its promise, further research is necessary to fully comprehend the underlying mechanisms involved. Additionally, determining the optimal dosage and duration of curcumin supplementation for achieving its effects on metabolic syndrome is crucial for future therapeutic applications. This review highlights curcumin's potential as a natural compound with multifaceted health benefits, particularly in the context of metabolic syndrome and its associated complications, emphasizing the pressing need for clinical studies to validate findings and inform evidence-based therapeutic applications.",
+  "publication_date": "2025-02-18",
+  "journal": "Current medicinal chemistry",
+  "doi": "10.2174/0109298673371503250210092741",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural polyphenolic compound",
+      "a precursor",
+      "curcumin",
+      "curcumin supplementation",
+      "curcumin's impact",
+      "curcumin's potential",
+      "curcumin's role",
+      "effective, accessible, and safe interventions",
+      "g-protein-coupled receptor",
+      "its effects",
+      "the underlying mechanisms",
+      "these effects",
+      "various mechanisms"
+    ],
+    "FOOD": [
+      "the optimal dosage",
+      "turmeric"
+    ],
+    "SYMPTOM": [
+      "hyperglycemia",
+      "hypertension",
+      "inflammation",
+      "inflammation reduction",
+      "metabolic syndrome",
+      "type 2 diabetes"
+    ]
+  }
+}

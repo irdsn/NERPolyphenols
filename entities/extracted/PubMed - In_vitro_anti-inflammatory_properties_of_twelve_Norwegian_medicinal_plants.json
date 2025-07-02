@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "In vitro anti-inflammatory properties of twelve Norwegian medicinal plants.",
+  "abstract": "Today, inflammatory diseases such as rheumatoid arthritis and inflammatory bowel disease represent a major health burden in Western societies. Such diseases are treated with drugs aiming at suppressing inflammatory symptoms. In Norway, several medicinal plants share a history of ethnomedical use towards the treatment of various inflammatory conditions which could represent sources of new anti-inflammatory drugs.",
+  "publication_date": "2025-06-20",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.120159",
+  "entities": {
+    "SYMPTOM": [
+      "inflammatory bowel disease",
+      "rheumatoid arthritis"
+    ]
+  }
+}

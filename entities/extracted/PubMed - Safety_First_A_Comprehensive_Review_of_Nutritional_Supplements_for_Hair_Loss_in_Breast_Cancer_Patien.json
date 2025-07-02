@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Safety First: A Comprehensive Review of Nutritional Supplements for Hair Loss in Breast Cancer Patients.",
+  "abstract": "Among the distressing side effects of cancer treatments, hair loss is one of the most disturbing for the quality of life and adherence to therapy in breast cancer patients. Many patients take nutritional supplements to prevent hair loss or enhance regrowth. Based on their mechanism and timing of use, nutritional supplements could be divided into safe, cautious, debated, and contraindicated categories. Non-contraindicated supplements generally include safe supplements like vitamin D, which is not known to interfere with cancer treatments. Those that are contraindicated include phytoestrogens and compounds affecting estrogen pathways because of the risk of stimulating tumor growth in cancers sensitive to estrogen. Antioxidants like tocotrienols and resveratrol are given judiciously because of potential interference with cancer therapies dependent on reactive oxygen species. Supplements debated, including nicotinamide, folate, and iron, pose a risk by promoting cellular proliferation or altering the tumor microenvironment. Biotin is nontoxic but interferes with blood test results and is thus difficult in cancer monitoring. Evidence regarding nutritional supplements' safety and efficacy in this context is conflicting. Management by an oncologist is required along with more studies to clearly establish the safety parameters and efficacy guidelines.",
+  "publication_date": "2025-04-25",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17091451",
+  "entities": {
+    "POLYPHENOL": [
+      "reactive oxygen species",
+      "resveratrol",
+      "the distressing side effects",
+      "their mechanism"
+    ],
+    "SYMPTOM": [
+      "breast cancer patients",
+      "cancer monitoring",
+      "cancer therapies",
+      "cancer treatments",
+      "cancers",
+      "tumor growth"
+    ]
+  }
+}

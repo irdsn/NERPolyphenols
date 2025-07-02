@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Unravelling the bioavailability of amino acids and bioactive peptides from collagen hydrolysate in coffee in healthy volunteers.",
+  "abstract": "It is widely recognized that dietary polyphenols have a strong tendency to interact with proteins, specifically those rich in proline residues. So far, the impact of a matrix rich in polyphenols, like coffee, on the bioavailability of amino acids (AAs) and bioactive peptides (BAPs) from collagen hydrolysates (CH) has not been elucidated. This study aimed to compare the bioavailability of the signature AAs and BAPs from bovine CH dissolved in coffee in healthy human volunteers. The clinical trial was carried out as randomized, cross-over design. CH were dissolved in water or coffee, respectively, and provided as single dose in a fasting state. The uptake of the CH signature AAs hydroxyproline (Hyp), glycine (Gly) and proline (Pro) and BAPs (Pro-Hyp, Hyp-Gly, Gly-Pro-Hyp) into the bloodstream was followed over a period of 360\u00a0min. Plasma concentrations were determined with UPLC-MS/MS. The peak concentrations of the free signature AAs after intake of CH dissolved in water occurred between 60 and 120\u00a0min. Notably, there were significant variations in the increase of plasma concentrations over time of Hyp and Pro when CH was dissolved in coffee. However, when considering the uptake of BAPs, the pharmacokinetic endpoints iAUC, \u0394Cmax, and Tmaxdemonstrated similarity between water and coffee. This study emphasizes the importance of understanding how different food matrices, such as water vs. coffee, affect the absorption of bioactive compounds from dietary sources, in this case from CH. Ongoing research aims to explore the connection between food matrices, BAPs and human health with the goal of optimizing dietary interventions for promoting overall well-being.",
+  "publication_date": "2025-04-19",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116478",
+  "entities": {
+    "POLYPHENOL": [
+      "dietary polyphenols",
+      "polyphenols",
+      "the connection"
+    ],
+    "FOOD": [
+      "coffee"
+    ]
+  }
+}

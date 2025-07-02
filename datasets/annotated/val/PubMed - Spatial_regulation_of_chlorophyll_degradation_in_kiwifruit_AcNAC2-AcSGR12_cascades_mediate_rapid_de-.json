@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Spatial regulation of chlorophyll degradation in kiwifruit: AcNAC2-AcSGR1/2 cascades mediate rapid de-greening in the inner pericarp.",
+  "abstract": "Changes in skin colour, as a visual cue for fruit ripeness, are important physiological markers in many crops including tomato, banana and grape. In kiwifruit, the skin remains brown during ripening, but de-greening of the pericarp occurs to reveal accumulated carotenoids and anthocyanins in gold- and red-fleshed cultivars. In this study, analysis of the inner and outer pericarp of Actinidia chinensis 'Hongyang' revealed faster chlorophyll degradation in the inner pericarp, compared with the outer pericarp. Based on transcriptome analysis, two chlorophyll degradation-related genes encoding Mg-dechelatases (AcSGR1 and AcSGR2) were more abundantly expressed in the inner pericarp, and this correlated with higher Mg-dechelatase enzyme activity in the inner pericarp than in the outer pericarp. Weighted gene co-expression network analysis identified potential regulators of AcSGR1/2. A differentially expressed NAM/ATAF/CUC transcription factor AcNAC2 was identified, which could directly interact with AcSGR1 and AcSGR2 promoters and strongly activate their expression. A closely related NAC, AcNAC3, also enhanced AcSGR1/2 expression, but was less abundantly expressed. Transient expression in tobacco confirmed that AcNAC2 and AcNAC3 promote chlorophyll degradation, and stable overexpression in kiwifruit verified that AcNAC2 acts via up-regulation of AcSGR1/2 gene expression. CRISPR-mediated knockouts of AcNAC2/3 in kiwifruit dramatically reduced expression levels of AcSGR1/2 genes in fruit, leading to significantly delayed chlorophyll degradation and de-greening. Together, these results suggest that differential chlorophyll degradation drives the differences observed in chlorophyll content between the inner and outer pericarp of kiwifruit, which is principally modulated by the transcription factor AcNAC2.",
+  "publication_date": "2025-04-04",
+  "journal": "Plant biotechnology journal",
+  "doi": "10.1111/pbi.70071",
+  "entities": {
+    "FOOD": [
+      "banana",
+      "grape",
+      "kiwifruit",
+      "tomato"
+    ],
+    "POLYPHENOL": [
+      "higher mg-dechelatase enzyme activity",
+      "mg-dechelatases"
+    ]
+  }
+}

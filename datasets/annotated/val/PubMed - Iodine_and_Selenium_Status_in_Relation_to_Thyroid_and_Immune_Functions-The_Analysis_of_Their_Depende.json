@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Iodine and Selenium Status in Relation to Thyroid and Immune Functions-The Analysis of Their Dependencies in a Group of Women of Reproductive Age from the Southern Region of Poland.",
+  "abstract": "Objectives:Iodine and selenium are key elements for thyroid. There is also evidence of their immunoregulatory potential. However, the current state of knowledge of potential interactions among iodine-selenium-thyroid-immune system is not sufficient. The aim of the study was to evaluate iodine and selenium statuses and examine the relationship between them and the functioning of the thyroid and immune system in a group of women of reproductive age, without previously diagnosed disease.Methods:The study involved a group of 60 women aged 19-40 from southern Poland. The concentrations of iodine and selenium were determined in serum samples using the ICP-MS and AAS methods, respectively. Thyroid function was assessed by determining serum levels of thyroid-stimulating hormone (TSH), free thyroxine (fT4), and anti-thyroid peroxidase antibodies (anti-TPO) by electrochemiluminescence methods. Glutathione peroxidase 3 (GPX3) and ferric ion reducing antioxidant power (FRAP) in serum were measured by spectrophotometric methods. Immune functions were evaluated by analyzing cytokine levels using ELISA tests, including interferon-\u03b3, interleukin-4, interleukin-17, and transforming growth factor-\u03b2.Results:No significant correlations between selenium and thyroid or immunological parameters were observed. The level of iodine in serum positively correlated with free thyroxine, indicating its importance for maintaining normal thyroid function, as well as with FRAP in serum, suggesting a protective role of iodine-mediated antioxidant activity on thyroid function.Conclusions:Our results underline the complexity of the system of correlations between iodine-selenium-thyroid-immune function. Nevertheless, understanding them may turn out to be crucial for developing preventive and therapeutic strategies in the context of thyroid diseases.",
+  "publication_date": "2025-06-07",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17121952",
+  "entities": {
+    "POLYPHENOL": [
+      "a protective role",
+      "electrochemiluminescence methods",
+      "objectives",
+      "spectrophotometric methods"
+    ]
+  }
+}

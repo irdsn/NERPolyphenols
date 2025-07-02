@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Pediatric Gaucher disease with intermediate type 2-3 phenotype associated with parkinsonian features and levodopa responsiveness.",
+  "abstract": "Gaucher disease (GD) is an autosomal recessive lysosomal storage disorder caused by a deficiency of acid \u03b2-glucosidase encoded by the GBA gene. In patients with GD, childhood onset parkinsonian features have been rarely described.",
+  "publication_date": "2021-08-19",
+  "journal": "Parkinsonism & related disorders",
+  "doi": "10.1016/j.parkreldis.2021.08.010",
+  "entities": {
+    "POLYPHENOL": [
+      "an autosomal recessive lysosomal storage disorder"
+    ]
+  }
+}

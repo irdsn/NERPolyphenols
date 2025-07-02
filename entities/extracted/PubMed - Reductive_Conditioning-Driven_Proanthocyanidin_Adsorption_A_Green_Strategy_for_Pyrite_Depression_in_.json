@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Reductive Conditioning-Driven Proanthocyanidin Adsorption: A Green Strategy for Pyrite Depression in Copper Sulfide Ore Flotation.",
+  "abstract": "The efficient flotation separation between chalcopyrite and pyrite is considered challenging under weak alkaline conditions due to their similar floatability characteristics. In this work, based on the differences in the chemical valence states of Fe atoms on chalcopyrite and pyrite, an innovative depressant system combining sodium sulfide (Na2S) and proanthocyanidins (PC) was proposed. In artificial mixed ore tests, compared with a single PC, a higher separation efficiency between chalcopyrite and pyrite is achieved when the combined depressants 20 mg/L Na2S and 40 mg/L PC are employed. A copper concentrate is obtained with a copper grade of 30.61% and a copper recovery of 90.31%. The findings through surface characterization and density functional theory calculations indicated that PC could be adsorbed on both minerals by interacting with Fe sites, but its affinity for pyrite was significantly stronger than for chalcopyrite. Reductive pretreatment with Na2S enhanced the depressive effect of PC on pyrite, which may be related to the increasing number of active sites of Fe2+. Therefore, the adsorption of amyl xanthate on pyrite was hindered, while having no substantial impact on amyl xanthate adsorption to chalcopyrite. The results of this study can provide inspiration for the development of new depressants of pyrite.",
+  "publication_date": "2025-06-19",
+  "journal": "Langmuir : the ACS journal of surfaces and colloids",
+  "doi": "10.1021/acs.langmuir.5c02145",
+  "entities": {
+    "POLYPHENOL": [
+      "a copper recovery",
+      "proanthocyanidins",
+      "the depressive effect"
+    ]
+  }
+}

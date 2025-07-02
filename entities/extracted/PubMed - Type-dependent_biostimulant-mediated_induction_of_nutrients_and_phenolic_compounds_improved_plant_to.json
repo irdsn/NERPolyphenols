@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Type-dependent biostimulant-mediated induction of nutrients and phenolic compounds improved plant tolerance against canola aphids (Brevicoryne brassicae L.).",
+  "abstract": "The canola aphid (Brevicoryne brassicae L.) is a global threat to the production of canola. Field studies on the mechanism of biostimulants-driven plant tolerance against canola aphids are either scare or inconclusive. To assess the potential of biostimulants-salicylic acid (SA) and citric acid (CA)-in conferring induced resistance against canola aphids, two-year field experiments were conducted. The 0, 0.5, and 1\u00a0mM concentrations of each biostimulant were compared to an insecticide (Carbosulfan 20\u00a0EC) and infested control groups. Aphid abundance decreased by 19.3\u00a0% (1\u00a0mM SA), 16.3\u00a0% (0.5\u00a0mM SA), and 15.7\u00a0% (1\u00a0mM CA), compared to the insecticide treatment. Significant increases were observed in plant height, number of siliques (pods), seeds per silique, thousand-seed weight, seed yield m-2, total yield (kg ha-1), and oil contents. The 1\u00a0mM SA led to the highest levels of nitrogen, phosphorous, magnesium, calcium, and zinc, while 1\u00a0mM CA had highest concentrations of potassium, iron, and copper. Reverse-phase HPLC (RP-HPLC) separation analyses revealed that 1\u00a0mM SA promoted the accumulation of gallic, m-coumaric, p-coumaric, and cinnamic acid, while 1\u00a0mM CA induced the synthesis of myricetin, quercetin, syringic, vanillic, caffeic, chlorogenic, ferulic, and sinapic acid. The 0.5\u00a0mM concentration of either biostimulant showed intermediate efficacy. Our findings demonstrate that each biostimulant induces a distinct nutrient and phenolic compound in canola likely through a unique defense eliciting mechanism. These insights advances our understanding of the aphid-stress tolerance mechanism in canola to support the breeding of aphid-resistant varieties.",
+  "publication_date": "2025-04-21",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.109930",
+  "entities": {
+    "POLYPHENOL": [
+      "a unique defense eliciting mechanism",
+      "an insecticide",
+      "biostimulants-salicylic acid",
+      "carbosulfan 20\u00a0ec",
+      "gallic, m-coumaric, p-coumaric, and cinnamic acid",
+      "myricetin",
+      "phenolic compound",
+      "quercetin",
+      "the aphid-stress tolerance mechanism",
+      "the insecticide treatment",
+      "the mechanism"
+    ]
+  }
+}

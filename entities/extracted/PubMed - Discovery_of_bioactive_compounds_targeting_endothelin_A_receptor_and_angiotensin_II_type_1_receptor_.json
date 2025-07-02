@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Discovery of bioactive compounds targeting endothelin A receptor and angiotensin II type 1 receptor in Gegen Qinlian decoction by co-immobilized receptor chromatography.",
+  "abstract": "An increased interest in multi-target compounds screening from complex matrices has revolutionized drug development paradigms, as these compounds often exhibit superior therapeutic efficacy and reduced off-target liabilities compared to the single-target compound. However, conventional discovery methods have been constrained by their singular focus on single-target screening methodologies. To address this limitation, we introduce a co-immobilization strategy tailored for G protein-coupled receptors(GPCRs) implicated in cardiovascular pathologies-specifically the endothelin A receptor (ETAR) and angiotensin II type 1 receptor(AT1R)-to facilitate the identification of multi-target compound within traditional herbal formulations. This innovative approach involves the oriented co-immobilization of ETAR and AT1R onto silica gel surfaces via histidine-tag anchoring, ensuring precise spatial orientation and functional integrity. Rigorous chromatographic characterization using receptor-specific ligands validated the dual-receptor column's functionality. Subsequent screening of Gegen Qinlian Decoction (GQD) identified puerarin as a novel multi-target compound capable of engaging both the two receptors. Zonal elution revealed that puerarin competes with native ligands for overlapping binding sites on ETAR and AT1R. Injection-amount-dependent method, demonstrated that puerarin binds ETAR and AT1R with association constants of 2.5\u202f\u00d7\u202f10\u2075 M-1and 2.0\u202f\u00d7\u202f10\u2075 M-1, respectively. These findings validate our co-immobilization platform as a powerful tool for dissecting multi-target interactions in traditional Chinese medicines (TCMs), offering a transformative strategy to unlock the therapeutic potential of complex herbal mixtures.",
+  "publication_date": "2025-04-25",
+  "journal": "Journal of pharmaceutical and biomedical analysis",
+  "doi": "10.1016/j.jpba.2025.116918",
+  "entities": {
+    "POLYPHENOL": [
+      "angiotensin ii type 1 receptor(at1r)-to facilitate",
+      "at1r. injection-amount-dependent method",
+      "both the two receptors",
+      "g protein-coupled receptors(gpcrs",
+      "gegen qinlian decoction",
+      "precise spatial orientation",
+      "receptor-specific ligands",
+      "the dual-receptor column's functionality",
+      "the endothelin a receptor"
+    ]
+  }
+}

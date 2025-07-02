@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Bioactive biopolymer films reinforced with cellulose nanocrystals and green-extracted polyphenols from date seeds for veal meat preservation.",
+  "abstract": "This study investigated the effectiveness of bioactive films fabricated using chitosan (Cs) reinforced with cellulose nanocrystals (CNC) and polyphenolic components extracted using natural deep eutectic solvents (NADES), both derived from date seeds. The CsCNC films with NADES-extracted date seed polyphenols (DSP) showed significant antimicrobial activity against Staphylococcus aureus, Listeria monocytogenes, Salmonella typhimurium, and Escherichia coli. Total phenolic content (0.01 to 0.20\u00a0mg GAE/mL), 2,2-diphenyl-1-picrylhydrazyl radical scavenging activity (0.10 to 3.22\u00a0mmol TE/mL), and ferric-ion reducing antioxidant power (0.49 to 3.31\u00a0\u03bcmol TE/mL) improved significantly. Elongation at break (46.53\u00a0% to 90.87\u00a0%) and thickness (0.08\u00a0mm to 0.17\u00a0mm) increased while tensile strength (11.62\u00a0MPa to 3.30\u00a0MPa) decreased after incorporating DSP. The films improved UV-shielding ability, although DSP affected water barrier properties (2.91 to 7.83\u00a0\u00d7\u00a010-10g/m.s.Pa) and increased solubility and swelling rate. The performance of CsCNC bioactive film containing 4\u00a0% DSP for preserving veal meat during refrigeration for 8\u00a0days was studied. Compared to conventional cling film, the bioactive film retained meat quality by preserving pH, color, and lipid stability while delaying microbial spoilage. This study demonstrates the potential of valorizing both phenolic and cellulosic fractions from date seeds to develop an eco-friendly and bioactive packaging film.",
+  "publication_date": "2025-04-21",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.143275",
+  "entities": {
+    "POLYPHENOL": [
+      "an eco-friendly and bioactive packaging film",
+      "dsp affected water barrier properties",
+      "nades-extracted date seed polyphenols",
+      "natural deep eutectic solvents",
+      "polyphenolic components",
+      "the effectiveness"
+    ]
+  }
+}

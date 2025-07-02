@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "[Determination of seven phenolic acids in whole wheat flour by high-performance liquid chromatography].",
+  "abstract": "A high-performance liquid chromatography(HPLC) method was established for the simultaneous determination of 7 phenolic acids(ferulic acid, p-coumaric acid, vanillic acid, butyric acid, p-hydroxybenzoic acid, salicylic acid, sinapic acid) in whole wheat flour, to understand further the phenolic acid substances contained in whole wheat flour and the content level.",
+  "publication_date": "2025-06-01",
+  "journal": "Wei sheng yan jiu = Journal of hygiene research",
+  "doi": "10.19813/j.cnki.weishengyanjiu.2025.03.022",
+  "entities": {
+    "POLYPHENOL": [
+      "7 phenolic acids(ferulic acid, p-coumaric acid, vanillic acid, butyric acid, p-hydroxybenzoic acid, salicylic acid, sinapic acid"
+    ],
+    "FOOD": [
+      "whole wheat flour"
+    ]
+  }
+}

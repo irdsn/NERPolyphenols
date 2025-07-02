@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "LD and ER targeted cysteine fluorescence sensing driven A/B-ring-naphthalene/indole simultaneously substituted water hypersensitive flavonol: simultaneous dual-colour visualization of LDs and ER, and precisely controlled linear CO delivery.",
+  "abstract": "The first cysteine (Cys) fluorescence sensing-driven flavonol, HIBC (3-hydroxy-2-(1-methyl-1H-indol-3-yl)-4H-benzo[g]chromen-4-one), has been developed as a single fluorescent probe (SFprobe) and a photoCORM. This compound is characterized by the simultaneous substitutions at both the A- and B-rings with naphthalene and indole, respectively. Notably, HIBC exhibits remarkable hypersensitivity to minor variations in water fractions (fw, vol% in acetonitrile) ranging from 0% to 15%, enablingin situreal-time visualization of lipid droplets (LDs) and the endoplasmic reticulum (ER) with high spatial resolution through distinct dual-colour fluorescence without any crosstalk. Under O2, HIBC facilitates the delivery of precisely controlled amounts of CO gas within a therapeutic and safe dosage range to living systemsviavisible light irradiation. This control is achieved by modulating either the intensity or the duration of the irradiated light or by adjusting the dosage of the photoCORM. Its fluorescence allows forin situreal-time imaging and tracking of intracellular distribution while monitoring CO delivery progress. HIBC is generated from the sensing reaction between the precursor IBCA (2-(1-methyl-1H-indol-3-yl)-4-oxo-4H-benzo[g]chromen-3-yl acrylate) and the Cys. In PBS buffer containing only 30% of DMSO, IBCA can rapidly detect and image both endogenous and exogenous Cys within just 250 seconds. It demonstrates high selectivity-particularly against homocysteine (Hcy) and glutathione (GSH)-and sensitivity, achieving detection limits as low as 87 nM in live HeLa cells and zebrafish across a wide linear concentration range of 0-10 \u03bcM (0-2 equiv.). Importantly, IBCA also targets LDs and ER while monitoring fluctuations in Cys levels during periods of ER stress. Both IBCA and HIBC, along with all photoreaction products, exhibit negligible toxicity while demonstrating good permeability in live HeLa cells and zebrafish. The HIBC we developed represents a pioneering instance of a flavonol driven by Cys fluorescence sensing that features simultaneous substitutions at both the A-and B-rings with naphthalene and indole moieties, respectively. Compared to the unsubstituted flavonol, these structural improvements not only lead to a substantial red shift of 88 nm in the absorption peak but also significantly enhance the overall performance. It serves not only as an exceptionally water hypersensitive SFprobe for simultaneous dual-colour fluorescence visualization of LDs and ER but also functions effectively as a photoCORM. This work not only provides a method for precise control over CO release but also facilitates the development of user-friendly molecular tools for further investigation into the roles played by LDs, ER, Cys and CO in biological processes, their interactions and relationships among them, along with their potential applications in clinical diagnosis.",
+  "publication_date": "2025-06-04",
+  "journal": "Journal of materials chemistry. B",
+  "doi": "10.1039/d5tb00141b",
+  "entities": {
+    "POLYPHENOL": [
+      "detection limits",
+      "high selectivity",
+      "just 250 seconds",
+      "precise control",
+      "precisely controlled amounts",
+      "the precursor ibca",
+      "user-friendly molecular tools"
+    ],
+    "FOOD": [
+      "a therapeutic and safe dosage range",
+      "the dosage"
+    ],
+    "SYMPTOM": [
+      "er stress",
+      "forin situreal-time imaging"
+    ]
+  }
+}

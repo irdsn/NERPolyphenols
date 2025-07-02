@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Evaluating a Proprietary Tannin-Blend Product as an Alternative to Monensin and Tylosin Phosphate in Feedlot Cattle Diets.",
+  "abstract": "This study evaluates the effects of a proprietary tannin blend (BX), supplemented with or without sodium monensin (MON), on beef cattle performance, carcass traits, and health. Steers (n= 2986; initial shrunk body weight (SBW) 254 ± 9.2 kg) were allocated into 48 pens (61-62 steers/pen; 12 pens/treatment) fed for 230 d. Treatments included: (1) no feed additives (CTL); (2) BX (7.95 g/animal daily); (3) MON + Tylosin phosphate (TYL; 437.52 mg MON/animal daily + 80 mg TYL/animal daily); or (4) MON + BX (437.52 mg MON/animal daily + 7.95 g BX/animal daily). Data were analyzed in R 4.2.1 using a randomized block design with pen as the experimental unit. Dry matter intake was lower (p< 0.001) in MON + TYL and MON + BX than in CTL. Steers fed MON + BX had greater carcass-adjusted final SBW (p= 0.002), average daily gain (p= 0.002), fat thickness (p= 0.035), and marbling score (p= 0.046) than BX. Feed conversion improved in MON + TYL and MON + BX (p< 0.001). CLT and BX had higher (p< 0.001) liver abscess prevalence compared to MON + BX and MON + TYL. The addition of BX did not improve the parameters measured. Steers fed MON + BX showed reduced liver abscesses and similar feed efficiency compared to MON + TYL.",
+  "publication_date": "2025-05-06",
+  "journal": "Veterinary sciences",
+  "doi": "10.3390/vetsci12050446"
+}

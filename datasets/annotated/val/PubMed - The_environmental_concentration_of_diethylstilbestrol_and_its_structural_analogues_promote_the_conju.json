@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "The environmental concentration of diethylstilbestrol and its structural analogues promote the conjugation transfer of ARGs through the pheromone effect.",
+  "abstract": "Antibiotic resistance (AMR) in the environment has emerged as a significant threat, severely impacting public health, ecological balance, and economic stability. Concurrently, environmental chemical pollution has been verified to trigger the spread of antibiotic resistance genes (ARGs). However, studies on the impacts of environmental pollutants on pheromone-regulated plasmid-mediated conjugative transfer of ARGs remain extremely limited. In the present study, we investigated the effects and underlying mechanisms of diethylstilbestrol (DES) on the conjugative transfer of pCF10 in Enterococcus faecalis. The results showed that DES at environmental concentrations led to an increase in conjugation transfer frequency by approximately 2.4 times higher than that of control at 2\u202fh. Through a comprehensive suite of techniques, including mass spectrometry detection, quantitative polymerase chain reaction (qPCR), gene knockout, and morphological analysis, this study revealed that DES promoted the expression of pheromone regulated genes and activated the pheromone signaling pathway. Alternatively, it entered bacterial cells and bound to pheromone molecule regulatory switch PrgX. This binding subsequently stimulated the production of iCF10, as well as the expression of downstream signaling molecules, ultimately facilitating the conjugative transfer of pCF10. This study deepens our understanding of the environmental biological effect of DES and the spread of ARGs.",
+  "publication_date": "2025-05-23",
+  "journal": "Journal of hazardous materials",
+  "doi": "10.1016/j.jhazmat.2025.138713",
+  "entities": {
+    "POLYPHENOL": [
+      "downstream signaling molecules",
+      "ecological balance",
+      "economic stability",
+      "enterococcus faecalis",
+      "mass spectrometry detection",
+      "techniques",
+      "the effects",
+      "the environmental biological effect",
+      "underlying mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Rapid and Colorimetric Detection of Carbapenem/Colistin-Resistant Bacteria by a Naked Eye and Digital Image Processing Software.",
+  "abstract": "Owing to the global increase in carbapenem and colistin resistance, several methods have been actively used for the detection of these antibiotic-resistant bacteria. However, this emerging field still requires development of more efficient and practical diagnostic susceptibility tests for rapid, simple, and economic detection of pathogens. Herein, we prepared phenotypic and colorimetric antibiotic susceptibility tests in liquid and agar forms consisting of a natural and biocompatible pH indicator called \"anthocyanins\" for colorimetric detection of carbapenem/colistin resistance. The most innovative and original part of this phenotypic test, for the first time, uses plant indicators to detect carbapenem/colistin resistance within 2 h (hrs). Both commercial and clinically isolated bacterial pathogens were colorimetrically detected by a human eye in 2 h. These pathogens release acidic volatile compounds (AVCs) during their growth, resulting in an acidic reaction environment, in which anthocyanin molecules were protonated and then change the color of the susceptibility tests. The color of the susceptibility tests was analyzed by smartphone platform and mobile application to provide quick, clear, and semiquantitative results. We believe that these susceptibility tests will reduce the workload of laboratories with their ease of application and evaluation, contribute to the economy of countries by eliminating economic restrictions, and will be widely used in clinics.",
+  "publication_date": "2025-05-14",
+  "journal": "Analytical chemistry",
+  "doi": "10.1021/acs.analchem.5c00207",
+  "entities": {
+    "POLYPHENOL": [
+      "anthocyanin molecules",
+      "colorimetric detection",
+      "economic restrictions",
+      "rapid, simple, and economic detection",
+      "the detection",
+      "the economy"
+    ]
+  }
+}

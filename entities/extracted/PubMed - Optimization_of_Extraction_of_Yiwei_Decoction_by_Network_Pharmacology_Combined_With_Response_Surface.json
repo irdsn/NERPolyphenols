@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Optimization of Extraction of Yiwei Decoction by Network Pharmacology Combined With Response Surface Design and Bioactivity Evaluation.",
+  "abstract": "Yiwei Decoction (YWD), a traditional Chinese medicine for nourishing yin and promoting fluid production, is a potential treatment for dry eye disease (DED). Network pharmacology identifies YWD's active components and mechanisms for treating DED, while high-performance liquid chromatography (HPLC) detects active compounds in water-prepared YWD extracts. A Box-Behnken design with response surface methodology was used to optimize the extraction of these components. Using this method, acteoside (AC), quercetin (QR), and methylophiopogonanone A (MA) were detected as the main contributors to anti-DED, acting on SRC, AKT1, PIK3CA, and STAT3, which may affect the development of DED through lipid metabolism, atherosclerosis, and PI3K-Akt and MAPK pathways. Based on the analytic hierarchy process, taking the phytochemical composition and the proliferation rate of YWD on human corneal epithelial cells (HCECs) as comprehensive indicators, the best extraction parameters were obtained as liquid-solid ratio of 8\u2009mL/g, extraction times of 1.636 times, and decocting time of 54.96\u2009min. Verification based on actual conditions, the standardized score is 0.9417\u2009\u00b1\u20090.0386, which is very close to the predicted score of 0.9328, with an error of less than 1%. This reliable method aids in optimizing the extraction process of traditional Chinese medicine for specific diseases.",
+  "publication_date": "2025-06-01",
+  "journal": "Biomedical chromatography : BMC",
+  "doi": "10.1002/bmc.70154",
+  "entities": {
+    "POLYPHENOL": [
+      "hcecs",
+      "mechanisms",
+      "specific diseases",
+      "yiwei decoction"
+    ],
+    "SYMPTOM": [
+      "atherosclerosis"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Effects ofLocusta migratoriaHydrolysate on Metabolic Dysfunction-Associated Steatotic Liver Disease in Mice.",
+  "abstract": "Locusta migratoria(LM) is an edible insect recognized as a valuable source of high-quality proteins, essential amino acids, vitamins, and minerals. Metabolic dysfunction-associated steatotic liver disease (MASLD) is often associated with metabolic syndrome (MetS) and is characterized by excessive fat accumulation in the liver along with low-grade chronic inflammation. In addition, chronic metabolic dysfunction and hepatic lipid toxicity can induce acute liver injury (ALI). This study investigated the protective effects of LM hydrolysate against MASLD and the related liver pathophysiology. Mice were fed a high-fat, high-fructose, and high-cholesterol diet to induce MASLD, whereas ALI was induced using lipopolysaccharide (LPS) and d-galactosamine (Gal). LM hydrolysate reduced liver weight by decreasing hepatic ectopic fat accumulation and downregulating lipogenic gene expression in the liver. In addition, LM hydrolysate improved dyslipidemia by lowering the serum triglyceride and low-density lipoprotein cholesterol levels. LM hydrolysate also demonstrated hepatoprotective properties by reducing the protein levels of tumor necrosis factor-alpha and interleukin-6 while enhancing antioxidant capacity, thereby mitigating liver damage induced by LPS/Gal under MASLD-promoting conditions. Thus, LM hydrolysate significantly attenuated the pathological changes in the hepatic tissue. These findings suggest that LM hydrolysate has potential as a functional food or dietary supplement for managing MetS-related disorders and protecting against liver pathology.",
+  "publication_date": "2025-06-30",
+  "journal": "Journal of medicinal food",
+  "doi": "10.1089/jmf.2025.k.0003",
+  "entities": {
+    "POLYPHENOL": [
+      "an edible insect",
+      "hepatic ectopic fat accumulation",
+      "hepatoprotective properties",
+      "the protective effects",
+      "tumor necrosis factor-alpha"
+    ],
+    "SYMPTOM": [
+      "acute liver injury",
+      "liver damage",
+      "low-grade chronic inflammation",
+      "metabolic syndrome"
+    ],
+    "FOOD": [
+      "a functional food"
+    ]
+  }
+}

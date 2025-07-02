@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Natural Polyphenol-Assisted Dispersing Liquid Metal/Carbon Composite Electrode for the Superior Interface in Carbon-Based Perovskite Solar Cells.",
+  "abstract": "Carbon-based perovskite solar cells (PSCs) present lower power conversion efficiency (PCE) compared with that of metal-based PSCs. One of the main reasons is the limited conductivity of carbon materials. Liquid metals (LMs) with good fluidity and excellent conductivity can be applied as superior electrode materials for a broad range of applications. Herein, LMs are combined with a carbon slurry to improve their conductivity and enhance interfacial contact for high photovoltaic performance of carbon-based PSCs. In order to well disperse LMs and avoid their aggregation, three natural polyphenols, namely, gallic acid (GA), tannic acid (TA), and tea polyphenols (TP), with different molecular structures are adopted to disperse Gallium nanoparticles (Ga NPs) and form an encapsulation layer. As a novel surfactant, the TP molecule with moderate numbers of hydroxyl groups and steric hindrance presents the best property to disperse Ga NPs among these natural polyphenols. It can tightly bind with Ga3+to form a core-shell structure on the surface of Ga NPs. Its durable outer shell, around 11 nm, enables TP@Ga NPs to have superior structural stability, effectively inhibiting the invasion of water and oxygen, even after 10 days. With an optimal mass ratio of TP@Ga NPs to the carbon slurry (1:40), C-PSCs based on the TP@Ga40/C electrode achieve a champion PCE of 16.58%, significantly higher than that of the control devices (13.27%). In addition, the long-term stability of C-PSCs has also been increased, and after being stored at room temperature and a relative humidity of 35% for 35 days, the PCE can remain above 85% of the initial PCE. This work proposes a new method to well disperse LMs by TP surfactants and explores its promising application on improving the efficiency and stability of carbon-based PSCs.",
+  "publication_date": "2025-04-22",
+  "journal": "Langmuir : the ACS journal of surfaces and colloids",
+  "doi": "10.1021/acs.langmuir.5c00860",
+  "entities": {
+    "POLYPHENOL": [
+      "different molecular structures",
+      "namely, gallic acid",
+      "superior electrode materials",
+      "tea polyphenols",
+      "the tp molecule",
+      "these natural polyphenols",
+      "three natural polyphenols"
+    ]
+  }
+}

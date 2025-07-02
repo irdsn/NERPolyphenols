@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Non-Covalent Interaction of Coconut Protein and Quercetin: Mechanism, Antioxidant, Bioaccessibility.",
+  "abstract": "Understanding protein-polyphenol interactions is crucial for developing plant-based protein products. This study investigates the binding mechanisms and bioactivities of non-covalent complexes between quercetin (Que) and coconut protein (CP), aiming to explore the potential of polyphenols in modifying CP and expanding its applications in functional foods. Increased Que concentrations decreased CP fluorescence with a blue shift, indicating static quenching. Negative thermodynamic values (\u0394G, \u0394H, \u0394S) and molecular docking suggest van der Waals forces and hydrogen bonding drive the interaction. Fourier transform infrared (FTIR) and circular dichroism (CD) spectroscopy showed Que binding altered CP's secondary structure, reducing random coils while increasing \u03b2-sheet and \u03b2-turn content. Particle size and \u03b6-potential showed that Que reduced electrostatic repulsion between particles, leading to particle aggregation. Furthermore, the complexes have shown enhanced antioxidant properties and bioaccessibility. These results position CP as an effective delivery vehicle for polyphenols, with the dual advantages of enhanced bioaccessibility. PRACTICAL APPLICATION: This research establishes a theoretical and empirical basis for optimizing phenolic-modified coconut protein's applications in food science. This will offer a foundation for further studies on protein-polyphenol interactions to improve protein functional properties, along with exploring the use of plant protein-polyphenol complexes in delivering active ingredients.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70288",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective delivery vehicle",
+      "electrostatic repulsion",
+      "molecular docking",
+      "plant protein-polyphenol complexes",
+      "polyphenols",
+      "protein-polyphenol interactions",
+      "que binding altered cp's secondary structure",
+      "quercetin",
+      "the binding mechanisms"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

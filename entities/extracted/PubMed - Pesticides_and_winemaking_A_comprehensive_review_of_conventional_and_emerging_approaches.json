@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Pesticides and winemaking: A comprehensive review of conventional and emerging approaches.",
+  "abstract": "The use of pesticides in viticulture may play a crucial role in ensuring the health and quality of grapes. This review analyzes the most common pesticides used, illustrating their classification and toxicity, and their variations throughout the winemaking process. Fungicides are generally harmless or mildly toxic, whereas insecticides are classified as either highly or moderately hazardous. Potential alternatives to synthetic pesticides in wine production are also reviewed, thereby including biopesticides and biological agents. Analytical methods for detecting and quantifying pesticide residues in wine are then described, including liquid chromatography and gas chromatography coupled with mass spectrometry. This review also discusses the impact of the winemaking process on pesticide content. Pesticides with strong hydrophobicity were more likely to accumulate in solid byproducts, whereas hydrophilic pesticides were distributed more in the liquid phase. Grape's skin contains lipids, so hydrophobic pesticides adsorb strongly on grape surfaces and the clarification has been shown to be effective in the reduction of hydrophobic compounds. Therefore, the final wine could have more quantities of hydrophilic pesticides. Alcoholic fermentation has been shown to be crucial in pesticide dissipation. However, pesticide residues in wine have been shown an antagonistic effect on yeasts, affecting the safety and quality of wine products. Therefore, proteomic and genomic analyses of yeast growth are reviewed to understand the effects of pesticides on yeast during fermentation. The last section describes new effective methods used in removing pesticides from grapes and wine, thereby improving product quality and reducing harmful effects.",
+  "publication_date": "2024-08-01",
+  "journal": "Comprehensive reviews in food science and food safety",
+  "doi": "10.1111/1541-4337.13419",
+  "entities": {
+    "FOOD": [
+      "grape surfaces",
+      "grape's skin",
+      "grapes",
+      "the final wine",
+      "the winemaking process",
+      "wine",
+      "wine production",
+      "wine products"
+    ],
+    "POLYPHENOL": [
+      "an antagonistic effect",
+      "harmful effects",
+      "insecticides",
+      "mass spectrometry",
+      "new effective methods",
+      "the effects",
+      "the last section"
+    ]
+  }
+}

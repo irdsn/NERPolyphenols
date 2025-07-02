@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Therapeutic effect and safety of curcumin in women with PCOS: A systematic review and meta-analysis.",
+  "abstract": "Polycystic ovary syndrome (PCOS) is a multi-factorial heterogeneous syndrome that has both adverse reproductive and metabolic implications for affected women and its management is a challenging clinical problem. Curcumin, as a phenolic compound with potent anti-inflammatory and antioxidant properties exerting positive effects on the lipid profile and insulin resistance, appears to be a valuable treatment regimen for patients with PCOS.",
+  "publication_date": "2022-10-27",
+  "journal": "Frontiers in endocrinology",
+  "doi": "10.3389/fendo.2022.1051111",
+  "entities": {
+    "POLYPHENOL": [
+      "a phenolic compound",
+      "affected women",
+      "curcumin",
+      "positive effects"
+    ],
+    "SYMPTOM": [
+      "insulin resistance"
+    ]
+  }
+}

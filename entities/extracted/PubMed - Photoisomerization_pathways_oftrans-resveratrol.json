@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Photoisomerization pathways oftrans-resveratrol.",
+  "abstract": "Resveratrol is well-known for promoting health benefits due to its antioxidant, anti-aging, anti-carcinogenic, and other beneficial activities. Understanding the photophysics of resveratrol is essential for determining its applicability to pharmaceutical innovations. In the present work, we used an explore-then-assess strategy to map the internal conversion pathways oftrans-resveratrol. This strategy consists of exploring the multidimensional configurational space with nonadiabatic dynamics simulations based on a semiempirical multireference method, followed by a feasibility assessment of reduced-dimensionality pathways at a highab initiotheoretical level. The exploration step revealed that internal conversion to the ground state may occur near five distinct conical intersections. The assessment step showed that the main photoisomerization pathway involves a twisted-pyramidalized S1/S0conical intersection, yielding eithertransorcisisomers. However, a secondary path was identified, wherecis-transisomerization happens in the excited state and internal conversion occurs at a cyclic conical intersection, yielding a closed-ring resveratrol derivative. This derivative, which can be formed through this direct path or an indirect photoexcitation, may be connected to the production of oxygen-reactive species previously reported and have implications in photodynamic therapy.",
+  "publication_date": "2024-09-18",
+  "journal": "Physical chemistry chemical physics : PCCP",
+  "doi": "10.1039/d4cp02373k",
+  "entities": {
+    "POLYPHENOL": [
+      "a closed-ring resveratrol derivative",
+      "a cyclic conical intersection",
+      "a secondary path",
+      "a twisted-pyramidalized s1/s0conical intersection",
+      "an indirect photoexcitation",
+      "five distinct conical intersections",
+      "oxygen-reactive species",
+      "resveratrol",
+      "this direct path",
+      "wherecis-transisomerization"
+    ],
+    "SYMPTOM": [
+      "its antioxidant, anti-aging, anti-carcinogenic, and other beneficial activities"
+    ],
+    "FOOD": [
+      "the multidimensional configurational space"
+    ]
+  }
+}

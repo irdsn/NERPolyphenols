@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Characteristic Polyphenols in 15 Varieties of Chinese Jujubes Based on Metabolomics.",
+  "abstract": "Jujube is a homologous herb of medicine and food, and polyphenols are key in determining the functional effects of jujubes.",
+  "publication_date": "2024-11-28",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo14120661",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols",
+      "the functional effects"
+    ]
+  }
+}

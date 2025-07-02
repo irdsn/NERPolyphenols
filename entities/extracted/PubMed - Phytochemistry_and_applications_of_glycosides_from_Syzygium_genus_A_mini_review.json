@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Phytochemistry and applications of glycosides from Syzygium genus: A mini review.",
+  "abstract": "One of the biggest genera of flowering plants in the Myrtaceae family is Syzygium genus. This is highly diverse and grown for a variety of uses, including the production of colorful, delicious, and meaty fruits. Each species of plant contains a variety of phytochemical elements, including flavonoids, terpenoids, tannins, glycosides, and phenolics, in its leaves, seeds, fruits, bark, stem bark, and flower buds. Thus, the purpose of this article is to present comprehensive information on the isolation of glycosides from different Syzygium species. More than 70 isolated glycosides have been covered in this article. The biological activities and food preservation aspects of glycosides have also been discussed.",
+  "publication_date": "2025-06-14",
+  "journal": "Carbohydrate research",
+  "doi": "10.1016/j.carres.2025.109582",
+  "entities": {
+    "POLYPHENOL": [
+      "different syzygium species",
+      "each species",
+      "flavonoids",
+      "tannins",
+      "the biological activities and food preservation aspects"
+    ]
+  }
+}

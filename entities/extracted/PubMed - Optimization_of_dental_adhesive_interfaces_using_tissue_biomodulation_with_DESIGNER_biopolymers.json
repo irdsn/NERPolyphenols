@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Optimization of dental adhesive interfaces using tissue biomodulation with DESIGNER biopolymers.",
+  "abstract": "To investigate the modulatory effects of four proanthocyanidin-DESIGNERS (PAC-DESIGNERs) on the long-term bond strength of the resin-adhesive interface, the degree of conversion of resin monomers, the chemical-mechanical properties of dentin matrix, and cell biocompatibility.",
+  "publication_date": "2025-05-02",
+  "journal": "Dental materials : official publication of the Academy of Dental Materials",
+  "doi": "10.1016/j.dental.2025.03.020",
+  "entities": {
+    "POLYPHENOL": [
+      "four proanthocyanidin-designers",
+      "the chemical-mechanical properties",
+      "the modulatory effects"
+    ]
+  }
+}

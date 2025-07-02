@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Metabolomic analysis of volatile and non-volatile compounds in mulberry leaf white tea processed with different withering methods.",
+  "abstract": "With economic development and the diversification and improvement of consumption patterns, there is a growing concern about food health. Mulberry leaves, a kind of natural resource with the homology of medicinal and edible properties, contain various bioactive compounds. In this study, the key active constituents, including tea polyphenols, \u03b3-aminobutyric acid (GABA), and 1-deoxynojirimycin (DNJ), in mulberry leaf white tea were characterized after different withering methods. Additionally, the effects of different withering methods on volatile and non-volatile compounds were analyzed using metabolomics. The findings indicated that non-volatile metabolites were primarily upregulated across all withering methods. Metabolic pathway analysis identified starch and sucrose metabolism and glycerophospholipid metabolism as the key pathways influenced.",
+  "publication_date": "2025-04-04",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144103",
+  "entities": {
+    "POLYPHENOL": [
+      "economic development",
+      "tea polyphenols",
+      "the effects"
+    ],
+    "FOOD": [
+      "mulberry leaf white tea"
+    ]
+  }
+}

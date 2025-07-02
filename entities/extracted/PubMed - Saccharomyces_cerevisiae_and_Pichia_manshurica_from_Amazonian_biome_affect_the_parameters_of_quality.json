@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Saccharomyces cerevisiae and Pichia manshurica from Amazonian biome affect the parameters of quality and aromatic profile of fermented and dried cocoa beans.",
+  "abstract": "The use of yeasts as starter cultures is a promising alternative to produce fermented cacao with particular characteristics regarding the quality of aromas and physical and chemical characteristics that are accepted by the chocolate market. This study aimed to evaluate the physical and chemical transformations of cocoa beans during fermentation after inoculation with starter cultures of yeast species Pichia manshurica (PF) and Saccharomyces cerevisiae (SF), both previously isolated in cocoa bean fermentations in the Brazilian Amazon, in comparison with a fermentation without the inoculum addition (CF). During the fermentation time, which was carried out on a cocoa farm in Igarap\u00e9-Miri (Amazon biome, Par\u00e1, Brazil), the contents of phenolic compounds (catechin and epicatechin), sugars (glucose, fructose, and sucrose), acetic acid, and ethanol were monitored by HPLC, and the volatile compounds profiles were assessed by GC-MS. The starter culture of P. manshurica was able to produce fermented cocoa beans with highly desirable characteristics for the production of good quality chocolate: low acidity, a broad variety of aromatic compounds with floral, fruity, and sweet characteristics, in addition to showing high contents of catechin and epicatechin, which are known by their antioxidant properties. Therefore, the use of starter cultures with species of yeasts isolated in the Amazon region, during cocoa fermentation, is an alternative to obtain fermented seeds with high quality favoring the commercial agreements in the chocolate market by cocoa producers. PRACTICAL APPLICATION: The addition of starter cultures was able to produce cocoa beans with good quality. Yeasts species isolated and identified in Amazonian cocoa fermentation can improve the profiles of aromatic compounds. Catechin and epicatechin contents are higher in inoculated cocoa beans fermentations.",
+  "publication_date": "2022-08-20",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.16282",
+  "entities": {
+    "FOOD": [
+      "a cocoa farm",
+      "amazonian cocoa fermentation",
+      "cocoa bean fermentations",
+      "cocoa beans",
+      "cocoa fermentation",
+      "cocoa producers",
+      "fermented cocoa beans",
+      "good quality chocolate",
+      "inoculated cocoa beans fermentations",
+      "the chocolate market"
+    ],
+    "POLYPHENOL": [
+      "catechin",
+      "catechin and epicatechin contents",
+      "epicatechin",
+      "phenolic compounds",
+      "species",
+      "yeast species pichia manshurica",
+      "yeasts species"
+    ]
+  }
+}

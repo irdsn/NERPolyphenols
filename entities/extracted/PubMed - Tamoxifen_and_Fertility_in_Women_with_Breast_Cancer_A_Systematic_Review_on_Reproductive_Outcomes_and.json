@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Tamoxifen and Fertility in Women with Breast Cancer: A Systematic Review on Reproductive Outcomes and Oncological Safety of Treatment Interruption.",
+  "abstract": "Breast cancer (BC) is the most prevalent malignancy among women worldwide, with a rising incidence in young, premenopausal patients. For those diagnosed with hormone receptor-positive (HR+) BC, tamoxifen is a cornerstone of adjuvant endocrine therapy, significantly reducing recurrence risk and improving long-term survival. However, its prolonged use poses challenges for women desiring pregnancy, prompting interest in temporary treatment interruption as a strategy to achieve reproductive goals while maintaining oncological safety. This systematic review evaluates the impact of tamoxifen on fertility, the feasibility of treatment interruption, and associated reproductive and oncological outcomes. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we conducted a comprehensive search across major databases, identifying three relevant studies, including one randomized controlled trial (RCT) and two observational cohort studies. The findings suggest that temporary tamoxifen interruption allows for successful pregnancies without significantly increasing short-term recurrence rates. Notably, the POSITIVE trial demonstrated a pregnancy achievement rate of 74% and a live birth rate of 63.8%, with comparable three-year disease-free survival between patients who interrupted tamoxifen and those who continued therapy. However, concerns remain regarding tamoxifen's teratogenic risks, emphasizing the need for strict contraceptive measures and preconception counseling. Despite emerging evidence supporting this approach, long-term safety data are limited. Further research is warranted to refine clinical recommendations and optimize reproductive counseling for young BC survivors.",
+  "publication_date": "2025-04-17",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26083787",
+  "entities": {
+    "SYMPTOM": [
+      "breast cancer"
+    ],
+    "POLYPHENOL": [
+      "clinical recommendations",
+      "hormone receptor-positive (hr+) bc",
+      "preconception counseling",
+      "recurrence risk",
+      "significantly increasing short-term recurrence rates"
+    ]
+  }
+}

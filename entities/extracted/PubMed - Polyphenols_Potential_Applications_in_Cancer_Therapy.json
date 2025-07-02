@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Polyphenols: Potential Applications in Cancer Therapy.",
+  "abstract": "Polyphenols (PFs) are compounds found in fruits and vegetables, known for their health-related benefits, mainly including antioxidant, antiinflammatory, and anticancer properties. However, their efficacy is limited by poor bioavailability due to issues like low solubility, rapid metabolism, and extensive excretion. Thus, research has focused on improving delivery systems, such as, for example, nanoparticles, hydrogels, cocrystals, or conjugation with carrier molecules, which may protect PFs from degradation, improve solubility, and/or facilitate targeted delivery to cancer cells. PFs are promising in modulating cancer-related pathways like cell proliferation and death, or metastatic invasion, though their translation to patients is hindered by bioavailability and complex cancer mechanisms. This review analyzes factors that affect PF bioavailability, evidences of in vivo effects in animal models and their mechanisms, results from clinical trials, and strategies to enhance bioavailability. The idea that PFs need to directly interact with the cancer cell is challenged. Future research aims to optimize delivery systems, combine PFs with standard treatments, and explore their epigenetic effects, modulation of the tumor microenvironment, and interactions with gut microbiota. Advances in personalized medicine and structural modifications to improve stability and absorption could further enhance PF anticancer potential. Despite challenges, PFs remain a promising avenue for complementary oncotherapy solutions.",
+  "publication_date": "2025-03-27",
+  "journal": "Molecular nutrition & food research",
+  "doi": "10.1002/mnfr.70011",
+  "entities": {
+    "POLYPHENOL": [
+      "carrier molecules",
+      "complex cancer mechanisms",
+      "polyphenols",
+      "their epigenetic effects",
+      "their mechanisms",
+      "vivo effects"
+    ],
+    "SYMPTOM": [
+      "antioxidant, antiinflammatory, and anticancer properties",
+      "cancer cells",
+      "cancer-related pathways",
+      "pf anticancer potential",
+      "the cancer cell"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols antioxidant",
+  "title": "Preparation, Characterization, and Antioxidant Capacity of Xanthone-Urea Complex.",
+  "abstract": "Xanthones are a group of polyphenolic compounds widely known to have antitumor, anti-inflammatory, antibacterial, antifungal, antiviral, and antioxidant properties. To fully utilize their therapeutic potential, this study aimed to enhance the solubility of a poorly soluble xanthone by preparing a 1:1 molar ratio of xanthone-urea complex utilizing a cogrinding method via a vibration rod mill. DSC analysis revealed the disappearance of the characteristic endothermic peaks of xanthone (177 \u00b0C) and urea (136 \u00b0C) in the ground mixture (GM), along with the appearance of a new endothermic peak at 185 \u00b0C, indicating potential complexation. Additionally, new peaks were observed in the PXRD patterns of the GM at 9.1\u00b0, 12.0\u00b0, 14.0\u00b0, 18.6\u00b0, 19.6\u00b0, and 24.6\u00b0, suggesting structural changes that were also observed in SEM morphology. FTIR spectroscopy revealed significant shifts in the -NH and C=O peaks of xanthone and urea, as well as the disappearance of a -CN peak. Altered diffusion coefficients for both xanthone and urea were measured using DOSY-NMR, accompanied by notable improvements in solubility and dissolution profiles. The GM exhibited nearly a 2-fold increase in solubility, reaching 88.08 \u00b1 1.25 \u00b5g/mL at 24 h and 90.97 \u00b1 0.98 \u00b5g/mL at 72 h, alongside a 2-fold and 5-fold increase in dissolution at 0.21 \u00b5g/mL and 0.51 \u00b5g/mL for the physical mixture (PM) and GM, respectively. Furthermore, an enhanced antioxidant capacity was observed, as demonstrated in the calculated Trolox equivalent (TE) value, which increased from 1.48 \u00b1 1.12 for xanthone alone to 1.65 \u00b1 1.03 in the xanthone-urea complex. These findings confirm the successful complexation of xanthone and urea in a 1:1 molar ratio.",
+  "publication_date": "2025-06-05",
+  "journal": "Materials (Basel, Switzerland)",
+  "doi": "10.3390/ma18112658",
+  "entities": {
+    "POLYPHENOL": [
+      "ftir spectroscopy",
+      "polyphenolic compounds"
+    ],
+    "FOOD": [
+      "the appearance",
+      "the disappearance"
+    ]
+  }
+}

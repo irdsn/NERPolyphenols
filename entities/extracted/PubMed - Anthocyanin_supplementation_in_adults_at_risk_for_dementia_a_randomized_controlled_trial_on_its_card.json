@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Anthocyanin supplementation in adults at risk for dementia: a randomized controlled trial on its cardiometabolic and anti-inflammatory biomarker effects.",
+  "abstract": "Anthocyanins are dietary flavonoids shown to have a therapeutic capacity to mitigate inflammation and oxidative stress. The present secondary analyses from the \"Anthocyanins in People at Risk for Dementia Study\" were aimed at (I) determining the intervention's effect on blood-based markers of cardiovascular disease and inflammation and (II) evaluating whether baseline factors such as age, sex, inflammation, or cardiometabolic score may moderate the intervention's effect on inflammatory status. This study was an ancillary, 24-week randomized, double-blind, placebo-controlled Phase II trial. Sub-sample participants (n\u2009=\u200999), aged 60-80\u00a0years with mild cognitive impairment or cardiometabolic disorders, were randomized to receive either 320\u00a0mg/day of anthocyanins or placebo. The biomarkers analyzed included inflammatory biomarker assessment (IL\u2009-\u20096, IL\u2009-\u20098, IL\u2009-\u200910, IL\u2009-\u20091b, TNF\u2009-\u2009\u03b1, IFN\u2009-\u2009\u03b3), and C-reactive protein (CRP), as well as albumin, thrombocytes, cholesterol, LDL, HDL, and triglycerides, which were longitudinally compared between both groups. Baseline characteristics were balanced between the groups. ANCOVA analyses reveal 24-week differences favoring the anthocyanin treatment in LDL cholesterol levels (\u019ep2=\u20090.078; p\u2009=\u20090.015), cardiometabolic score (\u019ep2=\u20090.073; p\u2009=\u20090.021), CRP levels (\u019ep2=\u20090.417; p\u2009=\u20090.0001), IL\u2009-\u20096 (\u019ep2\u2009=\u20090.085; p\u2009=\u20090.015), IL\u2009-\u20091b (\u019ep2=\u20090.058; p\u2009=\u20090.037), and Inflam z-score 5 (\u019ep2=\u20090.059, p\u2009=\u20090.004). Moderation analysis demonstrated that the inflammatory score at baseline was a significant predictor of the effect of the intervention on the CRP levels. Anthocyanin supplementation reduces CRP and cardiovascular disease biomarkers in individuals at risk of dementia, especially when there is increased inflammation at baseline. ClinicalTrials.gov study identifier: NCT03419039.",
+  "publication_date": "2025-05-02",
+  "journal": "GeroScience",
+  "doi": "10.1007/s11357-025-01669-8",
+  "entities": {
+    "POLYPHENOL": [
+      "dietary flavonoids",
+      "the effect",
+      "the intervention's effect",
+      "the present secondary analyses"
+    ],
+    "SYMPTOM": [
+      "dementia",
+      "dementia study",
+      "increased inflammation",
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

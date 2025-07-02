@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Characterizing and decoding the dynamic alterations of volatile organic compounds and non-volatile metabolites of dark tea by solid-state fermentation with Penicillium polonicum based on GC-MS, GC-IMS, HPLC, E-nose and E-tongue.",
+  "abstract": "Penicillium species is a kind of core fungus involved in Fu brick tea (FBT) production. However, its specific effects on shaping the distinct flavor characteristics and non-volatiles of FBT remain unclear. In this study, Penicillium polonicum, isolated from FBT, was inoculated into primary dark tea for pure-culture fermentation, and investigated its effects on the volatile profile and non-volatile metabolites of dark tea. During fermentation, P. polonicum produced various hydrolytic enzymes, including \u03b2-glucosidase, polyphenol oxidase, peroxidase, and tannase, which greatly altered the non-volatile and volatile metabolites of dark tea. GC-MS and GC-IMS identified a total of 185 volatile organic compounds (VOCs), with alcohols (38), ketones (39), aldehydes (33) and hydrocarbons (19) being the most abundant. The changes in VOCs can be divided into three distinct stages. Key aroma compounds, such as (E)-\u03b2-Ionoine, (E)-\u03b2-damascenone and linalool were prominent in the early stages, while 2-methoxy-3-sec-butyl pyrazine, 2-isopropyl-3-methoxypyrazine, 3-isobutyl-2-methoxypyrazine, and linalool were prominent in the middle and late stages. The formation pathways of key VOCs were primarily involved in amino acids degradation, oxidative degradation of fatty acids, and glycosides degradation. After fermentation with P. polonicum, significant changes were observed in the constituents of catechins, free amino acids, and alkaloids in tea, resulting in an advance while decreased the astringency and bitterness of tea infusion. This research provides novel insight for of the formation of VOCs and non-volatile metabolites of dark tea by P. polonicum, offering important guidance for utilizing P. polonicum as a starter culture to stabilize and enhancing the quality of FBT during production.",
+  "publication_date": "2025-03-20",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116279",
+  "entities": {
+    "POLYPHENOL": [
+      "2-methoxy-3-sec-butyl pyrazine",
+      "catechins",
+      "its effects",
+      "its specific effects",
+      "penicillium species",
+      "polyphenol oxidase"
+    ],
+    "FOOD": [
+      "tea infusion"
+    ]
+  }
+}

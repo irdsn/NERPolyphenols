@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Green Tea Pressurized Hot Water Extract in Atherosclerosis: A Multi-Approach Study on Cellular, Animal, and Molecular Mechanisms.",
+  "abstract": "Atherosclerosis is a persistent inflammatory disorder influenced by oxidative stress and lipid imbalances, and it continues to be a major contributor to cardiovascular diseases. Rich in catechins and flavonoids, green tea pressurized hot water extract (GPHWE) demonstrated potent antioxidant activity through DPPH, ABTS, hydroxyl, and nitric oxide scavenging assays. In vitro, GPHWE protected RAW264.7 macrophages from oxidized LDL (Ox-LDL)-induced cytotoxicity and apoptosis by mitigating oxidative stress and enhancing cell survival. Animal studies using mice fed a high-fat diet (HFD) revealed notable improvements in lipid profiles, including decreases in total cholesterol, LDL, the atherosclerosis index (AI), the coronary risk index (CRI), and triglycerides, as well as lower levels of malondialdehyde (MDA), an indicator of oxidative stress. These results were comparable to those achieved with Simvastatin. Molecular docking studies indicated strong binding affinities of catechins to essential targets such as LOX-1, HMG-CoA reductase, caspase-3, and Nrf2, implying that the mechanisms of GPHWE involve antioxidant properties, regulation of lipids, and stabilization of plaques. The catechins of GPHWE, including epigallocatechin gallate (EGCG), epicatechin gallate (ECG), and epigallocatechin (EGC), were tentatively identified through qualitative analysis performed by UHPLC-QTOF-MS. This comprehensive approach positions GPHWE as a promising natural remedy for preventing atherosclerosis and reducing cardiovascular risk.",
+  "publication_date": "2025-03-28",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14040404",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "atherosclerosis",
+      "oxidative stress",
+      "the atherosclerosis index"
+    ],
+    "POLYPHENOL": [
+      "catechins",
+      "decreases",
+      "ecg",
+      "egcg",
+      "epicatechin gallate",
+      "epigallocatechin",
+      "epigallocatechin gallate",
+      "flavonoids",
+      "molecular docking studies",
+      "the catechins",
+      "the mechanisms"
+    ],
+    "FOOD": [
+      "green tea pressurized hot water extract"
+    ]
+  }
+}

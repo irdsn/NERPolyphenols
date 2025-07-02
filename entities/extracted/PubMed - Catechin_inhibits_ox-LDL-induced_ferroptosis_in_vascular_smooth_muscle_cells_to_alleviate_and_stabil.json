@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Catechin inhibits ox-LDL-induced ferroptosis in vascular smooth muscle cells to alleviate and stabilize atherosclerosis.",
+  "abstract": "Atherosclerosis (AS) is a chronic, progressive vascular disease marked by lipid deposition in the arterial intima, vascular wall thickening, luminal narrowing, and compromised blood flow. Although macrophage-derived foam cells are well-studied, vascular smooth muscle cells (VSMCs) also substantially contribute to AS, particularly when they transition into foam cells under oxidative stress. Accumulating evidence suggests that ferroptosis-an iron-dependent, regulated cell death mechanism characterized by lipid peroxidation-exacerbates AS pathology through oxidative damage and vascular dysfunction. Catechin, a potent antioxidant abundant in green tea, has demonstrated efficacy in reducing oxidative stress; however, its role in suppressing VSMC ferroptosis induced by oxidized low-density lipoprotein (ox-LDL) remains unclear. Here, we evaluated catechin's capacity to protect VSMCs against ox-LDL-induced ferroptosis, focusing on its modulation of the Nrf2/SLC7A11/GPX4 axis. Mouse vascular smooth muscle (MOVAS) cells were incubated with ox-LDL to induce foam cell formation and ferroptosis. We assessed intracellular iron, lipid peroxidation, reactive oxygen species (ROS), and antioxidant defenses and examined mitochondrial ultrastructure via transmission electron microscopy (TEM). Ferroptosis-related proteins were measured by Western blot, immunofluorescence, and qPCR.In vivo, ApoE-/-mice on a high-fat diet (HFD) underwent partial carotid ligation with local catechin administration to investigate plaque formation and ferroptosis in arterial tissue. Our results show that catechin reduced intracellular Fe2+, decreased ROS and malondialdehyde (MDA) levels, and preserved mitochondrial integrity in ox-LDL-exposed MOVAS cells. Catechin also enhanced GSH and SOD levels and restored GPX4, SLC7A11, and Nrf2 expression, thereby reducing foam cell formation. In ApoE-/- mice, catechin reduced plaque size, mitigated lipid deposition, and upregulated GPX4, SLC7A11, and Nrf2 in the arterial wall. Collectively, these findings confirm that catechin prevents ox-LDL-induced ferroptosis in VSMCs by activating the Nrf2/SLC7A11/GPX4 pathway, highlighting its potential therapeutic value for atherosclerosis. This study provides additional evidence for the role of dietary polyphenols in regulating ferroptosis within VSMCs.",
+  "publication_date": "2025-06-02",
+  "journal": "Frontiers in nutrition",
+  "doi": "10.3389/fnut.2025.1594708",
+  "entities": {
+    "SYMPTOM": [
+      "atherosclerosis",
+      "oxidative damage",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "an iron-dependent, regulated cell death mechanism",
+      "catechin",
+      "catechin's capacity",
+      "dietary polyphenols",
+      "local catechin administration",
+      "reactive oxygen species",
+      "transmission electron microscopy"
+    ],
+    "FOOD": [
+      "green tea"
+    ]
+  }
+}

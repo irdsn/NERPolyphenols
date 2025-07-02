@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Autophagy-related 7 proteindependent autophagy mediates resveratrol-caused upregulation of mitochondrial biogenesis and steroidogenesis in aged Leydig cell.",
+  "abstract": "Mitochondrial dysfunction may contribute to decreased testosterone synthesis in aged Leydig cells. Resveratrol (RSV) as an antioxidant has been shown to exhibit multiple positive effects on mitochondrion, where steroidogenesis takes place. Whether RSV can improve steroidogenesis in aged testis is still unknown. This study investigates the effect of RSV on testosterone production during aging and corresponding changes in mitochondrial biogenesis and autophagy activity, which are closely associated with steroidogenesis. Whether ATG7, an important autophagy-related protein, functions in RSV-treated aged Leydig cells will also be explored.",
+  "publication_date": "2023-12-22",
+  "journal": "Molecular biology reports",
+  "doi": "10.1007/s11033-023-08935-y",
+  "entities": {
+    "SYMPTOM": [
+      "mitochondrial dysfunction"
+    ],
+    "POLYPHENOL": [
+      "decreased testosterone synthesis",
+      "multiple positive effects",
+      "resveratrol",
+      "the effect"
+    ]
+  }
+}

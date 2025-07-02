@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Lipoic Acid Enhances the Defense Capability of Citrus Fruits to Blue Mold Caused byPenicillium italicum.",
+  "abstract": "Blue mold caused byPenicillium italicum(P. italicum) is a major postharvest disease in citrus fruits. Lipoic acid (LA) is a potent antioxidant with biological activity that was evaluated for its inhibitory effects onP. italicumand citrus blue mold using in vitro and in vivo experiments. The results demonstrated that LA effectively suppressed the mycelial growth and spore germination ofP. italicum. LA increased hydrogen peroxide levels, compromising cell membrane integrity and leading to enhanced membrane permeability, as indicated by the increased relative conductivity and decreased protein and total sugar contents inP. italicummycelia. Furthermore, LA delayed disease progression in citrus fruits infected withP. italicumthrough increasing total phenol and flavonoid contents and enhancing the activities of phenylalanine ammonia lyase, polyphenol oxidase, superoxide dismutase, and peroxidase in citrus peel. Overall, LA exhibited strong antifungal activity againstP. italicumand improved citrus fruit resistance to blue mold, highlighting its potential as a natural postharvest disease control agent.",
+  "publication_date": "2025-03-14",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14060987",
+  "entities": {
+    "POLYPHENOL": [
+      "its inhibitory effects",
+      "polyphenol oxidase",
+      "total phenol and flavonoid contents"
+    ]
+  }
+}

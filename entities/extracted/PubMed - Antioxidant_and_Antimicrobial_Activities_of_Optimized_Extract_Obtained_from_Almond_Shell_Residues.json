@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Antioxidant and Antimicrobial Activities of Optimized Extract Obtained from Almond Shell Residues.",
+  "abstract": "The almond shell is a byproduct that contains bioactive compounds such as phenolic compounds and flavonoids, which possess antioxidant and anticancer properties. In this study, these compounds were extracted from the shells of different almond varieties (Lauranne, Marta, Constanti, D01-188, S4017, Vairo) to evaluate their antioxidant, antibacterial, and antifungal activitiesin vitro. The optimal almond varieties for specific bioactivities were identified. Lauranne, due to its elevated phenolic content, exhibited the highest antioxidant capacity. In contrast, S4017, despite its comparatively lower phenolic concentration, demonstrated the most potent antibacterial activity. Constanti, characterized by its high content of both phenolic and flavonoid compounds, is well-suited for promoting overall health and enhancing food preservation, while Vairo exhibits notable antifungal activity against specific fungal species. These findings suggest that selecting almond varieties based on their bioactive compound profiles can enhance their health benefits and applications in the food and pharmaceutical industries.",
+  "publication_date": "2025-06-16",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122614",
+  "entities": {
+    "FOOD": [
+      "almond varieties",
+      "different almond varieties",
+      "the almond shell",
+      "the optimal almond varieties"
+    ],
+    "POLYPHENOL": [
+      "both phenolic and flavonoid compounds",
+      "flavonoids",
+      "phenolic compounds",
+      "specific bioactivities",
+      "specific fungal species"
+    ],
+    "SYMPTOM": [
+      "antioxidant and anticancer properties"
+    ]
+  }
+}

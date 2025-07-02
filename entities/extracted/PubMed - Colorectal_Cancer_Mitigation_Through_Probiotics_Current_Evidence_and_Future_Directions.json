@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Colorectal Cancer Mitigation Through Probiotics: Current Evidence and Future Directions.",
+  "abstract": "Despite recent advancements in cancer treatment, colon cancer remains one of the most commonly diagnosed and deadliest cancers worldwide, with significantly increasing incidence rates in developing countries. Numerous studies using in vitro and animal models have explored the potential mechanisms through which probiotics may help prevent colorectal cancer (CRC). Among the most studied probiotic species are those belonging to the Lactobacillus and Bifidobacterium genera. The proposed anti-CRC mechanisms include direct interaction with the intestinal mucosa, such as probiotic adherence and competitive exclusion of harmful microbes, as well as antagonism against pathogens through the action of lactic acid bacteria. Probiotics have also been shown to bind mutagens and carcinogens, and to inhibit the activity of \u03b2-glucuronidase-an enzyme linked to damage of colon cells. There is growing evidence supporting the immunomodulatory role of probiotics in CRC prevention. This involves the secretion of beneficial metabolites and modulation of the antitumor immune response via microbiota-mediated pathways. Another proposed mechanism is the ability of probiotics to reduce secondary bile acid production, thereby influencing folate metabolism and contributing to cancer prevention. The effectiveness of probiotics in CRC prevention depends largely on the specific microbial strain. Interestingly, some studies suggest that probiotic viability may not be essential for certain anticancer effects. However, more in vivo studies-particularly human clinical trials-are needed to better understand and validate the potential roles of probiotics (both viable and non-viable), prebiotics, and synbiotics in CRC chemoprevention.",
+  "publication_date": "2025-06-18",
+  "journal": "Current microbiology",
+  "doi": "10.1007/s00284-025-04297-9",
+  "entities": {
+    "POLYPHENOL": [
+      "another proposed mechanism",
+      "certain anticancer effects",
+      "colorectal cancer",
+      "direct interaction",
+      "recent advancements",
+      "secondary bile acid production",
+      "the effectiveness",
+      "the most studied probiotic species",
+      "the potential mechanisms",
+      "the proposed anti-crc mechanisms",
+      "the secretion",
+      "the specific microbial strain"
+    ],
+    "SYMPTOM": [
+      "cancer prevention",
+      "cancer treatment",
+      "colon cancer",
+      "the most commonly diagnosed and deadliest cancers"
+    ]
+  }
+}

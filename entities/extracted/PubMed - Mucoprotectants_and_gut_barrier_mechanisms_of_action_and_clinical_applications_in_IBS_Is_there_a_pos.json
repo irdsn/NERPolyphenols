@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Mucoprotectants and gut barrier: mechanisms of action and clinical applications in IBS. Is there a possible role?",
+  "abstract": "Impaired gut barrier function plays a pivotal role in the pathophysiology of irritable bowel syndrome (IBS), particularly in IBS with diarrhea. Mucoprotectants, such as xyloglucan, gelatin tannate and pea protein tannins, offer a novel therapeutic approach by restoring intestinal permeability and reducing inflammation. This review assesses preclinical and clinical evidence supporting mucoprotectants in IBS with diarrhea management. Preclinical studies indicate their efficacy in reducing intestinal permeability and inflammation, while clinical trials demonstrate improvements in stool consistency, abdominal pain and bloating. Despite these promising results, comparative studies are needed to establish the superiority of specific mucoprotectants and their optimal use in clinical practice.",
+  "publication_date": "2025-05-12",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1538791",
+  "entities": {
+    "POLYPHENOL": [
+      "mucoprotectants",
+      "preclinical and clinical evidence",
+      "preclinical studies",
+      "specific mucoprotectants",
+      "xyloglucan, gelatin tannate and pea protein tannins"
+    ],
+    "SYMPTOM": [
+      "abdominal pain",
+      "inflammation"
+    ]
+  }
+}

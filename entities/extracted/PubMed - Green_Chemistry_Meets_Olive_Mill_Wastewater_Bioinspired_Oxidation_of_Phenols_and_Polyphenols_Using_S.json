@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Green Chemistry Meets Olive Mill Wastewater: Bioinspired Oxidation of Phenols and Polyphenols Using Selenium Catalysts.",
+  "abstract": "Olive mill wastewater (OMW) represents a toxic waste generated during olive oil production (30 million m3/year). Its phytotoxicity and resistance to biodegradation are mainly due to the presence of polyphenols. Methodologies able to remove these organic compounds from this waste to allow the safe dispose of OMW have been developed, and among them, the most effective are oxidation procedures. In this context, we propose an alternative chemical treatment based on the oxidation of OMW using diluted hydrogen peroxide and seleno-organic compounds (diphenyl diselenide and diseleno-bis-benzoic acid) selected as eco-friendly bioinspired catalysts. The effectiveness of the protocol was monitored by Folin-Ciocalteu (F-C) quantification and NMR quantification. The results demonstrated that the greatest reduction in the total phenols content-up to 96%-was achieved using the highest concentrations of catalyst (0.6%w/w) and oxidant (10%v/v). Moreover, a toxicological evaluation was carried out using the marine bacteriaAliivibrio fischeri, revealing a significant decrease in toxicity. The EC50value increased from 0.089 mg/L in the untreated OMW to 18.740 mg/L in the treated sample after removal of the residual catalyst and peroxides.",
+  "publication_date": "2025-05-28",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26115192",
+  "entities": {
+    "FOOD": [
+      "olive oil production"
+    ],
+    "POLYPHENOL": [
+      "a significant decrease",
+      "eco-friendly bioinspired catalysts",
+      "polyphenols",
+      "the ec50value",
+      "the effectiveness"
+    ]
+  }
+}

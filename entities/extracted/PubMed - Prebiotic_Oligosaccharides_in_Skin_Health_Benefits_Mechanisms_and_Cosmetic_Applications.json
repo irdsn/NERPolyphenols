@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Prebiotic Oligosaccharides in Skin Health: Benefits, Mechanisms, and Cosmetic Applications.",
+  "abstract": "Prebiotic oligosaccharides have attracted significant interest in dermatology and skin health due to their ability to modulate the skin microbiome and microbiota-host interactions. This review offers a novel dual perspective, systematically examining the benefits of both oral intake and topical application of prebiotic oligosaccharides, including well-established prebiotics (e.g., human milk oligosaccharides, galacto- and fructo-oligosaccharides) and emerging prebiotic candidates (e.g., gluco-oligosaccharides, chitosan-oligosaccharides, agaro-oligosaccharides). First, cutting-edge synthetic processes for producing diverse oligosaccharides and their structural chemistry are introduced. Then, we discuss in vitro studies demonstrating their efficacy in promoting skin commensals, inhibiting pathogens, and conferring protective effects, such as antioxidant, anti-inflammatory, anti-melanogenic, and wound-healing properties. Furthermore, we emphasize in vivo animal studies and clinical trials revealing that prebiotic oligosaccharides, administered orally or topically, alleviate atopic dermatitis, enhance skin hydration, attenuate acne, and protect against photo-aging by modulating skin-gut microbiota and immune responses. Mechanistically, we integrate genetic and molecular insights to elucidate how oligosaccharides mediate these benefits, including gut-skin axis crosstalk, immune regulation, and microbial metabolite signaling. Finally, we highlight current commercial applications of oligosaccharides in cosmetic formulations while addressing scientific and practical challenges, such as structure-function relationships, clinical scalability, and regulatory considerations. This review bridges mechanistic understanding with practical applications, offering a comprehensive resource for advancing prebiotic oligosaccharides-based skincare therapies.",
+  "publication_date": "2025-06-18",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060754",
+  "entities": {
+    "POLYPHENOL": [
+      "a novel dual perspective",
+      "genetic and molecular insights",
+      "mechanistic understanding",
+      "protective effects"
+    ]
+  }
+}

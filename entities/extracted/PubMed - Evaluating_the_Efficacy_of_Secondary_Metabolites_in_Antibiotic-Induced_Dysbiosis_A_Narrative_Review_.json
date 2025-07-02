@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Evaluating the Efficacy of Secondary Metabolites in Antibiotic-Induced Dysbiosis: A Narrative Review of Preclinical Studies.",
+  "abstract": "Drug-induced dysbiosis, particularly from antibiotics, has emerged as a significant contributor to chronic diseases by disrupting gut microbiota composition and function. Plant-derived secondary metabolites, such as polysaccharides, polyphenols, alkaloids, and saponins, show potential in mitigating antibiotic-induced dysbiosis. This review aims to consolidate evidence from preclinical studies on the therapeutic effects of secondary metabolites in restoring gut microbial balance, emphasizing their mechanisms and efficacy.",
+  "publication_date": "2025-02-01",
+  "journal": "Antibiotics (Basel, Switzerland)",
+  "doi": "10.3390/antibiotics14020138",
+  "entities": {
+    "POLYPHENOL": [
+      "plant-derived secondary metabolites",
+      "polyphenols",
+      "preclinical studies",
+      "secondary metabolites",
+      "the therapeutic effects",
+      "their mechanisms"
+    ]
+  }
+}

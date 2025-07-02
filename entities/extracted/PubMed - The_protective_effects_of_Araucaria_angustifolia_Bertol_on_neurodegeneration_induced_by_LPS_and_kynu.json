@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "The protective effects of Araucaria angustifolia (Bertol.) on neurodegeneration induced by LPS and kynurenine exposure in BV-2 microglial cells.",
+  "abstract": "The interplay between chronic inflammation, redox imbalance, apoptosis, and mitochondrial dysfunction is a central key in brain disorders (BD). This study aimed to develop an in vitro model using BV-2 microglial cells treated sequentially with lipopolysaccharide (LPS) and kynurenine (KYN) to mimic chronic biochemical changes observed in BD. Moreover, a polyphenol-rich extract from Araucaria angustifolia (AAE) was tested to explore a possible therapeutic intervention.",
+  "publication_date": "2025-05-30",
+  "journal": "Molecular biology reports",
+  "doi": "10.1007/s11033-025-10637-6",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "chronic inflammation",
+      "mitochondrial dysfunction"
+    ],
+    "POLYPHENOL": [
+      "a polyphenol-rich extract"
+    ]
+  }
+}

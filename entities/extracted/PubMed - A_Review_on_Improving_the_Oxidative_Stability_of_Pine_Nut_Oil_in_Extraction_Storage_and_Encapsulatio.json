@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "A Review on Improving the Oxidative Stability of Pine Nut Oil in Extraction, Storage, and Encapsulation.",
+  "abstract": "Pine nut oil (PNO) is highly valued by consumers for its rich content of unsaturated fatty acids, which confer unique nutritional benefits. However, PNO is highly susceptible to lipid oxidation during storage and extraction. This chemical degradation compromises product quality and poses potential risks to food safety. To address this challenge, the food industry is developing antioxidant strategies, including optimizing pretreatment conditions to improve flavor and storage stability. Green extraction technologies such as microwave-assisted extraction (MAE) and ultrasonic-assisted extraction (UAE) have been introduced to enhance extraction efficiency and promote environmental sustainability. Light-proof packaging, reduced oxygen environments, and temperature control have also been employed to significantly extend the shelf life of PNO. Furthermore, to maintain the nutritional integrity and safety of PNO while expanding its functional applications in the food industry, several innovative approaches have been employed. These include the incorporation of natural antioxidants, the development of Pickering emulsions, the use of microencapsulation, and the formulation of oleogels.",
+  "publication_date": "2025-06-12",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060716",
+  "entities": {
+    "POLYPHENOL": [
+      "green extraction technologies"
+    ],
+    "SYMPTOM": [
+      "light-proof packaging"
+    ]
+  }
+}

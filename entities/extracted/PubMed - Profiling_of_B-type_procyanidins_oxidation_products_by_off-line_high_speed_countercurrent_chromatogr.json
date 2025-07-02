@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Profiling of B-type procyanidins oxidation products by off-line high speed countercurrent chromatography x electrospray ionisation mass spectrometry flow-injection.",
+  "abstract": "A\u2011type procyanidins (PCs) are known for their numerous health benefits. They are produced by oxidative conversion of B\u2011type PCs such as B1 and B2, induced by oxidative processes during food processing, or by direct transformation via enzymes or radical agents such as 2,2\u2011diphenyl\u20111\u2011picryl-hydrazyl (DPPH) radicals. In this study, we demonstrated the DPPH radical oxidation of a mixture of dimeric PCs B2 (EC\u2011(4\u03b2\u21928)\u2011EC) and B4 (C\u2011(4\u03b1\u21928)\u2011EC), obtained by the semi-synthetic acid\u2011catalysed depolymerisation of Salix alba polymer after (-)\u2011epicatechin addition. Under reaction conditions of 50.0 \u00b0C for 185 min and a molar ratio of 9/31.25 (n/n) of B\u2011type to DPPH radical, various reaction products like A\u2011type PCs, spirocyclisation products (m/z 575 [M-H]-), (bis)methylated B\u2011types and oxidised PCs (m/z 591, 581 and 605 [M-H]-), as well as further oxidised products (m/z 573 [M-H]-) were detected. The aim of this study was to investigate reaction by\u2011products using high\u2011speed countercurrent chromatography (HSCCC) followed by sequential off\u2011line flow\u2011injection ESI\u2011MS/MS profiling based on selected single ion traces, and two\u2011dimensional (2D) HSCCC x LC\u2011ESI\u2011MS plots for preparative visualisation of metabolites as a powerful tool for elution profile analysis and monitoring of the co\u2011elution effects of isomeric and isobaric compounds. HSCCC x LC\u2011PDA monitoring at \u03bb= 280 nm revealed the presence of oligomeric and polymeric compounds formed by an intermolecular nucleophilic addition. The HSCCC separation in combination with an off\u2011line ESI\u2011MS/MS profiling and a 2D\u2011plot of HSCCC fractions versus LC\u2011ESI\u2011MS/LC\u2011PDA was successfully applied for the semi\u2011synthetic reaction approach of radical\u2011induced oxidation of dimeric B\u2011type PCs.",
+  "publication_date": "2025-06-03",
+  "journal": "Journal of chromatography. A",
+  "doi": "10.1016/j.chroma.2025.466111",
+  "entities": {
+    "POLYPHENOL": [
+      "-)\u2011epicatechin",
+      "an intermolecular nucleophilic addition",
+      "a\u2011type procyanidins",
+      "c\u2011(4\u03b1\u21928)\u2011ec",
+      "direct transformation",
+      "ec\u2011(4\u03b2\u21928)\u2011ec",
+      "selected single ion traces",
+      "sequential off\u2011line flow\u2011injection esi\u2011ms/ms profiling",
+      "the co\u2011elution effects"
+    ]
+  }
+}

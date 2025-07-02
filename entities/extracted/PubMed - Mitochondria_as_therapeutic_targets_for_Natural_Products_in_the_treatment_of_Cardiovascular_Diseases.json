@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Mitochondria as therapeutic targets for Natural Products in the treatment of Cardiovascular Diseases.",
+  "abstract": "Natural products represent a unique medical approach to treating disease and have been used in clinical practice for thousands of years in cardiovascular disease (CVDs). In recent years, natural products have received increasing attention for their high efficiency, safety, and low toxicity, and their targeted regulation of mitochondria offers promising strategies for the treatment of CVDs. However, the potential mechanisms by which natural products target mitochondria for cardiovascular treatment have not been fully elucidated.",
+  "publication_date": "2025-03-06",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.119588",
+  "entities": {
+    "POLYPHENOL": [
+      "recent years",
+      "the potential mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Allelopathic effects and mechanism of kaempferol on controlling Microcystis aeruginosa blooms.",
+  "abstract": "Microcystis aeruginosa blooms usually caused serious damage to local ecological environment. Utilization of allelochemicals for mitigating harmful algal blooms (HABs) are regarded as an eco-friendly way. In the previous studies, kaempferol (KAE) has showed allelopathic effect on algae. However, the mechanism of KAE on M. aeruginosa is still largely uncharacterized until now. In the present study, the effects and mechanism of KAE on M. aeruginosa were investigated in terms of growth indicators, cell membrane, photosynthesis, respiration, and enzymic system. The results indicated that KAE can significantly inhibit the growth of M. aeruginosa and the inhibitory effect be concentration-dependent. Besides, a high inhibition rate of 96.69\u00a0% was detected while exposure to 20\u00a0mg\u00b7L-1KAE for 96\u00a0h. Statistical analysis revealed that the EC50of KAE on M. aeruginosa at 48 and 96\u00a0h was 15.83\u00a0mg\u00b7L-1and 11.99\u00a0mg\u00b7L-1, respectively. After exposure to KAE, photosynthetic fluorescence parameters of M. aeruginosa, including the maximum photochemical quantum yield (Fv/Fm), the actual photochemical quantum yield (YII), the maximum relative electron transfer rate (rETRmax), and light use efficiency (\u03b1), were all decreased. Additionally, superoxide dismutase (SOD) activities significantly increased as a response to oxidative stress. In comparison, the activities of Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco), phosphoenolpyruvate carboxylase (PEPC) and Na+-K+ATPase decreased significantly. Besides, the nucleic acid and protein content in the solution increased, and the respiration rate of algae decreased significantly. By measuring the concentration of intracellular and extracellular microcystin (MCs), we found that exposure to KAE did not promote the leakage of MCs. Our results revealed that KAE is a promising antialgal natural chemical for HABs controlling.",
+  "publication_date": "2025-05-12",
+  "journal": "Marine pollution bulletin",
+  "doi": "10.1016/j.marpolbul.2025.118116",
+  "entities": {
+    "POLYPHENOL": [
+      "allelopathic effect",
+      "an eco-friendly way",
+      "kaempferol",
+      "local ecological environment",
+      "mechanism",
+      "the ec50of kae",
+      "the effects",
+      "the inhibitory effect",
+      "the maximum relative electron transfer rate",
+      "the mechanism"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

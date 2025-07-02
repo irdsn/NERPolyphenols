@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Quantitative Distribution of Polyphenolic Compounds during Plant Development in Five Varieties of Organic Hemp (Cannabis sativaL.).",
+  "abstract": "This study analyzed the polyphenol composition in fiveCannabis sativaL. varieties (Finola, Ferimon, Fedora 17, Futura 75, and Santhica) across plant parts (buds, leaves, and stems) and growth stages (June-September 2022). Microflow LC-MS and spectrophotometry screened 25 polyphenols, quantifying 17 (flavan-3-ols, flavanols, and flavanones). Seasonal dynamics significantly influenced all compound classes, with the polyphenol content decreasing during bud development. Buds exhibited the highest diversity and abundance compared to leaves/stems. Distinct varietal profiles emerged: Finola (early maturing) showed peak bud polyphenols in June, while Santhica (late-maturing) peaked in September. Flavan-3-ol characterization identified catechin as the dominant monomer, followed by epicatechin and procyanidin B1. These findings highlight the impact of harvest timing and cultivar selection on bioactive compound profiles, offering insights into optimizing hemp cultivation and valorizing polyphenols in food, pharmaceutical, or agricultural industries.",
+  "publication_date": "2025-06-23",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c01299",
+  "entities": {
+    "POLYPHENOL": [
+      "25 polyphenols",
+      "catechin",
+      "cultivar selection",
+      "epicatechin",
+      "fivecannabis",
+      "peak bud polyphenols",
+      "polyphenols",
+      "spectrophotometry",
+      "the polyphenol composition",
+      "the polyphenol content"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Isorhapontigenin: exploring a promising resveratrol analog for disease management through diverse signaling pathways-a review with computational insights.",
+  "abstract": "Plants are a meticulous source\u00a0of biologically active substances that have positive health effects. Recent studies demonstrated the existence of Isorhapontigenin, a stilbene derivative,\u00a0differs by its methoxylation pattern but shares a structure identical to resveratrol. Through a review of the literature and an in silico interpretation, the current review will be centered\u00a0on the anti-inflammatory, anti-cancer, anti-obesity, and other medicinal properties of Isorhapontigenin. The Gnetum genus has species that have a very significant amount of Isorhapontigenin, such as Gnetum parvifolium. Tropical zones of Africa, Asia, and South America are home to the majority of the Gnetaceae family. Several investigations have reported the compound's benefits for health. Isorhapontigenin is very effective against anti-inflammatory, anticancer, antibacterial, antifungal, neuroprotective, antiviral, and antioxidant effects and\u00a0could be a possible treatment\u00a0drug. Using network pharmacology (ADME, Networking and Docking), the bioavailability of compound about disorders was examined. KeGG analysis and gene ontology (GO) demonstrated that Isorhapontigenin works via many immune system and cancer pathways. Human COX-1 receptor protein 6Y3C and receptor protein 1CX2 that had the best fit with the drug were used for docking analysis: Docking scores of\u2009-\u20098.2 and\u2009-\u20098.4 for Isorhapontigenin, respectively. In conclusion, Isorhapontigenin is a novel compound in the context of drug development.",
+  "publication_date": "2025-04-17",
+  "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+  "doi": "10.1007/s00210-025-04176-x",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory, anticancer, antibacterial, antifungal, neuroprotective, antiviral, and antioxidant effects",
+      "human cox-1 receptor protein 6y3c",
+      "positive health effects",
+      "recent studies",
+      "receptor protein",
+      "species"
+    ],
+    "SYMPTOM": [
+      "cancer pathways",
+      "the anti-inflammatory, anti-cancer, anti-obesity, and other medicinal properties"
+    ]
+  }
+}

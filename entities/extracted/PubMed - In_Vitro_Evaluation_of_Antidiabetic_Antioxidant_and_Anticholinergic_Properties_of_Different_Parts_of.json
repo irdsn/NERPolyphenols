@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "In Vitro Evaluation of Antidiabetic, Antioxidant, and Anticholinergic Properties of Different Parts of Bilberry (Vaccinium myrtillusL.) From the Eastern Black Sea Region, With LC/MS-MS Analysis of Their Chemical Composition in Food Applications.",
+  "abstract": "Diabetes, the most prevalent metabolic disorder, is closely linked to Alzheimer's disease, with DM patients showing a two-fold increased risk of developing AD. Bilberry (Vaccinium myrtillusL.) is a prominent wild berry, widely used in juice and food production. This study aimed to evaluate and compare the phytochemical composition and biological activities of different parts of wildV. myrtillusplants, including branches, leaves, and fruits. Using LC-MS/MS, the study quantifies total phenolics, flavonoids, and tannins in each part. Biological activities are assessed through antioxidant activity (ABTS and DPPH assays), anticholinesterase (neuroprotective potential), and antidiabetic effects. The experiments revealed that the Leaf of Yer Ligarba (YLL) extract had the highest values in terms of total phenolic content, total flavonoid content, and total tannin content. Among the extracts, the highest radical scavenging effect was observed with YLL at 86.67% against DPPH. The leaf extracts, Leaf of Dal Ligarba (DLL) and YLL, demonstrated the highest scavenging effects, with inhibition rates of 99.37% and 99.37%, respectively. At one of the common concentrations, 100\u2009\u03bcg/mL, acarbose showed 13.12% inhibition, while the Branch of Dal Ligarba (DLB) extract exhibited 98.67%\u03b1-glucosidase enzyme inhibition. The highest acetylcholinesterase and butyrylcholinesterase enzyme inhibition activities were observed in the Branch of Yer Ligarba (YLB; 27.08%) and the Fruit of Dal Ligarba (DLF; 16%), respectively. Chlorogenic acid was the most abundant phenolic compound, particularly in the DLL 58,569.80\u2009ng/mL. This study highlighted the significant phytochemical content and biological activities of wild bilberry extracts, demonstrating their potential for managing diabetes and neurodegenerative diseases, particularly Alzheimer's.",
+  "publication_date": "2025-05-02",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70249",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease"
+    ],
+    "FOOD": [
+      "juice and food production"
+    ],
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "flavonoids",
+      "neuroprotective potential",
+      "tannins",
+      "the highest radical scavenging effect",
+      "the highest scavenging effects",
+      "the most abundant phenolic compound",
+      "total flavonoid content",
+      "total tannin content"
+    ]
+  }
+}

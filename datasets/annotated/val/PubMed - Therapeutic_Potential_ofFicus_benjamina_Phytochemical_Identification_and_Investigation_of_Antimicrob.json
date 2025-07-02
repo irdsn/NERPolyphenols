@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Therapeutic Potential ofFicus benjamina: Phytochemical Identification and Investigation of Antimicrobial, Anticancer, Pro-Wound-Healing, and Anti-Inflammatory Properties.",
+  "abstract": "Ficus benjaminais a common park tree, with previous reports of some medicinal properties. In this work, we identified and explored phytochemicals fromF. benjaminafor potential antimicrobial, pro-wound-healing, anti-inflammatory, and effect on cancer cell lines' proliferation, both experimentally and bioinformatically. Gas chromatography/mass spectrometry (GC/MS) analysis was performed to identify the volatile compounds. The nonvolatile active components of the extract were identified by HPLC and LC-ESI-MS. We found that some drug-resistant microorganisms (Escherichia coli,Klebsiella pneumoniae,Acinetobacter baumannii,Serratia marcescens, andSalmonella enteritidis) were inhibited by the extract, the 80% fraction, and all the identified flavonoids except quercetin 3-O-rutinoside. Furthermore, the extract and above-mentioned compound also inhibited the growth of biofilm-producing bacterium. The extract and 80% fraction were very potent (p< 0.001) at inducing death of MCF7 and U87 cancer cell cultures and were more effective in that than the chemotherapeutic agent doxorubicin which served as a positive control. Additionally, the extract ofF. benjamina, the 80% fraction, and selected phytochemicals had pronounced pro-wound-healing properties. Finally, the extracts, the 80% fraction, caffeic acid, kaempferol 3-O-rutinoside, and kaempferol 3-O-robinobioside significantly inhibited the secretion of pro-inflammatory cytokines, IL-6 and IL-8 (p< 0.001). In conclusion, this comprehensive research revealed convincing and promising indications of significant therapeutic potential of aF. benjaminaextract and its active phytochemicals.",
+  "publication_date": "2025-04-28",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30091961",
+  "entities": {
+    "POLYPHENOL": [
+      "caffeic acid",
+      "effect",
+      "gas chromatography/mass spectrometry (gc/ms) analysis",
+      "quercetin 3-o-rutinoside",
+      "selected phytochemicals",
+      "the secretion"
+    ],
+    "SYMPTOM": [
+      "cancer cell lines' proliferation",
+      "u87 cancer cell cultures"
+    ]
+  }
+}

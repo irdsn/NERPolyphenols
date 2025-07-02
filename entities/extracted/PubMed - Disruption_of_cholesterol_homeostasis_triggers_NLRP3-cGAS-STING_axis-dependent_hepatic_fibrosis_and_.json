@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Disruption of cholesterol homeostasis triggers NLRP3-cGAS-STING axis-dependent hepatic fibrosis and honokiol intervention effects.",
+  "abstract": "Maintaining cholesterol homeostasis is crucial for sustaining human health and physiological function. Although the detrimental effects of chronic cholesterol overload on hepatic injury and fibrosis are well documented, the molecular mechanisms driving this pathology remain incompletely understood.",
+  "publication_date": "2025-05-24",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156904",
+  "entities": {
+    "POLYPHENOL": [
+      "the detrimental effects",
+      "the molecular mechanisms"
+    ]
+  }
+}

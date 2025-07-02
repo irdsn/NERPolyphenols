@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Dietary associations with reduced epigenetic age: a secondary data analysis of the methylation diet and lifestyle study.",
+  "abstract": "Aging is the primary risk factor for developing non-communicable chronic diseases, necessitating interventions targeting the aging process. Outcome measures of biological aging used in these interventions are mathematical algorithms applied to DNA methylation patterns, known as epigenetic clocks. The Methylation Diet and Lifestyle study was a pilot randomized controlled trial of a diet and lifestyle intervention that utilized epigenetic age as its primary outcome, measured using Horvath's clock. Significant reductions in epigenetic age post-intervention were observed but with notable variability.",
+  "publication_date": "2025-04-17",
+  "journal": "Aging",
+  "doi": "10.18632/aging.206240",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "biological aging",
+      "the aging process"
+    ],
+    "POLYPHENOL": [
+      "necessitating interventions"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Gallic acid enhanced fiber formation in soy protein isolate-based meat analogues.",
+  "abstract": "This study explored the potential of gallic acid to enhance fiber formation in soy protein isolate (SPI)-based meat analogues produced from high-moisture extrusion. Specifically, the effect of gallic acid on the structure and characteristics of meat analogues was investigated. It was found that gallic acid enhanced the anisotropy index of meat analogues, with the strongest effect observed at a concentration of 0.06\u00a0mol/kg SPI. The hardness, chewiness and water binding ability of SPI-based meat analogues were also increased. Moreover, gallic acid increased the energy input to SPI during extrusion and the flow velocity difference of the SPI melt during cooling. SDS-PAGE analysis and the decrease in contents of free sulfhydryl and amino groups indicated that gallic acid induced covalent cross-linking of SPI molecules during extrusion. Also, 0.06\u00a0mol gallic acid/kg SPI had the most profound effect. Thus, it was inferred that these alterations induced promotion of fiber formation.",
+  "publication_date": "2025-04-12",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144329",
+  "entities": {
+    "POLYPHENOL": [
+      "gallic acid",
+      "spi molecules",
+      "the decrease",
+      "the effect",
+      "the most profound effect",
+      "the strongest effect"
+    ],
+    "FOOD": [
+      "soy protein isolate",
+      "the hardness, chewiness and water binding ability"
+    ]
+  }
+}

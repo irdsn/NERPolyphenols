@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Red Wine Grape Pomace Restores Gut Barrier Function and Improves Survival in Diet-Induced Ischemic Heart Disease.",
+  "abstract": "Red wine grape pomace (RWGP), a winemaking by-product rich in phenolics, flavonoids, and dietary fiber, has shown promise in mitigating cardiovascular disease (CVD), however, its mechanisms of action remain incompletely understood. This study comprehensively profiled the phenolic composition of RWGP-including free, esterified, etherified, and insoluble-bound fractions-and evaluated the effects of RWGP dietary supplementation on gut barrier integrity, inflammation, oxidative stress, and survival in SR-B1-/-ApoE-R61h/hmice, a model of diet-induced lethal ischemic heart disease. RWGP supplementation significantly improved survival rates and restored gut barrier function, as evidenced by lower plasma FITC-dextran and LPS levels, increased circulating ZO-1 levels, and reduced histopathological colon damage. In addition, RWGP reduced pro-inflammatory cytokines (IL-1\u03b2) and showed a trend toward attenuating systemic oxidative stress (TBARS). Analysis of phenolic compounds indicated a significant presence of insoluble-bound phenolics. Nevertheless, the beneficial effects observed are likely attributable to the synergistic actions of RWGP's complex phytochemical and fiber composition. These results highlight RWGP's potential as a sustainable, gut-targeted functional food ingredient for CVD prevention and management.",
+  "publication_date": "2025-05-10",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14050574",
+  "entities": {
+    "FOOD": [
+      "a sustainable, gut-targeted functional food ingredient",
+      "red wine grape pomace"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "its mechanisms",
+      "phenolic compounds",
+      "the beneficial effects",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress",
+      "systemic oxidative stress"
+    ]
+  }
+}

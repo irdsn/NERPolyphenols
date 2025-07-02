@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Bisphenol A-induced ovarian damage countered by luteolin: Experiments in in vitro CHO cells and in vivo PCOS phenotype zebrafish.",
+  "abstract": "Bisphenol-A (BPA) is a widely used chemical that can harm the human body, including the reproductive system. BPA accumulates in the body and is found in 95\u202f% of individuals due to everyday exposure through food, water, and skin absorption. BPA can impair female fertility by interfering with ovarian folliculogenesis, inhibiting follicular growth, and inducing atresia, leading to polycystic ovary syndrome (PCOS). PCOS is a prevalent endocrine disorder that affects many reproductive-aged women. While current treatments can help manage symptoms, they do not entirely prevent complications. Luteolin, a natural flavonoid with medicinal properties, is commonly used to treat metabolic and inflammatory disorders. Therefore, we evaluated Luteolin's properties against PCOS in Network pharmacology and molecular docking studies; further, the antioxidant and anti-inflammatory properties in protecting the Chinese Hamster ovarian (CHO) cells from Reactive Oxygen Species, cellular damage, and negative mitochondrial membrane potential were evaluated. Additionally, an in-vivo PCOS-like model was developed using zebrafish, and the localization of Luteolin was identified using fluorescein isothiocyanate (FITC). Luteolin protected the CHO cells from cellular damage, ROS, and negative mitochondrial membrane potential. Luteolin alleviated the total SOD levels in the Zebrafish ovary, induced follicular maturation, and altered the key genes in ovarian proliferation and pro-inflammatory cytokines TNF-\u03b1 and IL-1\u03b2 expression. Natural Phyto-oxidants such as Luteolin may protect follicular development and early PCOS in adult zebrafish to prevent oxidative stress and inflammation. This study suggests using Luteolin as a phytomedicine to alleviate ovarian function decline.",
+  "publication_date": "2024-08-23",
+  "journal": "Tissue & cell",
+  "doi": "10.1016/j.tice.2024.102532",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural flavonoid",
+      "luteolin",
+      "luteolin's properties",
+      "molecular docking studies",
+      "ovarian function decline",
+      "reactive oxygen species"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

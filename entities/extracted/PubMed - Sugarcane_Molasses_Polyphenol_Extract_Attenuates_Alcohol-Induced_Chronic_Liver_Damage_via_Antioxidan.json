@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Sugarcane Molasses Polyphenol Extract Attenuates Alcohol-Induced Chronic Liver Damage via Antioxidant, Anti-Inflammatory, and CYP2E1/Keap1/NF-\u03baB Pathway Modulation.",
+  "abstract": "The prevention and treatment of alcoholic liver disease (ALD) urgently require safe and effective nutritional intervention strategies. Polyphenol extracts from sugarcane molasses (SP) show antioxidant and anti-inflammatory potential, yet their protective effects against ALD have not been elucidated. This study explored the therapeutic potential of SP in alcohol-induced chronic liver damage.",
+  "publication_date": "2025-05-05",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17091589",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenol extracts",
+      "safe and effective nutritional intervention strategies",
+      "their protective effects"
+    ],
+    "SYMPTOM": [
+      "alcohol-induced chronic liver damage"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Weekly Physiological Changes in Blood Pressure During Three Weeks Daily Consumption of 10 Grams of Cocoa Powder Among Young Black Africans in C\u00f4te d'Ivoire.",
+  "abstract": "In Caucasians, regular consumption of cocoa induces a drop in arterial blood pressure via an increase in nitric oxide (NO) production. However, black individuals have a different NO biodisponibility compared to Caucasians. The aim of this study was to determine, in black Africans, the physiological variations in arterial blood pressure among cocoa consumers.",
+  "publication_date": "2021-02-18",
+  "journal": "Frontiers in physiology",
+  "doi": "10.3389/fphys.2021.634791",
+  "entities": {
+    "FOOD": [
+      "cocoa",
+      "cocoa consumers"
+    ]
+  }
+}

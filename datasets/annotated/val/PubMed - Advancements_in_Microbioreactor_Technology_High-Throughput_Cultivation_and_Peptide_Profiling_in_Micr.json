@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Advancements in Microbioreactor Technology: High-Throughput Cultivation and Peptide Profiling in Microbial Research.",
+  "abstract": "This study demonstrates the efficacy of a simple and cost-effective microbioreactor in accelerating bioprocessing techniques, utilizing minimal reagents and limited seed cultures to yield results comparable to those obtained using traditional shake flask methods. The microbioreactor presents a viable alternative to conventional scale processes, offering a high-throughput, efficient, and analytical solution to several challenges in bioprocessing, including bacterial growth and the production of secondary metabolites. This system is particularly promising for the discovery of novel antibacterial peptides. Through our case studies, we established that microbial cultures growing within the microbioreactor, and the resulting microbial secondary metabolites, specifically peptides, were successfully detected using HPLC-DAD-MS. Further, we employed QTOF-MS/MS for peptide detection and characterized the purified peptides through advanced techniques including 1D and 2D NMR, QTOF-MS/MS, and Marfey's analysis.",
+  "publication_date": "2025-06-01",
+  "journal": "Methods in molecular biology (Clifton, N.J.)",
+  "doi": "10.1007/978-1-0716-4562-8_11",
+  "entities": {
+    "POLYPHENOL": [
+      "a simple and cost-effective microbioreactor",
+      "advanced techniques",
+      "bioprocessing techniques",
+      "peptide detection",
+      "secondary metabolites",
+      "specifically peptides",
+      "the resulting microbial secondary metabolites"
+    ]
+  }
+}

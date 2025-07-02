@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Anti-Inflammatory, Anti-Hyperglycemic, and Anti-Aging Activities of Aqueous and Methanolic Fractions Obtained fromCucurbita ficifoliaBouch\u00e9 Fruit Pulp and Peel Extracts.",
+  "abstract": "TheCucurbitagenus comprises various species that are globally consumed and that are commonly used for their nutritional value but also for medicinal applications. Within theCucurbitagenus can be foundCucurbita ficifoliaBouch\u00e9, a species that is understudied regarding its potential value for the food industry, as a functional food, and for the pharmaceutical industry, as a source of nutraceuticals. Therefore, in this study we investigated the phytochemical composition and bioactivities of aqueous (AF) and methanolic (MF) fractions ofC. ficifoliapulp and peel hydroethanolic (HE) extracts. HPLC-DAD-MSnand HPAEC-PAD analyses of extracts' fractions revealed a low content of polyphenols and a significant content of sugars. Through in vitro inhibition assays of the enzymes alpha-amylase, acetylcholinesterase (AChE), and elastase, all fractions showed, respectively, antidiabetic, neuroprotective, and anti-aging activities. The safety profile and anti-tumoral activities were evaluated in various cell models (Caco-2, HaCaT, HepG2, and RAW 264.7), and results showed that the fractions obtained from pulp extract induce no/low cytotoxicity, while the methanolic fraction of peel induced cytotoxicity in all cell lines. At non-cytotoxic concentrations, aqueous and methanolic fractions of both extracts significantly inhibited nitric oxide (NO) production in lipopolysaccharide (LPS)-stimulated RAW 264.7 cells, revealing anti-inflammatory activity. Flow cytometry analysis showed that both aqueous fractions increased basal levels of glutathione (GSH) in Caco-2 cells, while not inducing oxidative stress, revealing potential as antioxidant dietary agents. However, the MF of peel HE extract induced oxidative stress in Caco-2 cells, as it increased reactive oxygen species (ROS) and lipid peroxidation. AF fraction of peel extract induced cell cycle arrest in the G0/G1 phase, while the other fractions induced cell cycle arrest in the S phase. In conclusion,Cucurbita ficifoliafruit presents potential as a functional food but also as a potential source of nutraceuticals, and peel waste products can be valorized by pharmaceutical and cosmeceutical industries as sources of bioactive molecules.",
+  "publication_date": "2025-01-26",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30030557",
+  "entities": {
+    "POLYPHENOL": [
+      "a species",
+      "bioactive molecules",
+      "dad-msnand hpaec-pad analyses",
+      "pharmaceutical and cosmeceutical industries",
+      "polyphenols",
+      "reactive oxygen species",
+      "respectively, antidiabetic, neuroprotective, and anti-aging activities",
+      "thecucurbitagenus",
+      "various species"
+    ],
+    "FOOD": [
+      "a functional food"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

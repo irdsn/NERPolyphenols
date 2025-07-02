@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Beneficial Effects of Xanthohumol on Metabolic Syndrome: Evidence from In Vitro and Animal Model Studies.",
+  "abstract": "Metabolic syndrome refers to the simultaneous occurrence of several disorders that have been associated with other co-morbidities, such as a pro-inflammatory state and non-alcoholic fatty liver disease. Nowadays, it is a growing public health problem that contributes to the development of non-communicable diseases, such as type 2 diabetes, cardiovascular disease, and cognitive deficits among others. Its incidence has been related to modifiable lifestyle factors, mainly dietary patterns and physical activity. In addition, numerous studies have observed the potential beneficial effects of polyphenols in the prevention and treatment of metabolic syndrome components in both animals and humans. In this line, the aim of this review is to present the scientific evidence available about the beneficial effects of the phenolic compound xanthohumol in the prevention and/or treatment of obesity, dyslipidemia, insulin resistance, and fatty liver, which are important components of metabolic syndrome. All the potential beneficial effects described in this manuscript have been observed in vitro and in animal models, there are no published clinical trials in this context yet.",
+  "publication_date": "2024-11-19",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms252212434",
+  "entities": {
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "metabolic syndrome components",
+      "obesity",
+      "type 2 diabetes"
+    ],
+    "POLYPHENOL": [
+      "all the potential beneficial effects",
+      "polyphenols",
+      "the beneficial effects",
+      "the phenolic compound xanthohumol",
+      "the potential beneficial effects"
+    ]
+  }
+}

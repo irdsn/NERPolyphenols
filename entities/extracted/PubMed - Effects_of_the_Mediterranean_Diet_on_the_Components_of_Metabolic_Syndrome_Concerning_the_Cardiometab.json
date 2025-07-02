@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Effects of the Mediterranean Diet on the Components of Metabolic Syndrome Concerning the Cardiometabolic Risk.",
+  "abstract": "Metabolic syndrome is a cluster of risk factors, including abdominal obesity, insulin resistance, hypertension, dyslipidemia (intended as an increase in triglyceride levels and a reduction in HDL cholesterol levels), and elevated fasting glucose, that increase the risk of cardiovascular disease and type 2 diabetes. With the rising prevalence of metabolic syndrome, effective dietary interventions are essential in reducing these health risks. The Mediterranean diet, rich in fruits, vegetables, whole grains, legumes, nuts, and olive oil and moderate in fish and poultry, has shown promise in addressing metabolic syndrome and its associated components. This diet's anti-inflammatory and antioxidant properties, primarily due to its unsaturated fats, polyphenols, and fiber, have improved blood pressure, lipid levels, and insulin sensitivity. Adherence to the Mediterranean diet has been linked to reductions in central obesity and insulin resistance, both key elements in managing metabolic syndrome. Regarding lipid management, the Mediterranean diet lowers triglyceride levels and low-density lipoprotein (LDL) cholesterol while raising high-density lipoprotein (HDL) cholesterol, enhancing lipid profiles. It also helps regulate blood glucose levels, reducing the likelihood of developing type 2 diabetes. Additionally, the diet promotes weight loss and improves body composition, particularly by decreasing visceral fat, a primary driver of metabolic syndrome according to IDF classification. The Mediterranean diet offers a holistic approach to managing metabolic syndrome and reducing the risk of related chronic diseases. Its positive impact on metabolic health, combined with lifestyle changes like increased physical activity, provides a sustainable method for addressing the global burden of this syndrome. This review aimed to summarize the positive effects of the Mediterranean diet on the component of the metabolic syndrome with subsequent positive effects on cardiometabolic risk profile.",
+  "publication_date": "2025-01-20",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17020358",
+  "entities": {
+    "SYMPTOM": [
+      "abdominal obesity",
+      "central obesity",
+      "hypertension",
+      "insulin resistance",
+      "metabolic syndrome",
+      "the metabolic syndrome",
+      "type 2 diabetes"
+    ],
+    "POLYPHENOL": [
+      "effective dietary interventions",
+      "polyphenols",
+      "subsequent positive effects",
+      "the positive effects"
+    ],
+    "FOOD": [
+      "olive oil",
+      "whole grains"
+    ]
+  }
+}

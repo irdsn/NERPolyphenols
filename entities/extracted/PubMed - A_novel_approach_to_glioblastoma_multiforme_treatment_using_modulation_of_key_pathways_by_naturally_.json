@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "A novel approach to glioblastoma multiforme treatment using modulation of key pathways by naturally occurring small molecules.",
+  "abstract": "Glioblastoma multiforme (GBM), the fatal primary brain malignancy in adults, represents significant health challenges, and its eradication has been the ultimate goal of numerous medical investigations. GBM therapy encompasses various interventions, e.g., chemotherapy by synthetic cytotoxic agents like temozolomide (TMZ), radiotherapy, and, more recently, immunotherapy. A notable focus has been on incorporating naturally occurring substances in treating malignancies. Polyphenols and terpenoids, widely present in fruits and vegetables, constitute primary categories of agents employed for this purpose. They pose direct and indirect impacts on tumor growth and chemoresistance, mainly through impacting the phosphoinositide 3-kinase (PI3K)/Akt/mammalian target of rapamycin (mTOR) signaling, crucial in cellular processes, metabolism, and programmed death. This paper thoroughly discusses the biologic effects and practical application of polyphenols and terpenoids on GBM through the PI3K/Akt/mTOR signaling in vitro and in vivo.",
+  "publication_date": "2025-02-16",
+  "journal": "Inflammopharmacology",
+  "doi": "10.1007/s10787-025-01666-5",
+  "entities": {
+    "POLYPHENOL": [
+      "direct and indirect impacts",
+      "polyphenols",
+      "the biologic effects"
+    ],
+    "SYMPTOM": [
+      "tumor growth"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Synergistic Beneficial Effects of Flaxseed (Linum usitatissimumL.) Oil and Olive (Olea europaeaL.) Oil Against Metabolic Dysfunction Associated Fatty Liver and Its Complications.",
+  "abstract": "Flaxseed and olive oil effectively treat numerous diseases and health conditions, particularly metabolic disorders. Traditional medicine has used both oils for managing cardiovascular disease, diabetes, gastrointestinal dysfunctions, metabolic-dysfunction-associated fatty liver disease (MAFLD), obesity, and more. This review explores the bioactive and polyphenolic compounds in flaxseed and olive oils that provide anti-inflammatory, antioxidant, anti-microbial, hepatoprotective, cardioprotective, antidiabetic, and gastroprotective benefits. Flaxseed oil contains beneficial compounds like alpha-linolenic acid (ALA), lignans, ferulic acid, p-coumaric acid, and phytosterols. It contributes to its therapeutic effects on fatty liver disease and other conditions. Olive oil contains phenolic compounds, including oleic acid, hydroxytyrosol, and tocopherols, which are similarly linked to metabolic health benefits, especially in managing MAFLD. The purpose of this review is to elucidate the mechanisms of action of these bioactive compounds, highlighting their potential in managing various metabolic diseases.",
+  "publication_date": "2024-12-02",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.4638",
+  "entities": {
+    "FOOD": [
+      "flaxseed and olive oil",
+      "flaxseed and olive oils",
+      "olive oil"
+    ],
+    "SYMPTOM": [
+      "obesity"
+    ],
+    "POLYPHENOL": [
+      "anti-microbial, hepatoprotective",
+      "ferulic acid",
+      "its therapeutic effects",
+      "p-coumaric acid",
+      "phenolic compounds",
+      "the bioactive and polyphenolic compounds",
+      "the mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Mycotoxins in Broiler Production: Impacts on Growth, Immunity, Vaccine Efficacy, and Food Safety.",
+  "abstract": "Mycotoxins are secondary fungal metabolites that frequently contaminate poultry feed, posing significant risks to animal health, productivity, and food safety. In broiler production, mycotoxins such as aflatoxins, trichothecenes, fumonisins, ochratoxin A, deoxynivalenol, and zearalenone have been shown to impair growth performance, damage key organs, and disrupt immune function. This review explores the multifaceted impact of mycotoxin exposure in broilers, with particular emphasis on immunosuppression, decreased vaccine efficacy, and increased vulnerability to infectious diseases, including coccidiosis, salmonellosis,E. coli, and viral infections like infectious bursal disease and infectious laryngotracheitis. Mycotoxin contamination in poultry feed can lead to direct economic losses through reduced feed conversion efficiency, increased mortality, and reproductive disorders, while also resulting in the transfer of toxic residues into meat and eggs, thereby threatening consumer health. The review further examines the synergistic interactions between mycotoxins and pathogens, the physiological and histopathological changes in exposed birds, and the implications for public health. Finally, it discusses current mitigation strategies, including mycotoxin binders, probiotics, and regulatory approaches to reduce exposure. An integrated management strategy combining feed hygiene, monitoring, and targeted nutritional interventions is essential to safeguard poultry health, enhance vaccine responses, and ensure the safety of poultry-derived food products. This review offers actionable insights for veterinarians, nutritionists, and policymakers, reinforcing the importance of mycotoxin mitigation strategies within a One Health framework.",
+  "publication_date": "2025-05-22",
+  "journal": "Toxins",
+  "doi": "10.3390/toxins17060261",
+  "entities": {
+    "POLYPHENOL": [
+      "decreased vaccine efficacy",
+      "direct economic losses",
+      "infectious bursal disease",
+      "infectious diseases",
+      "infectious laryngotracheitis",
+      "secondary fungal metabolites",
+      "trichothecenes",
+      "viral infections"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Oral Delivery of Ellagic Acid Encapsulated in Milk Exosomes: Sex-Based Differences in Bioavailability, Urolithin Production, and Gut Microbiota Modulation.",
+  "abstract": "Milk exosomes (EXOs) enhance polyphenols' bioavailability, but their potential for oral administration remains underexplored. Ellagic acid (EA) is poorly bioavailable. We investigate whether EA encapsulated in EXOs (EXO-EA) consumed orally improves EA bioavailability and (or) modulates gut microbiota. For 2 weeks, BALB/c mice received EXO, non-encapsulated EA (NEA), or EXO-EA (0.27\u00a0mg EA/kg bw) orally. Targeted and untargeted metabolomics (UPLC-qTOF-MS), fecal SCFAs (GC-MS), and gut microbiota (PacBio 16S-sequencing) were performed. Additionally, EA plasma and brain kinetics were evaluated in rats following intravenous administration of EXO-EA and NEA. Unlike NEA, EXO-EA quadrupled EA plasma levels in Sprague-Dawley rats and enabled brain detection. However, oral EXO-EA in mice failed to deliver EA systemically due to gastrointestinal instability, confirmed by in vitro digestion. Sex-dependent EXO-EA metabolomic effects were observed. Also, in males only, EXO-EA increased fecal urolithin A and SCFAs and enriched the microbiota with Christensenellaceae R7, Ruminococcus species, and Clostridium fusiformis, among others. In females, both EXO-EA and NEA enriched the microbiota with bifidobacteria, including Bifidobacterium pseudolongum. Oral EXO-EA impacted plasma metabolome, modulated gut microbiota, and increased urolithin A and SCFA production sex-dependently. However, gastrointestinal instability, limited EA encapsulation, and low dose administered prevented systemic delivery.",
+  "publication_date": "2025-05-12",
+  "journal": "Molecular nutrition & food research",
+  "doi": "10.1002/mnfr.70104",
+  "entities": {
+    "POLYPHENOL": [
+      "brain detection",
+      "ellagic acid",
+      "fecal scfas",
+      "fecal urolithin a",
+      "polyphenols' bioavailability",
+      "ruminococcus species",
+      "sex-dependent exo-ea metabolomic effects"
+    ]
+  }
+}

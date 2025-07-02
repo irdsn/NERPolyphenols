@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "The Role of Olive Oil in Cardiometabolic Risk.",
+  "abstract": "Olive oil, the primary fat source in the Mediterranean diet (MedDiet), is rich in monounsaturated fatty acids (MUFA), especially oleic acid, which constitutes 70-80% of its composition. Extra-virgin olive oil (EVOO), produced by mechanically pressing olives, is the highest quality olive oil, with an intense flavor and acidity <1%. In contrast, refined olive oil (ROO), a blend of virgin and refined oils, contains fewer antioxidants and anti-inflammatory compounds. EVOO's health benefits stem largely from its MUFA content, which is linked to reduced risks of cardiovascular disease (CVD), neurodegenerative conditions, and certain cancers. Additionally, EVOO contains minor, but bioactive, components such as polyphenols, tocopherols, and phytosterols, contributing to its oxidative stability, sensory qualities, and health-promoting properties. These include polyphenols, like oleuropein, hydroxytyrosol, and tyrosol, which exhibit anti-inflammatory, cardioprotective, neuroprotective, and anticancer effects. Epidemiological studies suggest an inverse relationship between olive oil intake and CVD, with EVOO-enriched MedDiet interventions showing improved lipid profiles, reduced blood pressure, and lower cardiovascular event risk. The PREDIMED study highlights the significant role of EVOO in reducing cardiometabolic risk. This review explores the impact of EVOO's chemical components within the MedDiet framework on metabolic variables influencing cardiometabolic health.",
+  "publication_date": "2025-03-11",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo15030190",
+  "entities": {
+    "FOOD": [
+      ", refined olive oil",
+      "extra-virgin olive oil",
+      "olive oil",
+      "olive oil intake",
+      "the highest quality olive oil"
+    ],
+    "POLYPHENOL": [
+      "-inflammatory, cardioprotective, neuroprotective, and anticancer effects",
+      "especially oleic acid",
+      "oleuropein",
+      "polyphenols"
+    ],
+    "SYMPTOM": [
+      "certain cancers"
+    ]
+  }
+}

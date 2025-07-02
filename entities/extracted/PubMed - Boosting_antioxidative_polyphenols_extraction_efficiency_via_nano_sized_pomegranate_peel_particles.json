@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Boosting antioxidative polyphenols extraction efficiency via nano sized pomegranate peel particles.",
+  "abstract": "We aimed at maximizing the utilization of pomegranate peels as a phenolics-rich agro-waste and increasing their extractability. The five factors of composite design, namely methanol concentrations (C), soaking time (t), temperatures (T), powder-solvent ratio (R), and nanoparticle diameter (D) were studied. Pomegranate peel powder (PPP) and its nano-fractions (PPPN1 and PPPN2) were then prepared and characterized. The particle size, surface morphology, total phenolics, chemical structure, phenolic acids profile, radical scavenging (RSA), reducing power (RP), and ferric reducing antioxidant power (FRAP) assays were determined. PPPN1 exhibited larger particle sizes (347\u00a0nm) compared to PPPN2 (112\u00a0nm) with a spherical surface morphology. PPPN2 exhibited the highest total phenolics extractability (344\u00a0mg GAE g-1) which was proved by Fourier-transform infrared spectra. It had also the high total free, conjugated, and bound phenolic values of 59.64, 18.44, and 111.18 mg g-1, orderly. The quintic polynomial regression model predicted a phenolics yield of 406\u00a0mg GAE g-1, achieved at 75% C, 45\u00a0min, 80\u00a0\u00b0C, 16.7% R, and 112\u00a0nm D. PPPN2 extract exhibited high RSA, RP, and FRAP values compared to butylated hydroxytoluene. This work enhanced pomegranate peel phenolic extraction, highlighting their potential for food manufacture and requiring additional investigation.",
+  "publication_date": "2025-05-07",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-99051-3",
+  "entities": {
+    "FOOD": [
+      "pomegranate peel phenolic extraction",
+      "pomegranate peel powder",
+      "pomegranate peels"
+    ],
+    "POLYPHENOL": [
+      "fourier-transform infrared spectra"
+    ]
+  }
+}

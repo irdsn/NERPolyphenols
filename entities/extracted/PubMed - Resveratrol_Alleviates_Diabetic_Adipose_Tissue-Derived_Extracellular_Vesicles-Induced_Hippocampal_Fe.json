@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Resveratrol Alleviates Diabetic Adipose Tissue-Derived Extracellular Vesicles-Induced Hippocampal Ferroptosis and Cognitive Dysfunction via Inhibiting miR-9-3p/SLC7A11 Axis.",
+  "abstract": "Visceral adipose tissue-derived extracellular vesicles (VAT-EVs) and their cargo miR-9-3p contribute to cognitive dysfunction and insulin resistance. Resveratrol (RES) prevents T2DM-induced cognitive impairment. This study investigates the interactive role of VAT-EVs and RES in diabetes-associated cognitive dysfunction (DACD) and the potential mechanisms. T2DM mice were constructed by high-fat diet (HFD)-feeding and streptozotocin (STZ) injection. Blood glucose and insulin levels evaluated the insulin resistance. Novel object recognition test (ORT) and Morris water maze (MWM) test assessed cognitive impairment. Nissl, H&E, and TUNEL stainings evaluated neuronal death. Immunofluorescence staining, immunostaining, DHE staining, Perls' staining, biochemical assays, and Western blots determined ER, oxidative stress, and ferroptosis. ELISA measured cytokines. VAT-EVs were isolated from adipose tissues of T2DM mice and characterized by transmission electron microscopy (TEM), Western blot, and dynamic light scattering detection. Treatment of resveratrol (RES) without or with miR-9-3p mimics investigated their interactive roles in DACD. Luciferase reporter assay, Western blot, and qRT-PCR validated the binding of miR-9-3p in SLC7A11. The blood glucose and insulin results and behavioral tests showed that T2DM mice exhibited insulin resistance and cognitive impairments. T2DM mice showed impaired structures, increased apoptosis, and enhanced inflammation, ER, oxidative stress, and ferroptosis in the hippocampus. RES diminished HFD-VAT-EVs-induced insulin resistance and cognitive declines through decreasing ER and oxidative stress, inflammation, and iron overload. Mechanistically, RES decreased miR-9-3p to upregulate SLC7A11 and subsequently mitigate ferroptosis. RES protected cognitive dysfunction and insulin resistance in T2DM via diminishing VAT-EVs and their cargo miR-9-3p-induced ER and oxidative stress, inflammation, and ferroptosis in the hippocampus.",
+  "publication_date": "2025-05-20",
+  "journal": "Molecular neurobiology",
+  "doi": "10.1007/s12035-025-04922-5",
+  "entities": {
+    "SYMPTOM": [
+      "enhanced inflammation",
+      "increased apoptosis",
+      "inflammation",
+      "insulin resistance",
+      "oxidative stress",
+      "res diminished hfd-vat-evs-induced insulin resistance",
+      "the insulin resistance"
+    ],
+    "POLYPHENOL": [
+      "cognitive declines",
+      "dynamic light scattering detection",
+      "res protected cognitive dysfunction",
+      "resveratrol",
+      "the potential mechanisms",
+      "transmission electron microscopy"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Comprehensive In Vitro and In Silico Analysis of Antimicrobial and Insecticidal Properties of Essential Oil ofMyrtus communisL. from Algeria.",
+  "abstract": "This study investigated the phytochemical composition and biological activities ofMyrtus communisessential oil (EO) from Algeria, focusing on its antimicrobial, antifungal, and insecticidal properties using in vitro and in silico approaches. Gas chromatography-mass spectrometry (GC-MS) analysis identified myrtenyl acetate (57.58%), 1,8-cineole (17.82%), and \u03b1-terpineol (6.82%) as the major constituents.M. communisEO exhibited significant antibacterial activity, particularly againstStaphylococcus aureus(13.00 \u00b1 0.70 mm) andSalmonella typhimurium(13.00 \u00b1 1.50 mm), with moderate inhibition ofBacillus subtilis(10 \u00b1 1.00 mm) andEscherichia coli(9.00 \u00b1 0.70 mm), whilePseudomonas aeruginosashowed resistance. The antifungal activity was notable againstFusarium oxysporum(16.50 \u00b1 0.50 mm),Aspergillus fumigatus(11.00 \u00b1 1.00 mm), andPenicilliumsp. (9.00 \u00b1 0.60 mm) but ineffective againstAspergillus niger. Insecticidal activity againstTribolium castaneumwas evaluated using contact toxicity, fumigation toxicity, and repellent activity assays. The EO demonstrated potent insecticidal effects, with an LC50value of 0.029 \u00b5L/insect for contact toxicity and 162.85 \u00b5L/L air for fumigation after 96 h. Additionally, the EO exhibited strong repellent activity, achieving 99.44% repellency at a concentration of 0.23 mg/cm2after 24 h. Density functional theory (DFT) calculations provided insights into the molecular geometry and electronic properties of the key bioactive compounds. Molecular docking studies evaluated their binding affinities to bacterial enzymes (DNA gyrase,dihydrofolate reductase6, andGyrase B) and insecticidal targets (acetylcholinesterase), revealing strong interactions, particularly for geranyl acetate and methyleugenol. These findings highlightM. communisEO as a promising natural antimicrobial and insecticidal agent, with potential applications in plant protection and biopesticide development.",
+  "publication_date": "2025-05-15",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26104754",
+  "entities": {
+    "POLYPHENOL": [
+      "a promising natural antimicrobial and insecticidal agent",
+      "electronic properties",
+      "gas chromatography-mass spectrometry",
+      "ineffective againstaspergillus niger",
+      "insecticidal activity againsttribolium",
+      "insecticidal properties",
+      "insecticidal targets",
+      "molecular docking studies",
+      "plant protection",
+      "potent insecticidal effects",
+      "the molecular geometry"
+    ]
+  }
+}

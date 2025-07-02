@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "NMR characterization and anti-inflammatory activity of lignans isolated from the roots of Solanum Verbascifolium L.",
+  "abstract": "Solanum verbascifolium L. is a Dai medicine commonly used in folk remedies to treat rheumatoid arthritis (RA). By isolating and characterizing the 95\u202f% ethanol extract of the roots of Solanum verbascifolium L., four lignans were obtained, including one new compound (1) and three known compounds (2, 8, 10). Previous studies have already isolated and extracted lignan compounds 3-7 from Solanum verbascifolium L.. Classifying the mentioned lignans into \u03b2-1, \u03b2-O-4', dibenzodioxole, and benzofuran lignan compounds, we summarized the NMR characteristics of these compounds based on coupling constants, hydrogen chemical shift values, and carbon chemical shift values, providing insights for the rapid analysis of such compounds. By studying the effects of compounds 2-10 on the release of nitric oxide (NO) in RAW264.7 cells, it was found that compound 2 (inhibition rate 21.6\u202f%) and compound 8 (inhibition rate 17.4\u202f%) exhibited NO inhibitory effects at 20\u202f\u03bcM (P\u202f<\u202f0.05). In addition, network pharmacology analysis predicts that lignin exerts anti-inflammatory effects by acting on multiple targets such as HIF-1\u03b1, MMP9, and mTOR. The molecular docking results are consistent with the NO experiments, showing that compounds 2 and 8 form stable complexes with HIF-1\u03b1 and bind well. These results provide insights for further research on the anti-inflammatory activity of lignans.",
+  "publication_date": "2025-06-28",
+  "journal": "Fitoterapia",
+  "doi": "10.1016/j.fitote.2025.106717",
+  "entities": {
+    "SYMPTOM": [
+      "rheumatoid arthritis"
+    ],
+    "POLYPHENOL": [
+      "no inhibitory effects",
+      "the effects",
+      "the molecular docking results"
+    ]
+  }
+}

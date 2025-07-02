@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "The Valorization of Potato Peels as a Functional Ingredient in the Food Industry: A Comprehensive Review.",
+  "abstract": "Potato peels (PPs) represent a significant agro-industrial by-product with notable potential for valorization due to their rich composition of bioactive compounds, including phenolics, glycoalkaloids, dietary fiber, and essential minerals. This review explores the functional applications of PPs in the food industry by examining their chemical profile, extraction methods, and biological activities. Phenolic compounds, mainly chlorogenic acid and its derivatives, are the most abundant bioactives and contribute to antioxidant and anti-inflammatory properties. Glycoalkaloids, such as\u03b1-solanine and\u03b1-chaconine, exhibit antimicrobial activity but require careful monitoring due to their potential toxicity, although recent evidence suggests that controlled doses may provide health benefits. The choice of extraction technique influences the recovery of these compounds, with ultrasound-assisted extraction (UAE) and microwave-assisted extraction (MAE) proving to be efficient and environmentally friendly alternatives to conventional methods. The incorporation of PP-derived ingredients into food formulations, including cereal, dairy, meat, and fish products, as well as vegetable oils, has shown promising results in the improvement of nutritional quality, oxidative stability and functional properties. However, challenges remain with regard to the standardization of PP composition, bioavailability of bioactive compounds and their stability within food matrices. Advancing research on PPs will not only contribute to circular economy goals but also provide innovative solutions for the food industry, reinforcing the link between sustainability and human health.",
+  "publication_date": "2025-04-12",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14081333",
+  "entities": {
+    "POLYPHENOL": [
+      "circular economy goals",
+      "extraction technique influences",
+      "mainly chlorogenic acid",
+      "phenolic compounds",
+      "recent evidence",
+      "the recovery"
+    ]
+  }
+}

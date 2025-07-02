@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Optimization of Monomeric Anthocyanin Extraction Conditions From a New Source (Crataegus azarolus L. Fruits) Sequential Methodology Combined With a Central Composite Design, and Evaluation of Their Antioxidant Properties.",
+  "abstract": "The aim of this study was to optimize the extraction of total monomeric anthocyanins (TMACs) from hawthorn (Crataegus azarolus) fruits and to evaluate their antioxidant activity. The extraction was optimized on the basis of two approaches using sequential procedure and central composite design (CCD). The effects of various parameters were examined, including type and concentration of solvent, extraction method, sonication amplitude, extraction time, particle size, solid/solvent ratio, and number of extractions. The antioxidant activity of the optimal extract was evaluated using ferric reducing power (FRP), total antioxidant capacity (TAC), and 1,1-diphenyl-2-picrylhydrazyl (DPPH) assays. The results indicated that 80% methanol was the most effective solvent with the highest extraction yield (205.69\u00a0\u00b1\u00a04.52\u00a0\u00b5g cyanidin-3-rutinoside equivalent [CRE]/g). Ultrasound-assisted extraction (100% amplitude for 5\u00a0min), combined with a particle size (< 63\u00a0\u00b5m) using a solid/solvent ratio of 800\u00a0mg/10\u00a0mL, yielded the highest anthocyanin content (225.76\u00a0\u00b1\u00a04.10\u00a0\u00b5g CRE). Optimization using CCD revealed that the optimal conditions for anthocyanin extraction were 74.45% methanol, 78.46% sonication amplitude, and 4.5\u00a0min of extraction time, with a yield of 320.01\u00a0\u00b1\u00a04.18\u00a0\u00b5g CRE/g. The optimal extract showed strong antioxidant activity inhibitory concentration (IC50DPPH\u00a0=\u00a0193.53\u00a0\u00b1\u00a03.71\u00a0\u00b5g/mL; FRP A0.5=\u00a0136.12\u00a0\u00b1\u00a05.29\u00a0\u00b5g/mL; TAC\u00a0=\u00a042.83\u00a0\u00b1\u00a00.67\u00a0mg ascorbic acid equivalent [AAE]/g). Optimization of the extraction increases anthocyanin yield of hawthorn with a significant antioxidant activity, thus providing a promising extract for the formulation of functional foods and food supplements. PRACTICAL APPLICATION: Optimizing the extraction of anthocyanins from a new source could make it possible to produce more effective natural dyes for the food industry, offering an alternative to synthetic dyes. It could also benefit the cosmetics industry by providing more natural formulations and the pharmaceutical and nutraceutical sectors, where these compounds are sought after for their antioxidant properties.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70300",
+  "entities": {
+    "POLYPHENOL": [
+      "more effective natural dyes",
+      "the effects",
+      "the most effective solvent",
+      "the pharmaceutical and nutraceutical sectors"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Urinary bisphenol A levels in prepubertal children with exogenous obesity according to presence of metabolic syndrome.",
+  "abstract": "Recent studies have shown a potential link between chronic exposure to Bisphenol A (BPA) and exogenous obesity, the prevalence of which has been increasing dramatically in all age groups and particularly among children in the last decades. In this study, we aimed at comparing BPA exposure levels between controls and otherwise healthy, drug-naive, pre-pubertal children having exogenous obesity with/without metabolic syndrome.",
+  "publication_date": "2021-02-24",
+  "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
+  "doi": "10.1515/jpem-2020-0371",
+  "entities": {
+    "POLYPHENOL": [
+      "recent studies",
+      "the last decades"
+    ],
+    "SYMPTOM": [
+      "exogenous obesity",
+      "metabolic syndrome"
+    ]
+  }
+}

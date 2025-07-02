@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Effects of Tea Polyphenols and Microporous Packaging Treatment on Storage and Preservation of Leaf-Vegetable Sweet Potatoes.",
+  "abstract": "Leaf-vegetable sweet potatoes incurred significant losses during storage, which resulted in a shortened shelf life and reduced commercial value. This study investigated the effects of tea polyphenols (TPs) fumigation and microporous packaging (MP) during 10 days at 10 \u00b0C and 90-95% RH. The results indicated that the preservation effects followed the order TP + MP > MP > TP > CK, with the TP + MP treatment effectively controlling the degradation rate of chlorophyll and delaying leaf yellowing. In addition, TP + MP treatment increased the activity of antioxidant enzymes, especially catalase (CAT) and ascorbate peroxidase (APX), and also enhanced non-enzymatic systems (flavonoids, total phenolics, and ascorbic acid). Pearson's correlation analysis showed a positive correlation between the decline in postharvest quality of leaf-vegetable sweet potatoes and the increase in reactive oxygen species (ROS) levels. This study provided a robust theoretical and technical foundation for the development of effective postharvest preservation strategies for leaf-vegetable sweet potatoes.",
+  "publication_date": "2025-03-28",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14071191",
+  "entities": {
+    "POLYPHENOL": [
+      "a robust theoretical and technical foundation",
+      "effective postharvest preservation strategies",
+      "flavonoids",
+      "reactive oxygen species (ros) levels",
+      "tea polyphenols",
+      "the decline",
+      "the effects",
+      "the preservation effects"
+    ],
+    "SYMPTOM": [
+      "microporous packaging"
+    ],
+    "FOOD": [
+      "pearson's correlation analysis"
+    ]
+  }
+}

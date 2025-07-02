@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Neuroprotection provided by polyphenols and flavonoids in photoreceptor degenerative diseases.",
+  "abstract": "The intricate landscape of neurodegenerative diseases complicates the search for effective therapeutic approaches. Photoreceptor degeneration, the common endpoint in various retinal diseases, including retinitis pigmentosa and age-related macular degeneration, leads to vision loss or blindness. While primary cell death is driven by genetic mutations, oxidative stress, and neuroinflammation, additional mechanisms contribute to disease progression. In retinitis pigmentosa, a multitude of genetic alterations can trigger the degeneration of photoreceptors, while other retinopathies, such as age-related macular degeneration, are initiated by combinations of environmental factors, such as diet, smoking, and hypertension, with genetic predispositions. Nutraceutical therapies, which blend the principles of nutrition and pharmaceuticals, aim to harness the health benefits of bioactive compounds for therapeutic applications. These compounds generally possess multi-target effects. Polyphenols and flavonoids, secondary plant metabolites abundant in plant-based foods, are known for their antioxidant, neuroprotective, and anti-inflammatory properties. This review focuses on the potential of polyphenols and flavonoids as nutraceuticals to treat neurodegenerative diseases such as retinitis pigmentosa. Furthermore, the importance of developing reliable delivery methods to enhance the bioavailability and therapeutic efficacy of these compounds will be discussed. By combining nutraceuticals with other emerging therapies, such as genetic and cell-based treatments, it is possible to offer a more comprehensive approach to treating retinal degenerative diseases. These advancements could lead to a viable and accessible option, improving the quality of life for patients with retinal diseases.",
+  "publication_date": "2025-05-06",
+  "journal": "Neural regeneration research",
+  "doi": "10.4103/NRR.NRR-D-24-01638",
+  "entities": {
+    "POLYPHENOL": [
+      "additional mechanisms",
+      "effective therapeutic approaches",
+      "flavonoids",
+      "multi-target effects",
+      "photoreceptor degeneration",
+      "photoreceptors",
+      "polyphenols",
+      "secondary plant",
+      "their antioxidant, neuroprotective, and anti-inflammatory properties"
+    ],
+    "SYMPTOM": [
+      "hypertension",
+      "neuroinflammation",
+      "oxidative stress",
+      "primary cell death"
+    ],
+    "FOOD": [
+      "plant-based foods"
+    ]
+  }
+}

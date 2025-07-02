@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Synthesis of multi-template imprinted mesoporous silica nanoparticles via micelle-based interface imprinting strategy for specific and efficient extraction of five cinnamic acid derivatives from traditional Chinese medicines.",
+  "abstract": "Cinnamic acid derivatives, a crucial group of active components in traditional Chinese medicines (TCMs), encompass chlorogenic acid, caffeic acid, 4-hydroxycinnamic acid, ferulic acid, and cinnamic acid. These compounds exhibit a wide array of pharmacological activities, such as free radical scavenging, antioxidation, antibacterial effects, and antitumor activity. However, traditional separation and detection methods often suffer from poor selectivity, low extraction efficiencies, and insufficient sensitivity, thus limiting their applicability in studying the complex and diverse active component groups in TCMs. Herein, we proposed a novel micelle-based interface imprinting strategy by integrating multi-template imprinting with mesoporous silica. Specifically, caffeic acid, serving as an epitope template for chlorogenic acid, along with 4-hydroxycinnamic acid, ferulic acid, and cinnamic acid, collectively constituted a multi-template system. Micelles were generated using a cationic surfactant cetyltrimethylammonium bromide, which confined the four template molecules to the micelle surface through electrostatic attraction. Aminopropyltriethoxysilane, 3-ureidopropyltriethoxysilane, and benzyltriethoxysilane were selected as functional monomers, while tetraethyl orthosilicate were selected as both a cross-linker and a silicon source for the synthesis of multi-template imprinted mesoporous silica nanoparticles (MTIMSNs). The MTIMSNs demonstrated high specificity and impressive adsorption capacity for chlorogenic acid, caffeic acid, 4-hydroxycinnamic acid, ferulic acid, and cinnamic acid, with maximum cross-reactivities of 8.8\u00a0%, 7.6\u00a0%, 6.8\u00a0%, 9.5\u00a0%, and 11.5\u00a0%, respectively, and corresponding adsorption capacities of 3.712, 4.114, 4.843, 3.517, and 2.814\u00a0mg/g, respectively. The MTIMSNs-based affinity extraction coupled with high performance liquid chromatography have been successfully applied to the determination of the five cinnamic acid derivatives in Taraxaci Herba.",
+  "publication_date": "2025-04-18",
+  "journal": "Talanta",
+  "doi": "10.1016/j.talanta.2025.128180",
+  "entities": {
+    "POLYPHENOL": [
+      "4-hydroxycinnamic acid",
+      "antibacterial effects",
+      "caffeic acid",
+      "chlorogenic acid",
+      "cinnamic acid",
+      "cinnamic acid derivatives",
+      "electrostatic attraction",
+      "encompass chlorogenic acid",
+      "ferulic acid",
+      "high specificity",
+      "poor selectivity",
+      "the five cinnamic acid derivatives",
+      "the four template molecules",
+      "traditional separation and detection methods"
+    ]
+  }
+}

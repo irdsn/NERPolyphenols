@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Ultrasound-Assisted Extraction of Bioactive Compounds From Black Pine (Pinus nigra) Bark: Optimization and Evaluation of Their In\u00a0Vitro Bioactivities.",
+  "abstract": "In the present study, the effects of extraction temperature, extraction time, and ultrasonic power on extraction yield, ferric reducing antioxidant power (FRAP), total phenolic content (TPC), ABTS activities, as well as total condensed tannin (TCT) content of black pine bark extracts (PBE) were specified using the Box-Behnken experimental design. The current study also shed light on their potential anticancer, antimicrobial, antidiabetic, and anticholinesterase activities at the estimated optimal conditions. The estimated optimal conditions to achieve maximum TPC (128.00\u2009mg GAE [gallic acid equivalent]/g of dried bark extract [dbe]), TCT (22.08\u2009mg\u2009CE (catechin equivalents)/g of dbe), FRAP (649.49\u2009mg TEAC (trolox equivalent antioxidant capacity)/g of dbe) and ABTS activities (802.04\u2009mg TEAC/g of dbe) were as follows: extraction temperature of 32.52\u00b0C, extraction time of 7.43\u2009min, and ultrasonic power of 110.68\u2009W for PBE. Additionally, phenolic and organic compounds most commonly found in PBE were succinic acid (16.35\u2009mg/100\u2009g), gentisic acid (7.58\u2009mg/100\u2009g), and oxalic acid (6.81\u2009mg/100\u2009g), respectively, based on the LC-MS/MS analysis. Furthermore, PBE exhibited weak cytotoxicity across all tested cells (Caco-2, MIA PaCa-2, and HEK-293); however, its cytotoxic effects were slightly less pronounced in the healthy HEK-293 cells compared to the Caco-2 and MIA PaCa-2 cancer cells. Accordingly, PBE showed stronger antidiabetic activity than acarbose, the reference antidiabetic drug, with half-maximal inhibitory concentration (IC50) values of 0.38\u2009mg/mL and 0.46\u2009mg/mL against \u03b1-glucosidase and \u03b1-amylase, respectively, compared to acarbose's IC50values of 0.72\u2009mg/mL and 0.66\u2009mg/mL. At 2\u2009mg/mL, PBE showed moderate anticholinesterase activity, inhibiting acetylcholinesterase (AChE) by 57.26% and butylcholinesterase (BChE) by 48.35%, compared to the stronger effects of galantamine hydrobromide, which inhibited AChE by 88.57% and BChE by 85.72%. These findings highlighted the potential of PBE as a natural source of bioactive compounds with diverse biological activities, including antioxidant, antidiabetic, anticancer, and anticholinesterase properties.",
+  "publication_date": "2025-05-15",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70224",
+  "entities": {
+    "POLYPHENOL": [
+      "gallic acid equivalent]/g",
+      "gentisic acid",
+      "its cytotoxic effects",
+      "the effects",
+      "the stronger effects"
+    ],
+    "SYMPTOM": [
+      "mia paca-2 cancer cells",
+      "their potential anticancer"
+    ]
+  }
+}

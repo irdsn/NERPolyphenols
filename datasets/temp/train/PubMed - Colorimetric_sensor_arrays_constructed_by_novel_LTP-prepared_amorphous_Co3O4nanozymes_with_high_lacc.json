@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Colorimetric sensor arrays constructed by novel LTP-prepared amorphous Co3O4nanozymes with high laccase-like activity for the intelligent identification of phenolic compounds in food.",
+  "abstract": "Distinguishing between natural antioxidant phenolic compounds or contaminants in food matrices is crucial for ensuring food quality and safety. In this context, nanozyme-based sensors have emerged as promising tools, demonstrating significant potential for effective detection and discrimination. However, the construction of multifunctional, low-cost nanozyme-biosensors with high catalytic activity remains a key challenge. This study presents a dielectric barrier discharge (DBD) plasma approach to synthesize amorphous Co3O4(a-Co3O4) laccase-like nanozyme using Co-MOF. The a-Co3O4exhibited laccase-like activity through Co2+/Co3+redox pairs and CoO active sites, mimicking natural laccase's coordination environment. Leveraging its catalytic versatility, stability, and pH-dependent substrate affinity, a new type of sensor array was developed for sensitive (0.1-12 μM) discrimination of various phenolic compounds. Integration with smartphone imaging and machine learning enabled real-sample analysis. As such, this work offers a scalable low-temperature plasma (LTP)-based nanozyme fabrication strategy and expands applications in biosensing and food safety inspection.",
+  "publication_date": "2025-06-10",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145102"
+}

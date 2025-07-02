@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "A review of glycoproteins in food: Sources, biochemistry and applications.",
+  "abstract": "Glycoproteins are complex proteins with oligosaccharides covalently attached to their amino acid side chains through glycosylation, a process that plays a crucial role in their structure and function. These molecules are widely distributed in nature, with key sources including edible bird's nest (EBN), eggs, breast milk, rice bran, honey, mushrooms, and sea cucumber. Among these, EBN stands out as a particularly valuable source of glycoproteins, consisting almost entirely of these biomolecules. The glycoproteins found in nature are predominantly classified into two categories based on their glycosylation patterns: N-linked and O-linked glycoproteins. Extensive clinical studies have demonstrated the diverse and significant health benefits of glycoproteins, including antioxidative, anti-inflammatory, and antimicrobial properties. These bioactive compounds are increasingly recognised for their potential in addressing various health conditions. Glycoproteins are produced either naturally, through biological processes, or synthetically, using various engineered systems, with each approach offering distinct advantages and challenges. The growing incorporation of EBN glycoproteins into the food, nutraceutical, and cosmetic industries highlights their health benefits and skincare potential. This review aims to provide insights that can facilitate the development of tailored glycoprotein-based therapies and diagnostic tools, leveraging their unique properties to address various health conditions effectively.",
+  "publication_date": "2025-06-24",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145483",
+  "entities": {
+    "POLYPHENOL": [
+      "these biomolecules",
+      "these molecules"
+    ],
+    "FOOD": [
+      "sea cucumber"
+    ]
+  }
+}

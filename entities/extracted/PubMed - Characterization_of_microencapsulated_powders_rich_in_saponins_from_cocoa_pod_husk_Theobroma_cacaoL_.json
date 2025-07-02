@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Characterization of microencapsulated powders rich in saponins from cocoa pod husk (Theobroma cacaoL.) and medicinal plant an xoa (Helicteres hirsutaLour.).",
+  "abstract": "Cocoa pod husk (CPH) is a major residue of cocoa processing industry, while medicinal plantH. hirsutais used for treatment of malaria and diabetes mellitus in folk medicine. This study aimed to produce microencapsulated powders from saponin-enriched CPH andH. hirsutaextracts and assess their physicochemical, phytochemical, antioxidant, and \u03b1-glucosidase inhibition properties. The findings show that the microencapsulated powders were achieved diserable physicochemical properties (moisture of 3.22-4.76\u00a0%, water activity of 0.43-0.46, water solubility index of 74.18-88.77\u00a0%, particle size of 254.2-719.7\u00a0nm, and zeta potential from -6.97 to -15.1\u00a0mV). The phytochemical content of microencapsulated CPH powders gained at high levels (total saponin content of 151.87-193.46\u00a0mg\u00a0EE/g DS, total flavonoid content of 33.80-46.05\u00a0mg CE/g DS), total alkaloid content of 15.20-24.23\u00a0mg AA/g DS, and total phenolic content of 5.41-6.49\u00a0mg GAE/g DS). The antioxidant potential of microencapsulated CPH powders using ARSC and FRAP assays was 15.51-18.20 and 9.61-11.89\u00a0mg\u00a0TE/g DS, respectively, while their \u03b1-glucosidase inhibition capacity at 100\u00a0\u03bcg/mL was found at 51.74-52.16\u00a0%. The phytochemical content (except total alkaloid content), antioxidant, and \u03b1-glucosidase inhibitory potential of microencapsulated CPH powders were smaller than those of microencapsulatedH. hirsutaand combined powders. This study reveals that the microencapsulated CPH andH. hirsutapowders were prospective in reducing hyperglycemia activity. Therefore, this study provided an evidence for further application of CPH andH. hirsutaplant for functional food development.",
+  "publication_date": "2024-06-07",
+  "journal": "Heliyon",
+  "doi": "10.1016/j.heliyon.2024.e32703",
+  "entities": {
+    "FOOD": [
+      "cocoa pod husk",
+      "cocoa processing industry",
+      "functional food development"
+    ],
+    "POLYPHENOL": [
+      "total flavonoid content"
+    ],
+    "SYMPTOM": [
+      "hyperglycemia activity"
+    ]
+  }
+}

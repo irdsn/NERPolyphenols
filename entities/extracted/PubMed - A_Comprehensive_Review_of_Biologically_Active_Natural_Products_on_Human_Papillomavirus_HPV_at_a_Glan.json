@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "A Comprehensive Review of Biologically Active Natural Products on Human Papillomavirus (HPV) at a Glance.",
+  "abstract": "Human papillomavirus (HPV) is widespread known as the sexually transmitted infection, which is responsible, for genital warts and certain types of cancer. Low-risks HPV types are responsible for genital warts. Genital warts can be treated through various medical and surgical methods. High-risks HPV types may cause dangerous cancers such as cervical cancer. The clinical approach in treatment of HPV-related cancers were different depending on the diseases stage ranging from surveillance and minor procedures for dysplasia to chemotherapy for more advanced cases. It is crucial to vaccinate adolescents against HPV to prevent infections from high risk strains. Researchers have explored natural products as potential solutions against viral infections with eight biologically active compounds. Including EGCG, curcumin, podophyllotoxin, resveratrol, pterostilbene, tanshinone IIA, indole-3-carbinol, and carrageenan. They are showing promising therapeutic effects in treating different stages of HPV-related diseases. Clinical trials have demonstrated the effectiveness of EGCG and podophyllotoxin in treating warts while other compounds, like curcumin, resveratrol, pterostilbene, indole-3-carbinol, and tanshinone IIA offer benefits in combating cervical cancer. In addition, carrageenan shows promising effects in HPV transmission prevention. It appears that compounds from nature may have an impact, on different phases of the HPV infection like genital warts treatment, disease transmission prevention, and healing-related cancers. These findings highlight the potential of natural products as valuable sources to combat HPV infection and related cancers. Further more extensive studies are necessary to discover the effective mechanism of these natural compounds as anti-HPV agents.",
+  "publication_date": "2025-03-24",
+  "journal": "Phytotherapy research : PTR",
+  "doi": "10.1002/ptr.8444",
+  "entities": {
+    "POLYPHENOL": [
+      "curcumin",
+      "egcg",
+      "hpv infection",
+      "infections",
+      "promising effects",
+      "pterostilbene",
+      "resveratrol",
+      "the effective mechanism",
+      "the effectiveness",
+      "the hpv infection",
+      "the sexually transmitted infection",
+      "therapeutic effects",
+      "viral infections"
+    ],
+    "SYMPTOM": [
+      "cancer",
+      "cervical cancer",
+      "dangerous cancers",
+      "healing-related cancers",
+      "hpv-related cancers",
+      "related cancers"
+    ]
+  }
+}

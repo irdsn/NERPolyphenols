@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Resveratrol-Loaded Solid Lipid Nanoparticles Reinforced Hyaluronic Hydrogel: Multitarget Strategy for the Treatment of Diabetes-Related Periodontitis.",
+  "abstract": "Background/Objectives:Periodontitis and diabetes mellitus share a well-established bidirectional relationship, where hyperglycemia exacerbates periodontal inflammation, and periodontal disease further impairs glycemic control. Within the diabetic periodontal microenvironment, an imbalance between pro-inflammatory (M1) and anti-inflammatory (M2) macrophages promotes chronic inflammation, oxidative stress, delayed healing, and alveolar bone resorption. Resveratrol (RSV), a polyphenol with antioxidant, anti-inflammatory, and pro-osteogenic properties, holds potential to restore macrophage balance. However, its clinical application is limited by poor bioavailability and instability. This study aimed to develop and evaluate a novel RSV delivery system to overcome these limitations and promote periodontal tissue regeneration under diabetic conditions.Methods:A drug delivery system comprising RSV-loaded solid lipid nanoparticles embedded within a cross-linked hyaluronic acid hydrogel (RSV@CLgel) was formulated. The system was tested under hyperglycemic and inflammatory conditions for its effects on macrophage polarization, cytokine expression, oxidative stress, mitochondrial function, and osteoblast differentiation.Results:RSV@CLgel effectively suppressed pro-inflammatory cytokines (TNF-\u03b1, IL-1\u03b2, IL-6) while upregulating anti-inflammatory markers (IL-10, TGF-\u03b2). It significantly reduced oxidative stress by decreasing ROS and lipid peroxidation levels and improved mitochondrial function and antioxidant enzyme activity. Furthermore, RSV@CLgel enhanced osteoblast differentiation, as evidenced by increased ALP activity, calcium nodule formation, and upregulation of osteogenic genes (COL-I, RUNX2, OCN, OPN). It also inhibited RANKL-induced osteoclastogenesis, contributing to alveolar bone preservation.Conclusions:The RSV@CLgel delivery system presents a promising multifunctional strategy for the management of diabetic periodontitis. By modulating immune responses, reducing oxidative stress, and promoting periodontal tissue regeneration, RSV@CLgel addresses key pathological aspects of diabetes-associated periodontal disease.",
+  "publication_date": "2025-04-27",
+  "journal": "Biomedicines",
+  "doi": "10.3390/biomedicines13051059",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol",
+      "a well-established bidirectional relationship",
+      "its effects",
+      "key pathological aspects",
+      "resveratrol"
+    ],
+    "SYMPTOM": [
+      "chronic inflammation",
+      "hyperglycemia",
+      "oxidative stress",
+      "periodontal inflammation"
+    ]
+  }
+}

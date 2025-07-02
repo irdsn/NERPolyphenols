@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "The Medicinal Chemistry of Cyanidin and its Glycoside Derivatives: Focus on the Antiproliferative and Potential Anticancer Activity.",
+  "abstract": "Cyanidin and its glucosides are anthocyanins belonging to the class of flavonoid phytochemicals. These pigments give fruits and vegetables their typical reddish-purple nuance, and their peculiar chemical features result in a remarkable ability to neutralize reactive oxygen species and other mutagens. Thus, both cyanidin and its glycosides were proposed as candidates for chemoprevention, as anticancer agents and as adjuvant therapies. Indeed, the compounds were investigated through various in vitro and in vivo models of colon, breast, kidney, prostate and liver cancer and glioma. Cyanidin and its derivatives have been found to inhibit key signaling pathways, such as PI3K/Akt, MAPK, and NF-\u03baB, which can reduce cancer cell growth, induce apoptosis, and suppress metastasis. In the first part of the review, the chemical properties of cyanidin and its glycoside analogues will be discussed. Then, an overview of in vitro evidence on activity will be presented, followed by a report on preclinical and clinical data together with comments on the involved mechanisms. Eventually, the aspect of pharmacokinetic properties, bioavailability and formulation will be dissected. Overall, the review indicates that cyanidin and its derivatives could be effective anticancer agents but also calls for a deeper understanding of the molecular mechanisms underlying their bioactivity. Despite promising results, resolving issues like stability, absorption, and targeted distribution is crucial to maximize their therapeutic potential. More research is needed to develop innovative cyanidin-based formulations for efficient cancer treatment.",
+  "publication_date": "2025-06-12",
+  "journal": "Planta medica",
+  "doi": "10.1055/a-2634-4300",
+  "entities": {
+    "POLYPHENOL": [
+      "cyanidin",
+      "effective anticancer agents",
+      "flavonoid phytochemicals",
+      "innovative cyanidin-based formulations",
+      "preclinical and clinical data",
+      "reactive oxygen species",
+      "the aspect",
+      "the involved mechanisms",
+      "the molecular mechanisms",
+      "their peculiar chemical features"
+    ],
+    "SYMPTOM": [
+      "anticancer agents",
+      "apoptosis",
+      "cancer cell growth",
+      "efficient cancer treatment",
+      "liver cancer"
+    ]
+  }
+}

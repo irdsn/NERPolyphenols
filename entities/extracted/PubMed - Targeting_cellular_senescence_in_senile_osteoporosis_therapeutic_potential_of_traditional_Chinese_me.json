@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Targeting cellular senescence in senile osteoporosis: therapeutic potential of traditional Chinese medicine.",
+  "abstract": "Senile osteoporosis (SOP) is a prevalent manifestation of age-related bone disorders, resulting from the dysregulation between osteoblast (OB)-mediated bone formation and osteoclast (OC)-mediated bone resorption, coupled with the escalating burden of cellular senescence. Traditional Chinese medicine (TCM) herbs, renowned for their remarkable attributes encompassing excellent tolerability, low toxicity, heightened efficacy, and minimal adverse reactions, have gained considerable traction in OP treatment. Emerging evidence substantiates the therapeutic benefits of various TCM formulations and their active constituents, including Zuogui wan,Fructus Ligustri Lucidi, and Resveratrol, in targeting cellular senescence to address SOP. However, a comprehensive review focusing on the therapeutic efficacy of TCM against SOP, with a particular emphasis on senescence, is currently lacking. In this review, we illuminate the pivotal involvement of cellular senescence in SOP and present a comprehensive exploration of TCM formulations and their active ingredients derived from TCM, delineating their potential in SOP treatment through their anti-senescence properties. Notably, we highlight their profound effects on distinct aging models that simulate SOP and various senescence characteristics. Finally, we provide a forward-looking discussion on utilizing TCM as a strategy for targeting cellular senescence and advancing SOP treatment. Our objective is to contribute to the unveiling of safer and more efficacious therapeutic agents for managing SOP.",
+  "publication_date": "2023-11-24",
+  "journal": "Frontiers in medicine",
+  "doi": "10.3389/fmed.2023.1288993",
+  "entities": {
+    "SYMPTOM": [
+      "distinct aging models",
+      "senile osteoporosis"
+    ],
+    "POLYPHENOL": [
+      "our objective",
+      "resveratrol",
+      "their profound effects"
+    ]
+  }
+}

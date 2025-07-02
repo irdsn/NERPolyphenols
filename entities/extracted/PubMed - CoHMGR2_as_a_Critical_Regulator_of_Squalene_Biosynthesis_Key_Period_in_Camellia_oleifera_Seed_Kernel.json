@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "CoHMGR2 as a Critical Regulator of Squalene Biosynthesis Key Period in Camellia oleifera Seed Kernels.",
+  "abstract": "Squalene is an extremely valuable medicinal substance. In addition to being valued for its high content of unsaturated fatty acids, Camellia oleifera is also highly regarded for its rich squalene content in the seed kernels. Comparing the squalene contents within Camellia species, it was found that the content in the seed oil of C. oleifera was higher than that of any other species. The squalene content of C. oleifera \"Huashuo\" (ColHS) reached 0.410\u2009mg\u2009g-1, which was the highest. However, the squalene content in the seed kernels of ColHS did not increase gradually with the continuous maturation of the fruit. The squalene content reached its peak at 329DAP, about 0.854\u2009mg\u2009g-1, and then decreased. With the differentially expressed genes and metabolites in the seed kernels at 329DAP and its surrounding periods, it was found that squalene content was accompanied by variations in secondary metabolites, terpenoids and flavonoids. The mevalonate (MVA) pathway played a significant role in squalene synthesis of ColHS seed kernels. In the MVA pathway, the expression patterns of four CoHMGR genes were consistent with the squalene content level. Among them, CoHMGR2 exhibited a strong correlation with squalene content. The CoHMGR2 was\u00a0also found co-expressed with genes that had calcium ion-binding functions, playing a role in plant signal transduction. This study offers valuable insights into the relationship between squalene content and C. oleifera seed maturity. It also advances our understanding of the regulatory network of squalene synthesis in C. oleifera.",
+  "publication_date": "2025-06-01",
+  "journal": "Physiologia plantarum",
+  "doi": "10.1111/ppl.70352",
+  "entities": {
+    "POLYPHENOL": [
+      "any other species",
+      "camellia species",
+      "flavonoids",
+      "secondary metabolites"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Spirulina as a Key Ingredient in the Evolution of Eco-Friendly Cosmetics.",
+  "abstract": "Limnospiraspp., commercially known as spirulina, is widely recognized for its remarkable benefits due to its rich composition of bioactive compounds like phycobiliproteins, carotenoids, and phenolic compounds. These natural bioactive compounds not only serve as colorants but also offer potent antioxidant, anti-inflammatory, immunomodulatory, anticancer, antimicrobial, and anti-aging properties. As a result, spirulina and its components are increasingly used in cosmetic formulations to promote skin hydration, reduce wrinkles, and protect against UV radiation damage. Its bioactive components enhance fibroblast growth, boost collagen production, and prevent premature skin aging by inhibiting enzymes responsible for elastin degradation. Additionally, spirulina-based cosmetics have demonstrated wound-healing properties without genotoxic effects, with formulations containing C-phycocyanin particularly effective in shielding skin cells from UV-induced apoptosis. Despite these well-established benefits, there remains significant potential for the cosmetic industry to harness spirulina's capabilities further. Research into the molecular mechanisms underlying its bioactive compounds in cosmetic formulations is still in its early stages, offering many opportunities for innovation. Emerging fields of biotechnology, such as nanotechnology and biocosmetics, could enhance the stability, efficacy, and delivery of spirulina-based ingredients, unlocking new possibilities for skin protection and rejuvenation. Furthermore, its proven biological properties align perfectly with the increasing consumer demand for safe, sustainable, and nature-inspired skincare solutions.",
+  "publication_date": "2025-05-30",
+  "journal": "Biotech (Basel (Switzerland))",
+  "doi": "10.3390/biotech14020041",
+  "entities": {
+    "POLYPHENOL": [
+      "biotechnology",
+      "genotoxic effects",
+      "nanotechnology",
+      "phenolic compounds",
+      "skin protection",
+      "the molecular mechanisms"
+    ],
+    "SYMPTOM": [
+      "anti-aging properties",
+      "anticancer",
+      "uv-induced apoptosis"
+    ]
+  }
+}

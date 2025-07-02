@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Fine-Scale Dietary Polyphenol Intake Is Associated with Systemic and Gastrointestinal Inflammation in Healthy Adults.",
+  "abstract": "Polyphenols are dietary bioactive compounds, many of which have anti-inflammatory properties. However, information on the intake of dietary polyphenols at the class and compound levels and their associations with gastrointestinal (GI) and systemic inflammation is lacking.",
+  "publication_date": "2024-08-18",
+  "journal": "The Journal of nutrition",
+  "doi": "10.1016/j.tjnut.2024.08.010",
+  "entities": {
+    "POLYPHENOL": [
+      "dietary polyphenols",
+      "polyphenols"
+    ],
+    "SYMPTOM": [
+      "systemic inflammation"
+    ]
+  }
+}

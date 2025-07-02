@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "Unveiling the effects of sieving and drying on ultrasound-assisted extraction of bioactive compounds from spent sour cherry pomace.",
+  "abstract": "Spent sour cherry pomace (SSCP), a by-product from Maraschino liqueur production, is a rich source of polyphenols worth valorizing. However, its high moisture content promotes microbial spoilage and reduces extraction efficiency per unit weight, limiting their valorization. This study evaluated the impacts of freeze-drying and oven-drying and different particle sizes (\u2264100, \u2264200, and\u00a0\u2265\u00a0200\u00a0\u00b5m) for efficient ultrasound-assisted recovery of polyphenols. The moisture content decreased by 83.33\u00a0% in freeze-drying and 84.17\u00a0% in oven-drying, resulting in a higher yield of bioactive compounds from a given sample weight. Smaller particle sizes significantly improved extraction efficiency, probably due to increased surface area. Freeze-dried samples at\u00a0\u2264\u00a0100\u00a0\u00b5m had the highest total phenolic content (224.32\u00a0\u00b1\u00a03.13\u00a0mg gallic acid equivalent/L), total monomeric anthocyanin content (9.48\u00a0\u00b1\u00a00.12\u00a0mg/L), and ferric reducing antioxidant power (487\u00a0\u00b1\u00a03.58\u00a0mg Trolox equivalent/L), along with the highest levels of epicatechin (1.15\u00a0\u00b1\u00a00.11\u00a0mg/L) and cyanidin-3-rutinoside (9.81\u00a0\u00b1\u00a00.06\u00a0mg/L). These results suggest that freeze-drying preserves bioactive compounds better than oven-drying. SEM images from post-extraction SSCP pellets showed a generally identical cell disruption among all the samples, highlighting that the differences in the extract properties are highly dependent on the sample preparation method (i.e., drying process), despite the key role of the extraction process. The antioxidant activity of the extracts from oven/freeze-dried SSCPs at\u00a0\u2264\u00a0100\u00a0\u00b5m was evaluated in soybean and sunflower oils using the Rancimat method. The extract competency in delaying lipid oxidation in the oils showed their potential as natural antioxidants for future food applications.",
+  "publication_date": "2025-05-05",
+  "journal": "Ultrasonics sonochemistry",
+  "doi": "10.1016/j.ultsonch.2025.107375",
+  "entities": {
+    "FOOD": [
+      "sour cherry pomace",
+      "soybean and sunflower oils"
+    ],
+    "POLYPHENOL": [
+      "3.13\u00a0mg gallic acid",
+      "efficient ultrasound-assisted recovery",
+      "epicatechin",
+      "polyphenols"
+    ]
+  }
+}

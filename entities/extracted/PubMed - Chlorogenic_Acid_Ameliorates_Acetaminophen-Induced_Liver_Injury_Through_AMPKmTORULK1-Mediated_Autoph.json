@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Chlorogenic Acid Ameliorates Acetaminophen-Induced Liver Injury Through AMPK/mTOR/ULK1-Mediated Autophagy Activation.",
+  "abstract": "Acetaminophen (APAP)-induced liver injury (AILI) is a universal liver disease and the predominant cause of acute liver failure in clinical practice. Autophagy is a highly conserved intracellular degradation pathway, with accumulating evidence indicating its involvement in APAP hepatotoxicity. Notably, the serine/threonine AMP-activated protein kinase (AMPK)/mammalian target of rapamycin (mTOR)/unc-51-like kinase 1 (ULK1) pathway serves as the most classical autophagy pathway and engages in autophagy activation. Thus, pharmacological activation of the AMPK/mTOR/ULK1 pathway has emerged as a critical strategy for addressing AILI. Chlorogenic acid (CGA), a main bioactive constituent isolated fromLonicera japonicaThunb., is an autophagy regulator with potential for AILI therapy. However, whether and how CGA modulates autophagy to antagonize AILI has not yet been elucidated. In the present study, we aim to explore the impact of CGA on AILI, as well as the underlying mechanismsin vitroandin vivo. The results demonstrated that CGA could protect the mice and LO2 cells from oxidative stress and liver injury induced by APAP. Regarding mechanisms, CGA activated the AMPK/mTOR/ULK1 pathway, thereby promoting autophagy. This was evidenced by the degradation of p62/SQSTM1 (hereafter referred to as p62), as well as the up-regulation of LC3B, ATG5, and Beclin1. It is worth noting that the aforementioned, CGA-provided beneficial effects were abrogated by pharmacological inhibition of AMPK with Compound C (CC, an AMPK inhibitor). These [Formula: see text] that CGA alleviates oxidative stress and liver injury induced by APAP, which is contingent upon the regulatory effect of CGA on the AMPK/mTOR/ULK1 axis.",
+  "publication_date": "2025-03-27",
+  "journal": "The American journal of Chinese medicine",
+  "doi": "10.1142/S0192415X2550020X",
+  "entities": {
+    "SYMPTOM": [
+      "acetaminophen (apap)-induced liver injury",
+      "apap hepatotoxicity",
+      "liver injury",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "beclin1",
+      "chlorogenic acid",
+      "mechanisms",
+      "the aforementioned, cga-provided beneficial effects",
+      "the regulatory effect",
+      "the underlying mechanismsin vitroandin vivo"
+    ]
+  }
+}

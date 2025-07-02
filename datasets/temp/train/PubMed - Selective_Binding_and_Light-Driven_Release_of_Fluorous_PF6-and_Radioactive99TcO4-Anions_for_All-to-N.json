@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Selective Binding and Light-Driven Release of Fluorous PF6-and Radioactive99TcO4-Anions for All-to-Nothing Liquid-Liquid Extraction.",
+  "abstract": "The removal of anions from aqueous media using molecular receptors in liquid-liquid extraction is a long-standing strategy to clean up contaminated water sources. Therein, high selectivity is needed to remove specific ions from mixtures of other ions, and high affinity provides extractions at low concentrations. However, the high affinity creates a conundrum by impeding the release of the ions in any stripping steps needed for further processing. To circumvent this problem, light-responsive receptors have been proposed as candidates for turning off the binding, but they are currently untested in liquid-liquid extraction. We tested the feasibility of light-driven release using a cyanostar macrocycle. We demonstrate the selective extraction of PF6-anions over large excesses of competing anions (Cl-, NO3-, SO42-) followed by photodriven release for quantitative isolation of the target. Release relies on photoisomerization of the macrocycle's five stilbenes generating distorted isomers to turn off binding. With modest reversibility, only a single-shot release was demonstrated, akin to photodriven uncaging. These methods were extended to the capture and photodriven release of ReO4-and radioactive99TcO4-anions at ∼90% efficiency. Extraction was demonstrated down to the highly dilute 4 ppb levels of the99TcO4-anion. This proof-of-concept demonstration verifies the use of a large change in affinity for the all-to-nothing capture and release of target anions between liquid phases.",
+  "publication_date": "2025-04-23",
+  "journal": "Journal of the American Chemical Society",
+  "doi": "10.1021/jacs.5c03097"
+}

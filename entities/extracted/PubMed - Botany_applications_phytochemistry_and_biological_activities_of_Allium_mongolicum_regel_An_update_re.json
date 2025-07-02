@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Botany, applications, phytochemistry, and biological activities of Allium mongolicum regel: An update review.",
+  "abstract": "Allium mongolicum, also known as Allium mongolicum Regel or Sh\u0101 C\u014dng, is a perennial xerophytic herb that grows in high-altitude desert areas. It is commonly used as a vegetable in daily life with nutritional value beneficially, and it can be made into delicious food with various ingredients, so it is increasingly popular among people of different ages. Interestingly, it is also a traditional Chinese medicine (TCM) of Chinese particularly in Inner Mongolia, and records of its use as a medicine can be found in ancient Chinese books in Ming dynasty. Additionally, there was a significant influence in improving the quality and local flavor of meat (mutton and beef) by using A. mongolicum. To date, as a plant of medicine food homology, over 200 constituents, including flavonoid and phenolic acids, essential oil, amino acids, microelements, and polysaccharide that were isolated and identified from A mongolicum. Increasing numbers of evidence have been revealed the possess a range of biological activities abroad, especially effects on bacteriostasis, antioxidant, anti-tumor, regulating immune, digestive-protective. Furthermore, the flavonoids were indicated for gastrointestinal-protective, such as flavonosides A3, mongo flavonosides A4, kaempferol-3-O-\u03b2-D-glucopyranoside, and kaempferol-3-O-\u03b2-D-glucopyranosyl (1\u00a0\u2192\u00a04)-\u03b2-D-glucopyranoside. We hope this review provides a new understanding for the future development in food exploitation, functional food innovation, and medical resource of A. mongolicum and its active ingredients as scientific evidence for health care products.",
+  "publication_date": "2025-06-03",
+  "journal": "Fitoterapia",
+  "doi": "10.1016/j.fitote.2025.106661",
+  "entities": {
+    "POLYPHENOL": [
+      "especially effects",
+      "flavonoid",
+      "kaempferol-3",
+      "kaempferol-3-o-\u03b2-d-glucopyranosyl",
+      "records",
+      "the flavonoids"
+    ],
+    "FOOD": [
+      "functional food innovation"
+    ]
+  }
+}

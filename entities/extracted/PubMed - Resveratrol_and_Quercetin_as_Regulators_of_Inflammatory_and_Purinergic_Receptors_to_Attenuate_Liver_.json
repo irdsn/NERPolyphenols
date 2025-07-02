@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Resveratrol and Quercetin as Regulators of Inflammatory and Purinergic Receptors to Attenuate Liver Damage Associated to Metabolic Syndrome.",
+  "abstract": "Nonalcoholic fatty liver disease (NAFLD) is considered a manifestation of metabolic syndrome (MS) and is characterized by the accumulation of triglycerides and a varying degree of hepatic injury, inflammation, and repair. Moreover, peroxisome-proliferator-activated receptors (PPARs) play a critical role in the pathophysiological processes in the liver. There is extensive evidence of the beneficial effect of polyphenols such as resveratrol (RSV) and quercetin (QRC) on the treatment of liver pathology; however, the mechanisms underlying their beneficial effects have not been fully elucidated. In this work, we show that the mechanisms underlying the beneficial effects of RSV and QRC against inflammation in liver damage in our MS model are due to the activation of novel pathways which have not been previously described such as the downregulation of the expression of toll-like receptor 4 (TLR4), neutrophil elastase (NE) and purinergic receptor P2Y2. This downregulation leads to a decrease in apoptosis and hepatic fibrosis with no changes in hepatocyte proliferation. In addition, PPAR alpha and gamma expression were altered in MS but their expression was not affected by the treatment with the natural compounds. The improvement of liver damage by the administration of polyphenols was reflected in the normalization of serum transaminase activities.",
+  "publication_date": "2021-08-19",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms22168939",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis and hepatic fibrosis",
+      "inflammation",
+      "liver damage",
+      "metabolic syndrome"
+    ],
+    "POLYPHENOL": [
+      "a decrease",
+      "peroxisome-proliferator-activated receptors",
+      "polyphenols",
+      "purinergic receptor p2y2",
+      "quercetin",
+      "resveratrol",
+      "the beneficial effect",
+      "the beneficial effects",
+      "the mechanisms",
+      "their beneficial effects",
+      "toll-like receptor"
+    ]
+  }
+}

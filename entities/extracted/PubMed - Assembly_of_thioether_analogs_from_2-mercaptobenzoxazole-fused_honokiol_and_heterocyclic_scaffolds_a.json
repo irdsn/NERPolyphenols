@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Assembly of thioether analogs from 2-mercaptobenzoxazole-fused honokiol and heterocyclic scaffolds and evaluation of their agrochemical potential.",
+  "abstract": "Persistent and excessive application of conventional synthetic pesticides has triggered a series of environmental and agricultural product safety risks in recent decades. Natural products are considered to provide considerable sources for the innovation of novel ecofriendly agrochemicals with high efficacy.",
+  "publication_date": "2025-02-28",
+  "journal": "Pest management science",
+  "doi": "10.1002/ps.8733",
+  "entities": {
+    "POLYPHENOL": [
+      "ecofriendly agrochemicals",
+      "recent decades"
+    ]
+  }
+}

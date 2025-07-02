@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Root-applied brassinosteroid and salicylic acid enhance thermotolerance and fruit quality in heat-stressed 'Kyoho' grapevines.",
+  "abstract": "The increasingly severe global greenhouse effect has become an irreversible trend, significantly impacting viticulture regions through heat stress during various grape growth stages, especially under protected cultivation conditions where high temperatures frequently occur. Therefore, studying the impact of heat stress on grapevine growth and fruit quality across the entire growth and development period, along with effective mitigation measures, is crucial.",
+  "publication_date": "2025-04-03",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2025.1563270",
+  "entities": {
+    "POLYPHENOL": [
+      "effective mitigation measures",
+      "protected cultivation conditions",
+      "the increasingly severe global greenhouse effect"
+    ],
+    "SYMPTOM": [
+      "heat stress"
+    ],
+    "FOOD": [
+      "grapevine growth",
+      "various grape growth stages"
+    ]
+  }
+}

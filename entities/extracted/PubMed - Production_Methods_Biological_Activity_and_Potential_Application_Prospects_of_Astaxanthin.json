@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Production Methods, Biological Activity and Potential Application Prospects of Astaxanthin.",
+  "abstract": "Astaxanthin (AST), a ketocarotenoid, is prevalent in aquatic life forms. AST has a variety of health-promoting effects, such as anti-oxidation, anti-cancer, eye protection, anti-inflammatory, immune regulation, skin care, anti-diabetes, neuroprotection, etc. It holds significant potential for applications in healthcare products, food additives, pharmaceuticals, cosmetics, and aquaculture. The production capacity of AST limits its wide application to a certain extent. The instability and safety risks associated with the chemical synthesis of AST have led to increased interest in its biosynthetic pathway. In this paper, the synthesis pathway, biological activity, and application prospects of AST were reviewed. To enhance the market accessibility of AST, investigating innovative synthesis techniques and its emergent biological effects is crucial.",
+  "publication_date": "2025-06-15",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14122103",
+  "entities": {
+    "POLYPHENOL": [
+      "application prospects",
+      "eye protection",
+      "health-promoting effects",
+      "innovative synthesis techniques",
+      "its emergent biological effects",
+      "neuroprotection"
+    ],
+    "SYMPTOM": [
+      "cancer"
+    ]
+  }
+}

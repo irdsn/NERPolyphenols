@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Mechanisms Linking Obesity, Insulin Resistance, and Alzheimer's Disease: Effects of Polyphenols and Omega-3 Polyunsaturated Fatty Acids.",
+  "abstract": "Alzheimer's disease (AD) is a complex neurodegenerative disorder characterized by progressive cognitive decline, memory loss, and behavioral changes. It poses a significant global health challenge. AD is associated with the accumulation of amyloid-\u03b2 (A\u03b2) plaques and neurofibrillary tangles (NFTs) in the brain, along with chronic inflammation, dysfunctional neurons, and synapse loss. While the prevalence of AD continues to rise, the current FDA-approved drugs offer only limited effectiveness. Emerging evidence suggests that obesity, insulin resistance (IR), and type 2 diabetes mellitus (T2DM) are also implicated in AD pathogenesis, with epidemiological studies and animal models confirming the impact of IR on A\u03b2 accumulation, and high-fat diets also exacerbating A\u03b2 accumulation. Since neuroinflammation activated by A\u03b2 involves the nuclear factor kappa-light-chain-enhancer of the activated B cell (NF-\u03baB) pathway, the inhibition of NF-\u03baB and NLRP3 inflammasome activation are potential therapeutic strategies in AD. Bioactive compounds, including polyphenols (resveratrol, epigallocatechin-3-gallate, curcumin, and quercetin), and omega-3 polyunsaturated fatty acids, show promising results in animal studies and clinical trials for reducing A\u03b2 levels, improving cognition and modulating the signaling pathways implicated in AD. This review explores the interplay between obesity, IR, inflammation, and AD pathology, emphasizing the potential of dietary compounds and their role in reducing inflammation, oxidative stress, and cognitive decline, as viable strategies for AD prevention and treatment. By integrating epidemiological findings, observational studies, and clinical trials, this review aims to provide a comprehensive understating of how metabolic dysfunctions and bioactive compounds influence AD progression.",
+  "publication_date": "2025-03-29",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17071203",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "chronic inflammation",
+      "inflammation",
+      "insulin resistance",
+      "neuroinflammation",
+      "obesity",
+      "oxidative stress",
+      "type 2 diabetes"
+    ],
+    "POLYPHENOL": [
+      "cognitive decline",
+      "curcumin",
+      "epigallocatechin-3",
+      "only limited effectiveness",
+      "polyphenols",
+      "progressive cognitive decline",
+      "quercetin",
+      "resveratrol"
+    ],
+    "FOOD": [
+      "omega-3 polyunsaturated fatty acids"
+    ]
+  }
+}

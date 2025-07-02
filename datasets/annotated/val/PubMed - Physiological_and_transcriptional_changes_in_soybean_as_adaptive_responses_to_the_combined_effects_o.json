@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Physiological and transcriptional changes in soybean as adaptive responses to the combined effects of soil alkalinity and drought.",
+  "abstract": "Soil alkalinity and drought collectively cause severe growth retardation in crops. However, the adaptive responses and transcriptional changes under such conditions remain unclear in soybean. In this growth incubator study, soil alkalinity and drought stress led to significant reductions in plant biomass, chlorophyll, and nutrient uptake in soybean. However, the photochemical efficiency of photosystem II remained stable, suggesting the activation of protective mechanisms to maintain photosynthetic functions. RNA-seq analysis demonstrated 357 upregulated and 799 downregulated genes in roots due to combined soil alkalinity and drought. Analysis revealed a complex response, with upregulation of genes predominantly involved in mineral homeostasis (Iron dehydrogenase, Sulfurylase), reactive oxygen species scavenging (Glutamate synthase, L-Ascorbate peroxidase) and hormonal signaling. Particularly, several ethylene-responsive genes, including the Transcription factors TF5 and TF018, were upregulated, indicating the activation of stress-related signaling pathways. In a targeted study, plants supplemented with an ethylene precursor showed significant improvements in morpho-physiological traits and Fe status under combined stress. However, ethylene precursor applied in non-stressed plants led to reduced growth, and Fe levels, suggesting an involvement of the context-dependent role of ethylene in promoting stress tolerance. Furthermore, ethylene precursors caused an increase in root flavonoid and rhizosphere siderophore while restoring bacterial and fungal microbial cells in roots under combined stress in soil. However, in healthy plants, flavonoid and siderophore levels decreased, accompanied by a reduction in microbial cells to control levels. This suggests that elevated ethylene may regulate root exudates to recruit microbes dominated by host response, aiding soybean plants cope with combined stresses, although this effect may not occur in non-stressed plants. This is the first report on the transcriptional response and physiological adjustments in soybean exposed to alkalinity and drought, potentially advancing knowledge for genetic and agronomic interventions to improve stress resilience in legume crops.",
+  "publication_date": "2025-06-26",
+  "journal": "Plant science : an international journal of experimental plant biology",
+  "doi": "10.1016/j.plantsci.2025.112627",
+  "entities": {
+    "FOOD": [
+      "soybean",
+      "soybean plants"
+    ],
+    "SYMPTOM": [
+      "combined stress",
+      "combined stresses",
+      "non-stressed plants",
+      "soil alkalinity and drought stress",
+      "stress resilience",
+      "stress tolerance",
+      "stress-related signaling pathways"
+    ],
+    "POLYPHENOL": [
+      "an ethylene precursor",
+      "ethylene precursor",
+      "ethylene precursors",
+      "flavonoid and siderophore levels",
+      "protective mechanisms",
+      "root flavonoid",
+      "this effect"
+    ]
+  }
+}

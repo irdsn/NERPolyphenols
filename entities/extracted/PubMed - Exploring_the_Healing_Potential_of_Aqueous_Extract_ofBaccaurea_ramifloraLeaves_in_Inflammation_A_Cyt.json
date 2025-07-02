@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Exploring the Healing Potential of Aqueous Extract ofBaccaurea ramifloraLeaves in Inflammation: A Cytokine and Prostaglandin Modulator.",
+  "abstract": "Baccaurea ramiflorais a common edible nutritious plant that has been associated with a variety of medicinal attributes. This study investigated the anti-inflammatory effects of the aqueous extract ofB.\u2009ramifloraleaves (BrLAE) in a complete Freund's adjuvant (CFA) induced inflammatory model. BrLAE was prepared by the cold maceration process and screened for phytochemical and antioxidant analyses. Inflammation was induced by a single intra-planter (i.pl.) injection of CFA (100\u2009\u03bcL) in the hind paws of male Wistar rats. After 7\u2009days of immunization, paw edema was measured weekly (Day 7-Day 35) by digital plethysmometer and vernier caliper. Animals were daily treated with either methotrexate (MTX) or BrLAE (300, 600, and 1000\u2009mg/kg) from Day 7 to Day 35. At the end of the experimental period, blood and liver samples were collected for the analysis of hematological, biochemical parameters and gene expression, respectively. The findings revealed that BrLAE had significant antioxidant activity and a remarkably high amount of tannins, saponins, flavonoids, phenols along with a trace amount of alkaloids, steroids, and terpinoids. BrLAE significantly reduced paw edema levels and improved hematological (RBC, WBC, Hb, PLT, and ESR) and biochemical (ALT, AST, and CRP) parameters. Moreover, BrLAE prominently downregulated mRNA levels of pro-inflammatory mediators, such asTNF-\u03b1,IL-1\u03b2,NF-\u03baB,COX-2,PTGDS,mPGES1, andMMP1. Molecular docking of the active constituent (Rosmarinic acid) with TNF-\u03b1, NF-\u03baB, COX-2, PTGDS, and mPGES1 also supported the experimental findings. These findings highlight that BrLAE possesses robust antioxidant and anti-inflammatory properties which may be attributed to its inhibitory effects on prostaglandins and cytokines.",
+  "publication_date": "2025-05-23",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70356",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "injection",
+      "its inhibitory effects",
+      "molecular docking",
+      "rosmarinic acid",
+      "tannins",
+      "the anti-inflammatory effects"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

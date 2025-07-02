@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Simultaneous regulation of lactate production and fatty acid metabolism by Resveratrol in rat Sertoli cells.",
+  "abstract": "Sertoli cells provide structural and nutritional support for germ cell development. They actively metabolize glucose and convert it into lactate, which is an important source of energy for germ cells. They also oxidize fatty acids (FA), stored as triacylglycerides (TAGs) within lipid droplets (LD), to fulfill their own energy requirements. So, the combined regulation of lactate production and FA metabolism may be relevant to the physiology of seminiferous tubules. Resveratrol (RSV) is a nutritional supplement found primarily in red grape skin that exhibits multiple beneficial health effects: it is cardioprotective, anti-inflammatory, anticancer, and antiaging. The aim of this study was to evaluate the effect of RSV in Sertoli cells lactate production and lipid metabolism. Sertoli cell cultures obtained from 20-day-old rats were incubated for different times with 10 or 50\u00a0\u03bcM RSV. RSV treatment increased lactate production and glucose consumption. These increments were accompanied by a rise in GLUT1 expression, which is the main glucose transporter in Sertoli cells. On the other hand, RSV decreased LD content and TAG levels. In addition, an increase in ATGL and FAT/CD36 mRNA levels was observed, which suggests augmented cytoplasmatic FA availability. RSV treatment also increased P-ACC levels, which might indicate that RSV promotes FA transport into the mitochondria to be oxidized. An enhanced expression of LCAD and MCAD, enzymes that participate in the oxidation of FA, was also observed. Altogether, these results suggest that RSV simultaneously regulates Sertoli cells lactate production and lipid metabolism, ensuring an adequate energetic balance both in germ and Sertoli cells.",
+  "publication_date": "2022-12-15",
+  "journal": "Biochimie",
+  "doi": "10.1016/j.biochi.2022.12.006",
+  "entities": {
+    "POLYPHENOL": [
+      "cardioprotective, anti-inflammatory, anticancer",
+      "multiple beneficial health effects",
+      "resveratrol",
+      "the effect"
+    ],
+    "FOOD": [
+      "red grape skin"
+    ]
+  }
+}

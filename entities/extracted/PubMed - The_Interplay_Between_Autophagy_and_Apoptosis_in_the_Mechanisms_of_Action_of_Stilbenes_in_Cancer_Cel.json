@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "The Interplay Between Autophagy and Apoptosis in the Mechanisms of Action of Stilbenes in Cancer Cells.",
+  "abstract": "Plant-based stilbenes are low-molecular-weight polyphenolic compounds that exhibit anti-oxidant, anti-microbial, anti-fungal, anti-inflammatory, anti-diabetic, cardioprotective, neuroprotective, and anti-cancer activities. They are phytoalexins produced in diverse plant species in response to stress, such as fungal and bacterial infections or excessive UV irradiation. Plant-derived dietary products containing stilbenes are common components of the human diet. Stilbenes appear to be promising chemopreventive and chemotherapeutic agents. Accumulating evidence indicates that stilbenes are able to trigger both apoptotic and autophagic molecular pathways in many human cancer cell lines. Of note, the molecular crosstalk between autophagy and apoptosis under cellular stress conditions determines the cell fate. The autophagy and apoptosis relationship is complex and depends on the cellular context, e.g., cell type and cellular stress level. Apoptosis is a type of regulated cell death, whereas autophagy may act as a pro-survival or pro-death mechanism depending on the context. The interplay between autophagy and apoptosis may have an important impact on chemotherapy efficiency. This review focuses on the in vitro effects of stilbenes in different human cancer cell lines concerning the interplay between autophagy and apoptosis.",
+  "publication_date": "2025-03-13",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14030339",
+  "entities": {
+    "POLYPHENOL": [
+      "a pro-survival or pro-death mechanism",
+      "anti-oxidant, anti-microbial, anti-fungal, anti-inflammatory, anti-diabetic, cardioprotective, neuroprotective, and anti-cancer activities",
+      "bacterial infections",
+      "both apoptotic and autophagic molecular pathways",
+      "diverse plant species",
+      "low-molecular-weight polyphenolic compounds",
+      "the in vitro effects",
+      "the molecular crosstalk"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "cellular stress conditions",
+      "cellular stress level",
+      "different human cancer cell lines",
+      "many human cancer cell lines",
+      "regulated cell death",
+      "stress",
+      "the autophagy and apoptosis relationship"
+    ]
+  }
+}

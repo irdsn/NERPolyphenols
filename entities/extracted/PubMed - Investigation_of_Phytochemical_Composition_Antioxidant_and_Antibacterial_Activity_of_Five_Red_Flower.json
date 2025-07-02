@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Investigation of Phytochemical Composition, Antioxidant and Antibacterial Activity of Five Red Flower Extracts.",
+  "abstract": "The presence of bioactive compounds in plants with red flowers constitutes a valuable natural resource for the food, pharmaceutical, and medical industries. This paper aims to highlight these characteristics to facilitate the selection of extracts according to market needs. The analyzed parameters can provide valuable insights into the compositional variability of the five red flower plants, as new sources of bioactive compounds and natural antioxidants of plant origin. Five plants with red flowers (Magnolia liliiflora,Chrysanthemum morifolium,Hibiscus sabdariffa,Petunia grandiflora,Rosa hybridaL.) were selected and investigated regarding their polyphenol concentration, total anthocyanins, antioxidant activity, phenolic compounds, and antimicrobial activity. Total polyphenols were found in concentrations ranging from 75.17 \u00b1 0.16 mgGAE/g (C. morifolium) to 107.49 \u00b1 0.19 mgGAE/g (R. hybridaL.), and total anthocyanins between 14.99 \u00b1 0.13 mg Cy-3-Glu/g and 21.66 \u00b1 0.18 mg Cy-3-Glu/g. The antioxidant activity DPPH/IC50 mg/mL for the extract fromR. hybridaL. flowers reached a value of 29.35 \u00b1 0.17 mg/g, with ABTS and FRAP achieving maximum values of 49.89 \u00b1 0.24 mmol TE/g and 48.68 \u00b1 0.23 mmol TE/g, respectively. The antibacterial activity was particularly evident against strains commonly encountered in human pathology,Escherichia coliandStaphylococcus aureus, with reduced or no impact on strains ofPseudomonas fluorescensandProteus mirabilis. The results demonstrated that the extracts from the selected, red-flowered plants contain valuable biologically active compounds in generous quantities, thus recommending their use in the food, pharmaceutical, and medical sectors.",
+  "publication_date": "2025-01-27",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14020151",
+  "entities": {
+    "POLYPHENOL": [
+      "the food, pharmaceutical, and medical sectors",
+      "the selected, red-flowered plants",
+      "the selection",
+      "their polyphenol concentration",
+      "total polyphenols"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Nitrosoamine-3-Hydroxyflavothione Hybrids Enable Oxygen-Tolerant Photoredox Catalysis for Red-Light-Stimulated CO/NO Release for Combating Bacteria.",
+  "abstract": "Single gas donors have proved to have vast therapeutic potential; however, the investigation of multigas releasing molecules is limited. Besides, porphyrins and their derivatives are essential energy and electron transfer agents for activating gaseous signaling molecule (GSM) donors, despite, the catalysis of the latter is greatly limited in oxygen-rich environments. We, therefore, report photosensitive small-molecule hybrids composed of oxo-/thio-flavonols as the singlet oxygen (1O2) scavengers for catalytic stability andN-nitrosoamine moieties for the competent co-release of carbon monoxide (CO) and nitric oxide (NO) in amounts that depend on the structural designs. The self-assembled micellar co-encapsulation of CO/NO donors andPdTPTBPafforded the intracellular GSMs delivery during red-light irradiation. The bactericidal effect of irradiated micelles against planktonic Gram-positive and Gram-negative bacteria displayed a significant killing rate ofS. aureusvia membrane hyperpolarization and rupture and achieved an excellent combination index of 0.44. This represents their high potential for biomedical applications.",
+  "publication_date": "2025-05-20",
+  "journal": "ACS macro letters",
+  "doi": "10.1021/acsmacrolett.5c00049",
+  "entities": {
+    "POLYPHENOL": [
+      "essential energy and electron transfer agents",
+      "gaseous signaling molecule (gsm) donors",
+      "multigas releasing molecules",
+      "photosensitive small-molecule hybrids",
+      "the bactericidal effect"
+    ]
+  }
+}

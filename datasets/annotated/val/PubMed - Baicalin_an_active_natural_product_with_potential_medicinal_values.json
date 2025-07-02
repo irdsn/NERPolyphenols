@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Baicalin: an active natural product with potential medicinal values.",
+  "abstract": "Baicalin, a flavonoid derived from the dicotyledonous plantScutellaria baicalensisGeorgi (SBG), is applied to treat various -disorders due to its various pharmacological effects such as anti-inflammatory, antiviral, antibacterial, liver-protecting, lipid-lowering, and neuroprotection. However, baicalin's limited solubility hampers absorption. This article reviews baicalin's pharmacological properties, including pharmacokinetics, cytotoxicity, drug interactions, and therapeutic potential, especially for cardiovascular diseases, obesity, and liver-lipid disorders, aiming to promote its development in medicine, dairy and livestock feed, nutritional health products and cosmetics for humans and other fields.",
+  "publication_date": "2025-04-03",
+  "journal": "Journal of Asian natural products research",
+  "doi": "10.1080/10286020.2025.2482054",
+  "entities": {
+    "POLYPHENOL": [
+      "a flavonoid",
+      "anti-inflammatory, antiviral, antibacterial, liver-protecting, lipid-lowering",
+      "its various pharmacological effects",
+      "neuroprotection"
+    ],
+    "SYMPTOM": [
+      "obesity"
+    ]
+  }
+}

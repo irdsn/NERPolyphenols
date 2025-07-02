@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "The Generation of Suspended Cell Wall Material May Limit the Effect of Ultrasound Technology in Some Varietal Wines.",
+  "abstract": "The disruptive effect exerted by high-power ultrasound on grape cell walls enhances phenolic extraction, improving chromatic characteristics during red wine maceration. However, short maceration times may, sometimes, hinder this enhancement, and this effect could be attributed to the suspended cell wall material formation facilitated by sonication. This suspended material, having a strong affinity for phenolic compounds, can lead to their precipitation and elimination during subsequent vinification stages and, consequently, a significant portion of extracted phenolic compounds may not contribute to the final phenolic composition of the wine, impacting its chromatic features. To demonstrate this effect, sonicated grapes of two different varieties were vinified with No modified process that eliminated part of this suspended material. Results confirm our hypothesis; that is, the lack of positive outcomes in some cases is due to phenolic compound adsorption on suspended material.",
+  "publication_date": "2024-04-24",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13091306",
+  "entities": {
+    "POLYPHENOL": [
+      "extracted phenolic compounds",
+      "phenolic compound adsorption",
+      "phenolic compounds",
+      "the disruptive effect",
+      "their precipitation",
+      "this effect"
+    ],
+    "FOOD": [
+      "grape cell walls",
+      "red wine maceration",
+      "sonicated grapes",
+      "the wine"
+    ]
+  }
+}

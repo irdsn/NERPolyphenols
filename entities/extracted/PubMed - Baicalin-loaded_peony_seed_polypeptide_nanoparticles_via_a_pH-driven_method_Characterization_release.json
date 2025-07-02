@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Baicalin-loaded peony seed polypeptide nanoparticles via a pH-driven method: Characterization, release kinetics, and in vitro anti-inflammatory effects.",
+  "abstract": "Baicalin (BA), a flavonoid with diverse bioactivities, faces clinical application challenges due to its poor solubility, low bioavailability, and limited stability. This study reports on the development of BA-loaded peony seed polypeptide nanoparticles (BA-PSP NPs) using a pH-driven method to overcome these limitations. These nanoparticles (NPs) were spherical, 88.20\u00a0\u00b1\u00a02.19\u00a0nm in size, with a zeta potential of -35\u00a0mV, demonstrating excellent stability under thermal, pH, salt ion, and storage conditions. Physicochemical assays confirmed that BA was encapsulated in an amorphous state within the peony seed peptide matrix, with an encapsulation efficiency of 81.37\u00a0\u00b1\u00a00.57\u00a0%. The nanosystem effectively protected BA from degradation in simulated gastrointestinal environments. In vitro assays revealed that BA-PSP NPs exerted a superior anti-inflammatory effect compared to free BA mediated via inhibiting pro-inflammatory factor secretion (IL-1\u03b2, IL-6, and TNF-\u03b1) and promoting anti-inflammatory factor production (IL-10) in LPS-induced RAW264.7 cells, as well as validated via qPCR for corresponding mRNA regulation. This study develops pH-driven self-assembled peony seed peptide nanoparticles as green and safe colon-targeted carriers, effectively encapsulating polyphenols with enhanced stability and bioavailability, thereby providing technical support for functional food development and precision nutraceutical delivery systems.",
+  "publication_date": "2025-04-08",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.142958",
+  "entities": {
+    "POLYPHENOL": [
+      "a flavonoid",
+      "a superior anti-inflammatory effect",
+      "polyphenols",
+      "precision nutraceutical delivery systems",
+      "pro-inflammatory factor secretion",
+      "technical support"
+    ],
+    "FOOD": [
+      "functional food development"
+    ]
+  }
+}

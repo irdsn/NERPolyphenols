@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "O-methylation modifications in the biosynthetic pathway of dibenzocyclooctadiene lignans.",
+  "abstract": "Schisandra chinensis, a well-known traditional Chinese herb used for hepatitis treatment, contains dibenzocyclooctadiene lignans as its primary active compounds, which undergo extensive multi-site O-methylation. However, O-methyltransferases (OMT) involved in this process have not been previously reported. This study employed transcriptomic analysis of S. chinensis treated with methyl jasmonate, alongside expression profiling, phylogenetic analysis, and heterologous expression to characterize the functional roles of OMTs. The study identified 4 OMTs: SchiOMT4, SchiOMT12, SchiOMT16, and SchiOMT22, which catalyze C-3 O-methylation of caffeic acid and Caffeyl aldehyde to form ferulic acid and coniferyl aldehyde. Additionally, SchiOMT12 and SchiOMT16 methylated gomisin L2 at C-3, while SchiOMT16 also O-methylation schisanhenol at C-14 and performed sequential O-methylation at C-3 and C-12 of gomisin J. Molecular docking further clarified the regioselectivity of SchiOMT16 and SchiOMT12, elucidating the differences in their catalytic activities. This study is the first to identify methyltransferases involved in the subsequent modifications of dibenzocyclooctadiene lignans, underscoring the broad substrate range, selective O-methylation, and regulatory importance of OMTs in their biosynthesis.",
+  "publication_date": "2025-04-01",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.109863",
+  "entities": {
+    "POLYPHENOL": [
+      "caffeic acid and caffeyl aldehyde",
+      "ferulic acid",
+      "gomisin j. molecular docking",
+      "selective o-methylation",
+      "the regioselectivity"
+    ]
+  }
+}

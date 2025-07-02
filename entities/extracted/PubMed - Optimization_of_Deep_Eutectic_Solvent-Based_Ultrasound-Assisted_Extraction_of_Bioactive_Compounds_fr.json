@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Optimization of Deep Eutectic Solvent-Based Ultrasound-Assisted Extraction of Bioactive Compounds from Maca Leaves Using the Taguchi Method.",
+  "abstract": "This study was conducted to identify the optimal conditions and evaluate the feasibility of deep eutectic solvent (DES)-based ultrasound-assisted extraction (UAE) for utilizing maca (Lepidium meyenii) leaves, an agricultural by-product, as functional materials. The extraction parameters influencing the recovery of saponins and polyphenols, which are major bioactive compounds, were analyzed using the Taguchi method. Results: Signal-to-noise ratios and analysis of variance indicated that the liquid-solid ratio was the most critical factor for optimizing the extraction process. The optimal extraction conditions were determined to be a liquid-solid ratio of 40 mL/g, a water content in DES of 30%, an extraction time of 30 min, and an ultrasonic power of 300 W in the DES system consisting of choline chloride and glycerin in the molar ratio of 1:2. Maca leaf extract obtained under optimized DES-based UAE conditions exhibited higher bioactive compounds content and antioxidant activity compared with that obtained by hot water extraction. Therefore, the DES-based UAE method is a promising, eco-friendly alternative for extracting bioactive compounds from maca leaves.",
+  "publication_date": "2025-04-06",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30071635",
+  "entities": {
+    "POLYPHENOL": [
+      "a promising, eco-friendly alternative",
+      "deep eutectic solvent",
+      "polyphenols",
+      "the recovery"
+    ]
+  }
+}

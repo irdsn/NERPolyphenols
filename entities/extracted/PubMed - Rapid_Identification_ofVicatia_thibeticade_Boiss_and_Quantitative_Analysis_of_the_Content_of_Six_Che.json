@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Rapid Identification ofVicatia thibeticade Boiss and Quantitative Analysis of the Content of Six Chemical Components Based on Near-Infrared Spectroscopy.",
+  "abstract": "This study developed a rapid, non-destructive method combining near-infrared (NIR) spectroscopy with chemometric techniques (OPLS-DA, ANN, and PLS) to accurately identify the geographic origin and quantify six key chemical components ofV. thibeticarhizomes. The results demonstrated that the combination of NIR spectroscopy, OPLS-DA, and ANN successfully and accurately distinguishedV. thibeticafrom three distinct origins. Additionally, combining partial least squares (PLS) and NIR spectroscopy, the contents of chlorogenic acid, isochlorogenic acid A, isochlorogenic acid C, umbelliferone (7-hydroxycoumarin), senkyunolide I, and ligustilide measured by HPLC-UV were used as reference values to predict the contents of the six chemical components inV. thibetica, and spectral preprocessing methods optimized the model. The correlation coefficients of the final quantitative model for the contents of the six components inV. thibeticawere between 0.7852 and 0.9538, the root mean square error of calibration (RMSEC) was between 0.0027 and 0.2530, and the root mean square error of prediction (RMSEP) was between 0.0031 and 0.4240. The results suggest that NIR spectroscopy combined with OPLS-DA and ANN can be used as a rapid and accurate method to evaluate the quality ofV. thibeticaherbs.",
+  "publication_date": "2025-04-22",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30091867",
+  "entities": {
+    "POLYPHENOL": [
+      "chemometric techniques",
+      "chlorogenic acid",
+      "isochlorogenic acid a, isochlorogenic acid c",
+      "nir spectroscopy",
+      "rmsec",
+      "spectral preprocessing methods"
+    ]
+  }
+}

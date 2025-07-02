@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Chromatographic profiling of morin fromin vitroraised mulberry leaves (Morus albaL. var.ichinose) treated with ethyl methane sulphonate (EMS) and sodium azide (NaN3).",
+  "abstract": "Mulberry (Morusspp.) foliage constitutes the chief food for the silkworm,Bombyx moriL. and thus has importance in silk industry. In Mulberry leaf, morin is one of the principal constituents present. The current study was undertaken to optimise an analytical RP-HPLC method for the separation and quantification of morin from mulberry leaf treated with ethyl methane sulphonate and sodium azide. The mobile phase water and methanol (80:20), flow rate of 0.9\u2009ml/min and the column temperature of 30\u2009\u00b0C were found to be ideal conditions based on resolution and symmetry. The linearity of our calibration curves was excellent, with a correlation coefficient of 0.99 over a range of 0.05 to 80\u2009\u03bcg/mL. LOD and LOQ values for morin were 0.3\u2009\u00b5g/ml and 0.5\u2009\u00b5g/ml respectively. Recovery values of 98.21-100.85% confirmed that the method was accurate for morin analysis. The amount of morin content in the current study has been considerably raised by lower dosages of both mutagens (EMS and NaN3). The mutant chosen at 0.03% EMS had a much higher concentration of morin than all other samples examined.",
+  "publication_date": "2025-06-16",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2513041",
+  "entities": {
+    "POLYPHENOL": [
+      "morin",
+      "morin analysis",
+      "morin content",
+      "recovery values"
+    ],
+    "FOOD": [
+      "lower dosages"
+    ]
+  }
+}

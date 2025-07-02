@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Effects of milling degree on proximate composition, functional components and antioxidant capacity of foxtail millet.",
+  "abstract": "The effects of milling degree on proximate compositions, phytic acid (PA),\u03b3-aminobutyric acid (GABA), phenolics and antioxidant capacity of foxtail millet, as well as color characteristics, were investigated. As milling degree increased, the percentage of total starch content increased continuously, while the total protein, crude fat, total carotenoid and PA contents of foxtail millets increased firstly and then decreased. For the whole milling process, the total ash and GABA contents, total phenolic content (TPC) and total flavonoid content (TFC) of foxtail millet decreased with varying degree. The identified 32 individual phenolic compounds were significantly reduced, among which 7 phenolic compositions were undetectable. The antioxidant capacity of foxtail millets also demonstrated a discernible decline. Correlation analysis showed significant positive correlations between b* value and TCC, L* value and starch, TPC and antioxidant capacity. It should be advocated to decrease milling degree for retaining more nutrients and functional components of foxtail millet.",
+  "publication_date": "2025-04-04",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102438",
+  "entities": {
+    "POLYPHENOL": [
+      "a discernible decline",
+      "the effects",
+      "the identified 32 individual phenolic compounds",
+      "total flavonoid content"
+    ]
+  }
+}

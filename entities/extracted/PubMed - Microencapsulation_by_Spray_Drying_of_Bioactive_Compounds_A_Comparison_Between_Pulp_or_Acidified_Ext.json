@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Microencapsulation by Spray Drying of Bioactive Compounds: A Comparison Between Pulp or Acidified Extract of Jussara Fruit (Euterpe edulisMartius).",
+  "abstract": "The present study aims to evaluate the best way to use the fruit of the Jussara Palm (Euterpe edulisMartius), whether as pulp or acidified extract, in microencapsulation by spray drying, to develop a natural dye with attractive, stable color characteristics, and high anthocyanin content. The anthocyanins were extracted using a hydroalcoholic solution (70%) acidified with citric acid, and the microcapsules were produced in a proportion of in a 1:3 ratio (pulp/extract: agent), using maltodextrin and gum arabic as encapsulating agents. The microcapsule samples showed high values of encapsulation efficiency and retention of total anthocyanins, with the pulp showing higher levels of bioactive compounds compared to the extract. Regarding characterization, the microcapsules obtained from pulp showed better results for total anthocyanins (77.5 mg cyanidin-3-O-glucoside/100 g), phenolic compounds (492.48 mg EAG/100 g) and antioxidant activity (85.82%). The best color stability, with storage at room temperature, was also observed in microcapsules obtained from Jussara pulp (\u0394E 6.25). Thus, the pulp presents better technological characteristics for microcapsule preparation by spray drying, with potential application as a natural dye in food matrices.",
+  "publication_date": "2025-04-25",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14091295",
+  "entities": {
+    "POLYPHENOL": [
+      "77.5 mg cyanidin-3-o-glucoside/100 g",
+      "better technological characteristics",
+      "phenolic compounds"
+    ]
+  }
+}

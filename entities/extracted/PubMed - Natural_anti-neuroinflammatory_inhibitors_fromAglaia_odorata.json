@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Natural anti-neuroinflammatory inhibitors fromAglaia odorata.",
+  "abstract": "Eleven compounds were isolated from then-butanol extract ofAglaia odorataLour, including one undescribed lignan, curlignan-4-O-\u03b2-D-glucopyranoside (1), and ten known compounds (2-11). Their structures were characterized by comprehensive spectral analysis, nuclear magnetic resonance (1D and 2D NMR), mass spectrometry (MS), and electronic circular dichroism (ECD). The inhibitory effects of these compounds on nitric oxide (NO) production in lipopolysaccharide (LPS) stimulated BV-2 microglia were evaluated. The experimental results indicated that the anti-neuroinflammatory activities of compounds1, 3, 4, 6, 7, 9and10were significantly better than those of the positive control minocycline (IC50= 41.34\u2009\u00b1\u20093.55\u2009\u03bcM), with IC50values ranging from 1.31 to 15.70\u2009\u03bcM.",
+  "publication_date": "2025-04-21",
+  "journal": "Journal of Asian natural products research",
+  "doi": "10.1080/10286020.2025.2492355",
+  "entities": {
+    "POLYPHENOL": [
+      "comprehensive spectral analysis",
+      "ecd",
+      "electronic circular dichroism",
+      "mass spectrometry",
+      "the inhibitory effects"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Polyphenolic Profile and Antioxidant Activity of Green Extracts from Grape Pomace Skins and Seeds of Italian Cultivars.",
+  "abstract": "The possibility of industrial exploitation of winemaking products, as for all byproducts of vegetal origin, constantly deals with a raw material (grape pomace, GP) whose chemical composition and functional properties vary over time depending on the varietal and geographical origin of the grapes, the climatic conditions (vintage effect), and the winemaking technique. This work studied the compositional variability of polyphenolic skin and seed extracts from GP derived from white and red winemaking of different Italian grape varieties. The total polyphenolic content (GAE), the main classes of polyphenolic compounds, and the DPPH index were determined. Seed extracts were always richer in total polyphenols and condensed tannins and had higher antiradical activity (DPPH) than skin extracts: 144-298 mg GAE/g d.w. extract for skins and 327-540 mg GAE/g for seeds; the DPPH values were 1.77-3.40 mg AAE/g for skins and 3.10-10.48 mg AAE/g for seeds. Furthermore, it was verified that the evaluation of the GAE index of seed extracts, offering a good estimate of the antiradical properties (DPPH index), could represent a simple and rapid method for selecting the best lots of seeds to be used. Conversely, GP skins could be used as flour in the food industry due to their high content of dietary fiber and the presence of flavonols, which possess very interesting functional properties. Important differences in the flavonols profile were observed both between cultivars and between unfermented and fermented pomace.",
+  "publication_date": "2023-10-23",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods12203880",
+  "entities": {
+    "FOOD": [
+      "different italian grape varieties",
+      "grape pomace",
+      "the grapes",
+      "white and red winemaking",
+      "winemaking products"
+    ],
+    "POLYPHENOL": [
+      "polyphenolic compounds",
+      "polyphenolic skin",
+      "the total polyphenolic content",
+      "the winemaking technique",
+      "total polyphenols",
+      "vintage effect"
+    ]
+  }
+}

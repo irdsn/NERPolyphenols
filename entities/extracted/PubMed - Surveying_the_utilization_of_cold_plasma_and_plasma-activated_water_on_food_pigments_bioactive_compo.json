@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Surveying the utilization of cold plasma and plasma-activated water on food pigments, bioactive compounds, enzymes, vitamins, fatty acid, and essential oils: Considerations, mechanisms, and future trends.",
+  "abstract": "Cold plasma (CP) technology has emerged as a novel, non-thermal, and eco-friendly method for enhancing food processing while reducing nutrient loss and degradation compared to traditional methods. This review collates the latest information on the effects of cold plasma's reactive species on food constituents, including bioactive compounds, pigments (chlorophyll, betalain, carotenoids, anthocyanins), enzymes, vitamins, fatty acid profiles, and essential oils. It also explores the mechanisms and functional properties of various cold plasma types (dielectric barrier discharge, jet plasma) and plasma-activated water, highlighting key factors like time, voltage, frequency, and gas to enhance the technology's efficiency. Even so, a thorough insight into the impact of cold plasma on food constituents and the underlying interaction mechanisms remains essential. Understanding the limitations of cold plasma treatment is crucial for advancing the recognition and acceptance of this modern technology.",
+  "publication_date": "2025-05-11",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102509",
+  "entities": {
+    "POLYPHENOL": [
+      "cold plasma (cp) technology",
+      "cold plasma's reactive species",
+      "dielectric barrier discharge",
+      "eco-friendly method",
+      "the effects",
+      "the mechanisms",
+      "the recognition",
+      "the technology's efficiency",
+      "the underlying interaction mechanisms",
+      "this modern technology"
+    ]
+  }
+}

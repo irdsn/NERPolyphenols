@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Harnessing Antioxidant Properties of Plant-Derived Bioactive Compounds to Alleviate Atopic Dermatitis Symptoms: A Review.",
+  "abstract": "Atopic dermatitis (AD) is a common chronic inflammatory skin disorder affecting both children and adults, characterized by intense itching, erythema, and xerosis. The pathogenesis of AD is multifactorial, involving genetic predisposition, immune dysregulation, skin barrier dysfunction, and environmental factors. A growing body of evidence suggests that oxidative stress plays a critical role in AD, contributing to chronic inflammation, immune cell activation, and skin barrier disruption. Oxidative stress arises from an imbalance between Reactive Oxygen Species (ROS) production and antioxidant defenses, leading to cellular damage and the exacerbation of AD symptoms. Recent research has highlighted the potential of plant-derived bioactive compounds, particularly those with antioxidant properties, to mitigate oxidative stress and provide therapeutic benefits in AD. These compounds, including quercetin, resveratrol, curcumin, silymarin, baicalin, luteolin, and epigallocatechin gallate, not only neutralize ROS but also exhibit anti-inflammatory, immunomodulatory, and skin barrier-restoring effects. Natural antioxidants from plants offer a safer alternative to conventional treatments, which may have long-term side effects. This review provides a comprehensive overview of the mechanisms by which oxidative stress contributes to AD and examines the potential of plant-derived antioxidants in alleviating AD symptoms. The growing interest in these compounds underscores the need for further research to harness their full therapeutic potential in AD management.",
+  "publication_date": "2025-06-25",
+  "journal": "Current pharmaceutical design",
+  "doi": "10.2174/0113816128368673250611114044",
+  "entities": {
+    "SYMPTOM": [
+      "chronic inflammation",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "curcumin",
+      "epigallocatechin gallate",
+      "inflammatory, immunomodulatory, and skin barrier-restoring effects",
+      "long-term side effects",
+      "luteolin",
+      "recent research",
+      "resveratrol",
+      "silymarin",
+      "the mechanisms"
+    ]
+  }
+}

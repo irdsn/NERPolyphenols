@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Melatonin Alleviates MBP-Induced Oxidative Stress and Apoptosis in TM3 Cells via the SIRT1/PGC-1\u03b1 Signaling Pathway.",
+  "abstract": "This study investigates the role of melatonin in alleviating the oxidative stress and apoptosis of TM3 Leydig cells induced by 4-methyl-2,4-bis(4-hydroxyphenyl)pent-1-ene (MBP), the primary active metabolite of Bisphenol A, and clarifies its potential mechanisms involving the SIRT1/PGC-1\u03b1 pathway. We found that melatonin effectively mitigated MBP-induced cytotoxicity in TM3 cells (p< 0.05). The testosterone levels and steroid hormone synthesis proteins were significantly restored by melatonin. Furthermore, there was a significant reduction in apoptosis after melatonin treatment both in MBP-treated TM3 cells and Bisphenol A-treated testicular interstitial tissues (p< 0.05), along with a significant decrease in the pro-apoptotic markers Bax and cleaved caspase 3, and a significant increase in the anti-apoptotic Bcl-2 level and the Bcl-2/Bax ratio in TM3 cells (p< 0.05). Additionally, the mitochondrial membrane potential improved significantly, ROS and MDA levels were down-regulated, and ATP production was elevated following melatonin treatment in TM3 cells. Mechanistically, melatonin promoted PGC-1\u03b1 expression and activated the SIRT1 signaling pathway in MBP-treated TM3 cells and Bisphenol A-treated testicular interstitial tissues. This leads to increased expression of NRF2 and its downstream antioxidant genes, mitochondrial respiratory chain complex-related genes, mitochondrial biogenesis genes, and mitochondrial fusion genes while significantly reducing mitochondrial fission genes (p< 0.05). The PGC-1\u03b1 inhibitor SR-18292 reversed these protective effects, confirming the critical role of this pathway. Conclusively, melatonin exerts a protective effect against MBP-induced oxidative stress and apoptosis in TM3 cells through the SIRT1/PGC-1\u03b1 pathway, indicating its potential as a therapeutic agent for improving male reproductive health compromised by environmental toxins.",
+  "publication_date": "2025-06-19",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26125910",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "mbp-induced oxidative stress",
+      "the oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "a protective effect",
+      "a significant decrease",
+      "its potential mechanisms",
+      "these protective effects"
+    ]
+  }
+}

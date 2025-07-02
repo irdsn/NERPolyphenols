@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Dachengqi decoction for the treatment of acute pancreatitis: a comprehensive analysis based on metabolites, pharmacokinetics, and metabolites efficacy mechanisms.",
+  "abstract": "Dachengqi decoction (DCQD) is a traditional Chinese medicine formula consisting of three botanical drugs and one mineral drug. It has anti-inflammatory, gastrointestinal motility, and microcirculation improvement effects. A large number of studies have shown that DCQD has a significant impact on the treatment of acute pancreatitis (AP). However, owing to the multi-component and multi-target characteristics of traditional Chinese medicine, it is difficult for modern scientists to understand the role of DCQD in treating AP. Therefore, We sorted out the literature data related to DCQD published in databases such as Web of Science, PubMed, and CNKI, and summarized the main metabolites of DCQD, including anthraquinones, flavonoids, lignans and other metabolites. The pharmacokinetic characteristics of the main metabolites entering the blood circulation are preliminarily summarized. Combining chemical analysis and network analysis, some metabolites in DCQD, such as emodin, rhein, and luteolin, may play important roles in the treatment of AP, and this review also summarizes the efficacy mechanisms of these metabolites. In brief, we have summarized the treatment of AP with DCQD from the aspects of metabolites, preliminary pharmacokinetic analysis, and efficacy mechanisms, to facilitate further understanding of the material basis of DCQD.",
+  "publication_date": "2025-05-30",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1549909",
+  "entities": {
+    "POLYPHENOL": [
+      "dachengqi decoction",
+      "efficacy mechanisms",
+      "flavonoids",
+      "luteolin",
+      "microcirculation improvement effects",
+      "the aspects",
+      "the efficacy mechanisms"
+    ]
+  }
+}

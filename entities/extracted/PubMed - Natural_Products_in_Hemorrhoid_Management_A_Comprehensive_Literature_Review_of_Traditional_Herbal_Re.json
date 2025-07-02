@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Natural Products in Hemorrhoid Management: A Comprehensive Literature Review of Traditional Herbal Remedies and Evidence-Based Therapies.",
+  "abstract": "Hemorrhoids are an anorectal problem that is prevalent and commonly managed with corticosteroids, analgesics, and phlebotonics. These conventional treatments are, however, only temporary in serving relief and come with adverse side effects when used long-term. Alternative herbal remedies, created from traditional medicine with all the evidence of their pharmacological action, promise good results. The effectiveness of various botanicals with the potential of being anti-inflammatory, venotonic, astringent, antioxidant, and wound healing in alleviating hemorrhoidal symptoms is discussed in this review. Therapeutically notable plants such as witch hazel (Hamamelis virginiana), horse chestnut (Aesculus hippocastanum), and triphala have shown beneficial therapeutic effects on pain, bleeding, and swelling, as well as preventing recurrence. Moreover, Triphala Guggulu and Pilex are polyherbal formulations that offer synergistic benefits in addition to foods rich in polyphenols and the dietary compound, rutin. These promising findings have so far faced challenges related to the standardization, quality control, and clinical validation. The incorporation of these herbal therapies into clinical practice is a well-tolerated holistic approach to the management of hemorrhoids, which requires further investigation to gain evidence-based validation.",
+  "publication_date": "2025-05-03",
+  "journal": "Cureus",
+  "doi": "10.7759/cureus.83397",
+  "entities": {
+    "POLYPHENOL": [
+      "adverse side effects",
+      "an anorectal problem",
+      "beneficial therapeutic effects",
+      "polyphenols",
+      "recurrence",
+      "the effectiveness"
+    ],
+    "SYMPTOM": [
+      "pain"
+    ]
+  }
+}

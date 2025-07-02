@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Computational Insights into the Radical Scavenging Activity and Xanthine Oxidase Inhibition of the Five Anthocyanins Derived from Grape Skin.",
+  "abstract": "Anthocyanins, typical polyphenol compounds in grape skin, have attracted increasing interest due to their health-promoting properties. In this body of work, five representative anthocyanins (Cy-3-O-glc, Dp-3-O-glc, Pn-3-O-glc, Mv-3-O-glc, and Pt-3-O-glc) were studied using the density functional theory (DFT) to elucidate structure-radical scavenging activity in the relationship and the reaction path underlying the radical-trapping process. Based on thermodynamic parameters involved in HAT, SET-PT, and SPLET mechanisms, along with the structural attributes, it was found that the C4' hydroxyl group mainly contributes to the radical scavenging activities of the investigated compounds. Pt-3-O-glc exhibits a good antioxidant capacity among the five compounds. The preferred radical scavenging mechanisms vary in different phases. For the Pt-3-O-glc compound, the calculations indicate the thermodynamically favoured product is benzodioxole, rather thano-quinone, displaying considerably reduced energy in double HAT mechanisms. Additionally, the thermodynamic and kinetic calculations indicate that the reaction of•OH into the 4'-OH site of Pt-3-O-glc has a lower energy barrier (7.6 kcal/mol), a higher rate constant (5.72 × 109M-1s-1), and exhibits potent•OH radical scavenging properties. Molecular docking results have shown the strong affinity of the studied anthocyanins with the pro-oxidant enzyme xanthine oxidase, displaying their significant role in inhibiting ROS formation.",
+  "publication_date": "2024-09-15",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox13091117"
+}

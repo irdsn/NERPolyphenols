@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "LncRNAs co-expressed with targeted genes to regulate sugarcane response to Sporisorium scitamineum infection.",
+  "abstract": "A detailed regulatory network of LncRNAs and their co-expressed genes were constructed to identify key LncRNAs involved in sugarcane resistant to Sporisorium scitamineum infection. Long non-coding RNAs (LncRNAs) are implicated in a wide array of biological processes, including the regulation of plant immunity. However, the specific roles of LncRNAs during sugarcane interaction with Sporisorium scitamineum remain poorly characterized. Herein, we provided an in-depth analysis of LncRNA expression profiles in sugarcane under S. scitamineum stress. A total of 13,861 LncRNAs were identified in sugarcane post S. scitamineum infection. Weighted gene co-expression network analysis (WGCNA) and cis-target dissection identified 311 LncRNAs exhibiting significant co-expression relationships with 250 genes. Additionally, network analysis revealed that 531 LncRNAs interacted with 365 core transcription factors (TFs). GO and KEGG pathway enrichment indicated that differentially expressed genes (DEGs) regulated by LncRNA were primarily involved in flavonoid-flavanone biosynthesis, secondary metabolism, and plant hormone signaling, suggesting that LncRNAs play a pivotal role in regulating antioxidant responses, growth, development, and stress response. Furthermore, this study also identified 29 core TFs potentially regulated by LncRNAs that respond to smut pathogen infection in sugarcane. Overall, we constructed a detailed regulatory network of LncRNAs and their co-expressed genes in sugarcane activated by smut pathogen infection. These findings provide valuable insights for future investigations into the molecular functions of LncRNAs and genes relevant to sugarcane smut resistance breeding.",
+  "publication_date": "2025-06-28",
+  "journal": "Plant cell reports",
+  "doi": "10.1007/s00299-025-03555-1",
+  "entities": {
+    "POLYPHENOL": [
+      "cis-target dissection",
+      "flavonoid-flavanone biosynthesis",
+      "secondary metabolism",
+      "smut pathogen infection",
+      "sporisorium scitamineum infection",
+      "sugarcane post s. scitamineum infection",
+      "the molecular functions",
+      "the specific roles"
+    ],
+    "SYMPTOM": [
+      "s. scitamineum stress",
+      "stress response"
+    ]
+  }
+}

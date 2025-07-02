@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "In Vitro Antioxidant, Antithrombotic and Anti-Inflammatory Activities of Bioactive Metabolites Extracted from Kiwi and Its By-Products.",
+  "abstract": "Background/Objectives:Growing interest in natural, health-promoting ingredients for functional foods, nutraceuticals, and cosmetics has increased the demand for bioactive compounds from kiwi (Actinidia deliciosa). This study aimed to assess the antioxidant, anti-inflammatory, and antithrombotic properties of amphiphilic bioactives extracted from kiwi fruit and its by-products, including peel, seeds, and pulp.Methods:Bioactive compounds were extracted and analyzed using liquid chromatography-mass spectrometry (LC-MS) and attenuated total reflectance-Fourier transform infrared (ATR-FTIR) spectroscopy. Antioxidant activity was evaluated using DPPH and ABTS radical scavenging assays. Anti-inflammatory and antithrombotic effects were assessed through inhibition of platelet aggregation induced by platelet-activating factor (PAF) and adenosine diphosphate (ADP) in human platelets.Results:All extracts showed significant antioxidant activity. FTIR and LC-MS analyses confirmed the presence of phenolics, flavonoids, carotenoids, and polar lipids. Kiwi peel extract exhibited the strongest inhibition of PAF- and ADP-induced platelet aggregation, attributed to its higher content of phenolics and unsaturated polar lipids. LC-MS data indicated a favorable fatty acid profile with high omega-9 levels and a low omega-6/omega-3 ratio. Polar lipid structural analysis revealed a predominance of phospholipids with unsaturated fatty acids at the sn-2 position.Conclusions:Kiwi by-products are valuable sources of health-promoting bioactives with antioxidant and anti-inflammatory potential. These findings support their incorporation into nutraceutical, nutricosmetic, and cosmeceutical products and lay the groundwork for further studies on safety, efficacy, and practical application.",
+  "publication_date": "2025-06-13",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo15060400",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory and antithrombotic effects",
+      "background/objectives",
+      "flavonoids",
+      "liquid chromatography-mass spectrometry",
+      "nutraceutical, nutricosmetic, and cosmeceutical products",
+      "total reflectance-fourier transform infrared (atr-ftir) spectroscopy"
+    ],
+    "FOOD": [
+      "a low omega-6/omega-3 ratio",
+      "functional foods",
+      "kiwi",
+      "kiwi fruit",
+      "kiwi peel extract"
+    ]
+  }
+}

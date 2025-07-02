@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "CRISPR/Cas9-mediated efficient PlCYP81Q38 mutagenesis in Phryma leptostachya.",
+  "abstract": "Combined with hairy root transformation, the CRISPR/Cas9 system was established to initiate targeted mutagenesis of PlCYP81Q38, which influenced lignan accumulation in Phryma leptostachya. Phryma leptostachya is a traditional Chinese medicinal herb renowned for its applications in both conventional medicine and natural botanical insecticides, with lignans as the main active ingredients. During the biosynthesis of lignans, PlCYP81Q38, a P450 protein, is assumed to play a crucial role and is accountable for the production of sesamin from (+)-pinoresinol. As a cutting-edge genome editing tool, the CRISPR/Cas9 system is widely employed across diverse species for gene functional research but yet to be harnessed in P. leptostachya. This study utilized the CRISPR/Cas9 system in conjunction with hairy root transformation to initiate targeted mutagenesis in PlCYP81Q38 gene. Employing binary vectors, pYLCRISPR/Cas9Pubi-H, complemented by dual single-stranded guided RNAs (sgRNAs), enabled precise editing at two gene sites and the deletion of large fragments. This editing system resulted in mutagenesis rates surpassing 79%, achieving a notable rate of 61.9% fragment deletion mutants. Liquid chromatography/tandem mass spectrometry confirmed the impact on lignan biosynthesis by PlCYP81Q38-targeted mutagenesis, resulting in the accumulation of pinoresinol and disrupted production of sesamin, 6-demethoxy-leptostachyol acetate, and leptostachyol acetate. Furthermore, the knockout of PlCYP81Q38 up-regulated its upstream pathway genes, such as dirigent gene, cinnamoyl-CoA reductase genes, cinnamyl-alcohol dehydrogenase genes, and p-coumarate 3-hydroxylase genes, identified through gene co-expression analysis. Collectively, mediated by the CRISPR/Cas9 platform, the new biotechnology for targeted genome editing within P. leptostachya, our findings affirm the significant roles of PlCYP81Q38 in the lignan biosynthesis pathway and highlight the potential of CRISPR/Cas9 in exploring the functional genome and secondary metabolite biosynthesis of this plant species.",
+  "publication_date": "2025-03-03",
+  "journal": "Planta",
+  "doi": "10.1007/s00425-025-04657-6",
+  "entities": {
+    "POLYPHENOL": [
+      ")-pinoresinol",
+      "binary vectors",
+      "diverse species",
+      "liquid chromatography/tandem mass spectrometry",
+      "natural botanical insecticides",
+      "pinoresinol",
+      "precise editing",
+      "the functional genome and secondary metabolite biosynthesis",
+      "the new biotechnology",
+      "this plant species"
+    ]
+  }
+}

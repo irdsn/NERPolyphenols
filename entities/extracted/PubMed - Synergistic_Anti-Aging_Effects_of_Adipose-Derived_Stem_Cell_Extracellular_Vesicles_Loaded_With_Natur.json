@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Synergistic Anti-Aging Effects of Adipose-Derived Stem Cell Extracellular Vesicles Loaded With Natural Compounds.",
+  "abstract": "Small extracellular vesicles from adipose-derived stem cells (ASC-sEVs) are gaining attentions rapidly for inherent therapeutic values in skin care and cosmetics. However, the optimal combinations of ASC-sEVs and certain natural compounds for synergistic anti-aging effects have not been systematically studied.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of cosmetic dermatology",
+  "doi": "10.1111/jocd.70021",
+  "entities": {
+    "POLYPHENOL": [
+      "synergistic anti-aging effects"
+    ]
+  }
+}

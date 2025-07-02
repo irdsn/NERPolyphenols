@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Catechins anti-diabetic actions are mediated via multiple receptors, a mechanism deduced via molecular docking and dynamic simulations.",
+  "abstract": "Diabetes mellitus is a growing burden that affects a large proportion of the population worldwide, with long-term complications that cause a devastating effect on the function of various organs. The currently available treatments lack optimum therapeutic goals, increasing the need for new drug discovery. Catechins are natural flavonoids that demonstrate anti-diabetic effects; however, catechin's mechanism of action remains unclear. This study was aimed to unleash the molecular mechanism behind the catechin's effect on blood glucose levels. For that, we explored the capability of some catechins to bind and interact with glucagon-like peptide-1 receptor-1, pancreatic ATP-sensitive potassium channel, dipeptidyl peptidase-4, and sodium-glucose transporter-2, which is essential for euglycemia, using molecular docking screening and dynamic simulations. The results showed that all the tested catechins are potential sodium-glucose transporter-2 inhibitors, a mechanism revealed for the first time, and glucagon-like peptide-1 receptor-1 agonists with various affinities to these receptors. Moreover, among these compounds, (-)-Epigallocatechin 3-O-gallate, (-)-Gallocatechin 3-O-gallate demonstrated the ability to act as an ATP-sensitive potassium channel inhibitor, and dipeptidyl peptidase-4 inhibitor in addition to the previously mentioned mechanisms. The discovery introduces (-)-gallocatechin 3-O-gallate and (-)-Epigallocatechin 3-O-gallate as a hot subject for research, as the compounds require further optimization to initiate further pre-clinical and clinical studies.",
+  "publication_date": "2025-05-06",
+  "journal": "Journal of biomolecular structure & dynamics",
+  "doi": "10.1080/07391102.2025.2499671"
+}

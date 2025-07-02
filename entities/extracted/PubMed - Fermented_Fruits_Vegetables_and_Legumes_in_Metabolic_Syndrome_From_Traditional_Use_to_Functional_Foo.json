@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Fermented Fruits, Vegetables, and Legumes in Metabolic Syndrome: From Traditional Use to Functional Foods and Medical Applications.",
+  "abstract": "Fermentation has been used for centuries to preserve food and to obtain products with new, attractive sensory characteristics. Fermented products are a source of dietary fiber, vitamins, bioactive compounds, and probiotic bacteria with health-promoting properties. This review provides a comprehensive overview of the effects of fermented fruits, vegetables, and legumes on metabolic disturbances characterizing metabolic syndrome (MetS). Furthermore, the chemical composition, microbial communities, and molecular mechanisms of action of fermented plant foods are discussed. Fermented fruits and vegetables, including table olives, caper fruits, and kimchi, contain polyphenols and probiotic bacteria, which are beneficial in terms of obesity and impaired glucose and lipid metabolism. Fermented legumes are a valuable source of bioactive peptides and isoflavone aglycones. Among fermented soybean products, natto stands out due to the presence of\u03b3-polyglutamic acid, which improves glucose tolerance and the lipid profile, and nattokinase, an enzyme that acts as an angiotensin-converting enzyme inhibitor. Potential future studies focused on developing functional fermented foods and easy-to-use supplements based on fermented plant products are suggested.",
+  "publication_date": "2025-06-12",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17121989",
+  "entities": {
+    "POLYPHENOL": [
+      "molecular mechanisms",
+      "polyphenols",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "obesity"
+    ],
+    "FOOD": [
+      "fermented soybean products",
+      "functional fermented foods"
+    ]
+  }
+}

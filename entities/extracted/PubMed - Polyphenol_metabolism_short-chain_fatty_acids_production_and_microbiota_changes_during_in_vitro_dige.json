@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Polyphenol metabolism, short-chain fatty acids production, and microbiota changes during in vitro digestion and fermentation of Chilean beans (Phaseolus vulgaris L.).",
+  "abstract": "This study examines the effects of three Chilean boiled bean (Phaseolus vulgaris L.) landraces 'Negro', 'Peumo', and 'T\u00f3rtola' and their polyphenol-enriched extracts (PEE) on polyphenol release, gut microbiota, and short-chain fatty acid (SCFA) production after simulated digestion and colonic fermentation. Negro beans exhibited greater phenolic acid diversity post-digestion, while catechin bio accessibility increased in all landraces. PEE showed significant transformation, with oligomers degrading into flavan-3-ol monomers during digestion. Colonic fermentation of boiled beans produced SCFAs, confirming their prebiotic potential. Negro beans promoted beneficial bacteria, including Catenibacterium, Lachnospira, and Bifidobacterium, associated with fiber and polyphenol metabolism, while T\u00f3rtola beans favored Roseburia, an SCFA producer. These findings highlight the potential of Chilean beans and their bioactive compounds to enhance gut health.",
+  "publication_date": "2025-05-06",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144669",
+  "entities": {
+    "POLYPHENOL": [
+      "catechin bio accessibility",
+      "fiber and polyphenol metabolism",
+      "polyphenol release",
+      "the effects"
+    ],
+    "FOOD": [
+      "boiled beans",
+      "chilean beans",
+      "negro beans",
+      "t\u00f3rtola beans"
+    ]
+  }
+}

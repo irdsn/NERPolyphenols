@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Chitosan-based films enriched with anthocyanin compounds for potential use as food packaging.",
+  "abstract": "The increasing environmental concerns associated with synthetic plastic waste have intensified the demand for sustainable alternatives in food packaging. This study aimed to develop and characterize chitosan-based films and films containing microparticles of anthocyanin-rich extract (CFA). Chitin was extracted and converted into chitosan, while anthocyanin-rich extracts were obtained from grape skins. Film-forming emulsions were produced and characterized for particle size, zeta potential and polydispersity index. The resulting films were molded by casting and analyzed for thickness, mechanical, thermal, structural, morphological properties, color and antioxidant activity over 30\u00a0days. The particle size decreased with the increase in extract concentration from 3\u00a0%. The zeta potential remained above +30\u00a0mV, while the PDI was below 0.40 for all formulations. CFA showed increased thickness, tensile strength, elongation at break and water vapor permeability. The color parameters were consistent with chitosan films containing anthocyanins extract. FTIR analysis indicated intermolecular interactions. Thermal analyses showed greater stability for films with higher extract concentrations. SEM showed more irregular surfaces in CFA, and maximum antioxidant activity was around 15\u00a0days, suggesting a gradual release of phenolic compounds from the microparticles. Thus, enriching chitosan films with anthocyanins extracted from grape skins is a promising approach to improving their properties.",
+  "publication_date": "2025-06-02",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144867",
+  "entities": {
+    "SYMPTOM": [
+      "food packaging"
+    ],
+    "FOOD": [
+      "grape skins"
+    ],
+    "POLYPHENOL": [
+      "intermolecular interactions",
+      "mechanical, thermal, structural, morphological properties",
+      "phenolic compounds"
+    ]
+  }
+}

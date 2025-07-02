@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Heterologous expression of PsnCHS7 gene in Populus davidiana\u2005\u00d7\u2005P. bolleana to improve resistance of Lymantria dispar.",
+  "abstract": "Flavonoids are essential for combating stress and diseases. Chalcone synthase (CHS) plays a crucial role in the production of flavonoids associated with insect resistance in plants. To gain insight into the function of the CHS gene in plant defense, the PsnCHS7 of Populus simonii\u2005\u00d7\u2005P. nigra was heterologously expressed in Populus davidiana\u2005\u00d7\u2005P. bolleana through Agrobacterium-mediated transformation and 3 transgenic poplar lines were obtained. The quercetin content of transgenic poplar plants was significantly increased compared with that of wild type. The chalcone synthase activity was significantly induced in the 3 transgenic poplar lines compared with that of wild type after feeding by Lymantria dispar larvae. The bioassay further revealed that L. dispar larvae fed on transgenic poplar plants with tardy growth, and the activities of cytochrome P450, glutathione S-transferase, and carboxylesterase were significantly increased and were significantly higher than those of wild type. The results showed that PsnCHS7 played a role in the process of insect-resistant defense of Populus davidiana\u2005\u00d7\u2005P. bolleana, thus provided a theoretical foundation for the cultivation of insect-resistant forests.",
+  "publication_date": "2025-06-19",
+  "journal": "Journal of economic entomology",
+  "doi": "10.1093/jee/toaf104",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "insect resistance",
+      "insect-resistant defense",
+      "insect-resistant forests",
+      "the quercetin content"
+    ],
+    "SYMPTOM": [
+      "stress"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Effects of drying techniques and carriers on polyphenol content, antioxidant capacity, and physical properties of elderberry juice powder.",
+  "abstract": "This study investigates the influence of various drying techniques (freeze drying, vacuum drying, and spray drying) and carrier types (oligofructose, trehalose, palatinose, inulin, and maltodextrin) on the physicochemical properties of elderberry juice powder. The results reveal that freeze drying maintains the highest total polyphenol content (ranging from 0.63 to 1.19\u00a0g of gallic acid (GA) per 100\u00a0g of dry matter), while spray drying offers practical advantages despite producing lower polyphenol levels. Additionally, the choice of carrier significantly influences the physicochemical properties of the powder, with palatinose yielding results comparable to those obtained through freeze drying. The analysis elucidates the complex relationships between variables, with the two main principal components (PC1 and PC2) explaining 67.21\u00a0% of the total variance of the data. This research provides valuable information for the development of elderberry-derived products with improved health-promoting properties.",
+  "publication_date": "2025-05-09",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144686",
+  "entities": {
+    "POLYPHENOL": [
+      "gallic acid",
+      "lower polyphenol levels",
+      "the highest total polyphenol content",
+      "various drying techniques"
+    ],
+    "FOOD": [
+      "elderberry juice powder"
+    ]
+  }
+}

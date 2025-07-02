@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Using ethanol as postharvest treatment to increase polyphenols and anthocyanins in wine grape.",
+  "abstract": "Red wine grapes are qualitatively evaluated for their content in polyphenols and anthocyanins. Due to certain conditions (weather, latitude, temperature), the concentration of these compounds may be not at the right level for reaching a high-quality wine, thus postharvest technologies can be operated as a remediation strategy. Ethanol is a secondary volatile metabolite and its application has been demonstrated to delay fruit ripening, to reduce decay, and to increase secondary metabolites. The present study investigates the effects of ethanol post-harvest application on wine grapes' metabolism and composition. Red wine grapes (Vitis Vinifera L. cv Aglianico) were exposed to different ethanol doses (0.25, 0.5, or 1\u00a0mL\u00a0L-1) for 12, 24, or 36\u00a0h. Ethanol increased sugar concentration, malic acid, free amino nitrogen, polyphenols, and anthocyanins. Particularly, anthocyanins reached an average value of 1820\u00a0mg/L in treated samples versus the 1200\u00a0mg/L of control grapes already after 12\u00a0h whatever the concentration was. Moreover, the highest concentration of ethanol modified berry metabolism shifting from aerobic to anaerobic one. Obtained results suggest that 12\u00a0h of ethanol postharvest treatment could be an interesting solution to improve anthocyanins in wine grapes, especially when the quality is not as good as expected.",
+  "publication_date": "2024-02-08",
+  "journal": "Heliyon",
+  "doi": "10.1016/j.heliyon.2024.e26067",
+  "entities": {
+    "FOOD": [
+      "a high-quality wine",
+      "control grapes",
+      "red wine grapes",
+      "wine grapes",
+      "wine grapes' metabolism"
+    ],
+    "POLYPHENOL": [
+      "a secondary volatile metabolite",
+      "decay",
+      "polyphenols",
+      "postharvest technologies",
+      "secondary metabolites",
+      "the effects"
+    ]
+  }
+}

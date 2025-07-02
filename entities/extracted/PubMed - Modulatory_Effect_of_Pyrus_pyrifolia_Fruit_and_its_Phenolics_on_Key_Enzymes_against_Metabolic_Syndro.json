@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Modulatory Effect of Pyrus pyrifolia Fruit and its Phenolics on Key Enzymes against Metabolic Syndrome: Bioassay-Guided Approach, HPLC Analysis, and In Silico Study.",
+  "abstract": "This study aims to isolate the active constituents of Pyrus pyrifolia Nakai fruits using a bioassay-guided fractionation approach, test their activity in vitro against key enzymes for metabolic disorders, and support it with molecular docking simulations. The antioxidant potential of the methanolic extract (ME), its polar (PF), and non-polar fractions (NPF), along with the inhibitory activity against \u03b1-glucosidase, \u03b1-amylase, lipase, angiotensin I converting enzyme (ACE), renin, inducible nitric oxide synthase (iNOS), and xanthine oxidase (XO) were assessed. The PF exhibited the highest antioxidant and enzyme inhibitory activity. Purification of PF yielded rutin, isoquercitrin, isorhamnetin-3-O-\u03b2-D-glucoside, chlorogenic acid, quercetin, and cinnamic acid. HPLC-UV analysis of the PF allowed for the quantification of 15 phenolic compounds, including the isolated compounds. Cinnamic acid was the most powerful antioxidant in all assays and potent enzyme inhibitor against the tested enzymes (\u03b1-glucosidase, \u03b1-amylase, lipase, ACE, renin, iNOS, and XO). Additionally, it showed high affinity to target \u03b1-glucosidase and ACE active sites with high docking scores (calculated total binding free energy (\u0394Gbind) -23.11\u00a0kcal/mol and -\u200920.03\u00a0kcal/mol, respectively]. A 20-ns molecular dynamics simulation using MM-GBSA analysis revealed a stable conformation and binding patterns in a stimulating environment of cinnamic acid. Interestingly, the isolated compounds' dynamic investigations including RMSD, RMSF, and Rg demonstrated a stable ligand\u2009-\u2009protein complex to the active site of iNOS with \u0394Gbind ranging from -\u200968.85\u00a0kcal/mol to -13.47\u00a0kcal/mol. These findings support the notion that P. pyrifolia fruit is a functional food with multifactorial therapeutic agents against metabolic syndrome-associated diseases.",
+  "publication_date": "2023-05-23",
+  "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+  "doi": "10.1007/s11130-023-01069-3",
+  "entities": {
+    "POLYPHENOL": [
+      "15 phenolic compounds",
+      "a 20-ns molecular dynamics simulation",
+      "cinnamic acid",
+      "molecular docking simulations",
+      "rutin"
+    ],
+    "FOOD": [
+      "a functional food"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome-associated diseases"
+    ]
+  }
+}

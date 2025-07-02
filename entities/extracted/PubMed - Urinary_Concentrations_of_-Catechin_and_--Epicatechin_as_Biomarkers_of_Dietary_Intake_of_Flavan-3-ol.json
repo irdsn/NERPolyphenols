@@ -1,0 +1,36 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Urinary Concentrations of (+)-Catechin and (-)-Epicatechin as Biomarkers of Dietary Intake of Flavan-3-ols in the European Prospective Investigation into Cancer and Nutrition (EPIC) Study.",
+  "abstract": "This study examines the correlation of acute and habitual dietary intake of flavan-3-ol monomers, proanthocyanidins, theaflavins, and their main food sources with the urinary concentrations of (+)-catechin and (-)-epicatechin in the European Prospective Investigation into Cancer and Nutrition study (EPIC). Participants (N = 419, men and women) provided 24-h urine samples and completed a 24-h dietary recall (24-HDR) on the same day. Acute and habitual dietary data were collected using a standardized 24-HDR software and a validated dietary questionnaire, respectively. Intake of flavan-3-ols was estimated using the Phenol-Explorer database. Concentrations of (+)-catechin and (-)-epicatechin in 24-h urine were analyzed using tandem mass spectrometry after enzymatic deconjugation. Simple and partial Spearman's correlations showed that urinary concentrations of (+)-catechin, (-)-epicatechin and their sum were more strongly correlated with acute than with habitual intake of individual and total monomers (acuterpartial= 0.13-0.54,p< 0.05; and habitualrpartial= 0.14-0.28,p< 0.01), proanthocyanidins (acuterpartial= 0.24-0.49,p< 0.001; and habitualrpartial= 0.10-0.15,p< 0.05), theaflavins (acuterpartial= 0.22-0.31,p< 0.001; and habitualrpartial= 0.20-0.26,p< 0.01), and total flavan-3-ols (acuterpartial= 0.40-0.48,p< 0.001; and habitualrpartial= 0.23-0.33,p< 0.001). Similarly, urinary concentrations of flavan-3-ols were weakly correlated with both acute (rpartial= 0.12-0.30,p< 0.05) and habitual intake (rpartial= 0.10-0.27,p< 0.05) of apple and pear, stone fruits, berries, chocolate and chocolate products, cakes and pastries, tea, herbal tea, wine, red wine, and beer and cider. Moreover, all comparable correlations were stronger for urinary (-)-epicatechin than for (+)-catechin. In conclusion, our data support the use of urinary concentrations of (+)-catechin and (-)-epicatechin, especially as short-term nutritional biomarkers of dietary catechin, epicatechin and total flavan-3-ol monomers.",
+  "publication_date": "2021-11-20",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu13114157",
+  "entities": {
+    "POLYPHENOL": [
+      "(-)-epicatechin",
+      ")-catechin",
+      "+)-catechin",
+      "-)-epicatechin",
+      "a 24-h dietary recall",
+      "dietary catechin",
+      "enzymatic deconjugation",
+      "epicatechin",
+      "habitualrpartial= 0.14-0.28,p< 0.01), proanthocyanidins",
+      "proanthocyanidins",
+      "tandem mass spectrometry",
+      "the european prospective investigation"
+    ],
+    "SYMPTOM": [
+      "cancer and nutrition study"
+    ],
+    "FOOD": [
+      "apple",
+      "chocolate",
+      "herbal tea",
+      "red wine",
+      "simple and partial spearman's correlations",
+      "wine"
+    ]
+  }
+}

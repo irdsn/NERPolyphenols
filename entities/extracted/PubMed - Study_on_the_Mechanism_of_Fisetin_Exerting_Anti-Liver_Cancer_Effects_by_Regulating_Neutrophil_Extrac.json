@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Study on the Mechanism of Fisetin Exerting Anti-Liver Cancer Effects by Regulating Neutrophil Extracellular Traps.",
+  "abstract": "Liver cancer (LC) is among the most prevalent malignant tumors in the digestive tract. The high incidence rate, high metastasis and recurrence rate, poor prognosis, and heterogeneity of liver cancer seriously threaten human health. It is very necessary to search for new drugs and new targets against liver cancer. Natural drugs have been proved to have good anti-tumor effects. Fisetin, a dietary flavonoid often found in fruits and vegetables, has multiple pharmacological functions such as anti-inflammation, anti-oxidation, immune regulation, and anti-tumor. Firstly, we found in\u00a0vitro that fisetin could inhibit the proliferation, migration, and invasion of liver cancer cells. Bioinformatics analysis speculated that its anti-liver cancer mechanism might be related to the formation of neutrophil extracellular traps (NETs). Then, neutrophils were extracted from healthy volunteers, and it was found that fisetin might inhibit the formation of NETs through the AKT/ROS axis. Then, liver cancer cells were cultured in the medium containing NETs. We found that fisetin could weaken the proliferation, migration, and invasion of liver cancer cells induced by NETs. Finally, we found that fisetin could inhibit tumor growth in C57BL/6 mice. Fisetin could inhibit the recruitment of neutrophils and the level of NETs in tumor tissues. In conclusion, we found that fisetin could be used as a new NETs inhibitor and further clarified the anti-liver cancer effect of fisetin.",
+  "publication_date": "2025-06-18",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70309",
+  "entities": {
+    "SYMPTOM": [
+      "liver cancer",
+      "liver cancer cells",
+      "tumor growth"
+    ],
+    "POLYPHENOL": [
+      "a dietary flavonoid",
+      "fisetin",
+      "good anti-tumor effects",
+      "its anti-liver cancer mechanism",
+      "recurrence",
+      "that fisetin",
+      "the anti-liver cancer effect",
+      "the recruitment"
+    ]
+  }
+}

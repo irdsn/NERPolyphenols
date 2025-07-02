@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Engineering of Corynebacterium glutamicum for the synthesis of aromatic compounds.",
+  "abstract": "A significant proportion of industrially important small molecules are aromatic, and the majority of these compounds are produced chemically, relying heavily on fossil resources. In bacteria and plants, the shikimate pathway and related biosynthetic routes serve as the primary sources of aromatic compounds. Microbial cell factories, which are poised to play a central role in the emerging bio-based economy, provide a sustainable alternative for producing commercially valuable aromatics from renewable resources. Corynebacterium glutamicum, already established as an industrial workhorse for the large-scale production of various amino acids, can be engineered to overproduce aromatic compounds derived from the shikimate pathway. Furthermore, the functional integration of heterologous or synthetic pathways enables access to high-value natural products, such as plant polyphenols and other polyketides. This review highlights recent advancements in the metabolic engineering of C. glutamicum for the sustainable production of these aromatic compounds. KEY POINTS: \u2022\u00a0C. glutamicum's high tolerance to aromatic compounds is key to aromatics production. \u2022\u00a0Detailed physiological insights enable access to shikimate pathway-derived products. \u2022\u00a0Diverse plant (poly)phenols and other aromatic polyketides can be produced.",
+  "publication_date": "2025-05-30",
+  "journal": "Applied microbiology and biotechnology",
+  "doi": "10.1007/s00253-025-13520-3",
+  "entities": {
+    "POLYPHENOL": [
+      "industrially important small molecules",
+      "plant polyphenols",
+      "recent advancements",
+      "the emerging bio-based economy"
+    ]
+  }
+}

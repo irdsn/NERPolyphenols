@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Effects of methoxy groups and carbon-carbon double bonds in phenolic acids on the physicochemical characteristics and digestibility of cassava starch.",
+  "abstract": "This study investigates the influence of weakly polar methoxy groups and nonpolar carbon-carbon double bonds in phenolic acids (PAs) on the physicochemical characteristics and digestibility of cassava starch (CS) using vanillic acid (VA), syringic acid (SA), ferulic acid (FA), and sinapic acid (EA). Both methoxy groups and carbon-carbon double bonds are shown to modify molecular phase distributions, reduce the energy gap (\u0394E), and increase electron localization. These changes enhance the overall hydrophobicity and activity of PAs, thereby enhancing their ability to bind with starch and form hydrogen bonds. Additionally, methoxy groups and carbon\u2011carbon double bonds can enhance the crystallinity of the complex, reduce gelatinization viscosity, improve thermal stability, and reduce digestibility. Notably, EA, with the most methoxy groups and carbon-carbon double bonds, exhibits the lowest \u0394E (3.9105\u00a0eV), the highest resistant starch content (47.79\u00a0\u00b1\u00a00.60\u00a0%), and the most significant reduction in glycemic-index (GI) (71.52\u00a0\u00b1\u00a00.54\u00a0%). Finally, carbon-carbon double bonds demonstrate a more pronounced effect than methoxy groups in improving the physicochemical properties and digestibility of starch, confirming the substantial potential of nonpolar molecular groups in improving starch characteristics. These findings provide valuable insights for starch modification techniques and the development of low GI food products.",
+  "publication_date": "2025-05-02",
+  "journal": "Carbohydrate polymers",
+  "doi": "10.1016/j.carbpol.2025.123687",
+  "entities": {
+    "POLYPHENOL": [
+      "a more pronounced effect",
+      "electron localization",
+      "ferulic acid",
+      "molecular phase distributions",
+      "nonpolar molecular groups",
+      "sinapic acid",
+      "starch modification techniques",
+      "syringic acid",
+      "vanillic acid"
+    ]
+  }
+}

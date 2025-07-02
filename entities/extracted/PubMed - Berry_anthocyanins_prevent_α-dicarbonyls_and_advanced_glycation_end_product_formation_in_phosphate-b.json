@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Berry anthocyanins prevent \u03b1-dicarbonyls and advanced glycation end product formation in phosphate-buffered saline-based model systems, cookie and ground pork.",
+  "abstract": "\u03b1-Dicarbonyls and advanced glycation end products (AGEs) are the heat-induced potential toxicants commonly found in thermally processed foods due to the Maillard reaction. Research has shown that both \u03b1-dicarbonyls and AGEs can cause oxidative stress and inflammation and have a positive link with several chronic diseases, such as diabetes. This study found that commonly consumed berry fruits exhibited excellent methylglyoxal (MGO)-trapping and antiglycative activities, positively associated with their total phenolic and flavonoid contents. Blackcurrant exhibited the strongest MGO-trapping and antiglycative activities among the tested berry fruits. In addition, we demonstrated that fortification with blackcurrant significantly reduced \u03b1-dicarbonyls and AGEs formation in the chocolate cookies and marinated ground pork. Delphinidin and cyanidin glycosides were identified as the primary bioactive compounds of blackcurrant that trapped MGO to form the corresponding mono- and di-MGO adducts. This study suggested that blackcurrant anthocyanins might serve as a novel additive to reduce the consumption of dietary reactive carbonyl species and AGEs from both animal- and plant-derived processed foods. PRACTICAL APPLICATION: The levels of \u03b1-dicarbonyls and advanced glycation end products in ground pork and cookies were significantly reduced when fortified with blackcurrant. The blackcurrant anthocyanins might be a novel agent inhibiting \u03b1-dicarbonyls and dietary advanced glycation end products formation in thermally processed foods.",
+  "publication_date": "2024-05-16",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.17112",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "cyanidin glycosides",
+      "delphinidin",
+      "dietary reactive carbonyl species",
+      "their total phenolic and flavonoid contents"
+    ],
+    "FOOD": [
+      "the chocolate cookies"
+    ]
+  }
+}

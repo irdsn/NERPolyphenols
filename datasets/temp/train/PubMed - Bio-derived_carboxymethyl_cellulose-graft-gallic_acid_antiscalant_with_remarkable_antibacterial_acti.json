@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Bio-derived carboxymethyl cellulose-graft-gallic acid antiscalant with remarkable antibacterial activity for reverse osmosis scaling and biofouling control.",
+  "abstract": "Reverse osmosis (RO) system, extensively utilized in desalination process, faced multiple challenges of various membrane fouling, including scaling and biofouling. The development of multifunctional, environmentally benign antiscalants presents a promising avenue to address these issues. In this study, a series of carboxymethyl cellulose-graft-gallic acid (CMC-g-GA) polymers were prepared by varying the mass ratio of carboxymethyl cellulose to gallic acid (GA), employed for the inhibition of calcium sulphate scale and bacteria. Static scale inhibition and RO experiments were conducted to comprehensively investigate the scale inhibition properties and mechanisms of CMC-g-GA. Results revealed that the static scale inhibition efficiency of CMC-g-GA reached 98.5 % at the optimal dosage of 10 mg/L. Furthermore, the membrane flux was sustained at 82.9 % after 3 h of RO operation using 2 mg/L CMC-g-GA, far higher than 14.4 % observed in the control group without antiscalant, which exhibited a pronounced flux decline. Molecular dynamics simulations and crystal characterization results confirmed that the effectiveness of CMC-g-GA was attributed to its carboxyl and phenolic hydroxyl groups, which bonded calcium ions and interacted with calcium sulphate crystals, preventing scale formation and distorting normal crystal growth. Additionally, the incorporation of GA endowed CMC-g-GA with robust antibacterial properties. These findings provided novel insights for the design and optimization of antiscalants to improve their functionality and broaden their potential applications.",
+  "publication_date": "2025-04-23",
+  "journal": "Water research",
+  "doi": "10.1016/j.watres.2025.123716"
+}

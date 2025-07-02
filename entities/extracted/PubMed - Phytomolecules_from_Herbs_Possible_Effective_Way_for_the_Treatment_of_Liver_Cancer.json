@@ -1,0 +1,40 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Phytomolecules from Herbs: Possible Effective Way for the Treatment of Liver Cancer.",
+  "abstract": "Liver cancer is the sixth most commonly diagnosed cancer globally, accounting for approximately 50% of all diagnosed cases and associated mortalities. The principal therapeutic strategies for liver cancer presently include surgical intervention, radiotherapy, and laser ablation therapies. All these therapies are effective for liver cancer at an early stage and have limited efficacy for advanced-stage cancer due to severe side effects and drug resistance. The plantderived natural product, i.e. phyto-constituents, has been evaluated as a potential anticancer drug due to low side effects and antitumor efficacy. Many studies support the effectiveness of active phytoconstituents found in various plants such as garlic, turmeric, tomatoes, grapes, pomegranates, plums, black currants, French beans, cruciferous vegetables, ginger, and asparagus. These plants are reported to have very diversified groups of compounds such as alkaloids, flavonoids, phenolics, terpenoids, coumarin, etc., attributed to medicinal values and biological activities such as antiviral, antioxidant, anti-inflammatory, anticancer, etc. These plants provide important nutrients and help to maintain health, thereby reducing the risk of disease. Almost 50 drugs are directly or indirectly derived from natural sources because of minimum side effects and diversified chemical compounds. In this review, the anticancer properties of edible plants-derived phytomolecules, such as glycyrrhizin, triptolide, celastrol, berberine hydrochloride, curcumin, stilbenes, etc., against Hepatocellular Carcinoma (HCC) are discussed in detail. Phytomolecules discussed in this review for HCC could be promising leads or drugs as anticancer agents from economical and easily available plant sources.",
+  "publication_date": "2025-04-21",
+  "journal": "Current topics in medicinal chemistry",
+  "doi": "10.2174/0115680266321814250228070642",
+  "entities": {
+    "SYMPTOM": [
+      "a potential anticancer drug",
+      "advanced-stage cancer",
+      "anticancer agents",
+      "antiviral, antioxidant, anti-inflammatory, anticancer",
+      "liver cancer",
+      "the anticancer properties",
+      "the sixth most commonly diagnosed cancer"
+    ],
+    "POLYPHENOL": [
+      "curcumin",
+      "economical and easily available plant sources",
+      "edible plants-derived phytomolecules",
+      "flavonoids",
+      "low side effects",
+      "minimum side effects",
+      "phytomolecules",
+      "severe side effects",
+      "the effectiveness"
+    ],
+    "FOOD": [
+      "french beans",
+      "ginger",
+      "grapes",
+      "plums",
+      "pomegranates",
+      "tomatoes",
+      "turmeric"
+    ]
+  }
+}

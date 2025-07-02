@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Toxicological effects of dietary silver nanoparticles (AgNPs) and zinc oxide nanoparticles (ZnONPs) on zebrafish (Danio rerio): A comprehensive study on mixture toxicity.",
+  "abstract": "Despite the high likelihood of co-occurrence of silver nanoparticles (AgNPs) and zinc oxide nanoparticles (ZnONPs) in aquatic environments, their combined effects on aquatic organisms, especially through dietary exposure, remain poorly understood. This study compares individual and combinational toxicity of dietary AgNPs and ZnONPs using zebrafish (Danio rerio). The fish were fed on diets with low and high levels of AgNPs (10 and 50\u00a0mg/kg), ZnONPs (100\u00a0mg/kg), and their combinations (28\u00a0days; uptake phase) and then on basal diet (14\u00a0days; depuration phase). Total antioxidant capacity, catalase, superoxide dismutase, glutathione reductase, and total thiol, besides liver and intestine histology, were evaluated to monitor health status of the fish. Sex-related effects on weight were evaluated, and bioaccumulation of silver and zinc was compared at the end of two phases. Liver superoxide dismutase activity increased in high-AgNPs exposure, yet reduced in ZnONPs. Combinational treatments induced the lowest glutathione reductase activity and total thiol levels, as well as sinusoidal dilation, congestion, vacuolization, and necrosis in livers, while only mild changes were recorded for individual ZnONPs and low-AgNPs treatments. In intestine, high AgNPs induced mild goblet cell hyperplasia, lamina propria displacement, and necrosis, whereas combinational treatments caused mild goblet cell hyperplasia. High-AgNPs and both combinational treatments retarded weight gain in male fish. Silver bioaccumulation showed the highest levels after exposure to high AgNPs, followed by low AgNPs+ZnONPs, low AgNPs, and high AgNPs+ZnONPs. At the end of depuration phase, silver accumulated in both high AgNPs and its combined treatments with ZnONPs remained unchanged, whereas significant reductions occurred in low AgNPs groups. The findings suggest no modulating effect of ZnONPs on AgNPs toxicity.",
+  "publication_date": "2025-06-28",
+  "journal": "Marine pollution bulletin",
+  "doi": "10.1016/j.marpolbul.2025.118354",
+  "entities": {
+    "POLYPHENOL": [
+      "necrosis",
+      "no modulating effect",
+      "sex-related effects",
+      "their combined effects"
+    ]
+  }
+}

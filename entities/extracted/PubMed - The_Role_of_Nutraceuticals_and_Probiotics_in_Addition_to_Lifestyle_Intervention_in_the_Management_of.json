@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "The Role of Nutraceuticals and Probiotics in Addition to Lifestyle Intervention in the Management of Childhood Obesity-Part 1: Metabolic Changes.",
+  "abstract": "Childhood obesity is a growing global health issue. Its rising prevalence is linked to genetic, environmental, and lifestyle factors. Obesity in children could lead to different comorbidities and complications with an increased risk of metabolic disorders, such as insulin resistance, dyslipidemia, type 2 diabetes mellitus (T2DM), and metabolic dysfunction-associated steatotic liver disease (MASLD). First-line treatment involves dietary modifications and lifestyle changes; however, adherence is often poor and remains a significant challenge. Pharmacotherapy, while a potential option, has limitations in availability and can cause side effects, leading to growing interest in alternative treatments, such as nutraceutical compounds. Derived from natural sources, these compounds have different anti-inflammatory, antiallergic, antioxidant, antibacterial, antifungal, neuroprotective, antiaging, antitumor, insulin-sensitizing, glucose, and lipid-lowering effects. This review describes commonly used nutraceutical compounds, such as omega-3 fatty acids, vitamin D, polyphenols (such as resveratrol and curcumin), berberine, white mulberry leaves and others, and pre- and probiotics in the management of obesity, evaluating the evidence on their mechanisms of action and efficacy in metabolic comorbidities. The evidence suggests that the integration of nutraceuticals into the diet may positively influence body mass index, glucose metabolism, lipid profiles, and gut microbiota composition and reduce inflammation in obese individuals. These effects may provide future practical guidance for clinical practice, contribute to metabolic health improvement, and potentially prevent obesity-related complications. In this first part, we discuss the effects of nutraceutical compounds on insulin sensitivity and insulin resistance, T2DM, dyslipidemia, and MASLD in addition to diet and lifestyle interventions.",
+  "publication_date": "2025-05-09",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17101630",
+  "entities": {
+    "SYMPTOM": [
+      "childhood obesity",
+      "inflammation",
+      "insulin resistance",
+      "obesity",
+      "obesity-related complications"
+    ],
+    "POLYPHENOL": [
+      "curcumin",
+      "different anti-inflammatory, antiallergic, antioxidant, antibacterial, antifungal, neuroprotective, antiaging, antitumor, insulin-sensitizing, glucose, and lipid-lowering effects",
+      "polyphenols",
+      "resveratrol",
+      "side effects",
+      "the effects",
+      "their mechanisms",
+      "these effects"
+    ],
+    "FOOD": [
+      "omega-3 fatty acids"
+    ]
+  }
+}

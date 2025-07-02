@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "The metabolic and vascular protective effects of olive (Olea europaea L.) leaf extract in diet-induced obesity in mice are related to the amelioration of gut microbiota dysbiosis and to its immunomodulatory properties.",
+  "abstract": "Many studies have showed the beneficial effects of the olive (Olea europaea) leaf extract (OLE) in experimental models of metabolic syndrome, which have been ascribed to the presence of phenolic compounds, like oleuropeoside. This study evaluated the effects of a chemically characterized OLE in high fat diet (HFD)-induced obesity in mice, describing the underlying mechanisms involved in the beneficial effects, with special attention to vascular dysfunction and gut microbiota composition.",
+  "publication_date": "2019-10-11",
+  "journal": "Pharmacological research",
+  "doi": "10.1016/j.phrs.2019.104487",
+  "entities": {
+    "POLYPHENOL": [
+      "phenolic compounds",
+      "special attention",
+      "the beneficial effects",
+      "the effects",
+      "the underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "(hfd)-induced obesity",
+      "metabolic syndrome"
+    ]
+  }
+}

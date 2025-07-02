@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Resveratrol Butyrate Esters Reduce Hypertension in a Juvenile Rat Model of Chronic Kidney Disease Exacerbated by Microplastics.",
+  "abstract": "Resveratrol is recognized as a promising nutraceutical with antihypertensive and prebiotic properties; however, its bioavailability in vivo is limited. To enhance its bioactivity, we developed resveratrol butyrate esters (RBEs). This study investigates whether RBEs can mitigate hypertension induced by chronic kidney disease (CKD) and exacerbated by microplastics (MPs) exposure in juvenile rats.",
+  "publication_date": "2024-11-27",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16234076",
+  "entities": {
+    "POLYPHENOL": [
+      "resveratrol",
+      "resveratrol butyrate esters"
+    ],
+    "SYMPTOM": [
+      "hypertension"
+    ]
+  }
+}

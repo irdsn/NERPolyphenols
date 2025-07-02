@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Dendrobium officinale Kinura et Migo glycoprotein promotes skin wound healing by regulating extracellular matrix secretion and fibroblast proliferation on the proliferation phase.",
+  "abstract": "Dendrobium officinale Kinura et Migo (DOKM) has a variety of medicinal applications; however, its ability to promote wound healing has not been previously reported. The purpose of this study is to investigate the proliferative phase of the wound-healing effect of DOKM glycoprotein (DOKMG) in rats and to elucidate its mechanism of action in vitro. In the present study, the ointment mixture containing DOKMG was applied to the dorsal skin wounds of the full-thickness skin excision rat model, and the results showed that the wound healing speed was faster in the proliferative phase than vaseline. Histological analysis demonstrates that DOKMG promoted the re-epithelialization of wound skin. Immunofluorescence staining and quantitative polymerase chain reaction assays revealed that DOKMG promotes the secretion of Fibronectin and inhibits the secretion of Collagen IV during the granulation tissue formation period, indicating that DOKMG could accelerate the formation of granulation tissue by precisely regulating extracellular matrix (ECM) secretion. In addition, we demonstrated that DOKMG enhanced the migration and proliferation of fibroblast (3T6 cell) in two-dimensional trauma by regulating the secretion of ECM, via a mechanism that may implicate the AKT and JAK/STAT pathways under the control of epidermal growth factor receptor (EGFR) signalling. In summary, we have demonstrated that DOKMG promotes wound healing during the proliferative phase. Therefore, we suggest that DOKMG may have a potential therapeutic application for the treatment and management of cutaneous wounds.",
+  "publication_date": "2023-12-29",
+  "journal": "Wound repair and regeneration : official publication of the Wound Healing Society [and] the European Tissue Repair Society",
+  "doi": "10.1111/wrr.13144",
+  "entities": {
+    "POLYPHENOL": [
+      "(ecm) secretion",
+      "a mechanism",
+      "ecm",
+      "epidermal growth factor receptor",
+      "fibronectin",
+      "its mechanism",
+      "the secretion",
+      "the wound-healing effect"
+    ]
+  }
+}

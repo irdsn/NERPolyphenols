@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Development of chitosan-based films enhanced with vanillin-based deep eutectic solvents (V-DEA) for prolonging litchi shelf life and postharvest quality.",
+  "abstract": "This study developed a novel solid-state Vanillin-Based Deep Eutectic Agent (V-DEA) as a green plasticizer to enhance chitosan films for food packaging applications. The chemical structure of V-DEA film, confirmed via1H NMR spectroscopy, showed successful integration into chitosan films. The incorporation of V-DEA significantly improved the films' mechanical strength (tensile strength up to 35\u00a0MPa), flexibility (elongation at break of 23\u00a0%), and thermal stability, with 60\u00a0%\u00a0V-DEA identified as the optimal concentration. Morphological analysis revealed increased surface roughness and porosity at higher V-DEA levels, affecting barrier properties such as transparency and water vapor permeability. Antioxidant and antibacterial assays showed strong radical scavenging activity and effective inhibition against Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus), especially at 80\u00a0%\u00a0V-DEA. Application on litchi fruits demonstrated significant preservation effects: reduced browning index, minimized weight loss, and maintenance of vitamin C and anthocyanin content over 5\u00a0days. These results highlight the potential of V-DEA/Ch films as multifunctional, bioactive, and biodegradable packaging materials for extending the shelf life and quality of perishable fruits. This work introduces a new class of bio-based plasticizers for active food packaging, combining environmental sustainability with enhanced postharvest functionality.",
+  "publication_date": "2025-06-16",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145144",
+  "entities": {
+    "POLYPHENOL": [
+      "a novel solid-state vanillin-based deep eutectic agent",
+      "effective inhibition",
+      "significant preservation effects",
+      "the films' mechanical strength",
+      "via1h nmr spectroscopy"
+    ],
+    "SYMPTOM": [
+      "active food packaging",
+      "food packaging applications"
+    ]
+  }
+}

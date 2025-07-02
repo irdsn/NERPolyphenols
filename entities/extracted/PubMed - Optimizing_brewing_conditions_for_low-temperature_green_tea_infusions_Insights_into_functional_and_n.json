@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Optimizing brewing conditions for low-temperature green tea infusions: Insights into functional and nutritional properties.",
+  "abstract": "In response to growing demand for functional, minimally processed foods and rising energy costs, various brewing conditions for low-temperature green tea production were explored as an alternative to high-temperature processing. Optimal polyphenol extraction was achieved at 85\u00a0\u00b0C for 30\u00a0min using distilled water and finely ground leaves (< 500\u00a0\u03bcm). Although similar conditions are recommended for tap water, this resulted in a tremendous reduction in both catechin yields and antioxidant capacity (AC), as determined by spectrophotometric and chromatographic analyses. Lowering extraction temperature to 20\u00a0\u00b0C and brewing for 12\u00a0h with distilled water led to exceptionally high AC, along with higher yields of vitamin C, vitamin B2, epicatechin, and epigallocatechin compared to any high-temperature brewing method. Notably, these benefits were evident only when whole leaves were used, rather than tea powder. Further research is needed to address technological challenges for industrial green tea production with distilled water.",
+  "publication_date": "2025-02-05",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.143241",
+  "entities": {
+    "FOOD": [
+      "industrial green tea production",
+      "low-temperature green tea production"
+    ],
+    "POLYPHENOL": [
+      "both catechin yields",
+      "epicatechin",
+      "epigallocatechin",
+      "optimal polyphenol extraction",
+      "spectrophotometric and chromatographic analyses",
+      "technological challenges"
+    ]
+  }
+}

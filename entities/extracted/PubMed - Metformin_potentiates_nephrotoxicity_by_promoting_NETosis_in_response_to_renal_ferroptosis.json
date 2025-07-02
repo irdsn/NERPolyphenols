@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Metformin potentiates nephrotoxicity by promoting NETosis in response to renal ferroptosis.",
+  "abstract": "Given the rapidly aging population, aging-related diseases are becoming an excessive burden on the global healthcare system. Metformin has been shown to be beneficial to many age-related disorders, as well as increase lifespan in preclinical animal models. During the aging process, kidney function progressively declines. Currently, whether and how metformin protects the kidney remains unclear. In this study, among longevity drugs, including metformin, nicotinamide, resveratrol, rapamycin, and senolytics, we unexpectedly found that metformin, even at low doses, exacerbated experimentally-induced acute kidney injury (AKI) and increased mortality in mice. By single-cell transcriptomics analysis, we found that death of renal parenchymal cells together with an expansion of neutrophils occurs upon metformin treatment after AKI. We identified programmed cell death by ferroptosis in renal parenchymal cells and blocking ferroptosis, or depleting neutrophils protects against metformin-induced nephrotoxicity. Mechanistically, upon induction of AKI, ferroptosis in renal parenchymal cells initiates the migration of neutrophils to the site of injury via the surface receptor CXCR4-bound to metformin-iron-NGAL complex, which results in NETosis aggravated AKI. Finally, we demonstrated that reducing iron showed protective effects on kidney injury, which supports the notion that iron plays an important role in metformin-triggered AKI. Taken together, these findings delineate a novel mechanism underlying metformin-aggravated nephropathy and highlight the mechanistic relationship between iron, ferroptosis, and NETosis in the resulting AKI.",
+  "publication_date": "2023-10-17",
+  "journal": "Cell discovery",
+  "doi": "10.1038/s41421-023-00595-3",
+  "entities": {
+    "SYMPTOM": [
+      "aging-related diseases",
+      "cell death",
+      "the aging process",
+      "the rapidly aging population"
+    ],
+    "POLYPHENOL": [
+      "a novel mechanism",
+      "neutrophils protects",
+      "preclinical animal models",
+      "protective effects",
+      "resveratrol",
+      "the mechanistic relationship",
+      "the surface receptor"
+    ]
+  }
+}

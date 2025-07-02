@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Weighted gene co-expression network analysis\u2009-\u2009based selection of hub genes related to phenolic and volatile compounds and seed coat color in sorghum.",
+  "abstract": "Sorghum grains are rich in phenolic compounds, which are noted for their anticancer, antioxidant, and anti-inflammatory properties, as well as volatile compounds (VOCs) that contribute to aroma and fermentation processes. There is a known close relationship between sorghum coat color and phenolic compound content (PCC), particularly flavonoids which are pigments that confer red and purple colors in flowers and seeds.",
+  "publication_date": "2025-05-23",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-025-06657-w",
+  "entities": {
+    "POLYPHENOL": [
+      "particularly flavonoids",
+      "phenolic compound content",
+      "phenolic compounds"
+    ],
+    "SYMPTOM": [
+      "their anticancer"
+    ]
+  }
+}

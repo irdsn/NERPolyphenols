@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Phenolic compounds of Theobroma cacao L. show potential against dengue RdRp protease enzyme inhibition by In-silico docking, DFT study, MD simulation and MMGBSA calculation.",
+  "abstract": "Currently, there is no antiviral medication for dengue, a potentially fatal tropical infectious illness spread by two mosquito species, Aedes aegypti and Aedes albopictus. The RdRp protease of dengue virus is a potential therapeutic target. This study focused on the in silico drug discovery of RdRp protease inhibitors.",
+  "publication_date": "2024-03-14",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0299238",
+  "entities": {
+    "POLYPHENOL": [
+      "a potentially fatal tropical infectious illness",
+      "two mosquito species"
+    ]
+  }
+}

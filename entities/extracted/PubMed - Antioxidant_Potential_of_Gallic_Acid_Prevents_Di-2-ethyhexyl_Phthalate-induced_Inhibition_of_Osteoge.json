@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Antioxidant Potential of Gallic Acid Prevents Di-2-ethyhexyl Phthalate-induced Inhibition of Osteogenic Differentiation.",
+  "abstract": "Di-2-ethylhexylphthalate (DEHP) is utilized as a plasticizer in polyvinylchloride products (PVC). When medical devices like blood bags, tubes, and syringes are employed, DEHP leaches out of the PVC polymers and enters biological fluids through non-covalent binding. The presence of DEHP in peripheral blood leads to contamination of bone marrow. Previous research has demonstrated that this chemical induces oxidative stress, which adversely affects the viability and osteo-differentiation of bone marrow mesenchymal stem cells (BMSCs). Hence, our current study aims to utilize gallic acid (GA), a natural antioxidant, to alleviate the inhibitory effects of DEHP on BMSCs' osteogenic differentiation.",
+  "publication_date": "2025-04-28",
+  "journal": "Current drug metabolism",
+  "doi": "10.2174/0113892002338014250416100651",
+  "entities": {
+    "SYMPTOM": [
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "gallic acid",
+      "the inhibitory effects"
+    ]
+  }
+}

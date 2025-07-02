@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "In Vitro Antiproliferative Activity in Plants of the GenusTabebuia: A Systematic Review.",
+  "abstract": "The use of plant extracts and the compounds isolated from them for the treatment of cancer is an area of active research, given their therapeutic potential. This work focused on evaluating the literature related to the antiproliferative activity of extracts obtained from plants of the genusTabebuiaand molecules isolated in vitro or in vivo. For the search, MeSH and DECS terms were employed in the PubMed, Scopus, and SciELO databases. Research has shown that plant extracts derived from plants of the genusTabebuiaexhibit potential applications in the search for new molecules with antiproliferative activity. Among the isolated molecules, the most evaluated correspond to \u03b2-lapachone (naphthoquinone); however, molecules with antiproliferative potential belonging to groups such as iridoids, flavonoids, quinones, furanonaphthoquinones, triterpenes, and polysaccharides have also been isolated and reported. Additionally, synthesized molecules have been evaluated on the basis of the modifications made to the structures of molecules isolated from the plant extracts to increase their activity, aiming to develop more potent antitumor agents for future clinical use.",
+  "publication_date": "2025-05-25",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112315",
+  "entities": {
+    "FOOD": [
+      "plant extracts",
+      "that plant extracts"
+    ],
+    "SYMPTOM": [
+      "cancer"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "mesh and decs terms",
+      "molecules",
+      "new molecules",
+      "synthesized molecules",
+      "the genustabebuiaand molecules",
+      "the isolated molecules"
+    ]
+  }
+}

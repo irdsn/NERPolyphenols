@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Combined use of humic acids and Trichoderma harzianum as sustainable alternatives to alliviate salt stress in bell pepper.",
+  "abstract": "Bell pepper is a vegetable with beneficial properties for human nutrition. However, salinity is an abiotic factor affecting bell pepper yield in arid and semi-arid areas of Peru. The objective was to determine the combined effect of humic acid (HA) with Trichoderma harzianum (TH) as sustainable alternatives to increase the yield of bell peppers subjected to salt stress. The experiment was carried in field out during the 2023 and 2024 seasons design with a 2 x 3 x 2 factorial scheme, referring to the electrical conductivity (EC) of the irrigation water (0 and 4 dSm-1), HA (0, 15 and 30 L ha-1) and TH (0 and 1 kg ha-1). Agronomic and yield-related parameters were analyzed. The results showed that the saline soil accompanied by irrigations of 0 and 4 dS m-1 of EC, showed a significant decrease in agronomic parameters and an increase in concentration of sodium and chlorine in bell pepper leaves. However, the application of 30 L ha-1 of HA with TH increase in plant height (86.53 y 86,42%), higher root dry weight (95.44 y 95.32%) and plant dry weight (90.46 y 90.41%), also, greatly improved fruit length 64.6 y 63.74%) and width (58.47 y 57.31%), significantly increased fruit content per plant (91.49 y 91.30%), fruit weight per plant (93.29 and 93.15%) and total yield (89.54 and 89.23%) in relation to plants subjected to salt stress. It also significantly increases the concentration of potassium and calcium in the leaves (37.88 and 48.71%), K+/ Na+ ratio (72.07 and 74.93%) and proline content (58.60 and 59.31%) superior to the control, as a defense mechanism against salt stress. Therefore, as the dose of humic acids combined with Trichoderma harzianum is increased, the plant shows tolerance to salinity, being a sustainable alternative of bell pepper to reduce salt stress in arid and semi-arid areas of Peru.",
+  "publication_date": "2025-04-07",
+  "journal": "Brazilian journal of biology = Revista brasleira de biologia",
+  "doi": "10.1590/1519-6984.289492",
+  "entities": {
+    "FOOD": [
+      "bell pepper",
+      "bell pepper leaves",
+      "bell pepper yield",
+      "bell peppers"
+    ],
+    "POLYPHENOL": [
+      "a defense mechanism",
+      "a significant decrease",
+      "ec",
+      "the combined effect",
+      "the electrical conductivity",
+      "the objective"
+    ],
+    "SYMPTOM": [
+      "salt stress",
+      "stress"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Comparative Evaluation of Compressive Strength, Shear Bond Strength, and Fluoride Release of Grape Seed Extract and Resveratrol Incorporated in Conventional Restorative Glass Ionomer Cement: AnIn VitroStudy.",
+  "abstract": "Glass ionomer cement (GIC) is an excellent example of dental materials that revolutionized the way we approach restorative dentistry. There have been several studies aimed at improving the properties of GIC while reducing its compressive strength, brittleness, etc.Over time, to combat this cumbersome problem, various agents have been added to GIC to increase its antimicrobial properties. The incorporation of fluoride, selenium, and other compounds has proven to reduce the rate of formation of cariogenic biofilm. However, the use of synthetic compounds such as fluoride can result in fluorosis. This calls for the need for a natural antimicrobial agent with minimal or no side effects and optimal effectiveness.Grape seed extract (GSE) and resveratrol (grape skin extract) are naturally occurring compounds having antibacterial, anti-inflammatory, and antioxidative properties.",
+  "publication_date": "2025-03-20",
+  "journal": "International journal of clinical pediatric dentistry",
+  "doi": "10.5005/jp-journals-10005-3059",
+  "entities": {
+    "POLYPHENOL": [
+      "minimal or no side effects",
+      "optimal effectiveness"
+    ],
+    "FOOD": [
+      "grape seed extract",
+      "grape skin extract"
+    ]
+  }
+}

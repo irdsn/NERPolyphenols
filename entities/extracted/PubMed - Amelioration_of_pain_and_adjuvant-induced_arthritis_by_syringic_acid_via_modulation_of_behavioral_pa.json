@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Amelioration of pain and adjuvant-induced arthritis by syringic acid via modulation of behavioral parameters and inflammatory mediators i.e. TNF-\u03b1, Interleukins, MCP-1, NF-kB and COX-2.",
+  "abstract": "Syringic acid with reported anti-inflammatory attribute was investigated in the present study to assess its anti-arthritic potential at doses of 25\u00a0mg/kg, 50\u00a0mg/kg and 100\u00a0mg/kg using adjuvant-induced arthritic rats. The rat's paw size (mm), arthritic index and behavioral parameters were observed at baseline and subsequently at seven days' interval until the completion of the study, following complete Freund's adjuvant (CFA) induction. The animals were anesthetized on 28th day and blood samples were obtained for the determination of numerous biochemical, hematological, pro-inflammatory, anti-inflammatory and oxidative biomarkers. Afterwards, the weight of lymphoid organs and radiographic, as well as histopathological examinations of the inflamed paw, were conducted. Furthermore, molecular docking was done to find out the interaction between syringic acid and Interleukins-1\u03b2, tumor necrosis factor-\u03b1, Interleukins-6 (IL-6), Interleukins-4 (IL-4) and Cyclooxygenase-2 (Cox-2). Results revealed that chronic syringic acid administration significantly reduced the paw size, arthritic index, and showed improvement in behavioral parameters with retrieval of altered hematological and biochemical parameters. Treatment with syringic acid also exhibited substantial recovery from oxidative stress markers and lymphoid organ weight was retrieved. Upon quantitative real-time polymerase chain reaction (qRT-PCR) examination, syringic acid significantly reduced the mRNA expression of tumor necrosis factor-\u03b1 and all the other inflammatory cytokines while enhancing the mRNA expression of anti-inflammatory cytokines. Decreased serum concentration of PGE2 was noted with syringic acid as determined by enzyme-linked immunosorbent assay (ELISA). Histopathological analysis and radiographs further confirmed the findings. Molecular docking studies showed good interaction between syringic acid and IL-1\u03b2, tumor necrosis factor-\u03b1, IL-6, IL-4 and COX-2 when compared against standard.",
+  "publication_date": "2025-05-07",
+  "journal": "Inflammopharmacology",
+  "doi": "10.1007/s10787-025-01736-8",
+  "entities": {
+    "POLYPHENOL": [
+      "chronic syringic acid administration",
+      "decreased serum concentration",
+      "molecular docking",
+      "molecular docking studies",
+      "substantial recovery",
+      "syringic acid",
+      "tumor necrosis factor"
+    ],
+    "SYMPTOM": [
+      "oxidative stress markers"
+    ]
+  }
+}

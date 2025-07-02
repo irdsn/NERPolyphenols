@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Effects of magnolol on the liver antioxidant status in rats with diabetes.",
+  "abstract": "Magnolol isolated from Magnolia (Magnolia sp.) flowers are used to support the treatment of diabetes. The aim of this study was to investigate the effects of magnolol on the liver antioxidant status in rats with type 2 diabetes and assess oxidative stress parameters at both biochemical and molecular levels.",
+  "publication_date": "2025-03-24",
+  "journal": "Pharmacological reports : PR",
+  "doi": "10.1007/s43440-025-00718-5",
+  "entities": {
+    "POLYPHENOL": [
+      "both biochemical and molecular levels",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "oxidative stress parameters",
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "The Influence ofQuercus albaGeographical Location and Aging Time on the Chemical and Sensory Quality of Tempranillo Wines.",
+  "abstract": "The changes produced during the aging of wines in oak barrels are strongly dependent on the oak's geographical origin and aging time. This paper analyzes the effect ofQuercus albaoak from four different geographical locations in four states in the USA, namely Missouri (Mo), Ohio (Oh), Kentucky (Kt), and Pennsylvania (Py), during 24 months of aging. Oak origin had a higher effect on the wine's aromatic composition than the polyphenolic one. Mo and Oh barrels enhanced coconut, spicy, and sweet notes for 12 months of aging, while Kt barrels achieved higher extraction of wood-related compounds at longer aging (24 months). Py wines showed the lowest contents of most volatile compounds at both aging times, as well as hydroxycinnamic acids, flavanols, anthocyanins, flavonols, stilbenes, and ellagitannins, attributed to their higher porosity. At 12 months of aging, Kt wines showed the highest content of ellagitannins, and Mo wines had the highest content of anthocyanins, but Oh wines had the highest concentrations at 24 months. In the sensory analysis, Kt wines were preferred at both aging times. Kt and Mo wines achieved the highest punctuations for the olfactory phase at 12 months of aging and Kt wines kept it after 24 months. These findings are essential for producers to achieve the sensory characteristics of their wines through strategic barrel aging.",
+  "publication_date": "2024-09-18",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29184432",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "aging time",
+      "both aging times",
+      "strategic barrel aging",
+      "the aging"
+    ],
+    "FOOD": [
+      "kt wines",
+      "mo wines",
+      "oh wines",
+      "py wines",
+      "the wine's aromatic composition",
+      "their wines",
+      "wines"
+    ],
+    "POLYPHENOL": [
+      "a higher effect",
+      "ellagitannins",
+      "hydroxycinnamic acids",
+      "the effect",
+      "the polyphenolic one"
+    ]
+  }
+}

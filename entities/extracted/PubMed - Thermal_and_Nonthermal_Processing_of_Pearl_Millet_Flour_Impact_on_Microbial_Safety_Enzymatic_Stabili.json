@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Thermal and Nonthermal Processing of Pearl Millet Flour: Impact on Microbial Safety, Enzymatic Stability, Nutrients, Functional Properties, and Shelf-Life Extension.",
+  "abstract": "Pearl millet is a gluten-free grain with several beneficial elements. It is more nutritious than other grains like corn, sorghum, and rice. Because of its low glycemic index, it is suitable for people with celiac disease and diabetes. However, due to its limited shelf-life, it has less market demand. Milled flour cannot be kept for more than a week due to rancidity and off-flavor. Another constraint is the presence of antinutritional substances in the grain, such as phytates and tannins. Various approaches for increasing the shelf-life of pearl millet flour (PMF) have been used in recent years. The most common thermal procedures include roasting, dry heating, steam treatment, and blanching. Malting and germination were effective in lowering antinutritional factors and enzyme activity. Ultrasound and cold plasma are nonthermal methods employed to decrease rancidity in pearl millet. Dry heat treatment, blanching, microwave treatment, addition of antioxidants, and hydrothermal treatment extend shelf-life by up to 30 days. A combination of different techniques, such as hydrothermal and near-infrared or irradiation, can extend the shelf-life up to 90 days. This review focuses on practical and efficient strategies for stakeholders to enhance the shelf life of PMF by reducing antinutrient factors without affecting nutritional properties. It focuses more on nutritional security and the sustainability of the process.",
+  "publication_date": "2025-05-01",
+  "journal": "Comprehensive reviews in food science and food safety",
+  "doi": "10.1111/1541-4337.70190",
+  "entities": {
+    "FOOD": [
+      "pearl",
+      "pearl millet",
+      "pearl millet flour"
+    ],
+    "POLYPHENOL": [
+      "different techniques",
+      "nutritional security",
+      "recent years",
+      "tannins"
+    ]
+  }
+}

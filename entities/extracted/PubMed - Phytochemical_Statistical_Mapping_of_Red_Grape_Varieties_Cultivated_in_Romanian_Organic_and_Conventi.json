@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Phytochemical Statistical Mapping of Red Grape Varieties Cultivated in Romanian Organic and Conventional Vineyards.",
+  "abstract": "Red grapes are rich in phytochemicals such as phenolics and flavonoids, which are strongly correlated with their antioxidant activity. Thus, grapes as-harvested and grape extracts, especially those obtained from their seeds and pulp, have been reported to have health benefits, and accordingly, grapes and their derivatives are considered potential functional food ingredients. The total phenolic content, total flavonoid content, and the antioxidant activity of skin, pulp, and seeds of four grape varieties grown both in conventional and organic vineyards were examined in this study. Phytochemical characteristics of one native Romanian variety, Feteasca Neagra, were compared with data measured for three red grape varieties more commonly cultivated worldwide (Merlot, Pinot Noir, and Muscat Hamburg). It was found that the seeds of the Pinot Noir variety grown in an organic system contained the highest total phenolics of 169.53 \u00b1 7.32 mg gallic acid equivalents/g and the highest total flavonoid content of 388.25 \u00b1 10.72 mg quercetin equivalents/g, values corresponding to high antioxidant activity (312.84 \u00b1 12.81 mg ascorbic acid equivalents/g). The total flavonoid content in the hydroalcoholic extracts obtained from seeds of Pinot Noir (organic vineyard) was around 24.5-fold higher than that of the skin of Pinot Noir (conventional vineyard). Experiments showed that seeds of all four tested grape varieties are good sources of total flavonoids, not only of total phenolics. When referring to the organic vineyard, the skin and pulp grapes showed good results for the total phenolic content. The antioxidant activities of the hydroalcoholic extracts were well-correlated with the total phenolic content and total flavonoid content. Lower values of these parameters were found for extracts obtained from skin and pulp than for those obtained from seeds of the same grape variety regardless of the culture management system (organic/conventional). Data mining techniques such as regression analysis, principal component analysis, and clustering analysis were applied to establish the potential correlation between the phytochemical content and the antioxidant activities of the red grapes on the one hand, and grape variety, anatomical parts, and vineyard type (organic/conventional) on the other hand.",
+  "publication_date": "2023-12-15",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants12244179",
+  "entities": {
+    "FOOD": [
+      "all four tested grape varieties",
+      "four grape varieties",
+      "grape variety",
+      "grapes",
+      "potential functional food ingredients",
+      "pulp grapes",
+      "red grapes",
+      "the red grapes",
+      "the same grape variety",
+      "three red grape varieties"
+    ],
+    "POLYPHENOL": [
+      "169.53 \u00b1 7.32 mg gallic acid equivalents",
+      "data mining techniques",
+      "especially those",
+      "flavonoids",
+      "the highest total flavonoid content",
+      "the total flavonoid content",
+      "total flavonoid content",
+      "total flavonoids"
+    ]
+  }
+}

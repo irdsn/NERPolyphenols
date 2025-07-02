@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "A reference genome for Plinia edulis: expanding the pharmacological and nutraceutical potential of a neglected brazilian tree species.",
+  "abstract": "Widely distributed in tropical and subtropical regions, the Myrtaceae family includes several species with vast nutraceutical potential due to their rich composition of bioactive compounds with pharmacological and nutraceutical importance. Plinia edulis is a neglected and endangered Myrtaceae species of the Brazilian Atlantic Forest, with tasteful nutraceutical fruits and potential use in the pharmacological industry. Here we report the sequencing, assembling, and annotation of a reference genome for this species, towards stimulating its conservation, cultivation, domestication, and genetic improvement. The reference genome presented 98.5% BUSCO completeness, N50\u2009=\u200921.2\u00a0Mb, and 37.428 gene models predicted. These gene models are related to 327 pathways of secondary metabolites biosynthesis, including 59 of terpenoids and polyketides and 40 of propanoids and flavonoids metabolism. The KEGG mapping revealed key genes for producing 20 important secondary metabolites with pharmacological significance, enlarging the opportunities for nutraceutical and pharmacological uses of the species. The prospection of SSR markers allowed primer design for 30,897 loci, of which about 75% are potentially informative for SSR and SSRseq analysis. This reference genome will assist conservation and genetic breeding programs, and the annotation will support studies on secondary metabolite production. Genetic conservation and breeding projects for P. edulis may also consider the revealed genomic potential of this species to react to environmental stresses.",
+  "publication_date": "2025-06-30",
+  "journal": "Molecular genetics and genomics : MGG",
+  "doi": "10.1007/s00438-025-02268-0",
+  "entities": {
+    "POLYPHENOL": [
+      "20 important secondary metabolites",
+      "a neglected and endangered myrtaceae species",
+      "flavonoids",
+      "genetic conservation and breeding projects",
+      "secondary metabolite production",
+      "secondary metabolites biosynthesis",
+      "several species",
+      "the prospection",
+      "the species",
+      "this species"
+    ],
+    "SYMPTOM": [
+      "environmental stresses"
+    ]
+  }
+}

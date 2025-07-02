@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Effects of flavonol B-ring structures on the inhibitions of advanced glycation end products in bovine serum albumin-methylglyoxal models.",
+  "abstract": "This study investigates the inhibitory effects and molecular mechanisms of flavonols with different B-ring structures on the formations of advanced glycation end products (AGEs) in bovine serum albumin-methylglyoxal (BSA-MGO) reaction models. The results demonstrate that flavonols (kaempferol, quercetin and myricetin) effectively inhibit the formations of AGEs. Kaempferol exhibits the highest inhibitory effects, with an inhibition rate of 96.61\u00a0\u00b1\u00a00.08\u00a0%, while quercetin has the lowest inhibition rate of 77.56\u00a0\u00b1\u00a00.33\u00a0%. Kaempferol mainly interacts with BSA to prevent glycations and myricetin traps MGO to inhibit AGEs, while quercetin interacts with both BSA and MGO. According to theoretical computations, the reactive site for MGO in quercetin is located on the B-ring (C6'atom) while those in kaempferol and myricetin is on the C-ring (C8atom), indicating that the symmetry of B-rings is essential for the reactivity of flavonols. Moreover, myricetin is easy to deprotonate and the subsequent radicals formed from the inions is highly reactive with both proteins and MGO, which is considered as the reason that such a flavonol exhibits the strongest inhibitory effects on AGEs formations. This study provided structural strategies and theoretical foundations for understanding the anti-glycation mechanisms of flavonoid compounds.",
+  "publication_date": "2025-06-19",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145378",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoid compounds",
+      "kaempferol",
+      "molecular mechanisms",
+      "myricetin",
+      "myricetin traps",
+      "quercetin",
+      "the anti-glycation mechanisms",
+      "the highest inhibitory effects",
+      "the inhibitory effects",
+      "the strongest inhibitory effects"
+    ]
+  }
+}

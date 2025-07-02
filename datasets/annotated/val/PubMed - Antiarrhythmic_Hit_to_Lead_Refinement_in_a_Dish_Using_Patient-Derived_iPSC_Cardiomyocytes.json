@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Antiarrhythmic Hit to Lead Refinement in a Dish Using Patient-Derived iPSC Cardiomyocytes.",
+  "abstract": "Ventricular cardiac arrhythmia (VA) arises in acquired or congenital heart disease. Long QT syndrome type-3 (LQT3) is a congenital form of VA caused by cardiac sodium channel (INaL) SCN5A mutations that prolongs cardiac action potential (AP) and enhances INaLcurrent. Mexiletine inhibits INaLand shortens the QT interval in LQT3 patients. Above therapeutic doses, mexiletine prolongs the cardiac AP. We explored structure-activity relationships (SAR) for AP shortening and prolongation using dynamic medicinal chemistry and AP kinetics in human-induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs). Using patient-derived LQT3 and healthy hiPSC-CMs, we resolved distinct SAR for AP shortening and prolongation effects in mexiletine analogues and synthesized new analogues with enhanced potency and selectivity for INaL. This resulted in compounds with decreased AP prolongation effects, increased metabolic stability, increased INaLselectivity, and decreased avidity for the potassium channel. This study highlights using hiPSC-CMs to guide medicinal chemistry and \"drug development in a dish\".",
+  "publication_date": "2021-05-04",
+  "journal": "Journal of medicinal chemistry",
+  "doi": "10.1021/acs.jmedchem.0c01545",
+  "entities": {
+    "POLYPHENOL": [
+      "ap shortening and prolongation effects",
+      "decreased ap prolongation effects",
+      "increased inalselectivity",
+      "selectivity"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "A comprehensive review on diabetic cardiomyopathy (DCM): histological spectrum, diagnosis, pathogenesis, and management with conventional treatments and natural compounds.",
+  "abstract": "Diabetic complications are among the most pressing health issues currently. Cardiovascular problems, particularly diabetic cardiomyopathy (DCM), are responsible for almost 80% of diabetic deaths. Because of the increasing prevalence of diabetes and the increased threat of death from its consequences, researchers are searching for new pharmaceutical targets to delay or cure it. Currently, there are a few medicines available for the treatment of DCM, some of which have serious side effects. To address this issue, researchers are focusing on natural products. Thus, in this review, we discuss the prevalence, incidence, risk factors, histological spectrum, diagnosis, pathogenic pathways of DCM, genetic and epigenetic mechanisms involved in DCM, the current treatments, and the beneficial effects of natural product-based therapeutics. Natural treatments range from single doses to continuous regimens lasting weeks or months. Flavonoids are the largest class of natural compounds reported for the treatment of DCM. Natural regimens may cover the way for new treatment strategies for DCM for being multi-target agents in the treatment of DCM, with the ability to play a variety of functions via distinct signaling pathways.",
+  "publication_date": "2025-03-18",
+  "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+  "doi": "10.1007/s00210-025-03980-9",
+  "entities": {
+    "SYMPTOM": [
+      "particularly diabetic cardiomyopathy (dcm"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "genetic and epigenetic mechanisms",
+      "histological spectrum, diagnosis, pathogenic pathways",
+      "serious side effects",
+      "the beneficial effects"
+    ]
+  }
+}

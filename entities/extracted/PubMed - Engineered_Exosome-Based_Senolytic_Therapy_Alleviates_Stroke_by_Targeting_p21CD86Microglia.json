@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Engineered Exosome-Based Senolytic Therapy Alleviates Stroke by Targeting p21+CD86+Microglia.",
+  "abstract": "Stroke remains the leading cause of neurological mortality and disability worldwide, with post-stroke inflammation significantly hindering neural repair. Despite its critical impact, mechanism-based therapeutic strategies are scarce. In this study, we uncovered a critically important yet previously unexamined cell population, p21+CD86+microglia, which accumulated in ischemic region. Unexpectedly, we discovered that p21 interacted with C/EBP\u03b2, driving C/EBP\u03b2-dependent transcription and upregulating key pro-inflammatory factors such asIl6,Il1\u03b2,Cxcl2, andCxcl10. To specifically target and eliminate these pathogenic p21+CD86+microglia, we engineered exosomes with a peptide that selectively binds CD86+microglia and loaded them with the senolytic Quercetin. Furthermore, we developed an optimized, stable Que@micro-Exo therapeutic formulation. Systemic administration of Que@micro-Exo robustly reduced p21+CD86+microglia and suppressed their pro-inflammatory phenotype. Notably, functional analyses revealed that Que@micro-Exo treatment mitigated blood-brain barrier disruption, promoted beneficial microglial polarization, decreased neutrophil infiltration, and significantly enhanced functional recovery following cerebral ischemia, all with a favorable safety profile. Our preclinical findings lay the foundation for targeting p21+CD86+microglia as a novel therapeutic strategy, highlighting the potential of exosome-based senolytic anti-inflammatory therapy for stroke and other central nervous system disorders.",
+  "publication_date": "2025-03-06",
+  "journal": "Exploration (Beijing, China)",
+  "doi": "10.1002/EXP.20240349",
+  "entities": {
+    "SYMPTOM": [
+      "post-stroke inflammation"
+    ],
+    "POLYPHENOL": [
+      "mechanism-based therapeutic strategies",
+      "our preclinical findings",
+      "the senolytic quercetin"
+    ]
+  }
+}

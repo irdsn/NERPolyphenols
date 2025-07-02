@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Ethanolic extract of Duea ching (Ficus botryocarpa Miq.) fruit: Antioxidant activity and enhancement of physical property and oxidative stability of Asian seabass oil-in water emulsion.",
+  "abstract": "This study hypothesized that polyphenol-rich Duea Ching fruit extract (DCE) could enhance the oxidative and physical stabilities of oil-in-water emulsions. Antioxidant potential of ethanolic DCE was examined and the quality of Asian seabass oil-in-water emulsions incorporated with DCE at 1\u00a0% and 3\u00a0% was determined during 24\u00a0days. DCE using 60\u00a0% ethanol as extracting medium was rich in polyphenols. (\u00b1)-catechin and procyanidin B2 were dominant when analyzed via LC/MS with negative and positive ion modes. It showed DPPH, ABTS, peroxyl radical and H\u2082O\u2082 scavenging, along with ORAC and MCA. Emulsions containing 3\u00a0% DCE demonstrated improved stability, with smaller droplet size, and lower flocculation and coalescence index than the control. Lipid oxidation was significantly reduced (P\u00a0<\u00a00.05), as confirmed by FTIR. Additionally, the 3\u00a0% DCE emulsion retained more polyunsaturated fatty acids and showed lower formation of hexanal and 2,4-heptadienal during storage. Thus, DCE could be promising antioxidant in emulsion.",
+  "publication_date": "2025-05-14",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144768",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols",
+      "procyanidin b2",
+      "that polyphenol-rich duea ching fruit extract"
+    ]
+  }
+}

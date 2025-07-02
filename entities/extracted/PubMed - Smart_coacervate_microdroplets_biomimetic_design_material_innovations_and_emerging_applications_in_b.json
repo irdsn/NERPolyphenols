@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Smart coacervate microdroplets: biomimetic design, material innovations, and emerging applications in biomacromolecule delivery.",
+  "abstract": "Coacervate microdroplets, formed via liquid-liquid phase separation, represent a transformative platform in biomacromolecule delivery due to their unique physicochemical properties, such as ultralow interfacial tension, high cargo capacity, and biomimetic cellular condensate-like behavior. This review systematically explored the design principles, driving forces (electrostatic, hydrophobic, and hydrogen-bond interactions) and physicochemical properties of coacervates droplets (microstructure, ultralow interfacial tension, coalescence). We highlighted diverse coacervate materials, including natural polysaccharides, synthetic polymers, polyphenols, nucleotides, proteins/peptides and inorganic polyphosphates, alongside functionalization strategies for controlled release (e.g.,enzymatic/magnetic triggers). The advance in coacervate-derived systems,e.g.,nanoparticles, microdroplets, interface-coated microdroplets, hydrogel, and biomedical devices have been discussed, emphasizing their advantages over conventional carriers. Breakthrough applications of coacervate systems in biomacromolecule or live cells delivery are further summarized in terms of sustained growth factor release for tissue regeneration, achieving cytosolic delivery with minimal toxicity, delivering probiotics to enhance gastrointestinal survival, and mimicking native extracellular matrices to deliver stem cells. Alternatively, pitfalls of coacervate systems for drug delivery,e.g.,thermodynamic instability, cargo leakage, and immunogenicity were analyzed and some potential strategies like surface lipid coating or PEGylation, have been put forward. Bridging fundamental insights with translational needs, this work outlined a roadmap for developing next-generation coacervates, emphasizing multicompartmental architectures for synthetic biology and precision therapeutics. Future directions include adaptive coacervates for personalized medicine, positioning coacervates as versatile tools for advancing regenerative medicine and targeted therapy.",
+  "publication_date": "2025-06-10",
+  "journal": "Bioactive materials",
+  "doi": "10.1016/j.bioactmat.2025.06.016",
+  "entities": {
+    "POLYPHENOL": [
+      "biomacromolecule delivery",
+      "biomacromolecule or live cells delivery",
+      "future directions",
+      "multicompartmental architectures",
+      "polyphenols",
+      "precision therapeutics"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Adsorption and nanoencapsulation: Innovative strategies for recovery and protection of flavonoids from Malpighia emarginata DC. (acerola) pomace extract.",
+  "abstract": "This study evaluated the use of PuroSorb PAD950 resin to enrich flavonoids from Malpighia emarginata DC. pomace extract (MEPE) and their nanoencapsulation using nanocapsules (NC), liposomes (LP), and nanogels (NG). The resin exhibited high adsorption capacity (19.20\u00a0\u00b1\u00a00.93\u00a0mg/g), with adsorption and desorption rates of 74.83\u00a0\u00b1\u00a01.80\u00a0% and 96.76\u00a0\u00b1\u00a04.67\u00a0%, respectively. The dynamic process yielded a flavonoid-rich fraction (FLA) with up to 20-fold flavonoid enrichment and enhanced antioxidant activity (7.8-, 9.9-, and 6.7-fold in DPPH, ABTS, and FRAP assays), compared to MEPE. FLA-LP showed the smallest particle size (103.4\u00a0\u00b1\u00a05.6\u00a0nm) and highest zeta potential (-54.87\u00a0\u00b1\u00a01.21\u00a0mV), while FLA-NC had the lowest PDI (0.0848\u00a0\u00b1\u00a00.0166) and highest encapsulation efficiency (81.43\u00a0\u00b1\u00a00.98\u00a0%). FLA-LP and FLA-NG further improved antioxidant capacity compared to the non-encapsulated fraction. This study highlights a sustainable approach to add value to agro-industrial residues while expanding the practical applications of bioactive compounds.",
+  "publication_date": "2025-06-16",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145121",
+  "entities": {
+    "POLYPHENOL": [
+      "a flavonoid-rich fraction",
+      "flavonoids",
+      "up to 20-fold flavonoid enrichment"
+    ]
+  }
+}

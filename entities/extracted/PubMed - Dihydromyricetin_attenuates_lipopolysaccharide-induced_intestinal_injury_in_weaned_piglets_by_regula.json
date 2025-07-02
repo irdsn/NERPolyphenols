@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Dihydromyricetin attenuates lipopolysaccharide-induced intestinal injury in weaned piglets by regulating oxidative stress and inhibiting NLRP3 inflammasome.",
+  "abstract": "This study explored the effects of dihydromyricetin (DHM) on lipopolysaccharide (LPS)-induced intestinal injury in weaned piglets and also investigated its possible molecular mechanism. The results showed that dietary supplementation of DHM could improve the jejunum morphological structure of piglets induced by LPS, reduce jejunum mucosa inflammation and endoplasmic reticulum stress, increase jejunum mucosa antioxidant capacity and the expression of nuclear factor erythroid 2-related factor 2 (Nrf2) and improve jejunum mucosa permeability. In addition, DHM downregulated the expression of toll-like receptor 4 (TLR4), phosphor-nuclear factor kappa-B (NF-\u03baB), hypoxia-inducible factor-1\u03b1 (HIF-1\u03b1), and the activation of the NOD-like receptor family pyrin domain containing 3 (NLRP3) inflammasome. Taken together, LPS could induce jejunum mucosa injury in weaned piglets, but dietary supplementation of DHM alleviated LPS-induced jejunum mucosa injury to a certain extent, and the mechanism may be related to the activation of Nrf2 to inhibit the oxidative stress and negatively regulate the activation of the TLR4/HIF-1\u03b1/NLRP3 signaling axis.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of animal science",
+  "doi": "10.1093/jas/skaf114",
+  "entities": {
+    "POLYPHENOL": [
+      "dihydromyricetin (dhm",
+      "its possible molecular mechanism",
+      "the effects",
+      "the mechanism",
+      "the nod-like receptor family pyrin domain",
+      "toll-like receptor"
+    ],
+    "SYMPTOM": [
+      "endoplasmic reticulum stress",
+      "jejunum mucosa inflammation",
+      "the oxidative stress"
+    ]
+  }
+}

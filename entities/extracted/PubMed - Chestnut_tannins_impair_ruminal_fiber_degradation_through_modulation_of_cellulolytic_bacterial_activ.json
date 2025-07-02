@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Chestnut tannins impair ruminal fiber degradation through modulation of cellulolytic bacterial activity in sheep: an in vivo and in vitro investigation.",
+  "abstract": "Chestnut tannin (CHT) exhibits multiple biological activities, including antioxidant, antimicrobial, and anti-inflammatory properties. It can modulate the rumen microbiota composition, promoting animal health and improving production performance. This study investigates the effects of CHT on ruminal fermentation, cellulolytic activity, and microbial community of sheep in vivo and in vitro experiments. Eighteen 1.5-yr-old Mongolian rams fitted with permanent rumen cannulas (initial body weight: 43.0\u2005\u00b1\u20052.0\u00a0kg) were ranked by body weight from lowest to highest and then divided into six blocks, with three sheep per block. Within each block, the sheep were randomly assigned to one of the following dietary treatments: 1) control-basal diet without CHT (0%), 2) 2% CHT-basal diet supplemented with CHT at 2% DM, and 3) 6% CHT-basal diet supplemented with CHT at 6% DM. Rumen fluid was collected to evaluate fermentation parameters, while rumen contents were analyzed for cellulase activity, total bacterial community, and cellulolytic bacterial populations. Neutral detergent fiber (NDF) degradability was measured using the nylon bag technique. In vitro, dominant ruminal cellulolytic bacteria were cultured with 200 \u03bcg/mL and 600 \u03bcg/mL CHT to evaluate their growth, morphology, enzyme activities, and cellulose degradation capacity. In vivo results indicated that 6% CHT significantly reduced growth performance and the abundance of cellulolytic bacteria (P\u2005<\u20050.05). The concentration of NH3-N, in situ degradability of NDF, and xylanase activity decreased with increasing CHT supplementation (P\u2005<\u20050.05). In vitro results demonstrated that 200 \u03bcg/mL and 600 \u03bcg/mL CHT inhibited the growth of fiber-degrading bacteria, disrupted bacterial morphology, reduced the degradation rate of cellulolytic bacteria, and suppressed fiber-degrading enzyme activity (P\u2005<\u20050.05). Collectively, CHT reduced the population of cellulolytic bacteria in the rumen of sheep, inhibited cellulase activity, and affected cellulose digestion in sheep. These findings demonstrate that CHT supplementation inhibits ruminal fiber degradation through direct suppression of cellulolytic bacterial growth and activity.",
+  "publication_date": "2025-06-01",
+  "journal": "Journal of animal science",
+  "doi": "10.1093/jas/skaf189",
+  "entities": {
+    "POLYPHENOL": [
+      "chestnut tannin",
+      "direct suppression",
+      "the effects",
+      "the nylon bag technique"
+    ]
+  }
+}

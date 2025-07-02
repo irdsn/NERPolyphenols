@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Untargeted Chemical Profile, Antioxidant, and Enzyme Inhibition Activity ofPhysalis angulataL. from the Peruvian Amazon: A Contribution to the Validation of Its Pharmacological Potential.",
+  "abstract": "Physalis angulatais a plant of great value in traditional medicine known for its content of bioactive compounds, such as physalins and withanolides, which possess diverse biological activities. In this study, the chemical profile, antioxidant activity, and enzyme inhibition capacity of aqueous and ethanolic extracts obtained from the root, stem, leaves, calyx, and fruits ofP. angulatacollected in Peru were evaluated. A total of forty-two compounds were detected in the extracts using UHPLC-ESI-QTOF-MS analysis. In vitro analyses revealed that leaf extracts contained the highest concentration of phenolic compounds, while leaf and fruit extracts showed the best results in FRAP, DPPH, and ABTS antioxidant tests; on the other hand, inhibition of AChE, BChE, \u03b1-glucosidase, and \u03b1-amylase enzymes was variable, but calyx and fruit extracts showed higher effectiveness. In silico analyses indicated that the compounds physagulin A, physagulin F, physagulide P, physalin B, and withaminimin showed stable interactions and favorable binding affinities with the catalytic sites of the enzymes studied. These results confirm the pharmacological potential of extracts and compounds derived from different organs ofP. angulata, suggesting their promising use in treating diseases related to the central nervous system and metabolic syndrome.",
+  "publication_date": "2025-02-20",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14030246",
+  "entities": {
+    "POLYPHENOL": [
+      "higher effectiveness",
+      "phenolic compounds"
+    ],
+    "FOOD": [
+      "calyx and fruit extracts",
+      "leaf and fruit extracts"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

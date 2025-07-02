@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Urinary Metabolomics Study on the Protective Role of Cocoa in Zucker Diabetic Rats via1H-NMR-Based Approach.",
+  "abstract": "Cocoa constitutes one of the richest sources of dietary flavonoids with demonstrated anti-diabetic potential. However, the metabolic impact of cocoa intake in a diabetic context remains unexplored. In this study, metabolomics tools have been used to investigate the potential metabolic changes induced by cocoa in type 2 diabetes (T2D). To this end, male Zucker diabetic fatty rats were fed on standard (ZDF) or 10% cocoa-rich diet (ZDF-C) from week 10 to 20 of life. Cocoa supplementation clearly decreased serum glucose levels, improved glucose metabolism and produced significant changes in the urine metabolome of ZDF animals. Fourteen differential urinary metabolites were identified, with eight of them significantly modified by cocoa. An analysis of pathways revealed that butanoate metabolism and the synthesis and degradation of branched-chain amino acids and ketone bodies are involved in the beneficial impact of cocoa on diabetes. Moreover, correlation analysis indicated major associations between some of these urine metabolites (mainly valine, leucine, and isoleucine) and body weight, glycemia, insulin sensitivity, and glycated hemoglobin levels. Overall, this untargeted metabolomics approach provides a clear metabolic fingerprint associated to chronic cocoa intake that can be used as a marker for the improvement of glucose homeostasis in a diabetic context.",
+  "publication_date": "2022-10-04",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu14194127",
+  "entities": {
+    "FOOD": [
+      "10% cocoa-rich diet",
+      "chronic cocoa intake",
+      "cocoa",
+      "cocoa intake",
+      "cocoa supplementation"
+    ],
+    "POLYPHENOL": [
+      "dietary flavonoids"
+    ]
+  }
+}

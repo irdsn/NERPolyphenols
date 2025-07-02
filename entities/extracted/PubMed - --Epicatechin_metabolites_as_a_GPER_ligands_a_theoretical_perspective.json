@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "(-)-Epicatechin metabolites as a GPER ligands: a theoretical perspective.",
+  "abstract": "Diet habits and nutrition quality significantly impact health and disease. Here is delve into the intricate relationship between diet habits, nutrition quality, and their direct impact on health and homeostasis. Focusing on (-)-Epicatechin, a natural flavanol found in various foods like green tea and cocoa, known for its positive effects on cardiovascular health and diabetes prevention. The investigation encompasses the absorption, metabolism, and distribution of (-)-Epicatechin in the human body, revealing a diverse array of metabolites in the circulatory system. Notably, (-)-Epicatechin demonstrates an ability to activate nitric oxide synthase (eNOS) through the G protein-coupled estrogen receptor (GPER). While the precise role of GPER and its interaction with classical estrogen receptors (ERs) remains under scrutiny, the study employs computational methods, including density functional theory, molecular docking, and molecular dynamics simulations, to assess the physicochemical properties and binding affinities of key (-)-Epicatechin metabolites with GPER. DFT analysis revealed distinct physicochemical properties among metabolites, influencing their reactivity and stability. Rigid and flexible molecular docking demonstrated varying binding affinities, with some metabolites surpassing (-)-Epicatechin. Molecular dynamics simulations highlighted potential binding pose variations, while MMGBSA analysis provided insights into the energetics of GPER-metabolite interactions. The outcomes elucidate distinct interactions, providing insights into potential molecular mechanisms underlying the effects of (-)-Epicatechin across varied biological contexts.",
+  "publication_date": "2024-08-17",
+  "journal": "Molecular diversity",
+  "doi": "10.1007/s11030-024-10968-9",
+  "entities": {
+    "POLYPHENOL": [
+      "-)-epicatechin",
+      "classical estrogen receptors",
+      "focusing on (-)-epicatechin, a natural flavanol",
+      "its positive effects",
+      "molecular docking",
+      "molecular dynamics simulations",
+      "potential molecular mechanisms",
+      "rigid and flexible molecular docking",
+      "scrutiny",
+      "the effects",
+      "the g protein-coupled estrogen receptor",
+      "the precise role",
+      "their direct impact"
+    ],
+    "FOOD": [
+      "cocoa",
+      "green tea"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Boron-Centered Compounds: Exploring the Optical Properties of Spiro Derivatives with Imidazo[1,5-a]Pyridines.",
+  "abstract": "Five boron-centered spiro compounds with imidazo[1,5-a]pyridin-3-yl phenols as ligands were synthesized and thoroughly characterized through1H-NMR,13C-NMR, infrared spectroscopy, and X-ray single crystal analysis. The fluorescence properties of these compounds in solution and in the solid state were investigated, revealing blue emission with wavelengths maxima dependent on the electronic properties of the substituents on the ligands in solution, and an orange-red emission in the solid state. Time-Dependent Density Functional Theory (TD-DFT) calculations were performed to describe the nature of the transitions.",
+  "publication_date": "2025-06-11",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122552",
+  "entities": {
+    "POLYPHENOL": [
+      "infrared spectroscopy",
+      "the electronic properties"
+    ],
+    "FOOD": [
+      "an orange-red emission"
+    ]
+  }
+}

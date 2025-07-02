@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Extraction of Bioactive Compounds fromLarrea cuneifoliaCav. Using Natural Deep Eutectic Solvents: A Contribution to the Plant Green Extract Validation of Its Pharmacological Potential.",
+  "abstract": "A sustainable alternative to replace the use of toxic and non-biodegradable conventional solvents for the extraction of active principles from plants is natural deep eutectic solvents (NADESs).Larrea cuneifoliaCav. (Zygophyllaceae) is a plant widely distributed in semiarid areas of western Argentina. Several studies validate its popular medicinal use by demonstrating its biological activities such as antibacterial, antifungal, antioxidant, anti-inflammatory, and anticarcinogenic properties, among others. The aim of this work was to compare the bioactive compounds and the in vitro antioxidant and antibacterial activity ofL. cuneifoliaextracts using non-conventional vs. conventional solvents. Aqueous, ethanolic, and four NADES extracts were prepared. The extracts were phytochemically characterized, and extracted compounds were identified by UHPLC-MS/MS. Antioxidant activity was determined by evaluating the hydrogen peroxide and free radical scavenging capacity using ABTS\u2022+. The antibacterial activity of the extracts and NADESs was evaluated against Gram-positive and Gram-negative multidrug-resistant strains. The extracts ofL. cuneifoliapresented a variable content of total phenolic compounds between 4163.4 and 24,371.63 \u00b5g GAE/mL. Phenolic acids, flavonoid glycosides, flavanones, flavones, flavonols, alkaloids, lignans (nordihydroguaiaretic acid and its derivatives), and other compounds were tentatively identified in extracts ofL. cuneifoliaobtained with conventional and non-conventional solvents. A heatmap cluster and a bubble plot were created to compare the diversity and relative abundance of identified compounds, and the extracts were classified into two major groups. All extracts were able to scavenge > 40% of hydrogen peroxide and the ABTS radical cation (ABTS\u2022+) (CD50= 3.15-5.13 \u00b5g GAE/mL). The LAS extract exhibited the highest bacterial growth inhibition (MIC = 75-37.5 \u00b5g GAE/mL). In conclusion, the results show that NADESs represent a sustainable alternative for the extraction of compounds with antioxidant and antibacterial activity and could therefore replace traditional solvents in the pharmaceutical, cosmetic, or food industries.",
+  "publication_date": "2025-03-24",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14071016",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoid glycosides",
+      "natural deep eutectic solvents",
+      "total phenolic compounds"
+    ]
+  }
+}

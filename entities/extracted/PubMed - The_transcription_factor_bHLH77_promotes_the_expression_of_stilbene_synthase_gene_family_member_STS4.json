@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "The transcription factor bHLH77 promotes the expression of stilbene synthase gene family member STS48 and stilbene biosynthesis by stabilizing MYB15 in Vitis quinquangularis.",
+  "abstract": "Stilbenes are crucial phytoalexins in plants that can protect against pathogenic invasions. Grapevines, in particular, contain significant amounts of stilbenes. The stilbene synthase (STS) genes have been shown to facilitate the accumulation of these stilbenes. MYB15, a v-myb avian myeloblastosis viral oncogene homolog (MYB) transcription factors (TFs) from grapevine, has been identified as a positive regulator of stilbene synthesis by activating the promoter of STS48, thereby enhancing plant's resistance to biotic and abiotic stresses. MYB TFs have been demonstrated to play diverse roles in plant growth and development through interacting with basic helix-loop-helix (bHLH) TFs. In the present study, we discovered the interaction between VqbHLH77 and VqMYB15 through Y2H screening from Vitis quinquangularis (V. quinquangularis), and the confirmation of this interaction was achieved using Y2H, BiFC, Pull-down and split-luciferase assays. Additionally, transient expression of VqbHLH77 and VqMYB15 in grape leaves revealed that their co-expression significantly increased the expression of VqSTS48 and the accumulation of stilbenes. More importantly, VqbHLH77 was shown to directly enhance the protein stability of VqMYB15. Heterologous expression of VqbHLH77, VqMYB15, and VqSTS48 in Arabidopsis significantly enhanced its resistance to Pst DC3000. Further we found that VqbHLH77 confers resistance to Pst DC3000 in Arabidopsis by activating the salicylic acid (SA) and jasmonic acid (JA) signaling pathways.",
+  "publication_date": "2025-04-21",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.143327",
+  "entities": {
+    "FOOD": [
+      "grape leaves",
+      "grapevine",
+      "grapevines"
+    ],
+    "SYMPTOM": [
+      "biotic and abiotic stresses"
+    ],
+    "POLYPHENOL": [
+      "the salicylic acid"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Exploring the therapeutic mechanism of Miao nationality medicine Qijiao Shengbai capsule on leukopenia based on multi-omics, network pharmacology and experimental verification.",
+  "abstract": "Leukopenia is caused by numerous factors, and modern drug therapies have obvious side effects, Qijiao Shengbai Capsule (QJSB) is a compound prescription developed from Miao medicine, widely used in clinical treatment of leukopenia. However, its mechanism of action for treating leukopenia remains unclear.",
+  "publication_date": "2025-06-05",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156935",
+  "entities": {
+    "POLYPHENOL": [
+      "its mechanism",
+      "obvious side effects"
+    ]
+  }
+}

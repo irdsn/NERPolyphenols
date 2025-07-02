@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Icaritin Attenuates HSC Activation by Down-regulating the HIF-1\u03b1 and TGF-\u03b2/Smad Signaling Pathways to Ameliorate Liver Fibrosis.",
+  "abstract": "Icaritin is a bioactive flavonol isolated from the Chinese medicinal herb Epimedium. The comprehensive understanding of antifibrotic effects and associated molecular mechanisms of icaritin remains incomplete. This study aims to explore the protective effects of icaritin against liver fibrosis and to further elucidate the mechanisms involved.",
+  "publication_date": "2025-05-05",
+  "journal": "Current medicinal chemistry",
+  "doi": "10.2174/0109298673362768250417052953",
+  "entities": {
+    "POLYPHENOL": [
+      "antifibrotic effects",
+      "molecular mechanisms",
+      "the mechanisms",
+      "the protective effects"
+    ],
+    "SYMPTOM": [
+      "liver fibrosis"
+    ]
+  }
+}

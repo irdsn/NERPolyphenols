@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "[Chemical and pharmacological research progress on Mongolian folk medicine Syringa pinnatifolia].",
+  "abstract": "Syringa pinnatifolia, belonging to the family Oleaceae, is a species endemic to China. It is predominantly distributed in the Helan Mountains region of Inner Mongolia and Ningxia of China. The peeled roots, stems, and thick branches have been used as a distinctive Mongolian medicinal material known as &quot;Shan-chen-xiang&quot;, which has effects such as suppressing &quot;khii&quot;, clearing heat, and relieving pain and is employed for the treatment of cardiovascular and pulmonary diseases and joint pain. Over the past five years, significant increase was achieved in research on chemical constituents and pharmacological effects. There were a total of 130 new constituents reported, covering sesquiterpenoids, lignans, and alkaloids. Its effects of anti-myocardial ischemia, anti-cerebral ischemia/reperfusion, sedation, and analgesia were revealed, and the mechanisms of agarwood formation were also investigated. To better understand its medical value and potential of clinical application, this review updates the research progress in recent five years focusing on the chemical constituents and pharmacological effects of S. pinnatifolia, providing reference for subsequent research on active ingredient and support for its innovative application in modern medicine system.",
+  "publication_date": "2025-06-01",
+  "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+  "doi": "10.19540/j.cnki.cjcmm.20250117.201",
+  "entities": {
+    "POLYPHENOL": [
+      "a species",
+      "effects",
+      "its effects",
+      "pharmacological effects",
+      "recent five years",
+      "the mechanisms"
+    ],
+    "SYMPTOM": [
+      "joint pain",
+      "pain"
+    ]
+  }
+}

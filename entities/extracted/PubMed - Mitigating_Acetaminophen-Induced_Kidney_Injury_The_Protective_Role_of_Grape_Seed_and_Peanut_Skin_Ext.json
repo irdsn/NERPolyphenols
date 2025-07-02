@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Mitigating Acetaminophen-Induced Kidney Injury: The Protective Role of Grape Seed and Peanut Skin Extracts through the iNOS/CYP2E1 Pathway.",
+  "abstract": "The rising number of acute kidney injury cases worldwide due to acetaminophen (APAP) emphasizes the critical need for effective prevention strategies to counteract APAP's detrimental effects. This study examined the kidney-protective capabilities of ethanolic extracts from grape seeds and peanut skins (GSEE and PSEE, respectively) in comparison with silymarin in rats that experienced an APAP overdose. The phenolic compounds in these extracts were measured by using high-performance liquid chromatography (HPLC). In the experiment, Sixty adult male albino rats were divided into five groups of 12. The Control group received 0.5 mL of saline via a gastric tube. Group II received acetaminophen (APAP, 640 mg/kg per day via a gastric tube) to induce renal injury, following Ucar et al. and Islam et al. Groups III, IV, and V received silymarin (50 mg/kg), grape seed extract (200 mg/kg), and peanut skin extract (200 mg/kg), respectively, along with 640 mg of APAP/kg per day for 21 days. Post APAP treatment, significant increases in serum urea and creatinine levels were noted, along with notable decreases in the percentage of body weight gain. Furthermore, there were increases in oxidative stress and inflammatory markers in the kidney tissues, including heightened mRNA expressions of renal iNOS and CYP2E1, which were confirmed through histological studies. The administration of GSEE, PSEE, and silymarin mitigated these adverse effects, likely due to their high phenolic content, which is recognized for its antioxidant and anti-inflammatory effects. GSEE, in particular, showed efficacy comparable to that of silymarin. Molecular docking studies revealed that APAP impeded critical enzymes essential for cellular antioxidant defense, whereas the bioactive compounds in the grape seed and peanut skin extracts effectively inhibited key enzymes and receptors involved in inflammation and oxidative stress. These findings suggest that GSEE and PSEE could serve as viable alternative treatments for kidney damage induced by APAP. Further research to isolate and identify these effective compounds is recommended.",
+  "publication_date": "2024-07-30",
+  "journal": "ACS omega",
+  "doi": "10.1021/acsomega.4c05534",
+  "entities": {
+    "POLYPHENOL": [
+      "apap's detrimental effects",
+      "effective prevention strategies",
+      "its antioxidant and anti-inflammatory effects",
+      "molecular docking studies",
+      "notable decreases",
+      "receptors",
+      "silymarin",
+      "the kidney-protective capabilities",
+      "the phenolic compounds",
+      "these adverse effects",
+      "these effective compounds"
+    ],
+    "FOOD": [
+      "grape seed extract",
+      "grape seeds",
+      "the grape seed"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

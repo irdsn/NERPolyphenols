@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Circulating Structurally Related (-)-Epicatechin Metabolite Species and Levels after Sustained Intake of a Cocoa Powder High in Polyphenols Are Comparable to Those Achieved after a Single Dose.",
+  "abstract": "While the bioavailability of cocoa polyphenols, particularly of the monomer (-)-epicatechin, has been investigated after a single-dose intake, the effect of sustained cocoa consumption on the metabolic profile of the structurally related (-)-epicatechin metabolites (SREMs) has not been investigated.",
+  "publication_date": "2021-10-27",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu13113829",
+  "entities": {
+    "POLYPHENOL": [
+      "-)-epicatechin",
+      "cocoa polyphenols",
+      "the effect"
+    ],
+    "FOOD": [
+      "sustained cocoa consumption"
+    ]
+  }
+}

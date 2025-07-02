@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Resveratrol synthase homologs participate in infection ofNicotiana benthamianaby pathogenic plant viruses and fungi.",
+  "abstract": "Resveratrol synthase (RS) is a key enzyme involved in the synthesis of stilbene and resveratrol. Resveratrol has many biological pharmacological activities that are beneficial to human health including anti-cancer, cardiovascular protection, estrogen regulation, antibacterial, antiviral, and reduction of tissue and organ damage. In plants, RS catalyzes the production of resveratrol, which helps to protect against fungal and bacterial diseases.",
+  "publication_date": "2025-04-02",
+  "journal": "Frontiers in microbiology",
+  "doi": "10.3389/fmicb.2025.1534785",
+  "entities": {
+    "POLYPHENOL": [
+      "cardiovascular protection",
+      "resveratrol",
+      "resveratrol synthase"
+    ],
+    "SYMPTOM": [
+      "cancer"
+    ]
+  }
+}

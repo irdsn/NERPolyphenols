@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Anti-Thrombotic Activity of 3-Deoxysappanchalcone via Inhibiting Platelet Aggregation and Thrombin (FIIa)/Activated Factor X (FXa) Activity.",
+  "abstract": "Naturally occurring plant-based compounds are increasingly being explored for their therapeutic potential in treating a wide range of conditions, particularly those related to vascular health. The compound 3-deoxysappanchalcone (3-DSC), derived fromCaesalpinia sappanL., has been proven to exhibit anti-inflammatory, anti-influenza, and anti-allergic properties, though its role in thrombosis and haemostasis remains unexplored. This study aimed to evaluate the anti-thrombotic potential of 3-DSC in both in vitro and in vivo models. The anticoagulant activities of 3-DSC were assessed using activated partial thromboplastin time (aPTT), prothrombin time (PT), and thrombin (FIIa) and activated factor X (FXa) activity assays, as well as fibrin polymerization and platelet aggregation tests. Its effects on plasminogen activator inhibitor type 1 (PAI-1) and tissue-type plasminogen activator (t-PA) expression were evaluated in TNF-\u03b1-stimulated human umbilical vein endothelial cells (HUVECs). The results demonstrated that 3-DSC extended aPTT and PT, suppressed thrombin and FXa activities, reduced their production in HUVECs, inhibited thrombin-induced fibrin polymerization and platelet aggregation, and exerted anticoagulant effects in mice. Furthermore, 3-DSC significantly decreased the PAI-1 to t-PA ratio. These findings suggest that 3-DSC possesses potent anti-thrombotic properties by modulating coagulation pathways and fibrinolysis. Its therapeutic potential warrants further investigation for the development of novel anticoagulant agents.",
+  "publication_date": "2025-06-13",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122580",
+  "entities": {
+    "POLYPHENOL": [
+      "anticoagulant effects",
+      "huvecs",
+      "its effects"
+    ]
+  }
+}

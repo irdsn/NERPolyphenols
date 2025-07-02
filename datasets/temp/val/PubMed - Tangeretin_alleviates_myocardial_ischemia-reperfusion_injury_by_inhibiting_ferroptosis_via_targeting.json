@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Tangeretin alleviates myocardial ischemia-reperfusion injury by inhibiting ferroptosis via targeting nicotinamide phosphoribosyltransferase (NAMPT).",
+  "abstract": "Myocardial ischemia-reperfusion (I/R) injury is caused by the restoration of blood flow in the ischemic myocardia after myocardial infarction (MI). Ferroptosis, a form of cell death, is associated with myocardial I/R injury. Tangeretin exhibits various pharmacological effects, however, whether it plays a cardioprotective role in myocardial I/R injury remains to be explored. In this study, a mouse model of myocardial I/R and hypoxia/reoxidation (H/R)-induced HL-1 cardiomyocytes were utilized to investigate the effect of tangeretin on myocardial I/R injury-related ferroptosis. Tangeretin ameliorated myocardial I/R injury, as evidenced by reducing infarct size, relieving myocardial cell swelling, as well as preventing H/R-triggered loss of cell viability. Tangeretin also mitigated ferroptosis, which was manifested as reduction of ferrous iron overload, inhibition of reactive oxygen species (ROS) and lipid peroxidation (LPO) accumulation, and upregulation of ferroptosis inhibitors. Subsequently, network pharmacology analysis indicated that nicotinamide phosphoribosyltransferase (NAMPT) was a potential target of tangeretin. Mechanistic studies confirmed that tangeretin inhibited the ubiquitination degradation of NAMPT, thus stabilizing its expression. Rescue assays further proved that NAMPT knockdown abolished the inhibitory effect of tangeretin on ferroptosis in H/R-induced cardiomyocytes. In conclusion, tangeretin protects against myocardial I/R injury by reducing ferroptosis through targeting NAMPT.",
+  "publication_date": "2025-04-02",
+  "journal": "European journal of pharmacology",
+  "doi": "10.1016/j.ejphar.2025.177568"
+}

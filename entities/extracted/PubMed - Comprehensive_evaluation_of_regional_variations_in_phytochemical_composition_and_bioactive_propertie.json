@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Comprehensive evaluation of regional variations in phytochemical composition and bioactive properties of Artemisia argyi.",
+  "abstract": "Artemisia argyi (A. argyi) from distinct cultivation ecoregions exhibit significant phytochemical and bioactivity variations. However, no systematic study has yet elucidated their intrinsic correlations, hindering reproducible quality marker development.",
+  "publication_date": "2025-06-04",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.120098",
+  "entities": {
+    "POLYPHENOL": [
+      "distinct cultivation ecoregions"
+    ]
+  }
+}

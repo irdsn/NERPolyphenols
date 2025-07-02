@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Oxidative Stress Protection and Anti-Inflammatory Activity of Polyphenolic Fraction fromUrtica dioica: In Vitro Study Using Human Skin Cells.",
+  "abstract": "Polyphenols are valuable contributors to skin health, offering potent antioxidant and anti-inflammatory effects that help counteract the process of inflammaging. According to the literature,Urtica dioicaL. is a rich source of polyphenolic compounds, suggesting its potential for applications in cosmetology and dermatology. This study aimed to evaluate the antioxidant and anti-inflammatory activity of polyphenol-rich fractions isolated fromU. dioicaleaves (UdLs) and flowers (UdFs) using human skin cells subjected to oxidative stress and lipopolysaccharide (LPS) stimulation, respectively. Extracts were obtained via an accelerated solvent extraction and further purified by a solid-phase extraction to concentrate their polyphenolic content. Their chemical composition was analyzed using UPLC-DAD-MS. Biological activity was assessed through cytotoxicity assays (NR and MTT), chemical and cellular antioxidant assays (DPPH, ABTS, FRAP, CUPRAC, TPC, and H\u2082DCFDA), an evaluation of antioxidant enzyme activity (SOD, CAT), lipid peroxidation (MDA), and cytokine production (IL-1\u03b2, IL-6, IL-10). Our study showed that both fractions were abundant in phenolic compounds, with chlorogenic acid identified as the predominant constituent. UdLs contained higher levels of phenolic acids, whereas the UdF was richer in flavonoids, particularly derivatives of isorhamnetin. Both the UdL and UdF were non-cytotoxic and exhibited strong radical scavenging potential, with the UdL being slightly more effective. They significantly reduced intracellular ROS levels, enhanced the activity of antioxidant enzymes, and attenuated lipid peroxidation in cells exposed to oxidative stress. Moreover, both fractions reduced the secretion of pro-inflammatory cytokines in LPS and H2O2-stimulated fibroblasts. These results highlight the potential of polyphenolic fractions derived fromU. dioicaleaves and flowers as multifunctional ingredients for anti-aging and skin-protective cosmetics.",
+  "publication_date": "2025-06-09",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122515",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-aging and skin-protective cosmetics",
+      "chlorogenic acid",
+      "flavonoids",
+      "isorhamnetin",
+      "phenolic compounds",
+      "polyphenol-rich fractions",
+      "polyphenolic compounds",
+      "polyphenolic fractions",
+      "polyphenols",
+      "potent antioxidant and anti-inflammatory effects",
+      "the secretion",
+      "their polyphenolic content"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

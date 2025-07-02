@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Neurodevelopmental disorders and gut-brain interactions: exploring the therapeutic potential of pycnogenol through microbial-metabolic-neural networks.",
+  "abstract": "Neurodevelopmental disorders (NDDs), characterized by cognitive impairments and behavioral abnormalities, represent a clinically diverse group of conditions typically emerging during childhood or adolescence. Major subtypes encompass autism spectrum disorder (ASD), attention-deficit hyperactivity disorder (ADHD), and epilepsy. The pathogenesis of these disorders involves multifactorial interactions between genetic susceptibility (Shank3mutations in ASD), environmental triggers (prenatal toxins), neurotransmitter dysregulation (dopamine (GA) and \u03b3-aminobutyric acid (GABA) systems) and immune dysregulation. Growing research highlights the gut-brain axis disruption as a potential contributor to NDDs pathophysiology, though systematic evaluation of therapeutic approaches targeting this axis and related gastrointestinal comorbidities (GIDs) remains limited. This review comprehensively examines the pathological mechanisms underlying ADHD, ASD, and epilepsy, while analyzing the reciprocal relationship between gut-brain axis dysregulation and GID manifestations in NDDs. Notably, abnormal activation of key signaling pathways including NF-\u03baB, MAPK and PI3K/AKT/mTOR is strongly associated with the pathogenesis of NDDs. We further propose pycnogenol (PYC), a polyphenol extract of pine bark, as a natural compound with multiple bioactivities such as anti-inflammatory and antioxidant, can directly or indirectly affect the function of the gut-brain axis by regulating the structure of the intestinal microbial community (increasing the abundance ofAkkermansia muciniphilaand butyric acid-producing bacteria) and its metabolites, providing a new strategy for the treatment of NDDs.",
+  "publication_date": "2025-06-11",
+  "journal": "Frontiers in cellular and infection microbiology",
+  "doi": "10.3389/fcimb.2025.1601888",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol extract",
+      "autism spectrum disorder",
+      "the pathological mechanisms",
+      "the reciprocal relationship"
+    ]
+  }
+}

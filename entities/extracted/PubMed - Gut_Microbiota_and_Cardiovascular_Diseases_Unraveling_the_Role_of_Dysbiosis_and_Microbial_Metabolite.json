@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Gut Microbiota and Cardiovascular Diseases: Unraveling the Role of Dysbiosis and Microbial Metabolites.",
+  "abstract": "Cardiovascular diseases (CVDs), including heart failure (HF), hypertension, myocardial infarction (MI), and atherosclerosis, are increasingly linked to gut microbiota dysbiosis and its metabolic byproducts. HF, affecting over 64 million individuals globally, is associated with systemic inflammation and gut barrier dysfunction, exacerbating disease progression. Similarly, hypertension and MI correlate with reduced microbial diversity and an abundance of pro-inflammatory bacteria, contributing to vascular inflammation and increased cardiovascular risk. Atherosclerosis is also influenced by gut dysbiosis, with key microbial metabolites such as trimethylamine-N-oxide (TMAO) and short-chain fatty acids (SCFAs) playing crucial roles in disease pathogenesis. Emerging evidence highlights the therapeutic potential of natural compounds, including flavonoids, omega-3 fatty acids, resveratrol, curcumin, and marine-derived bioactives, which modulate the gut microbiota and confer cardioprotective effects. These insights underscore the gut microbiota as a critical regulator of cardiovascular health, suggesting that targeting dysbiosis may offer novel preventive and therapeutic strategies. Further research is needed to elucidate underlying mechanisms and optimize microbiome-based interventions for improved cardiovascular outcomes.",
+  "publication_date": "2025-04-30",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26094264",
+  "entities": {
+    "SYMPTOM": [
+      "atherosclerosis",
+      "gut dysbiosis",
+      "heart failure",
+      "hypertension",
+      "systemic inflammation",
+      "vascular inflammation"
+    ],
+    "POLYPHENOL": [
+      "cardioprotective effects",
+      "curcumin",
+      "flavonoids",
+      "resveratrol",
+      "underlying mechanisms"
+    ],
+    "FOOD": [
+      "omega-3 fatty acids"
+    ]
+  }
+}

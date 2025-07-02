@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "In vivo, in vitro and in silico evaluation of Rumex nepalensis Spreng. and its active phytoconstituent (Chrysophanol) in gastrointestinal disorders.",
+  "abstract": "Rumex nepalensis Spreng, is widely used in traditional medicine for management of gastrointestinal (GIT) disorder, including ulcer, diarrhea and inflammation. However, limited scientific evidence exists to validate its traditional use in GIT disorders.",
+  "publication_date": "2025-06-23",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.120177",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

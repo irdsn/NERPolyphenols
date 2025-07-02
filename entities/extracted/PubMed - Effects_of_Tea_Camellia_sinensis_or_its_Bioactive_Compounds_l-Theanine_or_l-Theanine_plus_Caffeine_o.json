@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Effects of Tea (Camellia sinensis) or its Bioactive Compounds l-Theanine or l-Theanine plus Caffeine on Cognition, Sleep, and Mood in Healthy Participants: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+  "abstract": "The bioactive compounds found in tea from Camellia sinensis, namely theanine, caffeine, and polyphenols, can potentially improve short-term and long-term health outcomes.",
+  "publication_date": "2025-05-02",
+  "journal": "Nutrition reviews",
+  "doi": "10.1093/nutrit/nuaf054",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols"
+    ]
+  }
+}

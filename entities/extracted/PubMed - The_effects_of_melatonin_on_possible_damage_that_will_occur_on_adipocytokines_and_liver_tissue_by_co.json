@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "The effects of melatonin on possible damage that will occur on adipocytokines and liver tissue by coadministration of fructose and bisphenol a (BPA).",
+  "abstract": "BPA, one of the environmental endocrine disruptors, and fructose, reason of liver steatosis which is frequently encountered in the daily diet, contribute to the formation of metabolic syndrome (MetS). This study examines the possible effects of concurrent fructose and BPA administration on MetS and determines the effects of melatonin on this process. In the seven identified groups, a total of forty-two adult male Sprague Dawley rats were treated by following fructose, BPA, and melatonin amounts, separately and together: group 1 (control), group 2 (10% aqueous fructose), group 3 (25\u00a0mg/kg BPA), group 4 (10% fructose\u2009+\u200925\u00a0mg/kg BPA), group 5 (10% fructose\u2009+\u200920\u00a0mg/kg melatonin), group 6 (25\u00a0mg/kg BPA\u2009+\u200920\u00a0mg/kg melatonin), and group 7 (10% fructose\u2009+\u200925\u00a0mg/kg BPA\u2009+\u200920\u00a0mg/kg melatonin). At the end of 60\u00a0days, histochemical, immunohistochemical, and biochemical procedures were performed on liver tissue. As a result, it was seen that BPA and fructose + BPA induced morphological alteration and inflammation and increased intracellular lipid quantity and amount of collagen and reticular fibers. The percentage of apoptotic liver cells stained by annexin V-FITC/PI was lower in group 7 compared to the group 4 (p\u2009<\u20090,001) and also in group 6 compared to the group 3 (p\u2009=\u20090.014). Both BPA and fructose application caused an increase in lipid peroxidation level due to the increase of oxidative stress. Application of melatonin induced antioxidant enzyme activity and reduced lipid peroxidation level. Our results indicate that fructose and BPA administration triggered the formation of MetS, whereas melatonin healed these variations, although not entirely.",
+  "publication_date": "2020-03-02",
+  "journal": "Environmental science and pollution research international",
+  "doi": "10.1007/s11356-020-08041-7",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "liver steatosis",
+      "metabolic syndrome",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "the effects",
+      "the possible effects"
+    ]
+  }
+}

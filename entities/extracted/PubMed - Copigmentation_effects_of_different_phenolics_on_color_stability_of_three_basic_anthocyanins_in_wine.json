@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Copigmentation effects of different phenolics on color stability of three basic anthocyanins in wines: Chromaticity, thermodynamics and molecular dynamics simulation.",
+  "abstract": "The effects of six polyphenol copigments on color stability of three monomeric anthocyanins was investigated during wine aging (90\u00a0days) through the analysis of chromaticity, thermodynamics and molecular dynamics simulation. Quercetin-3-O-glucoside and caffeic acid exhibited a more pronounced copigmentation effect, with the copigmentation effects of all polyphenol copigments on malvidin-3-O-glucoside and malvidin-3-O-acetylglucoside being significantly greater than that on delphinidin-3-glucoside. The thermodynamic parameters also showed that both the structures of anthocyanins and copigments could influence copigmentation effects, and the quercetin obtained the strongest copigment with malvidin-3-O-glucoside (K\u00a0=\u00a01572.01). Hydrogen bonds and van der Waals forces facilitated the interaction between anthocyanins and flavonol. The hydroxylated groups of delphinidin-3-glucoside might alter the spatial conformation of the complex, resulting in steric effect. The findings of this study could contribute to a deeper understanding of how copigments and anthocyanin structures influence color stability during wine storage.",
+  "publication_date": "2025-02-19",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.143499",
+  "entities": {
+    "POLYPHENOL": [
+      "a more pronounced copigmentation effect",
+      "all polyphenol copigments",
+      "caffeic acid",
+      "copigmentation effects",
+      "delphinidin-3",
+      "malvidin-3-o-glucoside",
+      "quercetin-3-o-glucoside",
+      "six polyphenol copigments",
+      "steric effect",
+      "the copigmentation effects",
+      "the effects",
+      "the quercetin"
+    ],
+    "FOOD": [
+      "wine aging",
+      "wine storage"
+    ]
+  }
+}

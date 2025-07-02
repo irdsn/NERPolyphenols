@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "IAA-Mediated Haustorium Formation inPhelipanche aegyptiaca: Transcriptional Insights and Anti-Parasitic Strategies.",
+  "abstract": "Phelipanche aegyptiacais an obligate root-parasitic weed that parasitizes crop roots, threatening the safety of agricultural production. However, the molecular mechanisms underlying the formation ofP. aegyptiacahaustorium remain largely unclear. Here, we employed transcriptomics to investigate the molecular events inP. aegyptiacahaustorium formation induced by indole-3-acetic acid. Our study revealed that duringP. aegyptiacahaustorium formation, the cell proliferation activity at the tip of the radicle was highest during the young stage and then gradually declined. The differentially expressed genes upregulated during haustorium formation were mainly enriched in DNA replication and plant hormone signal transduction, while those that were downregulated were enriched in biosynthesis of secondary metabolites. Additionally, interfering with the auxin signal weakened the parasitic ability ofP. aegyptiaca. These findings enhance our understanding of the mechanism ofP. aegyptiacahaustorium formation and contribute to the targeted development of new pesticides for inhibitingP. aegyptiaca.",
+  "publication_date": "2025-05-23",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14111591",
+  "entities": {
+    "POLYPHENOL": [
+      "secondary metabolites",
+      "the mechanism ofp. aegyptiacahaustorium formation",
+      "the molecular events",
+      "the molecular mechanisms"
+    ]
+  }
+}

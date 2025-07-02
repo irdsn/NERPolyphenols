@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Urolithin A increases the natural killer activity of PBMCs in patients with prostate cancer.",
+  "abstract": "The natural killer (NK) activity of peripheral blood mononuclear cells (PBMCs) is a crucial defense against the onset and spread of cancer. Studies have shown that patients with reduced NK activity are more susceptible to cancer, and NK activity tends to decrease due to cancer-induced immune suppression. Enhancing the natural cytotoxicity of PBMCs remains a significant task in cancer research.",
+  "publication_date": "2025-01-09",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2024.1503317",
+  "entities": {
+    "SYMPTOM": [
+      "cancer",
+      "cancer research",
+      "cancer-induced immune suppression"
+    ]
+  }
+}

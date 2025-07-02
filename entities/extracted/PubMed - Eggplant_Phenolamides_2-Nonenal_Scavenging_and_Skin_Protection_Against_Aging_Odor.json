@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Eggplant Phenolamides: 2-Nonenal Scavenging and Skin Protection Against Aging Odor.",
+  "abstract": "Eggplants are high in polyphenols, making them a powerful antioxidant food that is beneficial for health and has excellent anti-aging effects. As metabolism slows down with aging, lipid peroxides are generated, with 2-nonenal being the main cause of old-age odor, which has a detrimental effect on skin keratinocytes. In this study, the 2-nonenal scavenging ability of fruits, leaves, stems, and roots of eggplant was evaluated, and the active compound was identified asN-trans-feruloylputrescine. Furthermore, we assessed whether the extracts andN-trans-feruloylputrescine showed a protective effect against skin damage induced by 2-nonenal. The antioxidant activity of the eggplant extracts was evaluated using DPPH and ABTS assays, and the fruits exhibited stronger antioxidant activity compared to the other extracts. Additionally, it was found that the ROS levels increased by 2-nonenal were significantly reduced by eggplant fruits and roots, which also inhibited lipid peroxidation. These results suggest the possibility of inhibiting the production of 2-nonenal itself. These findings suggest that eggplant extracts and theN-trans-feruloylputrescine can have a positive effect on preventing aging and maintaining skin health.",
+  "publication_date": "2025-05-12",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30102129",
+  "entities": {
+    "FOOD": [
+      "eggplant",
+      "eggplant fruits",
+      "eggplants",
+      "that eggplant extracts",
+      "the eggplant extracts"
+    ],
+    "POLYPHENOL": [
+      "a detrimental effect",
+      "a positive effect",
+      "a protective effect",
+      "excellent anti-aging effects",
+      "polyphenols"
+    ],
+    "SYMPTOM": [
+      "aging"
+    ]
+  }
+}

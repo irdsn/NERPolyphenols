@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Hesperetin mitigates adipose tissue inflammation to improve obesity-associated metabolic health.",
+  "abstract": "Metabolically unhealthy obesity (MUO) poses significant health risks, including increased susceptibility to type 2 diabetes and cardiovascular diseases. Hesperetin is a key bioactive compound found in citrus fruits. Previous studies have shown that hesperetin can correct metabolic abnormalities and mitigate the progression of various metabolic disorders, but the underlying mechanisms remain unclear. Here, we explored the impact of hesperetin on MUO using ob/ob mice and investigated its potential pharmacological mechanisms. The present data indicated that administration of hesperetin for 12\u00a0weeks led to notable improvements in metabolic parameters, including reduced fasting blood glucose, fasting insulin levels, and the HOMA-IR index in ob/ob mice. Glucose and insulin tolerance tests demonstrated that hesperetin effectively enhanced insulin sensitivity, with high-dose effects comparable to metformin. Hesperetin treatment decreased inguinal white adipose tissue (iWAT) weight and improved insulin signaling by increasing AKT phosphorylation. Additionally, it reduced the expression of pro-inflammatory cytokines (Il-6 and Il-1\u03b2), chemokine Ccl2 and its receptor Ccr2, and macrophage activation markers Nos2 and Ptgs2 within iWAT of ob/ob mice, likely by inhibiting NF-\u03baB activation and macrophage-mediated inflammation. In vitro studies further confirmed hesperetin's anti-inflammatory effects in LPS-stimulated macrophages, where it suppressed cytokine production and NF-\u03baB signaling. Hesperetin also impaired CCL2-induced macrophage chemotaxis, reducing migration velocity and distance. Mechanistically, hesperetin directly interacts with and inhibits IKK\u03b2 kinase activity by binding to key residues (LEU21, VAL465, CYS99, and GLU97) and stabilizing the complex, as demonstrated by molecular docking and molecular dynamics simulations. These findings underscore hesperetin's therapeutic potential in mitigating metabolically unhealthy obesity, obesity-induced insulin resistance, and inflammation through direct modulation of the IKK\u03b2 and NF-\u03baB pathways.",
+  "publication_date": "2025-02-09",
+  "journal": "International immunopharmacology",
+  "doi": "10.1016/j.intimp.2025.114211",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "metabolically unhealthy obesity",
+      "nf-\u03bab activation and macrophage-mediated inflammation",
+      "obesity-induced insulin resistance"
+    ],
+    "POLYPHENOL": [
+      "direct modulation",
+      "effectively enhanced insulin sensitivity",
+      "hesperetin",
+      "hesperetin treatment",
+      "hesperetin's anti-inflammatory effects",
+      "hesperetin's therapeutic potential",
+      "high-dose effects",
+      "its potential pharmacological mechanisms",
+      "its receptor ccr2",
+      "molecular docking",
+      "molecular dynamics simulations",
+      "the underlying mechanisms"
+    ]
+  }
+}

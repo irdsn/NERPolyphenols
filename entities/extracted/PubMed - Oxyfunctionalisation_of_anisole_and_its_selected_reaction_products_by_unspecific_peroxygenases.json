@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Oxyfunctionalisation of anisole and its selected reaction products by unspecific peroxygenases.",
+  "abstract": "Unspecific peroxygenases (UPOs) are fungal enzymes capable of oxidizing hundreds of different organic compounds using hydrogen peroxide as the sole co-substrate. Aromatic ethers are among the less-studied substrates for UPOs, even though they offer a potential route to valuable phenolic compounds, such as those derived from the depolymerized lignin as a feedstock. Consequently, the oxyfunctionalisation potential of a panel of 30 UPO enzymes, along withAgrocybe aegeritaUPO, was investigated using a simple aromatic ether, anisole. Anisole oxyfunctionalisation by the studied UPOs involved up to four consecutive reactions, resulting in the detection of 14 different products. Aromatic hydroxylation was the primary reaction pathway, leading to methoxyphenols or methoxybenzenediols.O-Demethylation also occurred, as phenol and benzenediols were identified among the products. As expected, different UPOs produced varying products and yields; however, guaiacol and 4-methoxyphenol were detected with every enzyme. The effect of ascorbic acid as a radical scavenger was also assessed, given that radical reactions leading to oligomerisation can occur with phenolic products. Generally, the presence of ascorbic acid broadened the product range, potentially due to the detection of trace products and a reduction in quinone formation. Owing to the broad product scope with anisole, biotransformations were also carried out with the identified phenolic intermediates to evaluate further oxidation routes. Based on these findings, a reaction pathway for anisole was proposed, offering insights into potential applications of UPOs in the tailored oxyfunctionalisation of phenolic substrates.",
+  "publication_date": "2025-06-10",
+  "journal": "Biochemistry and biophysics reports",
+  "doi": "10.1016/j.bbrep.2025.102088",
+  "entities": {
+    "POLYPHENOL": [
+      "the detection",
+      "the effect",
+      "unspecific peroxygenases",
+      "up to four consecutive reactions",
+      "valuable phenolic compounds"
+    ]
+  }
+}

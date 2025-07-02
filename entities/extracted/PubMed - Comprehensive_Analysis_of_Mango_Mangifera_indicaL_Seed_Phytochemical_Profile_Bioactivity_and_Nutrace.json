@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Comprehensive Analysis of Mango (Mangifera\u00a0indicaL.) Seed: Phytochemical Profile, Bioactivity, and Nutraceutical Potential.",
+  "abstract": "Mango (Mangifera indicaL.) seeds, typically discarded as agro-industrial waste, are rich in bioactive compounds with significant nutraceutical potential. This study comprehensively evaluated the phytochemical composition, cytotoxicity, antioxidant activity, nutritional profile, and safety of mango seed extract (MSE). Nutritional analysis revealed notable contents of crude protein (8.5%\u2009\u00b1\u20090.01%), crude oil (13.5%\u2009\u00b1\u20090.06%), carbohydrates (35%\u2009\u00b1\u20090.01%), and energy (405\u2009kJ/100\u2009g) while mineral content indicates the presence of macrominerals in the following order: K\u2009>\u2009Mg\u2009>\u2009P\u2009>\u2009Ca\u2009>\u2009Na. GC-MS identified key bioactive compounds, including thiazole, silicic acid, and arsenic acid. MSE exhibited strong antioxidant activity, with 95.86%\u2009\u00b1\u20092.31% DPPH and 89.36%\u2009\u00b1\u20095.25% nitric oxide radical scavenging. Cytotoxicity assays against HepG2 liver cancer cells demonstrated dose-dependent inhibition, with an IC50of 140\u2009\u03bcg/mL. Nutritional analysis showed essential amino acids (lysine, leucine, valine) and vitamins A, C, E, and K. Molecular dynamic simulations (MDS) confirmed thiazole's binding affinity to estrogen-\u03b2 and progesterone receptors. Subacute oral toxicity tests indicated MSE's safety and beneficial effects on lipid profiles, significantly reducing cholesterol, LDL, triglycerides, and VLDL, while increasing HDL and RBC counts. Histopathology confirmed no organ damage. These results establish MSE as a safe, sustainable source of bioactive compounds with promising applications in nutraceuticals, antioxidants, and functional food industries, offering an eco-friendly approach to mango seed waste valorization.",
+  "publication_date": "2025-06-16",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70390",
+  "entities": {
+    "FOOD": [
+      "functional food industries",
+      "mango (mangifera indical.) seeds",
+      "mango seed extract",
+      "mango seed waste valorization"
+    ],
+    "SYMPTOM": [
+      "hepg2 liver cancer cells"
+    ],
+    "POLYPHENOL": [
+      "an eco-friendly approach",
+      "estrogen-\u03b2 and progesterone receptors",
+      "mse's safety and beneficial effects"
+    ]
+  }
+}

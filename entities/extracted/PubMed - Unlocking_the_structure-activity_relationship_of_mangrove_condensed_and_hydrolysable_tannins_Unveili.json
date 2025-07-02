@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Unlocking the structure-activity relationship of mangrove condensed and hydrolysable tannins: Unveiling their potential ecological significance in antioxidant and antibacterial functions.",
+  "abstract": "Tannins play key roles in regulating ecological processes within mangrove ecosystems, but the structures of mangrove condensed tannins (CT) and hydrolysable tannins (HT), as well as their antioxidant and antibacterial activities, are not well understood. In this study, MALDI-TOF MS was used to analyze the structural components of oligomers and polymers in phenolic extracts from Kandelia obovata, Aegiceras corniculatum, and Sonneratia apetala. Results identified two primary structural units: procyanidins (PC) and prodelphinidins (PD), with mass-to-charge ratios of 288\u00a0Da and 304\u00a0Da, respectively, and a 16\u00a0Da interval indicating differences in hydroxylation. Thiolysis degradation and acidic hydrolysis, combined with HPLC-ESI-MS, revealed significant variations in the mean degree of polymerization (mDP): oligomers had mDP values of 1.1-1.2, while polymers ranged from 7.8 to 9.1. Antioxidant assays (Folin-Ciocalteu, FRAP, TEAC, and DPPH) showed that PC\u00a0<\u00a0PD\u00a0<\u00a0HT in antioxidant capacity, with polymers exhibiting stronger activity than oligomers. Antibacterial tests revealed that A. corniculatum exhibited the weakest activity, while K. obovata and S. apetala showed similar efficacy against bacteria from Actinobacteria, Bacteroidetes, and Proteobacteria. This study enhances our understanding of mangrove phenolics' structural characteristics and their ecological roles in maintaining mangrove ecosystem functions.",
+  "publication_date": "2025-03-10",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.141918",
+  "entities": {
+    "POLYPHENOL": [
+      "ecological processes",
+      "ecosystem functions",
+      "hydrolysable tannins",
+      "mangrove condensed tannins",
+      "mangrove ecosystems",
+      "procyanidins",
+      "prodelphinidins",
+      "tannins",
+      "their ecological roles"
+    ]
+  }
+}

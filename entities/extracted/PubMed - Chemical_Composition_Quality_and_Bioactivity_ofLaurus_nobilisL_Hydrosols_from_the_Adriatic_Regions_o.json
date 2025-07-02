@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Chemical Composition, Quality, and Bioactivity ofLaurus nobilisL. Hydrosols from the Adriatic Regions of Croatia: Implications for Dermatological Applications.",
+  "abstract": "Laurus nobilisL., Lauraceae, bay laurel, has been traditionally used for its various therapeutic properties, and in recent years has been gaining interest for its potential applications in skincare products. However, the biological effects of bay laurel, particularly its hydrosols, a water fraction obtained during essential oil production, remain unexplored. The objective of this study was to identify the volatile compounds inL. nobilishydrosols (LnHYs) from different coastal regions of Croatia (north, middle, and south Adriatic) and to evaluate their potential safety and efficacy for dermatological applications. Upon isolating LnHYs using microwave-assisted extraction, LnHY volatiles were identified and quantified using gas chromatography and mass spectrometry. Oxygenated monoterpenes were the dominant compounds in all LnHYs (61.72-97.00%), with 1,8-cineole being the most abundant component (52.25-81.89%). The physical and chemical parameters of LnHYs were investigated to assess their purity and quality. Biological activity (cytotoxicity and wound-healing effect) was tested on the human keratinocyte cell line (HaCaT), selected as the experimental model due to its relevance to skin biology. Additionally, contents of polyphenolic substances, antioxidative effects using the Oxygen Radical Absorbance Capacity (ORAC) and 2,2-diphenyl-1-picrylhydrazyl (DPPH) methods, and the antimicrobial activity of LnHYs toward five skin microorganisms were determined. All tested hydrosols showed similar biological activity, with only minor differences. Cytotoxicity studies indicated the safety of the dermatological application of LnHYs, and the results of the wound-healing assay showed their neutral to mildly positive effect. Considering the growing use of bay laurel preparations in pharmaceutical and cosmetic applications, extensive studies on their biological activity, quality, and safety are essential to either support or regulate their use in humans.",
+  "publication_date": "2025-06-05",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060688",
+  "entities": {
+    "POLYPHENOL": [
+      "antioxidative effects",
+      "mass spectrometry",
+      "mildly positive effect",
+      "polyphenolic substances",
+      "recent years",
+      "the biological effects",
+      "the objective",
+      "wound-healing effect"
+    ]
+  }
+}

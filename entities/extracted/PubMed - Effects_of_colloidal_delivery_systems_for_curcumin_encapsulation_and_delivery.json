@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Effects of colloidal delivery systems for curcumin encapsulation and delivery.",
+  "abstract": "The types of colloidal delivery systems impact curcumin encapsulation properties, including stability, spray-dried powder properties, business-concerned properties, and loading capacity. Therefore, it is crucial to comprehensively compare the curcumin encapsulation properties of different colloidal delivery systems. Four systems (sodium caseinate, \u03b2-cyclodextrin, liposome, soy protein isolate) were used to encapsulate curcumin. Powder characterization revealed that curcumin-loaded sodium caseinate exhibited high curcumin loading capacity (5.10\u00a0%), free radical scavenging rate (89.8\u00a0%), re-dispersibility, and transmittance of re-dispersed solution (92\u00a0%), while curcumin-loaded \u03b2-cyclodextrin demonstrated satisfactory hygroscopicity (5.3\u00a0%) and D90particle size (215.5\u00a0nm). Stability tests indicated that curcumin-loaded sodium caseinate exhibited superior physicochemical stability except for photo stability, whereas curcumin-loaded \u03b2-cyclodextrin exhibited good photo stability. Physicochemical stability of the other two systems was unsatisfactory. In summary, curcumin encapsulation performance varied significantly among systems, with sodium caseinate emerging as a high-performance curcumin nanocarrier with potential for beverage industry applications.",
+  "publication_date": "2025-05-21",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144859",
+  "entities": {
+    "POLYPHENOL": [
+      "a high-performance curcumin nanocarrier",
+      "colloidal delivery systems impact curcumin encapsulation properties",
+      "curcumin",
+      "curcumin encapsulation performance",
+      "curcumin-loaded sodium caseinate",
+      "curcumin-loaded \u03b2-cyclodextrin",
+      "high curcumin loading capacity",
+      "the curcumin encapsulation properties"
+    ],
+    "FOOD": [
+      "soy protein isolate"
+    ]
+  }
+}

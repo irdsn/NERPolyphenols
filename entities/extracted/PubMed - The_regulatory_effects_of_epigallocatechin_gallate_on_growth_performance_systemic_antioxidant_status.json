@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "The regulatory effects of epigallocatechin gallate on growth performance, systemic antioxidant status, immune response, and gut microbiota structure in geese.",
+  "abstract": "The effects of dietary supplementation with epigallocatechin-3-gallate (EGCG) on growth performance, antioxidant capacity, immune function, and gut microbiota in geese were investigated. Seventy-two healthy 35-day-old male geese were randomly divided into a control group (basal diet) or an EGCG group (basal diet + 200 mg/kg EGCG), with 36 geese per group, which was further subdivided into 6 replicates (6 geese per replicate). The experiment lasted 21 days. Geese in the EGCG group exhibited significantly higher final body weight (2.93 kg vs. 2.28 kg, P < 0.01) and average daily gain (72.38 g/d vs. 41.4 g/d, P < 0.01) along with a 42.8 % reduction in the feed conversion ratio (3.95 vs. 6.91, P < 0.01) versus the control. Liver weights in the EGCG group were significantly elevated compared to the CON group on days 14 and 21 (P < 0.05) and a strong correlation between liver weight and body weight. EGCG significantly increased catalase, glutathione peroxidase, and superoxide dismutase activities, and the total antioxidant capacity in serum and jejunum while decreasing malondialdehyde (MDA) levels (P < 0.05). Immunological analyses revealed elevated serum immunoglobulin (Ig)A, IgG, and IgM and lysozyme in the EGCG group (P < 0.05), accompanied by a decrease in the pro-inflammatory cytokines interleukin-6 and interferon-\u03b3. Intestinal morphology demonstrated increased villus height-to-crypt depth ratios in the duodenum and ileum (P < 0.05). 16S rRNA sequencing indicated that EGCG increased the relative abundance of Akkermansia and Verrucomicrobiota (P < 0.05) in the cecal content and enriched microbial functions related to inorganic ion transport and metabolism. Correlation analysis revealed positive associations between Akkermansia and IgA, and between Firmicutes and oxidative damage markers (MDA). Overall, dietary supplementation with 200 mg/kg EGCG could improve growth performance, antioxidant capacity, immune response, and gut microbiota structure in geese, supporting its potential as a plant-based feed additive.",
+  "publication_date": "2025-04-16",
+  "journal": "Poultry science",
+  "doi": "10.1016/j.psj.2025.105178",
+  "entities": {
+    "POLYPHENOL": [
+      "200 mg/kg egcg",
+      "a decrease",
+      "an egcg group",
+      "egcg",
+      "epigallocatechin-3",
+      "the cecal content",
+      "the effects",
+      "the egcg group"
+    ],
+    "SYMPTOM": [
+      "oxidative damage markers"
+    ]
+  }
+}

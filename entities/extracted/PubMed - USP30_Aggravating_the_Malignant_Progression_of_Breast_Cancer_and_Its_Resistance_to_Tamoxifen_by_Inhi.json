@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "USP30 Aggravating the Malignant Progression of Breast Cancer and Its Resistance to Tamoxifen by Inhibiting the Ubiquitination of TOMM40.",
+  "abstract": "Breast cancer (BC) is the most common malignancy among women, with high incidence and mortality rates globally. Translocase of outer mitochondrial membrane 40 (TOMM40) has also been identified as an important prognostic biomarker for BC. Meanwhile, the ubiquitin-specific protease 30 (USP30) has also been shown to promote BC progression. However, the specific mechanisms underlying the role of USP30/TOMM40 in BC development remain unclear. Therefore, this study aims to delve into the potential mechanisms of USP30/TOMM40 in the progression of BC. The expression of TOMM40 and USP30 in BC tumors and cells was verified by bioinformatics analysis and western blot (WB). The effects of USP30/TOMM40 on BC cell proliferation, angiogenesis, glycolysis, and ferroptosis were determined by colony formation, tube formation assays and commercial kits. The co-immunoprecipitation (Co-IP) experiment was applied to verify the interaction between USP30 and TOMM40. The ubiquitination level of TOMM40 was detected by ubiquitinated antibodies. The effect of tamoxifen (TAM) on BC cell viability was measured by MTT assay. TOMM40 and USP30 were highly expressed in BC tumors and cells. Silencing TOMM40 blocked the proliferation, angiogenesis, glycolytic, and induced ferroptosis of BC cells. USP30 bound to TOMM40 and reduced its ubiquitination level. TOMM40 overexpressed abolished the tumor suppressive effect of USP30 knockdown and enhanced the resistance of BC to TAM. In conclusion, USP30 deubiquitinating TOMM40 promoted BC development and TAM resistance.",
+  "publication_date": "2025-04-01",
+  "journal": "Journal of biochemical and molecular toxicology",
+  "doi": "10.1002/jbt.70258",
+  "entities": {
+    "SYMPTOM": [
+      "breast cancer"
+    ],
+    "POLYPHENOL": [
+      "immunoprecipitation",
+      "the effect",
+      "the effects",
+      "the potential mechanisms",
+      "the specific mechanisms",
+      "the tumor suppressive effect",
+      "the ubiquitin-specific protease"
+    ]
+  }
+}

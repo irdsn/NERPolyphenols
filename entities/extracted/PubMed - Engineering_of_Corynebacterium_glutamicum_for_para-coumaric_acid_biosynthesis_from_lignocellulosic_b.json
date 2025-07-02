@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Engineering of Corynebacterium glutamicum for para-coumaric acid biosynthesis from lignocellulosic biomass.",
+  "abstract": "para-Coumaric acid (pCA), a naturally occurring phenolic compound found in various edible plants, holds significant potential in pharmaceutical development due to its diverse biological activities and its role as a key intermediate in the biosynthesis of pharmacologically important secondary metabolites. However, conventional extraction from plant sources is inefficient and poses concerns regarding food security. Moreover, recent global shortages of pharmaceutical ingredients have emphasized the urgent need for sustainable and reliable alternative production methods. In this study, an engineered Corynebacterium glutamicum strain was developed as a microbial cell factory for the sustainable biosynthesis of pCA. An ethanosolv fractionation process was integrated to utilize the carbohydrate fraction of Quercus mongolica lignocellulosic biomass for microbial fermentation, while the lignin fraction remains available for high-value applications. Using this integrated approach, 18.92\u00a0g/L of pCA was produced, with a yield of 0.49 Cmol/Cmol and a productivity of 0.24\u00a0g/L/h. This represents the highest pCA production reported to date and the first demonstration of pCA biosynthesis from lignocellulosic biomass. This work lays the foundation for the development of bioprocesses enabling the complete utilization of lignocellulosic feedstock and the sustainable production of valuable secondary metabolites.",
+  "publication_date": "2025-06-20",
+  "journal": "Bioresource technology",
+  "doi": "10.1016/j.biortech.2025.132860",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring phenolic compound",
+      "food security",
+      "pharmacologically important secondary metabolites",
+      "recent global shortages",
+      "valuable secondary metabolites"
+    ]
+  }
+}

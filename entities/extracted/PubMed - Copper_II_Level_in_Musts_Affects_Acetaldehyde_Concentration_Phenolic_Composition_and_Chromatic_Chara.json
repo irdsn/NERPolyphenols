@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Copper (II) Level in Musts Affects Acetaldehyde Concentration, Phenolic Composition, and Chromatic Characteristics of Red and White Wines.",
+  "abstract": "Copper (II), a vital fungicide in organic viticulture, also acts as a wine oxidation catalyst. However, limited data are currently available on the impact that maximum allowed copper (II) ion doses in wine grapes at harvest can have on aged wine quality. This was the focus of the present study. We investigated the copper (II) effects by producing both white and red wines from musts containing three initial metal concentrations according to the limits set for organic farming. In detail, the influence of copper (II) on fermentation evolution, chromatic characteristics, and phenolic compounds was evaluated. Interestingly, the white wine obtained with the highest permitted copper (II) dose initially exceeded the concentration of 1.0 mg/L at fermentation completion. However, after one year of storage, the copper (II) content fell below 0.2 \u00b1 0.01 mg/L. Conversely, red wines showed copper (II) levels below 1.0 mg/L at the end of fermentation, but the initial copper (II) level in musts significantly affected total native anthocyanins, color intensity, hue, and acetaldehyde concentration. After 12-month aging, significant differences were observed in polymeric pigments, thus suggesting a potential long-term effect of copper (II) on red wine color stability.",
+  "publication_date": "2024-06-19",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29122907",
+  "entities": {
+    "FOOD": [
+      "a wine oxidation catalyst",
+      "aged wine quality",
+      "both white and red wines",
+      "red wine color stability",
+      "red wines",
+      "the white wine",
+      "wine grapes"
+    ],
+    "POLYPHENOL": [
+      "a potential long-term effect",
+      "phenolic compounds"
+    ],
+    "SYMPTOM": [
+      "12-month aging"
+    ]
+  }
+}

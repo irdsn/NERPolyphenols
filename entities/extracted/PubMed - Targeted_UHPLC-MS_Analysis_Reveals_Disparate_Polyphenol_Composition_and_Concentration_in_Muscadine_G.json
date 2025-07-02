@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Targeted UHPLC-MS Analysis Reveals Disparate Polyphenol Composition and Concentration in Muscadine Grape Supplements with Proportional Antioxidant Activity.",
+  "abstract": "Muscadine grape supplements (MGS) with high polyphenol content are a potential therapeutic option to combat oxidative stress; however, the precise identity and concentration of individual phenolics in commercially processed MGSs is not well defined. We probed for 17 phenolic compounds by ultra-high pressure liquid chromatography and mass spectroscopy from distinct lots of four commercially processed MGSs composed of MG seed and/or skin waste products. The total phenolic content (TPC) and antioxidant capacity were highest in a dried water-extract MGS as compared to three ground seed and/or skin products. The TPC was not different between MGS lots from individual companies and remained stable for 3 years without microbial contamination. The extract MGS had the highest concentration of epicatechin, ellagic acid, gallic acid, procyanidin B2, catechin and catechin gallate compared to the other supplements. Only ellagic acid and gallic acid were detected in all four MGSs, while catechin and catechin gallate were below detection in two supplements. Based on gram weight, only the extract MGS prevented the angiotensin II-induced increase in malondialdehyde and 4-hydroxynonenol in rat H9c2 cardiomyocytes as well as upregulated superoxide dismutase and catalase. This study demonstrates that commercial MGSs differ in phenolic composition and concentration, resulting in disparate antioxidant activity.",
+  "publication_date": "2022-10-27",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox11112117",
+  "entities": {
+    "FOOD": [
+      "muscadine grape supplements"
+    ],
+    "POLYPHENOL": [
+      "17 phenolic compounds",
+      "catechin",
+      "catechin and catechin gallate",
+      "detection",
+      "ellagic acid",
+      "epicatechin",
+      "gallic acid",
+      "high polyphenol content",
+      "mass spectroscopy",
+      "only ellagic acid and gallic acid",
+      "the precise identity"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

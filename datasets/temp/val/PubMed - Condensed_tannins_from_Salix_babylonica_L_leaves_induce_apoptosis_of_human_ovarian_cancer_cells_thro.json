@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Condensed tannins from Salix babylonica L. leaves induce apoptosis of human ovarian cancer cells through mitochondrial and PI3K/AKT/ERK signaling pathways.",
+  "abstract": "Condensed tannins, natural antioxidants, are widely known for their antitumor activity with low toxicity. However, the antitumor mechanism of Salix babylonica leaf condensed tannins (SCTs) remains unclear. Here, we purified bioactive SCTs and analyzed their structural characteristics, antitumor effects on human ovarian cancer (OC) cells as well as related potential mechanism. FT-IR, ESI-MS, and HPLC analyses demonstrated that SCTs primarily consist of procyanidins with (epi)catechin as the main flavan-3-ol extension unit. SCTs significantly inhibited the proliferation and migration of OVCAR3 and A2780 cells, induced G0/G1 cell cycle arrest, and promoted apoptosis. SCTs induced apoptosis through the mitochondrial apoptotic pathway by decreasing mitochondrial membrane potential, increasing intracellular reactive oxygen species generation, elevating the Bax/Bcl-2 ratio, and activating caspase-3. Network pharmacology analysis speculated that SCTs exert anti-ovarian cancer effects by targeting multiple targets and pathways, among which the PI3K/AKT/ERK pathway may be the main pathway of action. Western blot confirmed that SCTs inhibited the phosphorylation of AKT, MEK, and ERK. Moreover, SCTs dose-dependently impaired OVCAR3 tumor spheroid growth in three-dimensional culture models. These results suggested that SCTs induced apoptosis in OC cells by activating the mitochondrial-associated apoptosis pathway and inhibiting the PI3K/AKT/ERK signaling pathway, showing potential as therapeutic agents for OC.",
+  "publication_date": "2025-03-28",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.142635"
+}

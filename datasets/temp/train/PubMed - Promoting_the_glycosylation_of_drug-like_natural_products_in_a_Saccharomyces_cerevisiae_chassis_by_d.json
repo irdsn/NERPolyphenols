@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Promoting the glycosylation of drug-like natural products in a Saccharomyces cerevisiae chassis by deletion of endogenous glycosidases.",
+  "abstract": "Glycosylation is an effective strategy to improve the absorption, distribution, metabolism, excretion, and toxicity of natural product (NP) pharmacophores. While heterologous production of broad-spectrum fungal glucosyltransferases such as BbGT86 of Beauveria bassiana yields varied phenolic glucoconjugates in S. cerevisiae, endogenous yeast glycosidases diminish the conversion yields and limit the structural diversity of the products. We set out to improve the efficiency and broaden the regiospecificity of the glucosylation of NPs or their unnatural product analogues (uNPs). Using yeast strains deficient in exoglycanases EXG1 or SPR1, we evaluated total biosynthetic and biocatalytic synthetic biology platforms to produce glycoconjugates from polyketides of the benzenediol lactone family, and polyphenols of the phenylpropanoid class. We show that for 13 out of the 18 aglycons tested, exoglycanase deletions improve glucoside yields and/or alter glucoconjugate regioisomer distributions, while macrolactone glycoconjugates with an aryl methylene ketone moiety are impervious to hydrolysis by EXG1. We demonstrate that elimination of EXG1 or biosynthetic methylation of glucosides are efficient alternative strategies to differentially modulate glycoside regioisomer profiles for future pharmaceutical, nutraceutical or crop protection applications.",
+  "publication_date": "2025-02-17",
+  "journal": "Bioresource technology",
+  "doi": "10.1016/j.biortech.2025.132258"
+}

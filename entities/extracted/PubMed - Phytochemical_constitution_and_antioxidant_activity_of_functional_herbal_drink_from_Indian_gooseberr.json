@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Phytochemical constitution and antioxidant activity of functional herbal drink from Indian gooseberry (Emblica officinalisGaertn.) fruits containing spices and condiments.",
+  "abstract": "Functional beverages originate primarily from fruits and vegetables sources, but also include those from other plants such as tea, coffee, cocoa, soybean as well as animal products like milk and dairy-based and alcoholic drinks. They have definite medical or health benefits which include prevention or delaying the progress of diseases. Indian gooseberry is a very rich source of vitamin C and phenolics, two potent antioxidant compounds. Similarly curcumin in turmeric, piperine in black pepper and gingerol in ginger have proven antioxidant and anti-inflammatory properties. Incidence of covid-19 pandemic has raised awareness among people the importance of maintaining higher levels of immunity. A study was undertaken at Kerala Agricultural University during 2020-21 to develop an herbal functional drink from Indian gooseberry fruit juice incorporated with turmeric and black pepper powders, ginger juice extract and juice of acid lime fruits. The herbal drink formulated with these ingredients was homogenized at an operating pressure of 175 Bar with a speed of 235 SPM and was subsequently pasteurized at 1000C for 10\u2009minutes in glass bottles, followed by storage under refrigerated conditions at 5\u2009\u00b1\u200920C for 3 months. The initial ascorbic acid, total phenolics, total flavonoids, total carotenoids and total curcumin contents were 61.0 mg100g-\u20091, 184.0 mg100g-\u20091, 153.0 mg100g-\u20091, 119.98 mg100g-\u20091and 31.0 mg100g-\u20091, respectively. Antioxidant activity of the herbal drink was determined by three assays, viz. ABTS, DDPH and FRAP. The initial IC50values of the herbal drink by ABTS, DPPH and FRAP assays were 8.64, 0.212 and 0.368 \u03bcgml-\u20091, respectively. Significant decline in ascorbic acid, total flavonoids, total carotenoids and curcumin content were recorded in the product during storage in contrast to the total phenolics content which showed a significant rise over the storage period. Antioxidant activity of the herbal drink determined by all the three assays also declined significantly throughout the storage period. The results indicate that the product can be promoted as a healthy drink which has to be stored at low temperature in order to retain higher levels of antioxidant compounds and antioxidant activity.",
+  "publication_date": "2023-06-01",
+  "journal": "Food production, processing and nutrition",
+  "doi": "10.1186/s43014-022-00127-8",
+  "entities": {
+    "FOOD": [
+      "acid lime fruits",
+      "black pepper",
+      "cocoa",
+      "coffee",
+      "ginger",
+      "gingerol",
+      "indian gooseberry fruit juice",
+      "juice",
+      "soybean",
+      "turmeric",
+      "turmeric and black pepper powders"
+    ],
+    "POLYPHENOL": [
+      "curcumin content",
+      "significant decline",
+      "total curcumin contents",
+      "total flavonoids"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "A multi-phase approach using supervised algorithms and clinical models to generate high-accuracy signatures for pancreatic cancer.",
+  "abstract": "The in silico analyses provide evidence supporting the potential of methylation-driven differentially expressed genes as therapeutic targets across cancer types. This leads us to identify novel targets and their associated drug compounds for further progress towards pancreatic cancer treatment.",
+  "publication_date": "2025-06-14",
+  "journal": "Computers in biology and medicine",
+  "doi": "10.1016/j.compbiomed.2025.110559",
+  "entities": {
+    "SYMPTOM": [
+      "cancer types",
+      "pancreatic cancer treatment"
+    ]
+  }
+}

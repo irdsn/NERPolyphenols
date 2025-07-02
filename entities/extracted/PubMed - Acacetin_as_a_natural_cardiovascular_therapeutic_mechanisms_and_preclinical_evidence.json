@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Acacetin as a natural cardiovascular therapeutic: mechanisms and preclinical evidence.",
+  "abstract": "Globally, cardiovascular disease (CVD) has emerged as a leading cause of mortality and morbidity. As the world's population ages, CVD incidence is on the rise, and extensive attention has been drawn to optimizing the therapeutic regimens. Acacetin, a natural flavonoid derived from various plants, has been demonstrated to have a wide spectrum of pharmacological properties, such as antioxidant, anti-inflammatory, anti-bacterial, and anti-tumor activities, as well as protective effects on diverse tissues and organs. Recently, increasing numbers of studies (mostly preclinical) have indicated that acacetin has potential cardiovascular protective effects and might become a novel therapeutic strategy for CVDs. The importance of acacetin in CVD treatment necessitates a systematic and comprehensive review of its protective effects on the cardiovascular system and the underlying mechanisms involved. Here, we first provide an overview of some basic properties of acacetin. Subsequently, the protective effects of acacetin on multiple CVDs, like arrhythmias, cardiac ischemia/reperfusion injury, atherosclerosis, myocardial hypertrophy and fibrosis, drug-induced cardiotoxicity, diabetic cardiomyopathy, hypertension, and cardiac senescence, are discussed in detail. The underlying mechanisms by which acacetin exhibits cardiovascular protection appear to involve suppressing oxidative stress, reducing inflammation, preventing cardiomyocyte apoptosis and endothelial cell injury, as well as regulating mitochondrial autophagy and lipid metabolism. Meanwhile, several critical signaling pathways have also been found to mediate the protection of acacetin against CVDs, including phosphoinositide 3-kinase/protein kinase B/mechanistic target of rapamycin (PI3K/Akt/mTOR), sirtuin 1/AMP-activated protein kinase/peroxisome proliferator-activated receptor-\u03b3 coactivator-1\u03b1 (Sirt1/AMPK/PGC-1\u03b1), transforming growth factor-\u03b21/small mothers against decapentaplegic 3 (TGF-\u03b21/Smad3), protein kinase B/endothelial nitric oxide synthase (Akt/eNOS), and others. Finally, we highlight the existing problems associated with acacetin that need to be addressed, such as the requirement for clinical evidence and enhanced bioavailability, as well as its potential as a promising cardiovascular drug candidate.",
+  "publication_date": "2025-04-04",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1493981",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural flavonoid",
+      "a wide spectrum",
+      "cardiovascular protection",
+      "decapentaplegic 3 (tgf-\u03b21/smad3",
+      "its protective effects",
+      "phosphoinositide 3-kinase/protein kinase b/mechanistic target",
+      "potential cardiovascular protective effects",
+      "proliferator-activated receptor-\u03b3",
+      "protective effects",
+      "the protection",
+      "the protective effects",
+      "the underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "atherosclerosis",
+      "cardiomyocyte apoptosis",
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Konjac glucomannan/ carboxylated cellulose nanofiber-based edible coating with tannic acid maintains quality and prolongs shelf-life of mango fruit.",
+  "abstract": "Polysaccharide films containing antimicrobial agents have good prospects for application in the fruit industry. However, poor film-forming properties of polysaccharides remain a major challenge. In this work, the konjac glucomannan (KGM) was modified by cross-linking with carboxylated cellulose nanofibers (CNF) to form a composite coating film, and tannic acid (TA) was provided as an active ingredient to improve the antibacterial effect. The optimal formula was: CNF/KGM (w:w) 3.05:10, TA content was 0.40\u00a0%, and glycerol content was 0.57\u00a0%. KGM/CNF/TA film had good compatibility and a compact structure. The thermal stability and water contact angle of the composite film were higher than those of KGM. Furthermore, the KGM/CNF/TA film reduced the black spot incidence, maintained fruit firmness, decreased ethylene release and respiration rate, increased the antioxidant enzyme activities, and extended the shelf-life of mango. Thus, KGM/CNF/TA is expected to expand polysaccharide/ polymer composite application in the fruit industry.",
+  "publication_date": "2025-03-05",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.143750",
+  "entities": {
+    "POLYPHENOL": [
+      "good prospects",
+      "the antibacterial effect"
+    ],
+    "FOOD": [
+      "mango"
+    ]
+  }
+}

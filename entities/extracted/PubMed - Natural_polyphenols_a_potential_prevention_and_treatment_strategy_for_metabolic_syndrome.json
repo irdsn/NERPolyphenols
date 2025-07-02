@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Natural polyphenols: a potential prevention and treatment strategy for metabolic syndrome.",
+  "abstract": "Metabolic syndrome (MS) is the term for a combination of hypertension, dyslipidemia, insulin resistance, and central obesity as factors leading to cardiovascular and metabolic disease. Epidemiological investigation has shown that polyphenol intake is negatively correlated with the incidence of MS. Natural polyphenols are widely found in cocoa beans, tea, vegetables, fruits, and some Chinese herbal medicines; they are a class of plant compounds containing a variety of phenolic structural units, which are potent antioxidants and anti-inflammatory agents in plants. Polyphenols are composed of flavonoids (such as flavanols, anthocyanidins, anthocyanins, isoflavones,etc.) and non-flavonoids (such as phenolic acids, stilbenes, and lignans). Modern pharmacological studies have proved that polyphenols can reduce blood pressure, improve lipid metabolism, lower blood glucose, and reduce body weight, thereby preventing and improving MS. Due to the unique characteristics and potential development and application value of polyphenols, this review summarizes some natural polyphenols that could treat MS, including their chemical properties, plant sources, and pharmacological action against MS, to provide a basis for the further study of polyphenols in MS.",
+  "publication_date": "2022-10-03",
+  "journal": "Food & function",
+  "doi": "10.1039/d2fo01552h",
+  "entities": {
+    "SYMPTOM": [
+      "central obesity",
+      "hypertension",
+      "insulin resistance",
+      "metabolic syndrome"
+    ],
+    "POLYPHENOL": [
+      "anthocyanidins",
+      "flavonoids",
+      "natural polyphenols",
+      "polyphenol intake",
+      "polyphenols",
+      "some natural polyphenols"
+    ],
+    "FOOD": [
+      "cocoa beans"
+    ]
+  }
+}

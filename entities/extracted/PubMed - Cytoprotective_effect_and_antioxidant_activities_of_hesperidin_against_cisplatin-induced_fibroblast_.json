@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Cytoprotective effect and antioxidant activities of hesperidin against cisplatin-induced fibroblast cell.",
+  "abstract": "Cisplatin (Cisp), a platinum-based compound, is a potent chemotherapy drug that effectively treats various cancers such as lung, breast, bladder, and hepatocellular carcinoma. However, its clinical application is limited due to its fibroblast damage, which is linked to its ability to produce collagen and other extracellular matrix components essential for tissue healing. Enhancing antioxidant capacity offers a potential strategy to reduce Cisp-induced fibroblast damage. Hesperidin (HSD), a flavonoid fromCitrussp., exhibits various pharmacological properties, including anti-inflammatory and antioxidant effects. This study aims to determine HSD as cytoprotective induced by Cisp using the fibroblast cell lines (NIH-3T3). 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging assay was used to determine antioxidant activity. The viability cell after treatment with HSD, Cisp, and cotreatment HSD-Cisp was evaluated through Mictroculure Tetrazolium Technique (MTT) assay. The evaluation of senescence was performed using the senescence-associated \u03b2-galactosidase assay. Gelatin zymography assay was utilized to analyze the activity of matrix metalloproteinases (MMPs). Data were analyzed using one-way ANOVA and Tukey'spost hoctest in SPSS (version 20.0). The IC50of the radical scavenging assay of HSD was found to be 20.967 \u00b1 0.016 \u00b5M. HSD showed low cytotoxicity against NIH-3T3 cells, with IC50values of over 500 \u00b5M. HSD showed an antagonistic effect when used as cotreatment HSD with Cisp in NIH-3T3 cells, with a combination index >1. Cotreatment of HSD and Cisp reduces cellular senescence and the expression of MMP-9 and MMP-2. These findings suggest that HSD could be beneficial as a cytoprotective agent, helping to maintain cellular health against chemotherapy.",
+  "publication_date": "2025-05-19",
+  "journal": "Journal of advanced pharmaceutical technology & research",
+  "doi": "10.4103/JAPTR.JAPTR_298_24",
+  "entities": {
+    "SYMPTOM": [
+      "various cancers"
+    ],
+    "POLYPHENOL": [
+      "a cytoprotective agent",
+      "a flavonoid fromcitrussp",
+      "an antagonistic effect",
+      "anti-inflammatory and antioxidant effects",
+      "mictroculure tetrazolium technique (mtt) assay"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Molecular Dynamics Simulation Study of the Self-Assembly of Tau-Derived PHF6 and Its Inhibition by Oleuropein Aglycone from Extra Virgin Olive Oil.",
+  "abstract": "Alzheimer's disease (AD) and other taupathies are neurodegenerative disorders associated with the amyloid deposition of the Tau protein in the brain. This amyloid formation may be inhibited by small molecules, which is recognized as one of the best therapeutic strategies to stop the progression of the disease. This work focuses on the small nucleating segment, hexapeptide-paired helical filament 6 (PHF6), responsible for Tau aggregation. Using computational modeling and classical molecular dynamics simulations, we show that PHF6 monomers collapse in water to form \u03b2-sheet rich structures, and the main olive oil polyphenol oleuropein aglycone (OleA) prevents peptide aggregation significantly. We gradually increase the ratio of the PHF6-OleA from 1:1 to 1:3 and find that for the 1:1 ratio, the peptide monomers are prone to form aggregated structures, while for the 1:2 ratio, the formation of the extended \u03b2-sheet structure is significantly less. For a 1:3 ratio of protein/OleA, the peptide residues are sufficiently crowded by OleA molecules through hydrogen bonding, hydrophobic interactions, and \u03c0-\u03c0 stacking; hence, the peptide chains prefer to exist in a monomeric random coil conformation.",
+  "publication_date": "2024-05-30",
+  "journal": "The journal of physical chemistry. B",
+  "doi": "10.1021/acs.jpcb.4c02393",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease"
+    ],
+    "POLYPHENOL": [
+      "computational modeling and classical molecular dynamics simulations",
+      "olea molecules",
+      "small molecules",
+      "the main olive oil polyphenol oleuropein aglycone"
+    ]
+  }
+}

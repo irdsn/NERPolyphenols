@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "The Antioxidant and Chemopreventive Activity of a Nutraceutical Derived fromBrassicaceaeSeed Extracts for Colorectal Cancer.",
+  "abstract": "Background.Worldwide, colorectal cancer is the third most commonly diagnosed cancer. It is the second leading cause of cancer-related mortality. Recent studies establish a relationship between natural compounds from plants with the prevention and treatment of cancer. Specifically, glucosinolates with antitumoral capacity and polyphenols with the ability to scavenge free radicals that can cause cell damage have been identified in theBrassicaceaefamily.Objectives. Based on the previously mentioned factors, this study aimed to develop a nutraceutical made with extracts from differentBrassicaceaeseeds and study its antioxidant and antiproliferative action in vitro and in vivo using the AOM/DSS model in CC57BL6J mice.Results. Extract from the seeds ofEruca sativaandSinapis albashowed the highest antioxidant capacity among the different species studied and were selected for nutraceutical formulation, which was potentially absorbable (73%) after an in vitro digestion process. In total, thirty compounds were identified in the nutraceutical that could be responsible for its antioxidant and tumoral prevention capacity. The intake of nutraceutical was a successful intervention to prevent the development of polyps by 31.6% and their size by 53.9%. When the nutritional intervention was used in combination with a physical exercise protocol, these parameters dropped to 52.3% and 62.6%, respectively.Conclusions. These findings suggest that the consumption of a diet rich in bioactive compounds fromBrassicaspecies, in combination with physical activity, is a valuable prevention strategy for colorectal cancer. However, more research is required to evaluate the efficacy and safety of these interventions in clinical settings.",
+  "publication_date": "2025-04-16",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17081358",
+  "entities": {
+    "POLYPHENOL": [
+      "bioactive compounds frombrassicaspecies",
+      "colorectal cancer",
+      "objectives",
+      "polyphenols",
+      "recent studies",
+      "the different species",
+      "the second leading cause"
+    ],
+    "SYMPTOM": [
+      "cancer",
+      "cancer-related mortality",
+      "cell damage",
+      "the third most commonly diagnosed cancer"
+    ]
+  }
+}

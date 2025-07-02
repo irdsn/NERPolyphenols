@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Study on the Influence and Mechanism of Resveratrol on Cognitive Impairment in Chronic Kidney Disease Rats Through Regulating Gut Microbiota and the TLR4/NF\u03baB Pathway.",
+  "abstract": "To investigate the mechanism by which resveratrol (Res) ameliorates cognitive impairment (CI) in chronic kidney disease (CKD) rats through modulation of gut microbiota and suppression of inflammation.",
+  "publication_date": "2025-05-08",
+  "journal": "Journal of inflammation research",
+  "doi": "10.2147/JIR.S510867",
+  "entities": {
+    "POLYPHENOL": [
+      "resveratrol",
+      "the mechanism"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Toward a Cannabis Terroir: Untargeted Metabolomic Profiling of Authentic Samples Using Gas Chromatography-High-Resolution Mass Spectrometry (GC-HRMS) and Liquid Chromatography-High-Resolution Tandem Mass Spectrometry (LC-HRMS/MS).",
+  "abstract": "Cannabis sativa L. constituents, such as cannabinoids, terpenes, flavonoids, and other secondary metabolites, determine the plant's (medicinal) effects and properties in a complex interplay, a phenomenon known as the entourage effect. However, environmental influences like cultivation method, soil, light, and climate might also influence the plant's chemical composition-and thus its therapeutic profile. Much like in viticulture, the concept of a \"cannabis terroir\" might play an important role in determining the plant's chemical phenotype. The aim of this study was therefore to make these complex properties analytically accessible and develop a comprehensive metabolomics workflow using gas chromatography-high-resolution mass spectrometry (GC-HRMS) and liquid chromatography-high-resolution tandem mass spectrometry (LC-HRMS/MS) in positive and negative ionization mode, applying HILIC and reversed phase chromatography to assess multiple chemical classes. Data processing and statistical analysis were done in MS-DIAL and MetaboAnalyst, respectively. The method was applied to 35 CBD-type cannabis flowers grown under different environmental conditions, and compounds belonging to various chemical classes were successfully detected. Principal component analysis revealed distinct clustering of the samples, and key discriminative features were identified, including cannabinoids, terpenes such as \u03b2-caryophyllene and \u03b1-humulene, cuticular alkanes (e.g., pentacosane and nonacosane), and polar compounds such as choline and trigonelline. The markers enabled a discrimination of samples not only by chemical phenotype but also by cultivation environment, supporting the emerging concept of a cannabis terroir. In conclusion, this study introduces an analytical framework for the comprehensive chemical profiling of cannabis employing GC-HRMS and LC-HRMS analysis and advanced statistical techniques.",
+  "publication_date": "2025-06-30",
+  "journal": "Drug testing and analysis",
+  "doi": "10.1002/dta.3922",
+  "entities": {
+    "POLYPHENOL": [
+      "advanced statistical techniques",
+      "flavonoids",
+      "gas chromatography-high-resolution mass spectrometry",
+      "liquid chromatography-high-resolution tandem mass spectrometry",
+      "other secondary metabolites",
+      "the entourage effect",
+      "the plant's (medicinal) effects"
+    ]
+  }
+}

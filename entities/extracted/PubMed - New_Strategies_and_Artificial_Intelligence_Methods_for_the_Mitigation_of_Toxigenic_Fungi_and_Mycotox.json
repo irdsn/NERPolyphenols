@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "New Strategies and Artificial Intelligence Methods for the Mitigation of Toxigenic Fungi and Mycotoxins in Foods.",
+  "abstract": "The proliferation of toxigenic fungi in food and the subsequent production of mycotoxins constitute a significant concern in the fields of public health and consumer protection. This review highlights recent strategies and emerging methods aimed at preventing fungal growth and mycotoxin contamination in food matrices as opposed to traditional approaches such as chemical fungicides, which may leave toxic residues and pose risks to human and animal health as well as the environment. The novel methodologies discussed include the use of plant-derived compounds such as essential oils, classified as Generally Recognized as Safe (GRAS), polyphenols, lactic acid bacteria, cold plasma technologies, nanoparticles (particularly metal nanoparticles such as silver or zinc nanoparticles), magnetic materials, and ionizing radiation. Among these, essential oils, polyphenols, and lactic acid bacteria offer eco-friendly and non-toxic alternatives to conventional fungicides while demonstrating strong antimicrobial and antifungal properties; essential oils and polyphenols also possess antioxidant activity. Cold plasma and ionizing radiation enable rapid, non-thermal, and chemical-free decontamination processes. Nanoparticles and magnetic materials contribute advantages such as enhanced stability, controlled release, and ease of separation. Furthermore, this review explores recent advancements in the application of artificial intelligence, particularly machine learning methods, for the identification and classification of fungal species as well as for predicting the growth of toxigenic fungi and subsequent mycotoxin production in food products and culture media.",
+  "publication_date": "2025-05-07",
+  "journal": "Toxins",
+  "doi": "10.3390/toxins17050231",
+  "entities": {
+    "POLYPHENOL": [
+      "cold plasma technologies",
+      "eco-friendly and non-toxic alternatives",
+      "fungal species",
+      "polyphenols",
+      "public health and consumer protection",
+      "recent advancements",
+      "recent strategies"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Anti-rheumatoid arthritis effects of Caragana acanthophylla Kom. on collagen-induced arthritis and the anti-inflammatory activity of polyphenols as main active components.",
+  "abstract": "Caragana acanthophylla Kom. is a folk medicine for treating rheumatoid arthritis (RA), widely used in Xinjiang of China. However, the pharmacological mechanism and possible material basis was not clear.",
+  "publication_date": "2025-03-18",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.119637",
+  "entities": {
+    "SYMPTOM": [
+      "rheumatoid arthritis"
+    ],
+    "POLYPHENOL": [
+      "the pharmacological mechanism"
+    ]
+  }
+}

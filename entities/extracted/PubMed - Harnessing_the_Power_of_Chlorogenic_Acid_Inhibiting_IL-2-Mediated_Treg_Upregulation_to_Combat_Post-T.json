@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Harnessing the Power of Chlorogenic Acid: Inhibiting IL-2-Mediated Treg Upregulation to Combat Post-Traumatic Osteomyelitis.",
+  "abstract": "Chlorogenic acid (CGA) exerts immunomodulatory effects by regulating the proportion of regulatory T cells (Tregs), and T-cell dysregulation is a known feature of post-traumatic osteomyelitis (PTO). This study explored the mechanism of CGA in the treatment of PTO from the perspective of T-cell immunity.",
+  "publication_date": "2025-06-01",
+  "journal": "Discovery medicine..",
+  "doi": "10.24976/Discov.Med.202537197.90",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid (cga) exerts",
+      "immunomodulatory effects",
+      "the mechanism",
+      "the perspective"
+    ]
+  }
+}

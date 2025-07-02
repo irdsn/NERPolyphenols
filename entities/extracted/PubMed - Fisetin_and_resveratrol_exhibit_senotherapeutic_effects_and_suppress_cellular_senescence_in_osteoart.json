@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Fisetin and resveratrol exhibit senotherapeutic effects and suppress cellular senescence in osteoarthritic cartilage-derived chondrogenic progenitor cells.",
+  "abstract": "Chondrogenic progenitor cells (CPCs) in the articular cartilage of knee osteoarthritis (OA) patients exhibit cellular senescence and its associated secretory phenotype (SASP). We hypothesized that the senescence of CPCs can be suppressed using natural compounds. This study aimed to evaluate the senotherapeutic effects of fisetin and resveratrol to suppress the cellular senescence in CPCs. In vitro, pre-treatment of CPCs with increasing doses of fisetin and resveratrol (5\u03bcM-100\u03bcM) were non-cytotoxic, decreased the senescence index and dampened the expression of cellular senescence markers, p53 and p38MAPK. Additionally, SASP-related genes and proteins (MMP-9, MMP13) and inflammatory mediators (IL-1\u03b2, TGF-\u03b2, and IL-6) were downregulated. Further, in silico analysis confirmed the high binding affinity of these natural drugs to OA-related proteins. Overall, fisetin and resveratrol dampened the senescence of CPCs by downregulating the p53 effector protein and effectively reducing the SASP. From this study, natural compound candidates proved to be potential drug candidates that suppress senescence via p53.",
+  "publication_date": "2025-04-04",
+  "journal": "European journal of pharmacology",
+  "doi": "10.1016/j.ejphar.2025.177573",
+  "entities": {
+    "POLYPHENOL": [
+      "fisetin",
+      "its associated secretory phenotype",
+      "resveratrol",
+      "the p53 effector protein",
+      "the senotherapeutic effects"
+    ]
+  }
+}

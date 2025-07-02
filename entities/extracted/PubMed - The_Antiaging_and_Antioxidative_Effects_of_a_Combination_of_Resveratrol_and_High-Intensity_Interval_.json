@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "The Antiaging and Antioxidative Effects of a Combination of Resveratrol and High-Intensity Interval Training on the Frontal Lobe in Aged Rats: The Role of SIRTS 4, SIRTS 5, SOD1, and SOD2.",
+  "abstract": "Introduction:High-intensity interval training (HIIT) is a form of interval exercise that enhances capacity and benefits well-being. Resveratrol is a naturally occurring polyphenol prevalent in grapes and red wine, demonstrating significant health effects on the body. This study sought to evaluate the synergistic effects of swimming HIIT and resveratrol intake on the expression of SIRTs 4, SIRTs 5, and superoxide dismutases (SOD1 and SOD2) in the frontal lobe of elderly rats.Materials and Methods:Forty-five male Wistar rats, aged 22 months, were categorized into five groups: the control group (CTL), the swimming HIIT group (Ex: Exercise), the swimming HIIT with resveratrol group (R\u2009+\u2009Ex), the resveratrol group (R), and the solvent control group (vehicle). The R\u2009+\u2009Ex group engaged in high-intensity interval swimming and ingested resveratrol (10\u2009mg/kg/day via gavage) for 6 weeks. During the initial and final sessions of each week, blood samples from the rats in the Ex and R\u2009+\u2009Ex groups were collected for lactate analysis. The proteins SIRTs 4 and 5, as well as SODs 1 and 2, were quantified using the western blot approach.Results:Integrating HIIT with resveratrol markedly enhanced the expression of SIRT4, SIRT5, and antioxidant enzymes in the frontal lobe of elderly rats.Conclusion:Resveratrol and HIIT, particularly their synergistic effects, provide antioxidant and antiaging benefits on the frontal lobe of aged rats.",
+  "publication_date": "2025-01-29",
+  "journal": "Oxidative medicine and cellular longevity",
+  "doi": "10.1155/omcl/8251896",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring polyphenol prevalent",
+      "ingested resveratrol",
+      "particularly their synergistic effects",
+      "resveratrol",
+      "resveratrol group",
+      "significant health effects",
+      "the resveratrol group",
+      "the synergistic effects"
+    ],
+    "FOOD": [
+      "grapes",
+      "red wine"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "PDMS Membrane Using Phenyl as Rigid Molecular Spacer for Phenol Recovery.",
+  "abstract": "Polydimethylsiloxane (PDMS) is extensively utilized for the recovery of bio-alcohols, but it encounters significant obstacles in volatile organic compounds (VOCs) removal, because of the narrow size for molecules diffusion. In this work, we designed a high-efficiency diffusion channel by introducing phenyl as a spacer into PDMS chains. The monomer divinylbenzene and vinyl-terminated PDMS (vinyl-PDMS) can be chemically crosslinked with thiol-grafted PDMS (thiol-PDMS) based on thiol-ene click reaction. The result shows that the free volume radius (r3,r4) has a significant increase after the introduction of divinylbenzene as a spacer, which is beneficial to the transport of phenol diffusion. After a series of optimizations involving the divinylbenzene content, pervaporation (PV) operating temperature, photoinitiator content, and viscosity of vinyl-PDMS, the prepared phenyl-PDMS showed an excellent PV performance for phenol recovery containing 10.9 of separation factor and 3959.66\u00a0g m-2h-1of flux as separating 0.1 wt% of phenol/water solution at 70\u00b0C. This separation performance is significantly higher than the unmodified PDMS membrane, that is, 2.05 times higher in separation factor and 3.54 times higher in flux. This study provides an effective structure design for the removal of aromatic compounds by enlarging diffusion channels and will make a great contribution to biological medicine and bioengineering.",
+  "publication_date": "2025-06-19",
+  "journal": "Engineering in life sciences",
+  "doi": "10.1002/elsc.70030",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective structure design",
+      "molecules diffusion",
+      "phenol recovery",
+      "the recovery"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Mitochondria at the Crossroads: Linking the Mediterranean Diet to Metabolic Health and Non-Pharmacological Approaches to NAFLD.",
+  "abstract": "Nonalcoholic fatty liver disease (NAFLD) is a growing global health concern that is closely linked to metabolic syndrome, yet no approved pharmacological treatment exists. The Mediterranean diet (MD) emerged as a first-line dietary intervention for NAFLD, offering metabolic and hepatoprotective benefits. Now conceptualized as a complex chemical matrix rich in bioactive compounds, the MD exerts antioxidant and anti-inflammatory effects, improving insulin sensitivity and lipid metabolism. Mitochondria play a central role in NAFLD pathophysiology, influencing energy metabolism, oxidative stress, and lipid homeostasis. Emerging evidence suggests that the MD's bioactive compounds enhance mitochondrial function by modulating oxidative phosphorylation, biogenesis, and mitophagy. However, most research has focused on individual compounds rather than the MD as a whole, leaving gaps in understanding its collective impact as a complex dietary pattern. This narrative review explores how the MD and its bioactive compounds influence mitochondrial health in NAFLD, highlighting key pathways such as mitochondrial substrate control, dynamics, and energy efficiency. A literature search was conducted to identify relevant studies on the MD, mitochondria, and NAFLD. While the search was promising, our understanding remains incomplete, particularly when current knowledge is limited by the lack of mechanistic and comprehensive studies on the MD's holistic impact. Future research integrating cutting-edge experimental approaches is needed to elucidate the intricate diet-mitochondria interactions. A deeper understanding of how the MD influences mitochondrial health in NAFLD is essential for developing precision-targeted nutritional strategies that can effectively prevent and manage the disease.",
+  "publication_date": "2025-03-30",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17071214",
+  "entities": {
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "anti-inflammatory effects",
+      "its collective impact",
+      "mechanistic and comprehensive studies",
+      "metabolic and hepatoprotective benefits",
+      "precision-targeted nutritional strategies"
+    ]
+  }
+}

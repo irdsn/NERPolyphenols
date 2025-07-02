@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Preparation ofGynostemma pentaphyllumExtracts Using Natural Deep Eutectic Solvents with Ultrasound-Assisted Extraction for Cosmetic Applications.",
+  "abstract": "Gynostemma pentaphyllum(GP) is an herbal tea with medicinal properties and potent antioxidants. Deep eutectic solvents (DESs) are another interesting solvent for plant extraction due to their ability to extract plant phytochemicals efficiently. This research was conducted to study the phytochemicals of GP extracts isolated by DESs, investigate the biological activities, and develop cosmetic formulations containing GP extracts. The results showed that the total phenolic and total flavonoid contents of DES extracts were 0.39 \u00b1 0.04 to 6.93 + 0.59 mg GAE/g extract and 1.48 \u00b1 0.44 to 8.17 + 0.07 mg QE/g extract, respectively. The highest IC50values of DES extract on DPPH assay, lipid peroxidation inhibition, and nitric oxide radical scavenging of DES extracts were 8.54 \u00b1 3.31, 6.04 \u00b1 0.82, and 38.63 \u00b1 1.46 mg/mL, respectively. The DES extracts demonstrated collagenase enzyme inhibition at IC50values of 0.92 \u00b1 0.04 mg/mL. The selected DES extracts, S7, S9, S11, and S13, exhibited low cytotoxic effects on RAW264.7 cells and exhibited the most substantial reduction in nitic oxide levels. The selected DES extract with high bioactivities, S7, exhibited a high rutin and kaempferol content at 7.87 \u00b1 0.01 mg rutin/g extract and 25.36 \u00b1 0.08 mg kaempferol/g extract in the active content determination by HPLC assay. The cosmetic formulations containing S7 exhibited excellent stability after the stability test. This study illustrated the potential of DES extracts for further development in novel cosmetic products.",
+  "publication_date": "2025-05-26",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14111622",
+  "entities": {
+    "FOOD": [
+      "an herbal tea",
+      "plant extraction"
+    ],
+    "POLYPHENOL": [
+      "0.01 mg rutin",
+      "25.36 \u00b1 0.08 mg kaempferol",
+      "a high rutin and kaempferol content",
+      "deep eutectic solvents",
+      "low cytotoxic effects",
+      "the total phenolic and total flavonoid contents"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Antioxidant Activity and Anti-Inflammatory Effect of Blood Orange By-Products in Treated HT-29 and Caco-2 Colorectal Cancer Cell Lines.",
+  "abstract": "Blood orange peel flour (BO-pf)-a by-product of the citrus supply chain-still contains bioactive molecules with known health benefits, such as antiradical scavenging activity or an antiproliferative activity regarding tumors. In vitro studies have demonstrated that orange polyphenols showed potential involvement in necroptosis. In addition to previous research, we tested BO-pf on two colorectal cancer cell lines. Using HT29 and Caco2 cells, our experiments confirmed the regulation of inflammasome expression. They provided valuable insights into how BO-pf influences the cancer cell features (i.e., viability, proliferation, and pro- and anti-inflammatory activity). Notably, BO-pf extract is a rich source of polyphenolic compounds with antioxidant properties. Western blot and real-time PCR analyses showed that treatment with BO-pf extract demonstrated beneficial effects by influencing the expression of both pro-inflammatory cytokines (IL-1\u03b2, IL-6) through the modulation of the TLR4/NF-kB/NLRP3 inflammasome signaling. Moreover, the results of this study demonstrate that BO-pf extracts can enhance the expression of anti-inflammatory cytokines, such as IL-10 and TGF\u03b2, suggesting that BO-pf extracts may represent a promising functional ingredient to counteract the intestinal inflammatory responses involved in IBD.",
+  "publication_date": "2025-03-18",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14030356",
+  "entities": {
+    "FOOD": [
+      "blood orange peel flour"
+    ],
+    "POLYPHENOL": [
+      "beneficial effects",
+      "bioactive molecules",
+      "necroptosis",
+      "orange polyphenols",
+      "polyphenolic compounds",
+      "two colorectal cancer cell lines"
+    ],
+    "SYMPTOM": [
+      "the cancer cell features"
+    ]
+  }
+}

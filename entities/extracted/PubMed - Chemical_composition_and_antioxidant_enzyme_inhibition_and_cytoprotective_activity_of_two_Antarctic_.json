@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Chemical composition and antioxidant, enzyme inhibition and cytoprotective activity of two Antarctic lichens of the genusPsoroma(Pannariaceae).",
+  "abstract": "Lichens contain different types of chemical compounds with multiple biological activities that demonstrate their potential pharmacological use. This research aims to report the metabolomic identification of the ethanolic extracts ofP. antarcticumandP. hypnorum, their antioxidant, enzyme inhibitory, and their cytoprotection activity. Sixteen metabolites were identified inP. antarcticumand twelve inP. hypnorum; the extracts reported variable antioxidant activity with IC50>350\u2009\u00b5g/mL in DPPH\u00b7, values >18\u2009\u00b5mol Trolox/g in ORAC and >40\u2009\u00b5mol Trolox/g in FRAP and a phenolic compound content >10\u2009mg GAE/g, as well as significant results in cholinesterases, \u03b1-glucosidase, pancreatic lipase, \u03b1-amylase, and tyrosinase enzyme inhibition activities with IC50ranging from 18 to 510\u2009\u00b5g/mL, and which were complemented by molecular docking experiments. Both extracts showed improved cytoprotection at the concentrations of 0.5 to 1.0\u2009\u03bcg/mL. This study contributes to the knowledge of the chemical diversity of Antarctic lichen extracts and their effectiveness in the evaluation of biological activities related to neurodegenerative diseases and metabolic syndrome.",
+  "publication_date": "2024-05-30",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2024.2360150",
+  "entities": {
+    "POLYPHENOL": [
+      "a phenolic compound content",
+      "improved cytoprotection",
+      "molecular docking experiments",
+      "their cytoprotection activity",
+      "their effectiveness"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

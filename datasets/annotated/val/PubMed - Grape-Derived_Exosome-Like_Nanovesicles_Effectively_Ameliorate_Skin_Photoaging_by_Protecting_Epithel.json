@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Grape-Derived Exosome-Like Nanovesicles Effectively Ameliorate Skin Photoaging by Protecting Epithelial Cells.",
+  "abstract": "Photoaging accounts for 80% of facial skin aging. Existing anti-photoaging strategies suffer from adverse effects such as toxicity and intolerance, and thus still lack a better treatment. Therefore, the present study investigated the efficacy of grape-derived exosome-like nanoparticles (GENs) on photoaged skin and their preliminary related mechanisms of action. Both in vitro and in vivo studies demonstrated that GENs significantly reduce the damage of ultraviolet (UV) light on the skin and promote skin repair and regeneration. Furthermore, single-cell sequencing data revealed that GENs exert a protective effect on photoaged skin by modulating epithelial cell proliferation and differentiation. Overall, GENs hold potential as an innovative approach for combating photoaging in clinical settings. PRACTICAL APPLICATION: This study may contribute to the creation of skincare solutions that utilize grape-derived exosome-like nanovesicles to protect skin from the harmful effects of UV exposure and aging. These products could help improve skin health by supporting the regeneration of skin cells, offering a potential approach to reduce signs of photoaging.",
+  "publication_date": "2025-06-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70309",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "existing anti-photoaging strategies"
+    ],
+    "POLYPHENOL": [
+      "a protective effect",
+      "adverse effects",
+      "the harmful effects",
+      "their preliminary related mechanisms"
+    ],
+    "FOOD": [
+      "grape-derived exosome-like nanoparticles",
+      "grape-derived exosome-like nanovesicles"
+    ]
+  }
+}

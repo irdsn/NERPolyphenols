@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Resveratrol inhibits lipopolysaccharide\u2011induced MUC5AC expression and airway inflammation via MAPK and Nrf2 pathways in human bronchial epithelial cells and an acute inflammatory mouse model.",
+  "abstract": "Pathological mucus hypersecretion is an important clinical hallmark of chronic airway inflammatory diseases and yet there is a lack of effective therapeutic medicine. Resveratrol, a dietary polyphenol, has been shown to possess anti\u2011aging, antioxidation, anti\u2011inflammation and tumor prevention effects. However, the effect and underlying mechanism of resveratrol in lipopolysaccharide (LPS) induced\u2011mucus hypersecretion remain to be elucidated. Among more than 20 mucin family members, mucin 5ac (MUC5AC) is a major glycoprotein in airway mucus. The present study investigated the therapeutic effects and mechanisms of resveratrol in LPS\u2011induced MUC5AC expression in human bronchial epithelial (NCI\u2011H292) cells and an acute inflammatory murine model. It found that resveratrol markedly attenuated LPS\u2011induced MUC5AC expression and reactive oxygen species production in NCI\u2011H292 cells. Moreover, resveratrol increased activation of nuclear factor erythroid\u20112\u2011related factor 2 (Nrf2) and phosphorylation of mitogen\u2011activated protein kinase (MAPK). Notably, compared with negative control, knockdown of Nrf2 by small interfering RNA and specific inhibitors of ERK/p38 MAPK markedly abrogated the downregulative effect of resveratrol on LPS\u2011induced MUC5AC expression in NCI\u2011H292 cells. Additionally, in vivo effects on histopathology and gene expression were assessed in lung tissues collected after intratracheal instillation of LPS with or without resveratrol treatment. Western blotting of lung tissue samples confirmed that administration of resveratrol inhibited MUC5AC expression in LPS\u2011induced acute inflammatory mice, but increased Nrf2 expression along with phosphorylation of ERK and p38. Periodic acid\u2011Schiff's staining also showed that resveratrol suppressed mucin production. Compared with the LPS group, administration of resveratrol effectively decreased the numbers of inflammatory cells and neutrophils in bronchoalveolar lavage fluid, as well as markedly alleviating the infiltration of exacerbated inflammatory cells in lung tissue. In conclusion, resveratrol exerted protective effects against LPS\u2011induced MUC5AC overexpression, inflammation and oxidative stress by activating ERK/p38 MAPK and Nrf2 pathway. Furthermore, the results suggested that resveratrol might be a potential therapeutic agent to inhibit airway mucus hyperproduction.",
+  "publication_date": "2025-04-11",
+  "journal": "Molecular medicine reports",
+  "doi": "10.3892/mmr.2025.13522",
+  "entities": {
+    "POLYPHENOL": [
+      "a dietary polyphenol",
+      "effective therapeutic medicine",
+      "exerted protective effects",
+      "mechanisms",
+      "pathological mucus hypersecretion",
+      "reactive oxygen species production",
+      "resveratrol",
+      "resveratrol treatment",
+      "specific inhibitors",
+      "the downregulative effect",
+      "the effect",
+      "the therapeutic effects",
+      "tumor prevention effects",
+      "underlying mechanism",
+      "vivo effects"
+    ],
+    "SYMPTOM": [
+      "anti\u2011inflammation",
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

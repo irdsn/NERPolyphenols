@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Impact of Genetics and Environment on Cranberry Fruit Metabolites.",
+  "abstract": "Cranberry fruit samples of 15 genotypes (cultivars and accessions) grown in 16 locations in 4 states (MA, NJ, OR, and WI) and a Canadian province (British Columbia) were analyzed by non-targeted fuzzy chromatography-direct injection mass spectrometry (FC-DIMS). The data collected for 206 ions were analyzed by multifactorial multivariate analysis of variance-principal component analysis (MFMV-ANOVA-PCA). MFMV-ANOVA-PCA showed that sample composition varied statistically (p\u2009<\u20090.001) with respect to the major factors (state/province, growing location, genotype, and analytical batch) and cross factors (genotype-state/province and genotype-growing location). MFMV-ANOVA-PCA score plots verified a systematic variation with respect to 42 genotype-state/province pairs and 82 genotype-growing location pairs. MFMV-ANOVA-PCA variable loadings identified major ions that varied with each of the major factors and cross factors and 56 ions were annotated. The location-ion count matrix was transposed and analyzed by hierarchical cluster analysis producing dendrograms that grouped ions with respect to metabolic pathways for either the genotype-state/province or genotype-growing location pairs. Annotation of the ions in the hierarchical clusters allowed evaluation of the impact of genetics and location on compounds of interest. Ions expected to correlate with fruit quality measurements (brix, titratable acid, total anthocyanins, and total proanthocyanidins) were identified. This study demonstrates that mass spectral data coupled with chemometric analysis is a valuable tool for predicting the composition of specific genotypes for specific growing locations. The general design of this study can be used as a model for other food plants.",
+  "publication_date": "2025-05-30",
+  "journal": "Journal of AOAC International",
+  "doi": "10.1093/jaoacint/qsaf056",
+  "entities": {
+    "POLYPHENOL": [
+      "mass spectral data",
+      "non-targeted fuzzy chromatography-direct injection mass spectrometry",
+      "respect",
+      "specific genotypes",
+      "specific growing locations",
+      "total proanthocyanidins"
+    ]
+  }
+}

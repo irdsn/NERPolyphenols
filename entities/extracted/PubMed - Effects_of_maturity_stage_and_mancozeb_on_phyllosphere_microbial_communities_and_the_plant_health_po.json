@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Effects of maturity stage and mancozeb on phyllosphere microbial communities and the plant health potential of silage maize.",
+  "abstract": "Mancozeb is often used to supplement the nutritional requirements of maize for elements such as manganese and zinc, as well as for the control of diseases such as large blotches and stripe blotches. The objective of this study was to assess the effects of different concentrations of mancozeb on phyllosphere microbial diversity and plant health in silage maize. The experimental treatments comprised three maturity stages (big trumpet, milk, and dough) and four mancozeb concentrations (control: CK, equal amounts of distilled water; low concentration, 1500-fold dilution; medium concentration, 1000-fold dilution; and high concentration, 500-fold dilution). The fresh matter yield of silage maize increased by 36.6% and 9.07% in the low and high treatments than in the CK, respectively. Compared with the CK, the application of mancozeb slightly improved the photosynthetic properties of the silage maize. Specifically, compared with CK, the net photosynthetic rate, transpiration rate, and intercellular CO2concentration in the low-concentration treatment increased by 10.4%, 50.2%, and 28.5%, respectively. Compared to the dough stage, the net photosynthetic rates increased by 64.8% and 93.2%in the big trumpet and milk stages, respectively, and transpiration rates increased by 66.4% and 155%, respectively. Total phenols, proline, reducing sugars, vitamin C, free amino acids, and inorganic phosphorus contents were the highest (P < 0.05) in the leaves at the dough stage. The low and medium treatments reduced the relative abundance of the harmful fungusEpicoccumcompared to CK (high > CK > low > medium), and compared to CK, the low treatment increasedPantoea,Chryseobacterium,Microbacterium,Massilia,Filobasidium,Papiliotremaand other beneficial microorganisms in relative abundance. The relative abundance ofParasolawas significantly higher (P < 0.05) than that of the CK at low and medium treatments. At the genus level, the fungal community with the highest relative abundance wasSymmetrospora(high > low > CK > medium). Based on the yield and utilization of silage maize and considering the changes in the diversity of microorganisms attached to the surface of silage maize leaves, this study recommends the use of low concentrations of mancozeb and harvesting at the milk stage.",
+  "publication_date": "2025-06-04",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2025.1581401",
+  "entities": {
+    "POLYPHENOL": [
+      "the effects",
+      "the objective"
+    ]
+  }
+}

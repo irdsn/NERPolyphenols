@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Efficacy and safety of statins, ezetimibe, and fibrates monotherapy or combination therapy for hyperlipidemia: a systematic review and network meta-analysis.",
+  "abstract": "As commonly used lipid-lowering drugs, the efficacy and safety of statins, ezetimibe, and fibrates, either alone or in combination, have rarely been systematically evaluated. Therefore, we conducted a network meta-analysis to assess their efficacy and safety in patients with hyperlipidemia. In this study, we searched PubMed, the Cochrane Library, and Web of Science within our system. We included randomized controlled trials (RCTs) that compared the monotherapy or combination therapy of statins, ezetimibe, and fibrates for hyperlipidemia. Data analysis was performed using Stata 17.0 software. Each result is presented as the mean difference (MD) or odds ratio (OR) along with the 95% confidence interval (CI) and the surface under the cumulative ranking curve (SUCRA). A total of 30 studies, involving 10,219 patients, were included to analyze 12 different interventions. Combination therapy demonstrated superior therapeutic effects compared to monotherapy. Moderate-intensity statin\u2009+\u2009ezetimibe showed good efficacy and acceptable safety in reducing LDL cholesterol, while moderate-intensity statin\u2009+\u2009fibrate was a better choice for treating mixed dyslipidemia.",
+  "publication_date": "2025-06-23",
+  "journal": "European journal of medical research",
+  "doi": "10.1186/s40001-025-02805-y",
+  "entities": {
+    "SYMPTOM": [
+      "hyperlipidemia",
+      "mixed dyslipidemia"
+    ],
+    "POLYPHENOL": [
+      "superior therapeutic effects"
+    ]
+  }
+}

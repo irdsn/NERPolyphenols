@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "GWAS on HTP-enabled dynamic traits unravels novel genetic architecture of salt tolerance in soybean.",
+  "abstract": "Salinity is a significant factor limiting the cultivation of soybean, a globally important cash crop. However, efficient assessment and genetic dissection of soybean response to salt stress remain challenging. This study leveraged high-throughput phenotyping (HTP) and traditional physiological methods for comprehensive phenotyping of salt tolerance using 261 diverse soybean germplasms and dissected the genetic basis through GWAS. A highly efficient rail-based HTP system with depth-sensing and RGB cameras was developed to collect horizontal and vertical growth and leaf health information. Machine learning pipeline facilitated canopy detection, segmentation, and phenotype extraction processes. Three HTP traits and five traditional physiological traits related to salt tolerance were collected. Divergence between growth status and chlorophyll content was observed, indicating the importance of HTP and the genetic complexity of salt tolerance in soybean. A stepwise regression analysis indicated that \"Vegetation color index\" (VEG), \"Anthocyanin Reflectance Index\" (ARI), and \"Cyan, Magenta, Yellow\" (CMY_Yellow) are the most informative indices of soybean foliar health under salt tolerance. GWAS identified 46 loci for salt tolerance-related traits. Fifteen potential candidate genes were proposed, including Glyma.18g238700 which is known to be involved in salt tolerance mechanisms. Field test indicated that two of the top five tolerant accessions at seedling stage are salt tolerant at full growth stages with high yield potential. Additionally, best crosses were predicted from random mating of the association panel by using linkage and independent assortment models for salt tolerance improvement breeding. This study provided tolerant genotypes, promising candidates and optimized crosses for further exploration.",
+  "publication_date": "2025-05-01",
+  "journal": "The Plant journal : for cell and molecular biology",
+  "doi": "10.1111/tpj.70177",
+  "entities": {
+    "FOOD": [
+      "261 diverse soybean germplasms",
+      "soybean",
+      "soybean foliar health",
+      "soybean response"
+    ],
+    "POLYPHENOL": [
+      "anthocyanin reflectance index",
+      "canopy detection",
+      "genetic dissection",
+      "salt tolerance mechanisms"
+    ],
+    "SYMPTOM": [
+      "stress"
+    ]
+  }
+}

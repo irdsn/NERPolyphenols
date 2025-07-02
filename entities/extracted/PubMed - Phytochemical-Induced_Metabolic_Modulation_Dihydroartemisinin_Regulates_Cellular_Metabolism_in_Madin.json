@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Phytochemical-Induced Metabolic Modulation: Dihydroartemisinin Regulates Cellular Metabolism in Madin-Darby Bovine Kidney Cells.",
+  "abstract": "Dihydroartemisinin (DHA) is a bioactive phytopharmaceutical with diverse pharmacological potential, predominantly because of its established antiplasmodial efficacy. Here, we investigated the effects of DHA on metabolic homeostasis in Madin-Darby bovine kidney cells in the context of dose-specific adaptation of metabolism and regulation of biochemistry pathway changes. According to our findings, extensive changes in metabolism were revealed by PCA, accounting for a variability of 59.4% to distinguish contrasting metabolic signatures from normal cells. Metabolomic characterization demonstrated 67 constituting metabolites of baseline cellular processes, while 32 and 44 metabolites have demonstrated differential abundance in low- and high-dose treatments, respectively. Impaired metabolism of glycerophospholipid, amino acid, and nucleotide biosynthesis was reported with implications such as regulation of membrane reorganization, nitrogen metabolism, and cellular bioenergetics. Bioindicators of high-volume lysophosphatidylcholine (18:0) and choline phosphate revealed a lipid homeostatic change, in addition to imbalances in glutamic acid and proline levels. Pathway regulation further modulated ABC transporters and arachidonic acid signaling as implications of systemic phytopharmaceutical-modulated reorganization of metabolism. Hence, the study gives mechanistic insight into DHA-initiated modulation of cellular metabolism in MDBK cells, elucidating its status as a cellular metabolism regulator. Findings confirm the potential of DHA as a phytopharmaceutical in modulating diseases of metabolism, further solidifying its relevance in evidence-based traditional herbal remedies and natural compound therapeutics.",
+  "publication_date": "2025-05-09",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26104531",
+  "entities": {
+    "POLYPHENOL": [
+      "dose-specific adaptation",
+      "mechanistic insight",
+      "the effects"
+    ]
+  }
+}

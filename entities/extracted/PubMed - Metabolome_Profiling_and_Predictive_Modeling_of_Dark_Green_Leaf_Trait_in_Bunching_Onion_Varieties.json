@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Metabolome Profiling and Predictive Modeling of Dark Green Leaf Trait in Bunching Onion Varieties.",
+  "abstract": "Background:The dark green coloration of bunching onion leaf blades is a key determinant of market value, nutritional quality, and visual appeal. This trait is regulated by a complex network of pigment interactions, which not only determine coloration but also serve as critical indicators of plant growth dynamics and stress responses. This study aimed to elucidate the mechanisms regulating the dark green trait and develop a predictive model for accurately assessing pigment composition. These advancements enable the efficient selection of dark green varieties and facilitate the establishment of optimal growth environments through plant growth monitoring.Methods:Seven varieties and lines of heat-tolerant bunching onions were analyzed, including two commercial F1 cultivars, along with two purebred varieties and three F1 hybrid lines bred in Yamaguchi Prefecture. The analysis was conducted on visible spectral reflectance data (400-700 nm at 20 nm intervals) and pigment compounds (chlorophylla, chlorophyllband pheophytina, lutein, and \u03b2-carotene), whereas primary and secondary metabolites were assessed by using widely targeted metabolomics. In addition, a random forest regression model was constructed by using spectral reflectance data and pigment compound contents.Results:Principal component analysis based on spectral reflectance data and the comparative profiling of 186 metabolites revealed characteristic metabolite accumulation associated with each green color pattern. The \"green\" group showed greater accumulation of sugars, the \"gray green\" group was characterized by the accumulation of phenolic compounds, and the \"dark green\" group exhibited accumulation of cyanidins. These metabolites are suggested to accumulate in response to environmental stress, and these differences are likely to influence green coloration traits. Furthermore, among the regression models for estimating pigment compound contents, the one for chlorophyllacontent achieved high accuracy, with an R2 value of 0.88 in the test dataset and 0.78 in Leave-One-Out Cross-Validation, demonstrating its potential for practical application in trait evaluation. However, since the regression model developed in this study is based on data obtained from greenhouse conditions, it is necessary to incorporate field trial results and reconstruct the model to enhance its adaptability.Conclusions:This study revealed that cyanidin is involved in the characteristics of dark green varieties. Additionally, it was demonstrated that chlorophyllacan be predicted using visible spectral reflectance. These findings suggest the potential for developing markers for the dark green trait, selecting high-pigment-accumulating varieties, and facilitating the simple real-time diagnosis of plant growth conditions and stress status, thereby enabling the establishment of optimal environmental conditions. Future studies will aim to elucidate the genetic factors regulating pigment accumulation, facilitating the breeding of dark green varieties with enhanced coloration traits for summer cultivation.",
+  "publication_date": "2025-03-26",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo15040226",
+  "entities": {
+    "FOOD": [
+      "bunching onion leaf blades",
+      "heat-tolerant bunching onions"
+    ],
+    "SYMPTOM": [
+      "environmental stress",
+      "stress responses",
+      "stress status"
+    ],
+    "POLYPHENOL": [
+      "cyanidin",
+      "cyanidins",
+      "phenolic compounds",
+      "primary and secondary metabolites",
+      "spectral reflectance data",
+      "the efficient selection",
+      "the mechanisms",
+      "visible spectral reflectance",
+      "visible spectral reflectance data",
+      "yamaguchi prefecture"
+    ]
+  }
+}

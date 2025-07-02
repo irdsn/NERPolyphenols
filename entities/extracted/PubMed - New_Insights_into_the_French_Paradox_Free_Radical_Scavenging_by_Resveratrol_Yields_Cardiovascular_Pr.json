@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "New Insights into the French Paradox: Free Radical Scavenging by Resveratrol Yields Cardiovascular Protective Metabolites.",
+  "abstract": "Resveratrol was subjected to a diversity-oriented synthesis using oxidative transformations by various biorelevant, biomimetic, or biomimetic-related chemical reagents. Using a combined strategy of ultrahigh-resolution profiling, bioactivity screening, and bioactivity-guided isolation, 19 metabolites were obtained. The compounds were tested for theirin vitroenzyme inhibitory activity on angiotensin-1 converting enzyme (ACE), cyclooxygenase-1 and -2, and 15-lipoxygenase (LOX), and evaluated for their relevant drug-like propertiesin silico. The compounds demonstrated a generally increased cardiovascular protective and anti-inflammatory potential and better drug-likeness compared to resveratrol.Trans-\u03b4-viniferin (6) was identified as a competitive, C-domain-selective ACE inhibitor that is over 20 times more potent than resveratrol. Further,trans-\u03b5-viniferin (2) acted as an over 40 times stronger LOX inhibitor than resveratrol. While our results cannot be directly translated to the health benefits of dietary resveratrol consumption without further studies, it is demonstrated that biologically relevant oxidative environments transform resveratrol into potent cardiovascular protective and anti-inflammatory metabolites.",
+  "publication_date": "2025-05-07",
+  "journal": "Journal of medicinal chemistry",
+  "doi": "10.1021/acs.jmedchem.4c03061",
+  "entities": {
+    "POLYPHENOL": [
+      "a competitive, c-domain-selective ace inhibitor",
+      "a generally increased cardiovascular protective and anti-inflammatory potential and better drug-likeness",
+      "dietary resveratrol consumption",
+      "potent cardiovascular protective and anti-inflammatory metabolites",
+      "resveratrol"
+    ]
+  }
+}

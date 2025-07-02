@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Diversity of Phytochemical Content, Antioxidant Activity, and Fruit Morphometry of Three Mallow,MalvaSpecies (Malvaceae).",
+  "abstract": "The Malvaceae family contains a variety of medicinal plants, including those of the mallow (Malva)genus. This study investigated the phytochemical composition, antioxidant activity, and morphometry of fruit from threeMalvaspecies (common mallowM. sylvestris, cheeseweed mallowM. parviflora, and Cornish mallowM. multiflora. The phytochemical analysis and antioxidant potentials were conducted on dry and powdered fruits. The morphometry and texture were performed using the software imagery tools. Results showed that the principal component analysis based on phytochemical content, antioxidant activity, and morphometric and texture traits showed a group structure according to species. TheM.multiflorafruits were distinguished by high values of morphometric and texture traits, oil content (17.96%), total flavonoid content (1.70 mg RE/g DM), total antioxidant activity, and high FRAP value. TheM.parviflorafruits were smaller than theM.multifloraand were rich in proteins (17.70%), starch (94.41 mg/g DW), and soluble sugar contents (57.74 mg/g DW). However, theM.sylvestrisfruits have an intermediate position within the two other species and are rich in total polyphenols (2.34 mg GAE/g DM) and flavonoid contents (0.75 mg RE/g DM). The combined data, including phytochemical characterization, antioxidant activity, and morphometry, could be used as an alternative tool to molecular analysis to distinguish betweenMalvaspecies and to select future application ofMalvafruits based on their metabolite's composition.",
+  "publication_date": "2025-03-16",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14060930",
+  "entities": {
+    "POLYPHENOL": [
+      "betweenmalvaspecies",
+      "flavonoid contents",
+      "molecular analysis",
+      "species",
+      "the two other species",
+      "threemalvaspecies",
+      "total flavonoid content",
+      "total polyphenols"
+    ]
+  }
+}

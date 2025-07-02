@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Effect of Organic Acid Addition Before Fermentation on the Physicochemical and Sensory Properties of Cherry Wine.",
+  "abstract": "Lack of acidity is the main reason for the spoilage of cherry wine, and for insufficient aroma and mouthfeel. In this study, the initial acidity of cherry purees was adjusted to 3.50, 4.15, 4.80 and 5.45 g/kg by using malic acid, lactic acid and a mixture of the two before fermentation. And the effects of different organic acid additions on the physicochemical profiles and sensory properties of cherry wines were investigated. Our findings suggest that organic acid addition can inhibit the formation of volatile acid and enhance ethanol production, while having a negative effect on their polyphenol contents. These additions can be utilized as carbon sources during cherry wine fermentation and affect its metabolism. Among them, the application of malic acid with lactic acid was shown to have more metabolically active effects on non-volatile compounds, and enhanced the total volatile organic compounds by 14.04%-66.92%. MC-4.80 and MLC-4.80 had the highest total VOC content and odor score in the sensory evaluation. However, the addition of large amounts of acids reduced the acidity score and overall acceptability of cherry wine. In conclusion, adjusting the initial acid content to 4.15 g/kg before fermentation significantly improved the quality of cherry wines, and the combination of malic acid and lactic acid was more effective for cherry winemaking. This finding evidenced that organic acid addition could be an effective strategy for improving the quality of cherry wines.",
+  "publication_date": "2024-12-03",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13233902",
+  "entities": {
+    "FOOD": [
+      "cherry",
+      "cherry purees",
+      "cherry wine",
+      "cherry wine fermentation",
+      "cherry wines"
+    ],
+    "POLYPHENOL": [
+      "a negative effect",
+      "an effective strategy",
+      "more metabolically active effects",
+      "the effects",
+      "their polyphenol contents"
+    ]
+  }
+}

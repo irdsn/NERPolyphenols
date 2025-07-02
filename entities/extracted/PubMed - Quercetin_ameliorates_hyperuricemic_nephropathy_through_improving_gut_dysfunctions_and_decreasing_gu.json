@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Quercetin ameliorates hyperuricemic nephropathy through improving gut dysfunctions and decreasing gut bacteria-derived uremic toxins.",
+  "abstract": "Hyperuricemia (HUA) is closely associated with gut dysbiosis, yet the role of microbial metabolism in hyperuricemic nephropathy (HN) remains poorly understood. Quercetin has shown urate-lowering and nephroprotective effects, but its therapeutic mechanisms, particularly in modulating the gut microbiome and microbial metabolism, remain elusive.",
+  "publication_date": "2025-05-11",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156801",
+  "entities": {
+    "SYMPTOM": [
+      "gut dysbiosis"
+    ],
+    "POLYPHENOL": [
+      "its therapeutic mechanisms",
+      "quercetin",
+      "urate-lowering and nephroprotective effects"
+    ]
+  }
+}

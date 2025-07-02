@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Phytochemical content of Cycas rumphii n-butanol fraction and antiprotozoal activity against Toxoplasma gondii in vivo.",
+  "abstract": "Toxoplasmosis treatments are currently limited due to their ineffectiveness against the chronic stage and potential adverse effects. The search for novel medications that possess characteristics such as non-toxicity, and efficacy on all stages of the parasite, particularly the cystic form, is important. The n-butanol (n-BuOH) fraction of Cycas rumphii has shown promising potency against Toxoplasma gondii (RH strain) in vitro, and this study aimed to evaluate its efficacy against T. gondii in mice models. Therefore, mice were infected with 20 cysts (acute infection model) or 10 cysts (chronic infection model) of T. gondii (ME49 strain). The infected mice were treated with C. rumphii n-BuOH fraction and cotrimoxazole at 200\u00a0mg/kg/day and 370\u00a0mg/kg/day, respectively, divided into 2 doses/12\u00a0h, starting the 4th day (acute stage) or the 6th week (chronic model) post-infection, and continued for 14 consecutive days. Mice were sacrificed at 56, and 70 days post-infection for acute and chronic models, respectively, to assess the efficacy of treatment. Evaluations included size and count of brain cysts, histopathological examinations of the brain and liver, inflammatory scoring, and immunological studies to assess the levels of nitric oxide (NO), interferon-gamma (INF-\u03b3), and tumor necrosis factor-alpha (TNF-\u03b1) in serum. Oral administration of the n-BuOH fraction at a daily dose of 200\u00a0mg/kg for two weeks significantly reduced the cyst count in the brains of infected mice and improved the survival rate. The results were comparable to those observed in subgroups treated with cotrimoxazole in both acute and chronic models. The histopathological findings indicated that C. rumphii n-BuOH alleviated T. gondii-induced brain and liver lesions. Furthermore, the serum levels of NO, and IFN-\u03b3 were significantly elevated in the C. rumphii n-BuOH fraction-treated subgroups. High-performance liquid chromatography analysis indicated that this fraction is rich in phenolic acids, including caffeic acid, gallic acid, and chlorogenic acid which have been linked to anti-oxidant, anti-inflammatory, antiparasitic, and anti-Toxoplasma properties. Experimental results demonstrated that the n-BuOH fraction of C. rumphii exhibits anti-Toxoplasma effects, making it a promising candidate for the development of complementary therapies or use in combination with other drugs.",
+  "publication_date": "2025-05-05",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-98993-y",
+  "entities": {
+    "POLYPHENOL": [
+      "14 consecutive days",
+      "acute infection model",
+      "anti-toxoplasma effects",
+      "caffeic acid",
+      "chlorogenic acid",
+      "chronic infection model",
+      "gallic acid",
+      "infected mice",
+      "infection",
+      "potential adverse effects",
+      "the infected mice",
+      "their ineffectiveness",
+      "tumor necrosis factor-alpha"
+    ]
+  }
+}

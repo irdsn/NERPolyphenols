@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Effects of resveratrol onin vitrocircadian clock gene expression in young and older human adipose-derived progenitor cells.",
+  "abstract": "Observational studies in preclinical models demonstrate age-related declines in circadian functions. We hypothesized that age would be associated with declines in function of cell-autonomous circadian clocks in human tissue. Accordingly, we cultured adipose progenitor cells (APCs) from previously collected white-adipose tissue biopsies from abdominal subcutaneous depots of young (Age: 23.4 \u00b1 2.1 yrs) vs. older female participants (Age: 70.6 \u00b1 5.9 yrs). Using anin vitromodel, we compared rhythmic gene expression profiles of core clock components, as an indicator of circadian oscillatory function. We observed consistent circadian rhythmicity of core clock components in young and older-APCs. Expression analysis showed increased levels of some components in older-APCs (CLOCK, CRY1, NR1D1) vs. young. We also investigated resveratrol (RSV), a well-known longevity-enhancing effector, for its effects on rhythmic clock gene expression profiles. We found that RSV resulted in gained rhythmicity of some components (CLOCK and CRY), loss of rhythmicity in others (PER2, CRY2), and altered some rhythmic parameters (NR1D1 and NR1D2), consistent in young and older-APCs. The observation of detectable circadian rhythmicity retainedin vitrosuggests that the oscillatory function of the cell-autonomous core clock in APCs is preserved at this stage of the aging process. RSV impacts core clock gene expression in APCs, implicating its potential as a therapeutic agent for longevity by targeting the core clock.",
+  "publication_date": "2024-01-06",
+  "journal": "Aging",
+  "doi": "10.18632/aging.205292",
+  "entities": {
+    "POLYPHENOL": [
+      "a well-known longevity-enhancing effector",
+      "age-related declines",
+      "declines",
+      "detectable circadian rhythmicity",
+      "its effects",
+      "preclinical models",
+      "previously collected white-adipose tissue biopsies",
+      "resveratrol"
+    ],
+    "SYMPTOM": [
+      "the aging process"
+    ]
+  }
+}

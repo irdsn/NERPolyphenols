@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Nutritional bioactive compounds with beneficial effects for multiple sclerosis: Potential implication of G-Quadruplexes?",
+  "abstract": "Multiple sclerosis (MS) is an autoimmune neurodegenerative disease resulting in myelin destruction and consequent physical disability. Several nutritional molecules modulate genes of reported relevance in MS eliciting beneficial effects. Intriguingly, some of these molecules are able to bind G-Quadruplexes (G4), specific DNA secondary structures involved in the regulation of gene expression and function. For instance, epigallocatechingallate and thymoquinone are known to interact with G4 in vitro, while sanguinarine, quercetin, curcumin and coumarin-quinolinium derivatives interact with G4 in vivo affecting oncogene expression. Noteworthy, several genes involved in MS present G-rich sequences known to fold into G4. Thus, we suggest and speculate that G4 targeting through daily intake of nutritional bioactive molecules might represent a novel therapeutic approach to improve MS symptoms and progression.",
+  "publication_date": "2025-06-06",
+  "journal": "Mutation research. Reviews in mutation research",
+  "doi": "10.1016/j.mrrev.2025.108548",
+  "entities": {
+    "POLYPHENOL": [
+      "eliciting beneficial effects",
+      "epigallocatechingallate",
+      "nutritional bioactive molecules",
+      "sanguinarine, quercetin, curcumin and coumarin-quinolinium derivatives",
+      "several nutritional molecules",
+      "these molecules"
+    ]
+  }
+}

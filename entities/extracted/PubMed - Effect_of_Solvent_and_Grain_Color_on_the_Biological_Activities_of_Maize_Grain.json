@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Effect of Solvent and Grain Color on the Biological Activities of Maize Grain.",
+  "abstract": "The color of maize grain, ranging from pink to purple, is related to the presence of phenolic compounds whose efficient extraction is affected by the solvent used. This study aimed to determine the effect of solvents and maize grain color on the phenolic composition and biological activities of maize extracts. Six samples (two with brick red, BR, two with cherry red CR, and two with blue-purple BP) of maize grain were used. The solvents were acidic methanol (MTFA) and aqueous acetone (AWAC). The phenolic composition was evaluated by total soluble phenolics (TSPs), anthocyanins (TACs), flavonoids (FLAVs), and proanthocyanidins (PAs). Biological activities evaluated were antioxidant capacity (AC), antifungal activity (AFA) and antimutagenic (AM) activity. The type of solvent used exerted a higher effect than the maize grain color on the phenolic composition of biological activities. The TAC and FLAV variables were more influenced by solvent than TSPs and PAs, while AC was affected only when evaluated by the DPPH method. AWAC extracts showed AFA and had the highest AM, unlike MTFA extracts. These results highlight the importance of selecting an appropriate solvent to maximize the functional properties of maize grain extracts and reach a more objective evaluation of the potential of food on its biological activities.",
+  "publication_date": "2025-03-27",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14071163",
+  "entities": {
+    "POLYPHENOL": [
+      "a higher effect",
+      "a more objective evaluation",
+      "flavonoids",
+      "phenolic compounds",
+      "proanthocyanidins",
+      "the effect"
+    ],
+    "FOOD": [
+      "cherry red cr"
+    ]
+  }
+}

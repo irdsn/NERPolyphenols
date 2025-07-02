@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Oxidative stress and antioxidant therapeutics in autism spectrum disorder: a biochemical and structure-activity relationship perspective.",
+  "abstract": "Autism spectrum disorder is a multifaceted neurodevelopmental disorder that involves impaired social interaction, communication challenges, and repetitive behavior. The developing evidence emphasizes a key pathophysiological role for oxidative stress in ASD, which is initiated by an imbalance between ROS generation and antioxidant defense mechanisms. Increased levels of lipid peroxidation, protein oxidation, and DNA damage have been repeatedly found in ASD patients, indicating generalized oxidative damage and mitochondrial impairment. Redox homeostasis disruption is responsible for synaptic dysfunction, neuroinflammation, and disrupted neuronal signaling, worsening the fundamental symptoms of ASD. In this regard, antioxidant therapeutics have attracted a great deal of attention as putative modulators of oxidative stress and neuroinflammation in ASD. Promising candidates such as N-acetylcysteine, glutathione precursors, coenzyme Q10, vitamin E, and polyphenols have been found to be potentially effective against oxidative damage and enhancing behavioral outcomes. The therapeutic potency of such compounds is directly related to their structure-activity relationships, which control their antioxidant activity, bioavailability, and blood-brain barrier permeability. SAR studies have revealed key functional groups, such as thiols, phenolic hydroxyls, and quinone moieties, which increase the free radical scavenging activity and neuroprotective properties of these compounds. In spite of promising preclinical and clinical outcomes, the best dosing, treatment duration, and combinatorial strategies for antioxidant treatments in ASD are poorly characterized. In this review, the biochemical basis of oxidative stress in ASD is examined, the mechanistic understanding of antioxidant-based interventions is assessed, and the structure-activity relationships that dictate their therapeutic value are discussed. Clarifying these molecular complexities will facilitate the development of more potent and targeted antioxidant therapies, bringing new hope for controlling ASD-related oxidative pathologies.",
+  "publication_date": "2025-06-30",
+  "journal": "Molecular diversity",
+  "doi": "10.1007/s11030-025-11274-8",
+  "entities": {
+    "POLYPHENOL": [
+      ", glutathione precursors",
+      "antioxidant defense mechanisms",
+      "autism spectrum disorder",
+      "neuroprotective properties",
+      "polyphenols",
+      "promising preclinical and clinical outcomes",
+      "the mechanistic understanding",
+      "these molecular complexities"
+    ],
+    "SYMPTOM": [
+      "dna damage",
+      "generalized oxidative damage",
+      "neuroinflammation",
+      "oxidative damage",
+      "oxidative stress"
+    ]
+  }
+}

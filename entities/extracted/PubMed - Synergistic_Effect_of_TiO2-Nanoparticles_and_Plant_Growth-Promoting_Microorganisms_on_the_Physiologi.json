@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Synergistic Effect of TiO2-Nanoparticles and Plant Growth-Promoting Microorganisms on the Physiological Parameters and Antioxidant Responses ofCapsicum annumCultivars.",
+  "abstract": "Titanium dioxide nanoparticles (TiO2-NPs) were synthesized using the molten salt method and systematically characterized. TiO2-NPs were evaluated for their capacity to promote the growth ofCapsicum annuumcultivars together with the plant growth-promoting microorganisms (PGPMs)Bacillus thuringiensis(Bt) andTrichoderma harzianum(Th). The variables analyzed included physiological parameters and antioxidant responses. The capacity of TiO2-NPs to scavenge free radicals was also investigated, along with their biocompatibility, usingArtemia salinaas an in vivo model. The results demonstrated that TiO2-NPs exhibited a nanocuboid-type morphology, negative surface charge, and small surface area. It was noted that TiO2-NPs enhanced the CFU and spore production of Bt (1.56-2.92 \u00d7 108CFU/mL) and Th (2.50-3.90 \u00d7 108spores/mL), respectively. It was observed that TiO2-NPs could scavenge DPPH, ABTS, and H2O2radicals (IC5048.66-109.94 \u03bcg/mL), while not compromising the viability ofA. salinaat 50-300 \u03bcg/mL. TiO2-NPs were determined to enhance the root length and fresh and dry weights of chili peppers. Similarly, TiO2-NPs in synergy with Bt and Th increased the activity of \u03b2-1,3-Glucanase (2.45 nkat/g FW) and peroxidase (69.90 UA/g FW) enzyme activity, and increased the TPC (29.50 GA/g FW). The synergy of TiO2-NPs with the PGPMs consortium also upregulated the total chlorophyll content: 210.8 \u00b1 11.4 mg/mg FW. The evidence from this study unveils the beneficial application of TiO2-NPs with Bt and Th as an efficient approach to promote the physiology and antioxidant responses of chili peppers.",
+  "publication_date": "2025-06-10",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060707",
+  "entities": {
+    "FOOD": [
+      "chili peppers"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Impact of Storage on Bioactive and Toxic Compounds in Jicama (Pachyrhizus erosus) Tubers: Effects on Thyroid Cancer and Inflammatory Responses.",
+  "abstract": "Jicama (Pachyrhizus erosus) tubers contain isoflavones and phenolic acids with potential chemopreventive and anti-inflammatory effects. This study analyzed bioactive and toxic compounds in fresh jicama tuber (flesh and peel) and assessed changes during freezing for 3 and 4 months. Antioxidant, cytotoxic, and anti-inflammatory effects were evaluated on human thyroid cancer (FTC133, 8505\u00a0C, TPC1), and normal cells (Nthy-ori 3\u2009-\u20091), and RAW 264.7 macrophages.",
+  "publication_date": "2025-06-13",
+  "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+  "doi": "10.1007/s11130-025-01381-0",
+  "entities": {
+    "POLYPHENOL": [
+      "cytotoxic, and anti-inflammatory effects",
+      "potential chemopreventive and anti-inflammatory effects"
+    ],
+    "SYMPTOM": [
+      "human thyroid cancer"
+    ]
+  }
+}

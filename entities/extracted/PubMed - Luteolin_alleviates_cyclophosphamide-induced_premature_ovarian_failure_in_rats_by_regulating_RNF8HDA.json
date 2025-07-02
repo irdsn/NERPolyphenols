@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Luteolin alleviates cyclophosphamide-induced premature ovarian failure in rats by regulating RNF8/HDAC2.",
+  "abstract": "ObjectiveThe study aimed to investigate the role of luteolin in alleviating POF and its underlying molecular mechanisms.MethodsPOF model was established in rats by intraperitoneal injection of 100\u00a0mg/kg cyclophosphamide. Then, rats in the treatment group received intragastric administration of with luteolin at doses of 25\u00a0mg/kg, 50\u00a0mg/kg and 100\u00a0mg/kg, respectively. Rats in POF model group were administered the same volume of saline intragastrically. The concentrations of E2, FSH, AMH, P, LH, SOD and MDA in serum were quantified using ELISA kits. H&E and TUNEL staining were employed to assess pathological alterations and apoptosis. The cellular localizations of 4-HNE, 8-OHdG and NTY were detected by immunohistochemistry staining. The PharmMapper database and UbiBrowser prediction were used for the prediction of luteolin interaction with RNF8/HDAC2.ResultsLuteolin treatment significantly increased serum levels of estradiol (E2) (P < 0.01) and anti-M\u00fcllerian hormone (AMH) (P < 0.01) while reducing follicle-stimulating hormone (FSH) and luteinizing hormone (LH) levels (P < 0.05), restoring ovarian function. Additionally, luteolin could significantly improve ovarian tissue morphology and reduce apoptosis. ELISA kit results indicated luteolin significantly reduced the levels of SOD and MDA. Immunohistochemical staining results revealed a significant decrease in the expressions of 4-HNE, 8-OHdG and NTY in luteolin treatment group. Combining The PharmMapper database and UbiBrowser prediction, we found luteolin could bind RNF8 and inhibit HDAC2 expression.DiscussionLuteolin could mitigate cyclophosphamide-induced ovarian senescence, with its molecular mechanisms involving the regulation of RNF8/HDAC2 signaling axis and the inhibition of oxidative stress.",
+  "publication_date": "2025-06-24",
+  "journal": "Human & experimental toxicology",
+  "doi": "10.1177/09603271251350802",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant decrease",
+      "discussionluteolin",
+      "intraperitoneal injection",
+      "its molecular mechanisms",
+      "its underlying molecular mechanisms",
+      "luteolin",
+      "luteolin interaction",
+      "luteolin treatment group",
+      "objectivethe study",
+      "rnf8/hdac2.resultsluteolin treatment"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "oxidative stress"
+    ]
+  }
+}

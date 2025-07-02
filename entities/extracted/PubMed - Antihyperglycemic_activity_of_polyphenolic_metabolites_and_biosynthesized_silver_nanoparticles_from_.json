@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Antihyperglycemic activity of polyphenolic metabolites and biosynthesized silver nanoparticles from Pedalium murex: Characterization and application of antioxidant and uropathogenic antimicrobial activities.",
+  "abstract": "Pedalium murex commonly known as (large caltrops, bara gokhru) is a medicinal plant with potential therapeutic benefits. Hyperglycemia, a hallmark of diabetes, affects millions worldwide. Research on its leaf ethanol extract demonstrates potential for managing hyperglycemia in vitro and in vivo. Phytochemical analysis revealed secondary metabolites, including tannins, alkaloids, saponins, flavonoids, and polyphenols, with high levels of total flavonoids (287.5\u00a0\u00b1\u00a017.3\u00a0\u03bcg QEq./mg) and polyphenols (327.5\u00a0\u00b1\u00a017.2\u00a0\u03bcg QEq./mg). Scanning electron microscopy (SEM) confirmed the granular nature of synthesized silver nanoparticles (AgNPs) with a size range of 20-40\u00a0nm, while transmission electron microscopy (TEM) showed spherical AgNPs (20-50\u00a0nm). Energy-dispersive X-ray spectroscopy (EDX) identified silver (66.75\u00a0%), carbon (22.02\u00a0%), and oxygen (11.23\u00a0%) as the primary components. The extract effectively neutralized DPPH-free radicals (39.57\u00a0\u00b1\u00a04.77\u00a0%), while the AgNPs showed greater efficacy (68.23\u00a0\u00b1\u00a05.37\u00a0%). Superoxide radical (O2\u2022-) reduction was significant for both the extract (59.33\u00a0\u00b1\u00a00.17\u00a0%) and AgNPs (38.73\u00a0\u00b1\u00a00.21\u00a0%), highlighting potent antioxidant properties. Hydroxyl radical (\u25cfOH) scavenging was higher for the extract (63.72\u00a0\u00b1\u00a00.17\u00a0%) than for AgNPs alone (36.71\u00a0\u00b1\u00a00.29\u00a0%). The AgNPs showed significant antimicrobial activity, with inhibition zones of 16.27\u00a0\u00b1\u00a00.18\u00a0mm against Staphylococcus aureus and 11.23\u00a0\u00b1\u00a00.17\u00a0mm against Candida albicans at 80\u00a0\u03bcg/mL. In toxicity studies, P. murex-AgNPs were well tolerated in mice. In hyperlipidemic mice, treatment with P. murex-AgNPs (350\u00a0mg/kg and 700\u00a0mg/kg) significantly reduced cholesterol, triglycerides, and LDL-c levels without affecting HDL-c. These findings provide valuable insights into the therapeutic potential of P. murex-AgNPs for the treatment of hyperlipidemia and diabetes.",
+  "publication_date": "2025-04-24",
+  "journal": "Microbial pathogenesis",
+  "doi": "10.1016/j.micpath.2025.107620",
+  "entities": {
+    "SYMPTOM": [
+      "hyperglycemia",
+      "hyperlipidemia"
+    ],
+    "POLYPHENOL": [
+      "electron microscopy",
+      "energy-dispersive x-ray spectroscopy",
+      "flavonoids",
+      "polyphenols",
+      "secondary metabolites",
+      "tannins",
+      "total flavonoids",
+      "transmission electron microscopy"
+    ]
+  }
+}

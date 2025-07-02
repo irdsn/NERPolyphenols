@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Independent flavonoid and anthocyanin biosynthesis in the flesh of a red-fleshed table grape revealed by metabolome and transcriptome co-analysis.",
+  "abstract": "Red flesh is a desired fruit trait, but the regulation of red flesh formation in grape is not well understood. 'Mio Red' is a seedless table grape variety with light-red flesh and blue-purple skin. The skin color develops at veraison whereas the flesh color develops at a later stage of berry development. The flesh and skin flavonoid metabolomes and transcriptomes were analyzed.",
+  "publication_date": "2023-07-15",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-023-04368-8",
+  "entities": {
+    "FOOD": [
+      "a seedless table grape variety",
+      "grape"
+    ],
+    "POLYPHENOL": [
+      "the flesh and skin flavonoid metabolomes"
+    ]
+  }
+}

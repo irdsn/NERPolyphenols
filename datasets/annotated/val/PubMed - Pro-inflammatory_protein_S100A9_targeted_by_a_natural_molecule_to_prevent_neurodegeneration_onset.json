@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Pro-inflammatory protein S100A9 targeted by a natural molecule to prevent neurodegeneration onset.",
+  "abstract": "Accumulation of the pro-inflammatory protein S100A9 has been implicated in neuroinflammatory cascades in neurodegenerative diseases (NDs) such as Alzheimer's disease (AD) and Parkinson's disease (PD). S100A9 co-aggregates with other proteins such as \u03b1-synuclein in PD and A\u03b2 in AD, contributing to amyloid plaque formation and neurotoxicity. The amyloidogenic nature of this protein and its role in chronic neuroinflammation suggest that it may play a key role in the pathophysiology of these diseases. Research into molecules targeting S100A9 could be a potential therapeutic strategy to prevent its amyloidogenic self-assembly and to attenuate the neuroinflammatory response in affected brain tissue. This work suggests that bioactive natural molecules, such as those found in the Mediterranean diet, may have the potential to alleviate neuroinflammation associated with the accumulation of proteins such as S100A9 in neurodegenerative diseases. A major component of extra virgin olive oil (EVOO), hydroxytyrosol (HT), with its ability to interact with and modulate S100A9 amyloid self-assembly and expression, offers a compelling approach for the development of novel and effective interventions for the prevention and treatment of ND. The findings highlight the importance of exploring natural compounds, such as HT, as potential therapeutic options for these complex and challenging neurological conditions.",
+  "publication_date": "2024-07-14",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2024.133838",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "chronic neuroinflammation",
+      "neuroinflammation",
+      "parkinson's disease"
+    ],
+    "POLYPHENOL": [
+      "affected brain tissue",
+      "bioactive natural molecules",
+      "molecules",
+      "novel and effective interventions"
+    ],
+    "FOOD": [
+      "extra virgin olive oil"
+    ]
+  }
+}

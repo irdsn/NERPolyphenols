@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Investigation of the effect of tannic acid on doxorubicin-\u0131nduced testicular damage and functions in a rat model.",
+  "abstract": "Reproductive and testicular toxicity is one of the most important side effects of doxorubicin (DOX), a chemotherapy drug. In our study, we investigated the ameliorative effect of tannic acid (TA), a polyphenol, against DOX-induced testicular and reproductive toxicity in rats. For this purpose, rats divided into four groups (n\u2009=\u20095 each). Rats were treated with DOX cumulatively 30\u00a0mg/kg (5\u00a0mg/kg by six equal injections) for 2\u00a0weeks to induce testicular toxicity. Rats were then treated daily with TA (50\u00a0mg/kg) and DOX\u2009+\u2009TA combination. After treatments, animals were decapitated and testicular tissues were removed. Then, to examine the effect of DOX and TA treatments on oxidative stress, changes in Sod, Cat, Gpx, Gst, and Gr specific activities and mRNA levels were determined. To determine the effects on inflammation, changes in the expression levels of Tnf-\u03b1, IL6, Foxo1, Foxo3, Cox2, and Inos genes were examined. In order to examine the therapeutic effect of TA on the spermatogenesis process, mRNA levels of Dazl, Amh, and Ddx4, which regulate reproductive functions, were determined. Additionally, changes in oxidative damage markers GSH, MDA, 8-OHdG, iNOS, and TNF-a and changes in mitochondrial DNA copy number were also investigated. The results showed that DOX treatment caused a decrease in the levels of oxidative stress and reproductive parameters and an increase in inflammation and DNA damage parameters. However, it was determined that oxidative stress, inflammation, and tissue damage decreased in testicular tissue after TA treatment. In addition, it was observed that TA also improved the expression levels of reproductive genes. When all the data were evaluated together, it was determined that TA administration has a therapeutic effect against the damage and toxicity caused by DOX.",
+  "publication_date": "2025-05-10",
+  "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+  "doi": "10.1007/s00210-025-04238-0",
+  "entities": {
+    "POLYPHENOL": [
+      "a decrease",
+      "a polyphenol",
+      "a therapeutic effect",
+      "six equal injections",
+      "sod, cat, gpx, gst, and gr specific activities",
+      "the ameliorative effect",
+      "the effect",
+      "the effects",
+      "the most important side effects",
+      "the therapeutic effect"
+    ],
+    "SYMPTOM": [
+      "dna damage parameters",
+      "inflammation",
+      "oxidative damage markers",
+      "oxidative stress"
+    ]
+  }
+}

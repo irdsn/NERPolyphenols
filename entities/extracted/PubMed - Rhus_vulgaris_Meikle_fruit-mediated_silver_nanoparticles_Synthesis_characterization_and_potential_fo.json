@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Rhus vulgaris Meikle fruit-mediated silver nanoparticles: Synthesis, characterization, and potential for sun protection, antioxidant and antibacterial applications.",
+  "abstract": "This study investigates the synthesis of silver nanoparticles (AgNPs) using Rhus vulgaris fruit extract (RVFE) and evaluates their antioxidant, antibacterial, and UV protection properties. R. vulgaris, a member of the Anacardiaceae family, is known for its rich phytochemical profile, including phenols, glycosides, alkaloids, saponins, tannins, and terpenoids, which contribute to its medicinal properties. The AgNPs were synthesized by mixing RVFE with silver nitrate (AgNO\u2083) under optimized conditions: a temperature of 80 \u00b0C, a pH of 9, a reaction time of 40 minutes, and a 9:1 AgNO\u2083-to-RVFE ratio. Characterization of the synthesized AgNPs was performed using UV-Vis spectroscopy, Fourier Transform Infrared (FTIR) spectroscopy, Transmission Electron Microscopy (TEM), X-ray Diffraction (XRD), and zeta potential analysis. The results confirmed the successful synthesis, with AgNPs exhibiting an average size of approximately 14.64\u2009\u00b1\u20090.4\u2009nm and a zeta potential of -26.0 mV, indicating good stability. The antioxidant activity was assessed using the DPPH radical scavenging assay, revealing a maximum inhibition of 53.7%\u2009\u00b1\u20090.12% with an IC\u2085\u2080 value of 81.2 \u03bcg/mL. Antibacterial tests demonstrated significant activity against various bacterial strains, with inhibition zones ranging from 23.88\u2009\u00b1\u20091.10\u2009mm to 30.21\u2009\u00b1\u20091.21\u2009mm, indicating a stronger effect against Gram-negative bacteria. Additionally, the synthesized AgNPs exhibited a high Sun Protection Factor (SPF) of 234.5, suggesting their potential as effective UV blockers.This study highlights the promising applications of AgNPs-RVFE in biotechnology, medicine, and healthcare, emphasizing their eco-friendly synthesis and significant biological activities.",
+  "publication_date": "2025-05-22",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0324799",
+  "entities": {
+    "FOOD": [
+      "rhus vulgaris fruit extract"
+    ],
+    "POLYPHENOL": [
+      "a high sun protection factor",
+      "a stronger effect",
+      "biotechnology",
+      "effective uv blockers",
+      "fourier transform infrared (ftir) spectroscopy",
+      "tannins",
+      "their antioxidant, antibacterial, and uv protection properties",
+      "their eco-friendly synthesis",
+      "transmission electron microscopy",
+      "uv-vis spectroscopy"
+    ]
+  }
+}

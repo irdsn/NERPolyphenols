@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Effects of Breviscapine injection on coagulation function and cerebrovascular endothelial functional status in focal cerebral ischemia rats.",
+  "abstract": "In this study, we investigated the effects of Breviscapine injection on coagulation function and cerebrovascular endothelial functional status in focal cerebral ischemia (CI) rats.",
+  "publication_date": "2025-04-15",
+  "journal": "Neurological research",
+  "doi": "10.1080/01616412.2025.2485333",
+  "entities": {
+    "POLYPHENOL": [
+      "breviscapine injection",
+      "the effects"
+    ]
+  }
+}

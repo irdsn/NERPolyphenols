@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Decoding the mechanism of proanthocyanidins in central analgesia: redox regulation and KCNK3 blockade.",
+  "abstract": "Neuropathic pain causes enduring physical discomfort and emotional distress. Conventional pharmacological treatments often provide restricted relief and may result in undesirable side effects, posing a substantial clinical challenge. Peripheral and spinal redox homeostasis plays an important role in pain processing and perception. However, the roles of oxidative stress and antioxidants in pain and analgesia on the cortical region during chronic pain remains obscure. Here we focus on the ventrolateral orbital cortex (VLO), a brain region associated with pain severity and involved in pain inhibition. Using a spared nerve injury mouse model, we observed the notable reactive oxygen species (ROS)-mediated suppression of the excitability of pyramidal cells (PYRVLO) in the VLO. Nasal application or microinjection of the natural antioxidants proanthocyanidins (PACs) to the VLO specifically increased the activity of PYRVLOand induced a significant analgesic effect. Mechanistically, PACs activate PYRVLOby inhibiting distinct potassium channels in different ways: (1) by scavenging ROS to reduce ROS-sensitive voltage-gated potassium currents and (2) by acting as a channel blocker through direct binding to the cap structure of KCNK3 to inhibit the leak potassium current (Ileak). These results reveal the role of cortical oxidative stress in central hyperalgesia and elucidate the mechanism and potential translational significance of PACs in central analgesia. These findings suggest that the effects of PACs extend beyond their commonly assumed antioxidant or anti-inflammatory effects.",
+  "publication_date": "2025-03-03",
+  "journal": "Experimental & molecular medicine",
+  "doi": "10.1038/s12276-025-01412-5",
+  "entities": {
+    "SYMPTOM": [
+      "chronic pain",
+      "cortical oxidative stress",
+      "emotional distress",
+      "neuropathic pain causes",
+      "oxidative stress",
+      "pain",
+      "pain inhibition",
+      "pain processing",
+      "pain severity"
+    ],
+    "POLYPHENOL": [
+      "a significant analgesic effect",
+      "direct binding",
+      "microinjection",
+      "the effects",
+      "the mechanism",
+      "the natural antioxidants proanthocyanidins",
+      "the notable reactive oxygen species",
+      "their commonly assumed antioxidant or anti-inflammatory effects",
+      "undesirable side effects"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Determination of o-quinones in foods by a derivative strategy combined with UHPLC-MS/MS.",
+  "abstract": "As primary polyphenol oxidant products, the occurrence of o-quinone is greatly responsible for quality deterioration in wine, including browning and aroma loss. The high reactivity of o-quinone causes huge difficulty in its determination. Herein, a derivative strategy combined with UHPLC-MS/MS analysis was established with chlorogenic acid quinone (CQAQ) and 4-methylcatechol quinone (4MCQ) as model compounds. Method validation demonstrated its efficiency for two analytes (R2>\u00a00.99, accuracy 98.71-106.39\u00a0%, RSD of precision 0.46-6.11\u00a0%, recovery 85.83-99.37\u00a0%). This approach was successfully applied to detect CQAQ and 4MCQ, suggesting its applicability in food analysis. CQAQ in coffee was much more than 4MCQ and with the deepening of baking degree, CQAQ decreased and 4MCQ increased. The amounts of CQAQ in various vegetables were markedly different, seemingly consistent with their respective browning degrees in practical production. This study developed an accurate and robust analytical approach for o-quinones, providing technical support for their further investigation in foods.",
+  "publication_date": "2024-05-14",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2024.139638",
+  "entities": {
+    "POLYPHENOL": [
+      "4-methylcatechol quinone",
+      "chlorogenic acid quinone",
+      "precision",
+      "primary polyphenol oxidant products",
+      "recovery",
+      "technical support",
+      "their respective browning degrees"
+    ],
+    "FOOD": [
+      "coffee",
+      "wine"
+    ]
+  }
+}

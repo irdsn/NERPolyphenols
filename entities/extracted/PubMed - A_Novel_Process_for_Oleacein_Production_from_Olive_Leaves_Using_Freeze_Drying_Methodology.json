@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "A Novel Process for Oleacein Production from Olive Leaves Using Freeze Drying Methodology.",
+  "abstract": "The abundant yet underutilized olive leaves, a renewable by-product of olive cultivation, offer untapped potential for producing high-value bioactive compounds, notably oleacein. Existing extraction methods are often inefficient, yielding low quantities of oleacein due to enzymatic degradation of its precursor, oleuropein, during conventional processing and storage. This study aimed to overcome these limitations by exploring a novel methodology based on freeze-drying, to facilitate the in situ enzymatic biotransformation of oleuropein into oleacein directly within the plant matrix. Olive leaves were subjected to three drying methods-ambient air drying, microwave drying, and freeze-drying-and their phenolic profiles were analyzed. The findings demonstrated that freeze drying uniquely promotes the selective activation of \u03b2-glucosidase and esterase enzymes while simultaneously inhibiting oxidative enzymes, such as polyphenol oxidase and peroxidase, resulting in significantly enriched oleacein content. This process eliminates the need for extensive post-extraction transformations, providing a cost-effective, scalable, and sustainable approach to oleacein production. The proposed methodology aligns with circular economy principles and holds substantial potential for applications in pharmaceuticals, nutraceuticals, and functional food industries.",
+  "publication_date": "2025-01-18",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14020313",
+  "entities": {
+    "POLYPHENOL": [
+      "a cost-effective, scalable, and sustainable approach",
+      "circular economy principles",
+      "its precursor",
+      "oleuropein",
+      "polyphenol oxidase",
+      "the selective activation"
+    ],
+    "FOOD": [
+      "functional food industries"
+    ]
+  }
+}

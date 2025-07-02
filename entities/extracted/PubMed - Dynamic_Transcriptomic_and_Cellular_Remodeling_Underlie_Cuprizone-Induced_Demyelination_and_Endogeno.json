@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Dynamic Transcriptomic and Cellular Remodeling Underlie Cuprizone-Induced Demyelination and Endogenous Repair in the CNS.",
+  "abstract": "Demyelination in the central nervous system (CNS) disrupts neuronal communication and promotes neurodegeneration. Despite the widespread use of cuprizone-induced demyelination models to study myelin injury and repair, the mechanisms underlying oligodendrocyte apoptosis and regeneration are poorly understood. This study investigated the dynamic cellular and molecular changes that occur during demyelination and remyelination, with a focus on glial cell responses, blood-brain barrier (BBB) integrity, and neuroimmune interactions.C57BL/6Jmice exposed to cuprizone exhibited weight loss, sensorimotor deficits, and cognitive decline, which were reversed during remyelination. Histological and immunofluorescence analyses revealed reduced myelin protein levels, including myelin basic protein (MBP) and myelin-associated glycoprotein (MAG), and decreased oligodendrocyte populations during demyelination, with recovery during repair. The BBB permeability increases during demyelination, is associated with the decreased expression of tight junction proteins (ZO-1, Occludin), and normalizes during remyelination. Single-cell RNA sequencing revealed dynamic shifts in glial cell populations and upregulated Psap-Gpr37l1 signaling. Neuroimmune activation and oxidative stress peak during demyelination, characterized by elevated ROS, MDA, and immune cell infiltration, followed by recovery. Transcriptomic profiling revealed key inflammatory pathways (JAK-STAT, NF-\u03baB) and hub genes associated with demyelination and repair. These findings provide insights into myelin repair mechanisms and highlight potential therapeutic targets for treating demyelinating diseases.",
+  "publication_date": "2025-06-06",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060692",
+  "entities": {
+    "SYMPTOM": [
+      "neurodegeneration",
+      "oligodendrocyte apoptosis",
+      "oxidative stress peak"
+    ],
+    "POLYPHENOL": [
+      "cognitive decline",
+      "myelin repair mechanisms",
+      "recovery",
+      "the decreased expression",
+      "the dynamic cellular and molecular changes",
+      "the mechanisms"
+    ]
+  }
+}

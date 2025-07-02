@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Impacts of Prior Anti-Osteoporosis Treatments on Sequential Denosumab Responses in BMD Changes Among Postmenopausal Osteoporosis Women in East China: Real-World Data Analysis.",
+  "abstract": "This study aimed to investigate the impacts of prior anti-osteoporosis treatments on bone mineral density (BMD) changes in Chinese postmenopausal women with osteoporosis following 1-year Denosumab (Dmab) therapy.",
+  "publication_date": "2025-05-08",
+  "journal": "Clinical interventions in aging",
+  "doi": "10.2147/CIA.S511622",
+  "entities": {
+    "SYMPTOM": [
+      "osteoporosis",
+      "prior anti-osteoporosis treatments"
+    ]
+  }
+}

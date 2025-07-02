@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Integrated analysis of microbiome and transcriptome reveals the mechanisms underlying the chlorogenic acid-mediated attenuation of oxidative stress and systemic inflammatory responses via gut-liver axis in post-peaking laying hens.",
+  "abstract": "Systemic inflammatory responses and oxidative stress occur in laying hens during the aging process, particularly during the post-peaking laying period, which generally result in multi-organ damages, leading to significant declines in egg performance and quality. Chlorogenic acid (CGA)-enriched extract from Eucommia ulmoides leaves has anti-inflammatory and antioxidant activities. However, the mechanisms underlying whether and how CGA alleviates systemic inflammatory responses and oxidative stress to improve egg performance and quality in post-peaking laying hens remain unclear. In this study, the potential regulatory mechanisms of CGA in alleviating inflammatory responses and oxidative stress along the gut-liver axis were investigated. A total of 360 55-week-old Hy-line white-laying hens were randomly selected and divided into four groups. The hens in the four groups were fed a basal diet (CON) or basal diets supplemented with 200, 400, and 800 mg/kg of CGA (CGA200, CGA400, and CGA800, respectively) for 10 weeks.",
+  "publication_date": "2025-06-06",
+  "journal": "Journal of animal science and biotechnology",
+  "doi": "10.1186/s40104-025-01216-7",
+  "entities": {
+    "SYMPTOM": [
+      "oxidative stress",
+      "the aging process"
+    ],
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "significant declines",
+      "the mechanisms",
+      "the potential regulatory mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Green Synthesis of Titanium Dioxide Nanoparticles: Physicochemical Characterization and Applications: A Review.",
+  "abstract": "Nanotechnology is an emerging field in science that exhibits significant promise in the synthesis of nanomaterials for diverse applications. Traditionally, these nanomaterials were manufactured using hazardous and labor-intensive physical and chemical processes. Nevertheless, in recent years, researchers have developed safer, more scalable, and environmentally friendly methods for green synthesis. The problem addressed in this study is the need for an environmentally friendly and efficient synthesis process for titanium dioxide nanoparticles (TiO2NPs) with enhanced properties. The aim of this work is to describe the synthesis of TiO2NPs with various plant extracts using a green approach and to evaluate the physicochemical characteristics and potential applications of the resulting nanoparticles. This study focuses on understanding how the integration of plant extracts influences the properties of TiO2NPs, particularly in terms of their structural, optical, and functional characteristics. The novelty lies in the use of plant extracts as bio-reductants and capping agents, which not only provides a safer and more sustainable synthesis method but also enhances the functional properties of TiO2NPs. This green synthesis approach reduces the use of harmful chemicals, making the process more environmentally friendly and economically viable, with potential applications in photocatalysis, antibacterial, and antioxidant activities. The TiO2NPs possess diverse functionalities, including photocatalysis, antibacterial properties, and antioxidant properties. The initial precursor, such as a metal salt, undergoes transformation into the desired nanoparticles through the actions of plants exactly. Bio-reduction and capping processes are carried out by secondary metabolites found in bacteria and plants. The results demonstrated that the plant extract-mediated TiO2NPs exhibited enhanced photocatalytic activity, superior antibacterial effects, and higher antioxidant potential compared to chemically synthesized TiO2NPs. This highlights the potential of green synthesis methods in producing nanomaterials with improved functional properties for a wide range of applications.",
+  "publication_date": "2025-06-06",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26125454",
+  "entities": {
+    "POLYPHENOL": [
+      "nanotechnology",
+      "recent years",
+      "secondary metabolites",
+      "superior antibacterial effects",
+      "the initial precursor"
+    ],
+    "FOOD": [
+      "plant extracts",
+      "the plant extract-mediated tio2nps",
+      "various plant extracts"
+    ]
+  }
+}

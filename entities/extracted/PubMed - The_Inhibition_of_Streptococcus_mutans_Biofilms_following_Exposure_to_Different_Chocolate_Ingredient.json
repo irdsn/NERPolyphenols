@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "The Inhibition of Streptococcus mutans Biofilms following Exposure to Different Chocolate Ingredients.",
+  "abstract": "This project aimed to investigate the anticariogenic effect of four chocolate ingredients (polyphenol, theobromine, cacao, and flavanol) againstStreptococcus mutansbiofilms grownin vitro.StoredS. mutans(UA 159) was transferred to Brain Heart Infusion (BHI) broth and incubated in aerobic incubator for 24\u2009hours at 37\u00b0C in 5% CO2. Following this, 190 \u00b5L of each ingredient concentration (0.78-200\u2009mg/mL) and 10 \u00b5L of the culture were added to a 96-well plate and incubated for 24\u2009hours at 37\u00b0C in 5% CO2. Then, biofilms were fixed, stained with crystal violet, and analyzed for formation using a spectrophotometer. Control groups included negative control with onlyS. mutansand sterility control with BHI media.One-way analysis of variance and Tukey tests analyzed the data.Flavonoid at the 6.25 to 25\u2009mg/mL concentrations reduced theS. mutansbiofilms (p<\u20090.001) by 5- to 33-fold. Meanwhile, 50\u2009mg/mL concentrations and higher completely eradicated biofilm growth. Similarly, cocoa concentrations ranging between 12.5 and 200\u2009mg/mL revealed massive antibiofilm action from a 22-fold reduction at 12.5\u2009mg/mL to complete biofilm eradication at 200\u2009mg/mL. Polyphenol was the only ingredient showing biofilm inhibition at all concentrations ranging from almost 10-fold reduction to complete biofilm eradication, which were all significant (p<\u20090.001) compared to the control. Regarding theobromine, 3.125\u2009mg/mL of it significantly increased the growth ofS. mutansbiofilms. At the concentration of 6.25\u2009mg/mL, theobromine significantly (p<\u20090.001) inhibited theS. mutansbiofilms by 3.35-fold. While at the range of 25 to 200\u2009mg/mL, theobromine resulted in a reduction between 11-fold and complete biofilm eradication.The findings suggest that flavonoid, cacao, polyphenol, and theobromine may serve as effective adjuncts in preventing dental caries by inhibitingS. mutansbiofilm formation.",
+  "publication_date": "2025-05-06",
+  "journal": "European journal of dentistry",
+  "doi": "10.1055/s-0045-1809027",
+  "entities": {
+    "POLYPHENOL": [
+      "200\u2009mg/ml. polyphenol",
+      "a spectrophotometer",
+      "effective adjuncts",
+      "flavonoid",
+      "polyphenol",
+      "the anticariogenic effect",
+      "this project"
+    ],
+    "FOOD": [
+      "brain heart infusion (bhi) broth",
+      "cocoa concentrations",
+      "four chocolate ingredients"
+    ]
+  }
+}

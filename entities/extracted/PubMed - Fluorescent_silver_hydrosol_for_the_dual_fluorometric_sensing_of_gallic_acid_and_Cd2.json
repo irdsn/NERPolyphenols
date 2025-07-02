@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Fluorescent silver hydrosol for the dual fluorometric sensing of gallic acid and Cd2.",
+  "abstract": "Herein, silver-enhanced fluorescence was obtained using a small molecule of salicylaldehyde (SL) in an alkaline solution in the presence of silver nitrate. Ag+was reduced to Ag0, while SL was oxidized to the quinone form OSL. OSL was a very weak fluorophore and exhibited metal-enhanced fluorescence (MEF) in the presence of proximal silver nanoparticle surfaces. MEF was selectively quenched by gallic acid and restored by Cd2+. Thus, a dual-sensing platform was obtained for gallic acid [limit of detection (LOD) = 1.77 \u00d7 10-5M; linear detection range = 10-8to 5 \u00d7 10-5M)] and Cd2+(LOD = 2.4 \u00d7 10-6M; linear detection range = 5 \u00d7 10-8to 10-6M) in a one-pot. The observed lightning rod effect and higher radiative decay rate were ascribed to MEF, while replacing the capping agents was responsible for the tuning of MEF. The sensing protocol was applied to natural samples from real sample sources, and satisfactory results were obtained.",
+  "publication_date": "2025-05-08",
+  "journal": "RSC advances",
+  "doi": "10.1039/d5ra00788g",
+  "entities": {
+    "POLYPHENOL": [
+      "a small molecule",
+      "detection",
+      "gallic acid",
+      "higher radiative decay rate",
+      "the observed lightning rod effect"
+    ]
+  }
+}

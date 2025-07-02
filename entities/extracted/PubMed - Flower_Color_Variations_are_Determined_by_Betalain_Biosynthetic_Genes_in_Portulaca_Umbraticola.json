@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Flower Color Variations are Determined by Betalain Biosynthetic Genes in Portulaca Umbraticola.",
+  "abstract": "Portulaca umbraticola, an important summer garden plant, belongs to the family Portulacaceae within the order Caryophyllales. Unlike most plants that produce anthocyanins, species in Caryophyllales typically produce betalains, pigments divided into yellow betaxanthins and reddish-purple betacyanins. Previous research on a limited number of plants has identified five key enzymes responsible for betalain biosynthesis: cytochrome P450-\u03b1, \u03b2 (CYP76AD-\u03b1, \u03b2), DOPA 4,5-dioxygenase (DOD), cyclo-DOPA-5-O-glucosyltransferase (cDOPA5GT), and betanidin 5-O-glucosyltransferase (betanidin 5GT). These genes, however, had not been previously identified in P. umbraticola, and the molecular basis for its flower color variation remained unclear. In this study, we identified these genes in P. umbraticola (PuDOD1, PuCYP76AD1/3 (\u03b1), PuCYP76AD2 (\u03b2), PucDOPA5GT, and PuB5GT) and demonstrated their functions through transient and stable gene expression in non-betalain-producing plants. Simultaneous expression of PuDOD1, PuCYP76AD1, and PucDOPA5GT (or PuB5GT), led to the accumulation of betacyanin, while co-expression of PuDOD1 and PuCYP76AD2 (or PuCYP76AD3) led to betaxanthin accumulation. PuCYP76AD3 belongs to the CYP76AD-\u03b1 sub-clade, but lacks L-DOPA oxidase activity and contributes to betaxanthin biosynthesis. We also tested the correlation between the diverse flower colors of P. umbraticola and the expression levels of these genes, and found that most flower color variation, determined by the ratio of betacyanin and betaxanthin, can be explained by the combination of varying expression levels of these genes. Here, we elucidated the basic pathway of betalain biosynthesis for the first time in Portulacaceae and indicated that the expression of betalain biosynthetic genes significantly influences flower color in betalain-producing plants. (243 words).",
+  "publication_date": "2025-05-29",
+  "journal": "Plant & cell physiology",
+  "doi": "10.1093/pcp/pcaf057",
+  "entities": {
+    "POLYPHENOL": [
+      "species",
+      "the molecular basis"
+    ]
+  }
+}

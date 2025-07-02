@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Investigating the potential of quercetin-loaded chitosan-coated lipid carriers as an oral nanoplatform for depression management.",
+  "abstract": "Phytochemicals have emerged as promising candidates for next-generation therapeutics targeting neurological disorders. Among them, quercetin (QU) has shown potential in alleviating depression and preventing cognitive decline. However, its clinical utility is limited by poor oral bioavailability and restricted permeability across the blood-brain barrier (BBB). To address these challenges, QU was encapsulated in chitosan-coated nanostructured lipid carriers (QU-CS-NLCs), forming a novel nano-system to enhance brain-directed delivery and therapeutic efficacy. QU-CS-NLCs exhibited nanometric particle size, sustained-release behavior, and structural integrity, as confirmed by Fourier transform infrared (FT-IR) spectroscopy, differential scanning calorimetry (DSC), and X-ray diffraction (XRD). Superior therapeutic efficacy of QU-CS-NLCs over pure QU and the standard antidepressant fluoxetine was observed in a lipopolysaccharide (LPS) -induced mouse model of depression and anxiety. Behavioral assays revealed improved mood and anxiety parameters, including increased sucrose preference, prolonged struggle time, and reduced immobility. Moreover, QU-CS-NLCs led to a 65.4\u202f% reduction in C-reactive protein (CRP), a 145.2\u202f% increase in brain serotonin, and a 331.8\u202f% increase in brain-derived neurotrophic factor (BDNF), alongside restoration of TrkB receptor expression. Histopathological analysis further confirmed significant neuroprotective effects. These findings underscore the enhanced antidepressant potential of QU-CS-NLCs, offering a promising alternative to conventional QU or Fluoxetine therapies.",
+  "publication_date": "2025-06-26",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145569",
+  "entities": {
+    "POLYPHENOL": [
+      "brain-directed delivery",
+      "cognitive decline",
+      "fourier transform infrared (ft-ir) spectroscopy",
+      "quercetin",
+      "significant neuroprotective effects",
+      "trkb receptor expression"
+    ]
+  }
+}

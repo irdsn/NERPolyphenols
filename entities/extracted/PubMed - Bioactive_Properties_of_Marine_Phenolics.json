@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Bioactive Properties of Marine Phenolics.",
+  "abstract": "Phenolic compounds from marine organisms are far less studied than those from terrestrial sources since their structural diversity and variability require powerful analytical tools. However, both their biological relevance and potential properties make them an attractive group deserving increasing scientific interest. The use of efficient extraction and, in some cases, purification techniques can provide novel bioactives useful for food, nutraceutical, cosmeceutical and pharmaceutical applications. The bioactivity of marine phenolics is the consequence of their enzyme inhibitory effect and antimicrobial, antiviral, anticancer, antidiabetic, antioxidant, or anti-inflammatory activities. This review presents a survey of the major types of phenolic compounds found in marine sources, as well as their reputed effect in relation to the occurrence of dietary and lifestyle-related diseases, notably type 2 diabetes mellitus, obesity, metabolic syndrome, cancer and Alzheimer's disease. In addition, the influence of marine phenolics on gut microbiota and other pathologies is also addressed.",
+  "publication_date": "2020-09-30",
+  "journal": "Marine drugs",
+  "doi": "10.3390/md18100501",
+  "entities": {
+    "POLYPHENOL": [
+      "nutraceutical, cosmeceutical and pharmaceutical applications",
+      "phenolic compounds",
+      "purification techniques",
+      "their enzyme inhibitory effect",
+      "their reputed effect"
+    ],
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "antimicrobial, antiviral, anticancer, antidiabetic, antioxidant, or anti-inflammatory activities",
+      "cancer",
+      "metabolic syndrome",
+      "obesity"
+    ]
+  }
+}

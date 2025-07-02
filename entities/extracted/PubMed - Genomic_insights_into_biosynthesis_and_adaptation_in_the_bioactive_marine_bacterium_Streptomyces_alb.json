@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Genomic insights into biosynthesis and adaptation in the bioactive marine bacterium Streptomyces albidoflavus VIP-1 from the Red Sea.",
+  "abstract": "Marine actinobacteria represent a diverse and biotechnologically rich group of microorganisms that have adapted to the unique challenges of marine ecosystems, including fluctuating salinities, temperatures, pressures, and nutrient levels. These environmental pressures have enhanced their biosynthetic capabilities, making them a prolific source of novel bioactive compounds.",
+  "publication_date": "2025-06-26",
+  "journal": "BMC microbiology",
+  "doi": "10.1186/s12866-025-04109-x",
+  "entities": {
+    "POLYPHENOL": [
+      "a diverse and biotechnologically rich group",
+      "marine ecosystems"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Genetic analysis and phytochemical profile of soursop (Annona muricata L.) cultivated in family orchards in southeastern Mexico.",
+  "abstract": "Annona muricata is an important and widespread neotropical perennial fruit tree, that has received increasing attention in recent years for its pharmaceutical potential, particularly for the presence of metabolites with reported anti-tumoral properties. In this study, 191 samples of this species were collected from homegardens across four states of southern Mexico. and analyzed using a dual approach, including genetic and chemical analyses. The local genetic diversity and population structure was determined through the analysis of 10 microsatellite loci- The metabolic content of flavonoids and polyphenols was analyzed at ten localities. Genetic diversity was found to be low to moderate in all populations with values of expected heterozygosity (He) ranging from 0.28 to 0.52. Our research indicated the presence of three distinct genetic groups, which did not appear to be associated with geographical origin. Variations in the chemical content of flavonoids and polyphenols were observed among the different locations examined, with flavonoid values ranging between 73.48 and 592.70\u2009mg RE/gE and polyphenol values ranging from 13.10 to 126.59\u2009mg GAE/gE. Accessions from Champoton and Emiliano Zapata demonstrated the highest flavonoid content, while Palenque, Champoton and Centro presented the highest polyphenol content. Multidimensional scaling (MDS) analysis revealed a correlation between genetic profiles, chemical profiles and the influence of human activity in the populations examined. This analysis revealed significant genetic differences between these populations, suggesting that they are associated with different levels of chemical contents. Remarkably, highly disturbed sites appeared to correlate with a considerable increase in chemical content.",
+  "publication_date": "2025-05-07",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0321846",
+  "entities": {
+    "POLYPHENOL": [
+      "expected heterozygosity",
+      "flavonoid values",
+      "flavonoids",
+      "polyphenol values",
+      "polyphenols",
+      "recent years",
+      "the highest flavonoid content",
+      "the highest polyphenol content",
+      "this species"
+    ]
+  }
+}

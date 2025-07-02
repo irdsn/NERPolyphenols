@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Phenolic Content, Antioxidant Capacity, and Therapeutic Potential of Mango (Mangifera indicaL.) Leaves.",
+  "abstract": "The phenolic composition, antioxidant capacity, and enzyme inhibition activities ofMangifera indicaL. leaf (MLs) ethanol extract were comprehensively evaluated to explore its therapeutic and industrial applications. Quantitative profiling of 21 phenolic compounds was performed using the LC-MS/MS method, with vanillic acid (1242.47\u2009\u03bcg/L), gallic acid (283.58\u2009\u03bcg/L), and quercetin (102.40\u2009\u03bcg/L) identified as the most abundant constituents. Antioxidant activities were assessed through DPPH, ABTS, FRAP, and CUPRAC assays, revealing moderate radical scavenging (DPPH: 26.87%\u2009\u00b1\u20092.25%, ABTS: 14.65%\u2009\u00b1\u20091.83%) and metal reduction capacities (FRAP: 0.118\u2009\u00b1\u20090.07, CUPRAC: 0.172\u2009\u00b1\u20090.03). In addition, MLs extract demonstrated dose-dependent inhibitory effects on acetylcholinesterase (AChE, IC50: 18.73\u2009\u03bcg/mL), butyrylcholinesterase (BChE, IC50: 8.56\u2009\u03bcg/mL), and \u03b1-glucosidase (IC50: 10.83\u2009\u03bcg/mL), highlighting its potential in the management of neurodegenerative diseases such as Alzheimer's and metabolic disorders including diabetes. The findings emphasize the bioactive potential ofM. indicaleaves, positioning them as a promising resource for sustainable valorization. By showcasing the applicability of this agricultural by-product, the study provides a foundation for innovations in the food, nutraceutical, and pharmaceutical sectors. Nevertheless, further in\u00a0vivo and clinical investigations are essential to fully validate their safety and therapeutic efficacy.",
+  "publication_date": "2025-05-10",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70263",
+  "entities": {
+    "POLYPHENOL": [
+      "21 phenolic compounds",
+      "dose-dependent inhibitory effects",
+      "gallic acid",
+      "quercetin",
+      "the food, nutraceutical, and pharmaceutical sectors",
+      "vanillic acid"
+    ]
+  }
+}

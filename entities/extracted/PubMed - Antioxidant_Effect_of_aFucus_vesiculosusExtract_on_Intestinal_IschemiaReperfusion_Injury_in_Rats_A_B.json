@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Antioxidant Effect of aFucus vesiculosusExtract on Intestinal Ischemia/Reperfusion Injury in Rats: A Biochemical and Histological Study.",
+  "abstract": "Fucus vesiculosusis a brown seaweed known for its strong antioxidant properties, mainly attributed to its high polyphenolic content. This study aimed to evaluate the antioxidant protective effect of an optimisedF. vesiculosusextract in an experimental model of intestinal ischemia/reperfusion (I/R) injury, considering the intestine as particularly vulnerable to this pathology. Seventy-two male Wistar albino rats were randomly divided into twelve groups: Sham, I/R groups (3 and 24 h reperfusion), I/R plus vehicle groups (three application times, 3 h reperfusion), and I/R plusF. vesiculosusextract groups (three application times, 3 and 24 h reperfusion). Intestinal injury was assessed through biochemical markers (malondialdehyde [MDA], superoxide dismutase [SOD], catalase [CAT], glutathione peroxidase [GPx], and mieloperoxidase [MPO]), inflammatory cytokines (interleukin 1 \u03b2 [IL-1\u03b2] and interleukin [IL-10]), and histological analysis. Results demonstrated that treatment withF. vesiculosussignificantly reduced oxidative stress and inflammation caused by I/R injury (p< 0.05), restoring analysed parameters (MDA, SOD, CAT, IL-10) to levels comparable to the Sham group. Histological examination confirmed the preservation of intestinal mucosal integrity followingF. vesiculosusadministration. These findings suggest that the antioxidant extract fromF. vesiculosuseffectively protects against intestinal I/R injury, highlighting its potential for clinical use in preventing and managing this pathological condition, particularly in surgical contexts.",
+  "publication_date": "2025-05-23",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060624",
+  "entities": {
+    "POLYPHENOL": [
+      "its high polyphenolic content",
+      "the antioxidant protective effect"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Exploring the potential of herbal drugs for treating liver fibrosis: a computational screening approach.",
+  "abstract": "With the increasing prevalence of metabolic disorders such as obesity and hyperlipidemia, there is a heightened tendency for inflammation in the hepatocytes, which can eventually progress to liver fibrosis. Despite its high incidence, no approved treatment currently exists for liver fibrosis.",
+  "publication_date": "2025-04-30",
+  "journal": "Asian biomedicine :, research, reviews and news..",
+  "doi": "10.2478/abm-2025-0010",
+  "entities": {
+    "SYMPTOM": [
+      "hyperlipidemia",
+      "inflammation",
+      "liver fibrosis",
+      "obesity"
+    ]
+  }
+}

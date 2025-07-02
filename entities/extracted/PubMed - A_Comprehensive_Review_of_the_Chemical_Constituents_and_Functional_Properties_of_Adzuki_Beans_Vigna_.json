@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "A Comprehensive Review of the Chemical Constituents and Functional Properties of Adzuki Beans (Vigna angulariz).",
+  "abstract": "The adzuki bean (Vigna angulariz), a member of theVignagenus within the Leguminosae family, is native to China and extensively cultivated across East Asia. Renowned for its rich nutritional profile, the adzuki bean is abundant in carbohydrates, proteins, and bioactive compounds such as polysaccharides, polyphenols, flavonoids, saponins, and peptides. These components confer a wide range of health-promoting properties, including potent antioxidant, anti-inflammatory, antidiabetic, antiobesity, antibacterial, and neuroprotective effects. Notably, adzuki beans exhibit unique functional properties, such as high resistant starch content and the ability to modulate gut microbiota by promoting beneficial bacteria like Akkermansia, which enhance insulin sensitivity and lipid metabolism. These attributes make adzuki beans particularly effective in managing chronic diseases such as diabetes, obesity, and cardiovascular disorders. Additionally, adzuki beans show promise in addressing conditions like muscle atrophy, osteoporosis, and cancer. Processing methods such as fermentation and heat treatment further enhance their bioactive potential, underscoring their suitability for developing functional foods and nutraceuticals. This review highlights the chemical composition, functional activities, and mechanisms of adzuki beans, providing valuable insights for their application in food and pharmaceutical industries to prevent and manage chronic diseases.",
+  "publication_date": "2025-03-04",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c12023",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "mechanisms",
+      "neuroprotective effects",
+      "polyphenols"
+    ],
+    "SYMPTOM": [
+      "antiobesity",
+      "cancer",
+      "managing chronic diseases",
+      "muscle atrophy",
+      "obesity",
+      "osteoporosis"
+    ],
+    "FOOD": [
+      "adzuki beans",
+      "functional foods"
+    ]
+  }
+}

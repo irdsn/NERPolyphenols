@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "An Efficient and Safe Rapid Aging Technology for Tea: UV-C Irradiation Enhances the Taste and Aroma of Fresh Pu'er Raw Tea Toward a Naturally Aged Profile.",
+  "abstract": "Pu'er raw tea, a representative tea with a positive correlation between quality and storage time, has a unique aging process. It can not only reduce the heavy astringent taste of newly produced tea, but also has a complex and fragrant aging aroma. However, the extremely slow natural aging process often takes years or even decades for quality transformation, along with the risk of termite infestation, odor absorption, etc. This study found that UV-C irradiation could significantly accelerate the aging process of tea. It enhanced the richness of the aroma, while reducing astringency and creating a smoother and mellower taste. The results of substances analysis revealed an increase in key aroma compounds such as alcohols, aldehydes and terpenes, and a decrease in catechin and caffeine with UV-C irradiation, which is consistent with the natural aging trend. An efficient and safe rapid aging technology of Pu'er raw tea has been successfully established.",
+  "publication_date": "2025-06-16",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14121851",
+  "entities": {
+    "SYMPTOM": [
+      "a complex and fragrant aging aroma",
+      "a unique aging process",
+      "the aging process",
+      "the extremely slow natural aging process",
+      "the natural aging trend"
+    ],
+    "POLYPHENOL": [
+      "a decrease",
+      "an efficient and safe rapid aging technology",
+      "catechin",
+      "even decades"
+    ]
+  }
+}

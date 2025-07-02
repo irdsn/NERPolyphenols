@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Peruvian fava beans for health and food innovation: physicochemical, morphological, nutritional, and techno-functional characterization.",
+  "abstract": "Peruvian fava beans (PFB) are used in traditional cuisine as a nutrient-rich, flavorful, and textural ingredient; however, little is known about their industrial properties. This study evaluated the physicochemical, nutritional, and techno-functional characteristics of PFB varieties: Verde, Quelcao, and Peruanita. PFB exhibited distinct physical characteristics, quality parameters, and morphology. The color patterns of the seed coat and the hardness were the main parameters for distinguishing them. Nutritionally, all three samples exhibited high protein (23.88-24.88\u00a0g/100\u00a0g), with high proportion of essential amino acids, high dietary fiber (21.74-25.28\u00a0g/100\u00a0g), and mineral content. They also contain polyphenols (0.79-1.25\u00a0mg GAE/g) and flavonoids (0.91-1.06\u00a0mg CE/g) with antioxidant potential (16.60-21.01 and 4.68-5.17\u00a0\u00b5mol TE/g for ABTS and DPPH assays, respectively). Through XRD measurements, the semi-crystalline nature of samples was identified, belonging to the C-type crystalline form. Regarding techno-functionality, PFB flours displayed great foaming capacity, with Verde variety being the most stable. Emulsifying capacity was similar among samples, although Peruanita was more stable during heating. Upon heating with water, PFB flours reached peak viscosities between 175 and 272 cP, and final viscosities between 242 and 384 cP. Quelcao and Verde formed firmer gels after refrigeration. Based on these results, PFB would be useful to developing innovative, nutritious, and healthy products that meet market needs.",
+  "publication_date": "2024-07-22",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2024.114814",
+  "entities": {
+    "FOOD": [
+      "peruvian fava beans"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "polyphenols",
+      "techno-functionality",
+      "the physicochemical, nutritional, and techno-functional characteristics"
+    ]
+  }
+}

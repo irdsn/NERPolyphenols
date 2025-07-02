@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Magnolol facilitates mitochondrial-peroxisome dysfunction and induces oxeiptosis in lung cancer cells following transfer via tunneling nanotubes.",
+  "abstract": "Recent therapeutic advances have improved survival rates for patients with lung cancer. However, drug resistance remains a significant challenge and is closely linked to mitochondrial alterations in lung cancer cells. Magnolol, a compound extracted from Magnolia officinalis, has anti-cancer properties. However, its impact on mitochondria in cancer cells remains poorly understood. This study aimed to explore the therapeutic potential of Magnolol in lung cancer and elucidate its effects on mitochondria in lung cancer cells. The effects of Magnolol on lung cancer were studied using xenograft mouse studies and in vitro analyses. Magnolol promotes the production of reactive oxygen species (ROS) and inhibits the antioxidant pathway in cancer cells. This disruption further impairs redox interactions between mitochondria and peroxisome, leading to mitochondrial dysfunction and mitocytosis. Additionally, Magnolol activates oxeiptosis, facilitating intercellular transport of damaged mitochondria and peroxisomes via tunneling nanotubes. The increased fusion of mitochondria may contribute to mitochondrial dysfunction, promote the accumulation of dysfunctional peroxisomes in recipient cells, and elevate ROS levels. In turn, this process enhances oxeiptosis, ultimately inhibiting tumour progression. These findings suggest that Magnolol may serve as a promising targeted therapeutic for disrupting mitochondrial function in lung cancer.",
+  "publication_date": "2025-05-09",
+  "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "doi": "10.1016/j.biopha.2025.118126",
+  "entities": {
+    "POLYPHENOL": [
+      "its effects",
+      "reactive oxygen species",
+      "recent therapeutic advances",
+      "recipient cells",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "anti-cancer properties",
+      "cancer cells",
+      "lung cancer",
+      "lung cancer cells",
+      "mitochondrial dysfunction"
+    ]
+  }
+}

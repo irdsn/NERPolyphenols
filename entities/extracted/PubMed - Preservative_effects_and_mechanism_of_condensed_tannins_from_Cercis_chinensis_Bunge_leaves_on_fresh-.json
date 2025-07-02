@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Preservative effects and mechanism of condensed tannins from Cercis chinensis Bunge leaves on fresh-cut lotus root.",
+  "abstract": "This study aimed to investigate the potential of condensed tannins isolated from Cercis chinensis Bunge leaves as natural preservatives for fruits and vegetables. The research demonstrated that C. chinensis leaves condensed tannins (CLCT) significantly delay the browning process and reduce nutritional loss in fresh-cut lotus roots. Prodelphinidins were identified as the primary component of CLCT through electrospray ionization mass spectrometry and high-performance liquid chromatography analyses, with minor proportions of procyanidins and high levels of galloylation. The structural units predominantly consisted of (epi)gallocatechin. CLCT exhibited substantial inhibitory activity against tyrosinase, which may involve interactions with copper ions at the enzyme's active site and alterations in enzyme conformation, resulting in reversible inhibition. Additionally, CLCT displayed remarkable antioxidant and antibacterial properties, effectively scavenging 2,2-diphenyl-1-picrylhydrazyl (DPPH) and 2,2'- azinobis (3-ethylbenzothiazoline-6-sulfonic acid) diammonium salt (ABTS) radicals and significantly inhibiting the growth of Pseudomonas aeruginosa and Staphylococcus aureus. Overall, the potential of CLCT as a natural preservative and tyrosinase inhibitor underscores its promising application in preserving fruits and vegetables.",
+  "publication_date": "2024-12-28",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.17638",
+  "entities": {
+    "POLYPHENOL": [
+      "condensed tannins",
+      "electrospray ionization mass spectrometry",
+      "epi)gallocatechin",
+      "galloylation",
+      "procyanidins",
+      "prodelphinidins"
+    ]
+  }
+}

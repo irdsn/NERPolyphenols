@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Ru-catalyzed mechanochemical trifluoromethylation of arylboronic acids and phenols via in situ generated N-trifluoromethylpyridinium salt as CF3 source.",
+  "abstract": "We report a mechanochemical approach for the ruthenium catalyzed trifluoromethylation of arylboronic acids and phenols under the synergy of trifluoromethylacetamide and pyrylium tetrafluoroborate (Pyry-BF\u2084). This is the first ever report on trifluoromethylation using in situ generated of N-trifluoromethylpyridinium tetrafluoroborate as the CF3 source under ball-milling conditions. The present one-pot transformation enabled direct trifluoromethylation of arylboronic acids and phenols to deliver the respective trifluoromethyl arenes and aryl trifluoromethyl ethers. It has also shown a remarkable compatibility toward aroyltrifluoroborates for the mechanochemical synthesis of aryl trifluoromethyl ketones. This method offers several advantages, including operational simplicity and broad substrate compatibility. Moreover, the current mechanochemical approach not only proceeds under sustainable conditions but also provides a practical route for the late-stage modifications of related substrates to access the valuable fluorinated compounds.",
+  "publication_date": "2025-06-25",
+  "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+  "doi": "10.1002/chem.202501705",
+  "entities": {
+    "POLYPHENOL": [
+      "a mechanochemical approach",
+      "direct trifluoromethylation",
+      "the current mechanochemical approach",
+      "the mechanochemical synthesis",
+      "the respective trifluoromethyl arenes"
+    ]
+  }
+}

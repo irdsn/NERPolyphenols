@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Pentagalloyl glucose targets the JAK1/JAK3-STAT3 pathway to inhibit cancer stem cells and epithelial-mesenchymal transition in 5-fluorouracil-resistant colorectal cancer.",
+  "abstract": "Colorectal cancer (CRC) resistance to 5-fluorouracil (5-FU), primarily driven by cancer stem cells (CSCs) and epithelial-mesenchymal transition (EMT), remains a major clinical challenge, necessitating novel therapeutic strategies.",
+  "publication_date": "2025-04-16",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156773",
+  "entities": {
+    "POLYPHENOL": [
+      "colorectal cancer (crc) resistance"
+    ],
+    "SYMPTOM": [
+      "cancer stem cells"
+    ]
+  }
+}

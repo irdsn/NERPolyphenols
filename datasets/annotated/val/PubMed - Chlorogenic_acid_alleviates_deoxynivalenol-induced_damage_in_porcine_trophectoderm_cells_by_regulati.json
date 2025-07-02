@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Chlorogenic acid alleviates deoxynivalenol-induced damage in porcine trophectoderm cells by regulating the PI3K/AKT signaling pathway\u2020.",
+  "abstract": "The proliferation and migration of porcine trophectoderm (pTr) cells are crucial processes during the early stages of embryo implantation in sows. The effects of deoxynivalenol (DON) and chlorogenic acid (CGA), a plant-derived compound, on pTr cells are currently unclear. In this study, pTr cells were treated with DON at different times (24, 48, and 72\u00a0hours) and different concentrations (0.5, 1, and 2\u00a0\u03bcg/mL) to construct a pathological model of DON-induced pTr cells by detecting the expression levels of genes related to cell proliferation, migration, and oxidative stress, as well as the cell viability and the cell migration ability. Subsequently, CGA intervention experiments revealed that CGA could promote the proliferation, migration, and antioxidant ability of pTr cells and alleviate the damage induced by DON in pTr cells. Finally, RNA-seq technology combined with experiments illustrated that CGA might alleviate the damage of DON-induced pTr cells by regulating the PI3K/AKT signaling pathway. In conclusion, this study explored the toxicological effect of DON and the alleviation effect of CGA on DON at the pTr cells level, which provided new insights and an experimental basis for using CGA to alleviate the reproductive toxicity induced by DON.",
+  "publication_date": "2025-05-11",
+  "journal": "Biology of reproduction",
+  "doi": "10.1093/biolre/ioaf110",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "porcine trophectoderm",
+      "rna-seq technology",
+      "the alleviation effect",
+      "the effects",
+      "the toxicological effect"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

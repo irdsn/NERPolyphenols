@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Identification and expression analysis ofPALgenes related to chlorogenic acid synthesis inVaccinium dunalianumWight.",
+  "abstract": "Phenylalanine ammonia-lyase (PAL) is the first key enzyme in the metabolic pathway of phenylpropanoid. Chlorogenic acid (CGA) is an important secondary metabolite in the phenylpropanoid metabolic pathway of plants. However, the role of thePALgene in CGA biosynthesis inVaccinium dunalianumWight is still unclear. In this study, sevenPALgenes (VdPAL1-VdPAL7) were cloned and analyzed through full-length transcriptome sequencing combined with reverse transcription polymerase chain reaction (RT-PCR) amplification inV. dunalianum. Bioinformatics analysis revealed that the sevenVdPALgenes contain complete open reading frames (1,860-2,148 bp) encoding hydrophilic proteins of 619-715 amino acids, with molecular weights ranging from 67.44 to 77.70 kDa. The VdPAL proteins contain the PLN02457 domain, with the secondary structures predominantly composed of \u03b1-helices and the tertiary structures exhibiting a characteristic \"hippocampus\" conformation. Phylogenetic analysis grouped theseVdPALgenes into three subfamilies:VdPAL1,VdPAL3, and theVdPAL2/4/5/6/7cluster. Reverse transcription quantitative polymerase chain reaction (RT-qPCR) analysis showed that the expression levels of theVdPAL1andVdPAL4/5/6/7genes were significantly higher in both tender and mature leaves, in flower buds, flowers, green and red fruits, and in green and red fruit stems than those ofVdPAL2andVdPAL3. In the same tissue type, except forVdPAL2, the expression levels of the other sixPALgenes were significantly higher in young tissues compared with mature tissues. ThePALgene family mediates the biosynthesis of CGA inV. dunalianum, with the combined expression ofVdPAL1/2/4/5/6/7showing a positive correlation with the CGA content across the analyzed tissues. These results provide experimental evidence for understanding the composition, structural characteristics, and biological functions of thePALgenes inV. dunalianum.",
+  "publication_date": "2025-05-02",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2025.1544303",
+  "entities": {
+    "POLYPHENOL": [
+      "an important secondary metabolite",
+      "chlorogenic acid",
+      "molecular weights",
+      "the secondary structures"
+    ]
+  }
+}

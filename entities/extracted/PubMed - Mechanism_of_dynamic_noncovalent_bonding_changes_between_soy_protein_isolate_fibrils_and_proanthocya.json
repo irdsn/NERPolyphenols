@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Mechanism of dynamic noncovalent bonding changes between soy protein isolate fibrils and proanthocyanidins: A pathway for pH tunning.",
+  "abstract": "This paper focused on the mechanism of dynamic noncovalent bonding changes through a pathway for pH tunning between soy protein isolate fibrils (SPIF) and proanthocyanidins (OPC). OPC could produce a static quenching on the fluorescence of SPIF. At pH\u00a04, the spontaneous binding of the two was dominated by electrostatic interaction and hydrophobic interaction. In contrast, except at pH\u00a04, both bound spontaneously through hydrogen bonding, van der Waals force and hydrophobic interaction. With an increase in pH from 2 to 7, structural unfolding and rearrangement of the protein occurred, disrupting the SPIF and its complexes \u03b2-sheet structure. At pH\u00a05, close to the isoelectric point of protein, flexible structures were significantly reduced, and solubility and emulsifying properties were minimized. Fibrils morphology gradually disappeared and became aggregated. The SPIF emulsifying and foaming activity were significantly improved with the addition of OPC. In addition, the SPIF functional properties were improved to the greatest extent at pH\u00a04 with the addition of OPC.",
+  "publication_date": "2025-06-14",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145154",
+  "entities": {
+    "POLYPHENOL": [
+      "electrostatic interaction",
+      "proanthocyanidins",
+      "the isoelectric point",
+      "the mechanism"
+    ],
+    "FOOD": [
+      "soy protein isolate fibrils"
+    ]
+  }
+}

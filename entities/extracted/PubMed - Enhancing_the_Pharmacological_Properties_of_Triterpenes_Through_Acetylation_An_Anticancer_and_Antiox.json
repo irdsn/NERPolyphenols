@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Enhancing the Pharmacological Properties of Triterpenes Through Acetylation: An Anticancer and Antioxidant Perspective.",
+  "abstract": "This paper presents the influence of acetylation on the cytotoxic and antioxidant activity of natural triterpenes. Oleanolic acid, betulin, betulinic acid and other triterpenes have been modified to improve their pharmacological properties. Acylation of the hydroxyl group at the C-3 position showed significant changes in biological activity, in particular against cancer cell lines such as HeLa, A-549, MCF-7, PC-3 and SKOV-3, with the highest IC50results for acetyloleanolic acid (1b) and acetylbetulinic acid (4b). Docking results showed that all compounds tested demonstrated the ability to bind to pockets (C1-C5) of the p53 Y220 protein, obtaining different Vina score values. The strongest binding was observed for compound2bin the C3 pocket (-10.1 kcal \u00d7 mol-1), while in the largest C1 pocket, the best result was achieved by compound5b(-9.1 kcal \u00d7 mol-1). Moreover, antioxidant studies using the CUPRAC and DPPH tests showed significant differences in the mechanisms of action of the compounds depending on the structure. The analyses of ADMETox confirmed the favorable pharmacokinetic profile and low toxicity of most of the tested derivatives. The results suggest that acetylated triterpenes, especially1band4b, have great potential as anticancer drug candidates, requiring further research on their cytotoxic activity and structural modifications.",
+  "publication_date": "2025-06-19",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122661",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer drug candidates",
+      "cancer cell lines"
+    ],
+    "POLYPHENOL": [
+      "especially1band4b",
+      "the mechanisms"
+    ]
+  }
+}

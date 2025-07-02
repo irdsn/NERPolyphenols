@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Changes in Liver Metabolome Induced by Pterostilbene and Resveratrol in a Rat Model of Liver Steatosis.",
+  "abstract": "To gain more light on the effects of resveratrol and pterostilbene in the hepatic metabolic modifications in an in vivo model of diet-induced hepatic steatosis, and to explore their relationships with gut microbiota by untargeted metabolomics and metagenomics. Rats were divided into five groups receiving either a standard diet or a high-fat high-fructose (HFHF) diet supplemented or not with pterostilbene (15 or 30\u00a0mg/kg body weight/day; PT15 or PT30 groups, respectively) or resveratrol (30\u00a0mg/kg body weight/day; RSV30 group). Supplementation with the stilbenes reduced the hepatic steatosis induced by the HFHF diet. After the metabolomics study, 27 differentially expressed metabolites showed variable importance in projection scores >\u00a01 and could be considered as potential biomarkers. Therefore, based on the pathway enrichment analysis, \"riboflavin metabolism\" and \"nicotinate and nicotinamide metabolism\" revealed significant enrichment. Further, riboflavin showed positive correlations to Eubacterium and Faecalibacterium, and negative correlations to Lactobacillus and Oscillospira genera. Nicotinamide mononucleotide was only positively correlated to the Ralstonia genus. The untargeted metabolomics approach showed that the actions of resveratrol or pterostilbene on the prevention of liver steatosis are mediated by specific mechanisms of action. Particularly, pterostilbene, but not resveratrol, is suggested to significantly enrich riboflavin or nicotinate and nicotinamide metabolic pathways.",
+  "publication_date": "2025-04-30",
+  "journal": "Molecular nutrition & food research",
+  "doi": "10.1002/mnfr.70078",
+  "entities": {
+    "POLYPHENOL": [
+      "faecalibacterium",
+      "particularly, pterostilbene",
+      "projection scores",
+      "pterostilbene",
+      "resveratrol",
+      "specific mechanisms",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "diet-induced hepatic steatosis",
+      "liver steatosis",
+      "the hepatic steatosis"
+    ]
+  }
+}

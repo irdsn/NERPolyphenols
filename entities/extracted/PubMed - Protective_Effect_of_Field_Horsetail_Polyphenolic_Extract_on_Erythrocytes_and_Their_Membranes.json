@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Protective Effect of Field Horsetail Polyphenolic Extract on Erythrocytes and Their Membranes.",
+  "abstract": "Field horsetail (Equisetum arvenseL.) is widely utilized in traditional medicine and is a rich source of bioactive compounds such as flavonoids, phenolic acids, and silica. This study investigates the protective effect of the polyphenolic extract from field horsetail (HLE) on erythrocytes and their cell membranes. The content of polyphenolic compounds in the extract was determined using the HPLC-DAD and Folin-Ciocalteu methods. The extract's hemolytic activity, toxicity, antioxidant activity, and its impact on the physical properties of erythrocytes and lipid membrane were investigated. The antioxidant properties were evaluated using erythrocytes and isolated erythrocyte membranes oxidized by UVC radiation and AAPH. The impact of the extract on the ordering and fluidity of erythrocyte and model lipid membranes was studied. Furthermore, the transmembrane potential, shape of erythrocytes and the dipole potential of the lipid membranes under the influence of HLE were evaluated. The results indicated that HLE extract exhibited no toxicity to erythrocytes and HMEC-1 cells. HLE components effectively protect erythrocytes and their membranes against oxidation. They interact with the outer, polar surface of the erythrocyte membrane and reduce both erythrocyte membrane potential and lipid membrane dipole potential. The HLE polyphenols decrease the concentration of free radicals at the surface of the membrane, where they are located, and serve as a protective barrier, preventing penetration into the membrane.",
+  "publication_date": "2025-03-30",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26073213",
+  "entities": {
+    "POLYPHENOL": [
+      "a protective barrier",
+      "erythrocytes and hmec-1 cells",
+      "flavonoids",
+      "polyphenolic compounds",
+      "the hle polyphenols",
+      "the polyphenolic extract",
+      "the protective effect"
+    ]
+  }
+}

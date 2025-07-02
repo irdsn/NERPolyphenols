@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Fragaria orientalis attenuates hepatic fibrosis through modulation of FXR/CYP7A1, ERK/p38 MAPK, and TLR4/MyD88/NF-\u03baB signaling in rats.",
+  "abstract": "Fragaria orientalis Losinsk is widely used in Tibetan medicine to remove and eliminate yellow water, a symptom of visceral abscesses including hepatitis, suggesting that Fragaria orientalis may exert potential therapeutic benefits for liver conditions. This study aimed to elucidate the hepatoprotective mechanisms of Fragaria orientalis extract against hepatic fibrosis in rats, focusing on the FXR/CYP7A1, ERK/p38 MAPK, and TLR4/MyD88/NF-\u03baB signaling pathways.",
+  "publication_date": "2025-05-29",
+  "journal": "The Journal of pharmacy and pharmacology",
+  "doi": "10.1093/jpp/rgaf022",
+  "entities": {
+    "POLYPHENOL": [
+      "the hepatoprotective mechanisms"
+    ]
+  }
+}

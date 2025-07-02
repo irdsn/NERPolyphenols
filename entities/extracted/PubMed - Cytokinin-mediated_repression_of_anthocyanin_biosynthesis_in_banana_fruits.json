@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Cytokinin-mediated repression of anthocyanin biosynthesis in banana fruits.",
+  "abstract": "Anthocyanins are pigments responsible for vibrant plant colors and play vital roles in plant physiology. This study compares two banana cultivars, Grand Naine (GN) and Red Banana (RB), which exhibit significant differences in anthocyanin pigmentation. Transcriptomic profiling of peel (PL) and pulp (PP) tissues revealed cytokinin-responsive type-B response regulators (RRs), MaRR_B9 and MaRR_B12, as key modulators of anthocyanin biosynthesis. Cytokinin treatment of PP tissues increased the expression of MaRR_B9 and MaRR_B12, while significantly reducing the expression of dihydroflavanol reductase (MaDFR1, MaDFR2) and anthocyanidin synthase (MaANS) genes along with anthocyanin content. Through a combination of physiological, molecular, and biochemical analyses, we demonstrate that MaRR_B9 and MaRR_B12 exert direct regulatory control over key structural genes of anthocyanin biosynthesis, MaDFRs and MaANS. Additionally, a type B-RRs motif (AGATT) was identified in the promoter regions of MaDFR2 and MaANS, suggesting that MaRRs might directly regulate the transcription of MaDFR2 and MaANS. MaRR_B9 and MaRR_B12 interact with the promoters of MaDFR2 and MaANS, repressing these genes in vivo. Overexpression of MaRR_B9 and MaRR_B12 in banana fruits leads to a reduction in anthocyanin content, notably the cyanidin derivative, accompanied by altered expression patterns of MaDFRs and MaANS. Thus, the present study identifies MaRR_B9 and MaRR_B12 as novel regulators of anthocyanin biosynthesis in banana and provides further evidence that the cytokinin regulatory network modifies anthocyanin accumulation in plants. In conclusion, our findings reveal new molecular targets, in the form of MaRRs, for the genetic optimization aimed at enhancing anthocyanin content, stress resilience, and nutritional value in crop plants.",
+  "publication_date": "2025-06-01",
+  "journal": "The Plant journal : for cell and molecular biology",
+  "doi": "10.1111/tpj.70267",
+  "entities": {
+    "FOOD": [
+      "banana",
+      "banana fruits",
+      "red banana",
+      "two banana cultivars"
+    ],
+    "POLYPHENOL": [
+      "direct regulatory control",
+      "new molecular targets",
+      "notably the cyanidin derivative",
+      "physiological, molecular, and biochemical analyses"
+    ],
+    "SYMPTOM": [
+      "stress resilience"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Effects of polyphenols on gut microbiota and inflammatory markers in individuals with overweight or obesity: a systematic review and meta-analysis of randomized controlled trials.",
+  "abstract": "Polyphenols are potent antioxidants with anti-microbial, anti-inflammatory, and prebiotic effects. However, no meta-analysis of human studies has confirmed these properties in individuals with overweight or obesity and elucidated the underlying mechanisms. Hence, this work aimed to investigate the impact of polyphenols on gut microbiota composition, short-chain fatty acids (SCFAs), and inflammatory markers in individuals with overweight or obesity from randomized controlled trials. Five databases were searched. The weighted mean differences were calculated using random effects DerSimonian-Laird model, with publication bias detected by Egger's test. Study quality and evidence certainty were assessed using the Cochrane risk of bias tool and GRADE guidelines, respectively. Our results indicated that an average daily intake of 452\u2009mg phenolic content for a mean duration of 5 wks significantly reduced the abundance of Firmicutes, Proteobacteria, and the Firmicutes/Bacteroidetes ratio, in individuals with overweight or obesity. While SCFAs production was not affected, lipopolysaccharides were significantly decreased, suggesting polyphenols can alleviate chronic inflammation in these individuals. The evidence was rated as high quality. Polyphenols hold the potential to enhance health and lower the risk of metabolic disorders in individuals with overweight or obesity through their prebiotic, anti-microbial, and anti-inflammatory properties.",
+  "publication_date": "2024-12-03",
+  "journal": "Critical reviews in food science and nutrition",
+  "doi": "10.1080/10408398.2024.2436644",
+  "entities": {
+    "POLYPHENOL": [
+      "inflammatory, and prebiotic effects",
+      "polyphenols",
+      "random effects",
+      "the underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "chronic inflammation",
+      "obesity"
+    ]
+  }
+}

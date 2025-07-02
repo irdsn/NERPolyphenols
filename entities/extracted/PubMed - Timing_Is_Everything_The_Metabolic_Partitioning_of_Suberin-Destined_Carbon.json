@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Timing Is Everything: The Metabolic Partitioning of Suberin-Destined Carbon.",
+  "abstract": "Suberin is a cell wall-associated biopolymer that possesses both poly(phenolic) and poly(aliphatic) elements assembled into chemically and spatially distinct domains. Domain-specific monomers are formed via a branched pathway between phenolic and aliphatic metabolisms. Previous transcript accumulation data (RNAseq) from early stages of wound-induced suberization revealed highly coordinated, temporal changes in the regulation of these two branches. Notably, phenolic metabolism-associated transcripts accumulated first, indicating a preference toward phenolic production early on post-wounding. To better understand the dynamics of suberin monomer biosynthesis and assembly, we assessed carbon allocation between phenolic and aliphatic metabolisms during wound-induced suberization. To do so, [13C6]-glucose was administered to wound-healing potato tuber discs at different times post-wounding, and patterns of heavy carbon incorporation into (1) primary metabolites and (2) the suberin polymer were assessed. During early stages of wound-healing, carbon from glucose was rapidly incorporated into phenolic-destined metabolites, while at later stages it was shared between phenolic- and aliphatic-destined metabolites. Similarly, the pattern of labelled carbon incorporation into the poly(aliphatic) domain reflected a greater dedication of carbon towards 18:1 w-hydroxy fatty acid and 18:1 dioic acid (the two most abundant aliphatic monomers in potato suberin) later in the wound healing time course.",
+  "publication_date": "2025-05-10",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14101433",
+  "entities": {
+    "POLYPHENOL": [
+      "domain-specific monomers"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Preparation and Mechanism Insight of Biodegradable Kippah Vesicles.",
+  "abstract": "Kippah vesicles, fully collapsed polymersomes formed during the self-assembly process, are characterized by a bowl-shaped nanostructure with a large specific surface area, high loading capacity, and an internal void. Current research shows that these structural features have primarily been achieved using non-biodegradable block copolymers, while the fundamental mechanism behind their formation is not well understood. Thus, designing biodegradable kippah vesicles and elucidating their formation mechanism is critical. In this study, a tetraphenylethylene (TPE) moiety - a luminogen with aggregation-induced emission (AIE) properties - is strategically introduced into the block copolymer side chain-, yielding the novel polypeptide\u00a0poly(ethylene glycol)45-block-poly[(glutamic acid-TPE)26-stat-(glutamic acid)29] [PEG\u2084\u2085-b-P(GATPE\u2082\u2086-stat-GA\u2082\u2089)]. This polypeptide could self-assemble into kippah vesicles driven by hydrophobic interactions and hydrogen bonding, as confirmed by Fourier-transform infrared (FTIR) spectroscopy, ultraviolet-visible (UV-vis) absorption, photoluminescence spectroscopy, and morphological characterization across different aggregation states. Notably, the intrinsic fluorescence of these kippah vesicles exhibited high cellular internalization efficiency and excellent cytocompatibility, highlighting their potential for biomedical applications such as bioimaging and targeted cellular delivery.",
+  "publication_date": "2025-04-22",
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "doi": "10.1002/smll.202501838",
+  "entities": {
+    "POLYPHENOL": [
+      "a large specific surface area",
+      "fourier-transform infrared (ftir) spectroscopy, ultraviolet-visible (uv-vis) absorption",
+      "photoluminescence spectroscopy",
+      "the fundamental mechanism",
+      "their formation mechanism"
+    ],
+    "SYMPTOM": [
+      "bioimaging"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Protecting nutritional value and antioxidant compounds in fresh apricot fruit with low-temperature storage and carboxymethyl cellulose treatments.",
+  "abstract": "The objective of this study was to examine the impact of various concentrations (0%, 0.5%, 1%, and 1.5%) of carboxymethyl cellulose (CMC) on the quality of fresh and stored apricots (Felkeeii cultivar) during cold storage (2\u00a0\u00b1\u00a00.5\u00b0C). At intervals of 0, 8, 16, and 24 days, evaluations were performed on the antioxidant compounds, sensory attribute and postharvest quality of the apricots. According to the findings, the control sample exhibited the highest weight loss (7.6%) after 24 days of storage, while CMC 1% had the lowest weight loss on the 16th days. After 24 days of storage, the control treatment showed a 42.5% decrease in tissue firmness compared to CMC 1.5%. After a 24 day of storage period, control sample demonstrated the highest amounts of carotenoids and anthocyanins. All CMC treatments compare to the control, displayed the highest peroxidase activity, polyphenol oxidase activity, and total phenols, flavonoids, vitamin C, and antioxidant activity, while also preserving taste index, total acid, and firmness. During the storage period, the highest chilling injury (3%) and decay (2.5%) were observed in control sample. Although chilling injury and decay (2%) were low in CMC treatments, it is suggested, based on this study and comparisons with other research, to use CMC in combination with other food coatings and antioxidant compounds to manage chilling injury, decay, and maintain of quantitative and qualitative indicators. According to the research results, apricots treated with CMC 1% maintained the quantitative and qualitative characteristics of apricot fruit for 24 days in cold storage.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70068",
+  "entities": {
+    "POLYPHENOL": [
+      "a 42.5% decrease",
+      "decay",
+      "flavonoids",
+      "polyphenol oxidase activity",
+      "the objective"
+    ],
+    "FOOD": [
+      "apricot fruit",
+      "apricots",
+      "fresh and stored apricots",
+      "the apricots"
+    ]
+  }
+}

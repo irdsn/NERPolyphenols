@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Oleuropein Supplementation Increases Resting Skeletal Muscle Fractional Pyruvate Dehydrogenase Activity but Does Not Influence Whole-Body Metabolism: A Randomized, Double-Blind, and Placebo-Controlled Trial in Healthy, Older Males.",
+  "abstract": "The polyphenol oleuropein activates mitochondrial calcium import, which increases pyruvate dehydrogenase (PDH) activity. Preclinically, this increase in PDH activity following oleuropein supplementation resulted in improved mitochondrial bioenergetics and fatigue resistance.",
+  "publication_date": "2025-02-22",
+  "journal": "The Journal of nutrition",
+  "doi": "10.1016/j.tjnut.2025.02.015",
+  "entities": {
+    "POLYPHENOL": [
+      "oleuropein supplementation",
+      "the polyphenol oleuropein"
+    ],
+    "SYMPTOM": [
+      "fatigue resistance"
+    ]
+  }
+}

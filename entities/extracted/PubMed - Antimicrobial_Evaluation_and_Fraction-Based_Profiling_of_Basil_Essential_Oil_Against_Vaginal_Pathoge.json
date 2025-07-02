@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Antimicrobial Evaluation and Fraction-Based Profiling of Basil Essential Oil Against Vaginal Pathogens.",
+  "abstract": "Basil (Ocimum basilicumL.) has been traditionally used in various cultures for its medicinal properties. This study evaluated the antioxidant and antimicrobial activities of basil essential oil (BEO) and identified its key bioactive compounds. Antioxidant activity testing, as determined by DPPH and ABTS assays, returned EC50values of 115.36 and 54.77 \u00b5g/mL, respectively. BEO demonstrated significant antimicrobial effects againstGardnerella vaginalis,Fannyhessea vaginae,Chryseobacterium gleum, andCandida albicans, with inhibition zones of up to 25.88 mm and MIC values ranging from 31 to 500 \u00b5g/mL. GC-MS (gas chromatography-mass spectrometry) identified monoterpene, phenylpropene, and sesquiterpene derivatives in BEO. In addition, Fraction 3 (Fr. 3) obtained by preparative HPLC had the highest antimicrobial activity, and methyl trans-cinnamate was identified as the primary active compound in this fraction. BEO had no toxic effect onLactobacillus crispatusor human dermal fibroblasts. These findings support the traditional use of basil and highlight its potential as a safe, natural therapeutic agent with antioxidant and antimicrobial properties.",
+  "publication_date": "2025-05-23",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060628",
+  "entities": {
+    "FOOD": [
+      "basil",
+      "basil essential oil",
+      "ocimum basilicuml."
+    ],
+    "POLYPHENOL": [
+      "(gas chromatography-mass spectrometry",
+      "ec50values",
+      "significant antimicrobial effects againstgardnerella vaginalis"
+    ]
+  }
+}

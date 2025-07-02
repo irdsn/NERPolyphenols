@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Yarrow (Achillea millefolium) Extract Modulates the Gut Microbiota Composition and Activity in the TIM-2 In Vitro Model of the Colon.",
+  "abstract": "Phenolic compounds, abundantly found in medicinal herbs, may promote health by modulating the gut microbiota. Yarrow is a traditional remedy for digestive and non-gastrointestinal diseases with unexplored interaction with gut microbes. This study aimed to evaluate the effects of yarrow extract and a\u00a0phenolic mixture comprising apigenin, caffeic, and chlorogenic acids on the gut microbiota using the\u00a0TIM-2 in vitro system. The TIM-2 units were inoculated with fecal samples from healthy individuals and supplemented with test substrates for 72 h. Microbiota composition was assessed by V3-V416S\u00a0rRNA gene sequencing, while organic acid production was evaluated by GC-MS. The yarrow extract stimulated probiotic bacteria Lactiplantibacillus, and other abundant and symbiotic gut inhabitants, including Eggerthellaceae, Christensenellaceae, Butyricicoccaceae, and the Eubacterium coprostanoligenes group. The phenolic mixture exerted milder effects on gut microbiota by enhancing the growth of Eggerthellaceae and Collinsella. Looking at the microbial activity, the production of SCFAs, specifically acetic and propionic acids, was increased in the yarrow group. The obtained results highlight the importance of yarrow phenolics in maintaining microbiota balance. The yarrow extract and specific phenolics may modulate the gut microbiota by promoting the growth of SCFA producers and stimulating SCFA synthesis.",
+  "publication_date": "2025-05-09",
+  "journal": "Molecular nutrition & food research",
+  "doi": "10.1002/mnfr.70074",
+  "entities": {
+    "POLYPHENOL": [
+      "a\u00a0phenolic mixture comprising apigenin",
+      "chlorogenic acids",
+      "fecal samples",
+      "milder effects",
+      "phenolic compounds",
+      "specific phenolics",
+      "specifically acetic and propionic acids",
+      "the effects"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Chemoprophylactic Effects of Epigallocatechin Gallate in Female Reproductive Cancers - A Review.",
+  "abstract": "Epigallocatechin-3-gallate (EGCG), the most bioactive polyphenol in green tea, exhibits chemopreventive and therapeutic effects against ovarian, cervical, and endometrial cancers through multi-target mechanisms. This review integrates experimental and epidemiological evidence to reveal EGCG's dual roles as an antioxidant and pro-oxidant, its epigenetic modulationviaDNMT/HDAC inhibition, and its suppression of key oncogenic pathways (e.g. PI3K/AKT/mTOR, NF-\u03baB, HPV E6/E7). Experimental studies demonstrate EGCG's dose-dependent suppression of cancer cell proliferationin vitroand tumor growthin vivo, particularly through reactivation of PTEN/AKT signaling. Notably, EGCG synergizes with chemotherapeutic agents by overcoming cisplatin resistance and enhancing PARP inhibitor efficacy. Epidemiological analyses further associate green tea consumption with reduced risks of endometrial cancer. Despite its potential, EGCG's clinical application is hindered by poor bioavailability and metabolic instability. We highlight innovative strategies such as nanoparticle-based delivery systems and combination therapies with immune checkpoint inhibitors to address these limitations. This work positions dietary EGCG as a promising, low-cost adjuvant for female reproductive cancer prevention, advocating for translational research to bridge mechanistic insights and clinical utility.",
+  "publication_date": "2025-06-15",
+  "journal": "Journal of dietary supplements",
+  "doi": "10.1080/19390211.2025.2518409",
+  "entities": {
+    "POLYPHENOL": [
+      "(egcg",
+      "chemopreventive and therapeutic effects",
+      "dietary egcg",
+      "egcg",
+      "egcg's clinical application",
+      "egcg's dose-dependent suppression",
+      "egcg's dual roles",
+      "immune checkpoint inhibitors",
+      "mechanistic insights",
+      "multi-target mechanisms",
+      "the most bioactive polyphenol"
+    ],
+    "FOOD": [
+      "further associate green tea consumption",
+      "green tea"
+    ],
+    "SYMPTOM": [
+      "cancer cell proliferationin vitroand tumor",
+      "endometrial cancer",
+      "female reproductive cancer prevention",
+      "ovarian, cervical, and endometrial cancers"
+    ]
+  }
+}

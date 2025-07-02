@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Pomelo peel-derived porous carbon-supported MoO2@N-C nanoflowers: synergistic amplification for sensitive sensing of kaempferol.",
+  "abstract": "Kaempferol (KA), a natural polyphenolic compound with potent anti-cancer activity and pharmacological benefits, exhibits dose-dependent toxicity upon excessive intake. In this work, the MoO2@N-C/PC-800 composite was synthesized to overcome the application limitations of single-component transition metal oxides, effectively enhancing the reduction current signal during the electrochemical detection of KA. Notably, combined SEM/TEM/XPS analyses demonstrate that the composite's hierarchical crumpled architecture exposes abundant electroactive sites, thereby achieving superior sensing performance. The sensor constructed based on MoO2@N-C/PC-800 exhibited a broad detection range of 0.01-30 \u03bcM for KA with an ultralow limit of detection (LOD) of 9.8 nM. To validate the reliability of electrochemical sensing results, UV-Vis was employed as a reference method for comparative analysis of\u00a0 real samples. The sensor's KA concentration measurements were cross-validated against UV-Vis-determined values, yielding recoveries\u00a0 of 95.5-106.0% and relative standard deviation (RSD) values of 1.12-2.29%, which demonstrate excellent consistency between the two methods.",
+  "publication_date": "2025-06-03",
+  "journal": "Mikrochimica acta",
+  "doi": "10.1007/s00604-025-07254-2",
+  "entities": {
+    "POLYPHENOL": [
+      "a broad detection range",
+      "a natural polyphenolic compound",
+      "abundant electroactive sites",
+      "detection",
+      "electrochemical sensing results",
+      "kaempferol",
+      "recoveries",
+      "the composite's hierarchical crumpled architecture",
+      "the electrochemical detection"
+    ],
+    "SYMPTOM": [
+      "potent anti-cancer activity"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Relationship between bisphenol A, bisphenol S, and bisphenol F and serum uric acid concentrations among school-aged children.",
+  "abstract": "Hyperuricemia has a suspected relationship with hypertension, metabolic syndrome, kidney disease, and cardiovascular disease. Endocrine disruptors may affect uric acid metabolism; however, few epidemiologic studies have been performed in children regarding newly developed bisphenol A (BPA) substitutes. We evaluated the associations between BPA, bisphenol S (BPS), and bisphenol F (BPF) exposure and serum uric acid concentrations in 6-year-old Korean children.",
+  "publication_date": "2022-06-16",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0268503",
+  "entities": {
+    "POLYPHENOL": [
+      "a suspected relationship"
+    ],
+    "SYMPTOM": [
+      "hypertension",
+      "metabolic syndrome"
+    ]
+  }
+}

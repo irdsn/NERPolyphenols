@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Genetic variability of bioactive compounds and selection for nutraceutical quality in kola [Cola nitida (Vent) Schott. and Endl.].",
+  "abstract": "Cola nitida known as Kola serves as flavouring ingredient in the food industry and is also of great importance during traditional rites in Africa. Despite the well-known pharmaceutical values of the species, efforts to develop improved varieties with enhanced nutraceutical quality is limited due to unavailability of information on variation of genotypes in bioactive compounds in the nuts. The objectives of this research were to evaluate 25 genotypes of kola for bioactive contents, determine relationship between nutritional and phenolic traits and to identify kola genotypes with good nutraceutical quality for use in developing improved varieties. The kola genotypes were established in the field using a randomized complete block design with three replicates. Nuts harvested from the blocks, were bulked and used to quantify soluble and insoluble sugars, total protein, moisture, ash, fats, pH, polyphenols, tannins and flavonoids using completely randomized design with three replicates in the laboratory. Data were analysed by combining Analysis of Variance, Kruskal-Wallis test, correlation test and multivariate analysis. Significant variations (P < 0.05) were observed among the kola genotypes for the bioactive traits evaluated. Phenolic traits were more heritable than nutritional traits. Although not significant (P > 0.05), correlation between nutritional and phenolic traits was negative, whereas correlations among nutritional traits were weak. On the contrary, significant and positive correlations (P < 0.05) were observed among phenolic traits. The hierarchical clustering analysis based on the traits evaluated grouped the 25 genotypes of kola evaluated into four clusters. Genotypes A12, JB4, JB19, JB36, P2-1b, and P2-1c were identified as potential parental lines for phenolic traits selection in kola whereas genotypes A10, Club, Atta1 and JB10 can be considered for soluble and insoluble sugar-rich variety development. These findings represent an important step towards improving nutritional and nutraceutical quality of kola nuts.",
+  "publication_date": "2020-12-03",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0242972",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "phenolic traits selection",
+      "polyphenols",
+      "tannins",
+      "the objectives",
+      "the species"
+    ]
+  }
+}

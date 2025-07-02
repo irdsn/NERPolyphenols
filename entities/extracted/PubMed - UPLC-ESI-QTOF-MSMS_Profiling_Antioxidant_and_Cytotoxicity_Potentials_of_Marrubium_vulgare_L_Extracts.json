@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "UPLC-ESI-QTOF-MS/MS Profiling, Antioxidant, and Cytotoxicity Potentials of Marrubium vulgare L. Extracts: Experimental Analysis and Computational Validation.",
+  "abstract": "Plant extracts are emerging as valuable options for food additives and therapeutic treatments. This study evaluated the phytochemical profile, antioxidant activity, and cytotoxicity of aerial parts of Marrubium vulgare L. crude extract (MVCE) and its subfractions. The MVCE (80% ethanol) contained steroids, phenolic compounds, flavonoids, terpenes, and cardiac glycosides, with total phenolic content (TPC) and total flavonoid content (TFC) of 14.96\u00a0\u00b1\u00a00.12\u00a0mg GAE/g DW and 12.27\u00a0\u00b1\u00a00.63\u00a0mg RE/g DW, respectively. All MV extracts exhibited potent antioxidant activity against DPPH\u2022(0.106-1.864\u00a0mg/mL) and ABTS+\u2022(0.298-17.084\u00a0mg/mL). The MV residual aqueous fraction (MVRF) showed significant cytotoxicity against human cancer cell lines, including MCF7 (IC50=\u00a05.47\u00a0\u00b1\u00a01.32\u00a0\u00b5g/mL), HT29 (IC50=\u00a017.48\u00a0\u00b1\u00a01.47\u00a0\u00b5g/mL), and SW480 (IC50=\u00a07.51\u00a0\u00b1\u00a00.36\u00a0\u00b5g/mL). Ultra-performance liquid chromatography-mass spectrometry identified 26 bioactive compounds, with malic acid, caffeic acid, chlorogenic acid, kaempferol-3-glucuronide, and l-tryptophan as the major ones. Molecular docking revealed strong binding affinities of the above compounds to breast (PDB ID: 6CHZ) and colorectal cancer (PDB ID: 1HVY) proteins. Pharmacokinetic and toxicological studies confirmed their safety and efficacy, supporting MVRF as a potential therapeutic agent. These findings highlight MV as a promising candidate for future anticancer research.",
+  "publication_date": "2025-06-14",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202500400",
+  "entities": {
+    "FOOD": [
+      "plant extracts"
+    ],
+    "POLYPHENOL": [
+      "caffeic acid",
+      "chlorogenic acid",
+      "colorectal cancer",
+      "flavonoids",
+      "kaempferol-3-glucuronide",
+      "molecular docking",
+      "phenolic compounds",
+      "total flavonoid content",
+      "ultra-performance liquid chromatography-mass spectrometry"
+    ],
+    "SYMPTOM": [
+      "future anticancer research",
+      "human cancer cell lines"
+    ]
+  }
+}

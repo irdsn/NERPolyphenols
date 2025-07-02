@@ -1,0 +1,36 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "New Labeling Rules for Wine: Wine Alcohol-Derived Calories and Polyphenol Consumption on Health.",
+  "abstract": "Alcohol content, proanthocyanins and anthocyanins influence wine quality. The composition of wine depends on the type of cultivar, location, environmental conditions, and management practices. Phenolic compounds have attracted considerable research interest due to their antioxidant properties and potential beneficial effects on human health. However, the low bioavailability of anthocyanins creates a major bottleneck in their ability to exert beneficial effects. Despite extensive research on the effects of wine on human health, no clear evidence has been obtained on the benefits of wine quality or geographic area of production on health conditions, such as metabolic syndrome. Five climatically and geologically distinct wines were evaluated. Based on recent studies, meta-analyses, and pooled analyses of wine composition, along with the predicted low bioavailability of polyphenol compounds, we estimated the efficacy of five geographically distinct wines according to gastrointestinal absorption and the effects of alcohol intake on both men and women, with a view to ascertaining whether geographical origin influences the antioxidant serum composition of wine. Data on the estimated consumption of wine suggest that the polyphenol contents are similar regardless of choice of wine/area, while different alcohol compositions affect the level of alcohol and calorie intake. Thus, moderate wine drinkers should be advised to control the habit, but without exceeding the dose considered a healthy threshold (up to 30-40 g of alcohol/day in men and 10-20 g of alcohol/day in women), given no medical contraindications are present. These results will add value to the framework of the last reform of the Common Agricultural Policy (CAP) adopted in December 2021, where the European Parliament and the Council introduced new labeling rules for the wine sector and aromatized wine products.",
+  "publication_date": "2024-01-17",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13020295",
+  "entities": {
+    "FOOD": [
+      "five climatically and geologically distinct wines",
+      "five geographically distinct wines",
+      "moderate wine drinkers",
+      "wine",
+      "wine composition",
+      "wine products",
+      "wine quality",
+      "wine/area"
+    ],
+    "POLYPHENOL": [
+      "a major bottleneck",
+      "beneficial effects",
+      "december",
+      "phenolic compounds",
+      "polyphenol compounds",
+      "potential beneficial effects",
+      "recent studies",
+      "the effects",
+      "the polyphenol contents",
+      "the wine sector"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

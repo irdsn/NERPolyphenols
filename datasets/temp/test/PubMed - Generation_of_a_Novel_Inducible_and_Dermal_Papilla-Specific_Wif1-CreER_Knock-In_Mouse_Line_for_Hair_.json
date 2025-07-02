@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Generation of a Novel Inducible and Dermal Papilla-Specific Wif1-CreER Knock-In Mouse Line for Hair Follicle Research.",
+  "abstract": "Dermal papilla (DP) cells are essential niche cells that regulate hair follicle development, cycling and regeneration. Despite the establishment of several DP cell mouse lines in prior research, these tools are limited by incomplete specificity and spatiotemporal control. The Wnt inhibitory factor 1 (Wif1) has been identified as a DP signature gene. To address the need for precise labelling and manipulation of DP cells, we developed a novel genetic tool-Wif1-CreER knock-in mice. Using CRISPR/Cas9-mediated homologous recombination, the CreERT2 sequences were inserted into the endogenous Wif1 locus, under the control of the native promoter. PCR and sequencing analysis confirmed the accurate insertion of the CreERT2 sequence. Crossing Wif1-CreER mice with a reporter line demonstrated efficient and specific Cre recombinase activity in DP cells during anagen, catagen and telogen upon tamoxifen treatment across hair types. Importantly, DP-restricted labelling was confirmed by immunofluorescence and colocalised with Crabp1 and alkaline phosphatase (AP)-staining activity, exhibiting minimal to negligible expression in other tissues. This innovative mouse model overcomes the limitations of current tools and provides a valuable resource for advancing our understanding of hair biology and developing targeted therapies for hair-related disorders, offering unprecedented precision in the manipulation of dermal papilla cells.",
+  "publication_date": "2025-05-01",
+  "journal": "Experimental dermatology",
+  "doi": "10.1111/exd.70109"
+}

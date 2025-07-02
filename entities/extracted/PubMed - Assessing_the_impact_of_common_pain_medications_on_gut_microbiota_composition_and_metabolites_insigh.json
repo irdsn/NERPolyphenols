@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Assessing the impact of common pain medications on gut microbiota composition and metabolites: insights from a Mendelian randomization study.",
+  "abstract": "Introduction.The relationship between analgesic use and gut microbiota alterations has garnered increasing attention. However, the causal link between these two factors remains to be elucidated. Given the prevalence of analgesic use and the significant role of gut microbiota in human health, clarifying this relationship is of great importance.Hypothesis/Gap Statement.Existing observational studies are limited in their ability to establish causality between analgesic use and gut microbiota alterations. Therefore, there is a need for robust causal inference methods to explore this relationship and uncover the underlying mechanisms.Aim.This study aims to investigate the causal associations between genetic susceptibility to four common analgesics (NSAIDs, salicylic acid, opioids, and anilides) and gut microbiota composition, as well as circulating metabolites, using a two-sample Mendelian randomization approach.Methodology.A two-sample Mendelian randomization was used to investigate the potential association between genetic susceptibility to four analgesic uses and gut microbiota composition, as well as circulating metabolites. Summary-level statistics of genome-wide association studies were obtained from primarily European ancestry cohorts, including 466,457 participants from the UK Biobank and 18,340 individuals from the MiBioGen consortium.Results.Only one suggestive causal association was found between NSAID use and elevated abundance of gut microbiota, namely groupEubacterium xylanophilum. In addition, salicylic use was correlated with an increased abundance of the familyPrevotellaceae(P=0.006),while it was negatively associated with the abundance of 8 microbiota traits, including genusClostridiumsensustricto1,Adlercreutzia,Akkermansia, familyClostridiaceae1,Verrucomicrobiaceae, phylumVerrucomicrobia, classVerrucomicrobiaeand orderVerrucomicrobialeswithPvalue ranging from 0.009 to 0.043. No clear evidence was found between opioid and anilide use and gut microbiota alteration. Meanwhile, salicylic use was potentially causally associated with four metabolites, including acetoacetate, creatinine, omega-3 fatty acids and triglycerides in very large high-density lipoprotein, withPvalues ranging from 0.005 to 0.046.Conclusion.The results of this study offer powerful evidence that the long-term use of salicylic acid may substantially impact gut microbiota composition and circulating metabolites. Further investigations are needed to uncover the underlying mechanisms.",
+  "publication_date": "2025-06-01",
+  "journal": "Journal of medical microbiology",
+  "doi": "10.1099/jmm.0.002028",
+  "entities": {
+    "POLYPHENOL": [
+      "salicylic acid",
+      "the underlying mechanisms"
+    ],
+    "FOOD": [
+      "omega-3 fatty acids"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Potential Applications ofZingiber officinale,Clitoria ternatea, andCoccinia grandisfor Enhancing the Functionality of Set Yogurts.",
+  "abstract": "The growing consumer interest in health-promoting foods has encouraged the development of yogurt fortified with plant-based additives. This study focused on the effect of aqueous extracts from ginger (Zingiber officinale) rhizome, blue butterfly pea (Clitoria ternatea) flower, and ivy (Coccinia grandis) leaf on the physicochemical and functional characteristics of yogurt, with a particular emphasis on understanding their interaction with milk proteins. Incorporating all the plant extracts enhanced consumer satisfaction regarding color, odor, texture, taste, mouthfeel, and aftertaste. The ivy leaf and blue butterfly pea flower fortification significantly reduced the pH values and increased the acidity compared with the unfortified yogurt on Day 1. This effect is further validated by lactic acid bacteria count results, suggesting that these extracts can promote the growth of lactic acid bacteria. The elevated total phenolic and antioxidant activities in the fortified yogurts validated the fortification process. FTIR analysis confirmed a possible change in the milk protein secondary structure due to the plant's phytochemicals. SEM analysis confirmed that these structural changes, depending on the plant extract, could be either beneficial or detrimental. Specifically, ginger and blue butterfly pea flower extract fortification reduced protein aggregate size and formed more compact and denser gel networks, resulting in lower syneresis and a higher viscosity yogurt structure compared to the unfortified yogurt. In contrast, ivy leaf extract fortification formed a less dense and less compact structure with large aggregates, resulting in higher syneresis and lower viscosity. The overall findings suggest promising opportunities for the yogurt industry with ginger and blue butterfly pea flowers while highlighting the need for in-depth research on ivy leaf extract-fortified yogurts.",
+  "publication_date": "2025-06-27",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70475",
+  "entities": {
+    "POLYPHENOL": [
+      "the effect",
+      "the milk protein secondary structure",
+      "this effect"
+    ],
+    "FOOD": [
+      "ginger",
+      "the plant extract"
+    ]
+  }
+}

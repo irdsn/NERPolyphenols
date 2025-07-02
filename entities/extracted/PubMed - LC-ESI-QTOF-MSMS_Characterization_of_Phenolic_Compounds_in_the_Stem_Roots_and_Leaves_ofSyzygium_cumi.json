@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "LC-ESI-QTOF-MS/MS Characterization of Phenolic Compounds in the Stem, Roots, and Leaves ofSyzygium cuminiand Their Antioxidant Potential.",
+  "abstract": "Syzygium cumini, commonly known as Jamun or Indian Blackberry, is a fruit-bearing tree native to the Indian subcontinent, revered for its medicinal uses, and characterized by a rich phytochemical profile abundant in polyphenols. This study aimed to characterize various fractions, including the roots, stem, and leaves ofS.\u2009cumini(SC). Purposefully, conventional extraction was carried out by using ethanol (70%) with formic acid (1%) to extract the phytochemicals. The resultant extracts were subjected to phenolic contents (TPC, TFC, TTC) and antioxidant activity estimation (DPPH, FRAP, ABTS RPA, OH, FICA, and TAC). Further, LC-ESI-QTOF-MS/MS identification of phenolics was also performed. The outcomes showed thatS.\u2009cuminileaf exhibited the highest phenolic content and antioxidant activity among different fractions compared to stem and root. The recorded TPC, TFC, and TTC in the leaf were 52.17\u2009\u00b1\u20091.60\u2009mg GAE/g, 2.76\u2009\u00b1\u20090.054\u2009mg QE/g, and 17.22\u2009\u00b1\u20090.43\u2009mg\u2009ce/g, respectively. Correlation analysis revealed a strong positive correlation (0.50\u2009<r<\u20090.80,p<\u20090.01) between TPC, TFC, and TTC. The LC-ESI-QTOF-MS/MS screening showed the presence of 12 compounds in the stem, leaf, and root ofS.\u2009cumini, showing the diversity of phenolics between different parts. The majority of the compounds belonged to flavonoids (4), phenolic acids (3), other polyphenols (3) and lignans (2). Among the notable compounds, naringin 4'-O-glucoside, 3,4-O-dimethylgallic acid, scutellarein, and demethyloleuropein were identified, highlighting the therapeutic potential of different fractions ofS.\u2009cumini.In conclusion, the results indicated that SC fractions contained a considerable amount of phenolics, thus showcasing higher antioxidant activity. Moreover, the concentration of different phenolics varied among fractions, as confirmed through a Venn diagram.",
+  "publication_date": "2025-04-01",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70112",
+  "entities": {
+    "FOOD": [
+      "indian blackberry"
+    ],
+    "POLYPHENOL": [
+      "3,4-o-dimethylgallic acid",
+      "demethyloleuropein",
+      "flavonoids",
+      "naringin 4'-o-glucoside",
+      "other polyphenols",
+      "polyphenols",
+      "the recorded tpc"
+    ]
+  }
+}

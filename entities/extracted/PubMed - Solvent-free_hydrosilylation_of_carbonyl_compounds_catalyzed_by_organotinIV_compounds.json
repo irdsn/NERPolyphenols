@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Solvent-free hydrosilylation of carbonyl compounds catalyzed by organotin(IV) compounds.",
+  "abstract": "Four new organotin(IV) compounds, [R2Sn(L)] [R = Ph (1), Me (2),n-Bu (3), andt-Bu (4)], have been synthesized from a polydentate pro-ligand (E)-2,4-dichloro-6-(((2-hydroxy-5-methylphenyl)imino)methyl)phenol (H2L). Organotin(IV) halides such as Ph2SnCl2, Me2SnCl2, (n-Bu)2SnCl2, and (t-Bu)2SnCl2were reacted with the pro-ligand using Et3N as a base to form compounds 1-4. FT-IR spectroscopy,1H,13C{1H},119Sn{1H} NMR spectroscopy, HR-MS, and single-crystal X-ray diffraction studies were used to characterize all these newly synthesized compounds. The Gutmann-Beckett method was employed to assess the Lewis acidity of all Sn(IV) compounds. All Sn(IV) compounds were tested for their catalytic efficiency in the solvent-free hydrosilylation reaction of various carbonyl compounds. The maximum yield of the silyl ethers was found to be 95%. A plausible mechanism is described based on the experimental evidence and theoretical calculations. The present study provides the first report on the use of air-stable and moisture-stable Lewis acidic organotin(IV) compounds for the hydrosilylation of carbonyl compounds.",
+  "publication_date": "2025-06-20",
+  "journal": "Dalton transactions (Cambridge, England : 2003)",
+  "doi": "10.1039/d5dt01033k",
+  "entities": {
+    "POLYPHENOL": [
+      "a plausible mechanism",
+      "ft-ir spectroscopy,1h,13c{1h},119sn{1h} nmr spectroscopy",
+      "the gutmann-beckett method"
+    ]
+  }
+}

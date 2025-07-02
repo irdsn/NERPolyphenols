@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Microencapsulation of Syzygium zeylanicum (L.) DC.: A novel strategy for improving antidiabetic and anti-inflammatory activities.",
+  "abstract": "Diabetes mellitus (DM) affects millions of individuals worldwide and poses substantial health and economic challenges. Herbal-based interventions may offer alternative preventive and therapeutic options. Syzygium zeylanicum (L.) DC (SZL), an herbal remedy known for its rich phenolic content relevant to diabetes treatment, has traditionally been used for the management of DM. This study investigated the antidiabetic and anti-inflammatory activities of digestion-resistant maltodextrin (RMD) SZL microencapsulated extract powder (SZLMEP) produced by spray-drying. The effects of SZLMEP on postprandial hypoglycemia, fasting blood glucose levels, expression of diabetes-related genes (sterol regulatory element-binding protein 1 (SREBF1), acetyl-CoA carboxylase 1 (ACC1), fatty acid synthase (FASN), insulin (INS), insulin receptor alpha 1 (INSRA1), insulin receptor beta 1 (INSRB1), sodium-glucose cotransporter 1 (SGLT1), and glucagon-like peptide-1 (GLP-1)), and anti-inflammatory activities were evaluated in diabetes-induced adult zebrafish and inflammation-induced zebrafish larvae. The results indicated that SZLMEP significantly enhanced the antidiabetic and anti-inflammatory effects of Syzygium zeylanicum crude extracts (SZLCE) by enabling controlled polyphenol release through interaction with digestion-resistant maltodextrin. SZLMEP effectively reduced postprandial hyperglycemia, stabilized fasting blood glucose levels in diabetic zebrafish, and regulated key lipid-metabolic, insulin-related, and glucose utilization genes. It also demonstrated strong anti-inflammatory activity by inhibiting protein denaturation and reducing inflammation in zebrafish larvae. These observations suggest that SZLMEP could serve as a multi-target herbal therapy for diabetes management. However, further studies are necessary to evaluate its long-term efficacy, safety, and bioavailability in human models, as well as to investigate its formulation stability and optimize its dosage for clinical applications.",
+  "publication_date": "2025-05-05",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116587",
+  "entities": {
+    "POLYPHENOL": [
+      "controlled polyphenol release",
+      "insulin receptor alpha",
+      "insulin receptor beta",
+      "substantial health and economic challenges",
+      "the antidiabetic and anti-inflammatory effects",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "inflammation-induced zebrafish larvae",
+      "postprandial hyperglycemia"
+    ],
+    "FOOD": [
+      "its dosage"
+    ]
+  }
+}

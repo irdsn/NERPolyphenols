@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Kaempferol inhibits oxidative stress and reduces macrophage pyroptosis by activating the NRF2 signaling pathway.",
+  "abstract": "Kaempferol exhibits various biological activities, including antioxidant and anti-inflammatory effects. Its role in modulating lipid metabolism and inhibiting inflammatory responses to suppress the progression of atherosclerosis has been confirmed. However, its impact on macrophage pyroptosis and the underlying mechanisms remain unclear. This study aims to investigate the effects of kaempferol (Kae) on lipopolysaccharide (LPS)-induced macrophage pyroptosis and its potential mechanisms. In the experiments, we used the CCK8 assay to evaluate cell viability, ROS detection kits to measure intracellular reactive oxygen species (ROS) levels, Western Blot to detect the expression of proteins such as NOD-like receptor family pyrin domain-containing 3 (NLRP3), nuclear factor erythroid 2-related factor 2 (NRF2), gasdermin D (GSDMD), and heme oxygenase-1 (HO-1), and immunofluorescence to observe NRF2 nuclear translocation. The results showed that kaempferol alleviated LPS-induced cell viability decline and lactate dehydrogenase (LDH) release, inhibited excessive ROS generation, and suppressed NLRP3 inflammasome activation by increasing glutathione (GSH) and HO-1 levels, thereby reducing the expression of inflammatory factors. Additionally, kaempferol promoted NRF2 nuclear translocation, and the application of the NRF2 inhibitor ML385 reversed its antioxidant and anti-inflammatory effects. In vivo experiments further confirmed that kaempferol inhibited oxidative stress and reduced macrophage pyroptosis by activating the NRF2 pathway.",
+  "publication_date": "2025-06-06",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0325189",
+  "entities": {
+    "POLYPHENOL": [
+      "antioxidant and anti-inflammatory effects",
+      "intracellular reactive oxygen species (ros) levels",
+      "its antioxidant and anti-inflammatory effects",
+      "its potential mechanisms",
+      "kaempferol",
+      "nod-like receptor family pyrin domain-containing 3 (nlrp3",
+      "the effects",
+      "the underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "atherosclerosis",
+      "oxidative stress"
+    ]
+  }
+}

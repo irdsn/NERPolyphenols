@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Dihydromyricetin inhibits injury caused by ischemic stroke through the lncRNA SNHG17/miR-452-3p/CXCR4 axis.",
+  "abstract": "Ischemic stroke (IS) is an important cause of death worldwide. Dihydromyricetin (DHM) has been reported to have neuroprotective potential, but its role and mechanism in IS have not been fully elucidated. The MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) assay was used to determine the safe dose of DHM in BV2 microglia and its applicability in OGD/R-treated cells. The mechanism of action of DHM was explored by RT-qPCR, ELISA, luciferase reporter gene assay and western blotting. DHM dose-dependently enhanced BV2 cell viability post-OGD/R and attenuated inflammation and oxidative stress. The protective effects of DHM were found to be mediated through the downregulation of SNHG17, which in turn modulated miR-452-3p expression. miR-452-3p was identified as a negative regulator of pro-inflammatory CXCR4, a direct target whose expression was inversely affected by SNHG17. The interaction between SNHG17 and miR-452-3p was further confirmed by RNA pull-down assays. Furthermore, manipulation of the SNHG17/miR-452-3p/CXCR4 axis was shown to modulate the NF-\u03baB signaling pathway as evidenced by changes in phosphorylation levels. In conclusion, our findings elucidate a novel DHM-mediated neuroprotective mechanism in microglial cells involving the SNHG17/miR-452-3p/CXCR4 regulatory axis. This axis attenuates OGD/R-induced inflammatory and oxidative stress, suggesting a therapeutic potential for DHM in conditions characterized by such pathological processes.",
+  "publication_date": "2025-01-29",
+  "journal": "PeerJ",
+  "doi": "10.7717/peerj.18876",
+  "entities": {
+    "POLYPHENOL": [
+      "a direct target",
+      "a novel dhm-mediated neuroprotective mechanism",
+      "dihydromyricetin",
+      "mechanism",
+      "neuroprotective potential",
+      "the mechanism",
+      "the protective effects"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

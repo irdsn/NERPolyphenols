@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Antiviral effects of flavonoids on animal viruses.",
+  "abstract": "Flavonoids, plant-derived compounds widely recognized for their antioxidant, anti-inflammatory, and anticancer properties, also exhibit significant antiviral effects against various animal viruses. This review highlights the promising antiviral mechanisms of flavonoids, which include disrupting viral replication, blocking cell entry, and modulating immune responses. Notably, flavonoids like quercetin, kaempferol, and genistein have been shown to effectively inhibit viruses of veterinary importance, such as African Swine Fever Virus (ASFV), Porcine Epidemic Diarrhea Virus (PEDV), and Infectious Bronchitis Virus (IBV), among others. Although most studies demonstrate efficacy in vitro, the limited in vivo research underscores the need to further explore flavonoids' antiviral potential in real-world applications. The immunomodulatory effects observed in some cases, where flavonoids regulate cytokine expression and reduce inflammation, suggest a dual action that could benefit both antiviral and anti-inflammatory responses. This body of research suggests that flavonoids could provide an option for managing animal viral infections. Yet, standardized methodologies and more in vivo studies are needed to validate these findings for veterinary use.",
+  "publication_date": "2025-06-06",
+  "journal": "Virology",
+  "doi": "10.1016/j.virol.2025.110596"
+}

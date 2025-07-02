@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Daily consumption of polyphenol-rich grape powder improves muscle strength markers in postmenopausal women.",
+  "abstract": "Sarcopenia is a debilitating age-associated condition with no effective treatment options. Therefore, there is high interest in evaluating whether food components, such as polyphenols found in grapes, could mitigate sarcopenia. However, the exact influence of grapes on age-related muscle loss in humans remains unknown. Herein, we conducted a pilot double-blind parallel clinical dietary intervention trial with 15 healthy postmenopausal women who consumed, either freeze-dried grape powder or a control powder once daily for 6 weeks. We observed that women consuming grape powder had significantly increased hand grip scores, a measurement of muscle strength, from baseline to week six compared to the control group. Additionally, women consuming grape powder significantly improved their performance on the gait speed test over the six-week period. Furthermore, the age-adjusted model revealed that the grape group completed the gait speed test significantly faster, compared to the control group. Mechanistically, we assessed plasma irisin concentrations. Although, they did not reach statistically significance, when comparing the change from baseline to week six, the grape group presented a 14.4% (p= 0.07) increase in plasma irisin levels, while the control group had a 7.8% decrease (p= 0.08). Moreover, we observed a positive significant association between changes in grip strength and changes in irisin (from baseline to week 6), when adjusting for group and age, suggesting that the increase in grip strength in the grape group may be due to increases in irisin levels. In summary, daily consumption of grape powder favorably modulated grip strength and gait speed, two parameters to assess sarcopenia, warranting further evaluation.",
+  "publication_date": "2025-06-16",
+  "journal": "Food & function",
+  "doi": "10.1039/d5fo01523e",
+  "entities": {
+    "POLYPHENOL": [
+      "a 7.8% decrease",
+      "no effective treatment options",
+      "polyphenols"
+    ],
+    "FOOD": [
+      "either freeze-dried grape powder",
+      "grape powder",
+      "grapes",
+      "the grape group"
+    ]
+  }
+}

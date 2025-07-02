@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Antitumor Effect of Isoliquiritigenin via Mitochondrial Dysfunction and Oxidative Stress in Cholangiocarcinoma Cells.",
+  "abstract": "Isoliquiritigenin (ISL), a bioactive phytochemical derived from the root ofGlycyrrhiza uralensis, is known to exert anticancer effects by modulating cancer cell functions, including proliferation, metastasis, and autophagy. However, the anticancer effects of ISL on cholangiocarcinoma (CCA) are limited. In this study, we investigated the anticancer effects of ISL on CCA cells (SNU-478 and HuCCT-1). In SNU-478 cells, ISL decreased the expression of glucose-regulated protein 78 (GRP78). ISL was also found to significantly reduce cell viability and colony area of both SNU-478 and HuCCT-1 cells. Furthermore, ISL treatment significantly increased the population of apoptotic cells, as observed through Annexin V/propidium iodide (PI) staining. PI staining showed that the ISL treatment induced significant cell cycle arrest compared to the control group, indicating that ISL-induced decreases in cell viability are associated with cell cycle arrest and apoptosis. ISL treatment also resulted in a significant decline in the mitochondrial membrane potential when observed through JC-10 staining. Mitochondrial superoxide staining revealed that ISL significantly upregulated the generation of mitochondrial reactive oxygen species (ROS). Acridine orange staining indicated that the ISL treatment upregulated lysosomal membrane permeability, which could be related to autophagy. These results suggest that ISL affects the proliferation and apoptosis of CCA cells, which might be related to its regulatory role in various cellular functions, including mitochondrial dysfunction, ROS balance, and autophagy. This study provides empirical evidence that ISL could be a potential candidate for CCA therapy.",
+  "publication_date": "2025-06-13",
+  "journal": "Journal of medicinal food",
+  "doi": "10.1089/jmf.2024.k.0280",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant decline",
+      "anticancer effects",
+      "isl-induced decreases",
+      "mitochondrial reactive oxygen species",
+      "the anticancer effects"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer cell functions",
+      "mitochondrial dysfunction"
+    ],
+    "FOOD": [
+      "acridine orange staining"
+    ]
+  }
+}

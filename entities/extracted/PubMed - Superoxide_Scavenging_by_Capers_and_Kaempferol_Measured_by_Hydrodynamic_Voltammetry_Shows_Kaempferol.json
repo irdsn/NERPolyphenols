@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Superoxide Scavenging by Capers and Kaempferol, Measured by Hydrodynamic Voltammetry, Shows Kaempferol Synergistic Action with Vitamin C; Density Functional Theory (DFT) Results Support Experimental Kaempferol Catalytic Behavior Similar to Superoxide Dismutases (SODs).",
+  "abstract": "In this work, we measured the antioxidant capacity of capers (Capparis spinosaL.) and an important component, kaempferol, as scavengers of the superoxide radical anion using hydrodynamic voltammetry with a rotating ring disk electrode (RRDE). Comparing our electrochemical results to other natural products studied using this method, this work demonstrates that kaempferol is a stronger antioxidant than vitamin C, whereas caper extract has weaker antioxidant capability than olive oil. We also investigated the synergistic scavenging relationship between vitamin C and kaempferol and found it to be potent, as all the available superoxide radicals were consumed in the presence of both compounds. Such a dramatic RRDE result was observed for the first time in our laboratory. We then utilized computational Density Functional Theory (DFT) methods to establish a viable mechanism, reminiscent of that exhibited by superoxide dismutase (SOD) enzymes, for the scavenging behavior of kaempferol. In the enzymatic reaction, two molecules of the superoxide radical anion with the assistance of two protons are disproportioned into one molecule of hydrogen peroxide and one oxygen molecule. Our DFT results show kaempferol mimicking superoxide dismutase (SOD) action when one kaempferol molecule reacts with two superoxide radicals and two protons (which can be provided by ascorbic acid); i.e., kaempferol acts as a catalyst that is restored after a cycle of superoxide scavenging. This mechanism is consistent with our experimental RRDE results.",
+  "publication_date": "2025-05-27",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112346",
+  "entities": {
+    "POLYPHENOL": [
+      "a rotating ring disk electrode",
+      "a viable mechanism",
+      "an important component, kaempferol",
+      "kaempferol",
+      "one molecule",
+      "one oxygen molecule",
+      "our electrochemical results",
+      "that kaempferol",
+      "this mechanism",
+      "two molecules"
+    ],
+    "FOOD": [
+      "olive oil"
+    ]
+  }
+}

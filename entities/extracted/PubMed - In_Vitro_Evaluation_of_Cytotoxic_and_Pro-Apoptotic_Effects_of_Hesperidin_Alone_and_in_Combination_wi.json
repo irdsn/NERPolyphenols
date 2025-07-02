@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "In Vitro Evaluation of Cytotoxic and Pro-Apoptotic Effects of Hesperidin Alone and in Combination with Cisplatin on Human Malignant Melanoma Cell Line (A431).",
+  "abstract": "Background/Objectives:Melanoma is an aggressive skin cancer with high metastatic potential and poor prognosis in advanced stages. Hesperidin, a natural flavonoid, has shown anticancer properties across various malignancies. This study aimed to evaluate the antiproliferative and pro-apoptotic effects of Hesperidin, alone and in combination with Cisplatin, on the human epidermoid carcinoma cell line A431.Materials and Methods:A431 cells were cultured under standard conditions and treated with different concentrations of Hesperidin and Cisplatin for 48 h. Cell viability was assessed using the MTT assay. Apoptosis was evaluated by Annexin V-FITC/PI staining and caspase-3/7 activity assays. Expression levels of Bax, caspase-3/7, and survivin were measured by RT-qPCR.Results:Hesperidin significantly reduced cell viability at both 24 and 48 h. Annexin V/PI staining revealed increased apoptosis, with the highest apoptotic ratio in the Hesperidin + Cisplatin group (p< 0.001). Caspase-3/7 activity was markedly elevated in Hesperidin-treated cells. RT-qPCR showed upregulation of Bax and caspase-3/7 and downregulation of survivin.Conclusions:Hesperidin demonstrated significant cytotoxic and pro-apoptotic effects in A431 cells. When combined with Cisplatin, a synergistic enhancement of apoptosis was observed. These findings support the potential of Hesperidin as a complementary agent in carcinoma therapy, pending further in vivo and clinical validation.",
+  "publication_date": "2025-06-07",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18060854",
+  "entities": {
+    "SYMPTOM": [
+      "an aggressive skin cancer",
+      "anticancer properties",
+      "apoptosis",
+      "increased apoptosis"
+    ],
+    "POLYPHENOL": [
+      "a natural flavonoid",
+      "pro-apoptotic effects",
+      "significant cytotoxic and pro-apoptotic effects"
+    ]
+  }
+}

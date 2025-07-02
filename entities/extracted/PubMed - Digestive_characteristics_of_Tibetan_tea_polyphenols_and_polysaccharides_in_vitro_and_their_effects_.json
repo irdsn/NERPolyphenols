@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Digestive characteristics of Tibetan tea polyphenols and polysaccharides in vitro and their effects on gut microbiota.",
+  "abstract": "Tibetan tea contains highly valuable bioactive components like polyphenols and polysaccharides, which can regulate gut microbiota and promote bodily health. This study systematically investigated the gastrointestinal digestion and colonic fermentation behavior of Tibetan tea polyphenols (TPP), polysaccharides (TPS), and their polyphenol-polysaccharide complex (TC). TPP, TPS, and TC demonstrated minimal changes in physicochemical and structural characteristics after gastrointestinal digestion. Following 24\u00a0h of fecal fermentation, all components significantly degraded and altered microbial composition (pH decreased to 6.44, 5.76, and 6.14, respectively), promoting dominant flora such as Phascolarctobacterium and Lachnoclostridium. Differentially, TPS and TC demonstrated stronger promotion of dominant Bifidobacterium, Faecalibacterium, and Collinsella, whereas TPP preferentially enriched Megasphaera and Butyricicoccus. Additionally, fermentation markedly increased the concentration of short-chain fatty acids (SCFAs), with TPS yielding the highest total SCFAs (17.29\u00a0\u00b1\u00a00.50\u00a0mM), particularly acetic and propionic acids. Overall, Tibetan tea polyphenols and polysaccharides may serve as potential prebiotics to improve intestinal health.",
+  "publication_date": "2025-04-09",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144289",
+  "entities": {
+    "POLYPHENOL": [
+      "faecalibacterium",
+      "fecal fermentation",
+      "polyphenols",
+      "their polyphenol-polysaccharide complex",
+      "tibetan tea polyphenols"
+    ]
+  }
+}

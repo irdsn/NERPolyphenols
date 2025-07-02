@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Development of a Short Telomere Zebrafish Model for Accelerated Aging Research and Antiaging Drug Screening.",
+  "abstract": "Increased life expectancy is associated with a higher risk of age-related diseases, which represent a major public health challenge. Animal models play a crucial role in aging research, enabling the study of diseases at the organism level and facilitating drug development and repurposing. Among these models, zebrafish stands out as an excellent in vivo system due to its unique characteristics. However, the longevity of zebrafish is a limitation for research, as it often takes too long to obtain results within a reasonable timeframe. To address this, we have developed a short telomere zebrafish line (ST2) with a premature aging phenotype during the larval stage. Although less extreme than the tert-deficient G2 larvae, ST2 larvae exhibit reduced telomerase expression and activity, along with shortened telomeres. they also exhibit increased cellular senescence, apoptosis, and premature death. As a proof of concept, we evaluated the antiaging effects of two compounds: resveratrol (a polyphenol) and navitoclax (a senolytic). Our results confirm the antiaging properties of resveratrol, which improves telomere maintenance. However, navitoclax does not attenuate the ST2 phenotype. Taking advantage of the zebrafish larval model, this premature aging system provides a valuable platform for in vivo testing of rejuvenating molecules through drug screening, using telomere length or survival as a readout.",
+  "publication_date": "2025-02-08",
+  "journal": "Aging cell",
+  "doi": "10.1111/acel.70007"
+}

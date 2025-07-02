@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Utilization of agricultural waste: mango peels and pineapple crown leaves as precursors for nanomaterial production for arsenate remediation.",
+  "abstract": "The improper management of agricultural waste can produce particulate matter and greenhouse gases. This study explores a green synthesis approach in which mango peel extract rich in polyphenols is used to produce green nano zero-valent iron (G-NZVI). Furthermore, supporting G-NZVI with nanocellulose isolated from pineapple crown leaves (NCC) enhances the stability and dispersion of NZVI. X-ray diffractometry, zeta potential measurements, scanning electron microscopy with energy-dispersive X-ray spectroscopy, transmission electron microscopy, specific surface area analysis, and X-ray absorption near-edge spectroscopy were used to characterize the properties of the G-NZVI/NCC composites. The adsorption isotherm of arsenate (As5+) on G-NZVI/NCC demonstrated a maximum adsorption capacity of 5.488\u00a0mg\u00b7g-1, which was higher than that of G-NZVI alone. The isotherm model indicated monolayer As5+adsorption on the homogeneous G-NZVI/NCC surface without lateral interactions between adsorbed molecules. The results revealed that low pH conditions, a high dosage of G-NZVI/NCC, and a low initial concentration of As5+increased the removal efficiency. The iron oxide layer of G-NZVI/NCC forms a strong surface complex, facilitating the formation of an inner sphere with As5+across a normal pH range and providing a cost-effective and eco-friendly solution for arsenic-contaminated water.",
+  "publication_date": "2025-05-24",
+  "journal": "Environmental science and pollution research international",
+  "doi": "10.1007/s11356-025-36534-w",
+  "entities": {
+    "FOOD": [
+      "a high dosage",
+      "mango peel",
+      "pineapple crown leaves"
+    ],
+    "POLYPHENOL": [
+      "a cost-effective and eco-friendly solution",
+      "adsorbed molecules",
+      "electron microscopy",
+      "energy-dispersive x-ray spectroscopy",
+      "polyphenols",
+      "specific surface area analysis",
+      "transmission electron microscopy",
+      "x-ray absorption near-edge spectroscopy"
+    ]
+  }
+}

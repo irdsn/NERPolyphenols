@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Phytochemical Characterization, Antioxidant Activity, and Anti-Melanoma Mechanism of Flower Buds ofMagnolia biondiiPamp.",
+  "abstract": "The flower buds ofMagnolia biondiiPamp. (MBP), one of the botanical sources ofXinyi(Flos Magnoliae), are widely used in traditional medicine; however, their potential role in melanoma treatment remains unexplored. In this study, the phytochemical composition, antioxidant activity, and anti-melanoma mechanisms of MBP extracts were systematically investigated. Phytochemical profiling using UHPLC-Q-Exactive Orbitrap MS identified 26 bioactive compounds. The ethanol extract exhibited high total flavonoid and polyphenol contents, correlating with enhanced antioxidant capacity as demonstrated by DPPH and ABTS assays. Network pharmacology analysis highlighted the JAK/STAT signaling pathway, identifying STAT3 and STAT1 as core targets. Western blot analysis confirmed MBP significantly inhibited the phosphorylation of JAK1 and STAT1 in melanoma cells. Connectivity Map (CMap) and network analyses further pinpointed naringenin as a primary active constituent. In vitro assays demonstrated that MBP and naringenin inhibited the proliferation and migration of A375 and B16F10 melanoma cells, while exhibiting relatively low cytotoxicity toward normal keratinocytes. Molecular docking and dynamics simulations revealed strong and stable binding interactions between naringenin and JAK1/STAT1 proteins. These findings collectively support MBP and naringenin as promising candidates for melanoma treatment, providing mechanistic evidence for their targeted activity and laying a foundation for future research and clinical applications.",
+  "publication_date": "2025-06-05",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14111725",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-melanoma mechanisms",
+      "connectivity map",
+      "further pinpointed naringenin",
+      "high total flavonoid and polyphenol contents",
+      "mechanistic evidence",
+      "molecular docking and dynamics simulations",
+      "naringenin"
+    ]
+  }
+}

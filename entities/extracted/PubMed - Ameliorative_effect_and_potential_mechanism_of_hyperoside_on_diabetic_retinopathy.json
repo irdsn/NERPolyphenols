@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Ameliorative effect and potential mechanism of hyperoside on diabetic retinopathy.",
+  "abstract": "This study aimed to evaluate the role of hyperoside in ameliorating the retinal injury of diabetic retinopathy (DR) rats and the dysfunction of retinal endothelial cells (RECs) in high glucose.",
+  "publication_date": "2025-05-02",
+  "journal": "Frontiers in endocrinology",
+  "doi": "10.3389/fendo.2025.1556310",
+  "entities": {
+    "POLYPHENOL": [
+      "recs"
+    ]
+  }
+}

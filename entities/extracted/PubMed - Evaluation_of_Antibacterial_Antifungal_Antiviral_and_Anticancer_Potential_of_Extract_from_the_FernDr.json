@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Evaluation of Antibacterial, Antifungal, Antiviral, and Anticancer Potential of Extract from the FernDryopteris erythrosora.",
+  "abstract": "Plant extracts are increasingly being investigated due to their high content of pharmacologically active substances. The primary focus is placed on angiosperms, while pteridophytes are less popular, although their medicinal properties have been recognized for centuries. In this study, we uncover some biological properties of the extract fromDryopteris erythrosora(DEE), a fern traditionally used for liver treatment in Asia, which has not been widely explored in this context before. This study involved the determination of the total content of polyphenols and flavonoids as well as the evaluation of the antioxidant potential of DEE. Its antimicrobial activity was tested against selected bacteria. The MIC values ranged from 1.25 to 0.375 mg/mL. DEE showed no inhibitory effect against a representative fungus,Candida albicans. Additionally, this study demonstrated its excellent anticancer activity against AGS, MCF-7, and SW-480 cancer cells, with IC50values of 19.44, 76.90, and 24.97 \u03bcg/mL, respectively. A study on human herpesvirus type 1 (HHV-1) revealed that the DEE had no antiviral activity. The safety of DEE was confirmed with the use of sheep erythrocytes and VERO cells. SinceD. erythrosorais a rich source of compounds with antibacterial and anticancer properties, it can complement the arsenal of natural therapeutics.",
+  "publication_date": "2025-05-28",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26115182",
+  "entities": {
+    "FOOD": [
+      "plant extracts"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "no inhibitory effect",
+      "polyphenols",
+      "selected bacteria"
+    ],
+    "SYMPTOM": [
+      "antibacterial and anticancer properties",
+      "its excellent anticancer activity",
+      "sw-480 cancer cells"
+    ]
+  }
+}

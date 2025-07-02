@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "GAS reduced inflammatory responses in activated microglia by regulating the Ccr2/Akt/Gsk-3\u03b2 pathway.",
+  "abstract": "Hypoxic-ischemic brain damage (HIBD) is a significant cause of neonatal death and neurological dysfunction. Following this injury, activated microglia can lead to a series of inflammatory responses. Gastrodin (GAS), a polyphenol extracted from the Chinese herbal medicine Gastrodia elata Blume, has demonstrated antioxidant and anti-inflammatory effects. This study investigated the neuroprotective impact of GAS in HIBD mice model and in BV2 cells subjected to oxygen-glucose deprivation (OGD) treatment. Expression of various members of the Ccr2/Akt/Gsk-3\u03b2, including Ccl2, Ccr2, Akt, p-Akt, Gsk-3\u03b2, p-Gsk-3\u03b2 and inflammatory factors TNF-\u03b1 and IL-1\u03b2 in activated microglia was assessed by Western blotting, immunofluorescence, and qRT-PCR in HIBD in postnatal mice, and in OGD-induced BV2 microglia in vitro with or without GAS treatment. The present results showed that GAS effectively reduces the expression of Ccl2 and Ccr2, increases the phosphorylation levels of Akt and Gsk-3\u03b2, and decreases the expression of the TNF-\u03b1 and IL-1\u03b2. Additionally, we have shown that inhibition of Ccr2 by RS102895 increased the expression of p-Akt and p-Gsk-3\u03b2, and attenuate production of proinflammatory mediators in activated microglia. Of note, the expression of p-Akt, p-Gsk-3\u03b2, TNF-\u03b1 and IL-1\u03b2 remained unchanged after the combination of gastrodin and RS102895. Taken together, we conclude that GAS can play a protective role in reducing the neuroinflammatory response after HIBD. It is suggested that this is mainly through up-regulating the Akt/Gsk-3\u03b2 signaling pathway via the Ccr2 receptor in the present experimental paradigm.",
+  "publication_date": "2025-05-06",
+  "journal": "Molecular brain",
+  "doi": "10.1186/s13041-025-01206-w",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol",
+      "a protective role",
+      "antioxidant and anti-inflammatory effects",
+      "the ccr2 receptor",
+      "the neuroprotective impact"
+    ]
+  }
+}

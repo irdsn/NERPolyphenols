@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Prebiotic properties of extruded maize starch-caffeic acid complexes: A study from the small intestine to colon in vitro.",
+  "abstract": "Recent studies show that starch-polyphenols complexes exert positive effects on gut health, but the probiotic effects of maize starch-caffeic complexes remain underexplored. Therefore, this study aimed to investigate the probiotic effect of maize starch-caffeic complexes from the small intestine to the colon. First, maize starch was extruded with caffeic acid and subjected to in vitro digestion, and the undigested parts were fermented in vitro, and the structural characteristics, short chain fatty acids (SCFAs) and microbiota communities were investigated. Results showed that caffeic acid reduced the long/short-range order of maize starch after extrusion, significantly increasing resistant starch to 30.35\u00a0\u00b1\u00a02.36\u00a0%. In vitro fermentation indicated that microbiota utilized the amorphous area of the residues first, promoting SCFAs production and the growth of Bifidobacterium and Lactococcus genus. Overall, the probiotic properties of extruded maize starch-caffeic acid complexes suggest they could serve as a functional food for health benefits.",
+  "publication_date": "2024-11-13",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2024.141980",
+  "entities": {
+    "POLYPHENOL": [
+      "caffeic acid",
+      "extruded maize starch-caffeic acid complexes",
+      "positive effects",
+      "recent studies",
+      "starch-polyphenols complexes",
+      "the probiotic effect",
+      "the probiotic effects"
+    ],
+    "FOOD": [
+      "a functional food"
+    ]
+  }
+}

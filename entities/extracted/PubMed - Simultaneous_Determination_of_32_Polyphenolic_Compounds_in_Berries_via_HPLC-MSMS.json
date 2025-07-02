@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Simultaneous Determination of 32 Polyphenolic Compounds in Berries via HPLC-MS/MS.",
+  "abstract": "An HPLC-MS/MS method for the simultaneous determination of 32 polyphenolic compounds in berries was established. For method validation, the berry samples were extracted with 80% ethanol, purified on an HLB column, and separated on a C18 column via gradient elution with an acetonitrile-water mobile phase system before mass spectrometry detection with electrospray ionization in negative mode and multiple reaction monitoring. The results revealed that the 32 polyphenolic compounds had a good linear relationship in the concentration range of 1-500 \u03bcg/L, with R2> 0.99, limits of detection, limits of quantitation, and recoveries of 0.2-0.6 \u03bcg/kg, 0.3-1.0 \u03bcg/kg, and 82.8-104.8%, respectively, and RSDs < 5.8%. The contents of polyphenolic compounds in the berries were determined, with 23 polyphenolic compounds in sea buckthorn, 18 in mulberry, 17 in black wolfberry, and 12 in red wolfberry. Eight polyphenolic compounds were found in all 4 kinds of berries, including 4-hydroxybenzoic acid, p-coumaric acid, ferulic acid, erucic acid, rutin, hypericin, kaempferol-3-O-rutinoside, and daffinoside. Additionally, six polyphenolic compounds, catechin, syringic acid, isorhamnetin-3-O-galactoside, isorhamnetin-3-O-glucoside, cinnamic acid, and isorhamnetin, were detected only in sea buckthorn.",
+  "publication_date": "2025-04-30",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30092008",
+  "entities": {
+    "POLYPHENOL": [
+      "23 polyphenolic compounds",
+      "32 polyphenolic compounds",
+      "4-hydroxybenzoic acid, p-coumaric acid",
+      "catechin",
+      "detection",
+      "eight polyphenolic compounds",
+      "electrospray ionization",
+      "ferulic acid",
+      "kaempferol-3",
+      "mass spectrometry detection",
+      "o-rutinoside",
+      "polyphenolic compounds",
+      "recoveries",
+      "rutin",
+      "six polyphenolic compounds",
+      "syringic acid",
+      "the 32 polyphenolic compounds"
+    ]
+  }
+}

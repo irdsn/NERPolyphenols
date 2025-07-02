@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Combining Carboxylic-Acid-Based Deep Eutectic Solvents and High Temperatures Enhances Phenolic Acid Extraction from Grape Pomace.",
+  "abstract": "Phenolic acids are contained in grape pomace, mostly in a conjugate form, and can be a natural source of building blocks if they are efficiently hydrolyzed and extracted from the natural matrix. In this study, a comparative study based on the spectrophotometric evaluation of total phenolic content, hydroxycinnamic acid content, and anthocyanin content was performed on different carboxylic-acid-based NADES with different heating sources. Moreover, a quali-quantitative characterization of the bioactive molecules extracted was performed using UHPLC-ESI-HRMS. We found that the nature of the acidic component of the DES was crucial in selecting the family of molecules to be extracted; ChCl/oxalic acid 1:1 NADES, when combined with MAE at 100 \u00b0C, is the best medium for the in situ hydrolysis and extraction of phenolic acids from grape pomace. The ORAC test performed on natural extracts with and without NADES revealed a role for NADES components in antioxidant activity against the ROS of extracted bioactive phenols.",
+  "publication_date": "2025-05-27",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060643",
+  "entities": {
+    "FOOD": [
+      "grape pomace"
+    ],
+    "POLYPHENOL": [
+      "hydroxycinnamic acid content",
+      "molecules",
+      "the bioactive molecules",
+      "the spectrophotometric evaluation"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "A gallic acid coordination self-assembled multifunctional interphase enabling highly reversible Zn anodes.",
+  "abstract": "Zinc metal batteries have emerged as compelling contenders for next-generation energy storage systems, yet their practical viability remains severely hampered by intrinsic challenges associated with Zn metal anodes, such as uncontrolled dendritic growth, vigorous hydrogen evolution, and sluggish interfacial kinetics. Addressing these issues, we rationally engineer a coordination self-assembled multifunctional interphase (GSI) derived from gallic acid, which spontaneously constructs on the Zn surface via strong coordination interactions. The GSI interphase, enriched with densely packed phenolic hydroxyl and carboxyl moieties, acts as a multifunctional regulator: it offers abundant zincophilic sites to guide homogeneous Zn2+flux and significantly lowers the nucleation energy barrier, thereby enabling smooth and reversible Zn plating/stripping. Beyond ion-level modulation, the GSI firmly anchors onto the Zn substrate, preventing the direct contact between the Zn metal anode and aqueous electrolyte. More intriguingly, the gallic acid component exhibits a strong chemical affinity toward H2O molecules, enabling preferential displacement of active water from the inner Helmholtz plane (IHP), which fundamentally suppresses parasitic side reactions. Therefore, the functionalized anode achieves superior electrochemical performance, maintaining a prolonged cycling lifespan exceeding 1550\u00a0h at 1\u00a0mA cm-2with an ultralow polarization voltage of merely\u00a0\u223c23\u00a0mV. This work not only unveils a simple yet powerful interfacial design strategy, but also offers critical insights into molecular-level manipulation of the Zn-electrolyte interface, paving the way toward next-generation, high-efficiency aqueous Zn-ion energy storage systems.",
+  "publication_date": "2025-06-08",
+  "journal": "Journal of colloid and interface science",
+  "doi": "10.1016/j.jcis.2025.138127",
+  "entities": {
+    "POLYPHENOL": [
+      "aqueous electrolyte",
+      "gallic acid",
+      "h2o molecules",
+      "molecular-level manipulation",
+      "superior electrochemical performance",
+      "the direct contact",
+      "the gallic acid component",
+      "the zn-electrolyte interface"
+    ]
+  }
+}

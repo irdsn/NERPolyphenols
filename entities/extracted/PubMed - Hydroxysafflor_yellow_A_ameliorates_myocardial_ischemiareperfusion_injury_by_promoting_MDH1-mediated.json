@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Hydroxysafflor yellow A ameliorates myocardial ischemia/reperfusion injury by promoting MDH1-mediated mitochondrial metabolic homeostasis.",
+  "abstract": "Myocardial ischemia/reperfusion injury (MIRI) is a critical complication in the management of acute myocardial infarction, substantially compromising clinical outcomes. Hydroxysafflor yellow A (HSYA), a natural compound derived from Carthamus tinctorius L., has been approved by the National Medical Products Administration for the management of cardiovascular and cerebrovascular diseases. While empirical evidence supports its therapeutic efficacy against MIRI, the underlying mechanism remains incompletely characterized.",
+  "publication_date": "2025-05-29",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156868",
+  "entities": {
+    "POLYPHENOL": [
+      "the underlying mechanism"
+    ]
+  }
+}

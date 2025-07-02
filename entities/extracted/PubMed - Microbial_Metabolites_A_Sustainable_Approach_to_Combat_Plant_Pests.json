@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Microbial Metabolites: A Sustainable Approach to Combat Plant Pests.",
+  "abstract": "With the sustainable increase in agricultural productivity, the need for safer, environmentally friendly pesticide alternatives is also growing. Metabolites of microorganisms (bacteria, fungi, actinomycetes) are emerging as potential bioactive compounds for integrated pest and disease management. These compounds comprise amino acids, carbohydrates, lipids, organic acids, phenolics, peptides, alkaloids, polyketides, and volatile organic compounds. The majority of them have insecticidal, fungicidal, and nematicidal activities. In this review, the classifications, biosynthetic pathways, and ecological functions of primary and secondary metabolites produced by microorganisms are discussed, including their mechanisms of action, ranging from competition to systemic acquired resistance in host plants. The article highlights the importance of microbial genera (viz.,Bacillussp.,Pseudomonassp.,Trichodermasp.,Streptomycessp., etc.) in making chemicals and biopesticides for crop defense. We present the possible applications of microbial biosynthesis strategies and synthetic biology tools in bioprocess development, covering recent innovations in formulation, delivery, and pathway engineering to enhance metabolite production. This review emphasizes the significance of microbial metabolites in improving the plant immunity, yield performance, reduction in pesticide application, and the sustainability of an ecological, sustainable, and resilient agricultural system.",
+  "publication_date": "2025-06-19",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo15060418",
+  "entities": {
+    "POLYPHENOL": [
+      "an ecological, sustainable, and resilient agricultural system",
+      "ecological functions",
+      "insecticidal",
+      "primary and secondary metabolites",
+      "recent innovations",
+      "their mechanisms"
+    ]
+  }
+}

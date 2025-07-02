@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Predicting Precursor Ions Combined with Fragmentation Pathway for Screening and Identification of Flavan-3-ol Oligomers in Tea (Camellia sinensis. var.assamica).",
+  "abstract": "Flavan-3-ol oligomers (FLOs), including proanthocyanidins (PAs) and theasinensins (TSs), contribute greatly to the flavor and bioactivity of the tea beverage. Ultrahigh-performance liquid chromatography coupled with high-resolution mass spectrometry has been widely used in profiling a wide range of compounds in tea. However, the detection and identification of FLOs with low concentration and high structural diversity remain meaningful yet challenging work. Herein, we propose a strategy that enables efficient discovery and annotation of FLOs, especially those with a relatively high degree of polymerization (DP, \u22653). Based on the known monomers and the specific polymerization pattern between them, the strategy predicted a theoretical list of precursor ions of FLO. Matching the predicted list against the experimental ion features screened out 490 features as the candidate of FLOs from over 10\u202f000 raw features. Investigation of the fragmentation pathways of 17 known FLOs found that both PAs and TSs are easily subjected to RDA cleavage, which produced a series of characteristic fragmentation ions and neutral losses. Moreover, successive cleavage of the C4\u2192 C8bond between monomer units is observed for PAs, leading to the generation of characteristic fragmentation ions corresponding to monomeric flavan-3-ols. Assisted by the characteristic fragmentation pathways, 52 FLOs (DP: 2-6) were finally annotated from the 490 retained features. Their chemical structures were verified by depolymerization experiments using menthofuran as the nucleophilic trapping reagent. Among them, the pentamers and hexamers were detected in a Yunnan large leaf tea for the first time. Semiquantitation and multivariate statistical analysis indicate that PAs exhibit higher contents in green tea, and TSs show higher levels in black and white tea.",
+  "publication_date": "2024-12-18",
+  "journal": "Journal of the American Society for Mass Spectrometry",
+  "doi": "10.1021/jasms.4c00390",
+  "entities": {
+    "POLYPHENOL": [
+      "especially those",
+      "high-resolution mass spectrometry",
+      "precursor ions",
+      "proanthocyanidins",
+      "the detection",
+      "the specific polymerization pattern"
+    ],
+    "FOOD": [
+      "black and white tea",
+      "green tea"
+    ]
+  }
+}

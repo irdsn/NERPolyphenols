@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Effect of high hydrostatic pressure on the multi-scale structure and digestive properties of Lonicera caerulea berry polyphenol-wheat starch complex.",
+  "abstract": "Polyphenols increase resistant starch (RS) content and stabilize postprandial blood glucose levels. This study examined the effects of high hydrostatic pressure (HHP) technology on the multi-scale structure and digestibility of the Lonicera caerulea berry polyphenol-wheat starch (LPWS) complex in vitro and in vivo. The results showed that 200, 400, and 600\u00a0MPa HHP treatments promoted starch gelatinization, destroyed the grain structure of wheat starch (WS), significantly increased the particle size (P\u00a0<\u00a00.05), significantly increased the RS content by 1.60, 2.33, and 2.60 times (P\u00a0<\u00a00.05), and decreased the crystallinity and molecular weight. Under HHP, Lonicera caerulea berry polyphenols (LCBP) and WS formed A\u00a0+\u00a0V complex and the two interacted with each other through hydrogen bonding, leading to a further reduction in the gelatinization enthalpy (\u0394H). The amount of glucose released by internal digestion in mice decreased significantly from 10.28\u00a0mmol/L to 8.87\u00a0mmol/L at 180\u00a0min (P\u00a0<\u00a00.05). Complex digestives appeared dense, which reduced WS digestion. This study provides a theoretical basis for the research and development of functional starch with stable postprandial blood glucose levels, and its use as a functional food ingredient.",
+  "publication_date": "2025-04-01",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.142776",
+  "entities": {
+    "POLYPHENOL": [
+      "high hydrostatic pressure (hhp) technology",
+      "molecular weight",
+      "polyphenols",
+      "the effects"
+    ],
+    "FOOD": [
+      "a functional food ingredient",
+      "wheat starch"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Identification and Therapeutic Potential of Polymethoxylated Flavones inCitri Reticulatae Pericarpiumfor Alzheimer's Disease: Targeting Neuroinflammation.",
+  "abstract": "Neuroinflammation is a significant driving force in the pathogenesis and progression of central nervous system (CNS) disorders. Polymethoxylated flavones (PMFs), the key lipid-soluble constituents inCitri Reticulatae Pericarpium(CRP), exhibit excellent blood-brain barrier permeability and anti-inflammatory properties, holding therapeutic potential for CNS disorders. However, the specific bioactive components and therapeutic effects of PMFs in treating CNS disorders are not well understood. This study employed a comprehensive sequential metabolism approach to elucidate the dynamic biotransformation of PMFs in vivo and identified seven brain-targeting components. Subsequently, network pharmacology and experimental validation were utilized to explore the potential mechanisms of PMFs. The results suggested that PMFs have potential therapeutic value for Alzheimer's disease (AD)-like mice, with the inhibition of neuroinflammation likely being a key mechanism of their anti-AD effects. Notably, sinensetin, tangeretin, nobiletin, and 3,5,6,7,8,3',4'-heptamethoxyflavone were identified as potent neuroinflammatory inhibitors. This research elucidated the chemical and therapeutic foundations of PMFs, indicating their potential as treatments or nutritional supplements for AD prevention and treatment. Moreover, the integrated triad approach of sequential metabolism, network pharmacology, and experimental validation may serve as a promising strategy for screening bioactive compounds in herbs or functional foods, as well as for elucidating their therapeutic mechanisms.",
+  "publication_date": "2025-02-07",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30040771",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "neuroinflammation"
+    ],
+    "POLYPHENOL": [
+      "a key mechanism",
+      "the potential mechanisms",
+      "the specific bioactive components",
+      "their anti-ad effects",
+      "their therapeutic mechanisms",
+      "therapeutic effects"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Effect of Moderate Consumption of Different Phenolic-Content Beers on the Human Gut Microbiota Composition: A Randomized Crossover Trial.",
+  "abstract": "The moderate consumption of beer has been associated with positive effects on health, and these benefits are driven, in part, by the antioxidant properties of phenolic compounds found in this beverage. However, the potential impact of beer polyphenols on the human gut microbiome and their consequences are yet to be elucidated. In this study, our aim was to evaluate the effect of three different phenolic-content beers on the gut microbiome and the potential role of the induced shifts in the antioxidant capacity of beer polyphenols. In total, 20 subjects (10 healthy volunteers and 10 individuals with metabolic syndrome) were randomly assigned in a crossover design to consume each of the different beers (alcohol-free, lager or dark beer) during a 2-week intervention. Significant changes in the relative abundance ofStreptococcaceaeandStreptococcuswere found after beer consumption. An increased abundance ofStreptococcaceaeandStreptococcuswas observed after the consumption of dark beer, with no detected differences between baseline and alcohol-free/lager beer intervention. Moreover, some of the detected differences appeared to be related to the metabolic status. Finally, a decrease in porphyrin metabolism and heme biosynthesis was found after the intervention, especially after the consumption of dark beer. These results show that the antioxidant capacity of beer polyphenols may induce positive shifts in gut microbiota composition, and some of the observed changes may also boost the antioxidant capacity of these compounds.",
+  "publication_date": "2022-03-31",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox11040696",
+  "entities": {
+    "POLYPHENOL": [
+      "20 subjects",
+      "a decrease",
+      "beer polyphenols",
+      "no detected differences",
+      "phenolic compounds",
+      "positive effects",
+      "the detected differences",
+      "the effect"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

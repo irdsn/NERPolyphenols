@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "The Effect of Zinc Oxide Nanoparticles on the Quantitative and Qualitative Traits ofScutellaria baicalensisGeorgi in In Vitro Culture.",
+  "abstract": "Zinc oxide nanoparticles (ZnONPs) are increasingly used in agriculture to stimulate plant growth and development, including under in vitro culture conditions. However, there is limited data on the effects of ZnONPs on the micropropagation ofScutellaria baicalensisGeorgi. The pharmacological properties of this species make it a valuable medicinal plant. In Poland, it does not occur naturally but is cultivated for the production of herbal material. In vitro micropropagation is an effective method for obtaining genetically uniform plantlets. The aim of this study was to evaluate the effects of various concentrations of ZnONPs on growth parameters and the content of mineral nutrients, phenolic compounds, antioxidants, and photosynthetic pigments inScutellaria baicalensiscultured in vitro. Shoot tip explants were cultured on MS medium supplemented with 1.0 mg dm-3BA and 0.1 mg dm-3IBA, together with ZnONPs at concentrations of 0 (control), 10, 20, 30, and 40 mg dm-3. The results showed that ZnONPs at concentrations of 10-20 mg dm-3had no statistically significant effect on shoot or root development or on fresh weight gain. However, higher concentrations (30 and 40 mg dm-3) had a significantly negative impact on the number and length of shoots and roots, as well as on biomass accumulation. ZnONPs at 10-20 mg dm-3significantly increased the content of potassium, calcium, magnesium, iron, and zinc in regenerated multi-shoot plantlets. A strong positive correlation (r = 0.951) was observed between ZnONP concentration and zinc accumulation in the plantlets. The levels of manganese and copper were not significantly different from the control. Plantlets treated with 30-40 mg dm-3ZnONPs had significantly lower levels of calcium, iron, manganese, and copper. Those grown at 30 mg dm-3had the highest potassium and magnesium levels, while plantlets exposed to 40 mg dm-3had the highest zinc content. The total phenolic content and antioxidant activity (measured using ABTS and DPPH assays) were significantly higher in ZnONP-treated plantlets compared to the control. In contrast, the levels of chlorophyll a, chlorophyll b, total chlorophyll (a + b), and carotenoids were significantly lower in plants treated with ZnONPs. A strong negative correlation was found between ZnONP concentration and photosynthetic pigment content, while the ZnONP concentration was positively correlated with total phenolic content and antioxidant activity (ABTS+and DPPH).",
+  "publication_date": "2025-06-18",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26125836",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective method",
+      "no statistically significant effect",
+      "phenolic compounds",
+      "the effects",
+      "this species"
+    ]
+  }
+}

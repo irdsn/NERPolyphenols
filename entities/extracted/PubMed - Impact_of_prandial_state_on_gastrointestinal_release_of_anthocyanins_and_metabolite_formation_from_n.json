@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Impact of prandial state on gastrointestinal release of anthocyanins and metabolite formation from nanocapsulated roselle anthocyanins in mice.",
+  "abstract": "To investigate the gastrointestinal release and metabolic dynamics of nanocapsulated roselle anthocyanins (Nano-RAE) and to compare their digestive behaviors under fasted and fed conditions, a study was conducted involving 108 mice. Samples from the stomach, small intestine, and large intestine were collected at predetermined intervals following gavage administration. The fed state significantly delayed anthocyanins release from Nano-RAE in the stomach and small intestine, particularly for cyanidin-3-O-glucoside (C3G) and pelargonidin-3-O-glucoside, which enhanced metabolite production in the small intestine. Notably, higher concentrations of C3G and delphinidin-3-O-glucoside were observed in Nano-RAE in the large intestine under fed conditions compared to the fasted state. In contrast, unencapsulated roselle anthocyanins exhibited minimal variation between the two states. These findings suggest that the interaction between Nano-RAE and the food matrix delays anthocyanin release, thereby contributing to increased metabolite production in the small intestine. This emphasizes the importance of the prandial state in nanocapsule delivery systems.",
+  "publication_date": "2025-06-25",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145330",
+  "entities": {
+    "POLYPHENOL": [
+      "cyanidin-3-o-glucoside",
+      "pelargonidin-3-o-glucoside"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Enhancing Cellular Homeostasis: Targeted Botanical Compounds Boost Cellular Health Functions in Normal and Premature Aging Fibroblasts.",
+  "abstract": "The human skin, the body's largest organ, undergoes continuous renewal but is significantly impacted by aging, which impairs its function and leads to visible changes. This study aimed to identify botanical compounds that mimic the anti-aging effects of baricitinib, a known JAK1/2 inhibitor. Through in silico screening of a botanical compound library, 14 potential candidates were identified, and 7 were further analyzed for their effects on cellular aging. The compounds were tested on both normal aged fibroblasts and premature aging fibroblasts derived from patients with Hutchinson-Gilford Progeria Syndrome (HGPS). Results showed that these botanical compounds effectively inhibited the JAK/STAT pathway, reduced the levels of phosphorylated STAT1 and STAT3, and ameliorated phenotypic changes associated with cellular aging. Treatments improved cell proliferation, reduced senescence markers, and enhanced autophagy without inducing cytotoxicity. Compounds, such as Resveratrol, Bisdemethoxycurcumin, Pinosylvin, Methyl P-Hydroxycinnamate, cis-Pterostilbene, and (+)-Gallocatechin, demonstrated significant improvements in both control and HGPS fibroblasts. These findings suggest that these botanical compounds have the potential to mitigate age-related cellular alterations, offering promising strategies for anti-aging therapies, particularly for skin health. Further in vivo studies are warranted to validate these results and explore their therapeutic applications.",
+  "publication_date": "2024-10-16",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom14101310",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "anti-aging therapies",
+      "cellular aging",
+      "premature aging fibroblasts"
+    ],
+    "POLYPHENOL": [
+      "(+)-gallocatechin",
+      "bisdemethoxycurcumin",
+      "cis-pterostilbene",
+      "resveratrol",
+      "the anti-aging effects",
+      "their effects"
+    ]
+  }
+}

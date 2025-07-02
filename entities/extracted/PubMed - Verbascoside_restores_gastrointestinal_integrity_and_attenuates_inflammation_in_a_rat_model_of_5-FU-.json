@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Verbascoside restores gastrointestinal integrity and attenuates inflammation in a rat model of 5-FU-induced mucositis.",
+  "abstract": "This study investigated the protective effects of verbascoside (VER) against 5-fluorouracil (5-FU)-induced gastrointestinal mucositis in Wistar albino rats.",
+  "publication_date": "2025-06-16",
+  "journal": "Medical oncology (Northwood, London, England)",
+  "doi": "10.1007/s12032-025-02823-0",
+  "entities": {
+    "POLYPHENOL": [
+      "the protective effects"
+    ]
+  }
+}

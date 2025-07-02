@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Comprehensive characterization and valorization potential of Amazonian Sacha inchi (Plukenetia volubilisL.) seeds, oil, and oilcake by-products for sustainable food applications.",
+  "abstract": "Sacha inchi (Plukenetia volubilisL.), a native oilseed from the Amazon region, has attracted increasing attention for its nutritional richness and potential applications in functional foods. However, detailed studies on the characterization and valorization of its seeds, oil, and defatted oilcake by-products from the Ecuadorian Amazon remain scarce. This study evaluates the bromatological, chemical, bioactive, and techno-functional properties of Sacha inchi seeds and their by-products from the Ecuadorian Amazon to assess their potential as functional ingredients in bakery applications.",
+  "publication_date": "2025-05-21",
+  "journal": "Frontiers in nutrition",
+  "doi": "10.3389/fnut.2025.1597300",
+  "entities": {
+    "FOOD": [
+      "functional foods"
+    ],
+    "POLYPHENOL": [
+      "the bromatological, chemical, bioactive, and techno-functional properties",
+      "the ecuadorian amazon"
+    ]
+  }
+}

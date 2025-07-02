@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Impact of Transchalcone on Neurological Outcomes in Cerebral Ischemia-reperfusion Injury in Rat: Role of AMP-activated Protein Kinase-mitochondrial Signaling Pathways.",
+  "abstract": "Cerebral ischemia-reperfusion (CIR) injury results in significant secondary brain damage after ischemic stroke due to oxidative stress, mitochondrial dysfunction, and neuroinflammation. Transchalcone (TCH), a polyphenolic compound, exhibits antioxidant and anti-inflammatory properties that may contribute to neuroprotection. The present study investigated the potential protective effects of TCH in a rat model of CIR, focusing on its impact on the activation of AMP-activated protein kinase (AMPK) pathway, mitochondrial function, and inflammatory mediators. Sixty adult Sprague-Dawley rats were randomly divided into five groups of Control, CIR (ischemia-reperfusion only), CIR+TCH (CIR with TCH), CIR+CC (CIR with compound C), and CIR+CC+TCH (CIR with compound C plus TCH). TCH (100 \u03bcg/kg b.w per day) was given intraperitoneally over 7 days before CIR injury to animals. Middle cerebral artery occlusion was performed for 60 min to induce cerebral ischemia, and then blood flow was restored (reperfusion) for 24 h. Neuromotor function was assessed using neurological scoring, rotarod, and grid tests. The infarct volumes were determined using 2,3,5-triphenyltetrazolium chloride staining. Mitochondrial function was evaluated using fluorometric and calorimetric methods. Oxidative stress and inflammatory mediators were measured by enzyme-linked immunosorbent assay. Protein expression was analyzed using Western blotting. CIR significantly impaired neuromotor function, increased infarct volume, elevated mitochondrial reactive oxygen species (ROS) levels, and disrupted adenosine triphosphate (ATP) synthesis and manganese superoxide dismutase (Mn-SOD) activity. It also heightened pro-inflammatory cytokines interleukin-1\u03b2 (IL-1\u03b2), tumor necrosis factor-alpha, and nuclear factor kappa B levels while reducing the anti-inflammatory IL-10 level. TCH treatment significantly attenuated CIR outcomes by promoting AMPK phosphorylation, upregulating peroxisome proliferator-activated receptor gamma coactivator-1 alpha (PGC-1\u03b1) and nuclear factor erythroid 2-related factor 2 (NRF2) expression, reducing mitochondrial ROS, improving ATP production and Mn-SOD activity, and suppressing pro-inflammatory cytokine mediators while increasing IL-10. Co-treatment with compound C (a selective AMPK inhibitor) significantly diminished the protective effects of TCH, confirming the contribution of AMPK signaling in its neuroprotective mechanism. TCH provides significant neuroprotection against CIR injury by activating AMPK/PGC-1\u03b1 and AMPK/NRF2 signaling, preserving mitochondrial function, and modulating inflammation. These findings highlight the therapeutic potential of TCH for ischemic stroke management.",
+  "publication_date": "2025-04-14",
+  "journal": "Journal of physiological investigation",
+  "doi": "10.4103/ejpi.EJPI-D-25-00004",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenolic compound",
+      "a selective ampk inhibitor",
+      "elevated mitochondrial reactive oxygen species (ros) levels",
+      "its neuroprotective mechanism",
+      "neuroprotection",
+      "significant neuroprotection",
+      "significant secondary brain damage",
+      "the potential protective effects",
+      "the protective effects",
+      "tumor necrosis factor-alpha",
+      "upregulating peroxisome proliferator-activated receptor gamma coactivator-1 alpha"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "mitochondrial dysfunction",
+      "neuroinflammation",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "RNA-Seq Study on theLongissimus thoracisMuscle of Italian Large White Pigs Fed Extruded Linseed with or without Antioxidants and Polyphenols.",
+  "abstract": "The addition ofn-3 polyunsaturated fatty acids (n-3 PUFAs) to the swine diet increases their content in muscle cells, and the additional supplementation of antioxidants promotes their oxidative stability. However, to date, the functionality of these components within muscle tissue is not well understood. Using a published RNA-seq dataset and a selective workflow, the study aimed to find the differences in gene expression and investigate how differentially expressed genes (DEGs) were implicated in the cellular composition and metabolism of muscle tissue of 48 Italian Large White pigs under different dietary conditions. A functional enrichment analysis of DEGs, using Cytoscape, revealed that the diet enriched with extruded linseed and supplemented with vitamin E and selenium promoted a more rapid and massive immune system response because the overall function of muscle tissue was improved, while those enriched with extruded linseed and supplemented with grape skin and oregano extracts promoted the presence and oxidative stability ofn-3 PUFAs, increasing the anti-inflammatory potential of the muscular tissue.",
+  "publication_date": "2023-03-28",
+  "journal": "Animals : an open access journal from MDPI",
+  "doi": "10.3390/ani13071187"
+}

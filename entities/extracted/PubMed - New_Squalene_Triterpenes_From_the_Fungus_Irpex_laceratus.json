@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "New Squalene Triterpenes From the Fungus Irpex laceratus.",
+  "abstract": "Six undescribed squalene triterpenes, named irpelacerins A-F (1-6), together with three known lanostane triterpenoids (7-9) were isolated from the solid fermentation of the endophytic fungus Irpex laceratus, which was collected from the medicinal plant Casuarina equisetifolia L. Compounds 1-6 were a group of uncommon chain triterpenoids, which existed in the form of acyclic or monocyclic structures. Their chemical structures were determined by extensive analyses of NMR spectroscopic data, high-resolution electrospray ionization mass spectrometry, and comparison with literature analogs. Moreover, all these compounds were evaluated for their biological activities, and the results clarified that compounds 3, 6, 8, and 9 showed notable inhibitory activity against LPS-induced NO production with IC50values of 32.5, 48.0, 76.8, and 58.8\u00a0\u00b5M, respectively.",
+  "publication_date": "2025-06-13",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202501271",
+  "entities": {
+    "POLYPHENOL": [
+      "ionization mass spectrometry",
+      "nmr spectroscopic data"
+    ]
+  }
+}

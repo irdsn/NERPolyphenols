@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Schizandrin A promotes apoptosis in prostate cancer by inducing ROS-mediated endoplasmic reticulum stress and JNK MAPK signaling activation.",
+  "abstract": "Prostate cancer (PCa) is the most common malignant tumor in males with limited therapies. Schizandrin A (SchA) is a biologically active lignan isolated from the fruit of Schisandra chinensis. This research aimed to evaluate the roles and mechanisms of SchA in the progression of PCa.",
+  "publication_date": "2025-03-06",
+  "journal": "Pathology, research and practice",
+  "doi": "10.1016/j.prp.2025.155889",
+  "entities": {
+    "SYMPTOM": [
+      "prostate cancer"
+    ],
+    "POLYPHENOL": [
+      "mechanisms"
+    ]
+  }
+}

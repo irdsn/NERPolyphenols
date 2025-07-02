@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Bidirectional electrotropism of wheat root.",
+  "abstract": "The fact that all cell organisms have electron transport chains and that all cell organisms need to obtain electron donors and electron acceptors from the environment to survive inspired that all cell organisms should have innate bidirectional tropism toward both electron donors and electron acceptors. Here we confirmed this hypothesis in wheat, that is, under a certain voltage condition, the smaller the current in the culture medium, the more roots grew toward the cathode (electron donor). As the current increases, more and more roots grew toward the anode (electron acceptor). More importantly, although the root growth direction was opposite under certain voltage and current conditions, the growth rate of the plant was increased. Moreover, LC-MS/MS-based metabolomics analysis showed that metabolites involved in energy metabolism (e.g., glucose-6-phosphat, fumaric acid, and L-malic acid) and secondary metabolism (e.g., 4-methoxycinnamic acid, caffeine, and coumarin) are closely related to this behavior. The relationship between bidirectional electrotropism and energy metabolism was further confirmed by examining the gene expression level of enzymes involved in both the glycolysis pathway and tricarboxylic acid cycle, the activity of antioxidant enzymes, the level of cellular ATP, and the inhibition of malonic acid. This study is the first report of bidirectional electrotropism of living organisms, and as the behavior of bidirectional electrotropism is based on the common of all cellular organisms, the ancestral role of this behavior in the origin and evolution of life is desirable.",
+  "publication_date": "2025-06-01",
+  "journal": "The Plant journal : for cell and molecular biology",
+  "doi": "10.1111/tpj.70303",
+  "entities": {
+    "POLYPHENOL": [
+      "(e.g., 4-methoxycinnamic acid",
+      "bidirectional electrotropism",
+      "bidirectional electrotropism and energy metabolism",
+      "bidirectional tropism",
+      "both electron donors",
+      "electron acceptor",
+      "electron acceptors",
+      "electron donors",
+      "electron transport chains",
+      "secondary metabolism",
+      "the cathode (electron donor",
+      "the root growth direction"
+    ],
+    "FOOD": [
+      "wheat"
+    ]
+  }
+}

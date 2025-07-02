@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Flavan-3-ols and Vascular Health: Clinical Evidence and Mechanisms of Action.",
+  "abstract": "Cardiovascular diseases (CVDs) are one of the main causes of mortality and morbidity worldwide. A healthy diet rich in plant-derived compounds such as (poly)phenols appears to have a key role in improving cardiovascular health. Flavan-3-ols represent a subclass of (poly)phenols of great interest for their possible health benefits. In this review, we summarized the results of clinical studies on vascular outcomes of flavan-3-ol supplementation and we focused on the role of the microbiota in CVD. Clinical trials included in this review showed that supplementation with flavan-3-ols mostly derived from cocoa products significantly reduces blood pressure and improves endothelial function. Studies on catechins from green tea demonstrated better results when involving healthy individuals. From a mechanistic point of view, emerging evidence suggests that microbial metabolites may play a role in the observed effects. Their function extends beyond the previous belief of ROS scavenging activity and encompasses a direct impact on gene expression and protein function. Although flavan-3-ols appear to have effects on cardiovascular health, further studies are needed to clarify and confirm these potential benefits and the rising evidence of the potential involvement of the microbiota.",
+  "publication_date": "2024-07-30",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16152471",
+  "entities": {
+    "FOOD": [
+      "cocoa products",
+      "green tea"
+    ],
+    "POLYPHENOL": [
+      "a direct impact",
+      "a mechanistic point",
+      "catechins",
+      "effects",
+      "the observed effects"
+    ]
+  }
+}

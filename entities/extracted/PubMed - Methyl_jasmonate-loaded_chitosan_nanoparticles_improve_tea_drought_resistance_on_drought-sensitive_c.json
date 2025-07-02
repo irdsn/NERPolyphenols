@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Methyl jasmonate-loaded chitosan nanoparticles improve tea drought resistance on drought-sensitive cultivar 'Zhongcha 108'.",
+  "abstract": "DS severely impacts tea plant growth and yield. Foliar application of Methyl jasmonate (MJ) -loaded Chitosan nanoparticles (CNPs) (MJ-CNPs) significantly boost tea DS resistance, necessitating further mechanism exploration. This study comprehensively investigated alterations at the phenotypic, biochemical, and genetic levels. Relative water content, total pigment content, and soluble proteins decreased, while soluble sugar increased significantly under DS and with apparent recovery after MJ-CNPs treatment. Catechins exhibited a significant decrease under DS, especially EGCG (24.6 to 13.4\u00a0mg\u2022g-1), but were absolutely mitigated by treatment. Antioxidant capacities (DPPH, FRAP, ABTS, and SOA) showed a further improvement by MJ-CNPs treatment. Endogenous ABA and SA increased under DS, further elevated by MJ-CNPs. CsNCED, CsPYL8, CsPP2C, CsMYB, and CsABF genes involved in ABA-dependent pathways were confirmed with promoted expressions by foliar pre-treatment. The CsJAZ and CsMYC2 gene family which involved in the jasmonic acid (JA) pathway, displayed varied expression patterns. The integration of metabolite and gene expression levels provided a comprehensive illustration of tea DS tolerance mechanism and offered promising promotion strategies through foliar application of MJ-CNPs.",
+  "publication_date": "2025-05-06",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144004",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant decrease",
+      "apparent recovery",
+      "catechins",
+      "especially egcg",
+      "further mechanism exploration",
+      "tea ds tolerance mechanism"
+    ]
+  }
+}

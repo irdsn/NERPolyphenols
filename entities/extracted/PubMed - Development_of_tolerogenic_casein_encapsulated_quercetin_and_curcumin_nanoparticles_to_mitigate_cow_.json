@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Development of tolerogenic casein encapsulated quercetin and curcumin nanoparticles to mitigate cow milk allergic responses.",
+  "abstract": "Casein protein is a primary cause of cow milk allergies (CMA), a major public health concern. This study aimed to develop casein encapsulated quercetin and curcumin nanoparticles (Nps) to modulate CMA and mitigate adverse immunological responses. Nps were synthesized using anti-solvent precipitation method and evaluated for encapsulation efficiency, loading capacity, and functional group interactions. Nps were orally administered to casein-sensitized Albino Wistar rats to evaluate their immunomodulatory potential. The particle size of Nps ranged from 300 to 550\u00a0nm. Higher encapsulation efficiency of 79.52\u00a0\u00b1\u00a00.334\u00a0%, 64.98\u00a0\u00b1\u00a00.269\u00a0% and loading capacity of 31.81\u00a0\u00b1\u00a00.133\u00a0%, 25.99\u00a0\u00b1\u00a00.107\u00a0% were observed for quercetin and curcumin, respectively. The results depicted that Cas-Qur Nps have smallest size than other prepared NPs with irregular morphologies. Prophylactic treatment with Nps significantly suppressed the serum IgE, IL-4, and WBC count in casein sensitized rats. Furthermore, the Nps, especially Cas-Qur-Cur Nps, enhanced the production of IL-10. Histopathological analysis of the intestine revealed reduced inflammation and a prominent brush border surface epithelium in treated groups compared to positive control. The Nps confirmed the immunomodulatory potential by effectively attenuating allergen specific antibodies production, inflammatory cytokines, and neutrophil infiltration in the casein-sensitized rats. These findings highlight their potential as novel therapeutic approach for the management of CMA.",
+  "publication_date": "2025-05-19",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144396",
+  "entities": {
+    "POLYPHENOL": [
+      "allergen specific antibodies production",
+      "anti-solvent precipitation method",
+      "curcumin",
+      "curcumin nanoparticles",
+      "especially cas-qur-cur nps",
+      "quercetin"
+    ],
+    "SYMPTOM": [
+      "reduced inflammation"
+    ]
+  }
+}

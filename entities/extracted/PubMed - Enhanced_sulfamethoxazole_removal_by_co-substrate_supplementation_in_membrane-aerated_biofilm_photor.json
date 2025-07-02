@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Enhanced sulfamethoxazole removal by co-substrate supplementation in membrane-aerated biofilm photoreactor treating mariculture wastewater: multi-omics insights into performance, microbial mechanisms and antibiotic resistance genes.",
+  "abstract": "The widespread overuse of antibiotics in mariculture poses significant environmental and health risks. Membrane-aerated biofilm photoreactor (MABPR), leveraging membrane aeration and microalgal-bacterial functionality, has demonstrated potential for nitrogen and antibiotic removal from wastewater. However, its application for antibiotic risk control under the high salinity and low organic strength typical of mariculture effluents remains largely unexplored. Co-metabolism, facilitated by co-substrate addition, has emerged as a promising strategy for enhancing antibiotic mitigation under environmental stresses. Yet, its effectiveness and underlying mechanisms in MABPR are not well understood. This study evaluated the effectiveness of external co-substrate (sodium acetate) supplementation for sulfamethoxazole (SMX) removal and control of antibiotic resistance genes (ARGs) in MABPR treating mariculture effluents. Results demonstrated that MABPR could achieve considerable SMX removal from mariculture wastewater. Concurrently, the addition of co-substrate developed an active \"energy conservation-metabolic enzyme machinery\" in MABPR, significantly upregulating the expression of metabolic enzymes and energy conservation pathways (up to 8.25-fold upregulation than control), with microalgae as the primary contributors, thereby fostering metabolic functions and activities. This enhancement significantly improved SMX removal efficiencies by 41.1 %-80.6 %, while also enhancing system resilience even under high SMX loading. Concurrently, co-substrate supplementation alleviated oxidative stress, reducing intracellular reactive oxygen species (ROS) levels by approximately 14 %. Total ARG abundance decreased by 14.2-20.4 % under the co-substrate-amended condition. Transcriptomic analysis revealed that co-substrate addition significantly upregulated antioxidant defense systems while suppressing gene expression involved in the SOS response and conjugative transfer. These transcriptomic changes showed significant correlation with the ARG abundance reductions, suggesting that co-substrate supplementation likely restricts ARG dissemination by modulating cellular stress responses. Our findings not only highlight the potential of external co-substrate supplementation for antibiotic risk mitigation during mariculture wastewater treatment, but also provide unique insights into the co-substrate-mediated underlying regulatory mechanisms for antibiotic risk control in MABPR.",
+  "publication_date": "2025-06-21",
+  "journal": "Water research",
+  "doi": "10.1016/j.watres.2025.124073",
+  "entities": {
+    "SYMPTOM": [
+      "cellular stress responses",
+      "environmental stresses"
+    ],
+    "POLYPHENOL": [
+      "intracellular reactive oxygen species (ros) levels",
+      "its effectiveness",
+      "the co-substrate-mediated underlying regulatory mechanisms",
+      "the effectiveness",
+      "underlying mechanisms"
+    ]
+  }
+}

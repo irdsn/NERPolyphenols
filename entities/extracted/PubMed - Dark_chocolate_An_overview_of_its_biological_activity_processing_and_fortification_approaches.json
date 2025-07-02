@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Dark chocolate: An overview of its biological activity, processing, and fortification approaches.",
+  "abstract": "Dark chocolate gets popularity for several decades due to its enormous health benefits. It contains several health-promoting factors (bioactive components - polyphenols, flavonoids, procyanidins, theobromines, etc, and vitamins and minerals) that positively modulate the immune system of human beings. It confers safeguards against cardiovascular diseases, certain types of cancers, and other brain-related disorders like Alzheimer's disease, Parkinson's disease, etc. Dark chocolate is considered a functional food due to its anti-diabetic, anti-inflammatory, and anti-microbial properties. It also has a well-established role in weight management and the alteration of a lipid profile to a healthy direction. But during the processing of dark chocolate, several nutrients are lost (polyphenol, flavonoids, flavan 3 ol, ascorbic acid, and thiamine). So, fortification would be an effective method of enhancing the overall nutrient content and also making the dark chocolate self-sufficient. Thus, the focus of this review study is to gather all the experimental studies done on dark chocolate fortification. Several ingredients were used for the fortification, such as fruits (mulberry, chokeberries, and elderberries), spices (cinnamon), phytosterols, peanut oil, probiotics (mainlyLactobacillus,bacillusspices), prebiotics (inulin, xanthan gum, and maltodextrin), flavonoids, flavan-3-ols, etc. Those fortifications were done to raise the total antioxidant content as well as essential fatty acid content simultaneously reducing total calorie content. Sometimes, the fortification was done to improve physical properties like viscosity, rheological propertiesand also improve overall consumer acceptance by modifying its bitter taste.",
+  "publication_date": "2022-10-15",
+  "journal": "Current research in food science",
+  "doi": "10.1016/j.crfs.2022.10.017",
+  "entities": {
+    "FOOD": [
+      "a functional food",
+      "cinnamon",
+      "dark chocolate",
+      "dark chocolate fortification",
+      "the dark chocolate"
+    ],
+    "POLYPHENOL": [
+      "a healthy direction",
+      "an effective method",
+      "bioactive components - polyphenols",
+      "flavonoids",
+      "polyphenol, flavonoids",
+      "procyanidins",
+      "several decades"
+    ],
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "cancers",
+      "parkinson's disease"
+    ]
+  }
+}

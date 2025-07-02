@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Phenolic Acid Investigation and In Vitro Antioxidant and Antiacetylcholinesterase Potentials ofGaleopsisspp. (Lamiaceae) from Romanian Flora.",
+  "abstract": "Background/ObjectivesGaleopsisspp. (Lamiaceae) are widely distributed across extensive areas in Romania, being used mainly for their sedative, neuroprotective, antioxidant, anti-inflammatory, expectorant, astringent, and diuretic properties. The paper reports for the first time the investigation of the total phenolic content (TPC), total flavonoid content (TFC), and phenolic acid profile in the roots, aerial parts, and leaves from three wild-grownGaleopsisspp. (G. bifidaBoenn.,G. speciosaMill., andG. tetrahitL.), along with their antioxidant and acetylcholinesterase (AChE) inhibitory potentials.Methods: The ultra-high-performance liquid chromatography/ultraviolet/mass spectrometry (HPLC/UV/MS) method was used for the identification and quantification of key phenolic acids. The spectrophotometric method was applied for the determination of TPC, TFC, 2,2-diphenyl-1-picrylhydrazyl (DPPH), and 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) (ABTS) radical scavenging activities and also the ferric-reducing antioxidant power (FRAP). High-performance thin-layer chromatography (HPTLC) was employed for the assessment of in situ antioxidant (DPPH assay) and AChE inhibitory potentials.Results:Galeopsisspp. exhibit significant polyphenol accumulation. Chlorogenic acid was the most abundant compound, with the highest levels detected inG. tetrahitleaves (22,347.907 \u00b1 1117.395 \u03bcg/g), followed byG. tetrahitaerial parts (11,678.509 \u00b1 583.925 \u03bcg/g) andG. speciosaleaves (8712.628 \u00b1 435.631 \u03bcg/g).G. tetrahitleaves had the highest DDPH radical scavenging activity, with a half-maximal inhibitory concentration (IC50) of 0.458 \u00b1 0.03 mg/mL, demonstrating a markedly stronger antioxidant effect. Leaves consistently showed the strongest DPPH activity across all species, withG. speciosaleaves also displaying a low IC50value of 0.789 \u00b1 0.03 mg/mL, comparable toG. tetrahit. Aerial parts exhibited an intermediate effect, withG. bifidaaerial parts showing an IC50of 8.102 \u00b1 0.49 mg/mL, whileG. tetrahitaerial parts demonstrated stronger activity at 1.511 \u00b1 0.11 mg/mL. AChE inhibition activity increased progressively from the roots to aerial parts to leaves, with leaves consistently exhibiting the strongest inhibitory effects across allGaleopsisspp.G. tetrahitleaves had the strongest inhibition, with an IC50of 4.002 \u00b1 0.32 mg/mL, followed byG. speciosaleaves (6.92 \u00b1 0.14 mg/mL) andG. bifidaleaves (6.97 \u00b1 0.68 mg/mL).Conclusions: Our study provides a comprehensive analysis of the phenolic acid content, in vitro antioxidant activity, and neuroprotective potential of threeGaleopsisspp. (G. bifida,G. speciosa, andG. tetrahit) from the southwestern Romanian flora.",
+  "publication_date": "2025-04-20",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18040599",
+  "entities": {
+    "POLYPHENOL": [
+      "a markedly stronger antioxidant effect",
+      "all species",
+      "an intermediate effect",
+      "andg. speciosaleaves",
+      "background/objectivesgaleopsisspp",
+      "chlorogenic acid",
+      "g. speciosa",
+      "neuroprotective potential",
+      "significant polyphenol accumulation",
+      "the spectrophotometric method",
+      "the strongest inhibitory effects",
+      "the ultra-high-performance liquid chromatography/ultraviolet/mass spectrometry (hplc/uv/ms) method",
+      "their sedative, neuroprotective, antioxidant, anti-inflammatory, expectorant, astringent, and diuretic properties",
+      "total flavonoid content"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Integrated in silico and GC-MS analysis of Momordica charantia Linn. phytocomponents against DiNP phthalate and B[a]P toxicity: A focus on amyloid beta protein and acetylcholinesterase in neurodegenerative disease.",
+  "abstract": "Momordica charantia is renowned for its medicinal properties, driven by its diverse bioactive phytochemicals. This study investigates its potential to mitigate neurodegenerative effects induced by DiNP phthalate and Benzo[a]pyrene (B[a]P), focusing on Amyloid Beta Protein and Acetylcholinesterase (AChE), curing for Alzheimer's disease. GC-MS analysis identified key phytocomponents, including 2-Cyclopenten-1-one, 2-hydroxy and 19-Cycloergost-24(28)-en-3-ol, 4,14. Molecular docking was employed to evaluate the binding affinities of these compounds with the target proteins. The results demonstrated that 2-Cyclopenten-1-one, 2-hydroxy exhibited binding affinities of -8.2 kcal/mol with 3NYL and -9.0 kcal/mol with 7D90, indicating strong interactions with both targets. Similarly, 19-Cycloergost-24(28)-en-3-ol, 4,14 showed superior binding affinities of -8.5 kcal/mol with 3NYL and -9.9 kcal/mol with 7D90. These interactions suggest their ability to inhibit amyloid aggregation and AChE activity, both pivotal in neurodegenerative disease progression. The findings highlight the neuroprotective potential of Momordica charantia phytocomponents, providing evidence of their efficacy against toxicant-induced dysfunctions. This study underscores the value of integrating GC-MS and in silico approaches to identify bioactive compounds and explore their therapeutic mechanisms. Future research may focus on in vivo validation to confirm these promising neuroprotective effect.",
+  "publication_date": "2025-05-27",
+  "journal": "Computational biology and chemistry",
+  "doi": "10.1016/j.compbiolchem.2025.108526"
+}

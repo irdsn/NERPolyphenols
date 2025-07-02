@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Acacetin ameliorates pressure overload-induced cardiac remodeling by targeting USP10 and inhibiting maladaptive cardiomyocyte autophagy.",
+  "abstract": "Numerous drugs have been developed to meet the critical demand for treatments inhibiting cardiac remodeling following cardiovascular disease. Acacetin is a flavonoid with potential therapeutic effects against various cardiovascular diseases.",
+  "publication_date": "2025-03-05",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156588",
+  "entities": {
+    "POLYPHENOL": [
+      "a flavonoid",
+      "potential therapeutic effects"
+    ]
+  }
+}

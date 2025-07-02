@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Coffee and chicory blend: properties, nutrition, and health implications.",
+  "abstract": "Coffee is one of the most widely consumed beverages globally, valued for its refreshing properties, stimulating effects, and biologically active compounds with numerous health benefits. It contains approximately 1-2% caffeine by weight, along with other bioactive compounds such as chlorogenic acid (up to 12%) and melanoidins (30%). Chicory (Cichorium intybusL.), a perennial herb in the Asteraceae family, mimics the sensory and organoleptic qualities of roasted coffee and has a long history of use in coffee blends. Chicory is particularly rich in inulin (~\u200968% of its dry weight), a prebiotic fiber, as well as esculin and chlorogenic acid derivatives. The combination of coffee and chicory enhances key attributes such as brew color, flavor, and viscosity, offering a synergistic blend that combines their nutritional and functional benefits. Medicinal properties include improved digestion, enhanced immunity, and support for gut health. Coffee-chicory blends adhere to regulatory standards to address safety concerns related to contaminants such as mycotoxins (<\u200910\u00a0ppb), acrylamide (<\u2009400\u00a0ppb), and heavy metals like lead (<\u20090.2\u00a0ppm). The versatility of these blends extends to their use as fortifiers, supplements, and additives in functional foods and pharmaceutical products, meeting the growing consumer demand for nutritious and sustainable options. Optimization of blending ratios, such as 70:30 or 60:40 (coffee to chicory), coffee-chicory blends strike a balance between taste, health benefits, and economic value, positioning them as a promising segment in both traditional and emerging markets.",
+  "publication_date": "2025-05-25",
+  "journal": "Journal of food science and technology",
+  "doi": "10.1007/s13197-025-06332-w",
+  "entities": {
+    "FOOD": [
+      "coffee",
+      "coffee blends",
+      "coffee-chicory blends",
+      "functional foods",
+      "roasted coffee"
+    ],
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "economic value",
+      "effects",
+      "esculin and chlorogenic acid derivatives"
+    ]
+  }
+}

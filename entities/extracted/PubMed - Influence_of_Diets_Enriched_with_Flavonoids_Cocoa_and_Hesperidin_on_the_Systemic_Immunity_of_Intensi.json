@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Influence of Diets Enriched with Flavonoids (Cocoa and Hesperidin) on the Systemic Immunity of Intensively Trained and Exhausted Rats.",
+  "abstract": "The aim of this study was to establish the influence of flavonoid-enriched diets on the immune alterations induced by an intensive training and a final exhaustion test in rats. A flavanol-enriched diet (with 10% cocoa, C10 diet) and a flavanol and flavanone-enriched diet (C10 plus 0.5% hesperidin, CH diet) were used. Lewis rats were fed either a standard diet, C10 diet or CH diet while they were submitted to an intensive running training on a treadmill. After 6 weeks, samples were obtained 24 h after performing a regular training (T groups) and after carrying out a final exhaustion test (TE groups). The C10 diet attenuated the increase in plasma cortisol induced by exhaustion, while both the C10 and the CH diets prevented the alterations in the spleen Th cell proportion. The experimental diets also induced an increase in serum immunoglobulin concentration and an enhancement of spleen natural killer cytotoxicity, which may be beneficial in situations with a weakened immunity. Most of the effects observed in the CH groups seem to be due to the cocoa content. Overall, a dietary intervention with flavonoids enhances immune function, partially attenuating the alterations in systemic immunity induced by intensive training or exhausting exercise.",
+  "publication_date": "2022-12-17",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom12121893",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoid-enriched diets",
+      "flavonoids",
+      "the effects"
+    ],
+    "FOOD": [
+      "10% cocoa",
+      "the cocoa content"
+    ]
+  }
+}

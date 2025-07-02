@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Meta-Analysis of Dietary Curcumin Supplementation in Broiler Chickens: Growth Performance, Antioxidant Status, Intestinal Morphology, and Meat Quality.",
+  "abstract": "This study aimed to evaluate the effects of dietary curcumin supplementation on growth performance, serum antioxidant status, intestinal morphology, and meat quality of broiler chickens. The database was constructed with 28 peer-reviewed scientific papers published between January 2013 and January 2025, identified and selected from the Scopus, Web of Science, ScienceDirect, and PubMed databases following the PRISMA methodology. All response variables in the database were analyzed with random effects models using the R statistical software, and the results were reported as weighted mean differences (WMD). Dietary curcumin supplementation did not affect (p> 0.05) average daily feed intake. However, dietary curcumin supplementation increased (p< 0.001) daily weight gain and decreased (p< 0.001) feed conversion ratio. Dietary curcumin supplementation increased (p< 0.01) serum superoxide dismutase, catalase, glutathione peroxidase, and total antioxidant capacity but decreased (p< 0.001) serum malondialdehyde (MDA) concentration. Dietary curcumin supplementation decreased (p< 0.001) crypt depth (CD) and increased (p< 0.001) villus height (VH) and VH/CD ratio in the duodenum. Dietary curcumin supplementation increased (p< 0.05) carcass yield and color (L*, a*, and b*) in meat and, at the same time, decreased (p< 0.01) cooking loss and fat and MDA content in meat. Curcumin can be used as a dietary additive to improve productive performance, antioxidant status in blood serum, intestinal morphology, and meat quality in broiler chickens.",
+  "publication_date": "2025-04-12",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14040460",
+  "entities": {
+    "POLYPHENOL": [
+      "curcumin",
+      "dietary curcumin supplementation",
+      "random effects models",
+      "sciencedirect",
+      "the effects"
+    ]
+  }
+}

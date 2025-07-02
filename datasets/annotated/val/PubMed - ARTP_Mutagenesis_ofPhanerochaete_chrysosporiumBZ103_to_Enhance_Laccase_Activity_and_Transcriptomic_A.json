@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "ARTP Mutagenesis ofPhanerochaete chrysosporiumBZ103 to Enhance Laccase Activity and Transcriptomic Analysis of the Mutants.",
+  "abstract": "Laccases (EC1.10.3.2) are copper-containing polyphenol oxidases with broad applications in wastewater decolorization and fabric bleaching. However, the current levels of laccase production by existing strains are limited, restricting their practical applications. Further research is needed to improve laccase production and understand their secretion mechanisms in white-rot fungi. In this study, atmospheric and room temperature plasma (ARTP) mutagenesis was performed on the white-rot fungusPhanerochaete chrysosporiumBZ103, resulting in the selection of two laccase-hyperproducing mutants, Tx426 and Wx089, with 45 and 30% higher titers, respectively. Transcriptome sequencing revealed 272 upregulated and 226 downregulated genes in the mutant strain Tx426 compared to the original strain (CK), as well as 434 upregulated and 228 downregulated genes in Wx089. Notably, the multicopper oxidase genesmco3Bandmco2Awere significantly upregulated in the laccase-hyperproducing mutants, with expression levels increased by 2.03 and 2.33 times for Tx426 vs. CK, as well as by 1.14 and 1.33 times for Wx089 vs. CK. Based on the transcriptome analysis results, the multicopper oxidase genesmco3Bandmco2Awere significantly up-regulated in the high-yielding laccase mutant strain. Although there is no direct evidence that they are mutated, the significant changes in gene expression are closely related to the enhancement of laccase activity. This study preliminarily analyzed the possible factors related to the synthesis and regulation of laccase in the mutants ofP. chrysosporium. The significantly upregulated multicopper oxidase genesmco3Bandmco2Ain the mutants may play important roles, but the specific mechanism requires further in - depth research.",
+  "publication_date": "2025-06-12",
+  "journal": "Journal of microbiology and biotechnology",
+  "doi": "10.4014/jmb.2502.02014",
+  "entities": {
+    "POLYPHENOL": [
+      "ec1.10.3.2",
+      "no direct evidence",
+      "polyphenol oxidases",
+      "the selection",
+      "the specific mechanism",
+      "their secretion mechanisms",
+      "wastewater decolorization"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Gas Microbubble Formation via Near-Infrared Femtosecond Laser Ablation in Live Cells.",
+  "abstract": "Focused near-infrared femtosecond laser irradiation induces efficient photochemical breakdown of intracellular molecules, resulting in the formation of gas microbubbles that ultimately lead to cell death and removal. This study characterizes these microbubbles using high-speed imaging. Microbubbles generated within cells by single-pulse irradiation are consistently larger than those formed in the surrounding culture medium across a broad pulse energy range. Notably, the energy threshold for intracellular microbubble formation is several tens of nanojoules lower than in the culture medium, enabling precise cell ablation without inducing extracellular bubbling. Repeated pulse irradiation at 1 kHz frequency further reduces the energy threshold and increases bubble size, with saturation observed after ≈30 pulses. Near-threshold pulse irradiation is then employed to develop a precise method for investigating cellular motility in vitro. Cell-free zones are created within cell monolayers, enabling motile cells to migrate into the cleared zones. This method is validated using the A549 lung cancer cell line and the plant flavonoid apigenin, which exhibits dose-dependent reduction in A549 cell motility. These findings highlight the method's potential for evaluating cellular behaviors and screening chemical compounds.",
+  "publication_date": "2025-05-23",
+  "journal": "Chembiochem : a European journal of chemical biology",
+  "doi": "10.1002/cbic.202500086"
+}

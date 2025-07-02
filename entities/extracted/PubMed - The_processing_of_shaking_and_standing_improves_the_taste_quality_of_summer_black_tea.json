@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "The processing of shaking and standing improves the taste quality of summer black tea.",
+  "abstract": "Shaking and standing (SS) enhances the aroma intensity and quality of black tea (BT). However, its contribution to the taste remains unknown, and the interaction mechanism between the aroma and taste perception of black tea is also undisclosed. Here, the metabolomics and sensory evaluation-assisted flavor analysis were employed to investigate the changes in non-volatiles induced by SS, and the interaction mechanism between aroma and taste perception. SSBT exhibited considerable reduced bitterness and astringency intensities compared to BT. Notably, the concentrations of contributing compounds such as catechins, proanthocyanidins, theaflavins, anthocyanins, and flavonol glycosides were decreased in SSBT. Sensory experiments further revealed that nine floral and sweet odorants in SSBT exhibited odor-enhancing interactions. Molecular docking validated the binding affinity and interaction forces between mono/di-ligands and OR1G1/OR52D1. Furthermore, the presence of the nine odorants exerted inhibitory effects on the bitterness and astringency of SSBT. These findings provide a novel perspective on the formation of flavor in SSBT.",
+  "publication_date": "2024-12-30",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2024.115545",
+  "entities": {
+    "FOOD": [
+      "black tea"
+    ],
+    "POLYPHENOL": [
+      "a novel perspective",
+      "catechins",
+      "inhibitory effects",
+      "molecular docking",
+      "proanthocyanidins",
+      "the interaction mechanism"
+    ]
+  }
+}

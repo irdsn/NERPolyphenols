@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Valerenic Acid and Pinoresinol as Positive Allosteric Modulators: Unlocking the Sleep-Promoting Potential of Valerian Extract Ze 911.",
+  "abstract": "Valerian root extracts are widely used as mild sedatives to promote sleep, with clinical studies confirming their efficacy. Their sleep-promoting effects are associated with the adenosine A1 receptor (A1AR), a key regulator of sleep through neural activity inhibition. Adenosine, a neuromodulator that accumulates during wakefulness, activates A1ARs to facilitate sleep transitions. Using advanced analytics, we detected adenosine at 0.05% in the valerian extract Ze 911, supporting direct A1AR activation in vitro. Additionally, we explored A1ARs' allosteric sites for modulatory activity. Valerenic acid and pinoresinol, key constituents of Ze 911, were identified as positive allosteric modulators (PAMs) of A1ARs. Valerenic acid exhibited strong PAM activity, with high cooperativity (\u03b1\u03b2= 4.79 for adenosine and\u03b1\u03b2= 23.38 for CPA) and intrinsic efficacy (\u03c4B= 5.98 for adenosine and\u03c4B= 3.14 for CPA). Pinoresinol displayed weaker PAM activity, with moderate cooperativity (\u03b1\u03b2= 3.42 for adenosine and\u03b1\u03b2= 0.79 for CPA) and limited efficacy (\u03c4B= 0.93 for adenosine and\u03c4B= 1.66 for CPA). The allosteric modulation observed in valerian extract Ze 911 suggests a mechanism of action in which valerenic acid and pinoresinol enhance receptor activation through allosteric interactions, potentially amplifying the effects of endogenous adenosine. By targeting A1ARs' allosteric sites, valerian extract Ze 911 offers increased therapeutic selectivity and reduced off-target effects, emphasizing its potential for managing sleep disorders.",
+  "publication_date": "2025-05-27",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112344",
+  "entities": {
+    "POLYPHENOL": [
+      "a mechanism",
+      "direct a1ar activation",
+      "pinoresinol",
+      "the adenosine a1 receptor",
+      "the effects",
+      "their sleep-promoting effects",
+      "therapeutic selectivity"
+    ]
+  }
+}

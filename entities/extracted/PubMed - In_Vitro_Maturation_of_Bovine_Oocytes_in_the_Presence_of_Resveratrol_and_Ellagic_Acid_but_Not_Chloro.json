@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "In Vitro Maturation of Bovine Oocytes in the Presence of Resveratrol and Ellagic Acid but Not Chlorogenic Acid Modulates Blastocyst Antioxidant Gene Expression Without Impacting Embryo Development and Oxygen Consumption.",
+  "abstract": "In vitro fertilization is used to produce embryos from high-genetic-merit cattle. However, these embryos often exhibit inferior quality than those derived in vivo, possibly due to increased oxidative stress. This study investigates whether adding antioxidant polyphenols (resveratrol (RV), chlorogenic acid (CA), ellagic acid (EA)) to the in vitro maturation (IVM) medium at 0.25, 0.5, and 1 \u03bcM could improve embryo development. Oxygen consumption and gene expression were evaluated at the blastocyst stage following treatment with 1 \u03bcM of each polyphenol. Embryo development (cleavage, blastocyst, and hatched blastocyst rates) and oxygen consumption were not significantly affected by polyphenols. However, RV significantly upregulated the mRNA expression of the antioxidant enzyme glutathione peroxidase 4 (GPX4), while GPX4 expression was significantly downregulated by EA. Expression of other gene markers related to antioxidant defense, apoptosis, development, and metabolism was not significantly affected. The results indicate that applying RV, CA, and EA during bovine oocyte IVM does not enhance in vitro embryo development at the tested concentrations. Given the opposing effects of RV and EA on the expression of GPX4, the effects of those polyphenols regarding the protection of embryos from oxidative stress and potential long-term effects on the offspring remain to be elucidated.",
+  "publication_date": "2025-05-23",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060621",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "increased oxidative stress",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "antioxidant polyphenols",
+      "chlorogenic acid",
+      "each polyphenol",
+      "ellagic acid",
+      "polyphenols",
+      "potential long-term effects",
+      "the effects",
+      "the opposing effects",
+      "the protection",
+      "those polyphenols"
+    ]
+  }
+}

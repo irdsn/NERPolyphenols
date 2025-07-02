@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "N-Alkylamino Stilbene Compounds as Amyloid \u03b2 Inhibitors for Alzheimer's Disease Research.",
+  "abstract": "Alzheimer's disease (AD) is an incurable neurodegenerative disorder that debilitates an overwhelming number of people in the aging population worldwide. The aggregated forms of the amyloid beta (A\u03b2) peptide play an important role in the onset of AD. Small molecules that can bind to A\u03b2 are useful for in vitro assays, in vivo imaging, and in therapeutic research. Herein, a series of compounds that can target A\u03b2 aggregates and inhibit their formation were developed. The interaction of several compounds with the A\u03b2 peptide was found to modulate the formation of aggregates. These N-alkylamino stilbene compounds offer selectivity toward A\u03b2 species against other in situ proteins and have potential for aiding the development of soluble A\u03b2 aggregate selective AD probes.",
+  "publication_date": "2025-06-05",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112471",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "the aging population",
+      "vivo imaging"
+    ],
+    "POLYPHENOL": [
+      "a\u03b2 species",
+      "selectivity",
+      "small molecules",
+      "soluble a\u03b2 aggregate selective ad probes"
+    ]
+  }
+}

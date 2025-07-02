@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Research on the Pharmacodynamic Substances and Mechanism of Action of Tibetan Medicine Liuwei Muxiang Powder in the Treatment of Ethanol-Induced Gastric Ulcer Model of GES1 Cell.",
+  "abstract": "Gastric ulcer (GU) is one of the most common diseases in humans. Liuwei Muxiang powder (LWMXP), a Tibetan medicine, is a traditional compound prescription used for treating GUs. However, there is currently no in-depth report on its effective substances and action mechanisms. In this study, first, the method of serum pharmacochemistry was adopted to identify 61 prototype components and 18 metabolites of LWMXP. Then, network pharmacology was used to predict the core components, key targets, and important pathways of LWMXP for treating GUs. Subsequently, the effects of LWMXP and its core components on the viability, biochemical indices, cell cycle, reactive oxygen species (ROS), and apoptosis rate of gastric epithelial cell line-1 (GES1) cells in the ethanol-induced GU model were explored. After that, molecular docking was utilized to predict the interactions between the positive drug (omeprazole), six core components, and eight key targets of the PI3K-AKT signaling pathway, and Western blot experiment was carried out for verification. Finally, it was determined that LWMXP for treating GES1 cells in the ethanol-induced GU model mainly acts on the PI3K-AKT signaling pathway, and its effective substances include protopine, piperine, eugenol, methyl gallate, gallic acid, and costunolide. This provides ideas for the follow-up research of LWMXP.",
+  "publication_date": "2025-06-05",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202500722",
+  "entities": {
+    "POLYPHENOL": [
+      "action mechanisms",
+      "gallic acid",
+      "its effective substances",
+      "molecular docking",
+      "reactive oxygen species",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "apoptosis rate"
+    ]
+  }
+}

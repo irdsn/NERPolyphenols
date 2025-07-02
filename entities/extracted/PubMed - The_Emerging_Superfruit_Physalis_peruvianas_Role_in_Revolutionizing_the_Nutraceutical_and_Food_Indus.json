@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "The Emerging Superfruit: Physalis peruviana's Role in Revolutionizing the Nutraceutical and Food Industries.",
+  "abstract": "This investigation focuses on the role of the superfruit Physalis peruviana as a functional ingredient in the nutraceutical and food industries. It primarily emphasizes this fruit's therapeutic and nutritional benefits, examining the bioactive compounds present in the plant and detailing their chemical structures along with the health advantages. The review highlights the nutraceutical traits across various literature employing in silico, in vitro, and in vivo models. In alignment with the Sustainable Development Goal for good health (SDG 3), this plant shows significant potential for enhancing well-being by combating cancer with nutrition.",
+  "publication_date": "2025-05-28",
+  "journal": "Current nutrition reports",
+  "doi": "10.1007/s13668-025-00659-8",
+  "entities": {
+    "SYMPTOM": [
+      "cancer"
+    ]
+  }
+}

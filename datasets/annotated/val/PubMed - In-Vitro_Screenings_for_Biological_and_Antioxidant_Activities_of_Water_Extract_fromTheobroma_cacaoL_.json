@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "In-Vitro Screenings for Biological and Antioxidant Activities of Water Extract fromTheobroma cacaoL. Pod Husk: Potential Utilization in Foods.",
+  "abstract": "Increasing production of cocoa (Theobroma cacaoL.) leads to a higher environmental burden due to its solid waste generation. Cocoa pod husk, one of the major solid wastes of cocoa production, contains rich bioactive compounds unveiling its valorization potential. With that in mind, our research aimed to explore the biological and antioxidant activities of aqueous extracts from cocoa pod husks. In this present work, cocoa pod husk was extracted using water and subsequentially partitioned using n-hexane, ethyl acetate, and methanol. The antimicrobial investigation revealed that the ethyl acetate solubles were active against theStaphylococcus aureus,Escherichia coli, andCandida albicans, where at a 20%w/vconcentration, the inhibition diameters were 6.62 \u00b1 0.10, 6.52 \u00b1 0.02, and 11.72 \u00b1 0.36 mm, respectively. The extracts were found non-toxic proven by brine shrimp lethality tests againstArtemia salinawith LC50scores ranging from 74.1 to 19,054.6 \u03bcg/mL. The total phenolic content and total flavonoid content were obtained in the range of 47.44 to 570.44 mg/g GAE and 1.96 to 4.34 mg/g QE, respectively. Antioxidant activities of the obtained extracts were revealed by 2,2-diphenyl-1-picryl-hydrazyl-hydrate (DPPH) assay with EC50reached as low as 9.61 \u03bcg/mL by the ethyl acetate soluble. Phytochemical screening based on gas chromatography-mass spectroscopy analysis on the sample with the highest antioxidant activities revealed the dominant presence of three phytosterols, namely gamma-sitosterol, stigmasterol, and campesterol.",
+  "publication_date": "2021-11-16",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules26226915",
+  "entities": {
+    "FOOD": [
+      "cocoa",
+      "cocoa pod husk",
+      "cocoa pod husks",
+      "cocoa production"
+    ],
+    "POLYPHENOL": [
+      "gas chromatography-mass spectroscopy analysis",
+      "total flavonoid content"
+    ]
+  }
+}

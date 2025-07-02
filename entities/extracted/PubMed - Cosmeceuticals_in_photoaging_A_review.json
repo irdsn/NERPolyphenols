@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Cosmeceuticals in photoaging: A review.",
+  "abstract": "Photoaging is a process of the architecture of normal skin damaged by ultraviolet radiation. Topical cosmeceuticals have been used to treat this condition. The authors aimed to understand the mechanism and level of evidence of different commonly used cosmeceuticals used to treat photodamaged skin.",
+  "publication_date": "2024-09-01",
+  "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+  "doi": "10.1111/srt.13730",
+  "entities": {
+    "POLYPHENOL": [
+      "different commonly used cosmeceuticals",
+      "the architecture",
+      "the mechanism",
+      "topical cosmeceuticals"
+    ]
+  }
+}

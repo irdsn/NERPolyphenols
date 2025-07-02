@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "The Mechanism of Xuanyu Tongjing Decoction Regulating NOD/NF\u03baB Pathway to Inhibit Ectopic Tissue Inflammation to Reduce Ovarian Damage in Rats with Ovarian Endometriosis.",
+  "abstract": "In traditional Chinese medicine texts, Xuanyu Tongjing Decoction (XYTJD) is a prescribed remedy for premenstrual belly pain and dysmenorrhea. It is currently routinely used to treat ovarian endometriosis (OEM) with good outcomes.",
+  "publication_date": "2025-04-09",
+  "journal": "Drug design, development and therapy",
+  "doi": "10.2147/DDDT.S500129",
+  "entities": {
+    "POLYPHENOL": [
+      "xuanyu tongjing decoction"
+    ],
+    "SYMPTOM": [
+      "premenstrual belly pain"
+    ]
+  }
+}

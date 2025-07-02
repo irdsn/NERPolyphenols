@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "The Potential Application of Resveratrol and Its Derivatives in Central Nervous System Tumors.",
+  "abstract": "Resveratrol, a naturally occurring polyphenolic compound found in various plants, has been extensively studied for its broad spectrum of beneficial biological effects. These encompass its potent antioxidant properties, anti-inflammatory activities, anti-aging capabilities, cardioprotective functions, and neuroprotective potential. The diverse biological actions of resveratrol extend beyond these well-established properties. It also exerts a significant impact on metabolic processes and bioavailability, and critically, it demonstrates the ability to effectively traverse the blood-brain barrier. This capacity to penetrate the central nervous system renders resveratrol a promising therapeutic agent for the management of central nervous system malignancies, as it has been shown to inhibit tumor cell proliferation, induce apoptosis, and modulate key signaling cascades, such as PI3K/Akt, JAK/STAT, and NF-kB. The multifaceted nature of resveratrol's biological effects, including its influence on diverse physiological processes, underscores its potential as a valuable therapeutic option for the treatment of central nervous system tumors.",
+  "publication_date": "2024-12-12",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms252413338",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring polyphenolic compound",
+      "beneficial biological effects",
+      "cardioprotective functions",
+      "its broad spectrum",
+      "neuroprotective potential",
+      "resveratrol",
+      "resveratrol's biological effects"
+    ],
+    "SYMPTOM": [
+      "anti-aging capabilities",
+      "apoptosis"
+    ]
+  }
+}

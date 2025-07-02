@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Mechanistic understanding of corn processing by-products valorization via microbial ultrasound-assisted fermentation: Community succession and metabolic changes.",
+  "abstract": "The corn gluten meal-corn stalk mixture (CCM) was used as a fermentation substrate composed of two agricultural by-products: corn gluten meal, obtained during wet milling for starch and syrup production, and corn stalk, a lignocellulosic residue left after corn harvest. To facilitate the valorization of agricultural by-products, ultrasound-assisted fermentation was conducted using Aspergillus niger and Limosilactobacillus fermentum at power densities of 50\u00a0W/L (F-L) and 100\u00a0W/L (F-H), respectively. CCM ultrasound-assisted fermentation led to significant degradation of macromolecules and zein. Compared to the non-ultrasound group, trichloroacetic acid-soluble protein in F-H increased by 6.79-fold, and total amino acids increased by 1.44-fold. Total phenols and flavonoids in F-L and F-H increased, thereby enhancing the antioxidant capacity of CCM. Ultrasound-assisted fermentation primarily increased the abundance of Limosilactobacillus, Pediococcus, Pichia, and Aspergillus, while reducing the abundance of Pantoea, Xanthomonas, Curtobacterium, Staphylococcus, Alternaria, Blumeria, Cladosporium, Fusarium, and Mucor. Environmental acidification drove the microbial community to shift towards more acid-tolerant species. Functional predictions revealed upregulated pathways involved in amino acid and bioactive substance biosynthesis, providing a new perspective on the high-value utilization of CCM.",
+  "publication_date": "2025-06-13",
+  "journal": "Ultrasonics sonochemistry",
+  "doi": "10.1016/j.ultsonch.2025.107429",
+  "entities": {
+    "POLYPHENOL": [
+      "a new perspective",
+      "flavonoids",
+      "macromolecules",
+      "more acid-tolerant species"
+    ]
+  }
+}

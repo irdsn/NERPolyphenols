@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "The impact of irrigation levels and abscisic acid application on the biochemical profiles of strawberries.",
+  "abstract": "This study comprehensively examined the effects of irrigation levels and foliar ABA (absisic acid) applications on the biochemical structure of strawberries. ABA treatments significantly increased the levels of total acid (TA), chlorogenic acid, caffeic acid, ellagic acid, ascorbic acid, sucrose, glucose, fructose, and total soluble solids (TSS), all of which are important for fruit quality. Additionally, 50\u00a0% deficit irrigation level (Ir50) increased TSS content by 17\u00a0%, fructose and glucose by 18\u00a0%, sucrose by 11\u00a0%, total phenolic content by 27\u00a0%, and total antioxidant content by 7\u00a0% compared to the full irrigation (Ir100). ABA treatments with Ir50 practices significantly enhanced the concentrations of TA, syringrid acid, ellagic acid, caffeic acid, chlorogenic acid, TSS, fructose, and glucose, which may contribute to the health consciousness of consumers. This study, therefore, highlights the intricate interactions of ABA treatments and irrigation regarding the biochemical profiles of fruits.",
+  "publication_date": "2025-04-03",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144077",
+  "entities": {
+    "POLYPHENOL": [
+      "caffeic acid",
+      "chlorogenic acid",
+      "ellagic acid",
+      "the effects"
+    ],
+    "FOOD": [
+      "strawberries"
+    ]
+  }
+}

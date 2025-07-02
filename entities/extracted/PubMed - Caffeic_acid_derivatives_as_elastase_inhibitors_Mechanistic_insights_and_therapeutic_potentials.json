@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Caffeic acid derivatives as elastase inhibitors: Mechanistic insights and therapeutic potentials.",
+  "abstract": "Inflammation, a physiological defense mechanism, often involves the overproduction of elastase, a serine protease that degrades structural proteins, and contributes to inflammatory diseases such as chronic obstructive pulmonary disease and rheumatoid arthritis. This study explored the inhibitory effects of caffeic acid and its derivatives, chlorogenic acid and forsythiaside A, on elastase activity. Using enzyme kinetics, multi-spectroscopy, and molecular docking, we demonstrated that all three compounds competitively inhibited elastase, with forsythiaside A exhibiting the highest efficacy among them. Fluorescence and UV-vis spectra demonstrated that elastase interacted with these compounds, causing secondary structural changes. Thermodynamic analyses revealed that electrostatic forces dominated caffeic acid and chlorogenic acid interactions, whereas hydrogen bonding was key for forsythiaside A. Molecular docking also highlighted the role of ortho-phenolic hydroxyl and polyhydroxy groups in enhancing this inhibition. These findings provide molecular insights into the structure-activity relationships of these compounds, emphasizing their potential as scaffolds for developing safer and more effective elastase inhibitors.",
+  "publication_date": "2025-04-11",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.143059",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "rheumatoid arthritis"
+    ],
+    "POLYPHENOL": [
+      "a physiological defense mechanism",
+      "caffeic acid",
+      "caffeic acid and chlorogenic acid interactions",
+      "chlorogenic acid",
+      "electrostatic forces",
+      "forsythiaside a. molecular docking",
+      "molecular insights",
+      "safer and more effective elastase inhibitors",
+      "secondary structural changes",
+      "spectra",
+      "the inhibitory effects"
+    ]
+  }
+}

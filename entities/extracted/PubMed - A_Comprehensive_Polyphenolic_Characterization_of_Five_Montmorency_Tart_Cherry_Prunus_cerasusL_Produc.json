@@ -1,0 +1,38 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "A Comprehensive Polyphenolic Characterization of Five Montmorency Tart Cherry (Prunus cerasusL.) Product Formulations.",
+  "abstract": "The Montmorency tart cherry (Prunus cerasusL., MTC) polyphenols may contribute to reduced inflammation and oxidative stress biomarkers in the body. However, a comprehensive polyphenolic profile of MTC products is lacking. This study provides a comparative analysis of the polyphenolic distribution of individual anthocyanins, flavonols, flavanols, hydroxycinnamic acids, and hydroxybenzoic acids in five MTC products (frozen raw fruit, freeze-dried powder, sweet dried fruit, unsweetened dried fruit, juice concentrate). Twenty-three polyphenols were detected, and 21 were positively identified. Results from three replicates indicate that frozen raw MTC has the most total polyphenolics. Juice concentrate, unsweetened dried MTC, freeze-dried MTC powder, and sweet dried MTC contained 26%, 40%, 60%, and 77% fewer total polyphenolics than frozen raw MTC. Hydroxycinnamic acids, flavonols, and anthocyanins predominated, accounting for 87-99% of total polyphenols in MTC products. Chlorogenic acid, rutin, cyanidin-3-sophoroside, feruloquinic acid, ferulic acid, and coumaric acid isomers were noteworthy polyphenolics. Hydroxycinnamic acids predominated in sweet dried (82%), unsweetened dried (74%), juice concentrate (66%), and frozen-raw (54%) MTC. Flavonols predominated in freeze-dried MTC powder (52%). Anthocyanins, particularly cyanidin glycosides, were important polyphenolics in frozen-raw cherries (18%) but less so in other MTC products. These findings highlight the variability in polyphenols in MTC products and emphasize the importance of selecting appropriate MTC products for specific health benefits.",
+  "publication_date": "2025-03-26",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14071154",
+  "entities": {
+    "POLYPHENOL": [
+      "77% fewer total polyphenolics",
+      "a comprehensive polyphenolic profile",
+      "chlorogenic acid",
+      "cyanidin-3-sophoroside",
+      "ferulic acid",
+      "hydroxycinnamic acids",
+      "important polyphenolics",
+      "mtc) polyphenols",
+      "noteworthy polyphenolics",
+      "particularly cyanidin glycosides",
+      "polyphenols",
+      "rutin",
+      "specific health benefits",
+      "the most total polyphenolics",
+      "the polyphenolic distribution",
+      "total polyphenols",
+      "twenty-three polyphenols"
+    ],
+    "SYMPTOM": [
+      "oxidative stress biomarkers",
+      "reduced inflammation"
+    ],
+    "FOOD": [
+      "frozen-raw cherries",
+      "juice concentrate"
+    ]
+  }
+}

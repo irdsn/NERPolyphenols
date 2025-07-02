@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "The transcription factor Dof32 coordinates salvianolic acid biosynthesis and drought tolerance in Salvia miltiorrhiza.",
+  "abstract": "Drought severely impacts plant growth, yet moderate drought stress can stimulate the biosynthesis of active compounds in medicinal plants. However, the molecular regulators and mechanisms linking drought resistance with the accumulation of active compounds remain poorly understood. In this study, we identified the Dof transcription factor SmDof32 as a key regulator of both salvianolic acid biosynthesis and the drought response in Danshen (Salvia miltiorrhiza). Overexpression of SmDof32 enhanced both the accumulation of medicinal compounds and drought resistance, whereas SmDof32 RNA interference resulted in less accumulation of salvianolic acids and diminished drought tolerance. DNA-affinity purification sequencing (DAP-seq) combined with RNA-sequencing analysis revealed that SmDof32 directly promotes the expression of lipoxygenase (SmLOX8) and rosmarinic acid synthase (SmRAS1), thereby increasing the biosynthesis of jasmonic acid (JA) and salvianolic acids. Further analysis of SmLOX8 overexpression and RNAi lines confirmed that SmLOX8 promotes JA biosynthesis, enhances drought tolerance, and increases salvianolic acid biosynthesis. Moreover, inhibition of JA biosynthesis significantly reduced the positive effects of SmDof32 on salvianolic acid accumulation and drought tolerance. Collectively, these findings suggest that the SmDof32-SmLOX8/SmRAS1 module plays a crucial role in the drought response and accumulation of salvianolic acids, providing genetic targets for breeding S. miltiorrhiza with enhanced medicinal compound content and drought resilience.",
+  "publication_date": "2025-06-01",
+  "journal": "Plant physiology",
+  "doi": "10.1093/plphys/kiaf221",
+  "entities": {
+    "SYMPTOM": [
+      "moderate drought stress"
+    ],
+    "POLYPHENOL": [
+      "mechanisms",
+      "rosmarinic acid synthase",
+      "the molecular regulators",
+      "the positive effects"
+    ]
+  }
+}

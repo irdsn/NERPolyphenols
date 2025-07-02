@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Sustainable Extraction Protocols for the Recovery of Bioactive Compounds from By-Products of Pomegranate Fruit Processing.",
+  "abstract": "This study investigates sustainable extraction protocols for the recovery of bioactive compounds from by-products of various pomegranate (Punica granatumL.) cultivars, including Acco, Hicaz, Jolly Red, Parfianka, Valenciana, and Wonderful, generated during the industrial processing of the fruits. Advanced extraction technologies, including ultrasounds, microwaves, and hydrodynamic cavitation, have been compared to conventional extraction procedures and utilized to enhance extraction efficiency while also minimizing environmental impact. Water-based extraction methods have been utilized to promote the development of sustainable and eco-friendly processes. The comparison between conventional extractions and ultrasound-assisted extractions (UAEs) and microwave-assisted extractions (MAEs) demonstrated notable improvements in extraction yields, particularly for ellagitannins (punicalins, punicalagins, and ellagic acid) and total polyphenols, with increases ranging from about 45 to 200%. However, the increases directly comparing UAEs to MAEs ranged from about 4 to 6%. This indicates that while both UAEs and MAEs offer notable improvements over conventional extractions, the differences in extraction efficiency between the two advanced methods were relatively modest. These advancements were observed across various pomegranate cultivars, highlighting the versatility and effectiveness of these methods. Notably, hydrodynamic cavitation-based extractions (HC) emerged as particularly promising, consistently yielding the highest levels of bioactive compounds (ellagitannins and total polyphenols), especially when operated at higher frequencies. Compared to conventional extractions, HC exhibited substantial increases in extraction yields for Wonderful pomegranate by-products, surpassing the efficiency of both UAEs and MAEs (approximately 45 and 57% for UAE and MAE, respectively, versus about 80% for HC). Among these advanced techniques, HC has emerged as particularly promising, yielding the most favorable results and leading to significant improvements in the yield of bioactive compounds. When directly compared to UAEs and MAEs, HC increased extraction yields by over 20%. Furthermore, HC allowed for shorter extraction times. The Wonderful cultivar consistently exhibited the highest levels of ellagitannins and the highest total polyphenol content among all types of extraction procedures used, whether conventional or advanced. This highlights the great potential of the Wonderful cultivar in terms of bioactive compound extraction and underscores its significance in research and applications related to pomegranate processing and utilization. This study suggests that the implementation of these advanced technologies into extraction processes represents a significant advancement in the field, offering a promising avenue for the development of efficient and environmentally friendly extraction methods for obtaining valuable bioactive compounds from pomegranate processing by-products.",
+  "publication_date": "2024-06-07",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13121793",
+  "entities": {
+    "POLYPHENOL": [
+      "advanced extraction technologies",
+      "effectiveness",
+      "ellagic acid",
+      "ellagitannins",
+      "sustainable and eco-friendly processes",
+      "the highest total polyphenol content",
+      "the recovery",
+      "these advanced techniques",
+      "these advanced technologies",
+      "total polyphenols"
+    ],
+    "FOOD": [
+      "pomegranate processing",
+      "various pomegranate",
+      "various pomegranate cultivars",
+      "wonderful pomegranate"
+    ]
+  }
+}

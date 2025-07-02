@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "In silico pentapeptide design for the inhibition between S100 calcium-binding A9 (S100A9) proteins.",
+  "abstract": "S100 calcium-binding protein A9 (S100A9) is easily assembled into amyloid aggregates in solution. These amyloid aggregates cause retinal toxicity and act as an attachment core for Aβ fibrillar plaques that contribute to Alzheimer's disease progression. The overexpression of S100A9 is also noticed in various malignancies. Therefore, the S100A9 amyloid formation inhibition is of significant interest. In comparison with small-molecule drugs, short peptides demonstrate higher specificity, potency, and biosafety. Hence, it could be beneficial to identify potential peptides to inhibit or disrupt S100A9 amyloid aggregation. Typical peptide design and identification via experimental means requires extensive preparation procedures and is limited to random selection of peptides. Virtual screening therefore offers an unbiased, higher throughput, and economically efficient approach in peptide drug development. Here, we reported in silico pentapeptide design against S100A9 and studied the interaction of pentapeptide with S100A9 that leads to the binding of the peptide with S100A9.",
+  "publication_date": "2025-02-08",
+  "journal": "Journal of molecular modeling",
+  "doi": "10.1007/s00894-025-06298-8"
+}

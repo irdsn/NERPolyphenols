@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Genome-Wide Identification of thePR-1Gene Family inPyrus betulaefoliaBunge and Its Expression Analysis Under Fire Blight Stress.",
+  "abstract": "Fire blight, caused byErwinia amylovora, is a devastating bacterial disease threatening apple, pear, and other Rosaceae species. In our prior study, transcriptome analysis identified a fire blight-resistant variety, Duli (Pyrus betulifoliaBunge), and highlighted the PR1 gene as a key resistance factor. Using Duli's genomic data, we systematically identified and characterized thePb-PR-1gene family through bioinformatics analysis. A total of 31Pb-PR-1genes were found, encoding proteins of 123-341 amino acids. Phylogenetic analysis grouped these genes into four subfamilies, with 27 genes distributed across seven chromosomes, all contain a conserved CAP superfamily domain. Their promoter regions were enriched in hormone and stress-responsive elements. After inoculation withE. amylovora, susceptible Duli showed lesion development by day 2, with rapid disease progression, while resistant plants exhibited slower disease advancement and smaller lesions. Enzyme activity assays revealed that in resistant plants, PPO (polyphenol oxidase) and CAT (catalase) activities peaked on day 6, showing a 2.4-fold and 3.81-fold increase compared to susceptible Duli. At the same time, MDA (malondialdehyde) content decreased by 16.6%. The activities of SOD (superoxide dismutase) and PAL (phenylalanine ammonia-lyase) peaked on day 4, with increments of 34.32% and 47.1% over susceptible Duli. qRT-PCR showed significant differences inPb-PR-1gene family expression between resistant and susceptible plants post-inoculation. Notably,Pb-PR-1-11,Pb-PR-1-21, andPb-PR-1-26expression increased with infection duration, aligning with PPO and CAT activity trends. Other genes showed high early infection expression but declined by day 6.Pb-PR-1-3,Pb-PR-1-6,Pb-PR-1-8,Pb-PR-1-16, andPb-PR-1-30were upregulated 13.17-fold on average by day 2. In summary, thePb-PR-1family exhibited elevated expression during early infection and enhanced defense-related enzyme activities, improving plant resistance. This study provides a foundation for understanding thePR-1family's role in Duli and advancing fire blight resistance in Pyrus species.",
+  "publication_date": "2025-05-24",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26115074",
+  "entities": {
+    "FOOD": [
+      "apple"
+    ],
+    "POLYPHENOL": [
+      "early infection",
+      "high early infection expression",
+      "infection duration",
+      "other rosaceae species",
+      "polyphenol oxidase",
+      "pyrus species"
+    ],
+    "SYMPTOM": [
+      "hormone and stress-responsive elements"
+    ]
+  }
+}

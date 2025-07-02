@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Design, Synthesis, and Antifungal Activity of Novel Stilbene Cyclohexyl Sulfonamide Derivatives againstBotrytis cinerea.",
+  "abstract": "Botrytis cinereahas become an enormous threat to crop production worldwide. In order to discover novel antifungal molecules with high control efficacy againstBotrytis cinerea, a series of cyclohexyl sulfonamide derivatives containing stilbene fragments were designed and synthesized using chesulfamide as a lead compound. Bioassay results indicated that these novel compounds have moderate to excellentin vivoantifungal activity. CompoundsII-9,II-11, andII-15have outstanding control efficacy on strawberries (97.0%, 92.8%, 91.6%) at 400 \u03bcg/mL, surpassing that of control agents boscalid and procymidone (51.4%, 85.0%). CompoundsII-15,II-25,II-27, andII-30have similar activity (up to 90.9%) on tomato pots at 200 \u03bcg/mL as control agents boscalid (85.4%). The preliminary mode of action of compoundII-15was discussed by scanning electron microscope observation, permeability measurement, and a propidium iodide staining experiment. Transcriptome analysis was performed to investigate the influence of compoundII-15on gene expression. Additionally, DFT calculation was used to analyze the molecular orbitals and electrostatic potential distribution of compoundII-15. This work indicates that compoundII-15can be considered a promising candidate for novel fungicides againstBotrytis cinerea.",
+  "publication_date": "2025-06-09",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c11238",
+  "entities": {
+    "POLYPHENOL": [
+      "electron microscope observation",
+      "electrostatic potential distribution",
+      "novel antifungal molecules",
+      "the molecular orbitals"
+    ],
+    "FOOD": [
+      "strawberries",
+      "tomato pots"
+    ]
+  }
+}

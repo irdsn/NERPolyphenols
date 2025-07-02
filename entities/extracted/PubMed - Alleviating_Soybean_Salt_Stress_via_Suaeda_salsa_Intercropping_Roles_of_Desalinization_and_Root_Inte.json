@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Alleviating Soybean Salt Stress via Suaeda salsa Intercropping: Roles of Desalinization and Root Interactions.",
+  "abstract": "Halophyte-based intercropping alleviates salt stress in glycophytes by desalinization. However, the role of root interactions, which are key to system sustainability, is often overlooked. This study evaluated soybean (Glycine max) salt tolerance when intercropped with Suaeda salsa, a halophyte with high salt tolerance, under different root interaction modes: plastic sheet separation (PL), nylon mesh separation (NL), and no separation (NS). Soil electrical conductivity did not differ significantly between NL and PL, indicating that soybean salt tolerance differences arose from root interactions, while the differences between NS and PL resulted from both root interactions and desalinization. Results showed that desalinization significantly reduced Na+and Cl-content in both soil and soybean shoots in saline soils. However, it exacerbated reactive oxygen species (ROS) levels and introduced competition for soluble nutrients, partially counteracting its positive effects on biomass. Root interactions significantly increased soybean biomass by 80% without a significant effect on Na+and Cl-content, but effectively scavenged salt stress-induced ROS through the upregulation of antioxidant enzymes (glutathione peroxidase and glutathione reductase) and non-enzymatic antioxidants (glutathione, melatonin, flavonoids), and alleviated desalinization-induced oxidative damage by further enhancing guaiacol peroxidase and ascorbate peroxidase activities. These results highlight the positive role of root interactions in alleviating soybean salt stress through enhanced antioxidant capacity. Additionally, root interactions demonstrate the capacity to enhance nutrient uptake in soybean such as Ca and Mg. Our findings suggest that, with water and fertilizer management, Suaeda salsa-soybean intercropping can be sustainably cultivated in saline soils.",
+  "publication_date": "2025-06-01",
+  "journal": "Physiologia plantarum",
+  "doi": "10.1111/ppl.70358",
+  "entities": {
+    "SYMPTOM": [
+      "alleviated desalinization-induced oxidative damage",
+      "halophyte-based intercropping alleviates salt stress",
+      "salt stress-induced ros"
+    ],
+    "POLYPHENOL": [
+      "a significant effect",
+      "flavonoids",
+      "its positive effects",
+      "reactive oxygen species (ros) levels",
+      "soil electrical conductivity"
+    ],
+    "FOOD": [
+      "soybean",
+      "soybean biomass",
+      "soybean salt stress",
+      "soybean salt tolerance differences",
+      "soybean shoots",
+      "suaeda salsa-soybean intercropping"
+    ]
+  }
+}

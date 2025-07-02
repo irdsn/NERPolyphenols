@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Catalytic Mechanism of Gut Benzyl Ether Reductase for Efficient Bioconversion of Furofuran Lignans into Enterolignan Precursors.",
+  "abstract": "Enterolignan is a vital anticancer compound, and benzyl ether reductase (BER) plays a key role in its biosynthesis by facilitating lignan biotransformation. Using virtual alanine scanning and site-directed mutagenesis, we identified critical residues influencing BER activity in DSM 2243T. Mutations Y214A, K383A, and K395A led to a near-complete loss of enzymatic activity, highlighting their essential roles. Conversely, the E332Y, G393V, and L515A variants demonstrated over a 2-fold increase in catalytic efficiency compared to the wild-type BER. Molecular docking and dynamics simulations revealed that Y214 and K383 are involved in substrate recognition and binding, while K395, functioning as a catalytic base, forms a critical \u03b73 loop (residues 389-396) that regulates the catalytic pocket's size and spatial resistance. In the wild-type BER, this loop moves inward by 5 \u00c5 upon substrate binding. However, in the E332Y, G393V, and L515A mutants, the loop shifts outward by 4.8, 6.1, and 5.6 \u00c5, respectively, likely enhancing substrate accommodation and catalytic efficiency. This \u03b73 loop movement also appears to influence hydride transfer from cofactors to pinoresinol, which is a crucial step in the catalytic mechanism. These findings offer valuable insights into BER's catalytic mechanism and lay a foundation for enzyme engineering to optimize enterolignan biomanufacturing.",
+  "publication_date": "2025-03-09",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c06619",
+  "entities": {
+    "SYMPTOM": [
+      "a vital anticancer compound"
+    ],
+    "POLYPHENOL": [
+      "ber's catalytic mechanism",
+      "molecular docking and dynamics simulations",
+      "pinoresinol",
+      "substrate recognition",
+      "the catalytic mechanism"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Plectranthus amboinicus: A Systematic Review of Traditional Uses, Phytochemical Properties, and Therapeutic Applications.",
+  "abstract": "Background:Coleus amboinicus(Lour.) (synPlectranthus amboinicus) from the Lamiaceae family-a large family of aromatic herbs with many medicinally important species-is a frequently cited species within thePlectranthusgenus, renowned for its traditional uses, phytochemical composition, biological activities, and applications in skin care.Methods: A systematic review was conducted following PRISMA guidelines to provide an in-depth understanding ofP. amboinicus' phytochemical composition and biological activity, particularly in dermatological contexts, underscoring its significance in traditional medicine and modern phytochemical research.Results:P. amboinicusextracts and essential oils exhibit significant antimicrobial activity against both Gram-positive and Gram-negative bacteria, and notable antifungal properties, particularly against dermatophytes. Additionally, the species demonstrates remarkable mosquito repellent and anti-parasitic effects, comparable to DEET, and potent anti-inflammatory properties by inhibiting pro-inflammatory cytokines. The plant's rich polyphenolic content contributes to its significant antioxidant properties, preventing conditions like hyperpigmentation and premature aging.P. amboinicusalso exhibits cytotoxic activity against various cancer cell lines and promotes wound healing through its analgesic, anti-inflammatory, and antioxidant abilities.Conclusions: This comprehensive exploration ofP. amboinicusvalidates its diverse therapeutic potential across infectious diseases, oncology, and wound care. Further research and clinical trials are warranted to fully elucidate its mechanisms of action and optimize its therapeutic applications, paving the way for its integration into mainstream medical practices.",
+  "publication_date": "2025-05-10",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18050707",
+  "entities": {
+    "POLYPHENOL": [
+      "(synplectranthus amboinicus",
+      "a frequently cited species",
+      "anti-parasitic effects",
+      "infectious diseases",
+      "its mechanisms",
+      "many medicinally important species",
+      "the plant's rich polyphenolic content",
+      "the species",
+      "theplectranthusgenus"
+    ],
+    "SYMPTOM": [
+      "premature aging",
+      "various cancer cell lines"
+    ]
+  }
+}

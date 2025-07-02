@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Design, Synthesis, Theoretical Study, and Antioxidant Activity of Aromaticity-Extended Resveratrol Derivatives Incorporating Chalcogen.",
+  "abstract": "Naturally occurring antioxidants have attracted significant research interest, owing to their radical scavenging ability that can be improved via structural modifications. In this study, aromaticity-extended resveratrol analogues (3-5) containing chalcogens were designed and synthesized using ring closure and Horner-Wadsworth-Emmons reactions. The antioxidant activities of the derivatives were evaluated using 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) (ABST) assay. All resveratrol derivatives (3-5) exhibited higher radical scavenging activities than resveratrol1and analogue2, with benzoselenophene-conjugated derivative5demonstrating the highest activity. The improved antioxidant performance of the resveratrol derivatives was attributed to the extended \u03c0 conjugation resulting from the incorporation of fused rings, benzoheteroles. Additionally, the integration of benzoheteroles into resveratrol contributed to an efficient reduction in HOMO-LUMO gaps. This study demonstrates that aromaticity extension by introducing benzofuran, benzothiophene, and benzoselenophene is a feasible strategy for improving the antioxidant activity of naturally occurring oxidants.",
+  "publication_date": "2025-06-19",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26125872",
+  "entities": {
+    "POLYPHENOL": [
+      ", aromaticity-extended resveratrol analogues",
+      "all resveratrol derivatives",
+      "resveratrol",
+      "resveratrol1and analogue2",
+      "the resveratrol derivatives"
+    ]
+  }
+}

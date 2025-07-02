@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Chemical implications and time reduction of on-farm cocoa fermentation by Saccharomyces cerevisiae and Pichia kudriavzevii.",
+  "abstract": "The use of starters during fermentation has been gaining momentum as it can warrant high-quality chocolate. The objective of this study was to investigate the influence of Saccharomyces cerevisiae (Sc) and Pichia kudriavzevii (Pk) during on-farm fermentation on physico-chemical and microbiological characteristics and levels of methylxanthines and bioactive amines of cocoa. Four treatments were used: ScPk (1:1), only Sc, only Pk, and no starter (control). The starters lead to changes throughout fermentation, but provided fermented cocoa with similar pH, titratable acidity, reducing sugars and phenolic compounds. ScPk shortened fermentation time by 24\u00a0h. The ScPk fermented and dried cocoa had higher levels of monomeric phenols, methylxanthines, phenylethylamine and lower levels of the putrefactive amines - putrescine and cadaverine (p\u00a0<\u00a00.05). The results were confirmed by multivariate analysis. Based on these results, the mixture of both yeasts species is a promising starter for cocoa fermentation decreasing duration time and modulating high-quality components.",
+  "publication_date": "2020-08-12",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2020.127834",
+  "entities": {
+    "FOOD": [
+      "cocoa",
+      "cocoa fermentation",
+      "fermented cocoa",
+      "high-quality chocolate"
+    ],
+    "POLYPHENOL": [
+      "phenolic compounds",
+      "species",
+      "the objective"
+    ]
+  }
+}

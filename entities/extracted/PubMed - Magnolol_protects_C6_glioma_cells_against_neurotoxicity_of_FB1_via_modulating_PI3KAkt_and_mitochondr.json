@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Magnolol protects C6 glioma cells against neurotoxicity of FB1 via modulating PI3K/Akt and mitochondria-associated apoptosis signaling pathways.",
+  "abstract": "Fumonisin B1 (FB1) is a contaminant commonly occurring in crops and food. Mycotoxin contamination, including FB1, has been progressively shown to be an important risk factor in mediating neurotoxicity and neurodegenerative diseases. Studies have found that magnolol (MAG) exhibits favorable pharmacological effects in the central nervous system. However, the protective effects of MAG against FB1-induced neurotoxicity and the molecular pathways involved have not been fully elucidated. Our study aimed to investigate the neuroprotective effects of MAG on FB1-exposed C6 cells and to identify the underlying mechanisms. A model of FB1-induced cytotoxicity in C6 glial cells was established. C6 cells were treated with MAG (40, 80 and 160\u00a0\u03bcM) in the presence/absence of FB1 (15\u00a0\u03bcM) and then assessed for cell viability, cellular and mitochondrial morphology and oxidative stress. The mechanism of action of MAG was revealed using a variety of means including RNA-seq, qRT-PCR, Western blot, immunofluorescence, scanning electron microscopy analysis and agonist validation experiments. Our results indicated that MAG significantly alleviated AFB1-induced C6 astroglial cytotoxicity, as evidenced by elevated cell viability and restoration of overall cellular and mitochondrial morphology. Meanwhile, MAG also alleviated oxidative stress in FB1-exposed C6 cells, with 80\u00a0\u03bcM MAG showing the best effect. Transcriptome analysis showed that PI3K/Akt and apoptosis involved in it might be the key pathway for MAG to treat FB1 neurotoxicity. MAG suppressed FB1-induced mitochondria-dependent apoptosis in C6 cells, primarily manifested by reduced apoptosis rate and reversal of apoptosis-associated protein expression. It was verified that MAG restored the expression of p-PI3K and p-Akt in FB1-treated cells and reversed the downstream effectors IKK\u03b1 and NF-\u03baB via measurement of related protein levels. The rescue experiment using Akt pathway activator (SC79) was further confirmed that activation of the PI3K/Akt signaling pathway is an effective strategy for MAG to mitigate FB1-induced cytotoxicity in C6 astroglial cells.",
+  "publication_date": "2025-03-06",
+  "journal": "Environmental pollution (Barking, Essex : 1987)",
+  "doi": "10.1016/j.envpol.2025.126017",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective strategy",
+      "electron microscopy analysis",
+      "favorable pharmacological effects",
+      "the best effect",
+      "the downstream effectors ikk\u03b1",
+      "the mechanism",
+      "the molecular pathways",
+      "the neuroprotective effects",
+      "the protective effects",
+      "the underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "apoptosis-associated protein expression",
+      "fb1-induced mitochondria-dependent apoptosis",
+      "oxidative stress",
+      "reduced apoptosis rate"
+    ]
+  }
+}

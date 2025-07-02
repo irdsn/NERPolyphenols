@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Biochemical Analysis of Wheat Milling By-Products for Their Valorization as Potential Food Ingredients.",
+  "abstract": "Wheat bran forms the outermost part of the kernel, which is typically discarded as a by-product. Depending on the milling process, bran can be separated into four fractions: coarse bran (CB), coarse weatings (CW), fine weatings (FW), and low-grade flour (LGF). This study aimed to analyze the macronutrient and bioactive compound profiles of these four by-products across five cultivars and two wheat mixtures. Dietary fibers, free and bound phenolics, phytic acid, fatty acids, and aleurone layer markers were examined in all samples. The results indicate that insoluble fibers, phenolic compounds, and phytic acid decreased from CB to LGF, whereas soluble fiber content exhibited a greater variability among fractions. In all samples, coarse bran was the richest fraction in the protein 7S globulin. The same fraction from the two commercial mixtures and Manitoba cultivar exhibited significantly higher levels of bound ferulic acid compared to the other cultivars (+34%). Manitoba CB also had the highest oleic acid content (18.04% of total lipid content) among all samples, followed by the Rumeno cultivar (17.75%), which also had the highest linolenic acid content (6.35%). Given their health-promoting and technological potential, these by-products could be selectively used to enrich food products and dietary supplements with functional nutrients.",
+  "publication_date": "2025-06-18",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26125830",
+  "entities": {
+    "FOOD": [
+      "two wheat mixtures",
+      "wheat bran"
+    ],
+    "POLYPHENOL": [
+      "bound ferulic acid",
+      "phenolic compounds",
+      "their health-promoting and technological potential"
+    ]
+  }
+}

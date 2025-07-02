@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Lactobacillus fermentumZC529 Protects Intestinal Epithelial Barrier Integrity by Activating the Keap1-Nrf2 Signaling Pathway and Inhibiting the NF-\u03baB Signaling Pathway.",
+  "abstract": "The probiotic bacteriaLactobacillus fermentumZC529 (L.fZC529) has been identified from the colon of the Diannan small-ear (DSE) pig, but its intestinal protective function still lacks investigation. Here, we established a dextran sodium sulfate (DSS)-induced intestinal oxidative stress model in bothDrosophilaand porcine small intestinal epithelial (IPEC-J2) cell lines to explore the anti-oxidative and anti-inflammatory effects ofL.fZC529. The data showed that the intestinal colonization ofL.fZC529 counteracted DSS-induced intestinal oxidative stress and excessive reactive oxygen species (ROS) generation by activation of the CncC pathway, a homology of the nuclear factor erythroid 2-related factor 2 (Nrf2) in mammalian systems. Moreover,L.fZC529 supplementation prevented flies from DSS-induced intestinal barrier damage, inflammation, abnormal excretory function, and shortened lifespan. Finally,L.fZC529 also attenuated DSS-induced intestinal injury in the IPEC-J2 cell line by activating the Keap1-Nrf2 signaling and inhibiting the NF-\u03baB signaling pathways. Together, this study unraveled the profound intestinal protective function ofL.fZC529 and provides its potential application as a new antioxidant in improving animal intestinal health as well as in developing a new probiotic in the food industry.",
+  "publication_date": "2025-06-14",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060732",
+  "entities": {
+    "POLYPHENOL": [
+      "(ipec-j2",
+      "excessive reactive oxygen species (ros) generation",
+      "its intestinal protective function",
+      "the anti-oxidative and anti-inflammatory effects",
+      "the ipec-j2 cell line",
+      "the profound intestinal protective function"
+    ],
+    "SYMPTOM": [
+      "dss)-induced intestinal oxidative stress model",
+      "dss-induced intestinal oxidative stress",
+      "inflammation"
+    ]
+  }
+}

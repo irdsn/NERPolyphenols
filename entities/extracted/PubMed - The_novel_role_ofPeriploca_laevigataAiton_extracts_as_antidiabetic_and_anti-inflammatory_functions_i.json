@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "The novel role ofPeriploca laevigataAiton extracts as antidiabetic and anti-inflammatory functions in pancreatic \u0392 cells exposed to hyperglycaemia.",
+  "abstract": "Type 2 diabetes (T2D) is a major health issue characterized by glucose intolerance and insulin resistance, resulting in elevated blood glucose levels and insufficient insulin production by the pancreatic \u03b2-cells. This dysfunction triggers a chronic inflammatory immune response. Given the documented benefits of medicinal plants in managing diabetic complications and the therapeutic potential ofPeriploca laevigataAiton (PL) extracts, this study evaluated their antidiabetic and anti-inflammatory properties using the pancreatic \u03b2-cell line INS-1E under hyperglycemic conditions. Root, fruit, and Leaf extracts of PL were prepared, phytochemically characterized, and assessed for anti-inflammatory effects via RT-qPCR in glucose-treated INS-1E cells. A non-cytotoxic concentration (0.125\u00a0mg/mL) was selected for all assays. Phytochemical screening revealed the presence of tannins and flavonoids, compounds associated with antidiabetic and anti-inflammatory activity. Notably, PL extracts upregulated insulin gene expression, with Leaf extracts exhibiting the most pronounced effects: they significantly enhanced GLUT-2 and PDX-1 gene expression in glucose-treated INS-1E cells. Additionally, PL extracts downregulated iNOS while upregulating IL-10 gene expression. A trend toward reduced NF-\u03baB and MCP-1 gene expression was also observed. Collectively, these results suggest that PL extracts could improve pancreatic \u03b2-cell function and mitigate inflammation, highlighting their potential as adjunct therapy for T2D.",
+  "publication_date": "2025-06-02",
+  "journal": "Journal of diabetes and metabolic disorders",
+  "doi": "10.1007/s40200-025-01654-0",
+  "entities": {
+    "SYMPTOM": [
+      "glucose intolerance",
+      "inflammation",
+      "insulin resistance",
+      "type 2 diabetes"
+    ],
+    "POLYPHENOL": [
+      "anti-inflammatory effects",
+      "flavonoids",
+      "tannins",
+      "the most pronounced effects"
+    ]
+  }
+}

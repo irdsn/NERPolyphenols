@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Functional properties of insoluble dietary fibers extracted from different grape pomaces during simulated digestion andin vitrofermentation.",
+  "abstract": "This study investigated insoluble dietary fibers (IDFs) extracted from the grape pomaces of Cabernet Sauvignon (CS-IDF), Marselan (MS-IDF), and Merlot (ML-IDF). It explored the release patterns and potential bioactivities of dietary fiber-bound polyphenols from these sources through simulated digestion andin vitrocolonic fermentation. The results showed a higher polyphenol content in MS grape skins, which also yielded more IDF. Bound polyphenols were released more effectively during fermentation than during digestion. Caffeic acid and epicatechin disappeared during the fermentation stage, while compounds such as chlorogenic acid, catechin, and myricetin appeared. Gentisic acid was the most abundant monomeric phenolic compound in the fermentation fluid. The released polyphenols exhibited strong antioxidant properties and digestive enzyme inhibitory activity. Fermentation of the IDFs increased propionic acid and total short-chain fatty acid (SCFA) levels, particularly in the CS-IDF and MS-IDF groups. MS-IDF also elevated the relative abundance ofAcidaminococcus fermentans, a key SCFA producer. Additionally, all IDFs promoted the growth of beneficial gut bacteria such asBacteroides H uniformisandPhascolarctobacterium A faecium, while reducing harmful bacteria such asEscherichia. Correlation analysis revealed a positive relationship between released polyphenols and the relative abundance of beneficial gut bacteria, includingParabacteroides B 862006 distasonisandMitsuokella multacida. These findings suggest that dietary fiber-bound polyphenols exhibit significant bioactivity in the gastrointestinal tract, with MS-IDF showing particular advantages in promoting gut health and bioactive compound release.",
+  "publication_date": "2025-06-16",
+  "journal": "Food & function",
+  "doi": "10.1039/d4fo06074a",
+  "entities": {
+    "FOOD": [
+      "ms grape skins",
+      "the grape pomaces"
+    ],
+    "POLYPHENOL": [
+      "a faecium",
+      "a higher polyphenol content",
+      "bound polyphenols",
+      "caffeic acid",
+      "catechin",
+      "chlorogenic acid",
+      "dietary fiber-bound polyphenols",
+      "epicatechin",
+      "gentisic acid",
+      "myricetin",
+      "released polyphenols",
+      "the most abundant monomeric phenolic compound",
+      "the released polyphenols"
+    ]
+  }
+}

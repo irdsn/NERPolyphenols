@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Anti-cancer Properties of Epigallocatechin-3-gallate (EGCG) and its Signaling Pathways.",
+  "abstract": "Green tea is a traditional drink found in Asian countries, made up of four derivatives. One of the derivatives is epigallocatechin-3-gallate (EGCG). EGCG provides therapeutic benefits for cancer, heart disease, diabetes, and obesity. However, its poor absorption and instability limit its effectiveness, which can be improved using nanoparticle encapsulation. This work is a comprehensive review of the studies on green tea polyphenols, the impact of pro-oxidants and EGCG in cancer prevention, and their delivery using nanotechnology. Other plant sources of ellagitannin and its physicochemical properties, the therapeutic and preventive role of EGCG in breast cancer, and other cancers that can be treated using nano gold (NpAu) carriers are also discussed.",
+  "publication_date": "2025-04-17",
+  "journal": "Current medicinal chemistry",
+  "doi": "10.2174/0109298673348926250331150429",
+  "entities": {
+    "FOOD": [
+      "green tea"
+    ],
+    "POLYPHENOL": [
+      "egcg",
+      "epigallocatechin-3",
+      "green tea polyphenols",
+      "its effectiveness",
+      "nanotechnology"
+    ],
+    "SYMPTOM": [
+      "breast cancer",
+      "cancer",
+      "cancer prevention",
+      "obesity",
+      "other cancers"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Shoutai pill exhibits anti-miscarriage efficacy through tripartite modulation of gut microbiota, systemic metabolism, and maternal-fetal immunity: A multi-omics analysis.",
+  "abstract": "Shoutai pill (STP)-a classical Chinese herbal formula-is clinically used to manage miscarriage, albeit its bioactive constituents and pharmacological mechanisms are not incompletely characterized.",
+  "publication_date": "2025-06-19",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156991",
+  "entities": {
+    "POLYPHENOL": [
+      "pharmacological mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "\"Chilling-induced hardening\" or \"chilling-induced softening\"? A scientific insight on cold shock effects on strawberry phenotypic quality and pectin metabolism.",
+  "abstract": "This study aims to elucidate chilling-induced palatability of strawberries by cold shock mechanism, focusing on pectin remodeling and associated quality dynamics during postharvest storage. Strawberries were subjected to cold shock treatments (30-120\u00a0min) and stored for 10\u00a0days. Results revealed moderate cold shock (30\u00a0min) maintained sensory acceptance (2.45 vs. 0.65 to controls), firmness (2.22\u00a0kg/cm2vs. 1.51\u00a0kg/cm2), and reduced weight and moisture loss. It also inhibited changes in total soluble solids, titratable acidity, phenolics, anthocyanins and ascorbic acid, while lowering malondialdehyde accumulation. Enzymatic activity related to pectin degradation decreased by 20-37\u00a0%, leading to significant reduction in water-soluble pectin and corresponding growths in alkali- and chelator-soluble fractions. Monosaccharide profiling revealed elevated galacturonic acid and reduced glucose and galactose. Correlation analysis confirmed that cold shock intensity determines quality trajectory. These findings promote preservation technology by elucidating the mechanism by which moderate cold shock enhances cell wall integrity.",
+  "publication_date": "2025-05-19",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144831",
+  "entities": {
+    "FOOD": [
+      "strawberries"
+    ],
+    "POLYPHENOL": [
+      "cold shock mechanism",
+      "pectin degradation",
+      "pectin remodeling",
+      "preservation technology",
+      "quality trajectory",
+      "the mechanism",
+      "water-soluble pectin"
+    ]
+  }
+}

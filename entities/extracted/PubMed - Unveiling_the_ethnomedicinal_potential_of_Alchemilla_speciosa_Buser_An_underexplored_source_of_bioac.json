@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Unveiling the ethnomedicinal potential of Alchemilla speciosa Buser: An underexplored source of bioactive compounds for skin health.",
+  "abstract": "Alchemilla (lady's mantle) species have been used for centuries in traditional medicine to treat various skin ailments. Topical preparations of Alchemilla (e.g., A. vulgaris L.) are applied to wounds, rashes, eczema, and acne, leveraging the plant's notable astringent and anti-inflammatory properties. These longstanding uses underscore the therapeutic potential of Alchemilla for skin health in ethnomedicine.",
+  "publication_date": "2025-05-30",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.120068",
+  "entities": {
+    "POLYPHENOL": [
+      "eczema",
+      "lady's mantle) species"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Unraveling Bifurcating Pathways for CO and HCOOH Formation: Insights from Stopped-Flow FTIR Spectroscopy of a Second-Sphere Modified Mn Catalyst.",
+  "abstract": "Manganese bipyridine tricarbonyl complexes show high efficiency and selectivity in electrochemical CO2reduction (e-CO2RR) to CO. Efforts to shift selectivity toward HCOOH have been made by introducing second-sphere hydroxyl or amine functional groups and using amines or proton-coupled electron transfer (PCET) mediators. However, the direct spectroscopic evidence for the bifurcation pathways leading to CO and HCOOH remained elusive. Using stopped-flow mixing with decamethyl cobaltocene reductant and time-resolved infrared (TRIR) spectroscopy, we identified, for the first time, the key intermediates in this bifurcation pathway for an Mn complex with second-sphere hydroxyl groups in real time under catalytic conditions. The measured rate constants align with reported TOF values from electrochemical studies, validating the relevance of the results to e-CO2RR conditions. Our findings reveal that HCOOH production involves proton transfer from hydroxyl groups to the doubly reduced Mn center, forming the Mn-hydride intermediate, followed by CO2insertion, leading to the Mn-formate intermediate. However, the inability of the resulting phenolate to rebind protons from weak acids like water leads to rapid catalyst degradation, limiting sustained catalysis. This work provides mechanistic insights and paves the way for designing molecular catalysts with enhanced selectivity and stability for HCOOH production during e-CO2RR.",
+  "publication_date": "2025-06-18",
+  "journal": "Journal of the American Chemical Society",
+  "doi": "10.1021/jacs.5c04274",
+  "entities": {
+    "POLYPHENOL": [
+      "decamethyl cobaltocene reductant",
+      "electrochemical co2reduction",
+      "electrochemical studies",
+      "enhanced selectivity",
+      "mechanistic insights",
+      "molecular catalysts",
+      "proton-coupled electron transfer (pcet) mediators",
+      "second-sphere hydroxyl",
+      "second-sphere hydroxyl groups",
+      "selectivity",
+      "the direct spectroscopic evidence",
+      "time-resolved infrared (trir) spectroscopy"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Mechanism of Huayu Qutan recipe anti-atherosclerosis mediates lipophagymammalian target of rapamycin complex 1/ transcription factor EB signaling pathway in ApoE-/-mice.",
+  "abstract": "To investigate the effects of Huayu Qutan recipe (, HYQT) on the atherosclerosis (AS) model of ApoE-/- mice with a high-fat diet and to illustrate the underlying mechanisms from modern patho-physiological conceptualizations.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+  "doi": "10.19852/j.cnki.jtcm.2025.02.016",
+  "entities": {
+    "POLYPHENOL": [
+      "huayu qutan recipe",
+      "the effects",
+      "the underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "the atherosclerosis"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Green biosynthesis of carbon quantum dots from lotus seed plumules for folic acid detection and bioimaging applications.",
+  "abstract": "This study introduces a novel green hydrothermal synthesis approach using lotus seed plumules to prepare carbon quantum dots (L-CQDs) and systematically evaluates their potential applications in folic acid (FA) detection and bioimaging. L-CQDs, enriched with phytochemical constituents such as alkaloids and flavonoids, exhibit superior optical properties, biocompatibility, and low toxicity. For FA detection, L-CQDs demonstrated high sensitivity and specificity, achieving a limit of detection (LOD) of 0.27 μM with a binding constant (KSV​) of 4271.04 L·mol-1. Their practical applicability was confirmed through successful FA detection in human serum samples. Investigations into fluorescence lifetime, NMR, and zeta potential revealed that the interaction between L-CQDs and FA followed a static quenching mechanism, forming stable complexes. Both in vitro and in vivo experiments validated their low toxicity and biosafety, alongside significant imaging capabilities. These findings establish L-CQDs as efficient and multifunctional fluorescent probes for FA detection and biomedical research.",
+  "publication_date": "2025-01-30",
+  "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+  "doi": "10.1016/j.saa.2025.125825"
+}

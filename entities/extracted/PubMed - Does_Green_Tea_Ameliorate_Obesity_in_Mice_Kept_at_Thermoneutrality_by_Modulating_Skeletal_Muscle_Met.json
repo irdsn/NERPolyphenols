@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Does Green Tea Ameliorate Obesity in Mice Kept at Thermoneutrality by Modulating Skeletal Muscle Metabolism?",
+  "abstract": "The effects of green tea on metabolic diseases such as obesity and diabetes have been extensively studied. Obesity often leads to insulin resistance, particularly in peripheral tissues such as skeletal muscle. Green tea has shown promise in mitigating insulin resistance in several diet-induced obesity models. However, its ability to improve insulin sensitivity by modulating skeletal muscle metabolism in the absence of metabolic stress, such as constant cold exposure, remains unclear. Therefore, the aim of this study was to evaluate the effect of green tea on skeletal muscle metabolism in high-fat diet (HFD)-induced obese mice maintained at thermoneutrality (28\u00b0C). Male C57BL/6 mice were fed a control diet or an HFD for 4 weeks. Then, the HFD group mice were treated with green tea extract (500\u2009mg/kg of body weight) while maintained at thermoneutrality (28\u00b0C). At the end of the experimental protocol, we performed metabolic analyses. This study suggested that green tea treatment attenuates the negative effects of HFD by improving muscle fiber cross-sectional area in the gastrocnemius muscle and increasing the expression of genes involved in lipid metabolism. Although no effect was observed on fatty acid oxidation, green tea improved insulin and glucose sensitivity, as evidenced by glucose and insulin tolerance tests. It also increased the expression of genes associated with glucose uptake and lactate dehydrogenase activity in skeletal muscle. These findings suggest that green tea treatment improves insulin sensitivity by influencing skeletal muscle metabolism even in obese mice maintained at thermoneutrality.",
+  "publication_date": "2025-06-01",
+  "journal": "Cell biochemistry and function",
+  "doi": "10.1002/cbf.70094",
+  "entities": {
+    "POLYPHENOL": [
+      "muscle fiber cross-sectional area",
+      "no effect",
+      "the effect",
+      "the effects",
+      "the negative effects"
+    ],
+    "FOOD": [
+      "green tea",
+      "green tea extract",
+      "green tea treatment"
+    ],
+    "SYMPTOM": [
+      "insulin resistance",
+      "metabolic stress",
+      "obesity",
+      "several diet-induced obesity models"
+    ]
+  }
+}

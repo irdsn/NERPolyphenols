@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Analysis of Microbial Community Diversity on the Epidermis of Wine Grapes in Manasi's Vineyard, Xinjiang.",
+  "abstract": "Epiphytic microbial communities significantly impact the health and quality of grape berries. This study utilized high-performance liquid chromatography and high-throughput sequencing to explore the epiphytic microbial diversity and physicochemical indicators in nine different wine grape varieties. In total, 1,056,651 high-quality bacterial 16S rDNA sequences and 1,101,314 fungal ITS reads were used for taxonomic categorization. Among the bacteria, Proteobacteria and Firmicutes were the dominant phyla, andMassilia,Pantoea,Pseudomonas,Halomonas,Corynebacterium,Bacillus,Anaerococcus,andAcinetobacterwere the dominant genera. Among the fungi, Ascomycota and Basidiomycota were the dominant phyla, andAlternaria,Filobasidium,Erysiphe,Naganishia, andAureobasidiumwere the dominant genera. Notably, Matheran (MSL) and Riesling (RS) exhibited the highest microbial diversity among the nine grape varieties. Moreover, pronounced differences in epiphytic microorganisms in red and white grapes suggested that the grape variety significantly influences the structure of surface microbial communities. Understanding the composition of epiphytic microorganisms on the grape skin can provide a direct guide to winemaking.",
+  "publication_date": "2022-10-12",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods11203174",
+  "entities": {
+    "FOOD": [
+      "grape berries",
+      "nine different wine grape varieties",
+      "red and white grapes",
+      "the grape skin",
+      "the grape variety",
+      "the nine grape varieties"
+    ],
+    "POLYPHENOL": [
+      "a direct guide"
+    ]
+  }
+}

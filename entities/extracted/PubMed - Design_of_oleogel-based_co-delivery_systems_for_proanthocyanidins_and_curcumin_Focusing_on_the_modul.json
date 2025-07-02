@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Design of oleogel-based co-delivery systems for proanthocyanidins and curcumin: Focusing on the modulation of interfacial and oleogel structures by emulsifiers.",
+  "abstract": "This research offers valuable understanding of the structural and functional attributes of water-in-oleogel emulsions (OGEs) containing proanthocyanidins and curcumin, highlighting the relationship between their rheological characteristics and gastrointestinal fate. By altering emulsifier types (PGPR, lecithin, zein, or none), OGEs demonstrate unique mechanical characteristics and digestion profiles. Microscopic observations confirmed emulsion formation, with polarized light microscopy revealing interfacial crystallization in OGE-zein. Interfacial tension analysis indicated synergistic interactions between carnauba wax and emulsifiers. Rheological analysis showed that PGPR and lecithin weakened the crystal network, while zein enhanced its density and stability. In vitro digestion revealed that the emulsions with PGPR and lecithin had lower bioaccessibility of proanthocyanidins and curcumin, whereas OGE-zein showed the highest free fatty acids release and bioaccessibility. Correlation analysis indicated that stronger oleogel matrices improve the bioaccessibility of co-encapsulated nutrients. These results provide insights for designing functional OGEs for low-fat foods and bioactive compound delivery systems.",
+  "publication_date": "2025-04-21",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144354",
+  "entities": {
+    "POLYPHENOL": [
+      "curcumin",
+      "lecithin",
+      "proanthocyanidins",
+      "unique mechanical characteristics"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Elucidating the molecular interactions and immune modulation of bisphenols exposure in the pathogenesis of polycystic ovary syndrome.",
+  "abstract": "Bisphenols (BPs) are known endocrine disruptors potentially contributing to the pathogenesis of Polycystic Ovary Syndrome (PCOS). This study aims to elucidate the molecular interactions between BPs and PCOS-related genes and their combined effects on PCOS development. We identified common genes associated with BPs and PCOS using the CTD. Differential expression analysis was performed on three GEO datasets, leading to the identification of differentially expressed genes (DEGs). Protein-Protein Interaction (PPI) network construction, enrichment analysis, single-gene Gene Set Enrichment Analysis (GSEA), and immune cell infiltration analysis were carried out. A nomogram was developed for PCOS risk prediction, and molecular docking studies were performed using AutoDock Vina, with interaction visualizations via PyMOL. We identified 139 common genes between BPs exposure and PCOS, enrichment analysis highlighted pathways related to hormone metabolism, ovarian steroidogenesis, and p53 signaling. Four hub DEGs (PBK, CCNE2, LPCAT2, S100P) were identified, and a nomogram incorporating these genes demonstrated excellent predictive accuracy. GSEA revealed roles in cell adhesion, immune response, and metabolism. ssGSEA analysis showed significant differences in immune cell infiltration between PCOS and control groups, with notable correlations between hub DEGs and immune cells. Molecular docking indicated strong binding affinities between the hub DEGs and BPAF, suggesting potential disruptions induced by BPs. BPs exposure is associated with significant molecular and immunological changes in PCOS, impacting genes involved in hormone regulation, immune response, and metabolic pathways. The strong binding affinities between BPs and key PCOS-related genes reveal their potential role in exacerbating PCOS, providing insights for targeted therapeutic strategies.",
+  "publication_date": "2024-09-21",
+  "journal": "Reproductive toxicology (Elmsford, N.Y.)",
+  "doi": "10.1016/j.reprotox.2024.108723",
+  "entities": {
+    "POLYPHENOL": [
+      "molecular docking",
+      "molecular docking studies",
+      "significant molecular and immunological changes",
+      "the molecular interactions",
+      "their combined effects"
+    ]
+  }
+}

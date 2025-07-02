@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "The Role of Resveratrol in Aging and Senescence: A Focus on Molecular Mechanisms.",
+  "abstract": "Resveratrol (Res), a polyphenol found in red wine, has been shown to decelerate aging, the progressive loss of physiological integrity and cellular senescence, characterized by the inability to progress through the cell cycle. No successful clinical trials have yet to be completed in humans on dose limitations. Yet, the potent anti-aging and anti-senescence efficacy of Res has been documented in several in vivo animal models. In this review, we highlight the molecular mechanisms of Res efficacy in antiaging disorders, such as diabetes, neurodegenerative disorders, eye diseases, and cardiovascular diseases.",
+  "publication_date": "2024-07-01",
+  "journal": "Current molecular medicine",
+  "doi": "10.2174/1566524023666230602162949",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol",
+      "resveratrol",
+      "the molecular mechanisms"
+    ],
+    "FOOD": [
+      "red wine"
+    ],
+    "SYMPTOM": [
+      "aging",
+      "the potent anti-aging and anti-senescence efficacy"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "Use ofHaloxylon scopariumAgainst Multidrug-Resistant Bacteria from Urinary Tract Infections.",
+  "abstract": "The emergence of multidrug-resistant bacteria in the urinary tract and the decrease in the efficacy of antibiotics prompted us to evaluate the antibacterial activity of the methanolic extract of the aerial parts ofHaloxylon scopariumagainst six isolated (MDR) bacteria.",
+  "publication_date": "2025-05-06",
+  "journal": "Antibiotics (Basel, Switzerland)",
+  "doi": "10.3390/antibiotics14050471",
+  "entities": {
+    "POLYPHENOL": [
+      "the decrease"
+    ]
+  }
+}

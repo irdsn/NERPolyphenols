@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Nutrient acquisition of gut microbiota: Implications for tumor immunity.",
+  "abstract": "The gut microbiota is essential in colorectal cancer (CRC) development, progression, and therapeutic responsiveness through its metabolic acquisitions and immunomodulatory functions. The composition of gut microbiota is shaped by habitat filters such as oxygen availability, dietary components, and host-derived factors, which influence both bacterial colonization and metabolic strategies. Furthermore, microbial metabolism of carbohydrates, proteins, and lipids produces metabolites, including short-chain fatty acids (SCFAs), polyamines, ammonia, hydrogen sulfide, and secondary bile acids (BAs). These microbial metabolites can either support anti-tumor immune surveillance or promote tumorigenesis depending on their type, concentration, and the host context. Consequently, interventions such as high-fiber diets, prebiotic and probiotic supplementation, and fecal microbiota transplantation (FMT) have emerged as promising strategies to reshape the gut ecosystem and improve CRC treatment efficacy. This review summarizes current insights into microbial nutrient metabolism, discusses the immune-regulatory effects of key microbial metabolites, and explores microbiota-targeted strategies for enhancing antitumor efficacy. Understanding these interactions offers new therapeutic opportunities for cancer prevention and treatment.",
+  "publication_date": "2025-06-13",
+  "journal": "Seminars in cancer biology",
+  "doi": "10.1016/j.semcancer.2025.06.003"
+}

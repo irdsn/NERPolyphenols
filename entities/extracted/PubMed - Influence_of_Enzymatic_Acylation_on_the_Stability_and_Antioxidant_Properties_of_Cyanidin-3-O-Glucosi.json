@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Influence of Enzymatic Acylation on the Stability and Antioxidant Properties of Cyanidin-3-O-Glucoside in Both Aqueous and Lipid Systems.",
+  "abstract": "Cyanidin-3-O-glucoside (C3G) was used as a substrate for enzymatic acylation, and different compounds (methyln-octanoate and methyl salicylate) were selected as acyl donors. Structural analysis (UV-Vis, FTIR, and HPLC) revealed the successful integration of methyl ester compounds into the structural units of C3G. The thermostability and photostability of acylated C3Gs, particularly those with methyl salicylate as the acyl donor, exhibited significant improvements. The molecular geometries of the different anthocyanins were optimized using computational chemistry, and energy level calculations were performed by using Density Functional Theory (DFT) to identify the antioxidant active site. Then, the antioxidant properties of C3G and acylated C3Gs (O-C3G and S-C3G) were studied in both aqueous and lipid systems. In aqueous systems, acylated C3Gs exhibited higher antioxidant properties than C3G in DPPH radical scavenging and hydroxyl radical scavenging assays, with cyanidin-3-O-glucoside salicyl acyl product (S-C3G) demonstrating the highest activity. However, the antioxidant properties varied in lipid systems. In lipid systems, acylated C3Gs displayed better antioxidant properties than C3G in POV and TBARS assays, with cyanidin-3-O-glucosiden-octanoate acid acyl product (O-C3G) showing better antioxidant properties compared to that in aqueous systems.",
+  "publication_date": "2025-04-30",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30092015",
+  "entities": {
+    "POLYPHENOL": [
+      "cyanidin-3-o-glucoside",
+      "cyanidin-3-o-glucoside salicyl acyl product",
+      "cyanidin-3-o-glucosiden-octanoate acid acyl product",
+      "the molecular geometries"
+    ]
+  }
+}

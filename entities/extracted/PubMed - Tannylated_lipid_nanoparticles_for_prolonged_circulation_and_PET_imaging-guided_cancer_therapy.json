@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Tannylated lipid nanoparticles for prolonged circulation and PET imaging-guided cancer therapy.",
+  "abstract": "Tannic acid-based nanoplatforms represent a promising approach to overcome current challenges in anticancer drug delivery by enhancing therapeutic efficacy, reducing systemic toxicity, and improving tumor targeting. In this study, we developed a novel nanoparticle system-tannic acid-condensed lipid nanoparticles (TLNPs) through the self-assembly of tannic acid (TA), DSPE-PEG2k, and doxorubicin (DOX). The resulting nanoparticles DOX@TLNPs exhibited a uniform size, satisfactory encapsulation efficiency, excellent stability, and sustained drug release properties. In vitro evaluations demonstrated efficient cellular uptake and comparable cytotoxic activity to free DOX against multiple breast cancer cell lines (SKBR3, MCF-7). In vivo evaluation involved positron emission tomography (PET) imaging of89Zr-labeled DOX@TLNPs administered to SKBR3 tumor-bearing mice. The nanoparticles showed prolonged circulation and enhanced tumor accumulation, evidenced by a significantly higher area under the curve compared to free DOX, likely due to the enhanced permeability and retention effect. Furthermore, antitumor studies revealed that DOX@TLNPs markedly inhibited tumor growth, improved survival rates, and induced increased apoptosis alongside reduced proliferation within tumor tissues, without eliciting significant histopathological changes in major organs. These findings highlight the significant potential of TA-condensed TLNPs as a safe, robust, and effective nanomedicine platform for targeted cancer treatment.",
+  "publication_date": "2025-04-30",
+  "journal": "Biomaterials advances",
+  "doi": "10.1016/j.bioadv.2025.214325",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer drug delivery",
+      "increased apoptosis",
+      "multiple breast cancer cell lines",
+      "targeted cancer treatment"
+    ],
+    "POLYPHENOL": [
+      "a safe, robust, and effective nanomedicine platform",
+      "retention effect"
+    ]
+  }
+}

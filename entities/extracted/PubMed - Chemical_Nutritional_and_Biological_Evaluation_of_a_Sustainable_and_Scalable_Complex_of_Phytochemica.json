@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Chemical, Nutritional and Biological Evaluation of a Sustainable and Scalable Complex of Phytochemicals from Bergamot By-Products.",
+  "abstract": "The present paper reports a sustainable raw material obtained from the by-products derived from the industrial production of bergamot (Citrus\u00d7BergamiaRisso & Poiteau) essential oils. The procedure to obtain the raw material is designed to maintain as much of the bioactive components as possible and to avoid expensive chemical purification. It consists of spray-drying the fruit juice obtained by squeezing the fruits, which is mixed with the aqueous extract of the pulp, i.e., the solid residue remained after fruit pressing. The resulting powder bergamot juice (PBJ) contains multiple bioactive components, in particular, among others, soluble fibers, polyphenols and amino-acid betaines, such as stachydrine and betonicine. LC-MS analysis identified 86 compounds, with hesperetin, naringenin, apigenin and eridictyol glucosides being the main components. In the second part of the paper, dose-dependent anti-inflammatory activity of PBJ and of stachydrine was found, but neither of the compounds were effective in activating Nrf2. PBJ was then found to be effective in an in vivo model of a metabolic syndrome induced by a high-sugar, high-fat (HSF) diet and evidenced by a significant increase of the values related to a set of parameters: blood glucose, triglycerides, insulin resistance, systolic blood pressure, visceral adipose tissue and adiposity index. PBJ, when given to control rats, did not significantly change these values; in contrast, they were found to be greatly affected in rats receiving an HSF diet. The in vivo effect of PBJ can be ascribed not only to bergamot polyphenols with well-known anti-inflammatory, antioxidant and lipid-regulating effects, but also to the dietary fibers and to the non-phenolic constituents, such as stachydrine. Moreover, since PBJ was found to affect energy homeostasis and to regulate food intake, a mechanism on the regulation of energy homeostasis through leptin networking should also be considered and deserves further investigation.",
+  "publication_date": "2023-03-26",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules28072964",
+  "entities": {
+    "FOOD": [
+      "the fruit juice",
+      "the resulting powder bergamot juice"
+    ],
+    "POLYPHENOL": [
+      "a mechanism",
+      "apigenin",
+      "hesperetin",
+      "naringenin",
+      "polyphenols",
+      "the second part",
+      "vivo effect",
+      "well-known anti-inflammatory, antioxidant and lipid-regulating effects"
+    ],
+    "SYMPTOM": [
+      "a metabolic syndrome",
+      "insulin resistance"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Exploring the rich heritage and health benefits of diverse fruit wines and their production.",
+  "abstract": "Wine is an alcoholic beverage made from fermented grapes or other fruits. The fermentation process occurs when yeast consumes sugars in the fruit and converts them into alcohol and carbon dioxide. Wine has been produced for thousands of years, with different regions developing distinct varieties based on the local grapes, climate, and production techniques. Key types of wine include red, white, ros\u00e9, sparkling, and fortified wines. In addition to its cultural and culinary significance, wine contains compounds like antioxidants, which have been studied for potential health benefits when consumed in moderation. The flavor, aroma, and texture of wine are influenced by factors such as grape variety, soil, climate (terroir), and aging processes. Wine tasting is a highly specialized field, focusing on characteristics like body, tannins, acidity, and finish.",
+  "publication_date": "2025-04-12",
+  "journal": "Journal of food science and technology",
+  "doi": "10.1007/s13197-025-06273-4",
+  "entities": {
+    "FOOD": [
+      "fermented grapes",
+      "grape variety",
+      "red, white, ros\u00e9, sparkling, and fortified wines",
+      "the local grapes",
+      "wine",
+      "wine tasting"
+    ],
+    "POLYPHENOL": [
+      "a highly specialized field",
+      "production techniques",
+      "tannins"
+    ],
+    "SYMPTOM": [
+      "aging processes"
+    ]
+  }
+}

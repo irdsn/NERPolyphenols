@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Metabolomic Profiling and Antioxidant Capacity Changes in Longzi Black Barley During Germination.",
+  "abstract": "Longzi black barley (Hordeum vulgareL. var.nudum, LBB), a highland barley variant with superior nutritional properties, has gained increasing attention for its health-promoting benefits. However, the metabolic changes during its germination process remain poorly understood. This study investigated the metabolic changes and antioxidant capacity during LBB germination. The results revealed significant dynamic changes in total flavonoid and total phenolic contents during germination, with the total flavonoids significantly decreasing by 32.59% initially (0-12 h, from 2.64 to 1.78 mg/g) and then slightly rebounding by 15.34% at 72 h, while the total phenolics decreased by 36.35% in the early stages (0-12 h, from 6.52 to 4.15 \u03bcmol/g) and increased markedly by 44.73% in the later stages (60-72 h, reaching 6.13 \u03bcmol/g) of germination. A metabolomic analysis identified 1015 metabolites, primarily including flavonoids, phenolic acids, amino acids and their derivatives, and alkaloids. During germination, the total flavonoid content continuously decreased by 24.24%, the phenolic acids showed no significant change, the amino acids and their derivatives increased significantly by 3.63-fold, and the alkaloid content increased slightly by 1.30-fold in the early stages (0-12 h) and significantly by 3.39-fold in the later stages (12-60 h). The study revealed the metabolic changes during the germination of LBB, providing scientific evidence for the further utilization of its nutritional value.",
+  "publication_date": "2025-06-16",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14122113",
+  "entities": {
+    "FOOD": [
+      "a highland barley variant",
+      "longzi black barley"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "the total flavonoid content",
+      "the total flavonoids",
+      "total flavonoid"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Effects of shaking and fermentation processing technologies on polyphenols and volatile compounds in black tea.",
+  "abstract": "To investigate the effects of different processing techniques on polyphenols and volatile compounds (VOCs) of black tea (BT), gas chromatography-mass spectrometry and liquid chromatography-mass spectrometry were used to analyze BT samples with different processing techniques, including fermentation degree, shaking times, and drying temperature. In this study, a total of 220 polyphenols were annotated by database, and 38 polyphenols were annotated by mass spectrometry molecular network. A total of 43 VOCs were annotated by a database combined with a retention index. Multivariate statistical analysis was then used to conclude that the degree of fermentation had the greatest effect on polyphenols, followed by shaking times and drying. A total of 15 VOCs were identified as key compounds for the aroma of BT including linalool, linalool oxides phenylacetaldehyde, and so on by calculating the relative odor activity values. In addition, it was found that the drying temperature and the degree of fermentation can significantly affect changes in the content of aroma compounds. In conclusion, this study helps us to better comprehend the changes in the phenolic and aroma compounds of BT during processing and provides a basis for improving processing technology of BT quality.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70009",
+  "entities": {
+    "POLYPHENOL": [
+      "220 polyphenols",
+      "38 polyphenols",
+      "different processing techniques",
+      "gas chromatography-mass spectrometry and liquid chromatography-mass spectrometry",
+      "mass spectrometry molecular network",
+      "polyphenols",
+      "processing technology",
+      "the effects",
+      "the greatest effect"
+    ],
+    "FOOD": [
+      "black tea"
+    ]
+  }
+}

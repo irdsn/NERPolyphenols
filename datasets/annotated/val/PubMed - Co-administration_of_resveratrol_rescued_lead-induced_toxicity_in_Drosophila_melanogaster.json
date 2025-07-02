@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Co-administration of resveratrol rescued lead-induced toxicity in Drosophila melanogaster.",
+  "abstract": "Lead toxicity poses a significant environmental concern linked to diverse health issues. This study explores the potential mitigating effects of resveratrol on lead-induced toxicity in Drosophila melanogaster. Adult fruit flies, aged three days, were orally exposed to lead (60\u202fmg/L), Succimer (10\u202fmg), and varying concentrations of resveratrol (50, 100, and 150\u202fmg). The investigation encompassed the assessment of selected biological parameters, biochemical markers, oxidative stress indicators, and antioxidant enzymes. Resveratrol exhibited a dose-dependent enhancement of egg-laying, eclosion rate, filial generation output, locomotor activity, and life span in D. melanogaster, significantly to 150\u202fmg of diet. Most of the investigated biochemical parameters were significantly rescued in lead-exposed fruit flies when co-treated with resveratrol (p < 0.05). However, oxidative stress remained unaffected by resveratrol. The findings suggest that resveratrol effectively protects against lead toxicity in Drosophila melanogaster and may hold therapeutic potential as an agent for managing lead poisoning in humans.",
+  "publication_date": "2024-05-18",
+  "journal": "Environmental toxicology and pharmacology",
+  "doi": "10.1016/j.etap.2024.104470",
+  "entities": {
+    "POLYPHENOL": [
+      "egg-laying, eclosion rate",
+      "resveratrol",
+      "selected biological parameters",
+      "the potential mitigating effects"
+    ],
+    "SYMPTOM": [
+      "oxidative stress",
+      "oxidative stress indicators"
+    ]
+  }
+}

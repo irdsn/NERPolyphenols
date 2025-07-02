@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Novel comprehensive perspective on Amadori compounds: preparation, multiple roles and interaction with other compounds.",
+  "abstract": "Amadori compounds are pivotal intermediates in the Maillard reaction. Amadori compounds serve as flavor enhancers, browning precursors and bioactive components, so they are promising versatile food additives. Comprehensive reviews on multiple roles of Amadori compounds are scarce. Furthermore, there is a lack of reviews on green, efficient and commercially prospective preparation techniques of Amadori compounds and their interactions with other components. This paper reviewed preparation, multiple roles and interactions with other components in foods. Spray drying, microwave heating, natural deep eutectic solvents and vacuum dewatering were deemed as green, efficient and commercially prospective preparation techniques for Amadori compounds. Amadori compounds broadened the application field of Maillard reaction-obtained additives compared to final-products, enabling their uses not only in dark-colored foodstuffs but also in light-colored. Peptide-derived Amadori compounds showed greater potency for flavor generation compared to amino acid-derived. Amadori compounds presented eleven physiological activities. Amadori compounds exerted synergistic effect with essential nutrients (lipids, exogenous amino acids and carbohydrates), functional ingredients (polyphenols, carotenoids, glycosides) as well as several drugs. More preparation approaches of Amadori compounds and their synergistic effects with other ingredients await investigation. This review provided comprehensive theoretical guidance for industrial preparation and application of Amadori compounds as versatile additives.",
+  "publication_date": "2025-04-23",
+  "journal": "Critical reviews in food science and nutrition",
+  "doi": "10.1080/10408398.2025.2494059",
+  "entities": {
+    "POLYPHENOL": [
+      "green, efficient and commercially prospective preparation techniques",
+      "natural deep eutectic solvents",
+      "polyphenols",
+      "precursors",
+      "synergistic effect",
+      "their synergistic effects"
+    ]
+  }
+}

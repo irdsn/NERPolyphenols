@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "A Baicalin Liposome-Based Temperature-Sensitive Hydrogel for Treating Ultraviolet-Induced Skin Damage.",
+  "abstract": "Prolonged exposure of the skin to ultraviolet (UV) rays from sunlight causes oxidative damage to skin cells, and prolonged exposure to UV can lead to severe sunburn and skin aging, which may increase the risk of skin cancer. Numerous natural products have been used to treat UV-induced skin damage. Baicalin (BA) has excellent antioxidant properties; however, its poor solubility hinders its direct application. Therefore, suitable formulations for dermal administration must be developed.",
+  "publication_date": "2025-06-19",
+  "journal": "International journal of nanomedicine",
+  "doi": "10.2147/IJN.S516572",
+  "entities": {
+    "SYMPTOM": [
+      "oxidative damage",
+      "skin aging",
+      "skin cancer"
+    ],
+    "POLYPHENOL": [
+      "its direct application"
+    ]
+  }
+}

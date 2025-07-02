@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Phytochemical Profile and Antioxidant Properties of Invasive PlantsAilanthus altissima(Mill.) Swingle andHelianthus tuberosusL. in Istria Region, Croatia.",
+  "abstract": "Invasive alien plant species, while ecologically and economically problematic, represent an underutilized source of bioactive phytochemicals with promising phytopharmaceutical applications. This study investigates the LC-DAD-MS phenolic profiles of 70% ethanol and 80% methanol leaf and flower extracts ofAilanthus altissima(Mill.) Swingle andHelianthus tuberosusL., collected in the Istria region of Croatia, alongside their antioxidant capacities using ABTS, DPPH, and FRAP assays. Both species exhibited high levels of flavonoids and phenolic acids, with consistently higher concentrations in leaf versus flower tissues and in ethanolic versus methanolic extracts. Strong correlations (r > 0.9) between total phenolics and antioxidant activity confirmed the functional significance of these compounds. With a targeted metabolomics approach, inA. altissima, 51 phenolics were identified in leaves and 47 in flowers, with ellagitannins predominating; vescalagin isomers reached 94 mg/g DW in leaves and 82 mg/g DW in flowers.H. tuberosusextracts contained 34 phenolics in leaves and 33 in flowers, with hydroxycinnamic acids and flavonols dominating; 5-caffeoylquinic acid was the principal compound (25 mg/g DW in leaves, 2 mg/g DW in flowers). The identified phytochemicals are known for their potent antioxidant, anti-inflammatory, anticancer, antimicrobial, and metabolic-regulating properties. Additionally, four leaf-specific compounds were identified in each species, indicating potential for targeted extraction. These findings advance the phytochemical characterization of invasive taxa and highlight their potential as sources of natural antioxidants for functional food and pharmaceutical development.",
+  "publication_date": "2025-06-03",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060677",
+  "entities": {
+    "POLYPHENOL": [
+      "both species",
+      "each species",
+      "ellagitannins",
+      "flavonoids",
+      "four leaf-specific compounds",
+      "hydroxycinnamic acids",
+      "invasive alien plant species"
+    ],
+    "SYMPTOM": [
+      "anti-inflammatory, anticancer, antimicrobial, and metabolic-regulating properties"
+    ],
+    "FOOD": [
+      "functional food and pharmaceutical development"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Mechanisms underlying the dynamic changes in tannins associated with food processing and plant growth.",
+  "abstract": "This review describes the chemical mechanisms behind the structural changes in selected tannins associated with food processing and plant growth. Both the artificial removal of astringency from persimmon fruits and production of hydrophobic procyanidins in cinnamon bark occur via the condensation of proanthocyanidin A-rings with aldehydes. The production of black tea thearubigins from monomeric catechins and the oligomerization of epigallocatechin-3-O-gallate (EGCg) by autoxidation have been explained via the addition of catechin A-rings to B-ring o-quinones. These reactions can be ascribed to the nucleophilic properties of the A-ring methine carbons. Meanwhile, the oxidative B-B coupling of EGCg first produces a quinone dimer, dehydrotheasinensin A (DTSA), and subsequent reduction yields theasinensin A with a bis-pyrogallol structure. The structural similarity of DTSA to ellagitannin dehydrohexahydroxydiphenoyl (DHHDP) groups led us to propose a new hypothesis concerning ellagitannin biosynthesis, in which the oxidative coupling of two galloyl groups first produces a DHHDP group, and subsequent reduction yields a hexahydroxydiphenoyl (HHDP) group. In fact, the DHHDP-bearing ellagitannin in the young leaves of Triadica sebifera is reduced to the corresponding HHDP ester as the leaves grow. Additionally, CuCl2oxidation of gallic acid esters and 1,2,3,4,6-pentagalloyl-\u03b2-D-glucose yields DHHDP esters rather than HHDP esters. In contrast, in the young leaves of a Japanese oak tree, ellagitannin vescalagin is oxidized regioselectively as the leaves grow; this oxidation reaction is related to the autoxidation of vescalagin in oak barrels during whisky aging. Furthermore, this review discusses the immobilization of vescalagin in heartwood.",
+  "publication_date": "2025-06-25",
+  "journal": "Journal of natural medicines",
+  "doi": "10.1007/s11418-025-01925-3",
+  "entities": {
+    "POLYPHENOL": [
+      "(egcg",
+      "catechin a-rings",
+      "dtsa to ellagitannin dehydrohexahydroxydiphenoyl (dhhdp) groups",
+      "egcg",
+      "ellagitannin biosynthesis",
+      "ellagitannin vescalagin",
+      "epigallocatechin-3-o-gallate",
+      "gallic acid esters",
+      "hydrophobic procyanidins",
+      "monomeric catechins",
+      "proanthocyanidin a-rings",
+      "selected tannins",
+      "the chemical mechanisms",
+      "the dhhdp-bearing ellagitannin",
+      "two galloyl groups"
+    ],
+    "FOOD": [
+      "black tea thearubigins",
+      "cinnamon bark"
+    ],
+    "SYMPTOM": [
+      "whisky aging"
+    ]
+  }
+}

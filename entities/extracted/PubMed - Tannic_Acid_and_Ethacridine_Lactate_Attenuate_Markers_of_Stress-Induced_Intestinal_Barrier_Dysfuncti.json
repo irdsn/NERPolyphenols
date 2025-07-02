@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Tannic Acid and Ethacridine Lactate Attenuate Markers of Stress-Induced Intestinal Barrier Dysfunctions in Murine Small Intestinal Organoids.",
+  "abstract": "(1) Background: Tannacomp\u00aeis a drug consisting of tannin albuminate, a complex of tannic acid (TA) and ethacridine lactate (Eta) used for treating acute and traveler's diarrhea. TA is thought to modulate gastrointestinal barrier function, but the underlying mechanisms and whether Eta has similar effects remains unclear. (2) Methods: to investigate the effects of TA and Eta on the intestinal barrier, stress responses were induced in murine intestinal organoids by lipopolysaccharide (LPS) exposure or withdrawal of growth factors from cell culture medium (GFRed). Further, organoids were exposed to either TA (0.01 mg/mL) or Eta (0.002 mg/mL) and markers of inflammatory response and gut barrier function were assessed. (3) Results: TA and Eta reduced several inflammatory markers such as interleukin 6, interleukin 1\u03b2, tumor necrosis factor \u03b1, and myeloid differentiation primary response 88 in stressed organoids. In addition, TA and Eta attenuated LPS- and GFRed-mediated gut barrier dysfunctions, with normalization of tight junction, adherent junction and mucin gene expression and reduction ofNod2- and matrix metalloproteinase 7-dependent activation of antimicrobial peptides. (4) Conclusions: our data show that TA and Eta modulate markers of inflammation and the intestinal barrier and suggest novel mechanisms of action of this drug that could broaden its treatment indications.",
+  "publication_date": "2025-04-30",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom15050650",
+  "entities": {
+    "POLYPHENOL": [
+      "novel mechanisms",
+      "similar effects",
+      "tannin albuminate",
+      "the effects",
+      "the underlying mechanisms",
+      "tumor necrosis factor"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "stress responses",
+      "stressed organoids"
+    ]
+  }
+}

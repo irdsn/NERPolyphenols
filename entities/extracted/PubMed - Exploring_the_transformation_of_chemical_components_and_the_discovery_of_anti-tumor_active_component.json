@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Exploring the transformation of chemical components and the discovery of anti-tumor active components in the fruit ofSinopodophyllum hexandrum.",
+  "abstract": "The fruit ofSinopodophyllum hexandrum(FSH) is derived fromSinopodophyllum hexandrum(Royle) Ying, a plant belonging to the family Berberidaceae of the order Ranunculaceae. It is mainly distributed in the Himalayan alpine region, and born in the understory of forests, and wetlands at the edge of forests, thickets or grasses. FSH grows at an altitude of 2,200-4,300 meters above sea level. Its main pharmacological activities include anti-tumor, anti-inflammation, analgesia, heat clearing and detoxification. In the current experiment, ultra-performance liquid chromatography quadrupole time-of-flight mass spectrometry (UPLC-Q-TOF-MS) was adopted for investigating the chemical components contained in FSH, their transformation patternsin vivoand the potential anti-tumor components, so as to provide an experimental basis for the utilization and development of the resources of FSH.",
+  "publication_date": "2025-03-31",
+  "journal": "Frontiers in nutrition",
+  "doi": "10.3389/fnut.2025.1555318",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

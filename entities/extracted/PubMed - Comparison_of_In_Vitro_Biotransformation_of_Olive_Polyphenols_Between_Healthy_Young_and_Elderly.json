@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Comparison of In Vitro Biotransformation of Olive Polyphenols Between Healthy Young and Elderly.",
+  "abstract": "Olive leaves are a rich source of polyphenols, predominantly secoiridoids, flavonoids, and simple phenols, which exhibit various biological properties. Extracts prepared from olive leaves are associated with hypoglycemic, hypotensive, diuretic, and antiseptic properties. Upon ingestion, a substantial fraction of these polyphenols reaches the colon where they undergo extensive metabolism by the gut microbiota. Host characteristics, like age, can influence the composition of the gut microbiome, potentially affecting the biotransformation of these compounds. Therefore, it can be hypothesised that differences in the gut microbiome between young and elderly individuals may impact the biotransformation rate and the type and amount of metabolites formed.",
+  "publication_date": "2025-01-07",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo15010026",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "polyphenols",
+      "predominantly secoiridoids",
+      "these polyphenols"
+    ]
+  }
+}

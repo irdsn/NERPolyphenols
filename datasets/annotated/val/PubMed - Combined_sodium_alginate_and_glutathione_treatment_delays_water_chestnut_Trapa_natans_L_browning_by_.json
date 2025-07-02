@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Combined sodium alginate and glutathione treatment delays water chestnut (Trapa natans L.) browning by regulating oxidative stress and ascorbate glutathione cycle.",
+  "abstract": "Water chestnut (WCN) is an aquatic corm vegetable that is widely enjoyed as a peeled commodity, but it is prone to post-peeling surface browning. The browning of the WCN surface negatively affects its overall quality, and consumer acceptance. In this work, the effects of sodium alginate (SAC [1.5\u202f%]) and glutathione (GSH [0.5\u202f%]), both individual and in combination (SAC\u202f+\u202fGSH), were studied on WCN corms at 5\u202f\u00b1\u202f1\u202f\u00b0C for 15\u202fdays (d). The SAC\u202f+\u202fGSH combination suppressed increases in browning degree, browning index, soluble quinones, b*, a* values, malondialdehyde (MDA), electrolyte leakage, superoxide anion (O2-\u2022), and hydrogen peroxide (H2O2). Phospholipase D (PLD) and lipoxygenase (LOX) activities were lower in the SAC\u202f+\u202fGSH treatment. The SAC\u202f+\u202fGSH combination also suppressed the activity of phenylalanine ammonia-lyase (PAL), peroxidase (POD), and polyphenol oxidase (PPO), while increasing the activities of catalase (CAT), superoxide dismutase (SOD), ascorbate peroxidase (APX), glutathione reductase (GR), dehydroascorbate reductase (DHAR), and monodehydroascorbate reductase (MDHAR) enzymes. Substantially higher levels of ascorbic acid (AsA), glutathione (GSH), and oxidized glutathione (GSSG) contents were observed, along with decreased total bacterial as well as yeast, and mold counts in the SAC\u202f+\u202fGSH-treated WCN corms. Therefore, the combination of SAC\u202f+\u202fGSH could be used as an effective antibrowning approach for peeled WCN corms during storage.",
+  "publication_date": "2025-06-20",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145419",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective antibrowning approach",
+      "electrolyte leakage, superoxide anion",
+      "polyphenol oxidase",
+      "the effects"
+    ]
+  }
+}

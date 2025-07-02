@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Dietary Tea Polyphenols Alleviate Acute-Heat-Stress-Induced Death of Hybrid Crucian Carp HCC2: Involvement of Modified Lipid Metabolisms in Liver.",
+  "abstract": "Global warming poses significant challenges to aquaculture, as elevated water temperatures adversely affect fish health and survival. This study investigated the effects and potential mechanisms of dietary tea polyphenols (TPs) on acute heat stress and survival in hybrid crucian carp HCC2.",
+  "publication_date": "2025-03-27",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo15040229",
+  "entities": {
+    "POLYPHENOL": [
+      "dietary tea polyphenols",
+      "potential mechanisms",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "acute heat stress"
+    ]
+  }
+}

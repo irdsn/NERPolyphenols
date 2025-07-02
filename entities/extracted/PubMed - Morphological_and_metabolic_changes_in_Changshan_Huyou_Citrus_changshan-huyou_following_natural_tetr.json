@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Morphological and metabolic changes in Changshan Huyou (Citrus changshan-huyou) following natural tetraploidization.",
+  "abstract": "Polyploids in citrus are generally used to improve crop varieties. Changshan Huyou (Citrus changshan-huyou) is a native citrus species in China that is highly adaptable and has pharmaceutical value. However, the influence in Changshan Huyou following polyploidization remains unclear. Here we evaluated the adult tetraploid scions of Changshan Huyou with contemporary diploid scions as the control in the phenotypic variations, metabolic alterations of fruits and associated transcriptomic changes.",
+  "publication_date": "2025-03-08",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-025-06293-4",
+  "entities": {
+    "POLYPHENOL": [
+      "a native citrus species"
+    ]
+  }
+}

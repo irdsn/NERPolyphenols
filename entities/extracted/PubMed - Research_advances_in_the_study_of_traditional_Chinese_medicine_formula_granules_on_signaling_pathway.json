@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Research advances in the study of traditional Chinese medicine formula granules on signaling pathway-mediated disease mechanisms.",
+  "abstract": "As a modern dosage form of traditional Chinese medicine, Traditional Chinese Medicine Formula Granules (TCMFG) maximally retains active metabolites through standardized production processes, including dynamic countercurrent extraction and low-temperature concentration. This serves as a critical material basis for elucidating its multi-target regulatory mechanisms. Recent studies have highlighted the significant potential of TCMFG in treating complex diseases, such as inflammation, tumors, metabolic disorders, fibrosis, and orthopedic conditions like osteoarthritis and osteoporosis, by modulating signaling pathways such as TLR4/NF-\u03baB, MAPK, NLRP3 inflammasome, PI3K/Akt/mTOR, Wnt/\u03b2-catenin, and TGF-\u03b2/Smads. For example, berberine alleviates acute lung injury by inhibiting the TLR4/NF-\u03baB pathway, while tetramethylpyrazine derived fromLigusticum chuanxiongHort granules mitigate joint destruction in rheumatoid arthritis by suppressing MAPK signaling. Curcumin analogs inhibit tumor metabolic reprogramming via the PI3K/Akt pathway. Despite these advances, current research encounters challenges, such as single-component analysis, unclear synergistic mechanisms of compound mixtures, and insufficient clinical evidence for translational applications. In the future, integrating multi-omics technologies (e.g., metabolomics, spatial transcriptomics) will be crucial for exploring supramolecular synergistic effects of compound mixtures. Furthermore, large-scale clinical trials are necessary to validate its potential in precision medicine. This article systematically reviews the progress of TCMFG research in signaling pathway-mediated disease mechanisms and outlines future directions to enhance its application in modern precision medicine.",
+  "publication_date": "2025-06-03",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1609211",
+  "entities": {
+    "FOOD": [
+      "a modern dosage form"
+    ],
+    "POLYPHENOL": [
+      "curcumin",
+      "future directions",
+      "its multi-target regulatory mechanisms",
+      "modern precision medicine",
+      "multi-omics technologies",
+      "pathway-mediated disease mechanisms",
+      "precision medicine",
+      "recent studies",
+      "supramolecular synergistic effects",
+      "unclear synergistic mechanisms"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "osteoporosis",
+      "rheumatoid arthritis"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Prospecting microbiota of Adriatic fish: Bacillus velezensis as a potential probiotic candidate.",
+  "abstract": "Aquaculture is one of the fastest growing sectors of food production and covers more than half of the market demand for fish and fishery products. However, aquaculture itself faces numerous challenges, such as infectious disease outbreaks, which are one of the limiting factors for the growth and environmental sustainability of modern aquaculture. Understanding the composition and diversity of the gut microbiota of fish is important to elucidate its role in host health and aquaculture management. In addition, the gut microbiota represents a valuable source of bacteria with probiotic potential for farmed fish.",
+  "publication_date": "2025-06-14",
+  "journal": "Animal microbiome",
+  "doi": "10.1186/s42523-025-00429-5",
+  "entities": {
+    "POLYPHENOL": [
+      "infectious disease outbreaks",
+      "the fastest growing sectors"
+    ]
+  }
+}

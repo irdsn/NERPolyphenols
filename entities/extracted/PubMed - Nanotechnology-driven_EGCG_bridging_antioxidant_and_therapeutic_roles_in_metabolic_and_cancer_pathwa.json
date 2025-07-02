@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Nanotechnology-driven EGCG: bridging antioxidant and therapeutic roles in metabolic and cancer pathways.",
+  "abstract": "Epigallocatechin-3-gallate (EGCG), the primary polyphenol in green tea, is renowned for its potent antioxidant properties. EGCG interacts with various cellular targets, inhibiting cancer cell proliferation through apoptosis and cell cycle arrest induction, while also modulating metabolic pathways. Studies have demonstrated its potential in addressing cancer development, obesity, and diabetes. Given the rising prevalence of metabolic diseases and cancers, EGCG is increasingly recognized as a promising therapeutic agent. This review provides a comprehensive overview of the latest findings on the effects of both free and nano-encapsulated EGCG on mechanisms involved in the management and prevention of hyperlipidemia, diabetes, and gastrointestinal (GI) cancers. The review highlights EGCG role in modulating key signaling pathways, enhancing bioavailability through nano-formulations, and its potential applications in clinical settings.",
+  "publication_date": "2025-02-09",
+  "journal": "Nanomedicine (London, England)",
+  "doi": "10.1080/17435889.2025.2462521",
+  "entities": {
+    "POLYPHENOL": [
+      "(egcg",
+      "both free and nano-encapsulated egcg",
+      "egcg",
+      "egcg role",
+      "mechanisms",
+      "the effects",
+      "the primary polyphenol"
+    ],
+    "FOOD": [
+      "green tea"
+    ],
+    "SYMPTOM": [
+      "apoptosis and cell cycle arrest induction",
+      "cancer cell proliferation",
+      "cancer development",
+      "cancers",
+      "gastrointestinal (gi) cancers",
+      "hyperlipidemia",
+      "obesity"
+    ]
+  }
+}

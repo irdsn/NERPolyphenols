@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Identification of genetic basis underlying mature cotton fiber length through metabolite-based genome-wide association analysis.",
+  "abstract": "Intracellular and cell wall metabolites of cotton fiber cells are believed to influence processes of cell elongation and cell wall synthesis, which have a profound effect on mature fiber length. However, the role of metabolites on fiber length remains unclear. Here, a metabolite-based genome-wide association study was applied for association analysis between intracellular or cell wall metabolites and fiber quality traits using a population of 251 cotton accessions. Based on the 857 metabolites detected in 15\u2009days post anthesis (DPA) fiber, 1470 mQTLs were identified in association with 193 metabolites. An mQTL hotspot, qA06:85-96.2\u2009Mb, had a strong association with most metabolites characterized as oligopeptides, amino acids (AA), and AA derivatives, which were positively correlated with mature fiber length but were negatively correlated with secondary cell wall deposition. Among the 11 cell wall polysaccharides from 20 DPA fiber samples, 8 polysaccharides shared a co-localized fiber length controlling QTL qFL9/qCel2. Knockout of the candidate gene KIP-RELATED PROTEIN 6 (KRP6) generated short fibers with more cellulose deposition in the fiber cell wall. However, KRP6G-overexpressing plants showed the opposite change. This study revealed the characteristics and genetic basis of intracellular and cell wall metabolites in developing cotton fiber. It provided insights into mature fiber quality improvement through metabolic manipulation.",
+  "publication_date": "2025-06-30",
+  "journal": "The New phytologist",
+  "doi": "10.1111/nph.70265",
+  "entities": {
+    "POLYPHENOL": [
+      "a profound effect",
+      "secondary cell wall deposition"
+    ]
+  }
+}

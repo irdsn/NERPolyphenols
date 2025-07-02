@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "The Effects of Quercetin on Vascular Endothelium, Inflammation, Cardiovascular Disease and Lipid Metabolism-A Review.",
+  "abstract": "Quercetin is a naturally occurring flavonoid of plant origin. This naturally occurring polyphenolic compound is generally known for its antioxidant and anti-inflammatory properties and has been reported to be a factor in improving the antioxidant defense system, lipid metabolism, and reducing the incidence of cardiovascular and inflammatory diseases. In this article, we will take a closer look at quercetin-what it is, what properties it has, what health benefits it can bring, and in which products it can be found. Thanks to its wide spectrum of action, quercetin is gaining popularity as an ingredient in dietary supplements, as well as an element of a healthy diet supporting overall health.",
+  "publication_date": "2025-05-03",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17091579",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring flavonoid",
+      "its wide spectrum",
+      "quercetin",
+      "this naturally occurring polyphenolic compound"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Formulation and Evaluation of Liposome-Encapsulated Phenolic Compounds from Olive Mill Waste: Insights into Encapsulation Efficiency, Antioxidant, and Cytotoxic Activities.",
+  "abstract": "Phenolic extracts obtained from the solid by-products of olive oil production (collectively referred to as \"olive mill waste\") were encapsulated in phosphatidylcholine/cholesterol liposomes using the thin-film hydration method. This study examines how lipid composition, cholesterol content, and two different approaches to introducing phenolics affect the efficiency with which these bioactive compounds are encapsulated. 'Bidni' and 'Bajda' cultivars are two main olive cultivars found in Malta. 'Bajda' is an example of a variety exhibiting leucocarpa. Unlike typical olives, leucocarpa drupes remain white during ripening due to silenced anthocyanin-producing genes. These two extracts were tested for encapsulation efficiency and then evaluated for in vitro cytotoxicity against human leukemia cells. Our results show that increasing the amount of cholesterol in the liposomes generally improved the retention of phenolic compounds, whereas the encapsulation route (i.e., inclusion with the lipids versus hydration medium) had differential effects on specific phenolics. Additionally, liposomal encapsulation provided more potent cytotoxic activity over 48 h compared to the free extract, suggesting that liposomes can enhance and prolong the delivery of bioactive compounds from this agri-food waste.",
+  "publication_date": "2025-05-28",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112351",
+  "entities": {
+    "FOOD": [
+      "olive oil production"
+    ],
+    "SYMPTOM": [
+      "human leukemia cells"
+    ],
+    "POLYPHENOL": [
+      "differential effects",
+      "phenolic compounds",
+      "specific phenolics"
+    ]
+  }
+}

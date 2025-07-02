@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Targeting Senescence, Oxidative Stress, and Inflammation: Quercetin-Based Strategies for Ocular Diseases in Older Adults.",
+  "abstract": "Quercetin, a flavonol abundant in fruits and vegetables, has attracted significant attention for its senotherapeutic effects, which involve the selective elimination of senescent cells and the modulation of pro-inflammatory phenotypes that contribute to age-related dysfunctions. These actions, together with its antioxidant, anti-inflammatory, neuroprotective, and anti-angiogenic properties, make quercetin a promising strategy for ocular diseases associated with visual impairment in older adults such as age-related macular degeneration, cataract, diabetic retinopathy, and glaucoma. This review emphasizes the mechanisms by which quercetin exerts its protective effects, with particular attention to its ability to target cellular senescence, reduce oxidative stress, and modulate inflammation. Despite extensive preclinical evidence, the clinical application of quercetin remains limited due to challenges related to poor bioavailability, rapid degradation, and the absence of standardized ocular formulations. Progress in drug delivery systems, including nanoparticles, nanoemulsions, and solid lipid carriers, provides promising strategies to overcome these barriers. In addition, combining quercetin with established treatments, such as anti-vascular endothelial growth factor (VEGF) agents and neuroprotective drugs, may enhance its therapeutic potential in managing and possibly reversing age-related ophthalmic disorders.",
+  "publication_date": "2025-06-07",
+  "journal": "Clinical interventions in aging",
+  "doi": "10.2147/CIA.S516946",
+  "entities": {
+    "POLYPHENOL": [
+      "extensive preclinical evidence",
+      "its antioxidant, anti-inflammatory, neuroprotective, and anti-angiogenic properties",
+      "its protective effects",
+      "its senotherapeutic effects",
+      "neuroprotective drugs",
+      "quercetin",
+      "the mechanisms",
+      "the selective elimination"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

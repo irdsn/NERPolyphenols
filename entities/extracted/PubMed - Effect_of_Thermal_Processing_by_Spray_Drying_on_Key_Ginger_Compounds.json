@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Effect of Thermal Processing by Spray Drying on Key Ginger Compounds.",
+  "abstract": "Spray drying is a technique widely employed in the food and nutraceutical industries to convert liquid extracts into stable powders, preserving their functional properties. Ginger (Zingiber officinale) is rich in bioactive compounds such as gingerols, shogaols, and zingerone, which contribute to its health benefits. This study aimed to investigate the impact of spray drying on the chemical profile of ginger, particularly focusing on the transformation of gingerols into shogaols and related compounds.",
+  "publication_date": "2025-05-24",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo15060350",
+  "entities": {
+    "POLYPHENOL": [
+      "a technique"
+    ],
+    "FOOD": [
+      "ginger",
+      "gingerols"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Ultrasound-enzyme-assisted extraction of flavonols fromPolygonatum odoratumusing ternary natural deep eutectic solvents.",
+  "abstract": "Natural deep eutectic solvents (NADESs) are emerging green solvents that show great potential in extracting natural products from natural resources. In this study, a third component was introduced into the NADES system, and the screened ternary NADES (choline chloride/fructose/citric acid, 1\u2009:\u20091\u2009:\u20092) was combined with ultrasound-enzyme-assisted extraction to extract flavonols fromPolygonatum odoratum. The main flavonol components, including quercetin, kaempferol and isorhamnetin, were determined by high-performance liquid chromatography and analyzed in comparison with the extraction efficiency of traditional procedures. The results of Fourier transform infrared spectroscopy and Raman spectroscopy showed that the alteration of intermolecular forces in NADESs promoted the formation of hydrogen bonds between them and flavonols, which significantly increased the extraction yields. After optimization by single-factor and Box-Behnken experiments, the ternary NADES extraction yields could reach 0.24 mg g-1under the optimal conditions of cellulase dosage 1.1%, ultrasonic time 62 min, ultrasonic temperature 61 \u00b0C, and water content 60%. The study provides an efficient and environmentally friendly way to extract flavonols from natural medicinal plants, and also elucidates the potential mechanism of the ultrasound-enzyme-assisted ternary NADESs for the improved extraction efficiency.",
+  "publication_date": "2025-06-17",
+  "journal": "Analytical methods : advancing methods and applications",
+  "doi": "10.1039/d5ay00347d",
+  "entities": {
+    "POLYPHENOL": [
+      "infrared spectroscopy",
+      "intermolecular forces",
+      "isorhamnetin",
+      "kaempferol",
+      "natural deep eutectic solvents",
+      "raman spectroscopy",
+      "the potential mechanism"
+    ],
+    "FOOD": [
+      "cellulase dosage"
+    ]
+  }
+}

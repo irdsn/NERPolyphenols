@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Exploratory untargeted metabolomics analysis reveals differences in metabolite profiles in pregnant people exposed vs. unexposed to E-cigarettes secondhand in the NYU children's health and environment study.",
+  "abstract": "Secondhand exposure to e-cigarettes represents a potential population health risk given e-cigarette's prevalence and their unknown health effects, particularly among vulnerable populations such as pregnant people.",
+  "publication_date": "2025-06-26",
+  "journal": "Metabolomics : Official journal of the Metabolomic Society",
+  "doi": "10.1007/s11306-025-02280-w",
+  "entities": {
+    "POLYPHENOL": [
+      "secondhand exposure",
+      "their unknown health effects"
+    ]
+  }
+}

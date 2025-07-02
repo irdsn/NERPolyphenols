@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Modulation of surface properties and emulsifying properties of gliadin particles by alkyl gallates: Effects of pH and alkyl chain length.",
+  "abstract": "Protein-polyphenol colloidal particles have been identified as promising stabilizers for Pickering emulsions. Polyphenols exhibit a significant binding affinity for proteins; however, specific conditions, such as pH and polyphenol structure, affect the degree of binding and interaction. The objective of this study was to evaluate the non-covalent modification of gliadin with alkyl gallate (GA) of varying alkyl chain lengths at different pH values, and to investigate the structural and functional properties of the gliadin before and after binding to GA. The findings demonstrated that the particle size of the composite particles following the binding of gliadin with polyphenol decreased at pH\u00a05, while the surface hydrophobicity increased. Among them, the nanoparticles bound with 300\u00a0\u03bcL of ethyl gallate (GA-C2) exhibited neutral wettability (the three-phase contact angle of about 91\u00b0). The results of Fourier transform infrared spectroscopy demonstrated that the hydrophobic interactions between gliadin and polyphenol were enhanced with the increase in alkyl chain length. The structure of the complex also changed significantly, as evidenced by a decrease in the content of \u03b1-helix and \u03b2-sheet and an increase in the content of \u03b2-turn. In addition, the incorporation of polyphenols has been demonstrated to enhance the stability, antioxidant properties and emulsifying ability of gliadin-based nanoparticles. This suggests that the functional properties of gliadin can be improved by modulating the non-covalent interactions between gliadin and polyphenols, and that gliadin-polyphenol complexes may have potential applications in the food industry.",
+  "publication_date": "2025-04-19",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116480",
+  "entities": {
+    "POLYPHENOL": [
+      "a decrease",
+      "fourier transform infrared spectroscopy",
+      "gliadin-polyphenol complexes",
+      "ph and polyphenol structure",
+      "polyphenol",
+      "polyphenols",
+      "protein-polyphenol colloidal particles",
+      "specific conditions",
+      "the objective"
+    ]
+  }
+}

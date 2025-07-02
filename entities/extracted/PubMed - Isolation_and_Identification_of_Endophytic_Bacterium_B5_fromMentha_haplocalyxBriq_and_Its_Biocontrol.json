@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Isolation and Identification of Endophytic Bacterium B5 fromMentha haplocalyxBriq. and Its Biocontrol Mechanisms AgainstAlternaria alternata-Induced Tobacco Brown Spot.",
+  "abstract": "The fungusAlternaria alternata, which causes tobacco brown spot disease, poses a serious threat to the tobacco industry. Beneficial microorganisms and their secondary metabolites have emerged as a promising green strategy for disease management. This study recovered 16 endophytic bacterial strains fromMentha haplocalyxBriq., a therapeutic herb. The study revealed that strain B5, with an inhibition rate of 82.76%, exhibited the highest antifungal activity againstA. alternata. This strain exhibited broad-spectrum antifungal activity, with inhibition rates ranging from 66.34% to 87.23%. Phylogenetic analysis of 16S rDNA andgyrAgene sequences identified it asBacillus velezensis(GenBank: PV168970 and PV173738). Further characterization revealed that strain B5 can secrete cell wall-degrading enzymes, produce IAA, and synthesize siderophores. The growth of mycelium inA. alternatawas greatly reduced by both the ethyl acetate extract and the filtered liquid from the sterile fermentation, resulting in marked morphological abnormalities. Multiple antifungal active substances were identified through liquid LC-MS analysis. Greenhouse experiments demonstrated that the B5 fermentation broth effectively suppressed the occurrence of tobacco brown spot disease, achieving a relative control efficacy of 60.66%, comparable to that of 10% difenoconazole water dispersible granule (WDG). Additionally, strain B5 enhances plant disease resistance by activating the activities of key defense enzymes.B. velezensisB5 serves as a safe alternative to chemical fungicides and is highly effective at controlling tobacco brown spot disease.",
+  "publication_date": "2025-06-12",
+  "journal": "Journal of fungi (Basel, Switzerland)",
+  "doi": "10.3390/jof11060446",
+  "entities": {
+    "POLYPHENOL": [
+      "broad-spectrum antifungal activity",
+      "their secondary metabolites"
+    ]
+  }
+}

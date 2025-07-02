@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Carposphere microbiota alters grape volatiles and shapes the wine grape typicality.",
+  "abstract": "While specific environments are known to shape plant metabolomes and the makeup of their associated microbiome, it is as yet unclear whether carposphere microbiota contribute to the characteristics of grape fruit flavor of a particular wine region. Here, carposphere microbiomes and berry transcriptomes and metabolomes of three grape cultivars growing at six geographic sites were analyzed. The composition of the carposphere microbiome was determined mainly by environmental conditions, rather than grape genotype. Bacterial microbiota likely contributed to grape volatile profiles. Particularly, candidate operational taxonomic units (OTUs) in genus Sphingomonas were highly correlated with grape C6 aldehyde volatiles (also called green leaf volatiles, GLVs), which contribute to a fresh taste. Furthermore, a core set of expressed genes was enriched in lipid metabolism, which is responsible for bacterial colonization and C6 aldehyde volatile synthesis activation. Finally, a similar grape volatile profile was observed after inoculating the berry skin of two grape cultivars with Sphingomonas sp., thus providing evidence for the hypothetical microbe-metabolite relationship. These results provide novel insight into how the environment-microbiome-plant quality (E\u2009\u00d7\u2009Mi\u2009\u00d7\u2009Q) interaction may shape berry flavor and thereby typicality, serving as a foundation for decision-making in vineyard microbial management.",
+  "publication_date": "2025-04-18",
+  "journal": "The New phytologist",
+  "doi": "10.1111/nph.70152",
+  "entities": {
+    "POLYPHENOL": [
+      "decision-making",
+      "specific environments"
+    ],
+    "FOOD": [
+      "a particular wine region",
+      "a similar grape volatile profile",
+      "grape c6 aldehyde volatiles",
+      "grape fruit flavor",
+      "grape genotype",
+      "three grape cultivars",
+      "two grape cultivars"
+    ]
+  }
+}

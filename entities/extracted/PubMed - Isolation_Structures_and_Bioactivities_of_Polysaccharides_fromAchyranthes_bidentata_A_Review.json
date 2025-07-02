@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Isolation, Structures, and Bioactivities of Polysaccharides fromAchyranthes bidentata: A Review.",
+  "abstract": "Achyranthes bidentata, a traditional Chinese medicinal herb, has garnered significant attentions due to its diverse bioactivities and substantial market potential. Recent advancements in phytochemical and pharmacological research have identified polysaccharides as some of its primary bioactive constituents. These polysaccharides demonstrate a wide range of biological effects both in vitro and in vivo, such as antioxidant, immunomodulatory, antitumor, anti-inflammatory, anti-osteoporotic, and gut microbiota-regulating properties. This review comprehensively examines the extraction and purification techniques, structural features, modifications, pharmacological effects, and structure-activity relationships ofA. bidentatapolysaccharides (ABPs) over the past three decades. By highlighting the multifaceted biological roles and structure-activity correlations of ABPs, this review aims to enhance the understanding of their potential applications and foster further innovation in bioactive research and development.",
+  "publication_date": "2025-06-09",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122523",
+  "entities": {
+    "POLYPHENOL": [
+      "biological effects",
+      "pharmacological effects",
+      "recent advancements",
+      "the extraction and purification techniques",
+      "the past three decades"
+    ]
+  }
+}

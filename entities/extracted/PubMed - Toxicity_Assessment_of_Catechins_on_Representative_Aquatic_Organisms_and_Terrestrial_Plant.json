@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Toxicity Assessment of Catechins on Representative Aquatic Organisms and Terrestrial Plant.",
+  "abstract": "Catechins, renowned for their health benefits, have unexamined environmental impacts. This study assessed the toxicity of crude catechin and catechin hydrate on invertebrate larvae, plant, and microalgae. The survival rates ofDaphnia magnaStraus andArtemia salinaL. were monitored every 24 h over a three-day period. The germination rate and radicle length ofLactuca sativaL. was measured every 24 h for four days. Inhibitory effects were evaluated in both freshwater and seawater cultures ofChlorella vulgarisBeijerinck, with cell density recorded every 24 h and yield inhibition calculated after 96 h. Results indicated that increasing catechin concentration and exposure duration decreased the survival rate ofD. magnaandA. salina.Daphnia magnawas more sensitive to catechins thanA. salina, with 24 h lethal concentration 50 (LC-50) values of 1174 \u00b5g/mL compared to 1895 \u00b5g/mL for crude catechin, and 54 \u00b5g/mL compared to 153 \u00b5g/mL for catechin hydrate. The germination rate and radicle length ofL. sativa, along with the cell density ofC. vulgaris, decreased with increasing catechin concentration, but remained higher even after prolonged exposure. At low catechin concentrations,C. vulgariscell density exceeded control levels. This study demonstrates that catechins in aquatic environments can significantly impact ecosystems. At certain concentrations, catechins are toxic and potentially lethal to aquatic organisms. Conversely, at lower concentrations, catechins may promote microalgal growth, suggesting a fertilizing effect. Understanding these dynamics is crucial for maintaining the stability of aquatic ecosystems.",
+  "publication_date": "2025-05-14",
+  "journal": "Toxins",
+  "doi": "10.3390/toxins17050244",
+  "entities": {
+    "POLYPHENOL": [
+      "a fertilizing effect",
+      "aquatic ecosystems",
+      "catechin hydrate",
+      "catechins",
+      "crude catechin",
+      "increasing catechin concentration",
+      "inhibitory effects",
+      "low catechin concentrations"
+    ]
+  }
+}

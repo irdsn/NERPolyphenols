@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Effect of Diethylstilbestrol on Implantation and Decidualization in Mice.",
+  "abstract": "Diethylstilbestrol (DES) is a synthetic non-steroidal estrogen, which was widely used to prevent preterm birth and abortion from the 1940s to the 1970s. DES can increase the incidence of infertility, the abnormal reproductive tract, and autoimmune diseases. However, the mechanism underlying DES on early pregnancy in mice is unclear. This study evaluated the effects of DES on early pregnancy in mice, especially on uterine receptivity and decidualization. Newborn female mice were subcutaneously injected with 0.1 mg/kg DES, 1 mg/kg DES, or sesame oil as controls for 5 consecutive days. At 6 weeks old, these female mice were mated with 8-12-week-old fertile males to obtain pregnancy. The uteri of these mice were collected on days 4, 5, and 8 of pregnancy for further analysis. On days 5 and 8 of pregnancy, the number of implantation sites in 0.1 mg/kg DES group is similar to the control group, while almost no implantation sites are detected in the 1 mg/kg DES group. On day 4 of pregnancy, there was no significant difference in uterine receptive molecules between the control group and the 0.1 mg/kg DES group. However, the levels of uterine receptive molecules in the 1 mg/kg DES group are abnormal. In addition, 6 \u03bcM DES significantly inhibits mouse in vitro decidualization. The excessive activation of pyroptosis may lead to pregnancy failure. The pyroptosis-related molecules in the 1 mg/kg DES group were significantly up-regulated, suggesting that DES may contribute to pregnancy failure by over-activating pyroptosis.",
+  "publication_date": "2025-04-26",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26094122",
+  "entities": {
+    "POLYPHENOL": [
+      "5 consecutive days",
+      "decidualization",
+      "the effects",
+      "the mechanism",
+      "the pyroptosis-related molecules",
+      "uterine receptive molecules",
+      "uterine receptivity",
+      "vitro decidualization"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Procyanidin B2 attenuates microvascular dysfunction in diabetic retinopathy via inhibition of caspase-1/GSDMD mediated pyroptosis.",
+  "abstract": "In traditional Chinese medicine (TCM), grape seeds (Vitis vinifera) are believed to nourish the liver and kidney and improve blood circulation, which aligns with the pathophysiological needs of conditions characterized by microvascular dysfunction. Procyanidin B2 (PB2), a major active compound in grape seeds, has shown potent anti-inflammatory and vascular-protective effects. However, the specific role of PB2 in diabetic retinal microvasculature and its underlying molecular mechanisms remain unexplored.",
+  "publication_date": "2025-02-20",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.119528",
+  "entities": {
+    "FOOD": [
+      "grape seeds"
+    ],
+    "POLYPHENOL": [
+      "its underlying molecular mechanisms",
+      "potent anti-inflammatory and vascular-protective effects",
+      "procyanidin b2",
+      "the specific role"
+    ]
+  }
+}

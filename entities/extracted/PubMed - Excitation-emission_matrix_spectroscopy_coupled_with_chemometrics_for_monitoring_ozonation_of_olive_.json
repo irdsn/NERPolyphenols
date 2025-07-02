@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Excitation-emission matrix spectroscopy coupled with chemometrics for monitoring ozonation of olive oil and olive pomace oil.",
+  "abstract": "The effects of ozonation on the Total Polyphenol Content (TPC) of olive oils remain largely unexplored, despite the significant role that polyphenols play in enhancing the health benefits and quality of these oils. Understanding how ozone treatment impacts phenolic compounds is vital, especially considering the documented negative effects of thermal and photochemical oxidation on TPC. The aim of this study was to explore the use of fluorescence spectroscopy combined with chemometrics to develop multivariate models for monitoring the effects of ozonation on TPC and key physicochemical parameters such as the peroxide index (PI), acidity index (AI), iodine value (IV) and viscosity (V) in both, virgin and pomace olive oils. Parallel factor analysis and principal component analysis of fluorescence excitation-emission matrices (EEMs) of ozonated olive oils revealed that as the ozonation process progressed, TPC and fluorescence emission decreased. And, at the same time, ozonation increased the values of oxidation indicators such as PI, AI, viscosity and intensity of the Rayleigh scattering signal. PLS models based on analysis of unfolded EEMs exhibited good predictive performance for PI (R2= 0.822; RPD > 2.5), and moderate for TPC and V (R2= 0.792 and 0.753; RPD > 2). In summary, we demonstrated the feasibility of EEM spectroscopy for monitoring the ozonation process. The use of this method can ease the characterization of ozonated olive oils and, additionally, make the analysis more sustainable.",
+  "publication_date": "2025-02-20",
+  "journal": "Analytical methods : advancing methods and applications",
+  "doi": "10.1039/d4ay02267j",
+  "entities": {
+    "POLYPHENOL": [
+      "fluorescence spectroscopy",
+      "phenolic compounds",
+      "polyphenols",
+      "the documented negative effects",
+      "the effects",
+      "the total polyphenol content"
+    ],
+    "FOOD": [
+      "olive oils",
+      "ozonated olive oils"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Valorization of garlic (Allium sativum L.) byproducts: Bioactive compounds, biological properties, and applications.",
+  "abstract": "A multifunctional crop, garlic (Allium sativum L.) belongs to Amaryllidaceae family. It is of high medicinal, nutraceutical, and culinary importance. Its products, including essential oil, aged garlic extract, aged black garlic, and garlic powder, are a potential storehouse of organosulfur compounds, flavonoids, and saponins with diverse biological properties, which include antioxidant, anti-inflammatory, antimicrobial, and cardio-protective properties. These developments recently drew in significant therapeutic powers through a better control mechanism in chronic diseases, including cancer, cardiovascular, neurodegenerative conditions, and hypertension. The processing of garlic byproducts usually increases their efficacy through the improvement of bioavailability and reducibility of undesirable characteristics such as odor. More so, supercritical fluid extraction and ultrasound-assisted methods have improved isolation yields of bioactive compounds with stronger stability. This review puts emphasis on the biochemical composition and biological properties of garlic byproducts, underlining their use as sustainable and effective natural medicine sources. The findings have placed an emphasis on the use of garlic byproducts in functional foods and pharmaceutical preparations to deal with global health challenges. Future research should be aimed at eliciting information on pharmacokinetics, safety, and long-term efficacy of these byproducts from garlic in order to fully appraise them in the clinical field.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70152",
+  "entities": {
+    "FOOD": [
+      "aged black garlic",
+      "aged garlic extract",
+      "functional foods",
+      "garlic",
+      "garlic byproducts",
+      "garlic powder"
+    ],
+    "POLYPHENOL": [
+      "a better control mechanism",
+      "antioxidant, anti-inflammatory, antimicrobial, and cardio-protective properties",
+      "flavonoids",
+      "sustainable and effective natural medicine sources"
+    ],
+    "SYMPTOM": [
+      "cancer",
+      "hypertension"
+    ]
+  }
+}

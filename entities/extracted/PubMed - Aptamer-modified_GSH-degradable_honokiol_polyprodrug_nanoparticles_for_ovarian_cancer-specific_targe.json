@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Aptamer-modified GSH-degradable honokiol polyprodrug nanoparticles for ovarian cancer-specific targeting therapy.",
+  "abstract": "Honokiol (HK) is a polyphenol isolated from the Magnolia genus, a component of traditional Chinese herbal medicine, which can effectively suppress the growth of various tumors, including ovarian cancer. However, its low water solubility and lack of tumor-targeting ability have greatly hindered the clinical application of HK. Herein, a glutathione (GSH)-sensitive HK polyprodrug was prepared using HK as the backbone. An EpCAM-specific aptamer and poly(ethylene glycol) (PEG) were then conjugated to the HK polyprodrug, and the resulting polyprodrug was assembled into nanoparticles (NPs) in water. The HK polyprodrug-formed NPs achieved high drug loading and GSH-responsive drug release. Moreover, after optimization, HK polyprodrug NPs (A/P-PHK NP40), formed by aptamer-modified and PEG-modified prodrug at a feed molar ratio of 2: 3, exhibited the highest ability to target EpCAM-overexpressing ovarian cancer cells. A/P-PHK NP40 also demonstrated a greater cell growth inhibition effect in ovarian cancer cells compared to free HK and control HK NPs. All in all, this work reported a novel strategy for HK delivery based on microenvironment responsiveness polyprodrug, which provided a potential method for ovarian cancer targeting therapy.",
+  "publication_date": "2025-04-01",
+  "journal": "Bioorganic & medicinal chemistry letters",
+  "doi": "10.1016/j.bmcl.2025.130215",
+  "entities": {
+    "POLYPHENOL": [
+      "a greater cell growth inhibition effect",
+      "a polyphenol",
+      "an epcam-specific aptamer and poly(ethylene glycol"
+    ],
+    "SYMPTOM": [
+      "epcam-overexpressing ovarian cancer cells",
+      "ovarian cancer",
+      "ovarian cancer cells"
+    ]
+  }
+}

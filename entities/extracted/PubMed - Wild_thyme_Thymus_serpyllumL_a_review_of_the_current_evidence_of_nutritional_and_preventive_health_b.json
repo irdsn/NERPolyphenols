@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Wild thyme (Thymus serpyllumL.): a review of the current evidence of nutritional and preventive health benefits.",
+  "abstract": "Thymus serpyllumL. (Lamiaceae), known in English as 'wild thyme', is primarily found in the Palearctic realm (Eurasia, North Africa) and has been utilized traditionally for culinary, nutritional, medicinal, and aromatic purposes. The essential oil extracted from wild thyme is particularly noteworthy, being used extensively in the food industry as a flavoring agent and preservative. The plant's aerial parts are commonly employed as an element of the diet (e.g., tea)/for culinary uses and in local/traditional medicine (primarily for managing respiratory and gastrointestinal conditions), similar to the use of common thyme. There is practically no information available on the species' nutritional benefits. Pharmacological studies, includingin vitroandin vivoresearch, alongside a limited number of clinical trials, have investigated extracts ofThymus serpyllum, although these extracts are often phytochemically poorly characterized in different experimental protocols and models. These studies have demonstrated a range of therapeutic effects, such as antimicrobial (notably the essential oil) and anti-inflammatory, as well as its preventative health benefits and nutritional value of wild thyme. Preclinical studies have corroborated the plant's anti-inflammatory potential, particularly in conditions like inflammatory bowel diseases (IBD) and irritable bowel syndromes (IBS). Additionally, evidence of hepatoprotective activities and benefits in managing metabolic syndrome and cardiovascular health issues, such as lipid metabolism regulation, cholesterol reduction, antidiabetic, antihypertensive, and immunomodulatory effects, have been observed predominantly in rodent models. Phytochemical analysis of wild thyme reveals an essential oil fraction below 1%, along with non-volatile compounds predominantly comprising phenolic acids (such as rosmarinic, salvianolic, and caffeic acids) and flavonoids (mainly glucosides of luteolin, apigenin, and their derivatives). These components are believed to contribute significantly to the plant's medicinal, nutritional, and preventive health properties. Despite promising findings, there is a need for more rigorously designed controlled clinical trials using phytochemically characterized wild thyme. The plant has an excellent safety and tolerability record. This review at the interface of nutritional/preventive health properties and as pharmacological activities highlights the current role of wild thyme in nutrition and general healthcare as well as its future potential, and also points to important gaps in the literature.",
+  "publication_date": "2024-05-23",
+  "journal": "Frontiers in nutrition",
+  "doi": "10.3389/fnut.2024.1380962",
+  "entities": {
+    "FOOD": [
+      "common thyme",
+      "phytochemically characterized wild thyme",
+      "wild thyme"
+    ],
+    "POLYPHENOL": [
+      "an excellent safety and tolerability record",
+      "antidiabetic, antihypertensive, and immunomodulatory effects",
+      "apigenin",
+      "flavonoids",
+      "hepatoprotective activities",
+      "luteolin",
+      "preclinical studies",
+      "the species' nutritional benefits",
+      "therapeutic effects"
+    ],
+    "SYMPTOM": [
+      "inflammatory bowel diseases",
+      "metabolic syndrome"
+    ]
+  }
+}

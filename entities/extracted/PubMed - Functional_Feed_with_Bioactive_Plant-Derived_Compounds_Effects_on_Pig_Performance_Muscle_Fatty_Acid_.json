@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Functional Feed with Bioactive Plant-Derived Compounds: Effects on Pig Performance, Muscle Fatty Acid Profile, and Meat Quality in Finishing Pigs.",
+  "abstract": "Recent studies have highlighted the potential of plant-based and agro-industrial by-products as valuable sources of bioactive compounds for animal feed formulation. This study aims to evaluate the impact of dietary supplementation withOlea europaeaL. leaf extract on the fatty acid composition of pig muscle. Thirty commercial hybrid pigs (Large White \u00d7 (Landrace \u00d7 Duroc)), with an initial body weight of 169 \u00b1 7.90 kg and an average age of 10 \u00b1 1 months, were randomly assigned to two experimental groups (n= 15 per group): one fed a standard diet containing Sulla (C) and the other receiving the same diet enriched with olive leaf extract (OL). Over 90 days, the OL group was supplemented with 300 mg/head/day of olive leaf extract, primarily containing oleuropein diglucoside, luteolin-7-glucoside, and verbascoside. The phenolic content, antioxidant activity, bioactive compounds, and fatty acid profiles of both meats and diets were analyzed. Results showed that OL supplementation did not significantly affect the chemical composition of the meat or pig performance, but it did influence the lipid profile. Specifically, OL supplementation led to a significant reduction in saturated fatty acids (SFAs) and an increase in oleic acid, thus enhancing the proportion of monounsaturated fatty acids (MUFAs). Moreover, the n-6/n-3 PUFA ratio in the meat was significantly reduced, suggesting potential improvements in the nutritional and functional quality of pig meat, enhancing the nutritional and functional quality of the meat by improving its fatty acid profile.",
+  "publication_date": "2025-02-13",
+  "journal": "Animals : an open access journal from MDPI",
+  "doi": "10.3390/ani15040535",
+  "entities": {
+    "POLYPHENOL": [
+      "oleuropein diglucoside, luteolin-7-glucoside",
+      "recent studies"
+    ]
+  }
+}

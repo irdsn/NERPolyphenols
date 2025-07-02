@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Concentrating Cocoa Polyphenols-Clarification of an Aqueous Cocoa Extract by Protein Precipitation and Filtration.",
+  "abstract": "The seeds ofTheobroma cacaoL. are rich in antioxidant flavonoids such as flavan-3-ols, which are valued for their health benefits. In this context, it is of interest to improve flavanol content in cocoa extracts. The present study aimed at improving the clarification process of an aqueous cocoa extract using protein precipitation and filtration. Five pH modifications and two bentonite amounts were tested for their effects on protein precipitation and flavanol content. Micro- and ultrafiltration as a subsequent step was done by testing three different ceramic membranes (30, 80, and 200 nm). Lower pH in pre-treatment reduced protein content and kept flavanols constant, while at higher pH, flavanols were reduced up to 40%. Larger membrane pores enhanced polyphenol permeation, while smaller pores limited protein permeation. Adjusting pH to the isoelectric point increased protein adsorption, improving filtration quality despite decreased permeate flux. However, membrane fouling results in higher permeate quality due to increased selectivity. Furthermore, the addition of bentonite during filtration reduced both protein and flavanol content in the permeate, similar to the effects seen in the pre-treatment of the supernatant. Optimizing pH and membrane pore size enhances the recovery and quality of polyphenols during filtration, balancing protein removal and flavanol retention.",
+  "publication_date": "2024-11-17",
+  "journal": "Membranes",
+  "doi": "10.3390/membranes14110242",
+  "entities": {
+    "POLYPHENOL": [
+      "antioxidant flavonoids",
+      "decreased permeate flux",
+      "enhanced polyphenol permeation",
+      "increased selectivity",
+      "polyphenols",
+      "protein precipitation",
+      "the effects",
+      "the isoelectric point",
+      "the recovery",
+      "their effects"
+    ],
+    "FOOD": [
+      "an aqueous cocoa extract",
+      "cocoa extracts"
+    ]
+  }
+}

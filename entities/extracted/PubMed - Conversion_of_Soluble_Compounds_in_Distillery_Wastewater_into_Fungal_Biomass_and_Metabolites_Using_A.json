@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Conversion of Soluble Compounds in Distillery Wastewater into Fungal Biomass and Metabolites Using AustralianGanodermaIsolates.",
+  "abstract": "Stillage is an acidic residue from ethanol production that has a high carbon load. Here,Ganodermaisolates were assessed for the treatment of rum stillage while producing biomass and associated metabolites. Isolates grew in 25% raw stillage, removing up to 73% of soluble organic carbon, 77% soluble nitrogen, and 74% phenolic compounds. Isolate G2 demonstrated faster removal of organic carbon and nitrogen. Biomass and metabolite production were benchmarked against a nutrient medium. In stillage, maximum values of the following were obtained: 8.2 g\u00b7L-1biomass; 52.8% crude protein; 22.1 mg\u00b7g-1extractable protein; antioxidants of 17.2 mg TE\u00b7g-1(2,2'-azino-di-(3-ethylbenzothiazoline-6-sulfonic acid), ABTS) and 16.6 \u00b5mol Fe2+\u00b7g-1(ferric reducing antioxidant power, FRAP); 2.9 mg GAE\u00b7g-1phenolic compounds (gallic acid equivalents); 1.2% lipids; and 11% \u03b2-glucans. In the nutrient medium, the following were obtained: 6.9 g\u00b7L-1biomass; 56.4% crude protein; 38.7 mg\u00b7g-1extractable protein; antioxidants of 24.9 mg TE\u00b7g-1(ABTS) and 25.9 \u00b5mol Fe2+\u00b7g-1(FRAP); 6.0 mg GAE\u00b7g-1phenolic compounds; 0.7% lipids; and 13% \u03b2-glucans. To our knowledge, this is the first report detailing the biomass metabolite content ofGanodermamycelium using rum stillage. The production of edible biomass containing bioactive products demonstrates the potential of usingGanodermastrains to valorize this residue.",
+  "publication_date": "2025-06-06",
+  "journal": "Journal of fungi (Basel, Switzerland)",
+  "doi": "10.3390/jof11060432",
+  "entities": {
+    "POLYPHENOL": [
+      "2.9 mg gae\u00b7g-1phenolic compounds",
+      "6.0 mg gae\u00b7g-1phenolic compounds",
+      "74% phenolic compounds",
+      "gallic acid equivalents"
+    ]
+  }
+}

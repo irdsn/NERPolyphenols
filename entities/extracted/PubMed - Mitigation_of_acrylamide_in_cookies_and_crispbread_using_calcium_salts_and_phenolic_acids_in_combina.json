@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Mitigation of acrylamide in cookies and crispbread using calcium salts and phenolic acids in combination with asparaginase as well as rosemary extract.",
+  "abstract": "Acrylamide is formed during high-temperature treatment in foods and presents a significant health and regulatory challenge. This study evaluates the effects of calcium salts and phenolic acids alone or in combination with asparaginase and rosemary extract in wheat cookies and rye crispbread. Acrylamide content, product color, texture, and sensory properties were assessed. When calcium salts and phenolic acids were used alone, acrylamide was reduced by 46\u00a0% and 50\u00a0% compared to the control. A combination of these with asparaginase resulted in a reduction of acrylamide by up to 89\u00a0% using ellagic acid. Specific treatments reduced cookie hardness, but asparaginase addition reversed this effect. Color mainly remained unaffected. Sensory analysis of selected treatments confirmed no significant changes in cookie aroma, taste, color, texture, and acceptability. This work provides a new approach by combining selected treatments to mitigate acrylamide while preserving product quality.",
+  "publication_date": "2025-05-30",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102605",
+  "entities": {
+    "POLYPHENOL": [
+      "ellagic acid",
+      "selected treatments",
+      "specific treatments",
+      "the effects",
+      "this effect"
+    ],
+    "FOOD": [
+      "rosemary extract",
+      "wheat cookies"
+    ]
+  }
+}

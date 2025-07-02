@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Beyond skin-deep: targeting the plant surface for crop improvement.",
+  "abstract": "The above-ground plant surface is a well-adapted tissue layer that acts as an interface between the plant and its surrounding environment. As such, its primary role is to protect against desiccation and maintain the gaseous exchange required for photosynthesis. Further, this surface layer provides a barrier against pathogens and herbivory, while attracting pollinators and agents of seed dispersal. In the context of agriculture, the plant surface is strongly linked to post-harvest crop quality and yield. The epidermal layer contains several unique cell types adapted for these functions, while the non-lignified above-ground plant organs are covered by a hydrophobic cuticular membrane. This review aims to provide an overview of the latest understanding of the molecular mechanisms underlying crop cuticle and epidermal cell formation, with focus placed on genetic elements contributing towards quality, yield, drought tolerance, herbivory defence, pathogen resistance, pollinator attraction, and sterility, while highlighting the inter-relatedness of plant surface development and traits. Potential crop improvement strategies utilizing this knowledge are outlined in the context of the recent development of new breeding techniques.",
+  "publication_date": "2023-11-01",
+  "journal": "Journal of experimental botany",
+  "doi": "10.1093/jxb/erad321",
+  "entities": {
+    "POLYPHENOL": [
+      "new breeding techniques",
+      "the molecular mechanisms",
+      "the recent development"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Dietary patterns and exposure to non-persistent endocrine-disrupting chemicals during pregnancy.",
+  "abstract": "Exposure to non-persistent endocrine disrupting chemicals (EDCs) is widespread, causing various adverse health effects, especially during pregnancy. Diet is a major source of EDCs and the identification of dietary patterns that give rise to higher exposure levels is crucial. We aimed to explore the relationship between dietary patterns during pregnancy and exposure to non-persistent EDCs.",
+  "publication_date": "2025-06-16",
+  "journal": "Environment international",
+  "doi": "10.1016/j.envint.2025.109612",
+  "entities": {
+    "POLYPHENOL": [
+      "various adverse health effects"
+    ]
+  }
+}

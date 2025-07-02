@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Potential use of red hibiscus flower extract for the production of spray-chilled microparticles: Characterization, stability, and bioaccessibility in vitro of anthocyanins.",
+  "abstract": "Microparticles (MLP) containing red hibiscus flower (Hibiscus rosa-sinensis) anthocyanins were produced by spray chilling, and characterized for physicochemical parameters, accelerated stability, and gastrointestinal release profile. Fully hydrogenated palm oil and cocoa butter were used as wall materials, at a lipid blend to hibiscus extract ratio of 70:30 (w/w). The lipid blends containing fully hydrogenated palm oil (FHPO) and cocoa butter (CB) were produced by ultrasound-assisted technique in the following FHPO to CB ratios: 100:0 (Control), 75:25, 50:50, 60:40, and 40:60. Increasing the cocoa butter content reduced the melting temperature and increased the unstable polymorphic behavior of the microparticles, resulting in amorphous characteristics. The microparticles exhibited higher viscosity, more agglomerates, and holes on the surface, and greater diameters. Characteristic peaks corresponding to the hibiscus extract were observed in the infrared spectra of the spray-chilled microparticles, indicating that the microencapsulation did not affect the anthocyanins. The antioxidant capacity of the red hibiscus anthocyanins ranged from 75\u00a0% to 79\u00a0%, with the best result observed for the treatment MLP_75:25. Higher antioxidant activities were observed for the lipid blends containing lower cocoa butter concentrations. Concerning the release profile of anthocyanins, the simulated GI digestion in vitro showed reduced release in the gastric tract and more intense release in the intestinal tract for an effective absorption of the antioxidant compounds in the small intestine. Furthermore, the treatment MLP_75:25 showed the highest encapsulation retention and lower total color difference in the accelerated stability study. Overall, the microparticles from all treatments were light-sensitive and thermosensitive at 35\u00a0\u00b0C. Thus, it is recommended to store the particles in a dark environment at temperatures below 35\u00a0\u00b0C for an effective use of the microparticles as natural food colorants.",
+  "publication_date": "2023-10-10",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2023.113570",
+  "entities": {
+    "FOOD": [
+      "cocoa butter",
+      "fully hydrogenated palm oil and cocoa butter",
+      "lower cocoa butter concentrations",
+      "the cocoa butter content"
+    ],
+    "POLYPHENOL": [
+      "an effective absorption",
+      "an effective use",
+      "the infrared spectra",
+      "ultrasound-assisted technique"
+    ]
+  }
+}

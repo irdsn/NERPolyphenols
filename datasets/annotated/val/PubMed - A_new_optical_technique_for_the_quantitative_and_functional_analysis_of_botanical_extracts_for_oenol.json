@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "A new optical technique for the quantitative and functional analysis of botanical extracts for oenological use.",
+  "abstract": "Eighty-six oenological tannins including condensed (TanCondx) and ellagitannins (TanElx) were analyzed for their total polyphenols content (TPC), polymeric tannins content (TAC) and antiradical activity (AA). Results from the reference spectrophotometric methods (Adams-Harbertson AH assay and DPPH\u2022 radical scavenging) were compared with the optical measurements obtained using a technique related to the Spectral Sensitive Pulsed Photometry (SSPP) - a new method suggested in a patented industrial invention for the quantification of tannins, and based on the reactivity of the polyphenolic compounds against targeted reagents: (i) a buffered bovine serum albumin (BSA) solution to measure TAC, and (ii) a soluble polyvinylpyrrolidone (PVP) resin for the TPC and AA measurements. Reactions of polyphenols with BSA and PVP enabled a dose-dependent turbidity development which was monitored under irradiation detected by the 875\u00a0nm sensitivity peak photodiode. The SSPP-BSA estimated the TAC in the extracts with appreciable precision (adj. R2=\u00a00.966 against AH, Root Mean Square Error RMSE 22.18\u00a0mg\u00a0CE /g dw); The TPC and AA estimates were good (TPC: adj. R2=\u00a00.917 against AH, RMSE 75.13\u00a0mg\u00a0CE /g dw; AA: adj. R2=\u00a00.913 against DPPH\u2022, RMSE 6.41\u00a0% scavenging), although affected by some scatter phenomena. TAC, TPC and AA are key parameters for the classification of oenological extracts and the extraction process from by-products can be improved by the rapid quality control through the proposed assay.",
+  "publication_date": "2025-05-07",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116562",
+  "entities": {
+    "POLYPHENOL": [
+      "a technique",
+      "appreciable precision",
+      "eighty-six oenological tannins",
+      "ellagitannins",
+      "polymeric tannins content",
+      "polyphenols",
+      "tannins",
+      "the polyphenolic compounds",
+      "the reference spectrophotometric methods",
+      "the spectral sensitive pulsed photometry",
+      "their total polyphenols content"
+    ]
+  }
+}

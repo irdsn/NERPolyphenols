@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Revealing the Beauty Potential of Grape Stems: Harnessing Phenolic Compounds for Cosmetics.",
+  "abstract": "Grape stems have emerged as a promising natural ingredient in the cosmetics industry due to their abundance of phenolic compounds, known for their antioxidant and anti-inflammatory properties. These compounds have shown great potential in promoting skin health, fighting signs of aging, and shielding against environmental stressors. With high concentrations of resveratrol, flavonoids, and tannins, grape stems have garnered attention from cosmetic scientists. Research has indicated that phenolic compounds extracted from grape stems possess potent antioxidant abilities, effectively combating free radicals that accelerate aging. Moreover, these compounds have demonstrated the capacity to shield the skin from UV damage, boost collagen production, and enhance skin elasticity. Cosmetic formulations incorporating grape stem extracts have displayed promising results in addressing various skin concerns, including reducing wrinkles, fine lines, and age spots, leading to a more youthful appearance. Additionally, grape stem extracts have exhibited anti-inflammatory properties, soothing irritated skin and diminishing redness. Exploring the potential of grape stem phenolic compounds for cosmetics paves the way for sustainable and natural beauty products. By harnessing the beauty benefits of grape stems, the cosmetics industry can provide effective and eco-friendly solutions for consumers seeking natural alternatives. Ongoing research holds the promise of innovative grape stem-based formulations that could revolutionize the cosmetics market, fully unlocking the potential of these extraordinary botanical treasures.",
+  "publication_date": "2023-07-21",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms241411751",
+  "entities": {
+    "FOOD": [
+      "a more youthful appearance",
+      "grape",
+      "grape stem extracts",
+      "grape stems",
+      "innovative grape stem-based formulations"
+    ],
+    "POLYPHENOL": [
+      "effective and eco-friendly solutions",
+      "flavonoids",
+      "grape stem phenolic compounds",
+      "phenolic compounds",
+      "resveratrol",
+      "tannins"
+    ],
+    "SYMPTOM": [
+      "aging",
+      "environmental stressors"
+    ]
+  }
+}

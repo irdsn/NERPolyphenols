@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Quantitative Comparison of Yield, Quality, and Metabolic Products of Different Medicinal Parts of Two Types ofPerilla frutescensCultivated in a New Location from Different Regions.",
+  "abstract": "This study focuses on multiple origins of green-back purple and dual-faced purplePerilla frutescens, employing field cultivation experiments combined with detection methods, such as HPLC, LC-MS, and GC-MS, to compare the differences in yield, quality, and metabolic products of the different coloredP. frutescens. The results indicate that green-back purpleP. frutescenssignificantly outperformed dual-faced purpleP. frutescensin terms of leaf, stem, and seed yields, while the effective component contents in the leaves and seeds of dual-faced purpleP. frutescensare higher than those of dual-faced greenP. frutescens. An analysis of the anthocyanin components inP. frutescensleaves and the volatile components inP. frutescensseeds shows that the total anthocyanin content in dual-faced purpleP. frutescensleaves is 34.63% higher than that in green-back purpleP. frutescens, whereas the total volatile components in the seeds of green-back purpleP. frutescensexceeds those in dual-facedP. frutescensby 12.99%. The Mantel test indicates a potential correlation mechanism between the anthocyanin components inP. frutescensleaves and the volatile components inP. frutescensseeds, which are significantly associated with the yield quality of bothP. frutescensleaves and seeds. This study found thatP. frutescenswith blue-green leaves yields more than double-sided purpleP. frutescens, although the quality of its leaves and seeds is inferior to that of double-sided purpleP. frutescens. Furthermore, the anthocyanin components inP. frutescensleaves and the volatile components inP. frutescensseeds exhibit significant correlations with the yield and quality of both leaves and seeds, offering important insights for the production and application ofP. frutescens.",
+  "publication_date": "2025-05-15",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14101486",
+  "entities": {
+    "POLYPHENOL": [
+      "a potential correlation mechanism",
+      "detection methods",
+      "the effective component contents"
+    ]
+  }
+}

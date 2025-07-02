@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Antibacterial Activity and Molecular Docking of Lignans Isolated fromArtemisia cinaAgainst Multidrug-Resistant Bacteria.",
+  "abstract": "The World Health Organization notes that some bacteria have been demonstrated to possess significant public health risks; they have antibiotic resistance, and there are fewer alternatives for control. Then-hexane extract and cinaguaiacin obtained fromArtemisia cinashow promising antibacterial activity, including against multidrug-resistant bacteria that affect animal and human health.Objective:The aim of this study was to determine the antibacterial activity of then-hexane extract ofA. cinaand cinaguaiacin against multidrug-resistant bacteria.Methods:A. cinawas collected in the pre-flowering period, then-hexane extract was obtained, and chromatographic techniques and structure were used to separate the lignans, which were elucidated with nuclear magnetic resonance techniques. Four ATCC strains were used, and four strains were isolated from clinical cases with different resistance profiles. The antibacterial activity was determined by calculating the Minimum Inhibitory Concentration (MIC), Minimum Bactericidal Concentration (MBC), the time-kill kinetics assay, and the cell membrane integrity and DNA release assay. Molecular docking studies of lignans demonstrated the binding mode involved in the active site of DNA gyrase B.Results:Then-hexane extract inhibited growth against 87.5% of the strains tested (MIC 5.31 to 42.5 mg/mL) and showed bactericidal activity against 25% of the strains tested (MBC 0.62 to 85 mg/mL). Cinaguaiacin inhibited growth against 100% of the strains tested (MIC, 0.56 to 2.25 mg/mL) and exhibited bactericidal activity against 25% of the strains tested (MBC, 0.62 to 85 mg/mL).Conclusions:The mechanism of cinaguaiacin's action may be associated with damage to the plasma membrane, as the protein and DNA levels were higher than those of the positive control. The n-hexane extract and cinaguaiacin obtained fromA. cinashowed a bacteriostatic or bactericidal effect, depending on the strain evaluated.",
+  "publication_date": "2025-05-23",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18060781",
+  "entities": {
+    "POLYPHENOL": [
+      "a bacteriostatic or bactericidal effect",
+      "chromatographic techniques",
+      "molecular docking studies",
+      "nuclear magnetic resonance techniques",
+      "objective",
+      "the mechanism"
+    ]
+  }
+}

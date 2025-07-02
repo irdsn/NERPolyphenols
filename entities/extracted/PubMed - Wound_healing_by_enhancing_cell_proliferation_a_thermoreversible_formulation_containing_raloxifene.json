@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Wound healing by enhancing cell proliferation: a thermoreversible formulation containing raloxifene.",
+  "abstract": "The challenge of ineffective wound healing, leading to chronic conditions necessitates the development of novel therapeutics strategies. Currently, a plethora of ailments have been researched and marketed globally to accelerate angiogenesis, re-epithelization, collagen synthesis, and proliferation. However, clinical translation remains challenging and requires rigorous pre- and post-clinical screening. Here, we have developed a formulation encapsulating Raloxifene, a repurposed drug, aimed to induce accelerated wound healing. Four different formulations (Forms 1, 2, 3, and 4) incorporating alginate, poloxamer 407 (P407), LiCl, and fetal bovine serum were prepared. Formulations were characterized by scanning electron microscopy, Fourier Transformation infrared spectroscopy, and rheology. In vitro assessments encompassing cell viability, cell migration, and drug release profile were conducted, subsequently, the in vivo wound healing potential was evaluated in Sprague Dawley\u00a0(SD) rats. In results, we observed significant\u00a0(p-value<0.05) wound healing by Form 3 at \u00a014th due to up-regulation of TGF\ua7b5, Col-I and GSK3\u03b2 genes. The histology results showed complete development of epidermis, endoderm and collagen fibers by Form 3, leading to\u00a0complete healing. This formulation shows promise for clinical application in accelerated wound healing processes.",
+  "publication_date": "2025-04-24",
+  "journal": "Cell and tissue banking",
+  "doi": "10.1007/s10561-025-10171-6",
+  "entities": {
+    "POLYPHENOL": [
+      "electron microscopy",
+      "ineffective wound healing",
+      "spectroscopy"
+    ]
+  }
+}

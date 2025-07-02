@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Efficacy of Dietary Supplementation in the Relief of Inflammatory Bowel Disease: A Systematic Review of Animal Studies.",
+  "abstract": "Supplementation with dietary components is a promising approach for the treatment of inflammatory bowel disease (IBD).",
+  "publication_date": "2025-06-01",
+  "journal": "Nutrition reviews",
+  "doi": "10.1093/nutrit/nuae224",
+  "entities": {
+    "SYMPTOM": [
+      "inflammatory bowel disease"
+    ]
+  }
+}

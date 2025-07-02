@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Myricetin prevents roast chicken breast-induced liver damage by regulating NF-\u03baB/MAPK signaling pathway-mediated liver inflammation and intestine barrier damage in mice.",
+  "abstract": "Roast chicken breast contains a certain number of heterocyclic amines (HCAs), which induces damage of liver, colon, and other organs. Myricetin (MY) is a polyhydroxyl flavonol compound known for its anti-inflammatory and various other pharmacological activities, but its mechanisms related to alleviating HCAS-induced liver inflammation are unclear.",
+  "publication_date": "2025-05-02",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156739",
+  "entities": {
+    "POLYPHENOL": [
+      "its mechanisms",
+      "myricetin"
+    ],
+    "SYMPTOM": [
+      "hcas-induced liver inflammation"
+    ]
+  }
+}

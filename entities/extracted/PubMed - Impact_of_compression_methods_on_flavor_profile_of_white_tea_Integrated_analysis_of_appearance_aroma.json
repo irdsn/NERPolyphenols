@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Impact of compression methods on flavor profile of white tea: Integrated analysis of appearance, aroma, and taste.",
+  "abstract": "Shaping significantly influences the flavor profile of white tea. This study employed integrated metabolomics-chemometrics to analyze non-volatile/volatile compounds in three processing protocols: compressing withered leaves into tea cakes (WT), lightly compressing into tea cakes after steaming (LS), and heavily compressing into tea cakes after steaming (HS), with traditional white tea (loose tea) (TT) as the control group. The findings indicated that WT exhibited significantly elevated contents of catechins and total amino acids compared to LS and HS as well as greater soluble sugar content than LS. Nine key volatile compounds were identified including: nonanoic acid, 1-octen-3-ol,(E, E)-3,5-octadien-2-one, and 4-oxoisophoron. The analysis of non-volatile and volatile key compounds aligned with the sensory evaluations of sweetness, and floral-fruit aromas. The WT technology produced appealing fruity and floral aromas while preserving freshness and sweetness, offering a new approach for white tea cake processing.",
+  "publication_date": "2025-05-07",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102510",
+  "entities": {
+    "FOOD": [
+      "traditional white tea",
+      "white tea",
+      "white tea cake processing"
+    ],
+    "POLYPHENOL": [
+      "catechins",
+      "the wt technology"
+    ]
+  }
+}

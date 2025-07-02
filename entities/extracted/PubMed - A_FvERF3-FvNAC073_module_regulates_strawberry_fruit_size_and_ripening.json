@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "A FvERF3-FvNAC073 module regulates strawberry fruit size and ripening.",
+  "abstract": "The enlargement and ripening processes of fruit are crucial determinants of size, texture, color, flavor, and other attributes. However, compared to climacteric fruits, research on the key regulatory factors involved in the enlargement and ripening of non-climacteric fruits is limited. In this study, two transcription factors, FvNAC073 and FvERF3, were identified as master regulators for the fruit enlargement and ripening process of strawberry, a non-climacteric fruit. Knockout mutations of FvNAC073 and silencing of FvERF3 resulted in reduced fruit size and delayed fruit ripening. FvNAC073 promotes strawberry fruit expansion by upregulating FvXTH3 (an elongation-specific cell wall hydrolase) and accelerates ripening by inducing FvMYB10 and FvPL1, which regulate anthocyanin biosynthesis and softening, respectively. Additionally, FvNAC073 stimulates the expression of the ABA synthesizing gene FvNCED5, increases ABA content, which further enhances strawberry fruit ripening. Further investigation showed that FvERF3 directly binds to the promoter of FvNAC073, thereby activating FvNAC073 expression to regulate strawberry fruit enlargement and ripening. Our findings uncover that FvNAC073 and FvERF3 form a core regulation module to control the enlargement and ripening of strawberry fruit.",
+  "publication_date": "2025-06-01",
+  "journal": "The Plant journal : for cell and molecular biology",
+  "doi": "10.1111/tpj.70262",
+  "entities": {
+    "FOOD": [
+      "strawberry",
+      "strawberry fruit",
+      "strawberry fruit enlargement"
+    ],
+    "POLYPHENOL": [
+      "an elongation-specific cell wall hydrolase"
+    ]
+  }
+}

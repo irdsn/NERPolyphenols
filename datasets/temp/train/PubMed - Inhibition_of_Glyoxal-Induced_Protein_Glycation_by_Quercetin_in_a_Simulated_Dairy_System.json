@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Inhibition of Glyoxal-Induced Protein Glycation by Quercetin in a Simulated Dairy System.",
+  "abstract": "Glyoxal (GO) is a representative α-dicarbonyl compound that plays a significant role as an intermediate in protein glycation. GO-induced protein glycation negatively affects the nutritional quality of dairy products. In this study, a common flavonoid quercetin (Que) was utilized to inhibit GO-induced protein glycation in a heat-treated (85°C for 2 h) dairy protein model containing whey protein isolate (WPI) (3 mg/mL) and GO (1 mM). High-performance liquid chromatography (HPLC) quantification confirmed the GO-trapping capacity of Que. Furthermore, fluorescence analysis demonstrated that Que (at concentrations of 0.1, 1, and 2 mM) significantly reduced the formation of advanced glycation end-products (AGEs). Western blot analysis revealed the generation of Nε-(carboxymethyl)lysine (CML), a representative of nonfluorescent AGEs induced by GO, and showed that Que inhibited CML formation. Additionally, the effects of Que on protein total sulfhydryl groups, solubility, surface hydrophobicity, tryptophan fluorescence, digestibility, and surface microstructure were evaluated. Molecular docking studies indicated that Que exhibits a higher binding affinity for β-lactoglobulin (β-LG) compared to GO. Overall, the inhibition of GO-induced glycation in WPI by Que is attributed to its GO-scavenging capacity and its ability to protect glycation sites on the protein.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70252"
+}

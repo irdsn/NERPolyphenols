@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Spondias purpureaL. Bark Extract Protects against Oxidative Stress and Reduces Hypercholesterolemia in Mice Fed High-Fat Diet.",
+  "abstract": "Oxidative stress plays a key role in the initiation and progression of metabolic diseases, including obesity. Preventing the accumulation of reactive oxygen species and oxidative damage to macromolecules is a beneficial strategy for reducing comorbidities associated with obesity. Fruits from theSpondiasgenus are known for their antioxidant activity, but they are not available year-round due to their seasonality. In this context, we investigated the antioxidant activity and identified the chemical constituents of the aqueous extract of the stem bark ofSpondias purpureaL. (EBSp). Additionally, we evaluated the effect of EBSp consumption on metabolic parameters in mice with obesity induced by a high-fat diet. Chemical analyses revealed 19 annotated compounds from EBSp, including flavan-3-ols, proanthocyanidins, methoxylated coumarin, and gallic and ellagic acids, besides other phenolic compounds. In vitro, EBSp showed antioxidant activity through the scavenging of the free radicals and the protection of macromolecules against oxidative damage. Cellular assays revealed that EBSp reduced the levels of malondialdehyde produced by erythrocytes exposed to the oxidizing agent AAPH. Flow cytometry studies showed that EBSp reduced reactive oxygen species levels in human peripheral blood mononuclear cells treated with hydrogen peroxide. Obese mice treated with EBSp (400\u2009mg.kg-1) for 60 days showed reduced levels of malondialdehyde in the heart, liver, kidneys, and nervous system. The total cholesterol levels in mice treated with EBSp reached levels similar to those after treatment with the drug simvastatin. Together, the results show that the combination of the different phenolic compounds inS. purpureaL. bark promotes antioxidant effects in vitro and in vivo, resulting in cytoprotection in the context of oxidative stress associated with obesity and a reduction in hypercholesterolemia. From a clinical perspective, the reduction in oxidative stress in obese individuals contributes to the reduction in the emergence of comorbidities associated with this metabolic syndrome.",
+  "publication_date": "2022-03-31",
+  "journal": "Oxidative medicine and cellular longevity",
+  "doi": "10.1155/2022/3046483",
+  "entities": {
+    "SYMPTOM": [
+      "obesity",
+      "oxidative damage",
+      "oxidative stress",
+      "this metabolic syndrome"
+    ],
+    "POLYPHENOL": [
+      "a clinical perspective",
+      "antioxidant effects",
+      "cytoprotection",
+      "gallic and ellagic acids",
+      "macromolecules",
+      "other phenolic compounds",
+      "proanthocyanidins",
+      "reactive oxygen species",
+      "reactive oxygen species levels",
+      "the different phenolic compounds",
+      "the effect",
+      "the protection"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "The Impact of Resveratrol and Melatonin on the Genome and Oxidative Status in Ageing Rats.",
+  "abstract": "Given the growing challenges posed by an ageing population, particularly in Western countries, we aimed to investigate the potential geroprotective effects of resveratrol and melatonin in ageing rats.",
+  "publication_date": "2025-03-28",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17071187",
+  "entities": {
+    "POLYPHENOL": [
+      "resveratrol",
+      "the potential geroprotective effects"
+    ]
+  }
+}

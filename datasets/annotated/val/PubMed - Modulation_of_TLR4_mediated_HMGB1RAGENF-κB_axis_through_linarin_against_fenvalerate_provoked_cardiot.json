@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Modulation of TLR4 mediated HMGB1/RAGE/NF-\u03baB axis through linarin against fenvalerate provoked cardiotoxicity.",
+  "abstract": "Fenvalerate (FVN) is a potent insecticidal agent that exhibits a wide range of organ impairments including cardiac damage. Linarin (LIN) is a polyphenolic compound with a diverse range of pharmacological potentials. The present investigation was conducted to quantify the mitigative ability of LIN against FVN induced cardiotoxicity. Thirty-six male Sprague Dawley rats were divided into four groups i.e., the control, FVN (40\u202fmg/kg), FVN (40\u202fmg/kg) +\u202fLIN (50\u202fmg/kg) and LIN (50\u202fmg/kg) alone treated group. It was observed that FVN exposure exacerbated the gene expression of interleukin-6 (IL-6), monocyte chemoattractant protein-1 (MCP-1), receptor for advanced glycation end products (RAGE), interleukin-1\u03b2 (IL-1\u03b2), high mobility group box\u00a01 (HMGB1), cyclooxygenase-2 (COX-2), nuclear factor- kappa B (NF-\u03baB), toll-like receptor 4 (TLR4), and tumor necrosis factor-\u03b1 (TNF-\u03b1). Moreover, the levels of reactive oxygen species (ROS) & malondialdehyde (MDA) were surged-up while the enzymatic action of heme oxygenase-1 (HO-1), glutathione (GSH), glutathione Peroxidase (GPx), superoxide dismutase (SOD), glutathione reductase (GSR), and catalase (CAT) were decreased following the FVN intoxication. Besides, FVN administration upregulated the concentrations of troponin-I, troponin-T, c-reactive protein, creatine kinase-MB (CK-MB), creatine phosphokinase (CPK) and lactate dehydrogenase (LDH) in cardiac tissues. FVN exposure increased the levels of Caspase-9, Bax and Caspase-3 while reducing the levels of Bcl-2. Cardiac tissues showed abnormal morphology after FVN intoxication. Nonetheless, LIN therapy remarkably alleviated cardiac damages instigated through FVN exposure due to its anti-inflammatory, anti-oxidative as well as anti-apoptotic potentials.",
+  "publication_date": "2025-04-26",
+  "journal": "Tissue & cell",
+  "doi": "10.1016/j.tice.2025.102931",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenolic compound",
+      "a potent insecticidal agent",
+      "reactive oxygen species",
+      "receptor"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Resveratrol-A Herbal Immunomodulator, Ameliorates Experimental Autoimmune Myasthenia Gravis by Regulating the Foxo1-Foxp3 Pathway.",
+  "abstract": "Resveratrol (RES), extracted from traditional Chinese medicinal plants, demonstrates notable potential in managing autoimmune diseases by modulating multiple pathways and targeting various immune cell subsets with minimal adverse effects. Current treatments for a novel form of myasthenia gravis (MG) face challenges such as inconsistent efficacy and numerous side effects. The exact mechanisms by which RES affects MG progression remain unclear. To investigate RES's impact on MG, an experimental model was created using Lewis female mice immunized with an antigenic emulsion from the 97-116 region of the rat AChR alpha subunit (R97-116 peptide). RES was administered orally in varying doses. Following treatment, the experimental autoimmune myasthenia gravis (EAMG) model was assessed through several metrics, including EAMG score, autoantibody levels, and antibody affinity via ELISA. Network pharmacology was employed to construct the RES action pathway. Validation of RES effects on immune cell pathways in immune organs was performed using Western blot, real-time PCR, immunofluorescence, and immunohistochemistry, with dendritic cells (DCs) in vitro confirming the pathway. Flow cytometry was used for immunophenotyping. RES mitigated EAMG clinical symptoms and reduced both autoantibody content and affinity in serum. Network pharmacology identified the Foxo1/Foxp3 pathway as integral to RES's therapeutic effects on MG. In the RES-treated group, Foxo1 and Foxp3 expression levels were elevated in the spleen, lymph nodes, and thymus. In vitro experiments indicated decreased Foxp3 expression following Foxo1 inhibition in DCs. Flow cytometry revealed an increase in regulatory DCs, reduced DC activation, and diminished lymphocyte proliferation stimulation. Concurrently, Treg levels increased while germinal center B cells decreased. RES can serve as a potential drug for the treatment of MG, as it can regulate DC cells and other immune cells by affecting the Foxo1/Foxp3 pathway.",
+  "publication_date": "2025-04-01",
+  "journal": "Journal of biochemical and molecular toxicology",
+  "doi": "10.1002/jbt.70265",
+  "entities": {
+    "POLYPHENOL": [
+      "decreased foxp3 expression",
+      "minimal adverse effects",
+      "numerous side effects",
+      "res effects",
+      "res's therapeutic effects",
+      "resveratrol",
+      "the exact mechanisms"
+    ]
+  }
+}

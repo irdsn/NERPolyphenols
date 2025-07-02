@@ -1,0 +1,39 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Resveratrol supplementation improves productivity and health in heat-stressed lactating Holstein cows.",
+  "abstract": "Heat stress impairs production performance and thermal homeostasis in lactating dairy cows. Despite the use of on-farm heat abatement systems, milk production and wellbeing remain suboptimal during spring and summer in North America. Resveratrol, a plant-based polyphenolic compound, prevents inflammation and may protect cattle against the pathological effects of heat stress. We hypothesized that resveratrol supplementation would improve thermal homeostasis and productivity in heat-stressed dairy cows. A study was designed to establish the effects of resveratrol supplementation on lactating cows exposed to ambient temperature and relative humidity commonly observed in dairy herds in the Southeastern United States during summer. First, second, and third or greater lactation (n = 14, n = 11, and n = 23) Holstein cows averaging (\u00b1SD) 41.0 \u00b1 3.9 kg/d, 53.8 \u00b1 6.0 kg/d, and 52.5 \u00b1 8.8 kg/d of milk yield were housed in a sand-bedded freestall barn at the University of Tennessee (Walland, TN) farm in June 2022. Cows were fed a common diet during a baseline period of 1 wk, followed by an adaptation period of 2 wk, and a treatment period of 3 wk. Cows were assigned to either the control group (CON, n = 24, no administration of resveratrol) or the resveratrol group (RES, n = 24, 0.5 g/d of resveratrol) during the adaptation and treatment periods. Resveratrol was administered to each individual cow in the RES group in the morning feeding. During the treatment period, cows did not receive heat abatement from sprinklers and fans. Rectal temperatures (RT) and respiratory rates (RR) were recorded thrice daily. Milking occurred twice daily, and milk samples were collected at 2 consecutive milkings twice weekly. Blood samples were collected once a week to determine plasma cytokine concentrations, and fecal samples were collected once a week to determine water content. Body weights were recorded twice weekly. Data were analyzed using the MIXED procedure in SAS (SAS Institute Inc.). Fixed effects included main effects of treatment, parity, day, time, and all possible interactions with day and time as repeated measures, and animal was included as a random effect. The autoregressive structure was used based on the lower Akaike and Bayesian information criteria. Baseline measurements were collected and included in the model as covariates. Regression analyses were used to determine the relationships of milk production with minimum and average temperature-heat index (THI) and milk production values with RT. During the treatment period, cows experienced a daily increment in ambient temperature from 21 to 31\u00b0C, and the mean THI was >72. Compared with CON cows, RES cows showed increased production of milk (35.1 \u00b1 0.5 vs. 34.4 \u00b1 0.3 kg/d), lactose (1.66 \u00b1 0.02 vs. 1.60 \u00b1 0.01 kg/d), and protein (0.94 \u00b1 0.01 vs. 0.90 \u00b1 0.01 kg/d). Compared with CON, RES treatment reduced RT at noon (treatment \u00d7 time interaction) and on d 9, 11, 12, 15, and 18 (treatment \u00d7 day interaction). The RR increased in RES cows, and this effect was more prominent in parity \u22653 cows. The relationship between milk yield and maximum RT indicated that the decline in milk yield was lower in RES than in CON heat-stressed cows. The BW increased in parity 1 cows treated with RES (638 \u00b1 6 vs. 607 \u00b1 6 kg). Fecal moisture content was greater in RES than in CON animals. In summary, resveratrol improves production and wellbeing in heat-stressed lactating Holstein cows. Polyphenolic compounds may be useful feed additives to reduce detrimental effects of heat stress on commercial operations.",
+  "publication_date": "2025-04-10",
+  "journal": "Journal of dairy science",
+  "doi": "10.3168/jds.2024-25988",
+  "entities": {
+    "POLYPHENOL": [
+      "2 consecutive milkings",
+      "a plant-based polyphenolic compound",
+      "a random effect",
+      "detrimental effects",
+      "fecal moisture content",
+      "fecal samples",
+      "first, second, and third or greater lactation",
+      "fixed effects",
+      "main effects",
+      "polyphenolic compounds",
+      "rectal temperatures",
+      "resveratrol",
+      "resveratrol supplementation",
+      "that resveratrol supplementation",
+      "the decline",
+      "the effects",
+      "the pathological effects",
+      "the resveratrol group",
+      "this effect"
+    ],
+    "SYMPTOM": [
+      "con heat-stressed cows",
+      "heat stress",
+      "heat-stressed dairy cows",
+      "heat-stressed lactating holstein cows",
+      "inflammation"
+    ]
+  }
+}

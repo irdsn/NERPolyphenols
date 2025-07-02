@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Plant Growth, Yield, and Quality of Bush Tea (Athrixia phylicoides) as Affected by Deficit Hidrico and Mulching.",
+  "abstract": "Native to South Africa, Bush tea is a plant that thrives in various climates. Cultural practices such as mineral nutrition, fertigation, pruning, and harvesting have been shown to influence bush tea's quality, growth, and yield. This study set out to determine the effects of mulching and deficit irrigation on the growth, yield, and quality of bush tea. Three deficit irrigation treatments (0%, 30%, and 100% Crop evapotranspiration (ETc) on field capacity) and three mulch treatments (sawdust, black plastic mulch, and no mulch) were included in a two-factor experiment, which was set up in a randomized complete block design (RCBD) with three replications. Physiological and growth parameters were taken every two weeks. The number of branches was counted, and measurements of chlorophyll content and the proportion of radiation intercepted by the canopy were recorded. Yield and secondary metabolites such as sugar residuals, fatty acids, and phenols of bush tea were determined after harvest. Growing bush tea under various water regimes showed that a 30% water regime significantly enhanced plant growth characteristics, including the proportion of intercepted radiation, plant height, and both fresh and dry weight. Furthermore, under different water regimes, sawdust improved plant growth in bush tea grown in the field. Black plastic mulch and a 0% water regime produced more compounds beneficial to health than tea treated with half or full irrigation. The extraction of data for Proton Nuclear Magnetic Resonance (NMR) and Mass Spectrometry analyses was conducted for quality components. Our study did not show any distinct structural differences in the tea under different water regimes or mulching. Flavones, phenols, diterpenes, and gardoside were some of the most abundant compounds found in bush tea using mass spectrometry. Principal Component Analysis was performed on the NMR spectral data across 27 samples of bush tea.",
+  "publication_date": "2025-06-06",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14121743",
+  "entities": {
+    "POLYPHENOL": [
+      "mass spectrometry",
+      "mass spectrometry analyses",
+      "secondary metabolites",
+      "the effects",
+      "the nmr spectral data"
+    ]
+  }
+}

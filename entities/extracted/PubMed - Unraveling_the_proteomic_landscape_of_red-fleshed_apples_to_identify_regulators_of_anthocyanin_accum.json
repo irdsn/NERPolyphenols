@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Unraveling the proteomic landscape of red-fleshed apples to identify regulators of anthocyanin accumulation.",
+  "abstract": "Anthocyanins are colorful plant pigments with antioxidant properties, and a diet rich in these flavonoids bears health benefits. Therefore, a strong anthocyanin accumulation in edible plant parts is of significant interest, and in Malus domestica, the domesticated apple, certain red-fleshed apple varieties exhibit this trait. Enhanced anthocyanin accumulation in the flesh of apple fruits is attributed to the hyperactivation of the MYB transcription factor MdMYB10, which acts as a key regulator of anthocyanin biosynthesis by inducing the expression of multiple biosynthetic genes. While several studies have explored the underlying genetic mutations and resulting transcriptome changes, there is a lack of research on proteome alterations that cause the red-fleshed apple phenotype. To address this gap, a mass spectrometry-based proteomics approach was employed. Comparative proteomics identified differentially abundant proteins in young and mature fruits of the red-fleshed 'Bay13645' variety compared to the white-fleshed 'Gala'. Whereas several MYB transcription factors were enriched during early fruit development, they were no longer among the hyper-abundant proteins in ripe fruits of the red-fleshed genotype. In contrast, anthocyanin biosynthetic enzymes were enriched more strongly in ripe fruits of the red-fleshed cultivar, supporting previous results which had indicated developmental stage-specific differences in the control of the pigmentation process. The proteomic approach also identified novel regulatory factors and enzymes that may contribute to the red-fleshed apple phenotype, including a BAHD acyltransferase, Mal d proteins, and transcription factors of diverse families, and their potential relevance for the exhibition of this trait is discussed. SIGNIFICANCE: This study offers insights into the molecular mechanisms driving anthocyanin accumulation in red-fleshed apples. Utilizing a mass spectrometry-based proteomics strategy, the study reveals proteome alterations during fruit development that underlie the red-fleshed phenotype in Malus domestica. Notably, key enzymes of anthocyanin biosynthesis were markedly upregulated, underscoring their role in the pigmentation of the apple fruit pulp. Importantly, the study also identifies previously uncharacterized proteins, including a BAHD acyltransferase and a suite of transcription factors, shedding new light on the regulatory network orchestrating anthocyanin accumulation. These findings significantly expand our understanding of metabolic pathways that contribute to fruit pigmentation and open promising avenues for targeted crop improvement.",
+  "publication_date": "2025-06-03",
+  "journal": "Journal of proteomics",
+  "doi": "10.1016/j.jprot.2025.105470",
+  "entities": {
+    "POLYPHENOL": [
+      "a mass spectrometry-based proteomics approach",
+      "a mass spectrometry-based proteomics strategy",
+      "developmental stage-specific differences",
+      "the molecular mechanisms",
+      "these flavonoids"
+    ],
+    "FOOD": [
+      "apple fruits",
+      "certain red-fleshed apple varieties",
+      "red-fleshed apples",
+      "the apple fruit pulp",
+      "the domesticated apple",
+      "the red-fleshed apple phenotype"
+    ]
+  }
+}

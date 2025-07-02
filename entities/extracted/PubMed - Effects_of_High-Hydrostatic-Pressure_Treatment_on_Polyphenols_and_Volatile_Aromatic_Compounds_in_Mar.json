@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Effects of High-Hydrostatic-Pressure Treatment on Polyphenols and Volatile Aromatic Compounds in Marselan Wine.",
+  "abstract": "This study investigated the effects of high-hydrostatic-pressure (HHP) treatment of varying intensity (100-600 MPa) and duration (10-30 min) on polyphenols and volatile aromatic compounds in Marselan red wine. The types and concentrations of polyphenols and volatile aromatic compounds were compared before and after HHP treatment; the results indicated that HHP treatment at 300 MPa for 20 min significantly increased the total polyphenol content to 369.70 mg/L, a rise of 35.82%. The contents of key polyphenols, such as resveratrol and protocatechuic acid, were significantly enhanced. Furthermore, while the total content of volatile aromatic compounds did not change significantly under this condition compared to the untreated samples, the concentration of ester compounds significantly increased to 1.81 times that of the untreated group, thereby enriching the floral and fruity aromas of the wine and effectively improving its aromatic profile and sensory quality. Principal component analysis (PCA) further validated the positive impact of HHP treatment on the flavor characteristics of Marselan red wine. These findings provide technical support for the use of HHP in improving wine quality.",
+  "publication_date": "2024-08-05",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13152468",
+  "entities": {
+    "POLYPHENOL": [
+      "key polyphenols",
+      "polyphenols",
+      "protocatechuic acid",
+      "resveratrol",
+      "technical support",
+      "the effects",
+      "the total polyphenol content"
+    ],
+    "FOOD": [
+      "marselan red wine",
+      "the wine",
+      "wine quality"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Physiological and molecular responses of bread wheat and its wild relative species to drought stress.",
+  "abstract": "Drought stress is a major abiotic factor limiting wheat productivity and threatening global food security. Understanding the mechanisms underlying drought tolerance in wheat and its wild relatives offers critical insights for breeding more tolerant cultivars. In this study, we investigated the physiological, biochemical, and molecular responses of bread wheat (Triticum aestivum L.) and three of its wild relatives-Aegilops tauschii (genome DD), Ae. speltoides (genome BB), and T. urartu (genome AA)-under varying drought stress conditions to evaluate their adaptive strategies.",
+  "publication_date": "2025-06-27",
+  "journal": "Molecular biology reports",
+  "doi": "10.1007/s11033-025-10742-6",
+  "entities": {
+    "SYMPTOM": [
+      "drought stress",
+      "genome aa)-under varying drought stress conditions"
+    ],
+    "FOOD": [
+      "bread wheat",
+      "wheat",
+      "wheat productivity"
+    ],
+    "POLYPHENOL": [
+      "global food security",
+      "the mechanisms",
+      "the physiological, biochemical, and molecular responses"
+    ]
+  }
+}

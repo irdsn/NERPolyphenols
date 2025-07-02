@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Hypoglycemic effect of peony flowers polyphenols based on gut microbiota and metabolomics.",
+  "abstract": "Type 2 diabetes mellitus (T2DM), remains a significant global public health concern. Peony has a long history of consumption and medicinal in China, and is rich in polyphenols, flavonoids, polysaccharides, and other components. However, the hypoglycemic activity and underlying mechanism of action of peony flowers polyphenols (PP) remain nebulous. Therefore, we investigate the hypoglycemic effect and mechanism of action of PP on T2DM mice.",
+  "publication_date": "2025-06-02",
+  "journal": "Frontiers in nutrition",
+  "doi": "10.3389/fnut.2025.1573865",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "mechanism",
+      "peony flowers polyphenols",
+      "polyphenols",
+      "the hypoglycemic effect",
+      "underlying mechanism"
+    ]
+  }
+}

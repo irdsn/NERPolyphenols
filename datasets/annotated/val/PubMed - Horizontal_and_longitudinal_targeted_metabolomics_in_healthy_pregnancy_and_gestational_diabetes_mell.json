@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Horizontal and longitudinal targeted metabolomics in healthy pregnancy and gestational diabetes mellitus.",
+  "abstract": "The objective is to investigate the differences in urinary organic acid (OA) profiles and metabolism between healthy control (HC) pregnant women and those with gestational diabetes mellitus (GDM) during the second trimester and third trimester of pregnancy.",
+  "publication_date": "2025-01-15",
+  "journal": "Acta diabetologica",
+  "doi": "10.1007/s00592-024-02428-5",
+  "entities": {
+    "POLYPHENOL": [
+      "the objective",
+      "the second trimester"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Metabolite mass spectrometry profiling of cacao genotypes reveals contrasting resistances to Ceratocystis cacaofunesta phytopathogen.",
+  "abstract": "Ceratocystis wilt is a lethal disease of cacao, and the search for resistant genotypes may provide the best way to deal with the disease. Resistance or susceptibility behavior of some cacao genotypes when infected by Ceratocystis cacaofunesta is not yet understood. Herein, we report an LC-MS metabolomic screening analysis based on high-resolution MS to obtain comprehensive metabolic profile associated with multivariate data analysis of PLS-DA, which was effective to classify CCN-51 and TSH-1188 as resistant genotypes to C. cacaofunesta fungus, while CEPEC2002 was classified as a susceptible one. Using reversed-phase LC method, electrospray interface, and high-resolution tandem MS by the quadrupole-TOF analyzer, the typical profiles of metabolites, such as phenylpropanoids, flavonoids, lipids, alkaloids, and amino acids, were obtained. Untargeted metabolite profiles were used to construct discriminant analysis by partial least squares (PLS-DA)-derived loading plots, which placed the cacao genotypes into two major clusters related to susceptible or resistant groups. Linolenic, linoleic, oleic, stearic, arachidonic, and asiatic acids were annotated metabolites of infected, susceptible, and resistant genotypes, while methyl jasmonate, jasmonic acid, hydroxylated jasmonic acid, caffeine, and theobromine were annotated as constituents of the resistant genotypes. Trends of these typical metabolites levels revealed that CCN51 is susceptible, CEPEC2002 is moderately susceptible, and TSH1188 is resistant to C. cacaofunesta. Therefore, profiles of major metabolites as screened by LC-MS offer an efficient tool to reveal the level of resistance of cacao genotypes to C. cacaofunesta present in any farm around the world.",
+  "publication_date": "2021-09-27",
+  "journal": "Electrophoresis",
+  "doi": "10.1002/elps.202100097",
+  "entities": {
+    "POLYPHENOL": [
+      "cepec2002",
+      "flavonoids",
+      "infected, susceptible, and resistant genotypes"
+    ]
+  }
+}

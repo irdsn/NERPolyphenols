@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Insight into the Phenolic Composition of Cabernet Sauvignon Grapevine Berries During Fermentation-Towards the Application of Winery By-Products for Antibacterial Purposes.",
+  "abstract": "Wine production generates significant amounts of grape marc, which can serve as a potential source of bioactive compounds, including polyphenols.",
+  "publication_date": "2025-02-25",
+  "journal": "Antibiotics (Basel, Switzerland)",
+  "doi": "10.3390/antibiotics14030236",
+  "entities": {
+    "FOOD": [
+      "grape marc",
+      "wine production"
+    ],
+    "POLYPHENOL": [
+      "polyphenols"
+    ]
+  }
+}

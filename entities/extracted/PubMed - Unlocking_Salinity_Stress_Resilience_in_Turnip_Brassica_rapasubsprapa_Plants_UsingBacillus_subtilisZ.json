@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Unlocking Salinity Stress Resilience in Turnip (Brassica rapasubsp.rapa) Plants UsingBacillus subtilisZ-12 andBacillus aryabhattaiZ-48.",
+  "abstract": "Salinity stress poses a severe risk to food security and crop productivity. Stress reduction techniques are not necessarily sustainable or environmentally friendly. With the increasing adverse impact of salinity and area, it is necessary to restore and ameliorate salinity stress using environmentally friendly approaches. In this context, beneficial rhizospheric microbes may offer a sustainable approach to managing salinity stress. We usedBacillus subtilisstrain Z-12 andB. aryabhattaistrain Z-48 to improve the growth of turnip (Brassica rapasubsp.rapa) plants under salinity stress conditions and elucidated the beneficial impact of these bacterial strains on different physiological and biochemical aspects of plants. The application of both strains had a significant (p< 0.05) positive influence on analyzed parameters under salt stress. Here,B. aryabhattaistrain Z-48 superiorly increased shoot length (33.2-, 25.8%), root length (38.6-, 31.5%), fresh biomass (23.9-, 17.8%), and dry biomass (38.60-, 48.6%) in normal and saline stress (200 mM NaCl) conditions, respectively. Physiological studies showed that antioxidant enzyme activities were significantly increased byB. subtilisZ-12 andB. aryabhattaiZ-48 under salinity stress, with a few exceptions. Moreover, the inoculation of both strains effectively increased total chlorophyll, soluble sugar, phenolic, flavonoid, and glucosinolate contents under simulated salinity stress and normal conditions. Hence, these findings support the framework that inoculating turnip plants with these strains can enhance their tolerance against salinity stress.",
+  "publication_date": "2025-02-07",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13020359",
+  "entities": {
+    "SYMPTOM": [
+      "normal and saline stress",
+      "salinity stress",
+      "salinity stress conditions",
+      "salt stress",
+      "simulated salinity stress"
+    ],
+    "POLYPHENOL": [
+      "different physiological and biochemical aspects",
+      "flavonoid",
+      "food security",
+      "stress reduction techniques"
+    ],
+    "FOOD": [
+      "turnip",
+      "turnip plants"
+    ]
+  }
+}

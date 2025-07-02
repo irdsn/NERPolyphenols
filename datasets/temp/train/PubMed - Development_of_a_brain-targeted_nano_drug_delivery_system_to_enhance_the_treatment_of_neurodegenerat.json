@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Development of a brain-targeted nano drug delivery system to enhance the treatment of neurodegenerative effects of resveratrol.",
+  "abstract": "As the aging population continues to increase, aging-related inflammation, oxidative stress, and neurodegenerative diseases have become serious global health threats. Resveratrol, a star molecule in natural polyphenols, has been widely reported to have physiological activities such as anti-aging, anti-inflammatory, antioxidant, and neuroprotection. However, its poor water solubility, rapid metabolism, low bioavailability and poor targeting ability, which limits its application. Accordingly, a brain-targeted resveratrol liposome (ANG-RES-LIP) was developed to solve these issues. Experimental results showed that ANG-RES-LIP has a uniform size distribution, good biocompatibility, and a drug encapsulation rate of over 90%. Furthermore,in vitrocell experiments showed that the modification of the targeting ligand ANG significantly increased the capability of RES to cross the BBB and neuronal uptake. Compared with free RES, ANG-RES-LIP demonstrated stronger antioxidant activity and the ability to rescue oxidatively damaged cells from apoptosis. Additionally, ANG-RES-LIP showed the ability to repair damaged neuronal mitochondrial membrane potential.In vivoexperiments further demonstrated that ANG-RES-LIP improved cognitive function by reducing oxidative stress and inflammation levels in the brains of aging model mice, repairing damaged neurons and glial cells, and increasing brain-derived neurotrophic factor. In summary, this study not only provides a new method for further development and application of resveratrol but also a promising strategy for preventing and treating age-related neurodegenerative diseases.",
+  "publication_date": "2023-12-07",
+  "journal": "Journal of liposome research",
+  "doi": "10.1080/08982104.2023.2290050"
+}

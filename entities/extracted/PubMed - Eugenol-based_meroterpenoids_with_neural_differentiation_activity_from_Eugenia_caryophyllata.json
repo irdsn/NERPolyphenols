@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Eugenol-based meroterpenoids with neural differentiation activity from Eugenia caryophyllata.",
+  "abstract": "Phytochemical investigation of Eugenia caryophyllata buds led to the discovery of nine previously undescribed eugenol-based meroterpenoids, named eugenianols A-I (1-9). Among them, compound 1 is the first reported meroterpenoid featuring a eugenol moiety fused with a sesquiterpenoid unit via two C-C bonds, forming an unprecedented tricyclo[9.4.0.04,7]pentadecane core skeleton. Compounds 2-5 represent a class of meroterpenoids with unprecedented architectures characterized by distinct C-C bond linkage patterns between the eugenol and sesquiterpenoid moieties. Notably, the unusual linkage of 4 resulted in a rare configurationally stable Csp2-Csp3chiral axis combining both axial and point chirality. Compounds 6-9 constitute a class of undescribed ether bridged eugenol-based meroterpenoids. Their structures were elucidated through comprehensive spectroscopic techniques, single-crystal X-ray diffraction, and quantum-chemical calculations. A plausible biosynthetic pathway for these eugenol-based meroterpenoids was proposed. Furthermore, biological evaluations revealed that compound 7 significantly promoted neural differentiation-promoting activity, indicating potential neuroprotective properties.",
+  "publication_date": "2025-06-16",
+  "journal": "Phytochemistry",
+  "doi": "10.1016/j.phytochem.2025.114588",
+  "entities": {
+    "POLYPHENOL": [
+      "an unprecedented tricyclo[9.4.0.04,7]pentadecane core skeleton",
+      "comprehensive spectroscopic techniques",
+      "potential neuroprotective properties",
+      "unprecedented architectures"
+    ],
+    "FOOD": [
+      "a rare configurationally stable csp2-csp3chiral axis"
+    ]
+  }
+}

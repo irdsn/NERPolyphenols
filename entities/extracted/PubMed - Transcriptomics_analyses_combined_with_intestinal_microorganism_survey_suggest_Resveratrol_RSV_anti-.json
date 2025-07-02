@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Transcriptomics analyses combined with intestinal microorganism survey suggest Resveratrol (RSV) anti-aging and anti-oxidant effects in silkworm (Bombyx mori).",
+  "abstract": "The growing elderly population presents a significant concern, with the prolongation of life expectancy, aging diseases are becoming increasingly common. Resveratrol (RSV) has emerged as a promising compound for disease prevention. However, the effect of RSV on lifespan extension in different organisms, particularly the model organism silkworm, remains inconsistent. We conducted aging experiments using silkworm (B. mori) and employed transcriptomics to investigate the therapeutic effects of RSV on lifespan extension and healthy lifespan in silkworms. RSV increased the survival rate by 8.57\u00a0%-12.12\u00a0% and enhanced the antioxidant capacity of silkworms. Transcriptomic analysis demonstrated that genes in signaling pathways such as AMPK and FoxO were significantly upregulated. 16SrRNA sequencing of gut contents showed an increase in beneficial bacterial strains under the action of RSV. This study aims to enhance our understanding of lifespan regulation mechanisms using the silkworm model and provide new targets for anti-aging antioxidants research to delay the onset of age-related diseases.",
+  "publication_date": "2024-10-15",
+  "journal": "Comparative biochemistry and physiology. Part D, Genomics & proteomics",
+  "doi": "10.1016/j.cbd.2024.101344",
+  "entities": {
+    "POLYPHENOL": [
+      "life expectancy",
+      "lifespan regulation mechanisms",
+      "resveratrol",
+      "the effect",
+      "the therapeutic effects"
+    ],
+    "SYMPTOM": [
+      "aging diseases",
+      "aging experiments",
+      "anti-aging antioxidants research"
+    ]
+  }
+}

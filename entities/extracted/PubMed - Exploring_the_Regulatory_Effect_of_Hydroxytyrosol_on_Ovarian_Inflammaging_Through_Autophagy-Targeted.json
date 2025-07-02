@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Exploring the Regulatory Effect of Hydroxytyrosol on Ovarian Inflammaging Through Autophagy-Targeted Mechanisms: A Bioinformatics Approach.",
+  "abstract": "Background/Objectives:Ovarian aging represents a critically important aspect of female senescence. It not only denotes the loss of fertility but is also accompanied by a series of physiological changes and the aging of other organs. Hydroxytyrosol (HT), a natural polyphenolic phytocompound, has been demonstrated to exhibit remarkable effects in regulating autophagy, inflammation, and the aging process. However, the relationship between HT and ovarian aging, as well as the specific underlying mechanisms, remains poorly understood.Methods:In this study, network pharmacology, molecular docking, and molecular dynamics simulation were employed to explore the regulatory effect of HT on ovarian inflammaging via autophagy-targeted mechanisms.Results:Through network pharmacology analysis, this study successfully identified 10 hub genes associated with ovarian aging regulation. Notably, four out of the top five hub genes were found to be closely related to autophagy regulatory pathways. Further investigation revealed the pivotal role of ATG7: HT may regulate ovarian inflammaging through activating the FIP200 (focal adhesion kinase family interacting protein of 200 kD)-dependent non-canonical selective autophagy pathway. The results of molecular docking indicated that ATG7 has a strong binding ability with HT. Molecular dynamics simulation further verified the binding stability between the two.Conclusions:By analysis, a possible pathway for HT to regulate ovarian inflammaging via non-canonical selective autophagy was explored, providing cues for further research.",
+  "publication_date": "2025-04-23",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17091421",
+  "entities": {
+    "POLYPHENOL": [
+      "200 kd)-dependent non-canonical selective autophagy pathway",
+      "a critically important aspect",
+      "a natural polyphenolic phytocompound",
+      "autophagy-targeted mechanisms",
+      "background/objectives",
+      "molecular docking",
+      "molecular dynamics simulation",
+      "non-canonical selective autophagy",
+      "remarkable effects",
+      "the regulatory effect",
+      "the specific underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "ovarian aging",
+      "ovarian aging regulation",
+      "ovarian inflammaging",
+      "the aging",
+      "the aging process"
+    ]
+  }
+}

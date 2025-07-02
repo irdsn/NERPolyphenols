@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Dual-conjugation of aminated sugar beet pectin-oxidized tannic acid nanonetworks with cinnamaldehyde at the oil-water interface to stabilize a 3D printable high internal phase emulsion.",
+  "abstract": "The morphological features and interactions among the assembly units of nanoparticles (NPs) significantly influence their ability to stabilize Pickering emulsions. In this study, the quinone group of oxidized tannic acid (OTA) was covalently cross-linked with the amino groups in aminated sugar beet pectin (SBP-NH2) to form covalent composite nanonetworks (SBP-NH2/OTA NNs). These NNs were subsequently conjugated with cinnamaldehyde (CA) to enhance interfacial activity, enabling the formation of 3D printable high internal phase emulsions (HIPEs). The SBP-NH2/OTA NNs exhibited good surface wettability (86.83\u00a0\u00b1\u00a01.31\u00b0) under optimal conditions and superior performance in emulsification and inhibition of droplet coalescence. Furthermore, the introduction of CA into the oil phase reinforced interfacial layers through interfacial conjugation regulation, endowing the CA-mediated HIPEs with enhanced viscoelasticity and improved 3D printing performance. Notably, CA-mediated HIPEs exhibited excellent oxidative stability and antimicrobial efficacy, offering significant potential for the development of functional food formulations.",
+  "publication_date": "2025-04-29",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144570",
+  "entities": {
+    "POLYPHENOL": [
+      "aminated sugar beet pectin"
+    ],
+    "FOOD": [
+      "functional food formulations"
+    ]
+  }
+}

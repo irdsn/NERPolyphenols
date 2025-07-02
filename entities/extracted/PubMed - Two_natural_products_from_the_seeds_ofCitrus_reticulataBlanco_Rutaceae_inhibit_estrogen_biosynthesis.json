@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Two natural products from the seeds ofCitrus reticulataBlanco (Rutaceae) inhibit estrogen biosynthesis by regulating the PI3K-aromatase pathway.",
+  "abstract": "The seeds of Citrus reticulata Blanco (Rutaceae) (SCR), a traditional Chinese medicine derived from Citrus, is known for its diverse bioactivities, including potential anti-breast cancer effects, but the mechanism of action remains unclear.",
+  "publication_date": "2025-06-12",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1583409",
+  "entities": {
+    "POLYPHENOL": [
+      "potential anti-breast cancer effects",
+      "the mechanism"
+    ]
+  }
+}

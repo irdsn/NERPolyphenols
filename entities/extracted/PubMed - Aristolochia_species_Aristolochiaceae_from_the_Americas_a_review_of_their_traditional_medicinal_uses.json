@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Aristolochia species (Aristolochiaceae) from the Americas, a review of their traditional medicinal uses, phytochemistry, and pharmacological properties.",
+  "abstract": "Aristolochia is a pantropical genus with important pharmacological properties. Despite making up 75\u00a0% of the global Aristolochia, the species from the Americas have received comparatively little research attention. Here, we exhaustively review the ethnopharmacology and phytochemistry of Aristolochia species from the Americas, based upon 238 literature references and specimen vouchers of 28 Americas herbaria. The resulting database encompasses 919 records on 95 Aristolochia species with 129 documented traditional medicinal uses. South America and Mexico displayed the highest prevalence of traditional medicinal uses at the regional and national levels, respectively. The most recurrent medicinal uses included treatments against poisonous animals (17.6\u00a0%), gastrointestinal diseases (15.1\u00a0%), and gynecological diseases (9.89\u00a0%). American Aristolochia species produce secondary metabolites such as lignans, diterpenes, sesquiterpenes, isoquinoline and protopine type alkaloids, aristolactams, and aristolochic acids that have been shown to have substantial therapeutic potential. These compounds exhibit various properties, such as neurotrophic effects, inhibition of myotoxicity, anticholinergic and antihistaminic activities, relaxation of the tracheal muscle, as well as antibacterial, antifungal, antiprotozoal activity and, antispasmodic effects. However, in vivo and toxicity tests remain scarce. For example, less than 5\u00a0% of the publications focus on isolating aristolochic acids, known for their association with nephropathy and urothelial cancer. We found no instances of hazardous or fatal incidents resulting from traditional uses, despite their known toxicity. This is likely because traditional healers are aware of the hazards and dosage quantities. Finally, we identified crucial future directions for Aristolochia studies based on promising bioprospecting studies; relatively understudied infrageneric groups; poorly known traditional uses, and species-specific chemical compounds without further studies.",
+  "publication_date": "2025-04-21",
+  "journal": "Fitoterapia",
+  "doi": "10.1016/j.fitote.2025.106549",
+  "entities": {
+    "POLYPHENOL": [
+      "919 records",
+      "95 aristolochia species",
+      "american aristolochia species",
+      "antispasmodic effects",
+      "aristolochia species",
+      "crucial future directions",
+      "gynecological diseases",
+      "neurotrophic effects",
+      "promising bioprospecting studies",
+      "secondary metabolites",
+      "species-specific chemical compounds",
+      "specimen vouchers",
+      "the most recurrent medicinal uses",
+      "the species"
+    ],
+    "SYMPTOM": [
+      "urothelial cancer"
+    ]
+  }
+}

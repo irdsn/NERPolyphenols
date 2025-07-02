@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Tetraphenylethene-carrying peptide probes for fluorescence \"turn-on\" sensing of chondroitin sulfate A.",
+  "abstract": "New class of fluorescence probes was developed for sensing of chondroitin sulfate A (CSA), a biologically important glycosaminoglycan (GAG). Three kinds of synthetic CSA-binding peptides were conjugated with a tetrahenylethene (TPE) unit for the probe design. Significantly, the TPE unit conjugated with TR peptide (TRTPPESYASVR) displayed an increase in the monomer emission upon binding to CSA, which stands in sharp contrast to typical TPE-carrying probes with aggregation-induced emission (AIE) response. It was shown that TPE-TR probe has the selectivity for CSA over other GAGs including hyaluronan and heparin. We found that the use of a hydrophilic aminoethoxy-ethoxy acetic acid (AEEA) spacer between TPE and TR peptide resulted in the improved \"turn-on\" sensing of CSA. The assay using the probe with AEEA spacer facilitated more rapid and sensitive detection of CSA compared to Alcian blue assay, a traditional assay for the quantification of CSA.",
+  "publication_date": "2025-05-15",
+  "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+  "doi": "10.1016/j.saa.2025.126407"
+}

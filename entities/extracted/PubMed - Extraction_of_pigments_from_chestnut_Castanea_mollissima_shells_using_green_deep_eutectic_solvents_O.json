@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Extraction of pigments from chestnut (Castanea mollissima) shells using green deep eutectic solvents: Optimization, HPLC-MS identification, stability, and antioxidant activities.",
+  "abstract": "The chestnut processing industry produces a large amount of chestnut shells, which are usually discarded, resulting in a significant waste of biomass resources. In this study, chestnut shell pigments (CSP) were extracted using ultrasound-assisted deep eutectic solvent (DES) extraction. The choline chloride-lactic acid was selected as the optimal solvent. The total polyphenols content (TPC), DPPH, and FRAP were 43.83\u00a0mg GAE/g DW, 91.31\u00a0%, and 0.86\u00a0\u03bcmol/mL under the optimum conditions (61\u00a0\u00b0C, 21\u00a0%, 61\u00a0min). A total of 36 compounds were qualitatively determined in CSP using HPLC-MS. Calomelanol F, dihydrokaempferol, catechin, procyanidin B2, procyanidin A2, ellagic acid, isorhamnetin-3-O-glucoside, and coumarin derivatives were the dominant compounds. Compared with DES-3 (choline chloride -urea) and ethanol, DES-1 extract exhibited significantly higher color stability and antioxidant activity. FTIR and SEM analysis revealed that DES-1 formed more hydrogen bonds and showed stronger erosion effect, thereby enhancing the stability and extraction rate. This study provides a green and efficient alternative method for extracting natural pigments from chestnut shells.",
+  "publication_date": "2025-05-24",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144916",
+  "entities": {
+    "POLYPHENOL": [
+      "catechin",
+      "dihydrokaempferol",
+      "ellagic acid",
+      "procyanidin a2",
+      "stronger erosion effect",
+      "the total polyphenols content",
+      "ultrasound-assisted deep eutectic solvent (des) extraction"
+    ]
+  }
+}

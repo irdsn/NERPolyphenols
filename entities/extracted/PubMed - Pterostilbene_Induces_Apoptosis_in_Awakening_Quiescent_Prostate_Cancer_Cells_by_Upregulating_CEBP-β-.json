@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Pterostilbene Induces Apoptosis in Awakening Quiescent Prostate Cancer Cells by Upregulating C/EBP-\u03b2-Mediated SOD2 Transcription.",
+  "abstract": "Quiescent cancer cells (QCCs) are known to resist chemoradiotherapy, evade immune surveillance and have the potential to drive recurrence years after initial treatment. However, the key regulators of QCC survival during reactivation remain unclear. This study revealed that superoxide dismutase 2 (SOD2) levels are significantly greater in quiescent prostate cancer (PCa) cells than in proliferative cells. SOD2 overexpression induces apoptosis in awakening quiescent PCa cells, whereas its knockdown promotes reactivation. Elevated SOD2 also suppresses recurrent tumor growth by quiescent PCa cells and prolongs survival. Pterostilbene (PTE), a natural compound, preferentially induces apoptosis in quiescent PCa cells during awakening and reduces their long-term proliferative capacity by upregulating SOD2. Additionally, PTE inhibits tumorigenesis and significantly reduces the growth of quiescent PCa cells without apparent toxicity. Further mechanistic studies revealed that CCAAT/enhancer-binding protein beta (C/EBP-\u03b2) is critical for PTE-mediated SOD2 upregulation by enhancing SOD2 transcription. C/EBP-\u03b2 knockdown significantly reduces PTE-induced apoptosis in awakening quiescent PCa cells. Clinical analysis revealed a positive correlation betweenCEBPBandSOD2, with low C/EBP-\u03b2 expression linked to poor prognosis. Overall, the C/EBP-\u03b2-SOD2 pathway is crucial for eliminating awakening quiescent PCa cells and highlights PTE as a promising agent for preventing PCa recurrence.",
+  "publication_date": "2025-05-07",
+  "journal": "International journal of biological sciences",
+  "doi": "10.7150/ijbs.106219",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "pte-induced apoptosis",
+      "quiescent cancer cells",
+      "quiescent prostate cancer (pca) cells"
+    ],
+    "POLYPHENOL": [
+      "further mechanistic studies",
+      "pca recurrence",
+      "pterostilbene",
+      "recurrence years",
+      "recurrent tumor growth"
+    ]
+  }
+}

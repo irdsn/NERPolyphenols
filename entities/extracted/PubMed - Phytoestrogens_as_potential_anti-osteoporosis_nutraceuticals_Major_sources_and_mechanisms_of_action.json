@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Phytoestrogens as potential anti-osteoporosis nutraceuticals: Major sources and mechanism(s) of action.",
+  "abstract": "By 2050, the global aging population is predicted to reach 1.5 billion, highlighting the need to enhance the quality of life of the elderly population. Osteoporotic fractures are projected to affect one in three women and one in five men over age 50. Initial treatments for osteoporosis in postmenopausal women include antiresorptive agents such as bisphosphonates, strontium ranelate, estrogen replacement therapy (ERT) and selective estrogen receptor modulators (SERMs). However, these do not rebuild bone, limiting their effectiveness. Denosumab, an FDA-approved antiresorptive monoclonal antibody, also has drawbacks including high costs, biannual subcutaneous injections, slow healing, impaired bone growth and side effects like eczema, flatulence, cellulitis, osteonecrosis of the jaw (ONJ) and an increased risk of spinal fractures after discontinuation of treatment. Nutraceuticals, particularly phytoestrogens, are gaining attention for their health benefits and safety in osteoporosis prevention, management and treatment. Phytoestrogens are plant metabolites similar to mammalian estrogens and include isoflavones, coumestans, lignans, stilbenes, and flavonoids. They interact with estrogen receptor isoforms ER\u03b1 and ER\u03b2, acting as agonists or antagonists based on concentration and bioavailability. Their tissue-selective activities are particularly significant: anti-estrogenic effects in reproductive tissues may lower the risk of hormone-related cancers (such as ovarian, uterine, breast and prostate), while estrogenic effects on bone could contribute to the preservation of bone mineral density.Phytoestrogens are, thus, used in managing breast and prostate cancers, cardiovascular diseases, menopause and osteoporosis. The present\u00a0review focuses on the botanical origin,\u00a0classification, sources and mechanism(s) of action of major phytoestrogens, their potential in prevention and management of osteoporosis and the requirement for additional clinical trials to achieve more definitive outcomes in order to confirm their efficacy and dosage safety.",
+  "publication_date": "2025-03-24",
+  "journal": "The Journal of steroid biochemistry and molecular biology",
+  "doi": "10.1016/j.jsbmb.2025.106740",
+  "entities": {
+    "SYMPTOM": [
+      "hormone-related cancers",
+      "managing breast and prostate cancers",
+      "osteoporosis",
+      "osteoporosis prevention",
+      "the global aging population"
+    ],
+    "POLYPHENOL": [
+      "biannual subcutaneous injections",
+      "eczema",
+      "estrogenic effects",
+      "flavonoids",
+      "mechanism(s",
+      "osteonecrosis",
+      "particularly significant: anti-estrogenic effects",
+      "receptor",
+      "selective estrogen receptor modulators",
+      "side effects",
+      "their effectiveness",
+      "their tissue-selective activities"
+    ]
+  }
+}

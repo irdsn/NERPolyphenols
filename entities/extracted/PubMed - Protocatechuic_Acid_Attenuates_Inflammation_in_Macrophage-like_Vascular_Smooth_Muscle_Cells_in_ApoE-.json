@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Protocatechuic Acid Attenuates Inflammation in Macrophage-like Vascular Smooth Muscle Cells in ApoE-/-Mice.",
+  "abstract": "Background/Objectives: Non-resolving inflammation in macrophage-like cells (MLCs) transdifferentiated from vascular smooth muscle cells and monocyte-derived macrophages aggravates atherosclerosis. We previously showed that polyphenolic protocatechuic acid (PCA) could reduce inflammation burden in monocyte-derived macrophages; however, it remains unknown how this compound affects MLCs inflammation.Methods: MLCs from the transdifferentiation of vascular smooth muscle cells induced by cholesterol and 30-week-old male ApoE-/-mice fed a semi-purified AIN-93G diet containing either 0.003% (wt:wt) of PCA for a duration of 20 weeks were used to examine the impact of PCA on the inflammatory response of MLCs.Results:Physiologically achievable doses of PCA (0.25-1 \u03bcM) dose-dependently inhibited lipopolysaccharide-induced NF-\u03baB activation and simultaneously reduced pro-inflammatory cytokine levels. Mechanistically, this effect was mediated by effecting exportin-1 function, promoting nuclear export of phosphorylated-p65, independent of NF-\u03baB kinase inhibitor \u03b1/\u03b2/\u03b3, NF-\u03baB inhibitor \u03b1, or importin-mediated nuclear import ofp-p65. PCA reduced the nucleocytoplasmic ratio of exportin-1 (44%) without altering its abundance. Importantly, dietary supplementation with PCA reduced interleukin-1\u03b2 content within MLCs in atherosclerotic plaques of ApoE-/-mice. In addition, dietary PCA reduced MLCs content in atherosclerotic plaques.Conclusions: PCA could attenuate inflammatory response in MLCs by targeting exportin-1 and also could inhibit the transdifferentiation of vascular smooth muscle cells into MLCs within atherosclerotic plaques, which might promote the translation from preclinical studies to clinical trials in patients with atherosclerosis.",
+  "publication_date": "2025-03-20",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17061090",
+  "entities": {
+    "POLYPHENOL": [
+      "background/objectives",
+      "effecting exportin-1 function",
+      "polyphenolic protocatechuic acid",
+      "preclinical studies",
+      "this effect"
+    ],
+    "SYMPTOM": [
+      "atherosclerosis",
+      "inflammation burden",
+      "mlcs inflammation",
+      "non-resolving inflammation"
+    ]
+  }
+}

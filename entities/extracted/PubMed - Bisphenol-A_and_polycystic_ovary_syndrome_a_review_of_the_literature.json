@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Bisphenol-A and polycystic ovary syndrome: a review of the literature.",
+  "abstract": "Polycystic ovary syndrome (PCOS) is the most common endocrine disorder among women of reproductive age with reproductive, metabolic and endocrine implications. While the exact pathophysiological mechanisms of the syndrome are unknown, its heterogeneity suggests a multifactorial causal background. In the last two decades, numerous environmental chemicals, including Bisphenol-A (BPA) that is used in the synthesis of polycarbonate plastics, have been proposed as potential contributors to the aetiology of PCOS. This review provides a holistic overview of the available data regarding the possible relation of PCOS with BPA exposure. We have included a total number of 24 studies. Eleven human case-control and 13 animal studies provided data regarding this potential relation. Accumulating evidence suggests that a correlation between high levels of BPA and the presence of PCOS may exist. Contradicting results from human and animal studies, however, render it difficult to conclude on the exact role of BPA in the pathogenesis of PCOS. BPA may constitute a consequence of the syndrome rather than a cause, but further research is still needed to clarify this. Continued efforts to study the early origins of PCOS, using prospective-designed studies, are required to identify the exact effect of BPA on women with PCOS.",
+  "publication_date": "2020-07-14",
+  "journal": "Reviews on environmental health",
+  "doi": "10.1515/reveh-2020-0032",
+  "entities": {
+    "POLYPHENOL": [
+      "prospective-designed studies",
+      "the exact effect",
+      "the exact pathophysiological mechanisms",
+      "the last two decades"
+    ]
+  }
+}

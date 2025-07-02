@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Almonds (Prunus DulcisMill. D. A. Webb): A Source of Nutrients and Health-Promoting Compounds.",
+  "abstract": "Almonds (Prunus dulcisMiller D. A. Webb (the almond or sweet almond)), from the Rosaceae family, have long been known as a source of essential nutrients; nowadays, they are in demand as a healthy food with increasing popularity for the general population and producers. Studies on the composition and characterization of almond macro- and micronutrients have shown that the nut has many nutritious ingredients such as fatty acids, lipids, amino acids, proteins, carbohydrates, vitamins and minerals, as well as secondary metabolites. However, several factors affect the nutritional quality of almonds, including genetic and environmental factors. Therefore, investigations evaluating the effects of different factors on the quality of almonds were also included. In epidemiological studies, the consumption of almonds has been associated with several therapeutically and protective health benefits. Clinical studies have verified the modulatory effects on serum glucose, lipid and uric acid levels, the regulatory role on body weight, and protective effects against diabetes, obesity, metabolic syndrome and cardiovascular diseases. Moreover, recent researchers have also confirmed the prebiotic potential of almonds. The present review was carried out to emphasize the importance of almonds as a healthy food and source of beneficial constituents for human health, and to assess the factors affecting the quality of the almond kernel. Electronic databases including PubMed, Scopus, Web of Science and SciFinder were used to investigate previously published articles on almonds in terms of components and bioactivity potentials with a particular focus on clinical trials.",
+  "publication_date": "2020-03-01",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu12030672",
+  "entities": {
+    "FOOD": [
+      "almond",
+      "almond macro-",
+      "almonds",
+      "the almond kernel"
+    ],
+    "POLYPHENOL": [
+      "electronic databases",
+      "protective effects",
+      "recent researchers",
+      "secondary metabolites",
+      "several therapeutically and protective health benefits",
+      "the effects",
+      "the modulatory effects"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "obesity"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Physiological Responses of Laying Hens to Chronic Cold Stress and Ammonia Exposure: Implications for Environmental Management and Poultry Welfare.",
+  "abstract": "Controlling low ambient temperatures and ammonia levels is critical for effective environmental management in poultry houses during winter, as both represent persistent stressors affecting bird health and productivity. However, evidence regarding their combined long-term effects on the physiological responses of laying hens remains limited. In this study, 576 eighteen-week-old Hy-Line Brown hens were randomly assigned to six treatments (8 replicates with 12 birds per replicate each treatment) and housed in environmentally controlled chambers for 20 weeks: T1 (8 \u00b0C, \u22645 ppm ammonia), T2 (8 \u00b0C, 20 ppm ammonia), T3 (8 \u00b0C, 45 ppm ammonia), T4 (20 \u00b0C, \u22645 ppm ammonia; control), T5 (20 \u00b0C, 20 ppm ammonia), and T6 (20 \u00b0C, 45 ppm ammonia). Plasma samples were collected at 22, 26, 30, 34, and 38 weeks to evaluate physiological stress biomarkers (corticosterone, CORT; total antioxidant capacity, T-AOC), immunoglobulins (IgG, IgM, and IgA), and reproductive hormones (luteinizing hormone, LH; follicle-stimulating hormone, FSH; estradiol, E2). At 38 weeks, hypothalamus, pituitary, and spleen tissues were collected to assess the relative mRNA expression of gonadotropin-releasing hormone (GnRH), FSH, tumor necrosis factor-\u03b1 (TNF-\u03b1), and interleukins (IL-1\u03b2, IL-6, and IL-10). Results showed that both cold and ammonia stress reduced antioxidant capacity, disrupted immune homeostasis, and altered reproductive hormone profiles. Cold exposure induced acute immunoendocrine alterations with partial physiological adaptation over time, whereas ammonia exerted progressive and cumulative damage, including elevated immunoglobulins (IgG and IgM) and downregulation of GnRH and FSH expression. Combined exposure significantly upregulated TNF-\u03b1 and IL-1\u03b2 expression, suggesting a synergistic inflammatory response. These results highlight complex, parameter-specific interactions between cold and ammonia stressors, emphasizing the need for targeted environmental strategies. Stage-specific interventions-thermal regulation in early laying and ammonia control in later phases-are recommended to safeguard hen health and optimize productivity under winter conditions.",
+  "publication_date": "2025-06-16",
+  "journal": "Animals : an open access journal from MDPI",
+  "doi": "10.3390/ani15121769",
+  "entities": {
+    "POLYPHENOL": [
+      "complex, parameter-specific interactions",
+      "effective environmental management",
+      "stage-specific interventions",
+      "their combined long-term effects"
+    ],
+    "SYMPTOM": [
+      "both cold and ammonia stress",
+      "cold and ammonia stressors",
+      "persistent stressors",
+      "physiological stress biomarkers"
+    ]
+  }
+}

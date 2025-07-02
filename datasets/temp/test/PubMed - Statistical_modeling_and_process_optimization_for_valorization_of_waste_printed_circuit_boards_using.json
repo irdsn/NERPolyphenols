@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Statistical modeling and process optimization for valorization of waste printed circuit boards using supercritical methanol.",
+  "abstract": "The heterogeneous and complex composition of waste printed circuit boards (WPCBs) poses significant challenges in their recycling. The inadequate management of these WPCBs has led to serious environmental hazards and the loss of valuable economic resources. In this context, the present study aimed to investigate the application of supercritical methanol as a treatment method for the processing and valorization of WPCBs. The effect of key process variables on the organic degradation efficiency (ODE) was studied and optimized utilizing a Box-Behnken design. The ODE reached approximately 96 % under optimized conditions of a temperature of 350 °C, a 90 min reaction period, and a liquid-to-solid ratio of 20 mL/g. In addition, the metal concentration in treated WPCBs rose significantly, with copper reaching 35.76 % with the removal of organic content. Free radical mechanisms facilitated the decomposition of resins, producing a liquid product rich in phenolic compounds and devoid of brominated substances. With over 90 % methanol recovery, this closed-loop process provides an environment-friendly solution for WPCB resin treatment, aligning with sustainable e-waste recycling practices.",
+  "publication_date": "2025-06-19",
+  "journal": "Journal of environmental management",
+  "doi": "10.1016/j.jenvman.2025.126243"
+}

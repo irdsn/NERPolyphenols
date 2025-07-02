@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Insights into the influence of rutin and amylose on the structure of maize starch-lauric acid-rutin complex.",
+  "abstract": "The present study investigated the structural characteristics of starch-rutin binary complexes and starch-lauric acid (LA)-rutin ternary complexes prepared using rutin, LA, and maize starches with varying amylose content. A negative correlation was observed between the encapsulation rate of rutin and the amylose content.1H NMR results indicated that rutin formed complexes with starch through hydrogen bonding, an effect enhanced by the incorporation of LA. X-ray diffraction patterns revealed that both waxy starch and normal starch transitioned to a C-type crystalline structure upon the addition of rutin. Furthermore, complexation with LA transformed all three types of starch into a V-type crystalline structure, accompanied by an increase in relative crystallinity. The incorporation of both rutin and LA enhanced the short-range ordering of starch. These findings contribute to our understanding of the interaction mechanisms between rutin, fatty acids, and starch, providing a theoretical foundation for future research.",
+  "publication_date": "2025-05-12",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144708",
+  "entities": {
+    "POLYPHENOL": [
+      "an effect",
+      "both rutin",
+      "la)-rutin ternary complexes",
+      "rutin",
+      "starch-rutin binary complexes",
+      "that rutin formed complexes",
+      "the interaction mechanisms"
+    ]
+  }
+}

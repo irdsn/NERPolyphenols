@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Anti-Inflammatory and Antioxidant Potential of Plant-Derived Phenolic Acids as Triple COX, LOX, and NOX Inhibitors: A Computational Approach.",
+  "abstract": "Natural products, particularly phenolic compounds, have demonstrated significant potential in addressing noncommunicable diseases due to their broad pharmacological activities and relatively low toxicity profiles. However, monotherapy is often insufficient in managing complex inflammatory responses. Therefore, simultaneous inhibition of multiple key enzymes involved in inflammation may offer enhanced therapeutic benefits. In alignment with this approach, the present study explores the triple inhibition potential of plant-derived phenolic acids targeting cyclooxygenase (COX), lipoxygenase (LOX), and NADPH oxidase (NOX) enzymes using a range of in silico tools and biophysical drug discovery techniques. The objective was to evaluate their capacity as potential anti-inflammatory agents through multi-target modulation. Among the screened compounds, ellagic acid and rosmarinic acid emerged as the most promising candidates, exhibiting strong inhibitory interactions with all three target enzymes. These findings were supported by an integrated suite of computational methods, including molecular docking, molecular dynamics simulations, molecular mechanics/generalized Born surface area (MM-GBSA) binding energy calculations, and density functional theory (DFT) analyses. Given the established anti-inflammatory potential of ellagic acid and rosmarinic acid, this study lays a strong foundation for further experimental validation and future development of effective multi-target anti-inflammatory therapeutics.",
+  "publication_date": "2025-06-06",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202403505",
+  "entities": {
+    "POLYPHENOL": [
+      "biophysical drug discovery techniques",
+      "effective multi-target anti-inflammatory therapeutics",
+      "ellagic acid and rosmarinic acid",
+      "molecular docking",
+      "molecular dynamics simulations",
+      "molecular mechanics",
+      "particularly phenolic compounds",
+      "the objective"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

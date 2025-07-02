@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Decoding the Impact of Theabrownin on Skeletal Muscle Function in Gestational Diabetic Offspring: Insights from Integrated Metabolome and Transcriptome Analysis.",
+  "abstract": "Gestational diabetes mellitus (GDM) often leads to long-term metabolic issues, including skeletal muscle dysfunction in the offspring, with traditional managements focusing solely on blood glucose regulation and not addressing muscle metabolic and structural changes. Theabrownin (TB), a polyphenol derived from Pu-erh tea, has known antioxidant and metabolic benefits, but its effects on skeletal muscle function in GDM offspring remain unclear. In this study, GDM model was induced in mice, and their offspring were treated by TB. Transcriptomic and metabolomic analyses identified key genes and metabolites involved in lipid metabolism, oxidative stress, and inflammation. TB treatment significantly improved lipid metabolism, reduced oxidative stress, and alleviated inflammation in skeletal muscle of GDM offspring. Key genes (Fabp3, Acot1, and Acot4) and metabolites (Palmitic acid, Oleic acid) were regulated by TB. Pathway analysis revealed that TB mitigates GDM-induced skeletal muscle dysfunction through modulation of the biosynthesis of unsaturated fatty acids. These findings highlight the potential of theabrownin (TB) as a therapeutic agent for improving skeletal muscle function in the offspring of GDM through modulation of lipid metabolism. Further investigation is needed to elucidate its mechanisms and evaluate long-term effects.",
+  "publication_date": "2025-05-06",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c11857",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol",
+      "its effects",
+      "its mechanisms",
+      "long-term effects"
+    ],
+    "FOOD": [
+      "pu-erh tea"
+    ],
+    "SYMPTOM": [
+      "alleviated inflammation",
+      "inflammation",
+      "oxidative stress",
+      "reduced oxidative stress"
+    ]
+  }
+}

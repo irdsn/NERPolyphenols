@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Anti-Inflammatory Effects of Lactiplantibacillus plantarum NCHU-FC1 Strain Co-Fermented Cucumbers in Association with Increased Polyphenols and Exopolysaccharides.",
+  "abstract": "Long-term and excess chronic inflammation is related to most chronic degenerative disorders in the body; however, particular lactic acid bacteria (LAB) fermented foods with anti-inflammatory potential may reduce the risk of these chronic diseases. To develop anti-inflammatory LAB co-fermented cucumbers, a Lactiplantibacillus (Lpb.) plantarum NCHU-FC1 strain was isolated for preparing 5-day Lpb. plantarum NCHU-FC1 strain co-fermented cucumbers and 5-day spontaneously fermented cucumbers were selected to compare their immunomodulatory functions. Water extracts, ethanol extracts, and exopolysaccharides (EPS) from the fermented samples were isolated to treat RAW 264.7 macrophages without or with lipopolysaccharide (LPS) to evaluate their anti-inflammatory potential. Proinflammatory cytokines (interleukin [IL]-1\u03b2, IL-6, and tumor necrosis factor [TNF]-\u03b1) and anti-inflammatory cytokine (IL-10) produced by treated RAW 264.7 macrophages were determined. The relationships between functional ingredients in ethanol extracts and anti-inflammatory effects were analyzed. The results showed that water and ethanol extracts in both spontaneously and Lpb. plantarum NCHU-FC1 strain co-fermented cucumbers decreased pro-/anti-inflammatory cytokines secretion ratios by LPS-stimulated RAW 264.7 macrophages, exhibiting their anti-inflammatory potential. However, EPS from Lpb. plantarum NCHU-FC1 strain co-fermented cucumbers (LEPS) demonstrated a better anti-inflammatory effect than those from spontaneously fermented cucumbers. Total polyphenol, flavonoid, and saponin contents in the ethanol extracts of spontaneously and Lpb. plantarum NCHU-FC1 strain co-fermented cucumbers were significantly and negatively correlated with IL-6 levels and IL-6/IL-10 secretion ratios by treated corresponding LPS-stimulated RAW 264.7 cells, respectively. Our results suggest that functional ingredients, including polyphenolic components and LEPS, significantly inhibit LPS-stimulated inflammation in macrophages. The novel LAB-fermented cucumbers using Lpb. plantarum NCHU-FC1 strain may have broader implications for developing anti-inflammatory functional foods.",
+  "publication_date": "2025-04-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70231",
+  "entities": {
+    "SYMPTOM": [
+      "long-term and excess chronic inflammation",
+      "lps-stimulated inflammation"
+    ],
+    "FOOD": [
+      "5-day spontaneously fermented cucumbers",
+      "anti-inflammatory functional foods",
+      "anti-inflammatory lab co-fermented cucumbers",
+      "co-fermented cucumbers",
+      "lab) fermented foods",
+      "spontaneously fermented cucumbers",
+      "the novel lab-fermented cucumbers"
+    ],
+    "POLYPHENOL": [
+      "a better anti-inflammatory effect",
+      "anti-inflammatory effects",
+      "flavonoid",
+      "polyphenolic components",
+      "pro-/anti-inflammatory cytokines secretion ratios",
+      "secretion ratios",
+      "total polyphenol",
+      "tumor necrosis factor"
+    ]
+  }
+}

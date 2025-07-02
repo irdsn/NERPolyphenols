@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Salicylic acid nanoliposomes treatment alleviates chilling injury in postharvest baby ginger by regulating membrane lipid metabolism.",
+  "abstract": "In this study, salicylic acid nanoliposomes (SA@NLs) were used to alleviate chilling injury (CI) in baby ginger by modulating membrane lipid metabolism. SA@NLs were prepared using thin-film hydration method, and characterized in term of morphology, particle size, and stability. The results showed that SA@NLs were nanosized vesicles with an average particle size of 129\u00a0nm, demonstrating favorable dispersibility and encapsulation efficiency. SA@NLs treatment effectively maintained the quality index of baby ginger. The SA@NLs-treated group showed lower levels of phosphatidic acid, lysophosphatidylcholine, and lysophosphatidylethanolamine compared to the SA-treated and control groups, indicating the mitigation of the degradation of phospholipids. Meanwhile, SA@NLs treatment exhibited higher unsaturated fatty acid content and the unsaturation index of fatty acids (IUFA) reached 68.96\u00a0% at the end of storage, which enhanced cell membrane fluidity and chilling tolerance. These results demonstrated that SA@NLs had potential applications in controlling CI in baby ginger and other cold-sensitive fruits and vegetables.",
+  "publication_date": "2025-03-31",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144137",
+  "entities": {
+    "POLYPHENOL": [
+      "salicylic acid"
+    ],
+    "FOOD": [
+      "baby ginger"
+    ]
+  }
+}

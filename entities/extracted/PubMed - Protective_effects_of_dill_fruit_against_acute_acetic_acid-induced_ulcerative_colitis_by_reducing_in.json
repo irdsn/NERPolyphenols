@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Protective effects of dill fruit against acute acetic acid-induced ulcerative colitis by reducing inflammation and oxidative stress in rats.",
+  "abstract": "Nutritherapy is the art of using nutrients as a means of preventing or correcting dysfunction in the body. We aimed to evaluate the protective effect of dill fruit aqueous extract (DFAE) against acetic acid-induced ulcerative colitis. Healthy male rats (N\u2009=\u200942) were divided into seven groups of six animals each, with groups 1 and 2 being controls, groups 3, 4, and 5 given increasing doses of DFAE (50, 100, and 200\u2009mg/kg, b.w., p.o.), and groups 6 and 7 were given sulfasalazine (100\u2009mg/kg, b.w., p.o.) and gallic acid (50\u2009mg/kg, b.w., p.o.), respectively, during 10\u2009days. In\u00a0vitro, we found that DFAE's IC50exhibited a significant antioxidant capacity due to its high phenolic content. The in\u00a0vivo studies showed that the pre-treatment with DFAE significantly reduced AA-induced morphological and histopathological alterations of the colonic mucosa. The antioxidant and anti-inflammatory power of DFAE maintained the redox equilibrium and preserved the intracellular mediators' homeostasis. Our data may suggest that dill fruit is a promising candidate for treating ulcerative colitis by controlling oxidative stress and inflammation.",
+  "publication_date": "2025-05-01",
+  "journal": "Physiological reports",
+  "doi": "10.14814/phy2.70393",
+  "entities": {
+    "POLYPHENOL": [
+      "gallic acid",
+      "the protective effect"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

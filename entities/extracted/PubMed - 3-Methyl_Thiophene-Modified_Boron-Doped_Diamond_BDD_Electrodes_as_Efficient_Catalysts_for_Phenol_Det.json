@@ -1,0 +1,38 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "3-Methyl Thiophene-Modified Boron-Doped Diamond (BDD) Electrodes as Efficient Catalysts for Phenol Detection-A Case Study for the Detection of Gallic Acid in Three Specific Tea Types.",
+  "abstract": "Polymer modification has been established as a cost-effective, simple, in situ method for overcoming some of the inherent disadvantages of boron-doped diamond (BDD) electrodes, and its application has been extended to reliable, low-cost environmental monitoring solutions. The present review focuses on modifying BDD electrodes with semi-conductive polymers acting as redox mediators. This article reports on the development of a 3-methyl thiophene-modified boron-doped diamond (BDD/P3MT) sensor for the electrochemical determination of total phenolic compounds (TPCs) in tea samples, using gallic acid (GA) as a marker. GA is a significant polyphenol with various biological activities, making its quantification crucial. Thus, a simple, fast, and sensitive GA sensor was fabricated using the electroanalytical square wave voltammetry (SWV) technique. The sensor utilizes a semi-conductive polymer, 3-methyl thiophene, as a redox mediator to enhance BDD's sensitivity and selectivity. Electrochemical synthesis was used for polymer deposition, allowing for greater purity and avoiding solubility problems. The BDD/P3MT sensor exhibits good electrochemical properties, including rapid charge transfer and a large electrochemical area, enabling GA detection with a limit of detection of 11 mg/L. The sensor's response was correlated with TPCs measured by the Folin-Ciocalteu method. Square wave voltammetry (SWV) showed a good linear relationship between peak currents and GA concentrations in a wide linear range of 3-71 mg/L under optimal conditions. The BDD/P3MT sensor accurately measured TPCs in green tea, rooibos tea, and black tea samples, with green tea exhibiting the highest TPC levels. The results demonstrate the potential of the modified BDD electrode for the rapid and accurate detection of phenolic compounds in tea, with implications for quality control and antioxidant activity assessments. The prolific publications of the past decade have established BDD electrodes as robust BDD sensors for quantifying polyphenols. Fruits, vegetables, nuts, plant-derived beverages such as tea and wine, traditional Eastern remedies and various herbal nutritional supplements contain phenolic chemicals. The safety concerns of contaminated food intake are significant health concerns worldwide, as there exists a critical nexus between food safety, nutrition, and food security. It has been well established that green tea polyphenol consumption promotes positive health effects. Despite their potential benefits, consuming high amounts of these polyphenols has sparked debate due to concerns over potential negative consequences.",
+  "publication_date": "2024-08-02",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13152447",
+  "entities": {
+    "POLYPHENOL": [
+      "a large electrochemical area",
+      "a significant polyphenol",
+      "bdd electrodes",
+      "boron-doped diamond (bdd) electrodes",
+      "detection",
+      "electrochemical synthesis",
+      "food security",
+      "ga detection",
+      "gallic acid",
+      "good electrochemical properties",
+      "green tea polyphenol consumption",
+      "phenolic compounds",
+      "positive health effects",
+      "quantifying polyphenols",
+      "selectivity",
+      "the electrochemical determination",
+      "the past decade",
+      "the rapid and accurate detection",
+      "these polyphenols",
+      "total phenolic compounds"
+    ],
+    "FOOD": [
+      "black tea samples",
+      "green tea",
+      "wine"
+    ]
+  }
+}

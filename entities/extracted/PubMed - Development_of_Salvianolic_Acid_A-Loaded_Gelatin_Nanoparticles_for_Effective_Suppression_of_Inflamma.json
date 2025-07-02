@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Development of Salvianolic Acid A-Loaded Gelatin Nanoparticles for Effective Suppression of Inflammation and Oxidative Stress in Blood-Brain Barrier to Ischemic Stroke Therapy.",
+  "abstract": "Ischemic stroke (ICS) represents a treatment emergency for which efficient therapeutic options remain insufficient. Salvianolic acid A (SAA) is a naturally occurring polyphenol recognized as an effective neuroprotective agent. Compared with developed drugs, SAA demonstrates low side effects and displays several modes of action, providing considerable benefits in managing ICS. Yet, limitations of inadequate transmembrane permeability and water solubility hinder the effectiveness of SAA. Recently, nanodelivery methods have garnered significant attention in ICS as an efficient to penetrate the blood-brain barrier and enhance drug solubility. This investigation developed a new nanomedicine (SAA@GRH NPs) for ICS treatment, utilizing SAA-loaded gelatin nanoparticles (SAA@GNPs) that were functionalized and altered with brain tissue target rabies virus glycoprotein (RVG29). The stability, antioxidant, antibacterial, neuroprotective effects, cellular uptake, and cytocompatibility of SAA@GRH NPs were examined. The in vivo efficacy of SAA@GRH NPs on ICS was studied in a rat model of middle cerebral artery occlusion (MCAO) with histological analysis. The resultant SAA@GRH NPs enhanced the solubility of SAA and demonstrated effective dispersion. In vitro studies indicate that SAA@GRH NPs possess significant antibacterial activities, antioxidant capabilities, and protection against intracellular reactive oxygen species. RVG29 markedly improved the absorption of SAA@GRH NPs by IMR32 cells. Moreover, in vivo investigations confirmed the efficacy of SAA@GRH NPs in mitigating nerve injury and facilitating neurological recovery. In the MCAO model, SAA@GRH NPs markedly diminished neuroinflammation, substantially recovered behavioral functions and decreased neuronal death. Collectively, our data suggested that SAA@GRH NPs may offer an innovative and promising strategy for the successful treatment of ICS.",
+  "publication_date": "2025-06-04",
+  "journal": "Biotechnology and applied biochemistry",
+  "doi": "10.1002/bab.2766",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring polyphenol",
+      "an effective neuroprotective agent",
+      "effective dispersion",
+      "intracellular reactive oxygen species",
+      "low side effects",
+      "neurological recovery",
+      "protection",
+      "the effectiveness",
+      "the stability, antioxidant, antibacterial, neuroprotective effects"
+    ],
+    "SYMPTOM": [
+      "neuroinflammation"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Beauveria bassianaInduces Strong Defense and Increases Resistance in Tomato toBemisia tabaci.",
+  "abstract": "Pre-stimulation of plants can change their resistance mechanisms, thereby enhancing their defense responses.Beauveria bassiana, a broad-spectrum entomogenous fungi, can also induce plant defenses, but it received little attention. Here, we show thatB. bassianacan act as a stimulus to prime tomato defense responses, improving resistance in the plant to herbivore stress. The results illustrated that four defense genes (PIN2,PR2,PAL, andMPK3) were upregulated in allB. bassianatreatments, especially the phenylalanine deaminase (PAL) gene, which was highly expressed in tomato plants afterB. bassianainoculation. Feeding throughBemisia tabaciresulted in a weak upregulation of defense genes. However, in combined fungal inoculation andB. tabacifeeding, a total of nine defense genes were upregulated, among which five genes-PAL,PPO,PIN2,PR2, andPR1-were closely related to the phenol synthesis. The results of tomato plant metabolism showed thatB. bassianamainly activates tomato phenylpropane metabolic pathways, with this modulation being influenced by jasmonate. Further explorations revealed a significant enhancement in the antioxidant capacity of the plants, as evidenced by the determination of their antioxidant compounds and the coloration of leaf phenolic substances. Thus, entomopathogenic fungi can act as an exogenous substance to activate the defense responses of tomatoes without damaging the plant, indicating a good potential for developing applications usingB. bassianato promote resistance in tomatoes for pest management.",
+  "publication_date": "2025-02-13",
+  "journal": "Journal of fungi (Basel, Switzerland)",
+  "doi": "10.3390/jof11020141",
+  "entities": {
+    "POLYPHENOL": [
+      "a broad-spectrum entomogenous fungi",
+      "especially the phenylalanine deaminase (pal) gene",
+      "their resistance mechanisms"
+    ],
+    "FOOD": [
+      "prime tomato defense responses",
+      "tomato phenylpropane metabolic pathways",
+      "tomato plant metabolism",
+      "tomato plants afterb. bassianainoculation",
+      "tomatoes"
+    ],
+    "SYMPTOM": [
+      "herbivore stress"
+    ]
+  }
+}

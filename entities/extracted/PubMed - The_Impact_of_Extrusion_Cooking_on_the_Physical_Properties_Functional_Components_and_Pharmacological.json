@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "The Impact of Extrusion Cooking on the Physical Properties, Functional Components, and Pharmacological Activities of Natural Medicinal and Edible Plants: A Review.",
+  "abstract": "Extrusion cooking is an innovative, advanced processing technology widely used in the food and feed industries. With growing concerns over the health attributes of food, the effects of extrusion cooking on the functional characteristics of natural medicinal and edible plants (NMEPs) have attracted increasing attention from researchers. This review, based on recent literature on extrusion cooking, systematically summarizes its impact on the physical properties; functional components, such as total polyphenols, total flavonoids, total polysaccharides, and total saponins; and pharmacological activities, including antioxidant, hypoglycemic, hypolipidemic, and anti-inflammatory effects, of NMEPs. The aim is to provide a scientific basis for the application of extrusion cooking technology in the advanced processing of these resources.",
+  "publication_date": "2025-05-24",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14111869",
+  "entities": {
+    "POLYPHENOL": [
+      "an innovative, advanced processing technology",
+      "extrusion cooking technology",
+      "recent literature",
+      "the effects",
+      "total flavonoids",
+      "total polyphenols"
+    ]
+  }
+}

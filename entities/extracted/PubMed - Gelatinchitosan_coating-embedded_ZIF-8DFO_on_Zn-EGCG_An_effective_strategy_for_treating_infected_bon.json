@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Gelatin/chitosan coating-embedded ZIF-8@DFO on Zn-EGCG: An effective strategy for treating infected bone defects.",
+  "abstract": "Titanium-based bone defect repair often encounters problems such as bacterial infection and excessive inflammation. In this study, firstly, tea polyphenol and zinc ion (E-Zn) coatings were prepared on titanium surface. Subsequently, ZIF8@D (ZIF8 loaded with desferrioxamine) was loaded onto the E-Zn surface with the help of gelatin and chitosan (CG) to form an E-Zn/CG-ZIF8@D composite coating. The results demonstrated that the E-Zn/CG-ZIF8@D coating exhibited favorable hydrophilicity, corrosion resistance, and hemocompatible. In vitro, the coating boasted outstanding antimicrobial properties due to the antimicrobial effects of Zn2+against E. coli and S. aureus. Leveraging the anti-inflammatory properties of Zn2+, the coating could modulate the polarization of macrophages (RAW264.7) to the M2 type. Thanks to the vascularization-inducing properties of desferrioxamine, the coating could prompt the vascularization of human umbilical vein endothelial cells (HUVEC). Relying on the osteogenic properties of Zn2+, the coating could drive the differentiation of preosteoblasts (MC3T3-E1) towards osteogenesis. In vivo experiments indicated that the E-Zn/CG-ZIF8@D manifested excellent anti-inflammatory, antibacterial, angiogenic, and bone repair capabilities. This surface engineering strategy is highly effective. It constructs favorable bone-implant interfaces. It does this by integrating multiple functions. As a result, the likelihood of implant failure is significantly reduced.",
+  "publication_date": "2025-05-14",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144167",
+  "entities": {
+    "POLYPHENOL": [
+      "bacterial infection",
+      "the antimicrobial effects",
+      "titanium-based bone defect repair"
+    ],
+    "SYMPTOM": [
+      "excessive inflammation"
+    ]
+  }
+}

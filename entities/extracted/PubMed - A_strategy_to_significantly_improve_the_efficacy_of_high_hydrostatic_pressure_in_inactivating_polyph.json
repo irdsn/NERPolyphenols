@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "A strategy to significantly improve the efficacy of high hydrostatic pressure in inactivating polyphenol oxidase using epigallocatechin gallate and ferulic acid for the inhibition of enzymatic browning: From a model system to cloudy apple juice.",
+  "abstract": "High hydrostatic pressure (HHP) represents a promising non-thermal processing technology, but its efficacy in inactivating enzymes like polyphenol oxidase (PPO) is matrix-dependent and inconsistent. In this work, the strategy of HHP (600\u00a0MPa/10\u00a0min/25\u00a0\u00b0C) combined with epigallocatechin gallate (EGCG) and ferulic acid (FA) treatment on the activity and advanced structure of mushroom PPO were explored, as well as its application in controlling enzymatic browning of cloudy apple juice. Results showed that the combined treatment exhibited additive or synergistic effects depending on whether HHP was applied before or after the inhibitors, resulting in a maximum reduction of PPO activity by over 95\u00a0%. Both treatments resulted in fluorescence quenching and particle aggregation in PPO. Molecular dynamics simulations revealed that EGCG and FA could stably bind to the PPO active center under pressure, forming a spatial barrier to substrate binding. Correspondingly, the strategy successfully inactivated the PPO in cloudy apple juice and effectively maintained its color during storage at 4\u00a0\u00b0C. This study offers a solution to the challenges associated with the commercial promotion and application of HHP technology.",
+  "publication_date": "2025-06-20",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145246",
+  "entities": {
+    "POLYPHENOL": [
+      "a promising non-thermal processing technology",
+      "additive or synergistic effects",
+      "egcg",
+      "epigallocatechin gallate",
+      "hhp technology",
+      "molecular dynamics simulations",
+      "polyphenol oxidase"
+    ],
+    "FOOD": [
+      "cloudy apple juice"
+    ]
+  }
+}

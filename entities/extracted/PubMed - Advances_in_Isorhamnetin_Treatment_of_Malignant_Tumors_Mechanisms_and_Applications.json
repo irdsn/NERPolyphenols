@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Advances in Isorhamnetin Treatment of Malignant Tumors: Mechanisms and Applications.",
+  "abstract": "Isorhamnetin (ISO) is a natural flavonoid compound that has become a main research topic in recent years due to its multitargeted antitumor properties. In this paper, we systematically review the molecular basis of the inhibition of malignant tumors by ISO, including through the regulation of the cell cycle, PI3K/AKT/mTOR pathway, MAPK pathway, apoptosis/autophagy-related pathways, and the tumor microenvironment. We also explore its synergistic effects with chemotherapy/targeted therapies and its potential for clinical translation. Experimental studies have shown that ISO can not only directly inhibit tumor proliferation by inducing tumor cell cycle arrest, mitochondria-dependent apoptosis, and endoplasmic reticulum stress, but also enhance antitumor immune responses by regulating the immune microenvironment. Pharmacokinetic studies have shown that novel delivery systems, such as nano-formulations, significantly enhance the bioavailability of ISO. Notably, ISO has demonstrated unique advantages in attenuating the nephrotoxicity of chemotherapeutic agents, protecting normal cells, and reversing tumor resistance. However, the optimal dosing regimen, dose-effect relationship, and cross-species applicability need to be further validated by large-scale preclinical animal experiments and clinical trials. This paper provides a theoretical basis for the development and application of ISO for the treatment of malignant tumors and highlights its potential value in animal models.",
+  "publication_date": "2025-05-29",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17111853",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural flavonoid compound",
+      "cross-species applicability",
+      "dose-effect relationship",
+      "isorhamnetin",
+      "its synergistic effects",
+      "large-scale preclinical animal experiments",
+      "recent years",
+      "the molecular basis"
+    ],
+    "SYMPTOM": [
+      "apoptosis/autophagy-related pathways",
+      "endoplasmic reticulum stress",
+      "mitochondria-dependent apoptosis"
+    ]
+  }
+}

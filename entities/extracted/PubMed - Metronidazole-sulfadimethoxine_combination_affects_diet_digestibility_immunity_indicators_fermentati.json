@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Metronidazole-sulfadimethoxine combination affects diet digestibility, immunity indicators, fermentation metabolites, and intestinal microbiome of puppies.",
+  "abstract": "This study aimed to evaluate the effects of a commercial metronidazole-sulfadimethoxine formulation on the apparent digestibility coefficients and metabolizable energy of the diet and immunity, gut permeability, fermentation metabolites, and intestinal microbiome of puppies.",
+  "publication_date": "2025-06-13",
+  "journal": "Journal of the American Veterinary Medical Association",
+  "doi": "10.2460/javma.25.02.0109",
+  "entities": {
+    "POLYPHENOL": [
+      "the effects"
+    ]
+  }
+}

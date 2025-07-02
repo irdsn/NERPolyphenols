@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "The role of kratom (Mitragyna speciosa Korth.) extract in medical foods for obese patients: Effects on gut microbiota in a colon model.",
+  "abstract": "Kratom (Mitragyna speciosa Korth.), rich in mitragynine and polyphenols, suppresses and affects the metabolism of macronutrients, making it a functional ingredient in medical food for obese patients. This research focuses on the formulation of a kratom-supplemented medical food (MKT) and its effects on the gut microbiota of obese patients using in vitro fecal fermentation, as well as the production of their metabolites in a simulated human colon system. The 16S rRNA gene sequencing and studies on \u03b1- and \u03b2-diversity revealed favorable outcomes for MKT, demonstrating the promotion of beneficial bacteria and the suppression of pathogens in obese patients. However, the commercial medical food (MC) resulted in the production of more short-chain fatty acids. In conclusion, the developed kratom-supplemented formula shows potential for use in the diets of obese patients. However, further investigation through animal and human trials is needed to confirm its safety and effectiveness.",
+  "publication_date": "2025-02-05",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.115935",
+  "entities": {
+    "POLYPHENOL": [
+      "effectiveness",
+      "its effects",
+      "mitragyna speciosa korth",
+      "polyphenols",
+      "vitro fecal fermentation"
+    ]
+  }
+}

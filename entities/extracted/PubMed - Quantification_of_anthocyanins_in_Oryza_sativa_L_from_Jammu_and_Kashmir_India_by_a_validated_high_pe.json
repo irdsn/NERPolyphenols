@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Quantification of anthocyanins in Oryza sativa L. from Jammu and Kashmir, India by a validated high performance thin layer chromatography (HPTLC) method.",
+  "abstract": "Anthocyanins are bioactive compounds with antioxidant, anti-obesity, and anti-inflammatory properties beneficial for human health. HPTLC is an effective technique that is ideal for analysing both qualitatively and quantitatively. One of the advantages of HPTLC over HPLC (High performance liquid chromatography) and LC-MS (Liquid chromatography mass spectrometry) is the capability to analyse crude samples consisting of various compounds along with the capacity to apply multiple samples and a range of standards on a single plate with enhanced accuracy and precision of quantification without constrains of time. This study aimed to develop and validate a high performance thin-layer chromatography (HPTLC) method for the identification and quantification of anthocyanins in Oryza sativa L. methanolic extracts collected from the Jammu and Kashmir region of India. Pre-coated TLC plates (20 \u00d7 10 cm) with silica gel 60F254as the stationary phase, and the mobile phase consisted of ethyl acetate: 2-butanol: formic acid: water (9:6:3:3, v/v/v/v) were used. Major anthocyanins peonidin-3-O-glucoside chloride, cyanidin-3-glucoside chloride, peonidin-3-glucoside chloride and kuromanin were identified in Black rice and Mushk Budji rice. Cyanidin-3,5-diglucoside chloride was detected exclusively in Black rice. Densitometric evaluation was performed at 520-540 nm. Method validation adhered to ICH guidelines, demonstrating specificity, linearity (r\u00b2: 0.9992-0.9999), precision (RSD < 2 %), and robustness. The limit of detection (LOD) and quantitation (LOQ) ranged from 7.57 to 36.08 ng/band and 12.96 to 61.79 ng/band, respectively. This validated method provides a reliable approach for detecting adulteration and ensuring the quality control of anthocyanin-rich raw materials used in food and nutraceutical products.",
+  "publication_date": "2025-05-27",
+  "journal": "Journal of chromatography. A",
+  "doi": "10.1016/j.chroma.2025.466097",
+  "entities": {
+    "SYMPTOM": [
+      "antioxidant, anti-obesity, and anti-inflammatory properties"
+    ],
+    "POLYPHENOL": [
+      "(liquid chromatography mass spectrometry",
+      "an effective technique",
+      "cyanidin-3,5-diglucoside chloride",
+      "cyanidin-3-glucoside chloride",
+      "detection",
+      "peonidin-3-glucoside chloride",
+      "peonidin-3-o-glucoside chloride",
+      "precision",
+      "specificity"
+    ]
+  }
+}

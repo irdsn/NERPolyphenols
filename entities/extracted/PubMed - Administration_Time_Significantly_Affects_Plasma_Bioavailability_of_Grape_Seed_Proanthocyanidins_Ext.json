@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Administration Time Significantly Affects Plasma Bioavailability of Grape Seed Proanthocyanidins Extract in Healthy and Obese Fischer 344 Rats.",
+  "abstract": "Phenolic compounds are bioactive molecules that are associated with several health benefits. Metabolization and absorption are the main determinants of their bioavailability and bioactivity. Thus, the study of the factors that modulate these processes, such as sex or diet is essential. Recently, it has been shown that biological rhythms may also play a key role. Hence, the aim of this study is to evaluate if the bioavailability of a grape proanthocyanidin extract (GSPE) is affected by the administration time in an animal model of metabolic syndrome (MetS).",
+  "publication_date": "2021-12-26",
+  "journal": "Molecular nutrition & food research",
+  "doi": "10.1002/mnfr.202100552",
+  "entities": {
+    "POLYPHENOL": [
+      "a grape proanthocyanidin extract",
+      "bioactive molecules",
+      "phenolic compounds"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

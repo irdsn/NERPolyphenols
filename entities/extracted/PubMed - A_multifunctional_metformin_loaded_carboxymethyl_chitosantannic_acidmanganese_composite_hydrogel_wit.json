@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "A multifunctional metformin loaded carboxymethyl chitosan/tannic acid/manganese composite hydrogel with promising capabilities for age-related bone defect repair.",
+  "abstract": "As the global population ages, age-related bone defects have become a major public health challenge. The decline in bone tissue repair capacity among the elderly is primarily attributed to the senescence of bone marrow mesenchymal stem cells (BMSCs), which leads to reduced proliferation and differentiation capabilities, thereby impeding the bone healing process. Additionally, the deterioration of the bone microenvironment, characterized by chronic inflammation and oxidative stress, further complicates bone repair. To address these issues, a multifunctional hydrogel drug delivery system, the metformin-loaded carboxymethyl chitosan/tannic acid/manganese (MCTM) hydrogel was developed. This system integrates the synergistic effects of CMCS, TA, Mn2+, and metformin to effectively alleviate BMSCs senescence, optimize the local chronic inflammatory microenvironment, eliminate oxidative stress, and reduce post-implantation infection risks. Detailed material characterization revealed that the introduction of Mn2+significantly enhances the mechanical properties and optimizes the degradation characteristics of the CMCS/TA hydrogel, ensuring continuous and stable drug release at tissue repair sites. In vitro and in vivo experiments demonstrated MCTM's excellent biocompatibility and its ability to combine stem cell senescence alleviation with bone repair microenvironment improvement, thereby effectively overcoming various adverse factors affecting bone defect repair in the elderly. This study presents a promising strategy for enhancing bone regeneration under senescent conditions.",
+  "publication_date": "2025-03-21",
+  "journal": "Carbohydrate polymers",
+  "doi": "10.1016/j.carbpol.2025.123526",
+  "entities": {
+    "POLYPHENOL": [
+      "age-related bone defects",
+      "bone defect repair",
+      "post-implantation infection risks",
+      "the decline",
+      "the mechanical properties",
+      "the synergistic effects"
+    ],
+    "SYMPTOM": [
+      "chronic inflammation",
+      "oxidative stress"
+    ]
+  }
+}

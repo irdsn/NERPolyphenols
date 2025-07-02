@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Flaxseed Oilcake: An Ingredient with High Nutritional Value in the Realization of Innovative Food Products.",
+  "abstract": "The by-products of the oil cold pressing of flaxseed are deemed to be safe, edible products. They have been shown to possess high nutritional value (compared with the seeds, they are richer in proteins and minerals) and adequate functional parameters (i.e., a high water-holding capacity and emulsion stability). In oilcakes, we found a portion of oil that was richer in unsaturated fatty acids (87.90%) than flax seeds (57.40%). Mg predominates in flax seeds, while Ce is predominant in flaxseed oilcake. Regarding essential amino acids, the seeds (76.71%) were found to be richer than the oilcake (70.46%). The use of methanol, low extraction temperatures, s high ultrasonic amplitude, and longer times resulted in the highest antioxidant capacity and phenolic content for flaxseed oilcake. Our analyses showed that oilcakes can be utilized as a functional ingredient or for the extraction of bioactive compounds, which can be incorporated into food products due to their nutritional, social, and economic benefits.",
+  "publication_date": "2025-03-21",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14071087",
+  "entities": {
+    "POLYPHENOL": [
+      "their nutritional, social, and economic benefits"
+    ]
+  }
+}

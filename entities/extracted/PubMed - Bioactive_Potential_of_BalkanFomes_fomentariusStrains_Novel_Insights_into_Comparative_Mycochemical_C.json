@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Bioactive Potential of BalkanFomes fomentariusStrains: Novel Insights into Comparative Mycochemical Composition and Antioxidant, Anti-Acetylcholinesterase, and Antiproliferative Activities.",
+  "abstract": "Fomes fomentarius(L.) Fr. has been valued since the 15th century across Europe, including the Balkan region, for its medicinal and traditional uses such as tinder production, spiritual practices, wound healing, and hemostasis. This study analyzes three Balkan strains, focusing on micro- and macroelements, polyamines (PAs), and phenolic compounds in hot water (H2O), chloroform (CHCl3), hydroethanolic (EtOH), and hydromethanolic (MeOH) extracts. Micro- and macroelements were determined using atomic absorption spectrophotometry (AAS), while PAs were quantified using high-performance liquid chromatography with fluorescence detection (HPLC-FD). Phenolic profiles were determined using liquid chromatography-mass spectrometry (LC-MS/MS), with total phenolic content (TPC) assessed using the Folin-Ciocalteu method. Antioxidant activity was evaluated via DPPH, ABTS, NO scavenging, lipid peroxidation inhibition, and FRAP assays, alongside anti-acetylcholinesterase and antiproliferative activity assessments. This study represents the first investigation of PA profiles inF. fomentarius, with total PA levels ranging from 32.67 to 2910.09 nmol/g dry weight (d.w.). The Bosnian strain exhibited the highest PA levels, with spermidine (SPD) concentrations ranging from 899.96 to 2910.09 nmol/g d.w. LC-MS/MS analysis identified several bioactive phenolics, including amentoflavone, baicalein, chrysoeriol, esculetin, and scopoletin-reported here for the first time in this fungus. The H2O and EtOH extracts from the Croatian and Serbian strains showed higher TPC levels, correlating with notable antioxidant activity. The EtOH and MeOH extracts demonstrated significant anti-acetylcholinesterase and antiproliferative activities, emphasizing their medicinal potential. These findings highlight the therapeutic potential of polar extracts from BalkanF. fomentarius.",
+  "publication_date": "2025-05-26",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13061210",
+  "entities": {
+    "POLYPHENOL": [
+      "atomic absorption spectrophotometry",
+      "baicalein",
+      "fluorescence detection",
+      "liquid chromatography-mass spectrometry",
+      "phenolic compounds"
+    ]
+  }
+}

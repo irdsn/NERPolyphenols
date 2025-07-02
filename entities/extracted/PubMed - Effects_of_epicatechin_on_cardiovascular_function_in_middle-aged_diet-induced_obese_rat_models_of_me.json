@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Effects of epicatechin on cardiovascular function in middle-aged diet-induced obese rat models of metabolic syndrome.",
+  "abstract": "The current study aimed to investigate the cardiovascular effects of epicatechin, a flavonoid found in green tea and cocoa, in attenuating complications associated with metabolic syndrome in diet-induced obese rats. Male Wistar-Kyoto (WKY) rats aged 16 weeks were fed either standard rat chow or given a high-fat-high-carbohydrate (HFHC) diet for 20 weeks. Epicatechin treatment (5 mg/kg/d) was administered to a subset of WKY rats commencing at week 8 of the 20 week HFHC feeding period. Body weights, food, water and energy intakes, blood pressure, heart rate and glucose tolerance were measured throughout the treatment period. Oxidative stress and inflammatory markers, lipid levels, cardiac collagen deposition, cardiac electrical function, aortic and mesenteric vessel reactivity were examined after the treatment. Twenty weeks of HFHC feeding in WKY rats resulted in the development of metabolic syndrome indicated by the presence of abdominal obesity, dyslipidaemia, glucose intolerance and increased blood pressure. Epicatechin treatment was found to enhance the oxidative stress status in HFHC groups through an increase in serum nitric oxide levels and a decrease in 8-isoprostane concentrations. Furthermore, WKY-HFHC rats displayed a decrease in IL-6 levels. The lipid profiles in HFHC groups showed improvement, with a decrease in LDL-cholesterol and TAG and an increase in HDL-cholesterol levels observed in WKY-HFHC rats. However, epicatechin was not effective in preventing weight gain, glucose intolerance or hypertension in HFHC fed rats. Overall, the results of this study suggest that epicatechin has the potential to improve the underlying mechanisms associated with metabolic syndrome in obese rats.",
+  "publication_date": "2023-09-21",
+  "journal": "The British journal of nutrition",
+  "doi": "10.1017/S000711452300209X",
+  "entities": {
+    "POLYPHENOL": [
+      "a decrease",
+      "a flavonoid",
+      "cardiac electrical function",
+      "epicatechin",
+      "epicatechin treatment",
+      "the cardiovascular effects",
+      "the underlying mechanisms"
+    ],
+    "FOOD": [
+      "cocoa",
+      "green tea"
+    ],
+    "SYMPTOM": [
+      "abdominal obesity",
+      "glucose intolerance",
+      "hypertension",
+      "metabolic syndrome",
+      "oxidative stress",
+      "the oxidative stress status"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Elucidating the effect of brewing temperature on the sensory quality of Longjing tea based on multi-scale molecular sensory science.",
+  "abstract": "Longjing tea is popular due to its unique flavor characteristics, and the brewing process is of crucial importance in presenting its flavor. This study investigated how brewing temperature (BT) impacts Longjing tea's sensory and molecular profile. Sensory evaluations demonstrated that lower brewing temperatures (70-80\u00a0\u00b0C, with 70\u00a0\u00b0C optimal) enhanced umami taste while diminishing bitterness and astringency. LC-MS based metabolomics analysis revealed that the reduced BT enhanced umami taste by modulating free amino acid composition, while higher BT accelerated the leaching of flavonols and flavonol/flavone glycosides, exacerbating bitterness and astringency. Taste-addition experiments and molecular docking identifiedL-aspartic acid,L-theanine andL-arginine as key umami contributors, which synergistically enhanced umami intensity (1.77 to 6.83,p<\u00a00.05) through stabilizing the Glu-T1R1/T1R3 complex and lowered binding free energy (-5.084 to -10.618\u00a0kcal/mol). These findings provided novel insights into the intricate relationship between BT and the flavor profile of Longjing tea.",
+  "publication_date": "2025-06-05",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102635",
+  "entities": {
+    "POLYPHENOL": [
+      "molecular docking identifiedl-aspartic acid",
+      "tea's sensory and molecular profile"
+    ]
+  }
+}

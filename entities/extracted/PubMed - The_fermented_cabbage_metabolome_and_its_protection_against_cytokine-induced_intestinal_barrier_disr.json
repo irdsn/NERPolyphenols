@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "The fermented cabbage metabolome and its protection against cytokine-induced intestinal barrier disruption of Caco-2 monolayers.",
+  "abstract": "Fermented vegetables, such as fermented cabbage (sauerkraut), have garnered growing interest for their associations with a myriad of health benefits. However, the mechanistic details underlying the outcomes of consuming these foods require further investigation. This study examined the capacity of soluble metabolites in laboratory-scale and commercial-fermented cabbage to protect against disruption of polarized Caco-2 monolayers by interferon gamma (IFN-\u03b3) and tumor necrosis factor-alpha (TNF-\u03b1). Laboratory-scale ferments (LSF) were prepared with and without the addition ofLactiplantibacillus plantarumNCIMB8826R (LP8826R) and sampled after 7 and 14 days of incubation. Trans-epithelial electrical resistance (TER) and paracellular permeability to fluorescein isothiocyanate (FITC)-dextran revealed that fermented cabbage, but not raw cabbage or brine, protected against cytokine-induced damage to the Caco-2 monolayers. Barrier-protective effects occurred despite increased IL-8 production following cytokine exposure. Metabolomic analyses performed using gas and liquid chromatography resulted in the identification of 149 and 333 metabolites, respectively. Significant differences were found between raw and fermented cabbage. LSF metabolomes changed over time, and the profiles of LSF with LP8826R best resembled the commercial product. Overall, fermentation resulted in lower carbohydrate and increased lactic acid, lipid, amino acid derivative (including D-phenyl-lactate [D-PLA], indole-3-lactate [ILA], and \u03b3-aminobutyric acid [GABA]), and phenolic compound concentrations. Lactate, D-PLA, and ILA tested individually and combined only partially protected against cytokine-induced TER reductions and increases in paracellular permeability of Caco-2 monolayers. The findings show that intestinal barrier-protective compounds are consistently enriched during cabbage fermentations, irrespective of the scale or microbial additions, which may contribute to the health-promoting potential of these foods.IMPORTANCEFermented vegetables are increasingly associated with health benefits. However, the importance of microbial transformations to foods during the fermentation process remains to be determined. We found that the metabolites in spontaneously fermented cabbage protected polarized intestinal epithelial cells against damage induced by proinflammatory cytokines. Cabbage fermentations resulted in consistent metabolome profiles enriched in bioactive compounds known to be made by beneficial members of the human gut microbiome, including D-phenyl-lactate (D-PLA) and indole-3-lactate (ILA). The metabolomes were distinct from raw cabbage and were further differentiated between commercial and lab ferments, sampling time, and the presence of an exogenousLactiplantibacillus plantarumstrain. Because only partial protection against intestinal barrier disruption was found when individual metabolites (D-PLA, ILA, and lactate) were applied, the findings indicate that the complex mixture of metabolites in a cabbage fermentation offers advantages over single metabolites to benefit intestinal health.",
+  "publication_date": "2025-04-07",
+  "journal": "Applied and environmental microbiology",
+  "doi": "10.1128/aem.02234-24",
+  "entities": {
+    "FOOD": [
+      "a cabbage fermentation",
+      "cabbage fermentations",
+      "fermented cabbage",
+      "laboratory-scale and commercial-fermented cabbage",
+      "not raw cabbage",
+      "raw and fermented cabbage",
+      "raw cabbage",
+      "spontaneously fermented cabbage"
+    ],
+    "POLYPHENOL": [
+      "barrier-protective effects",
+      "intestinal barrier-protective compounds",
+      "necrosis factor-alpha",
+      "only partial protection",
+      "phenolic compound concentrations",
+      "the mechanistic details",
+      "trans-epithelial electrical resistance"
+    ]
+  }
+}

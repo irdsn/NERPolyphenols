@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Enzymatic Hydrolysis-Derived Water-Soluble Carbohydrates fromCacalia firma: Evaluation of Antioxidant Properties.",
+  "abstract": "This research focused on producing water-soluble carbohydrates extracts from the leaves of the wild plantCacalia firmausing commercial enzymatic processes. Different enzymes and conditions were applied to the leaves to determine the optimal method for extracting carbohydrates. Enzymes used were Cellic CTec3 HS, Celluclast 1.5 L, Viscozyme L, Pectinex ultraSP-L, and Amylase AG. Pectinase, cellulase, and other enzymes are isolated from yeast, bacteria, or some higher plants and are commonly used to break down pectin, which is the cell wall or intercellular connective tissue in plant tissues, to soften fruit or vegetable tissues and to make sugars. They are commonly used to soften the tissues of fruits and vegetables, to produce sugars, or to increase the yield of juice in fruit processing. The resulting water-soluble carbohydrates demonstrated significant antioxidant capabilities in vitro, as evidenced by DPPH radical-scavenging and ABTS assays. Furthermore, the carbohydrates exhibited high levels of total polyphenol and flavonoid content. The extraction methodology was fine-tuned using response surface methodology alongside the Box-Behnken design, achieving a maximum carbohydrate yield of 129.7 mg/g, which was very close to the predicted value of 132.4 mg/g. The optimal conditions included an extraction temperature of 47.3 \u00b0C, a duration of 63 h, and a pH of 3.7 using Viscozyme L. This study offers a theoretical foundation for the development of natural carbohydrate antioxidants and lays the groundwork for large-scale production and utilization ofC. firmaleaf carbohydrates. These extracts, showing antioxidant activity, hold potential as functional ingredients in the food industry.",
+  "publication_date": "2025-04-11",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14081326",
+  "entities": {
+    "POLYPHENOL": [
+      "cellic ctec3 hs",
+      "intercellular connective tissue",
+      "pectin",
+      "pectinase",
+      "pectinex ultrasp-l",
+      "total polyphenol and flavonoid content"
+    ],
+    "FOOD": [
+      "juice"
+    ]
+  }
+}

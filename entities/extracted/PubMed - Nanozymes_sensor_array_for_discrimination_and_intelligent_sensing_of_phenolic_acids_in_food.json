@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Nanozymes sensor array for discrimination and intelligent sensing of phenolic acids in food.",
+  "abstract": "Although nanozymes sensor arrays have the potential to recognize multiple target substances simultaneously, they currently rarely identify phenolic acids in food due to limited catalytic performance and complex preparation conditions of nanozymes. Here, inspired by the structure of polyphenol oxidase, we have successfully prepared a novel gallic acid-Cu (GA-Cu) nanozyme with laccase-like activity. Due to the different catalytic efficiency of GA-Cu nanozymes towards six common phenolic acids, a three-channel colorimetric sensor array was constructed using reaction kinetics as the sensing unit to achieve high-throughput detection and identification of six phenolic acids within a concentration range from 1 to 100\u00a0\u03bcM. This method avoids the creation of numerous sensing units. Notably, the successful discrimination of six phenolic acids in samples of juice, beer, and wine has been achieved by the sensor array. Finally, aided by smartphones, a portable technique has been devised for the detection of phenolic acids.",
+  "publication_date": "2024-04-10",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2024.139326",
+  "entities": {
+    "POLYPHENOL": [
+      "a portable technique",
+      "high-throughput detection",
+      "polyphenol oxidase",
+      "the detection"
+    ],
+    "FOOD": [
+      "juice",
+      "wine"
+    ]
+  }
+}

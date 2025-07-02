@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Composition, Anti-Diabetic, and Antioxidant Potential ofRaphanus sativusLeaves.",
+  "abstract": "Limiting and/or slowing down the starch digestion process and consequently the release of glucose can be an important strategy for the prevention of type 2 diabetes (T2D). The aim of the current in vitro study was to assess the anti-diabetic and antioxidant potential of red radish leaves of the Carmen, Jutrzenka, Saxa, and Warta cultivars. In the context of anti-diabetic activity, the effect of leaves on potato starch digestion and free glucose binding, as well as inhibitory effects of leaf extracts against \u03b1-amylase and \u03b1-glucosidase and non-enzymatic glycation (AGEs) were determined. The basic chemical composition, quantitative composition of phenolic compounds, and antioxidant activity of leaves were also estimated. This study showed that all radish leaves inhibited the breakdown of potato starch and showed their ability to bind glucose. This activity was correlated with the content of hydroxycinnamic acids, protein and dietary fiber while flavones was probably responsible for glucose binding. Leaf extracts inhibited \u03b1-glucosidase activity and formation of AGEs but were practically inactive towards \u03b1-amylase. Inhibition of \u03b1-glucosidase activity was related to the content of proanthocyanidins and inhibition of AGEs formation to flavonols. These results point to radish leaves, especially the Warta and Jutrzenka cultivars, as a potential natural remedy for treating T2D.",
+  "publication_date": "2024-12-01",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29235689",
+  "entities": {
+    "SYMPTOM": [
+      "type 2 diabetes"
+    ],
+    "FOOD": [
+      "all radish leaves",
+      "red radish leaves"
+    ],
+    "POLYPHENOL": [
+      "especially the warta and jutrzenka cultivars",
+      "hydroxycinnamic acids",
+      "inhibitory effects",
+      "phenolic compounds",
+      "proanthocyanidins",
+      "the effect"
+    ]
+  }
+}

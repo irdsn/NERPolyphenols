@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Therapeutic Potential of Ellagic Acid in Liver Diseases.",
+  "abstract": "Ellagic acid (EA) is a natural polyphenol found in various fruits, nuts, and mushrooms. It exhibits a variety of biological activities, including potent antioxidant, anti-inflammatory, anti-obesity, and neuroprotective properties. EA exerts hepatoprotective effects through multiple mechanisms, including (1) scavenging reactive oxygen species (ROS) and enhancing endogenous antioxidant defenses (e.g., by activating Nrf2/ARE), (2) modulating inflammatory signaling pathways (e.g., inhibiting NF-\u03baB, TNF-\u03b1, and IL-6), and (3) regulating apoptosis (e.g., downregulating the Bax/Bcl-2 ratio) and fibrosis (e.g., inhibiting TGF-\u03b2/Smad signaling). Despite its promising preclinical efficacy, the clinical applicability of EA is currently limited by its poor bioavailability. This could potentially be overcome by advanced delivery systems or by directly administering its active microbial metabolites, known as urolithins. EA and its derivatives also modulate the gut microbiota, promoting the growth of beneficial species and reducing gut permeability and hepatic inflammation. Preliminary clinical trials and other emerging evidence suggest that EA may reduce liver inflammation, oxidative stress, and metabolic dysregulation. However, more extensive human studies are needed to confirm its efficacy and safety in managing liver disease. This review highlights the therapeutic potential of EA in the treatment of liver diseases, particularly metabolic-dysfunction-associated steatotic liver disease (MASLD).",
+  "publication_date": "2025-06-15",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122596",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural polyphenol",
+      "beneficial species",
+      "ellagic acid",
+      "hepatoprotective effects",
+      "its promising preclinical efficacy",
+      "multiple mechanisms",
+      "neuroprotective properties",
+      "reactive oxygen species"
+    ],
+    "SYMPTOM": [
+      "(3) regulating apoptosis",
+      "hepatic inflammation",
+      "liver inflammation",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Discovery of Phenylacylpiperidine as Novel sEH Inhibitors through Scaffold Hopping of Natural Stilbene.",
+  "abstract": "Despite the development of soluble epoxide hydrolase (sEH) inhibitors as a promising therapeutic approach, no drug candidate has successfully progressed beyond clinical phase II, highlighting the need for a novel chemotype with improved in vivo potency, pharmacokinetics and safety. In this study, we discovered a phenylacetylpiperidine-based compound,77(lab code:DJ-89; IC50: 0.51 nM), through strategic scaffold hopping from previously reported styrene-based sEH inhibitors. Resolving the cocrystal structure and mode-of-action studies revealed a distinct profile compared to well-known sEH inhibitorsTPPUandEC5026(IC50: 44, 19 nM). Notably,77demonstrated additional interactions with sEH compared toTPPU, and uniquely enhanced anti-inflammatory factors, including EET levels and IL-10, a capability not observed withEC5026. Moreover,77showed excellent pharmacokinetics and safety, positioning it as a promising candidate for treating both acute and chronic inflammatory diseases, including rheumatoid arthritis, leveraging phenylacylpiperidine scaffolds in sEH-targeted therapies.",
+  "publication_date": "2025-04-14",
+  "journal": "Journal of medicinal chemistry",
+  "doi": "10.1021/acs.jmedchem.5c00685",
+  "entities": {
+    "POLYPHENOL": [
+      "well-known seh inhibitorstppuandec5026(ic50",
+      "withec5026"
+    ],
+    "SYMPTOM": [
+      "rheumatoid arthritis"
+    ]
+  }
+}

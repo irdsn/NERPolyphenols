@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Effects of the DailyColors\u2122 polyphenol supplement on serum proteome, cognitive function, and health in older adults at risk of cognitive and functional decline.",
+  "abstract": "The Mediterranean diet is associated with reduced mortality and cognitive decline, largely due to its polyphenol content. However, Western populations often do not meet recommended fruit and vegetable intakes. Polyphenols exert anti-inflammatory effects and may influence extracellular vesicle (EV) dynamics. DailyColors\u2122 is a polyphenol-rich blend inspired by this dietary pattern, containing extracts from 16 fruits, vegetables, and herbs. This 60-day, double-blind, placebo-controlled, randomised trial involved 150 UK adults aged 50+ with a BMI \u2265 25, recruited to complete cognitive and physical fitness assessmentsviathe PROTECT-UK online platform. Participants received either a medium (750 mg) or high (2000 mg) dose of DailyColors\u2122 (\u223c300 mg and \u223c750 mg polyphenols, respectively) or a placebo. A sub-group (n= 15 per group) underwent additional assessments, including blood pressure measurements, characterisation of circulating EVs and tandem-mass-tagged serum proteomics. Significant cognitive benefits were observed, with improvements in reaction time for the high-dose group and accuracy for both active supplement groups. The high-dose group also showed significant physical fitness gains on the Timed Stand test (P< 0.001). All groups significantly improved on the Chair Stand test. Proteomic analysis showed significantly reduced serum protein expression in immune and pre-\u03b21-HDL pathways, suggesting anti-inflammatory effects. Pre-\u03b21-HDL proteins are typically elevated in obesity; their reduction suggests a reversal of this effect. No significant changes were noted in EV concentration or size. DailyColors\u2122 supplementation, may enhance cognitive function, physical fitness, and systemic health in older, overweight adults. These findings warrant further investigation in larger trials.",
+  "publication_date": "2025-06-03",
+  "journal": "Food & function",
+  "doi": "10.1039/d4fo06259k",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol-rich blend",
+      "anti-inflammatory effects",
+      "cognitive and physical fitness assessmentsviathe protect-uk online platform",
+      "its polyphenol content",
+      "polyphenols",
+      "recommended fruit and vegetable intakes",
+      "reduced mortality and cognitive decline",
+      "this effect",
+      "\u223c750 mg polyphenols"
+    ],
+    "SYMPTOM": [
+      "obesity"
+    ]
+  }
+}

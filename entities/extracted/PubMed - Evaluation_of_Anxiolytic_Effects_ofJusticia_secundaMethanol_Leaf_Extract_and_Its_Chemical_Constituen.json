@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Evaluation of Anxiolytic Effects ofJusticia secundaMethanol Leaf Extract and Its Chemical Constituents in Mice.",
+  "abstract": "The use of benzodiazepines and selective serotonin reuptake inhibitors to treat depression has severe adverse effects. This study aims to evaluate the effects of the methanolic leaf extract ofJusticia secunda(MLEJS) on anxiety and depression in mice.",
+  "publication_date": "2024-09-01",
+  "journal": "Basic and clinical neuroscience",
+  "doi": "10.32598/bcn.2024.6335.1",
+  "entities": {
+    "POLYPHENOL": [
+      "selective serotonin reuptake inhibitors",
+      "severe adverse effects",
+      "the effects",
+      "the methanolic leaf extract ofjusticia secunda(mlejs"
+    ]
+  }
+}

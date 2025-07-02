@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Post-Column Guanosine Addition as a Screening Tool in the Search for Effective G-Quadruplex Binders-A Case Study ofAchyrocline satureioidesPhenolic Compounds.",
+  "abstract": "Polyphenols make a numerous and diverse group of plant secondary metabolites exhibiting remarkable anticancer activities, often attributed to their G-quadruplex binding properties. Therefore, there is a need to develop a high-throughput screening assay which would permit the evaluation of polyphenols' binding properties toward G-quadruplex. As deoxyguanosine and guanosine are essential and key building blocks of G-quadruplexes, the stabilities of their adducts with polyphenols may reflect the stabilities of polyphenols-G-quadruplex adducts. In this study, deoxyguanosine/guanosine post-column addition experiments have been performed during HPLC-MS analysis ofAchyrocline satureioidesextract. The stabilities of the deoxyguanosine/guanosine adducts with 3-O-methylquercetin-7-O-glucoside, 4'-hydroxydehydrokawain-4'-O-glucoside, and 3,5-di-O-caffeoylquinic acid-compounds identified in theAchyrocline satureioidesextract-have been tested by using collision-induced dissociation 'in-source'. The obtained results show that the identified compounds form more stable adducts with deoxyguanosine and guanosine than the standards used for comparison, namely isoquercitrin and rutin. The performed molecular docking provided some insight into the structure of the adducts and revealed that multiple interactions are of key importance for their stabilities.",
+  "publication_date": "2025-05-01",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26094312",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols",
+      "polyphenols' binding properties",
+      "polyphenols-g-quadruplex adducts",
+      "the performed molecular docking"
+    ],
+    "SYMPTOM": [
+      "remarkable anticancer activities"
+    ]
+  }
+}

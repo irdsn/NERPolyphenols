@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Surface-Engineered Orthopedic Implant to Break the Antimicrobial-Osteogenic Paradox at Biointerfaces in the \"Race for the Surface\".",
+  "abstract": "Implant-associated infections and compromised osseointegration pose a dual threat to bone implants due to the biological conflict between microbial invasion and host cell colonization. However, conventional contact-killing antimicrobial coatings may negatively affect the viability of mammalian cells, limiting their further application. Here, a surface modification strategy is proposed to help mammalian cells to win the \"race for the surface\" on the material-tissue interfaces. Through polyphenol-amine-mediated covalent modification, quaternary ammonium groups (bactericidal agents) and phosphate groups (promoting bone-regeneration factors) are spatially organized on titanium (Ti) surfaces to regulate the surface chemical characteristics of dental implants. The surface-engineered implants (Ti-AQs) exhibited balanced antibacterial and biocompatible properties. The optimized Ti-AQ-2 coating eradicated >99% of Staphylococcus aureus (S. aureus) and Escherichia coli (E. coli) via destruction of disrupted bacterial membranes through metabolic interference, and simultaneously promoted adhesion, proliferation and osteogenic differentiation of bone marrow mesenchymal stem cells through Ca2+-mediated signaling pathways. Moreover, Ti-AQs can drive immunomodulation biased macrophages toward pro-repair M2 polarization. In vivo evaluations in an implant-associated infection modal confirmed that Ti-AQ-2 inhibited infection at the early stage and enhanced bone-implant integration at the late stage. This work presents a facile strategy to regulate the surface performances for developing of antibacterial implants with high biocompatibility and bioactivity.",
+  "publication_date": "2025-07-01",
+  "journal": "Advanced materials (Deerfield Beach, Fla.)",
+  "doi": "10.1002/adma.202506113",
+  "entities": {
+    "POLYPHENOL": [
+      "an implant-associated infection modal",
+      "implant-associated infections",
+      "infection",
+      "polyphenol-amine-mediated covalent modification"
+    ]
+  }
+}

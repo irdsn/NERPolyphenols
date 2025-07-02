@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Matrine AttenuatesStreptococcus agalactiaeVirulence by Suppressing Capsular Polysaccharide Synthesis and Host Adhesion Pathways.",
+  "abstract": "Streptococcus agalactiae(GBS) is a major pathogen causing mastitis in dairy cows while causing oxidative stress. Matrine is an alkaloid compound extracted from the roots ofSophora flavescens, a plant used in traditional Chinese medicine. It possesses antioxidant, immunomodulatory, anti-inflammatory, and pro-apoptotic properties. The aim of this study was to investigate the regulatory effects of matrine on the virulence of the ATCC strain (ATCC13813) and clinical GBS strains by transcriptome analysis and qRT-PCR validation. The results showed that the ABC transporter, peptidoglycan biosynthesis, and quorum-sensing pathways were significantly altered in ATCC (4 mg/mL) and GBS (12 mg/mL) strains after matrine treatment at MIC concentrations. Additionally, genes related to invasion and immune escape, includingCylE,CAMP,ScpB, andCpsA, and genes related to the expression of adhesion and virulence factors, such asBac,Lmb,PI2a, andPI2b, were significantly downregulated (p< 0.05). Overall, these data suggest that matrine effectively inhibits the virulence genes of GBS, thereby reducing immune evasion and infection by decreasing the synthesis of capsular polysaccharides and host cell adhesion.",
+  "publication_date": "2025-05-23",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13061192",
+  "entities": {
+    "SYMPTOM": [
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "infection",
+      "the regulatory effects"
+    ]
+  }
+}

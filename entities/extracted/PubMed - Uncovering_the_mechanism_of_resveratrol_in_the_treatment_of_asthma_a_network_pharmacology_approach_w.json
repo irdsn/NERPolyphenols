@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Uncovering the mechanism of resveratrol in the treatment of asthma: a network pharmacology approach with molecular docking and experimental validation.",
+  "abstract": "Evidence for the benefits of resveratrol (Res) in the treatment of asthma is progressively accumulating. However, the full spectrum of its molecular targets and the precise mechanisms remain incompletely characterized.",
+  "publication_date": "2025-05-16",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1596737",
+  "entities": {
+    "POLYPHENOL": [
+      "its molecular targets",
+      "resveratrol",
+      "the full spectrum",
+      "the precise mechanisms"
+    ]
+  }
+}

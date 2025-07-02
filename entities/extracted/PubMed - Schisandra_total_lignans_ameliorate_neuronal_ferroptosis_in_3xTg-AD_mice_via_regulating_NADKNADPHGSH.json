@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Schisandra total lignans ameliorate neuronal ferroptosis in 3xTg-AD mice via regulating NADK/NADPH/GSH pathway.",
+  "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder with limited treatments. Schisandra total lignans (STL), the primary active component of Schisandra chinensis, shows potential in alleviating AD-related symptoms, though the mechanisms remain unclear.",
+  "publication_date": "2025-03-07",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156612",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease"
+    ],
+    "POLYPHENOL": [
+      "the mechanisms"
+    ]
+  }
+}

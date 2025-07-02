@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "(-)-Epigallocatechin-3-gallate (EGCG) decreases neuronal network excitability and interictal like activity in mouse brain slices.",
+  "abstract": "(-)-Epigallocatechin-3-gallate (EGCG), the main flavonoid in green tea, is best known for its antioxidant and anti-inflammatory effects. EGCG interacts with certain ion channels and modulates ionic currents. However, its acute effect on neuronal activity is not known. In the present study, the effects of acute EGCG application on the excitability of neuronal network and epileptiform discharges were investigated. Acute brain slices were used for electrophysiological recordings. 370\u00a0\u00b5m thick entorhinal-hippocampal horizontal slices were obtained from 7-8\u00a0weeks old C57BL/6 mice. 100\u00a0\u00b5M 4-Aminopyridine (4AP) was used to induce epileptiform activity. Extracellular recordings of epileptiform activities were evaluated in the entorhinal cortex and hippocampus CA1 region. Additionally, the affinity of EGCG on the GABA-A receptor was evaluated in the central nervous system using the molecular docking method. Bath application of 10\u00a0\u03bcM and 50\u00a0\u03bcM EGCG reduced interictal event frequency in both entorhinal cortex and hippocampus. EGCG at 50\u00a0\u03bcM suppressed the absolute power of neuronal oscillations. To be able to explain these effects, we have analysed docking properties of EGCG to GABA-A receptor. The binding energy between EGCG and the GABA-A receptor was calculated as -7.41\u00a0kcal/mol. The affinity of EGCG for the GABA-A receptor is satisfactory compared to the reference molecule Diazepam. Findings showed for the first time that the acute application of EGCG had an inhibitory effect on neuronal excitability and also on synchronized events. EGCG might have a potential as a novel anti-seizure molecule.",
+  "publication_date": "2025-05-26",
+  "journal": "Neuroscience letters",
+  "doi": "10.1016/j.neulet.2025.138274",
+  "entities": {
+    "POLYPHENOL": [
+      "(-)-epigallocatechin-3-gallate",
+      "10\u00a0\u03bcm and 50\u00a0\u03bcm egcg reduced interictal event frequency",
+      "a novel anti-seizure molecule",
+      "acute egcg application",
+      "an inhibitory effect",
+      "egcg",
+      "electrophysiological recordings",
+      "extracellular recordings",
+      "gaba-a receptor",
+      "its acute effect",
+      "its antioxidant and anti-inflammatory effects",
+      "the effects",
+      "the gaba-a receptor",
+      "the main flavonoid",
+      "the molecular docking method",
+      "the reference molecule diazepam",
+      "these effects"
+    ],
+    "FOOD": [
+      "green tea"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Millets, pulses, and oil seeds-based flatbread premix: A protein-rich functional food for healthier dietary habits and prevention of lifestyle disorders.",
+  "abstract": "With an increasing focus on healthier dietary alternatives, this study developed a protein-rich, ready-to-cook flatbread premix using millet, pulse, and oilseed flours. The premix offers a balanced nutritional profile, providing high protein content (\u223c21%) and delivering 423\u00a0kcal/100 g. It demonstrated phenolic content of 0.98\u00a0mg catechin equivalents/gram of premix, which increased to 1.90\u00a0mg catechin equivalents/gram of cooked (lyophilized) product. Antioxidant activity was evaluated through DPPH radical scavenging, yielding values of 5.28\u00a0nmol Trolox equivalents per gram for the premix and 4.82\u00a0nmol Trolox equivalents per gram for the cooked product. Similarly, hydroxyl radical scavenging activity was measured at 4.38\u00a0\u00b5mol Trolox equivalents per gram for the premix and 4.36\u00a0\u00b5mol Trolox equivalents per gram for the cooked product. The product was highly acceptable in sensory evaluations, indicating strong potential for consumer adoption. In vivo studies with Balb/c mice revealed no adverse effects on oxidative stress levels or immune function. The flatbread promoted a healthy gut microbiota composition, supporting gut health while maintaining cellular oxidative balance. Hematological analyses showed improved white blood cell and lymphocyte counts, reflecting enhanced immune resilience. These findings highlight the premix as a promising dietary alternative to traditional carbohydrate-rich staples. With its nutrient density and functional benefits, the flatbread premix offers a practical solution for improving dietary habits and addressing lifestyle-related health concerns. This study underscores the importance of incorporating such functional foods into daily diets to promote better health and prevent nutrition-related disorders. Further research is warranted to explore its broader health impacts over extended durations. PRACTICAL APPLICATION: The ready-to-cook flatbread premix made from millets, pulses, and oilseeds offers a simple and nutritious way to enhance daily diets. Rich in protein and supplemented with various oilseeds as a source of polyunsaturated fatty acids, it provides a healthier alternative to regular flatbreads. It is convenient and ideal for maintaining a balanced diet and also supports the management of lifestyle-related health issues such as obesity. With its antioxidant properties and ability to support a healthy gut microbiota, this flatbread contributes to overall health. It promotes better eating habits without compromising taste or convenience.",
+  "publication_date": "2025-04-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70209",
+  "entities": {
+    "POLYPHENOL": [
+      "0.98\u00a0mg catechin equivalents",
+      "1.90\u00a0mg catechin equivalents",
+      "no adverse effects"
+    ],
+    "SYMPTOM": [
+      "obesity",
+      "oxidative stress levels"
+    ],
+    "FOOD": [
+      "such functional foods"
+    ]
+  }
+}

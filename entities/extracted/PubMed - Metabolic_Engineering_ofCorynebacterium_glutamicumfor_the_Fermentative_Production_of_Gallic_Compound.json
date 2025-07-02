@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Metabolic Engineering ofCorynebacterium glutamicumfor the Fermentative Production of Gallic Compounds by Extending the Shikimate Pathway.",
+  "abstract": "Gallic acid, gallic aldehyde, and gallic alcohol are polyphenolic compounds with promising antioxidant and therapeutic properties. Despite their biological significance, a complete microbial biosynthetic route for their production from simple carbon sources has not been established. We engineeredCorynebacterium glutamicumto produce gallic acid and its two reduced derivativesviaa synthetic pathway extended from the shikimate pathway. Introduction of a mutant 4-hydroxybenzoate hydroxylase conferred protocatechuate hydroxylation activity inC. glutamicum. Among tested mutants, the Y385F/L200V mutant exhibited the highest gallic acid production, reaching 4.03 g/l with a yield of 5.95% in flask cultures. To enable gallic aldehyde biosynthesis, carboxylic acid reductases (CARs) from various microbial sources were screened. Of these, MpCAR exhibited the highest catalytic activity toward gallic acid, producing 0.66 g/l of gallic aldehyde in anNCgl0324-deleted strain. Further reduction of gallic aldehyde to gallic alcohol was achieved using the endogenous aromatic aldehyde reductase encoded byNCgl0324inC. glutamicum, as confirmed by Q-TOF mass analysis. Overexpression ofqsuBencoding 3-dehydroshikimate dehydratase improved carbon flux from 3-dehydroshikimate toward PCA and significantly enhanced the gallic compound production. In 5-l fed-batch fermentation, engineered strains produced up to 12.0 g/l gallic acid, 1.14 g/l gallic aldehyde, and 172.4 AU*s gallic alcohol, respectively, representing 82-86% increases compared to flask cultures. This study reports the first complete microbial biosynthetic route for gallic acid, gallic aldehyde, and gallic alcohol from D-glucose. Our work highlightsC. glutamicumas a robust microbial platform for sustainable production of value-added gallic polyphenols through pathway design and metabolic engineering.",
+  "publication_date": "2025-06-12",
+  "journal": "Journal of microbiology and biotechnology",
+  "doi": "10.4014/jmb.2409.04009",
+  "entities": {
+    "POLYPHENOL": [
+      "12.0 g/l gallic acid",
+      "gallic acid",
+      "polyphenolic compounds",
+      "protocatechuate hydroxylation activity inc. glutamicum",
+      "the highest gallic acid production",
+      "value-added gallic polyphenols"
+    ]
+  }
+}

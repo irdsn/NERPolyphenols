@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "The Effect of Photoisomerization on the Antioxidant Properties of Sinapic Acid and Methyl Sinapate in Different Solvents: A DFT/TD-DFT Study.",
+  "abstract": "The impact of photoisomerization on antioxidant properties holds significant implications for fields such as medicine, chemistry, and consumer products. This investigation employs multistate complete active space second-order perturbation theory (MS-CASPT2), complemented by density functional theory (DFT) and time-dependent DFT (TD-DFT) methods, to examine the photoisomerization behavior of sinapic acid (SA) and methyl sinapate (MS) under ultraviolet (UV) irradiation, while systematically analyzing their antioxidant properties in the S1state. The computational results, validated by two independent theoretical approaches, confirm that both SA and MS can undergo photoisomerization through conical intersection pathways, providing crucial insights into their non-radiative transition mechanisms. In the S0state, cis-SA and cis-MS exhibit higher antioxidant activity, while in the S1state, antioxidant performance is strongly solvent-dependent: trans-SA outperforms in ethyl acetate (Eac) and water, whereas cis-SA is more effective in methanol (MeOH). Notably, the natural population analysis (NPA) charges of all four compounds increase upon photoexcitation, suggesting that photoexcitation enhances antioxidant properties. This study addresses a critical gap in our understanding of the relationship between photoisomerization and antioxidant activity in natural phenolic compounds.",
+  "publication_date": "2025-05-25",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060633",
+  "entities": {
+    "POLYPHENOL": [
+      "conical intersection pathways",
+      "multistate complete active space second-order perturbation theory",
+      "natural phenolic compounds",
+      "sinapic acid",
+      "their non-radiative transition mechanisms"
+    ]
+  }
+}

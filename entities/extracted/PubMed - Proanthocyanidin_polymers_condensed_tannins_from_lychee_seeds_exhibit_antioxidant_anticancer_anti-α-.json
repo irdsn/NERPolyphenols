@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Proanthocyanidin polymers (condensed tannins) from lychee seeds exhibit antioxidant, anticancer, anti-\u03b1-amylase, and anti-tyrosinase activities.",
+  "abstract": "Lychee (Litchi chinensis) is a subtropical fruit known for its potential health benefits. In this study, proanthocyanidins (condensed tannins) from lychee seeds (LSPAs) were isolated using a bioactivity-guided approach. Their structural characteristics, as well as antioxidant, anticancer, anti-\u03b1-amylase, and anti-tyrosinase activities, were comprehensively analyzed. Structural analysis using mass spectrometry revealed that LSPAs are polymeric compounds predominantly composed of procyanidins (PCs), with a number-average molecular weight (Mn) of 5803\u00a0Da as determined by gel permeation chromatography (GPC). LSPAs exhibited significant antioxidant activity in DPPH, ABTS, and hydroxyl radical scavenging assays, with IC50values of 28.8\u00a0\u00b1\u00a01.3, 24.29\u00a0\u00b1\u00a01.93, and 119.67\u00a0\u00b1\u00a032.85\u00a0\u03bcg/mL, respectively. The FRAP assay showed antioxidant activity of 0.45\u00a0\u00b1\u00a00.01\u00a0\u03bcM Fe(II) equivalent/g DW. The CCK-8 assay demonstrated potent anti-breast cancer efficacy of LSPAs (IC50=\u00a025.78\u00a0\u00b1\u00a00.37\u00a0\u03bcg/mL). Notably, LSPAs suppressed mammosphere formation and downregulated Sox2 and NICD1 expression in breast cancer stem cells (BCSCs). Molecular docking and dynamics simulations confirmed stable interactions between LSPAs and Sox2, primarily mediated by van der Waals forces. Enzyme kinetics and fluorescence spectroscopy further revealed that LSPAs effectively inhibited both \u03b1-amylase (IC50=\u00a00.12\u00a0\u00b1\u00a00.004\u00a0\u03bcg/mL) and tyrosinase (IC50=\u00a066.34\u00a0\u00b1\u00a00.37\u00a0\u03bcg/mL) activities by inducing conformational alterations and modifying the amino acid microenvironment of these enzymes. These findings establish LSPAs as promising multifunctional inhibitors with potential applications in food, cosmetics, and pharmaceuticals.",
+  "publication_date": "2025-03-30",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.142641",
+  "entities": {
+    "POLYPHENOL": [
+      "a number-average molecular weight",
+      "condensed tannins",
+      "fluorescence spectroscopy",
+      "mass spectrometry",
+      "molecular docking and dynamics simulations",
+      "proanthocyanidins",
+      "procyanidins"
+    ],
+    "SYMPTOM": [
+      "anticancer",
+      "breast cancer stem cells",
+      "potent anti-breast cancer efficacy"
+    ]
+  }
+}

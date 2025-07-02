@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Analysis of the Preventive Effect ofLonicera caeruleaPomace and Its Isolated Components on Colitis in Mice Based on Gut Microbiota and Serum Metabolomics.",
+  "abstract": "Inflammatory bowel disease (IBD), including relapsing-remitting ulcerative colitis and Crohn's disease, is a non-specific chronic intestinal inflammatory disease.Lonicera caerulea, which is rich in polyphenolic compounds, has been shown to exert antioxidative and anti-inflammatory effects. The research evaluates the dietary impacts ofLonicera caeruleapomace, its polyphenol-rich extract, and fiber-rich residue on colitis symptoms. Colitis was induced with 2.5% DSS (dextran sulfate sodium) aqueous solution after continuous feeding of customizedLonicera caeruleafeed for 2.5 weeks. The results indicate that the intake of the polyphenol-rich extract has an effect in preventing colitis in mice, but the effect is less than that by the pomace itself, and the fiber residue alone does not prevent the condition when ingested. The pomace and polyphenol-rich extract have a positive regulatory effect on the gut microbiota of mice with colitis, and the intake ofLonicera caeruleapomace significantly restores 15 metabolites in mice with colitis, significantly improving five metabolic pathways, including steroid biosynthesis, with the regulation of metabolites and metabolic pathways being significantly correlated with the gut microbiota.",
+  "publication_date": "2024-11-30",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox13121478",
+  "entities": {
+    "SYMPTOM": [
+      "inflammatory bowel disease"
+    ],
+    "POLYPHENOL": [
+      "a non-specific chronic intestinal inflammatory disease",
+      "a positive regulatory effect",
+      "an effect",
+      "antioxidative and anti-inflammatory effects",
+      "its polyphenol-rich extract",
+      "polyphenolic compounds",
+      "the effect",
+      "the polyphenol-rich extract",
+      "the pomace and polyphenol-rich extract"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Composition, distribution, and bioactivity of polyphenols in pineapple Fibers: Insights from UHPLC-MS analysis for the development of antibacterial materials.",
+  "abstract": "Despite the potential applications of pineapple fibers, the systematic characterization of their polyphenolic composition has not been fully elucidated. In this study, UHPLC-MS and OPLS-DA were used to comprehensively analyze the polyphenolic profiles in pineapple leaf (PLF), stem (PSF) and root (PRF) fibers, while evaluating their bioactive properties. The investigation revealed that PRF contained significantly higher polyphenol content (9.55\u00a0mg/g) than PLF and PRF, and 83 phenolic compounds were identified, with distinct metabolic pathway distributions among different plant tissues, and the inhibitory effects of polyphenol onE. coliandS. aureuswere optimized in PLF. These findings provide critical insights for the development of value-added applications of pineapple by-products in functional materials and antimicrobial formulations.",
+  "publication_date": "2025-05-07",
+  "journal": "Current research in food science",
+  "doi": "10.1016/j.crfs.2025.101069",
+  "entities": {
+    "FOOD": [
+      "pineapple",
+      "pineapple fibers",
+      "pineapple leaf"
+    ],
+    "POLYPHENOL": [
+      "83 phenolic compounds",
+      "polyphenol one. coliands.",
+      "significantly higher polyphenol content",
+      "the inhibitory effects",
+      "the polyphenolic profiles",
+      "their polyphenolic composition"
+    ]
+  }
+}

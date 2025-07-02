@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Comparative Analysis of Freeze-DriedPleurotus ostreatusMushroom Powders on Probiotic and Harmful Bacteria and Its Bioactive Compounds.",
+  "abstract": "Pleurotus ostreatus(oyster mushroom) holds excellent promise worldwide, bringing several opportunities and augmenting the tool sets used in the biotechnology field, the food industry, and medicine. Our study explores the antimicrobial and probiotic growth stimulation benefits of freeze-driedP. ostreatuspowders (OMP-TF, oyster mushroom powder from the total fresh sample; OMP-CSR, oyster mushroom powder from the cooked solid residue; OMP-CL, oyster mushroom powder from the cooked liquid), focusing on their bioactive compounds and associated activities. Our research examined polysaccharide fractions-specifically total glucans and \u03b1- and \u03b2-glucans-alongside secondary metabolites, including polyphenols and flavonoids, from freeze-dried mushroom powders. Additionally, carbon nanodots (CNDs) were also characterized. The growth inhibition was tested againstEscherichia coliandStaphylococcus epidermidis, while the capacity for stimulating probiotic growth was evaluated usingLactobacillus plantarumandLactobacillus casei.Evidence indicates that OMP-CL and OMP-CSR exhibit significant antimicrobial properties againstS. epidermidisGram-positive bacteria. OMP-CL notably promoted the growth ofL. casei. OMP-CL, containing the most significant number of CNDs, has shown to be a valuable source for gut microbiota modulation, with its antimicrobial and probiotic-stimulating efficacy. However, further in vitro and in vivo studies should be performed to explore CNDs and their behavior in different biological systems.",
+  "publication_date": "2024-12-24",
+  "journal": "Journal of fungi (Basel, Switzerland)",
+  "doi": "10.3390/jof11010001",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "polyphenols",
+      "secondary metabolites",
+      "specifically total glucans",
+      "the biotechnology field"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Study on the compatibility of japonica rice in Xie-Bai-San decoction based on characterization, multi components quantification, and pharmacokinetics.",
+  "abstract": "Xie-Bai-San decoction (XBS), which is effective in treating coughs associated with lung heat, is composed of four Chinese medicines: Morus alba L. (known as Sangbaipi), Lycii Cortex (known as Digupi), licorice (Glycyrrhiza uralensis Fisch.), and japonica rice. The original prescription of XBS and its modified prescriptions have been greatly expanded in clinical application. However, japonica rice as a guiding drug is often ignored, which effects on composition and metabolism in vivo have not been fully studied.",
+  "publication_date": "2025-04-16",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.119791",
+  "entities": {
+    "POLYPHENOL": [
+      "bai-san decoction"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Natural Hydroxybenzoic and Hydroxycinnamic Acids Derivatives: Mechanisms of Action and Therapeutic Applications.",
+  "abstract": "Hydroxybenzoic and hydroxycinnamic acid derivatives are a class of organic compounds derived from benzoic and cinnamic acid, respectively, two types of acids in which one of the hydrogen atoms on the benzene ring is replaced by a hydroxyl (-OH) or alkoxyl group (-O-R). These compounds are found in a wide range of natural sources, particularly in plants, as well as in some fungi. Their biological properties are distinctive, as they combine antioxidant, anti-inflammatory, and metabolic functions, which can be utilized for therapeutic purposes in humans. In this review, we identify the most relevant hydroxybenzoic and hydroxycinnamic acid derivatives for human applications, explain their common and specific mechanisms of action, and highlight their applications in significant preclinical and clinical studies.",
+  "publication_date": "2025-06-11",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060711",
+  "entities": {
+    "POLYPHENOL": [
+      "benzoic and cinnamic acid",
+      "hydroxybenzoic and hydroxycinnamic acid derivatives",
+      "significant preclinical and clinical studies",
+      "the most relevant hydroxybenzoic and hydroxycinnamic acid derivatives",
+      "their common and specific mechanisms"
+    ]
+  }
+}

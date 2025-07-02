@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Nutraceutical Properties of Thai Mulberry (Morus albaL.) and Their Effects on Metabolic and Cardiovascular Risk Factors in Individuals with Obesity: A Randomized, Single-Blind Crossover Trial.",
+  "abstract": "Background/Objectives: Mulberries exhibit antioxidant properties that may attenuate metabolic abnormalities. Kamphaeng Saen mulberry (KPS-MB-42-1) contains anthocyanins, polyphenols, and nutrients, but few studies have explored its benefits for human health. This study investigated the effects of a concentrated mulberry drink (CMD) from the KPS-MB-42-1 cultivar on metabolic and cardiovascular risk factors in obese individuals.Methods: A single-blind, randomized crossover clinical pilot trial was performed on individuals with obesity. Participants consumed 100 g of CMD daily, alternating with placebo for 6 weeks. Body composition, blood pressure, and blood samples were assessed at baseline and post-intervention.Results: This study was completed with 12 participants (7 men, 5 women, aged 30-55 years, BMI 32.1 \u00b1 5.98 kg/m2) consuming CMD with 1041.90 mg total phenolic compounds and 35.34 mg total anthocyanins. No significant changes in body composition were observed. CMD consumption significantly reduced systolic and diastolic blood pressure, and mean arterial pressure, compared to baseline and placebo periods (p< 0.05). While total cholesterol, LDL-C, and HDL-C remained unchanged, triglycerides were significantly lower during CMD consumption compared to placebo periods (p< 0.05). Fasting plasma glucose (FPG) levels were stable during CMD consumption but increased significantly with the placebo period (p< 0.05). C-reactive protein levels were also significantly lower during CMD consumption compared to placebo periods (p< 0.05). No changes in blood coagulation indicators (prothrombin time, activated partial thromboplastin time, and the international normalized ratio) were found.Conclusions: CMD improved metabolic markers, particularly regarding its antihypertensive effects. These findings highlight CMD's potential as a health drink for managing metabolic syndrome and preventing chronic diseases.",
+  "publication_date": "2024-12-16",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16244336",
+  "entities": {
+    "POLYPHENOL": [
+      "1041.90 mg total phenolic compounds",
+      "background/objectives",
+      "its antihypertensive effects",
+      "polyphenols",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "obesity"
+    ]
+  }
+}

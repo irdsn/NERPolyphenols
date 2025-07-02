@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Plant Tannase: Evolutionary and Functional Divergence Features.",
+  "abstract": "In plants, \u03b1/\u03b2-hydrolase regulates the hydrolysis of ester compounds, enriching the types and functions of specialized metabolites. In this study, three genes\u2500CsCSE,CsCXE3, andCsTA\u2500which encode caffeoyl shikimate esterase (CSE), carboxylesterase (CXE), and tannase (TA), respectively, were isolated from the tea plant genome through multiomics correlation analysis. Evolutionary analysis showed that CSE and CXE were ancient, whereas TA emerged in core eudicots approximately 120 million years ago. Enzyme activity assays revealed that CsCSE and CsCXE3 catalyze phenolic acid and acetate ester hydrolysis, respectively. Interestingly, CsTA not only has the catalytic function of CsCSE and CsCXE3 but also catalyzes the hydrolysis of galloylated catechin, hydrolyzable tannin, and hormone ester. Overall, CsTA is a newly derived \u03b1/\u03b2-hydrolase with evolutionary and functional divergence features. This study expands our understanding of the physiological significance of plant TA and provides insights into the potential role ofCsTAin the complex metabolic processes of tea plants.",
+  "publication_date": "2025-03-27",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c12975",
+  "entities": {
+    "POLYPHENOL": [
+      "galloylated catechin",
+      "hydrolyzable tannin",
+      "specialized metabolites"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Metal-phenolic network-enhanced curcumin nanoparticles for synergistic antibacterial and wound healing therapy.",
+  "abstract": "To develop a multifunctional curcumin-based self-assembled nanomedicine for antibacterial purposes and to provide substantial support for the development of novel multifunctional antibacterial agents, thereby mitigating the challenges posed by bacterial infections. Self-assembled curcumin nanoparticles (Cur NPs) were synthesized via solvent evaporation. Caffeic acid (CA) and iron ions were then reacted under mildly alkaline conditions (pH 8.0) to form metal-phenolic networks (MPNs), which were coated onto the Cur NPs (Cur@MPN). Efficient antibacterial performance is achieved by multifunctional Cur@MPN through spatiotemporally synergistic integration of photothermal therapy, chemodynamic therapy, and drug treatment. The results obtained from TEM, UV-vis spectroscopy, FTIR, and XPS confirmed the successful preparation of a multifunctional nano-antibacterial material, Cur@MPN, by modifying Cur NPs with MPNs through a coordination reaction between CA and iron ions. Cur@MPN exhibited excellent photothermal conversion efficiency (64.1%), pH-dependent hydroxyl radical (\u00b7OH) generation, and glutathione consumption. The minimum inhibitory concentration of Cur@MPN againstS. aureusandE. coliwas 100\u03bcg ml-1and 120\u03bcg ml-1, respectively, under the synergistic effect of multiple modalities.In vivostudies suggested that Cur@MPN accelerates wound healing by promoting angiogenesis and collagen deposition. These findings suggest that Cur@MPN is a promising innovative multifunctional self-assembled nanomaterial with considerable potential for antibacterial therapy and wound healing.",
+  "publication_date": "2025-06-20",
+  "journal": "Nanotechnology",
+  "doi": "10.1088/1361-6528/ade15e",
+  "entities": {
+    "POLYPHENOL": [
+      "a multifunctional curcumin-based self-assembled nanomedicine",
+      "bacterial infections",
+      "caffeic acid",
+      "self-assembled curcumin nanoparticles",
+      "spectroscopy",
+      "the synergistic effect"
+    ]
+  }
+}

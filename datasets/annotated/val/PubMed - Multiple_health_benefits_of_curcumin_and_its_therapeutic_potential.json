@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Multiple health benefits of curcumin and its therapeutic potential.",
+  "abstract": "Turmeric, or Curcuma longa as it is formally named, is a multifunctional plant with numerous names. It was dubbed \"the golden spice\" and \"Indian saffron\" not only for its magnificent yellow color, but also for its culinary use. Turmeric has been utilized in traditional medicine since the dawn of mankind. Curcumin, demethoxycurcumin, and bisdemethoxycurcumin, which are all curcuminoids, make up turmeric. Although there have been significant advancements in cancer treatment, cancer death and incidence rates remain high. As a result, there is an increasing interest in discovering more effective and less hazardous cancer treatments. Curcumin is being researched for its anti-inflammatory, anti-cancer, anti-metabolic syndrome, neuroprotective, and antibacterial properties. Turmeric has long been used as a home remedy for coughs, sore throats, and other respiratory problems. As a result, turmeric and its compounds have the potential to be used in modern medicine to cure a variety of diseases. In this current review, we highlighted therapeutic potential of curcumin and its multiple health benefits on various diseases.",
+  "publication_date": "2022-04-20",
+  "journal": "Environmental science and pollution research international",
+  "doi": "10.1007/s11356-022-20137-w",
+  "entities": {
+    "FOOD": [
+      "sore throats",
+      "turmeric"
+    ],
+    "POLYPHENOL": [
+      "bisdemethoxycurcumin",
+      "curcumin",
+      "curcuminoids",
+      "demethoxycurcumin",
+      "its anti-inflammatory, anti-cancer, anti-metabolic syndrome, neuroprotective, and antibacterial properties",
+      "more effective and less hazardous cancer treatments"
+    ],
+    "SYMPTOM": [
+      "cancer death",
+      "cancer treatment"
+    ]
+  }
+}

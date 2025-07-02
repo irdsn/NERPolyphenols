@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Comment on \"Stability and degradation mechanism of (-)-epicatechin in thermal processing\".",
+  "abstract": "Catechins, due to their high antioxidant capacity, are ones of the most common ingredients of human diet (e.g. tea, fruits, cacao) of the well-known health benefit properties. Catechins are relatively unstable compounds, therefore the degradation processes of catechins is of interest with respect to the human diet. Huang et al. (2025) have published an interesting paper devoted to the degradation process of (-)-epicatechin in boiling water and it is clear that the results may be of interest with respect to the food preparation processes. However, the issue which is disputable in the paper is the mass spectrometric identification of the 22 degradation products. Some of the claimed products are the well-known compounds, however, the reported fragmentation patterns are not in agreement with those documented in the scientific literature. If the claimed degradation product is the compound which is commercially available, its identification should be confirmed by analysis of the respective standard. Furthermore, in order to confirm the elemental composition of the claimed degradation products, the HPLC-MS analysis should be performed by using mass spectrometer equipped with high resolution analyzer.",
+  "publication_date": "2025-01-22",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.142994",
+  "entities": {
+    "POLYPHENOL": [
+      "-)-epicatechin",
+      "catechins",
+      "mass spectrometer",
+      "respect",
+      "the mass spectrometric identification",
+      "the respective standard"
+    ]
+  }
+}

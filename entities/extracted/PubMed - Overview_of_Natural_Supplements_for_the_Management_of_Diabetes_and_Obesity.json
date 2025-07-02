@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Overview of Natural Supplements for the Management of Diabetes and Obesity.",
+  "abstract": "Bioactive compounds found in various natural sources, such as fruits, vegetables, and herbs, have been studied for their potential benefits in managing obesity and diabetes. These compounds include polyphenols, flavonoids, other antioxidants, fiber, and certain fatty acids. Studies have found that these compounds may improve insulin sensitivity, regulate blood sugar levels, and promote weight loss. However, the effects of these compounds can vary depending on the type and amount consumed, as well as individual factors, such as genetics and lifestyle. Nutraceutical substances have multifaceted therapeutic advantages, and they have been reported to have disease-prevention and health-promoting properties. Several clinically used nutraceuticals have been shown to target the pathogenesis of diabetes mellitus, obesity, and metabolic syndrome and their complications and modulate various clinical outcomes favorably. This review aims to highlight and comment on some of the most prominent natural components used as antidiabetics and in managing obesity.",
+  "publication_date": "2024-06-01",
+  "journal": "Current diabetes reviews",
+  "doi": "10.2174/0115733998262859231020071715",
+  "entities": {
+    "SYMPTOM": [
+      "managing obesity",
+      "metabolic syndrome",
+      "obesity"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "polyphenols",
+      "the effects"
+    ]
+  }
+}

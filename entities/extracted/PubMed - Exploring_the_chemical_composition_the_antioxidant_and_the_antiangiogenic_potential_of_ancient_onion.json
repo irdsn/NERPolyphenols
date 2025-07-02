@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Exploring the chemical composition, the antioxidant, and the antiangiogenic potential of ancient onion (Allium cepa L.) varieties through molecular networks and chemometric tools.",
+  "abstract": "Preserving plant biodiversity and making sustainable use of genetic resources in agriculture is a topical issue with ecological, economic, and social repercussions. In Italy, some onion (Allium cepa L.) varieties, only cultivated by local farmers, are neglected and worth to be valorised. In this work, a comparative chemical and biological study of nine onion varieties and four commercially available ones was carried out by combining the acquisition of large, high-resolution experimental datasets (LC-HR -ESI-MS2) with molecular networking strategy and chemometric tools. All extracts were investigated for antioxidant properties and antiangiogenic activity by two in vivo models, chick chorioallantoic membrane (CAM), and zebrafish embryos. 'Ciatta', 'Massese', and 'Fiorentina' indigenous varieties showed potent inhibitory effects on blood vessel formation, comparably with the commercial reference variety 'Tropea'. The bioactive profile rich in phenols, alkaloids, saponins, and fatty acids of these varieties revealed their health-promoting potential and importance for the agri-food chain.",
+  "publication_date": "2025-05-21",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116692",
+  "entities": {
+    "POLYPHENOL": [
+      "ecological, economic, and social repercussions",
+      "molecular networking strategy",
+      "potent inhibitory effects"
+    ],
+    "FOOD": [
+      "nine onion varieties",
+      "some onion"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Morin induces autophagy-dependent ferroptosis in colorectal cancer cells by inhibiting the AURKB-UCHL3 interactions.",
+  "abstract": "Colorectal cancer (CRC) poses a significant threat to human health, and its underlying mechanisms require further exploration. Morin, a natural flavonoid, exhibits anti-CRC activity, but its molecular mechanisms remain unclear. This study aimed to evaluate its anti-CRC effects and elucidate its molecular mechanisms to provide new insights for CRC treatment.",
+  "publication_date": "2025-05-17",
+  "journal": "Cellular signalling",
+  "doi": "10.1016/j.cellsig.2025.111875",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural flavonoid",
+      "colorectal cancer",
+      "its anti-crc effects",
+      "its molecular mechanisms",
+      "its underlying mechanisms",
+      "morin"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "A mixture of ginger phenolic compounds enhances mitochondrial function, activates AMPK, and reduces lipid accumulation in adipocytes.",
+  "abstract": "Mitochondrial abundance and activity in adipocytes are critical for adequate adipose tissue function and whole-body energy homeostasis. Mitochondrial dysfunction in adipocytes impairs lipid metabolism, insulin sensitivity, and thermogenesis, leading to metabolic diseases. Enhancing mitochondrial function and density in adipose tissue may provide a promising therapeutic approach for metabolic diseases. This study evaluates the effects of a ginger phenol mixture on mitochondrial density and function, AMPK activation, lipid droplet content, and lipolysis markers in adipocytes differentiated in vitro. Pre-adipocytes isolated from the inguinal adipose tissue of Wistar rats were differentiated and assigned to three experimental groups: vehicle (0.2% DMSO), gingerol mixture (6 \u03bcg/mL), and positive control (1 mmol/m3 AMPK activator 5-Aminoimidazole-4-carboxamide ribonucleoside). Mitochondrial density and lipid content were assessed by MitoTracker and Bodipy staining respectively, while mitochondrial respiration was evaluated in an Extracellular Flux Analyzer. Protein abundance and basal lipolysis were evaluated by Western blotting and free fatty acids determination in supernatant, respectively. The gingerol mixture significantly enhanced mitochondrial density and respiration, including both maximal and ATP-linked capacities. Additionally, it activated AMPK, upregulated the expression of mitochondrial complexes, enhanced lipolysis markers, and reduced lipid droplet content. These findings suggest that the gingerol mixture enhances mitochondrial function, stimulates lipolysis, and reduces lipid accumulation in adipocytes, contributing to metabolic homeostasis in adipose tissue. This highlights its potential use as a complementary therapeutic agent for the management of obesity.",
+  "publication_date": "2025-06-27",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0326690",
+  "entities": {
+    "SYMPTOM": [
+      "mitochondrial dysfunction",
+      "obesity"
+    ],
+    "POLYPHENOL": [
+      "the effects"
+    ],
+    "FOOD": [
+      "a ginger phenol mixture",
+      "gingerol mixture",
+      "the gingerol mixture"
+    ]
+  }
+}

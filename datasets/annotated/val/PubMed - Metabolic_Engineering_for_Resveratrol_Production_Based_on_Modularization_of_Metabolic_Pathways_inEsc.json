@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Metabolic Engineering for Resveratrol Production Based on Modularization of Metabolic Pathways inEscherichia coli.",
+  "abstract": "Separating metabolic pathways for microbial chemical production is a promising approach for allocating resources based on target compounds. We modularized an artificial resveratrol biosynthetic pathway inEscherichia colito supplyp-coumaric acid and malonyl-CoA as precursors independently via the coutilization of glucose and xylose. The optimization of resveratrol synthetic gene expression, sugar concentration, andCorynebacterium glutamicumpycoverexpression improved the resveratrol titer in the engineered strain. Furthermore, introducing acetate into the malonyl-CoA supply module as a third carbon source resulted in an increased resveratrol titer. The cultivation of a strain overexpressingpycand resveratrol synthetic genes in a 1-L bioreactor produced 273.5 mg/L resveratrol. The modularization of metabolic pathways to supplyp-coumaric acid and malonyl-CoA from independent sources, such as sugars and acetate, enabled resveratrol production. Overall, this study contributes to the high production of chemicals whose biosynthetic pathways require multiple precursors such as polyketide.",
+  "publication_date": "2025-04-30",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c00804",
+  "entities": {
+    "POLYPHENOL": [
+      "273.5 mg/l resveratrol",
+      "a strain overexpressingpycand resveratrol synthetic genes",
+      "an artificial resveratrol biosynthetic pathway",
+      "an increased resveratrol titer",
+      "inescherichia colito supplyp-coumaric acid",
+      "multiple precursors",
+      "precursors",
+      "resveratrol production",
+      "resveratrol synthetic gene expression",
+      "supplyp-coumaric acid",
+      "the resveratrol titer"
+    ]
+  }
+}

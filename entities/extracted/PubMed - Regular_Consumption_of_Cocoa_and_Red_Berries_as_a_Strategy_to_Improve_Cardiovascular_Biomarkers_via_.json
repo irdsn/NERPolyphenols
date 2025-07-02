@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Regular Consumption of Cocoa and Red Berries as a Strategy to Improve Cardiovascular Biomarkers via Modulation of Microbiota Metabolism in Healthy Aging Adults.",
+  "abstract": "The aim of the present study was to analyze the effects of cocoa flavanols and red berry anthocyanins on cardiovascular biomarkers, such as homocysteine, angiotensin-converting enzyme (ACE), nitric oxide (NO), flow-mediated vasodilation (FMD), blood pressure and lipid profile. Additionally, we aimed to ascertain their possible interactions with microbiota related metabolites, such as secondary bile acids (SBA), short-chain fatty acids (SCFA) and trimethylamine N-oxide (TMAO). A randomized, parallel-group study, single-blind for the research team, was performed on 60 healthy volunteers between the ages of 45 and 85, who consumed 2.5 g/day of cocoa powder (9.59 mg/day of total flavanols), 5 g/day of a red berry mixture (13.9 mg/day of total anthocyanins) or 7.5 g/day of a combination of both for 12 weeks. The group that had consumed cocoa showed a significant reduction in TMAO (p= 0.03) and uric acid (p= 0.01) levels in serum, accompanied by an increase in FMD values (p= 0.03) and total polyphenols. corrected by creatinine (p= 0.03) after the intervention. These latter values negatively correlated with the TMAO concentration (R = -0.57,p= 0.02). Additionally, we observed an increase in carbohydrate fermentation in the groups that had consumed cocoa (p= 0.04) and red berries (p= 0.04) between the beginning and the end of the intervention. This increase in carbohydrate fermentation was correlated with lower levels of TC/HDL ratio (p= 0.01), systolic (p= 0.01) and diastolic blood pressure (p= 0.01). In conclusion, our study showed a positive modulation of microbiota metabolism after a regular intake of cocoa flavanols and red berry anthocyanins that led to an improvement in cardiovascular function, especially in the group that consumed cocoa.",
+  "publication_date": "2023-05-13",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu15102299",
+  "entities": {
+    "POLYPHENOL": [
+      "secondary bile acids",
+      "the effects",
+      "total polyphenols"
+    ],
+    "FOOD": [
+      "cocoa",
+      "cocoa flavanols",
+      "cocoa powder"
+    ]
+  }
+}

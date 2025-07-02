@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Coamorphous System of Vitamin B2 and Chlorogenic Acid: Enhanced Physicochemical Property and Synergistic Anti-Inflammatory Potential.",
+  "abstract": "Vitamin B2 (VB2), a functional ingredient found in various foods and herbal medicines, is crucial for metabolic processes, with its deficiency linked to inflammatory diseases. However, the poor water solubility of VB2 hampers its development and application. This study employed chlorogenic acid (CGA) to create a coamorphous system with VB2 to improve its physicochemical properties. The coamorphous VB2-CGA was initially confirmed using powder X-ray diffraction (PXRD) and modulated temperature differential scanning calorimetry (mDSC). Fourier-transform infrared spectroscopy (FTIR) and molecular dynamics (MD) simulations revealed potential molecular interactions within the system. The water solubility and physical stability of the VB2-CGA coamorphous system were further evaluated. Notably, the VB2-CGA system exhibited a 2.7-fold solubility increase compared to crystalline VB2 and maintained physical stability for at least one year under dry conditions. Additionally, the potential multitarget synergistic anti-inflammatory effects of the VB2-CGA coamorphous system were also disclosed using network pharmacological analysis.",
+  "publication_date": "2025-06-27",
+  "journal": "Molecular pharmaceutics",
+  "doi": "10.1021/acs.molpharmaceut.5c00858",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "potential molecular interactions",
+      "the potential multitarget synergistic anti-inflammatory effects"
+    ]
+  }
+}

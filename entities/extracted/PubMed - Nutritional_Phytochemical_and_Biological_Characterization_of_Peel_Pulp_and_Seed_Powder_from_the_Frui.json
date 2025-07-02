@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Nutritional, Phytochemical, and Biological Characterization of Peel, Pulp, and Seed Powder from the Fruits ofBerberis mikunaandBerberis burruyacuensis: Potential as a Functional Ingredient.",
+  "abstract": "Berberis mikunaJob. (common name \"mikuna\") andBerberis burruyacuensisO.R. Dantur, S. Radice, E. Giordani and Papini (common name \"sacha mikuna\") are endemic native plant species from northwestern Argentina. The aim of this work was to evaluate, for the first time, the potential of the pulp, seed, and peel powders fromB. mikunaandB. burruyacuensisfruits as functional food ingredients, with the purpose of adding value to these native resources and promoting their sustainable use. All powders exhibited nutritional value due to their protein, lipid, fiber, and ash content, especially the seed powder. Phenolic compounds (including xanthone, phenolic esters, coumarins, flavonoids, tannins, and anthocyanins), alkaloids, amino acids, lipids, and vitamins, totaling 33 compounds, were identified in the pulp, seed, and peel of bothBerberisfruits through UHPLC-PDA-ESI-QT-MS/MS. High anthocyanin content was observed in the pulp and peel, mainly inB. mikuna(195.55 \u00b1 7.75 and 283.49 \u00b1 6.55 g C3GE/100 g of powder, respectively), while tannins were abundant in the seeds (3.64 \u00b1 0.11 and 6.09 \u00b1 0.06 mg PB2/100 g of powder forB. mikunaandB. burruyacuensis, respectively). The powders exhibited antioxidant activity (ABTS\u2022+; H2O2) and the capacity to inhibit enzymes related to metabolic syndrome, such as \u03b1-glucosidase, \u03b1-amylase, and lipase. These findings suggest the potential ofB. mikunaandB. burruyacuensisfruit powders as functional food ingredients, dietary supplements, or natural functional colorants for foods and beverages.",
+  "publication_date": "2025-05-09",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14101418",
+  "entities": {
+    "POLYPHENOL": [
+      "endemic native plant species",
+      "especially the seed powder",
+      "flavonoids",
+      "phenolic compounds",
+      "tannins"
+    ],
+    "FOOD": [
+      "functional food ingredients"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

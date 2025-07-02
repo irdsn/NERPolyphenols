@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Juglans regiaandPfaffia paniculataextracts: implications for periodontal disease treatment and correlation with Alzheimer's risk.",
+  "abstract": "Periodontal disease (PD) is a significant global health concern, affecting approximately 19% of the world's population. It is one of the most prevalent diseases today, causing substantial socio-economic impacts and diminished quality of life. Recent research has also revealed a potential link between PD and Alzheimer's disease. This study investigated the antimicrobial effects ofJuglans regiaandPfaffia paniculataextracts againstP. endodontalisandP. gingivalis, bacteria that cause PD and are related to Alzheimer's risk. The study also assessed the impact of these extracts on macrophage metabolic activity, pro- and anti-inflammatory cytokine expression, and genotoxicity. The phytochemical analysis of the extract was carried out first. Antimicrobial activity was performed using the M11-A7 protocol (CLSI) for planktonic cultures on monotypic biofilms matured for 168 hours in anaerobiosis. Cell viability analysis was carried out using MTT on mouse macrophages (RAW 264-7), as well as genotoxicity assessment using micronuclei. The anti-inflammatory activity was evaluated using ELISA method, checking the cytokines IL-6, IL-1B, TNF-alpha, IL-17 and IL-10. Phytochemical analysis revealed the presence of Miquelianin, Regiolone and Gallic Acid inJ. regiaextract. For theP. paniculataextract, we identified the glycosides Pfaffoside C, Pfaffoside A, 3-O-\u03b2-D-glycopyranosyl-oleanolic acid and Beta-ecdysone. Antimicrobial activity revealed a MBC of 1.73 for the extract of J. regia and 0.48 forP. paniculataagainstP. endodontalisandP. gingivalis. All biofilms were reduced by more than 89% after treatment with the extracts for 5 min. Cytotoxicity evaluations revealed that cell viability remained above 50% at concentrations up to 0.216 mg/ml forJ. regiaand 0.015 mg/ml forP. paniculata. Neither extract exhibited genotoxicity. Furthermore, both demonstrated anti-inflammatory activity by promoting the production of the cytokine IL-10. In conclusion, the antimicrobial and anti-inflammatory activities ofJ. regiaandP. paniculataextracts suggest their potential as treatments for oral dysbiosis, which may contribute to a reduced risk of neurodegenerative diseases.",
+  "publication_date": "2025-05-16",
+  "journal": "Frontiers in cellular and infection microbiology",
+  "doi": "10.3389/fcimb.2025.1585438",
+  "entities": {
+    "POLYPHENOL": [
+      "beta-ecdysone",
+      "gallic acid",
+      "recent research",
+      "substantial socio-economic impacts",
+      "the antimicrobial effects"
+    ],
+    "SYMPTOM": [
+      "pd and alzheimer's disease"
+    ]
+  }
+}

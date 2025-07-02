@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Time Does Matter: The Cellular Response to Resveratrol Varies Depending on the Exposure Duration.",
+  "abstract": "Resveratrol is a natural polyphenol found in grapes, berries, and red wine, commonly studied for its biological activity. In vitro research often uses high concentrations of resveratrol applied for short incubation times. However, resveratrol reaches relatively low concentrations in vivo when it is used as a dietary supplement. Therefore, the aim of this study was to investigate the cellular response of cardiomyocytes to low, physiologically relevant concentrations of resveratrol and, in particular, to compare these responses depending on the duration of exposure. Cardiomyocytes were treated with resveratrol for either 1 day, 1 week, or 1 month. Functional assays assessing metabolic activity, cell cycle distribution, and apoptosis intensity were performed, along with analysis of selected pathways at protein levels. The results showed that the cellular response differed markedly depending on the duration of resveratrol treatment. Observed changes indicated alterations in energy metabolism and effects consistent with anti-aging activity.",
+  "publication_date": "2025-06-10",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26125542",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural polyphenol",
+      "effects",
+      "resveratrol",
+      "resveratrol treatment",
+      "selected pathways"
+    ],
+    "FOOD": [
+      "grapes",
+      "red wine"
+    ],
+    "SYMPTOM": [
+      "anti-aging activity",
+      "apoptosis intensity"
+    ]
+  }
+}

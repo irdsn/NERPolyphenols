@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Colonic delivery and controlled release of curcumin encapsulated within plant-based extracellular vesicles loaded into hydrogel beads.",
+  "abstract": "In this study, the application of banana-derived extracellular vesicles (EVs) as natural carriers for hydrophobic nutraceuticals was investigated for the first time. Curcumin was solubilized in an amorphous state within the hydrophobic domains of the EVs in banana juice. The bioaccessibility of the curcumin was considerably higher in the curcumin-loaded EVs (CEVs) than for pure curcumin crystals. The retention/release behavior of the curcumin in the CEVs was regulated by incorporating the curcumin-loaded banana juice into hydrogel beads, which were assembled from sodium alginate and banana pectin. The pectin and D-galacturonic acid contents of the banana juice were 0.87\u00a0%\u00a0\u00b1\u00a00.11\u00a0% and 0.58\u00a0%\u00a0\u00b1\u00a00.08\u00a0%, respectively. With the introduction of sodium alginate, the sphericity, hardness, chewiness, water holding capacity, surface smoothness and other physiochemical properties of the hydrogel beads were improved. Fourier Transform infrared analysis showed that hydrogen bonding played an important role in the formation of the hydrogel beads. The hydrogel beads had a higher swelling ratio under neutral conditions than under acidic conditions. Encapsulation of the curcumin-loaded banana juice within the hydrogel beads retarded curcumin release and enhanced the therapy potential of ulcerative colitis, which indicated that these delivery systems could be designed to regulate the release profile of the CEVs. Encapsulation of the curcumin also improved its resistance to heating, exposure and storage. In summary, we have shown that encapsulation of curcumin within plant-based EVs loaded into hydrogel beads can improve its functional performance.",
+  "publication_date": "2025-01-02",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2024.115540",
+  "entities": {
+    "FOOD": [
+      "banana juice",
+      "banana-derived extracellular vesicles",
+      "chewiness",
+      "the banana juice"
+    ],
+    "POLYPHENOL": [
+      "banana pectin",
+      "curcumin",
+      "pure curcumin crystals",
+      "retarded curcumin release",
+      "the curcumin",
+      "the curcumin-loaded banana juice",
+      "the curcumin-loaded evs",
+      "the pectin and d-galacturonic acid contents"
+    ]
+  }
+}

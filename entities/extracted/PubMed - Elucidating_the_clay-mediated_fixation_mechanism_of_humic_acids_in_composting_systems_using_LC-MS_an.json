@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Elucidating the clay-mediated fixation mechanism of humic acids in composting systems using LC-MS and spectroscopic techniques.",
+  "abstract": "Humic acid (HA) plays a vital role in improving soil fertility and resource utilization. However, traditional composting faces challenges such as low HA synthesis efficiency and significant mineralization losses. This study investigates the molecular-level mechanisms by which clay mineral addition enhances HA fixation during composting. Two experimental groups were established: a control group (CK) and a treatment group with clay mineral addition (CL). Results demonstrated a 23.8\u00a0% increase in HA content in the CL group compared to CK. Liquid chromatography-mass spectrometry and spectroscopic analyses revealed a higher degree of aromatization of HA in CL, demonstrating that clay minerals promote interconversion between functional groups, such as the synthesis of amino, carboxyl, and phenolic hydroxyl groups. Moreover, clay also promoted the condensation of small molecule precursors to HA, to achieve the effect of immobilizing HA. These findings provide novel insights into HA stabilization and offer theoretical support for optimizing composting processes to enhance HA content and immobilization.",
+  "publication_date": "2025-06-10",
+  "journal": "Environmental research",
+  "doi": "10.1016/j.envres.2025.122106",
+  "entities": {
+    "POLYPHENOL": [
+      "liquid chromatography-mass spectrometry and spectroscopic analyses",
+      "small molecule precursors",
+      "the effect",
+      "the molecular-level mechanisms"
+    ]
+  }
+}

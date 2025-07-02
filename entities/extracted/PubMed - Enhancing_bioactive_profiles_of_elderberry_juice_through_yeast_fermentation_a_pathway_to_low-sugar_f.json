@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Enhancing bioactive profiles of elderberry juice through yeast fermentation: a pathway to low-sugar functional beverages.",
+  "abstract": "In response to the growing need for functional beverages, this study aimed to harness yeast metabolism to optimize elderberry juice fermentation, targeting sugar reduction and enrichment of bioactive compounds with enhanced functional properties. Initially, ten yeast strains were screened in synthetic medium and elderberry juice for sugar consumption and ethanol production. Five yeasts with distinct metabolic profiles were selected to generate seven binary cultures (pairing high-with low-to-intermediate-performing strains) for juice fermentation at 30\u00a0\u00b0C for 36\u00a0h. Monocultures and binary cultures were comparatively evaluated for sugar utilization, ethanol production, and the modulation of bioactive compounds. The co-culture ofHanseniaspora uvarumandMetschnikowia pulcherrimawithHanseniaspora opuntiae, resulted in a more balanced metabolic profile, achieving high sugar reduction (80-88\u00a0%) and modulating ethanol levels (1.4-1.6\u00a0%). The same cultures significantly released phenolics (including chlorogenic acid, quercetin, hyperoside, and isoquercetin) with biological activity. Most binary cultures displayed synergistic proteolytic activity, increasing free amino acids and promoting the release of bioactive amino acid derivatives such as gamma-aminobutyric acid, especially whenH. opuntiaewas paired withH. uvarumandSaccharomyces cerevisiaewithH. uvarum. The shaping of volatile organic compounds byS. cerevisiaefavoring alcohol and acids production or non-Saccharomycesstrains enhancing ester synthesis, further diversified the sensory profile when combined, contributing to aromatic complexity. In conclusion, binary yeast cultures offer an effective way to enrich low-sugar elderberry beverage with bioactive metabolites and appealing flavor. Future research should focus onin vivovalidation of bioactivities, product stability, and consumer acceptability to support industrial application.",
+  "publication_date": "2025-05-29",
+  "journal": "Current research in food science",
+  "doi": "10.1016/j.crfs.2025.101100",
+  "entities": {
+    "FOOD": [
+      "elderberry juice fermentation",
+      "juice fermentation",
+      "synthetic medium and elderberry juice"
+    ],
+    "POLYPHENOL": [
+      "an effective way",
+      "chlorogenic acid",
+      "especially whenh.",
+      "isoquercetin"
+    ]
+  }
+}

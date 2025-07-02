@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Baicalin reduced vandetanib induced myocardial injury by regulating redox balance and NLRP3 inflammasome pathway.",
+  "abstract": "Baicalin has garnered attention for its potential therapeutic effects on various cardiovascular conditions, including drug-induced cardiac injury. In this study, we utilized a murine model to explore the protective role of baicalin against cardiac dysfunction induced by vandetanib. Our findings indicate that baicalin administration effectively ameliorated vandetanib-induced cardiac injury. Echocardiographic assessments revealed significant improvements in the myocardial contraction in mice treated with baicalin compared with those receiving vandetanib alone. Histological analysis revealed reduced myocardial inflammation and fibrosis in baicalin-treated mice. Specifically, baicalin suppressed proinflammatory factors such as IL-6, IL-1\u03b2, and TNF-\u03b1, thereby attenuating the inflammatory response triggered by vandetanib. Moreover, baicalin inhibited myocardial apoptosis, as evidenced by decreased levels of Caspase-3, Bax, and p53, while concurrently elevated expression of the antiapoptotic protein Bcl-2. Mechanistically, baicalin-mediated inhibition of the NLRP3 inflammasome pathway has emerged as a crucial aspect of its cardioprotective action and promotes redox balance in myocardial cells under vandetanib-induced oxidative stress. It upregulated the expression of the antioxidant enzymes SOD1 and SOD2, thereby mitigating intracellular ROS accumulation and preserving cardiomyocyte viability. In conclusion, our study highlights baicalin as a promising therapeutic agent for mitigating vandetanib-induced cardiac injury through multiple mechanisms, including anti-inflammatory, antiapoptotic, antioxidant, and NLRP3 inflammasome inhibitory actions. Our findings will be further validated in clinical trials and explore the translational potential of baicalin in treating drug-induced cardiotoxicity in humans.",
+  "publication_date": "2025-02-16",
+  "journal": "Tissue & cell",
+  "doi": "10.1016/j.tice.2025.102795",
+  "entities": {
+    "POLYPHENOL": [
+      "a crucial aspect",
+      "decreased levels",
+      "echocardiographic assessments",
+      "its cardioprotective action",
+      "its potential therapeutic effects",
+      "multiple mechanisms",
+      "the protective role"
+    ],
+    "SYMPTOM": [
+      "myocardial apoptosis",
+      "reduced myocardial inflammation",
+      "vandetanib-induced oxidative stress"
+    ]
+  }
+}

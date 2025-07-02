@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Label-Free Imaging Immunosensor Based on Nickel-Manganese Double Hydroxide with Delayed Chemiluminescence Properties for Detection of CYFRA21-1.",
+  "abstract": "Flash-type chemiluminescence (CL) systems are hardly used for CL imaging analysis due to their uncontrollable emission onset time. It is highly desired to develop emission time-controllable nanomaterials as analytical interfaces for CL immunosensors with CL imaging detection. Herein, nickel-manganese double hydroxide (NiMn-DH) was chosen as a carrier to synthesize a CL-functional nanomaterial NiMn-DH/L012-Au (NMLA) by reducing chloroauric acid with 8-amino-5-chloro-2,3-dihydro-7-phenylpyrido-[3,4-d]-pyridazine-1,4-dione (L012). Using H2O2and NaHCO3as the coreactants, NMLA not only produced a strong CL emission, but also its CL emission onset time could be adjusted by free radical scavengers such as thiourea, gallic acid, ascorbic acid, and dopamine. This feature not only avoided solution fluctuations caused by the addition of coreactants but also effectively captured the maximum CL signal and shortened the exposure time. Based on this, a rapid, accurate, and highly sensitive label-free CL immunosensor integrated with smartphone imaging technology was constructed for detecting CYFRA21-1. This CL immunosensor exhibited a wide detection range of 1.0 \u00d7 10-14g/mL - 1.0 \u00d7 10-9g/mL and a low detection limit of 3.41 fg/mL. In addition, it could quantify CYFRA21-1 concentrations in serum samples. Finally, the CL immunosensor was able to differentiate not only between healthy individuals and non-small cell lung cancer but also between squamous cell carcinoma and lung adenocarcinoma.",
+  "publication_date": "2025-05-19",
+  "journal": "Analytical chemistry",
+  "doi": "10.1021/acs.analchem.5c00940",
+  "entities": {
+    "SYMPTOM": [
+      "cl imaging analysis",
+      "non-small cell lung cancer"
+    ],
+    "POLYPHENOL": [
+      "a low detection limit",
+      "a wide detection range",
+      "cl imaging detection",
+      "gallic acid",
+      "smartphone imaging technology"
+    ]
+  }
+}

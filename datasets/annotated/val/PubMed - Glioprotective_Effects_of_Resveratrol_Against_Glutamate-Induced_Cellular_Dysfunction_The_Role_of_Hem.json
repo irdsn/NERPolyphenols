@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Glioprotective Effects of Resveratrol Against Glutamate-Induced Cellular Dysfunction: The Role of Heme Oxygenase 1 Pathway.",
+  "abstract": "Resveratrol, a natural polyphenol, has shown promising neuroprotective effects in several in vivo and in vitro experimental models. However, the mechanisms by which resveratrol mediates these effects are not fully understood. Glutamate is the major excitatory neurotransmitter in the brain; however, excessive extracellular glutamate levels can affect neural activity in several neurological diseases. Astrocytes are the glial cells that maintain brain homeostasis and can attenuate excitotoxicity by actively participating in glutamate neurotransmission. This study aimed to investigate the glioprotective effects of resveratrol against glutamate-induced cellular dysfunction in hippocampal slices and primary astrocyte cultures, with a focus on the role of heme-oxygenase 1 (HO-1). Glutamate impaired glutamate uptake activity through a glutamate receptor-dependent mechanism, in addition to altering other important astroglial parameters, including glutamine synthetase activity, glutathione levels and cystine uptake, which were normalized by resveratrol. Resveratrol also prevented glutamate-induced disruption in antioxidant defenses, as well as in trophic and inflammatory functions, including the nuclear factor \u03baB (NF\u03baB) transcriptional activity. Most of the effects of resveratrol, mainly in astrocytes, were dependent on the HO-1 signaling pathway, as they were abrogated when HO-1 was pharmacologically inhibited. Resveratrol also increased HO-1 mRNA expression and its transcriptional regulator, nuclear factor erythroid-derived 2-like 2 (Nrf2). Finally, resveratrol prevented glutamate-induced p21 senescence marker, indicating an anti-aging effect. Therefore, we demonstrated that the activation of the Nrf2/HO-1 system in astrocytes by resveratrol represents an astrocyte-targeted neuroprotective mechanism in neurodegeneration, with glutamate excitotoxicity, oxidative stress, and neuroinflammation as common neurochemical alterations.",
+  "publication_date": "2025-01-27",
+  "journal": "Neurotoxicity research",
+  "doi": "10.1007/s12640-025-00730-w",
+  "entities": {
+    "POLYPHENOL": [
+      "a glutamate receptor-dependent mechanism",
+      "a natural polyphenol",
+      "an anti-aging effect",
+      "an astrocyte-targeted neuroprotective mechanism",
+      "promising neuroprotective effects",
+      "resveratrol",
+      "the effects",
+      "the glioprotective effects",
+      "the mechanisms",
+      "these effects"
+    ],
+    "SYMPTOM": [
+      "neurodegeneration",
+      "neuroinflammation",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Effect of Blanching Pretreatment on Bioactive Compounds and Surface Color in Underutilized Andean Tuber Tropaeolum Tuberosum (Cubio).",
+  "abstract": "Cubio (Tropaeolum tuberosum) is an undervalued Andean tuber with phytochemicals and antioxidant capacities. This biological material requires conservation technologies such as blanching for its use. However, this technology possibly affects the bioactive potential and color of the tuber. The objective of this work was to evaluate the effect of pretreatments of blanching with microwaves, ultrasound, and hot water on the bioactive compounds and surface color in cubio. Cubio slices were blanched with microwave (900\u00a0W, 25\u00a0s), ultrasound (42\u00a0kHz at 60\u00a0\u00b0C, 15\u00a0min), with water (90\u00a0\u00b0C, 3\u00a0min), and untreated samples as control. The dehydration process was then carried out in a natural convection oven at 50\u00a0\u00b0C until a moisture content of 4.7%. The results indicate that microwave pretreatment significantly increased (p\u2009<\u20090.05) the concentration of bioactive compounds compared to water, ultrasound, and untreated samples. Specifically, an increase of 11.59% in phenols, 24.76% in anthocyanins, and 87.42% in carotenoids was observed. However, during the dehydration process, the pretreatments had a negative effect on the variables analyzed (phenols, flavonoids, and anthocyanins). Nevertheless, the samples treated only with microwaves showed the lowest losses of anthocyanins compared to the fresh untreated samples. The color change in cubio slices was mainly caused by dehydration, but microwave processing (\u0394E\u2009=\u20097.46) presented fewer changes in all color parameters to fresh cubio. These results demonstrate that microwave blanching treatment has great potential for the agroindustrial evaluation of this promising material as a source of natural antioxidants with application in the food industry.",
+  "publication_date": "2025-06-09",
+  "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+  "doi": "10.1007/s11130-025-01377-w",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural convection",
+      "a negative effect",
+      "conservation technologies",
+      "the effect",
+      "the objective",
+      "this technology"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Mitigation Exposed to Acute Cadmium Stress in Nile Tilapia by Dietary Quercetin: Exploring the Growth Performance, Intestinal Health, Stress Biomarkers, and Immune Responses.",
+  "abstract": "The present study planned to assess the effect of dietary quercetin (DQu) on the mitigation of cadmium stress exposed to Nile tilapia (Oreochromis niloticus). Fish with an initial weight of 7.69\u2009\u00b1\u20090.84 g were allocated to four groups (4 replicates), where fish in the control group had no cadmium (Cd) or dietary quercetin (DQu), while the second group was exposed to (1 mg/L) Cd without DQu. The third group was fed 5 g Qu kg without Cd, while the fourth group was exposed to (1 mg/L) Cd and fed DQu 5 kg for 60 days. Fish fed DQu showed significant increases (P\u2009<\u20090.001) in all growth indices, expressions of the IGF-1 gene, digestive enzymes, and hemato-biochemical parameters, followed by the control, then fish fed DQu, and exposure to acute Cd stress. Data showed that fish fed DQu significantly improved antioxidant and immunological indices compared to the control group and the fish group exposed to acute Cd stress. Fish fed DQu displayed up-regulated expression of the (CAT), SOD, and KEAP1 genes, while fish exposed to acute Cd stress displayed downregulated expressions of these genes. Correspondingly, fish exposed to acute Cd stress revealed up-regulated expression levels of HSP70, IL-8, and IL-1\u03b2 genes. Conversely, fish fed DQu displayed downregulation in the expression levels of these genes, followed by the control, and fish subjected to acute Cd stress and fed DQu. The results of the histological study revealed that while fish fed DQu had anti-inflammatory effects, fish exposed to Cd stress displayed inflammatory and irregular characteristics. Therefore, this study suggests that adding Qu to the fish diet boosts fish growth performance and health status and reduces the toxicity of waterborne Cd in Nile tilapia, O. niloticus.",
+  "publication_date": "2025-06-08",
+  "journal": "Biological trace element research",
+  "doi": "10.1007/s12011-025-04686-y",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory effects",
+      "dietary quercetin",
+      "the effect",
+      "the second group"
+    ],
+    "SYMPTOM": [
+      "cadmium stress",
+      "cd stress",
+      "fish exposed to acute cd stress"
+    ]
+  }
+}

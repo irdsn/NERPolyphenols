@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "High flavonoid-producing tomato reduces whitefly phloem-feeding efficiency by inducing reactive oxygen species accumulation and callose deposition.",
+  "abstract": "The whiteflyBemisia tabaci(Hemiptera: Aleyrodidae) is economically one of the most threatening pests in tomato cultivation, which not only causes direct damage but also transmits many viruses. Breeding whitefly-resistant tomato varieties is a promising and environmentally friendly method to control whitefly populations in the field. Accumulating evidence from tomato and other model systems demonstrates that flavonoids contribute to plant resistance to herbivorous insects. Previously, we found that high flavonoid-producing tomato line deterred whitefly oviposition and settling behaviours, and was more resistant to whiteflies compared to the near-isogenic low flavonoid-producing tomato line. The objective of the current work is to describe in detail different aspects of the interaction between the whitefly and two tomato lines, including biochemical processes involved. Electrical penetration graph recordings showed that high flavonoid-producing tomato reduced whitefly probing and phloem-feeding efficiency. We also studied constitutive and induced plant defence responses and found that whitefly induced stronger reactive oxygen species accumulation through NADPH oxidase in high flavonoid-producing tomato than in low flavonoid-producing tomato. Moreover, whitefly feeding induced the expression of callose synthase genes and resulted in callose deposition in the sieve elements in high flavonoid-producing tomato but not in low flavonoid-producing tomato. As a consequence, whitefly feeding on high flavonoid-producing tomato significantly decreased uptake of phloem and reduced its performance when compared to low flavonoid-producing tomato. These results indicate that high flavonoid-producing tomato provides phloem-based resistance against whitefly infestation and that the breeding of such resistance in new varieties could enhance whitefly management.",
+  "publication_date": "2025-06-27",
+  "journal": "Bulletin of entomological research",
+  "doi": "10.1017/S0007485325100205",
+  "entities": {
+    "FOOD": [
+      "the whitefly and two tomato lines",
+      "tomato",
+      "tomato cultivation",
+      "whitefly-resistant tomato varieties"
+    ],
+    "POLYPHENOL": [
+      "different aspects",
+      "direct damage",
+      "electrical penetration graph recordings",
+      "flavonoids",
+      "herbivorous insects",
+      "high flavonoid-producing tomato",
+      "high flavonoid-producing tomato line",
+      "low flavonoid-producing tomato",
+      "stronger reactive oxygen species accumulation",
+      "the near-isogenic low flavonoid-producing tomato line",
+      "the objective"
+    ]
+  }
+}

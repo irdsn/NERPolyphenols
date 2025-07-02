@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Silencing of the Nrf2 pathway in aging promotes a decrease in the anti-inflammatory effect of resveratrol.",
+  "abstract": "During aging, in addition to increased oxidative stress, inflammation also occurs. A chronic and low-grade inflammation - called \"inflammaging\" - develops, which contributes to the etiology of diseases related to aging. Resveratrol (Resv.) is a polyphenol well known for its biologically active properties, such as antioxidant and anti-inflammatory properties. This balance can be regulated by Nrf2 - a transcription factor that regulates cellular defense against oxidative agents through the expression or inhibition of certain genes. The objective was to evaluate the effect of Nrf2 on the production of cytokines in leukocytes of different ages treated with resveratrol (5\u00b5m). The subjects were divided into three groups: 20-39, 40-59 and 60-80 years old. After separation of the leukocytes, a 24-hour treatment was carried out with and without ML385 inhibitor with the treatments: Control, Resv, Peroxide and Peroxide+Resv. 150 \u00b5M peroxide was set to develop an oxidative environment. Cytokines were measured by ELISA (*p < 0.05). In general, there was an increase in TNF and IL-6 in cells stimulated with peroxide compared to controls. A decrease in these two cytokines was also observed in cells treated with resveratrol, both at basal levels and in an oxidizing environment (with peroxide). The polyphenol was able to increase IL-10 only in the youngest age groups. The same profile was observed comparing the same groups when the Nrf2 pathway was inhibited with ML385. It is concluded that resveratrol may have a better effect on preventing oxidation and inflammation present in aging, especially through the antioxidant and anti-inflammatory Nrf2 pathway.",
+  "publication_date": "2024-11-10",
+  "journal": "Archives of gerontology and geriatrics",
+  "doi": "10.1016/j.archger.2024.105694",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "increased oxidative stress",
+      "inflammation"
+    ],
+    "POLYPHENOL": [
+      "a better effect",
+      "a decrease",
+      "a polyphenol",
+      "resveratrol",
+      "the effect",
+      "the objective",
+      "the polyphenol",
+      "the subjects"
+    ]
+  }
+}

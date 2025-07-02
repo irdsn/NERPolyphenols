@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Role of Secondary Metabolites in Reducing the Negative Impact of Pest-Induced Stress in Eggplant (Solanum melongena L.).",
+  "abstract": "Brinjal, also known as eggplant, is a significant crop in the Solanaceae family, with a high economic value and widespread cultivation in Indian states. Its primary metabolites include carbohydrates, proteins, lipids, organic acids, and polyphenolic compounds. Secondary metabolites contribute to the fruit's flavor, color, and potential health benefits, such as chlorogenic acid, anthocyanins, flavonoids, alkaloids, and other phytochemicals. The phenylpropanoid pathway is a metabolic pathway in plants that produces a broad spectrum of secondary metabolites, including phenolic compounds, lignins, flavonoids, and other compounds. In brinjal fruit, the phenylpropanoid pathway is important for the synthesis of secondary metabolites, such as phenolic compounds and lignins, which contribute to the fruit's color, flavor, and potential health benefits. Biological pests, such as shoot borer and fruit borer (Leucinodes orbonalis), can cause significant damage to crops, resulting in yield losses and economic consequences for farmers. The shoot borer and fruit borer follow a typical life cycle, starting with adult caterpillars laying eggs on the surface of young leaves and shoots of eggplant. After hatching, larvae burrow into plant tissue, creating tunnels in the buds and fruit, causing fruit wilting, deformity, and stunting. Ingestion weakens plants, making them more susceptible to secondary bacterial and fungal infections. Young shoots and fruit borer management can be difficult due to their hidden feeding habits. Integrated pest management (IPM) strategies are commonly used to effectively control this pest, which includes a combination of farming practices, biological control, and the rational use of chemical pesticides. This scientific investigation sincerely aims to attain a deep knowledge of the myriad ways pests affect and how this information can guide recovery and mitigation strategies. The design of these experiments acts as a potential tool for analyzing compound ongoing dynamics, unraveling the complexity of plant-pesticide interactions.",
+  "publication_date": "2025-06-17",
+  "journal": "Applied biochemistry and biotechnology",
+  "doi": "10.1007/s12010-025-05287-0",
+  "entities": {
+    "FOOD": [
+      "eggplant"
+    ],
+    "POLYPHENOL": [
+      "a broad spectrum",
+      "a high economic value",
+      "chlorogenic acid",
+      "economic consequences",
+      "flavonoids",
+      "phenolic compounds",
+      "polyphenolic compounds",
+      "recovery and mitigation strategies",
+      "secondary bacterial and fungal infections",
+      "secondary metabolites"
+    ]
+  }
+}

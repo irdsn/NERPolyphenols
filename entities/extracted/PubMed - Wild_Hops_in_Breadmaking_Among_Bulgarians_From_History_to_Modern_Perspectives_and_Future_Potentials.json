@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Wild Hops in Breadmaking Among Bulgarians: From History to Modern Perspectives and Future Potentials.",
+  "abstract": "Humulus lupulusL. (common hop) is a herbaceous plant whose female inflorescences, commonly called hop \"cones\", are traditionally used in Bulgaria to prepare sourdough starters or \"kvass\". Drawing from a review of historical and linguistic sources and ethnographic information collected by the authors, this study aims to define the traditional preparation of bread with hop sourdough, starting from the preparation of the hop cone decoction. Archival materials and early cookbooks attest to a rich tradition where hop-infused bread was valued for its distinctive flavor and preservative qualities. Fieldwork conducted in Bulgaria and among Bulgarian diasporas in Moldova provided insights into the continuity of these practices, underscoring the persistence of these traditional preparations despite modern industrial pressures. Ethnographic interviews and participant observations highlighted the ritualistic preparation of hopkvassand its role in community identity. The effect of hops on dough's rheological properties and the quality features of bread were also reviewed. An increase in dough stability and resistance to elongation were generally reported, with a reduction in bread volume and porosity, especially with hop sourdough levels above 30%, but the incorporation of bioactive molecules was responsible for antioxidant, antimicrobial, and flavoring properties. Possible prospects for using hops in the food industry, based on the biological properties of this resource-rich plant, are outlined with a multidisciplinary approach.",
+  "publication_date": "2025-05-16",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14101767",
+  "entities": {
+    "POLYPHENOL": [
+      "bioactive molecules",
+      "possible prospects",
+      "the effect",
+      "the hop cone decoction"
+    ]
+  }
+}

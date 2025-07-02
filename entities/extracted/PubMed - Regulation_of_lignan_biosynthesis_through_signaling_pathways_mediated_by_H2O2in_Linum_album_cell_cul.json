@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Regulation of lignan biosynthesis through signaling pathways mediated by H2O2in Linum album cell culture in response to exogenous putrescine.",
+  "abstract": "Polyamines are small aliphatic amines whose metabolic reprogramming is involved in the regulation of various plant cellular reactions. Our previous study showed that polyamines increased lignan production in Linum album; however, little is known about the underlying mechanisms. This study aimed to provide more details on how putrescine (Put) regulates lignan biosynthesis in L. album cell culture. Our results showed that Put leads to podophyllotoxin (PTOX) and 6-methoxy podophyllotoxin (6MPTOX) accumulation by increasing the expression levels of phenylalanine ammonia-lyase (PAL) and pinoresinol-lariciresinol reductase (PLR) genes, encoding lignan biosynthesis regulatory enzymes. Put also increased hydrogen peroxide (H2O2) content, while its level decreased in the presence of aminoguanidine (AG) and imidazole, inhibitors of diamine oxidase (DAO) and NADPH oxidase (NOX), respectively. Elevated levels of nitric oxide (NO) and cytosolic free Ca2+caused by Put treatment were reduced after using inhibitors of nitrate reductase (NR) and nitric oxide synthesis-like (NOS-like) enzymes, as well as Ca2+influx. Besides, pre-treatment of cells with AG, imidazole, ethylene glycol-bis (\u03b2-aminoethyl ether)-N, N,N',N'-tetraacetic acid (EGTA) (Ca2+chelator), N\u0277-nitro-L-arginine methyl ester (L-NAME), and Sodium tungstate (TUN) (NO generation inhibitors) diminished PAL and PLR transcript levels and PTOX and 6MPTOX accumulation, indicating the involvement of H2O2, NO, and Ca2+in regulating lignan biosynthesis in L. album cells. Put also stimulated salicylic acid (SA) accumulation, being sensitive to all inhibitors used. Overall, this study suggests that Put-induced H2O2generation in combination with NO and Ca2+signals can regulate PAL and PLR genes expression and lignan production, likely in a SA-dependent manner.",
+  "publication_date": "2025-04-19",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-96019-1",
+  "entities": {
+    "POLYPHENOL": [
+      "pinoresinol-lariciresinol reductase",
+      "salicylic acid (sa) accumulation",
+      "the underlying mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Genomic basis of the distinct biosynthesis of \u03b2-glucogallin, a\u00a0biochemical marker for hydrolyzable tannin production, in\u00a0three oak species.",
+  "abstract": "Hydrolyzable tannins (HTs), predominant polyphenols in oaks, are widely used in grape wine aging, feed additives, and human healthcare. However, the limited availability of a high-quality reference genome of oaks greatly hampered the recognition of the mechanism of HT biosynthesis. Here, high-quality reference genomes of three Asian oak species (Quercus variabilis, Quercus aliena, and Quercus dentata) that have different HT contents were generated. Multi-omics studies were carried out to identify key genes regulating HT biosynthesis. In\u00a0vitro enzyme activity assay was also conducted. Dual-luciferase and yeast one-hybrid assays were used to reveal the transcriptional regulation. Our results revealed that \u03b2-glucogallin was a biochemical marker for HT production in the cupules of the three Asian oaks. UGT84A13 was confirmed as the key enzyme for \u03b2-glucogallin biosynthesis. The differential expression of UGT84A13, rather than enzyme activity, was the main reason for different \u03b2-glucogallin and HT accumulation. Notably, sequence variations in UGT84A13 promoters led to different trans-activating activities of WRKY32/59, explaining the different expression patterns of UGT84A13 among the three species. Our findings provide three high-quality new reference genomes for oak trees and give new insights into different transcriptional regulation for understanding \u03b2-glucogallin and HT biosynthesis in closely related oak species.",
+  "publication_date": "2024-03-21",
+  "journal": "The New phytologist",
+  "doi": "10.1111/nph.19711",
+  "entities": {
+    "POLYPHENOL": [
+      "closely related oak species",
+      "hydrolyzable tannins",
+      "predominant polyphenols",
+      "the mechanism",
+      "the recognition",
+      "the three species",
+      "three asian oak species"
+    ],
+    "FOOD": [
+      "grape wine aging"
+    ]
+  }
+}

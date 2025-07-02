@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Synergistic Effects of Selected Nonthermal Technologies Combined with Soursop Leaf Extract on the Quality and Shelf Life of Refrigerated Pacific White Shrimp.",
+  "abstract": "The effectiveness of multi-targeted treatments including pulsed electric field (PEF), soursop leaf extract (SLE), vacuum impregnation (VI), and modified atmosphere packaging (MAP), with and without cold plasma (CP) treatment, on the quality and shelf life of Pacific white shrimp (Penaeus vannamei) during refrigerated storage for 21 days was investigated. PEF inhibited melanosis and reduced the initial bacterial load, as evidenced by lower melanosis scores and total bacterial counts in the treated samples. Integrating 1% SLE through VI effectively lowered color alteration, retarded melanosis, and preserved textural integrity in the SLE-treated samples (p< 0.05). SLE1 (1%) significantly reduced lipid oxidation, as witnessed by lower thiobarbituric acid reactive substances (p< 0.05) and minimal fatty acid profile changes. MAP3, comprising CO2/N2/Ar (60%/30%/10%), combined with CP treatment, ensured microbiological quality and maintained total viable count within the acceptable limit (6 Log CFU/g) throughout the storage time of 21 days. Notably, the PEF-SLE1-VI-MAP3-CP sample exhibited superior quality preservation, as shown by a lower pH and total volatile base content than the others. Sensory evaluation confirmed that the PEF-SLE1-VI-MAP3-CP sample remained sensorially acceptable during storage. Thus, this multi-hurdle approach demonstrated the synergistic potential of integrating nonthermal processing technologies with plant extracts, contributing to the extended shelf life and safety of the refrigerated shrimp for up to 21 days.",
+  "publication_date": "2025-04-17",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14081388",
+  "entities": {
+    "POLYPHENOL": [
+      "nonthermal processing technologies",
+      "pulsed electric field",
+      "the effectiveness",
+      "vi effectively lowered color alteration"
+    ],
+    "SYMPTOM": [
+      "modified atmosphere packaging"
+    ],
+    "FOOD": [
+      "plant extracts"
+    ]
+  }
+}

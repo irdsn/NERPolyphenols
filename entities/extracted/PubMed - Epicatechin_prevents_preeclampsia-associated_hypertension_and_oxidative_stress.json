@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Epicatechin prevents preeclampsia-associated hypertension and oxidative stress.",
+  "abstract": "Preeclampsia (PE) is a frequent and dangerous multisystemic pregnancy complication, associated with blood pressure control. Some antioxidants, including chocolate-derived epicatechin, can effectively attenuate hypertensive disorders.",
+  "publication_date": "2025-05-01",
+  "journal": "The journal of obstetrics and gynaecology research",
+  "doi": "10.1111/jog.16290",
+  "entities": {
+    "POLYPHENOL": [
+      "chocolate-derived epicatechin",
+      "preeclampsia"
+    ]
+  }
+}

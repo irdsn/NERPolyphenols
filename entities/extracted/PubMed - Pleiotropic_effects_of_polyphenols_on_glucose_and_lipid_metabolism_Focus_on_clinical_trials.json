@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Pleiotropic effects of polyphenols on glucose and lipid metabolism: Focus on clinical trials.",
+  "abstract": "Epidemiological evidence from observational studies suggests that dietary polyphenols (PPs) - phytochemicals found in a variety of plant-based foods - can reduce the risk of developing type 2 diabetes mellitus (T2DM). Clinical trials have also indicated that PPs may help manage the two key features of T2DM, hyperglycemia and dyslipidemia. Since the incidence of T2DM is dramatically increasing worldwide, identifying food-based approaches that can reduce the risk of developing it and help manage its main risk factors in early-stage disease has clinical and socioeconomic relevance. After a brief overview of current epidemiological data on the incidence of T2DM in individuals consuming PP-rich diets, we review the evidence from clinical trials investigating PP-enriched foods and/or PP-based nutraceutical compounds, report their main results, and highlight the knowledge gaps that should be bridged to enhance our understanding of the role of PPs in T2DM development and management.",
+  "publication_date": "2020-04-23",
+  "journal": "Ageing research reviews",
+  "doi": "10.1016/j.arr.2020.101074",
+  "entities": {
+    "POLYPHENOL": [
+      "clinical and socioeconomic relevance",
+      "dietary polyphenols"
+    ],
+    "FOOD": [
+      "plant-based foods"
+    ],
+    "SYMPTOM": [
+      "hyperglycemia"
+    ]
+  }
+}

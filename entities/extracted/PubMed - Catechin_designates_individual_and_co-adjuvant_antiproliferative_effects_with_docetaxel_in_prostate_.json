@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Catechin designates individual and co-adjuvant antiproliferative effects with docetaxel in prostate cancer cell models.",
+  "abstract": "The current study examined the potential therapeutic advantages of catechin, either alone or in combination with docetaxel (DTX), against PC-3 prostate cancer cells. Following the MTT assay's determination of the IC50concentrations, the cell lines were subjected to 48\u00a0h of treatment in the following protocol: untreated PC-3 control cells, docetaxel treatment, catechin (Cat) treatment, and DTX\u2009+\u2009Cat therapy at a ratio of 1:1. Treatments with DTX and Cat significantly decreased the number of viable cells in PC-3 cells in a dose-dependent manner. Additionally, the combo treatments caused the highest cytotoxicity compared with the other treatments. Also, when DTX and Cat were combined, they caused a significant synergistic effect (CI\u2009<\u20091) (combination index\u2009<\u20091). Furthermore, it was demonstrated that all treatments increased the expression ofBAX,Caspase-3, andP21mRNA in PC-3 cells while decreasing that ofBCL-2mRNA. The highest proportion of overexpression was observed in the combo therapy. A greater proportion of early and late apoptotic cells were caused by the combined treatment than by\u2009>\u2009DTX\u2009>\u2009Cat, according to flow cytometry. DNA damage in PC-3 cells was detected using the comet assay, and values of DNA tail, tail length, and tail moment increased considerably with increasing treatment dose. According to this study, Cat is effective against PC-3 cells when used in conjunction with DTX; by causing apoptosis, it enhances DTX's chemotherapeutic capability in cancerous cells.",
+  "publication_date": "2025-04-24",
+  "journal": "Toxicology research",
+  "doi": "10.1093/toxres/tfaf057",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant synergistic effect",
+      "catechin",
+      "catechin (cat) treatment"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "cancerous cells",
+      "dna damage",
+      "pc-3 prostate cancer cells"
+    ]
+  }
+}

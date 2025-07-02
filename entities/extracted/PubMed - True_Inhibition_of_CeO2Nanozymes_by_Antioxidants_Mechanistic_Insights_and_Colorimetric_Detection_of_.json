@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "True Inhibition of CeO2Nanozymes by Antioxidants: Mechanistic Insights and Colorimetric Detection of Ergothioneine.",
+  "abstract": "Some nanozyme-based detection methods for antioxidants often rely on the direct decolorization of colorimetric substrates by corresponding antioxidants, which weakens the role of nanozymes. Here, CeO2nanozymes exhibiting inherent oxidase-like activity were prepared via a one-pot hydrothermal technique. Ergothioneine (ERG), a natural antioxidant, was found to induce the true inhibition of the oxidase-like activity. Unlike other antioxidants including ascorbic acid, gallic acid and glutathione, ERG could really inhibit the oxidase-like activity of CeO2nanozymes, instead of directly reducing colorimetric substrates. Further kinetic analysis revealed that ERG-induced inhibition is reversible and noncompetitive. This discovery highlights the unique behavior of ERG and provides an important mechanistic understanding of nanozyme inhibition by antioxidants. Leveraging the inhibitory effect, a novel colorimetric sensing platform for ERG was established with a low limit of detection (0.21 \u03bcM), excellent reusability, good storage stability and high accuracy, making it a simple, sensitive and rapid method for assessing ERG levels in functional foods. This study not only establishes a framework for investigating the interactions between nanozymes and small molecules but also paves a new pathway for expanding the applications of nanozymes in food and agricultural biosensing.",
+  "publication_date": "2025-06-03",
+  "journal": "Analytical chemistry",
+  "doi": "10.1021/acs.analchem.5c00682",
+  "entities": {
+    "POLYPHENOL": [
+      "a one-pot hydrothermal technique",
+      "an important mechanistic understanding",
+      "detection",
+      "gallic acid",
+      "small molecules",
+      "some nanozyme-based detection methods",
+      "the direct decolorization",
+      "the inhibitory effect"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Bioactive Compounds, Health Benefits and Food Applications of Grape.",
+  "abstract": "Grape (Vitis viniferaL.) is one of the most popular fruits worldwide. It contains various bioactive compounds, such as proanthocyanidins, anthocyanins, flavonols, phenolic acids and stilbenes, the contents of which could vary considerably in grape skin, pulp and seed. Many studies have revealed that grape possesses a variety of health benefits, such as antioxidant, anti-inflammatory, gut-microbiota-modulating, anticancer and cardioprotective effects. Grape is eaten as fresh fruit and is also used as raw material to produce various products, such as wine, grape juice and raisins. Moreover, the byproducts of grape, such as grape pomace and grape seed, have many applications in the food industry. In this paper, the bioactive compounds in grape are briefly summarized based on literature published in recent years. In addition, the health benefits of grape and its bioactive components are discussed, with special attention paid to the underlying mechanisms. Furthermore, the applications of grape in the food industry are elucidated, especially the applications of grape pomace and grape seed. This paper can contribute to understanding the health benefits and mechanisms of grape and its bioactive compounds, as well as the promotion of the use of grape in the food industry.",
+  "publication_date": "2022-09-07",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods11182755",
+  "entities": {
+    "FOOD": [
+      "grape",
+      "grape juice",
+      "grape pomace",
+      "grape seed",
+      "grape skin",
+      "raisins",
+      "wine"
+    ],
+    "POLYPHENOL": [
+      "cardioprotective effects",
+      "especially the applications",
+      "mechanisms",
+      "proanthocyanidins",
+      "recent years",
+      "special attention",
+      "the underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "anticancer"
+    ]
+  }
+}

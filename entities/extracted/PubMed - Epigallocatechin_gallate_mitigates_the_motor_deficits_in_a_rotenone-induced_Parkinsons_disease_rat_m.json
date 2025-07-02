@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Epigallocatechin gallate mitigates the motor deficits in a rotenone-induced Parkinson's disease rat model via promoting protein kinase D1 and inhibiting neuronal Parthanatos.",
+  "abstract": "Parkinson's disease (PD), a neurodegenerative disorder characterized by degeneration of the dopaminergic (DA) neurons, is still lack of available treatments to completely block neurodegeneration. (-)-Epigallocatechin-3-gallate (EGCG), a predominant active polyphenol generated from green tea, exerts multiple neuroprotective roles in the nervous system. However, the function role of EGCG in PD and the underlying mechanism remains to be investigated. In the current study, we used the rotenone injection to build the PD rat model, followed by the EGCG treatment and determined by the behavior tests, measurements of malondialdehyde, glutathione, and superoxide dismutase levels, and enzyme-linked immunosorbent assay. We revealed that, in PD rats, EGCG upregulates protein kinase D1 (PKD1) and inhibits Parthanatos to ameliorate the impaired motor function, reduce the expression of tyrosine hydroxylase, suppress the oxidative stress, and suppress the inflammation in substantia nigra. These combined results suggest that EGCG can suppress oxidative stress and inflammation to prevent DA neuron degeneration to prevent rotenone-induced motor impairments, laying the foundation for EGCG to be a novel candidate for the treatment of PD.",
+  "publication_date": "2025-02-25",
+  "journal": "Translational neuroscience",
+  "doi": "10.1515/tnsci-2025-0366",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "neurodegeneration",
+      "oxidative stress",
+      "parkinson's disease",
+      "the inflammation",
+      "the oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "(-)-epigallocatechin-3-gallate",
+      "a predominant active polyphenol",
+      "egcg",
+      "multiple neuroprotective roles",
+      "the egcg treatment",
+      "the rotenone injection",
+      "the underlying mechanism"
+    ],
+    "FOOD": [
+      "green tea"
+    ]
+  }
+}

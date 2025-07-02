@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Coffee as a Source of Antioxidants and an Elixir of Youth.",
+  "abstract": "Coffee is more than a universally loved beverage; it is a complex matrix of bioactive compounds that contribute to its multifaceted health benefits. From its role as a potent source of antioxidants to its potential anti-aging effects, coffee has proven to be a valuable component of a balanced diet. This paper highlights the extensive scientific evidence supporting coffee's ability to combat oxidative stress, enhance cognitive function, and improve metabolic and cardiovascular health. Additionally, its role in modulating key cellular pathways underscores its potential to positively influence aging and longevity. This manuscript emphasizes coffee's broader cultural, economic, and historical significance, illustrating its enduring relevance in contemporary society. Despite minor discrepancies in research findings, the preponderance of evidence underscores coffee's potential as a functional food with profound implications for healthspan and aging. While promising, translating findings to humans requires further clinical research.",
+  "publication_date": "2025-02-27",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14030285",
+  "entities": {
+    "FOOD": [
+      "a functional food",
+      "coffee",
+      "coffee's ability",
+      "coffee's potential"
+    ],
+    "POLYPHENOL": [
+      "coffee's broader cultural, economic, and historical significance",
+      "its potential anti-aging effects"
+    ],
+    "SYMPTOM": [
+      "aging",
+      "oxidative stress"
+    ]
+  }
+}

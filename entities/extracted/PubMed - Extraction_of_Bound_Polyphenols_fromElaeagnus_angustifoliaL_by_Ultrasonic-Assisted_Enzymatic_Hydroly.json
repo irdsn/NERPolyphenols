@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Extraction of Bound Polyphenols fromElaeagnus angustifoliaL. by Ultrasonic-Assisted Enzymatic Hydrolysis and Evaluation of Its Antioxidant Activity In Vitro.",
+  "abstract": "Herein,Elaeagnus angustifoliaL. was utilized as a raw material to extract bound polyphenols using an ultrasound-assisted complex enzyme method for the first time. The effects of enzyme ratio, ultrasonic time, liquid-to-solid ratio, and pH value on the bound polyphenol yield were investigated using single-factor experiments. The key parameters were subsequently optimized using the Box-Behnken design. The optimal conditions identified were as follows: enzyme ratio (\u03b1-amylase/cellulase = 5:1 mg/mg), ultrasonic time of 50 min, liquid-to-solid ratio of 12:1 mL/g, and pH value of 5. Under these conditions, the bound polyphenol yield was measured at 13.970 \u00b1 0.3 mg/g. A total of 27 phenolic compounds were identified using ultrahigh-performance liquid chromatography-ion mobility quadrupole time-of-flight mass spectrometry (UPLC-IMS-QTOF-MS), including two coumarins, five lignins, 10 polyphenols, nine flavonoids, and one tannin, and specifically containing Angeloylgomisin Q, Yakuchinone A, Furosin, 6-Dehydrogingerdione, and 4'-Methylpinosylvin, and so on. Antioxidant activity was assessed using the 1,1-diphenyl-2-picryl-hydrazil (DPPH) and 2,2'-azino-bis-(3-ethylbenzthiazoline-6-sulfonate) (ABTS) methods, revealing significant antioxidant potential. This study introduced a novel extraction process for bound polyphenols fromE. angustifoliaL. and provided the first qualitative analysis of bound polyphenols in this species, establishing a scientific foundation for its development and application in the functional food, medicine, and cosmetics industries.",
+  "publication_date": "2025-04-29",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14091567",
+  "entities": {
+    "POLYPHENOL": [
+      "10 polyphenols",
+      "27 phenolic compounds",
+      "bound polyphenols",
+      "bound polyphenols frome. angustifolial.",
+      "nine flavonoids",
+      "one tannin",
+      "the bound polyphenol yield",
+      "the effects",
+      "this species"
+    ],
+    "FOOD": [
+      "6-dehydrogingerdione",
+      "the functional food"
+    ]
+  }
+}

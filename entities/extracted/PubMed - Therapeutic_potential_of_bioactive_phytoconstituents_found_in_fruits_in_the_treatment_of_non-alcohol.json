@@ -1,0 +1,37 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Therapeutic potential of bioactive phytoconstituents found in fruits in the treatment of non-alcoholic fatty liver disease: A comprehensive review.",
+  "abstract": "Nonalcoholic fatty liver disease (NAFLD), a chronic liver condition affects a large number of people around the world with a frequency of 25% of all the chronic liver disease worldwide. Several targets viz. anti-inflammatory, anti-apoptotic and, anti-fibrotic factors, anti-oxidant and insulin-sensitizing pathways, metabolic regulators as well as repurposing traditional medications have been studied for the pharmacologic therapy of NAFLD. Newer pharmacotherapies like caspases blockade, agonists of PPAR and farnesoid X receptor agonists are currently being investigated in treating human NAFLD. However, NAFLD has no FDA-approved pharmacological therapy, therefore there is a considerable unmet therapy need. Apart from the conventional treatment regime, the current approaches to treating NAFLD include lifestyle interventions including healthy diet with adequate nutrition and physical activity. Fruits are known to play a key role in the well-being of human health. Fruits are loaded with a repertoire of bioactive phytoconstituents like catechins, phytosterols, proanthocyanidin, genestin, daidzen, resveratrol, magiferin found in fruits like pear, apricot, strawberries, oranges, apples, bananas, grapes, kiwi, pineapple, watermelon, peach, grape seed and skin, mango, currants, raisins, dried dates, passion fruit and many more. These bioactive phytoconstituents are reported to demonstrate promising pharmacological efficacy like reduction in fatty acid deposition, increased lipid metabolism, modulation of insulin signaling pathway, gut microbiota and hepatic inflammation, inhibition of histone acetyltransferase enzymatic activity to name a few. Not only fruits, but their derivatives like oils, pulp, peel, or their preparations are also found to be equally beneficial in various liver diseases like NAFLD, NASH. Although most of the fruits contains potent bioactive phytoconstituents, however, the presence of sugar in fruits put a question mark on the ameliorative property of the fruits and there has been contrasting reports on the glycemic control post fruit consumption in type 2 diabetic patients. This review is an attempt to summarize the beneficial effects of fruit phytoconstituents on NAFLD based on epidemiological, clinical and experimental evidence, focusing especially on their mechanisms of action.",
+  "publication_date": "2023-04-10",
+  "journal": "Heliyon",
+  "doi": "10.1016/j.heliyon.2023.e15347",
+  "entities": {
+    "POLYPHENOL": [
+      "catechins",
+      "farnesoid x receptor agonists",
+      "resveratrol",
+      "the beneficial effects",
+      "their mechanisms"
+    ],
+    "FOOD": [
+      "apples",
+      "apricot",
+      "bananas",
+      "grape seed",
+      "grapes",
+      "kiwi",
+      "mango",
+      "oranges",
+      "peach",
+      "pear",
+      "pineapple",
+      "raisins",
+      "strawberries",
+      "watermelon"
+    ],
+    "SYMPTOM": [
+      "microbiota and hepatic inflammation"
+    ]
+  }
+}

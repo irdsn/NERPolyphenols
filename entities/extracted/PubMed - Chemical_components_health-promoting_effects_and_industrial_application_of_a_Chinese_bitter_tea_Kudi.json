@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Chemical components, health-promoting effects and industrial application of a Chinese bitter tea (Kuding tea): A comprehensive review.",
+  "abstract": "Kuding tea (KT), a traditional Chinese bitter tea, has long been recognized as Food & Medicine Homology product, known for its various active components and health benefits. However, research on KT is fragmented, lacking a comprehensive review of its key chemical constituents, health-promoting effects, and potential future applications. This review outlines the development history and nutritional components of KT while examining its functional benefits and industrial applications. KT is a promising and cost-effective product, containing numerous bioactive constituents, including polyphenols, triterpenoids, phenylethanoids, and polysaccharides, which exhibit strong antioxidant, anti-obesity, anti-diabetic, anti-inflammatory, neuroprotective, and anti-cancer activities. We summarized the researches on the health-promoting effects of KT and emphasized its practical applications in the food, agricultural, and pharmaceutical industries. Overall, this review presents a forward-looking viewpoint on creative KT applications and offers insights into KT's potential for future sustainable growth.",
+  "publication_date": "2025-03-08",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.143792",
+  "entities": {
+    "POLYPHENOL": [
+      "a promising and cost-effective product",
+      "health-promoting effects",
+      "polyphenols",
+      "strong antioxidant, anti-obesity, anti-diabetic, anti-inflammatory, neuroprotective, and anti-cancer activities",
+      "the health-promoting effects"
+    ]
+  }
+}

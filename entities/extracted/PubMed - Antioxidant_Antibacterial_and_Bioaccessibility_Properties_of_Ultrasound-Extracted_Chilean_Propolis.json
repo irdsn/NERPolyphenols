@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Antioxidant, Antibacterial, and Bioaccessibility Properties of Ultrasound-Extracted Chilean Propolis.",
+  "abstract": "Propolis is a honeybee product with significant biological properties, strongly influenced by geographic and floral origin as well as extraction method. Ultrasound-assisted extraction (UAE) is an emerging alternative for propolis preparation. This study aimed to determine the optimal UAE conditions for total polyphenol content (TPC) and total flavonoid content (TFC) in Chilean propolis and compare its antioxidant and antimicrobial capacities with a conventional method. UAE was performed with varying ethanol concentrations (50-90%), temperatures (20-60 \u00b0C), and extraction times (10-50 min), keeping the solid/liquid ratio constant at 1:10 (w/v). The optimal ethanolic UAE extract (OE) was compared to the conventional ethanolic extract (CE) for antimicrobial activity againstSalmonella entericaandListeria monocytogenesand antioxidant capacity (DPPH, ABTS, FRAP assays). Optimal UAE conditions were 80% ethanol, 30 \u00b0C, and 30 min. The OE showed significantly higher (p< 0.05) TPC (22.4 \u00b1 0.3 mg GAE/mL), TFC (15.7 \u00b1 0.7 mg QE/mL), antioxidant capacity (ABTS: 35.7 \u00b1 0.9; DPPH: 62.9 \u00b1 0.3; FRAP: 49.7 \u00b1 2.1 \u00b5mol TE/mL), and antimicrobial activity in the evaluated Gram-positive bacteria (>15 mm inhibition halo, MBC = 3.1 mg/mL) compared to the CE. The bioaccessibility analysis revealed that the OE maintained 20.1% of its polyphenol content and 69.5%, 60.5%, and 61.9% of DPPH, ABTS, and FRAP, respectively, after simulated gastrointestinal digestion. The established optimal UAE conditions generated extracts with increased polyphenol content, antioxidant capacity, antimicrobial activity, and bioaccessibility, indicating its potential as an extraction method for propolis with enhanced bioactivity.",
+  "publication_date": "2025-05-28",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060651",
+  "entities": {
+    "POLYPHENOL": [
+      "increased polyphenol content",
+      "its polyphenol content",
+      "total flavonoid content",
+      "total polyphenol content"
+    ]
+  }
+}

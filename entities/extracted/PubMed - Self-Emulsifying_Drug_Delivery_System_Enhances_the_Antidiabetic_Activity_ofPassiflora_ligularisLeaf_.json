@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Self-Emulsifying Drug Delivery System Enhances the Antidiabetic Activity ofPassiflora ligularisLeaf Extract.",
+  "abstract": "Background/Objectives:Previous studies have shown that unformulated extracts ofPassiflora ligularisleaves exhibit promising antidiabetic activity. This research aimed to demonstrate that formulating the extract into a self-emulsifying drug delivery system (PLE-SEDDS) enhanced its antidiabetic activity in a high-fat-diet/streptozotocin-induced diabetic mouse model.Methods: Blood glucose levels (BGLs) of diabetic mice were monitored during 21 days of oral administration ofP. ligularisextract (PLE) and PLE-SEDDS. Control groups included metformin (positive control), vehicle, and SEDDS vehicle (negative controls). The animals underwent an oral glucose tolerance test (OGTT). The oxidative stress markers superoxide dismutase (SOD), catalase (CAT), and lipid peroxidation quantified by malondialdehyde (MDA) levels were measured in the kidney, liver, and pancreas, complemented with histopathological analysis. Additionally, plasma lipid profile parameters were evaluated.Results: The PLE-SEDDS formulation demonstrated superior efficacy compared to the PLE extract in improving antidiabetic outcomes. Animals treated with PLE-SEDDS exhibited a minimal increase in blood glucose levels (11.5%) during the OGTT, compared to 27.4% with PLE and over 77% in the vehicle groups. PLE-SEDDS also showed greater enhancement of SOD and CAT activity, along with a more pronounced reduction in MDA levels, indicating stronger protection against oxidative stress. Histological analysis revealed significant preservation of pancreatic islets, and lipid profile analysis showed greater reductions in triglycerides, cholesterol, and LDL-C, alongside increased HDL-C levels.Conclusions: Altogether, these findings suggest that PLE-SEDDS exhibits superior antihyperglycemic, hypolipidemic, and antioxidant effects compared to the unformulated extract, making this novel formulation a promising option for treating type 2 diabetes mellitus.",
+  "publication_date": "2025-05-31",
+  "journal": "Pharmaceutics",
+  "doi": "10.3390/pharmaceutics17060730",
+  "entities": {
+    "POLYPHENOL": [
+      "background/objectives",
+      "stronger protection",
+      "superior antihyperglycemic, hypolipidemic, and antioxidant effects"
+    ],
+    "SYMPTOM": [
+      "oxidative stress",
+      "the oxidative stress markers superoxide dismutase"
+    ]
+  }
+}

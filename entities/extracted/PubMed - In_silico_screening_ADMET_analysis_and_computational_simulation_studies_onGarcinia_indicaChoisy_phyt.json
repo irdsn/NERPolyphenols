@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "In silico screening, ADMET analysis and computational simulation studies onGarcinia indicaChoisy phytoconstituents as prospective antibreast cancer agents: a critical appraisal of the neglected plant.",
+  "abstract": "This study employed in silico methods to evaluate the antibreast cancer potential of three phytocomponents fromGarcinia indicaviz.garcinol, anthocyanin, and hydroxycitric acid against nine breast cancer-related protein targets. Molecular docking revealed that garcinol exhibited the strongest binding affinity for BRCA2 (BE - 7.1\u00a0kcal/mol, Kd 6.27\u00a0\u00b5M), anthocyanin for BAX (BE - 7.54\u00a0kcal/mol, Kd 2.96\u00a0\u00b5M) and hydroxycitric acid for BRCA1 (BE - 8.28\u00a0kcal/mol, Kd 848.46\u00a0nM), outperforming reference drugs doxorubicin and tetracycline. Molecular dynamics simulation of the garcinol-BRCA2 complex demonstrated conformational stability throughout the 100\u00a0ns simulation period, supported by consistent RMSD, hydrogen bond count, and compactness metrics (Rg \u2248 1.94-2.0\u00a0nm). ADMET and toxicity analyses confirmed favorable drug likeness and non-toxic profiles for the GI phytocomponents. PASS prediction, BOILED-Egg and bioavailability radar assessments further supported their potential as orally bioavailable, CNS-accessible therapeutic candidates. The findings indicate that the relatively unexplored GI possesses a high concentration of pharmacologically active compounds and may serve as an excellent source of novel, natural anticancer agents for future drug development. To the best of our knowledge, this is the first in silico study evaluating the antibreast cancer potential ofGarcinia indicaphytocompounds.",
+  "publication_date": "2025-06-04",
+  "journal": "3 Biotech",
+  "doi": "10.1007/s13205-025-04365-8",
+  "entities": {
+    "SYMPTOM": [
+      "nine breast cancer-related protein targets",
+      "novel, natural anticancer agents",
+      "the antibreast cancer potential",
+      "the antibreast cancer potential ofgarcinia indicaphytocompounds"
+    ],
+    "POLYPHENOL": [
+      "molecular docking",
+      "molecular dynamics simulation"
+    ]
+  }
+}

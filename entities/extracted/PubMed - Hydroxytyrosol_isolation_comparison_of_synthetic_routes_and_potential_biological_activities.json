@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Hydroxytyrosol isolation, comparison of synthetic routes and potential biological activities.",
+  "abstract": "Hydroxytyrosol (HT) is a polyphenol found in the olive plant (Olea europaea) that has garnered attention from the food, feed, supplement, and pharmaceutical industries. HT has evolved from basic separation and extraction to chemical and biocatalytic synthesis. The yield of HT can reach 1.93\u2009g/L/h through chemical synthesis and 7.7\u2009g/L/h through biocatalysis; however, both methods are subject to inherent limitations. Furthermore, the potential health benefits associated with HT have been highlighted, including its ability to act as an antioxidant, reduce inflammation, combat cancer and obesity, and exert antibacterial and antiviral effects. Its neuroprotective effects, skin protection, and wound healing capabilities are also discussed. Given these remarkable biological properties, HT stands out as one of the most extensively investigated natural phenols. This review highlights future methods and pathways for the synthesis of HT, providing insights based on its bioactivity characteristics, health benefits, and potential future applications.",
+  "publication_date": "2024-07-16",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.4349",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol",
+      "antibacterial and antiviral effects",
+      "its neuroprotective effects",
+      "skin protection"
+    ],
+    "SYMPTOM": [
+      "combat cancer",
+      "inflammation",
+      "obesity"
+    ]
+  }
+}

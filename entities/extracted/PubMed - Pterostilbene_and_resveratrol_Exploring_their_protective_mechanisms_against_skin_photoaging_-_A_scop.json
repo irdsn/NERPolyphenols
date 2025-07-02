@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Pterostilbene and resveratrol: Exploring their protective mechanisms against skin photoaging - A scoping review.",
+  "abstract": "Prolonged ultraviolet (UV) exposure depletes the skin's endogenous antioxidants, leading to photoaging. Exogenous antioxidants are essential to counter this, with stilbenes such as pterostilbene and resveratrol emerging as promising candidates due to their antioxidant, anti-inflammatory and anti-cancer properties. The current scoping review presents an overview of the evidence on the effects of pterostilbene and resveratrol on skin photoaging. A literature search was conducted using PubMed, Scopus, and Web of Science databases in April 2025. Original research articles that investigated the effects of pterostilbene and resveratrol on skin photoaging in cells, animals, or humans were included. 9 eligible articles were included in this review. The findings suggest that resveratrol significantly improves skin photoaging, while preliminary evidence indicates that pterostilbene may offer advantages over resveratrol. However, due to the limited research on pterostilbene, further studies are required to confirm its efficacy. Key considerations in establishing valid in vitro and in vivo models, alongside macroscopic and histologic features of photoaging, were also discussed. In conclusion, while resveratrol shows significant promise in combating skin photoaging, pterostilbene is still in the early exploration phases. Advancing to human trials is crucial to confirm the efficacy of these stilbenes in preventing and treating photoaging.",
+  "publication_date": "2025-04-15",
+  "journal": "Biochemistry and biophysics reports",
+  "doi": "10.1016/j.bbrep.2025.102011",
+  "entities": {
+    "POLYPHENOL": [
+      "pterostilbene",
+      "resveratrol",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "photoaging",
+      "skin photoaging",
+      "their antioxidant, anti-inflammatory and anti-cancer properties"
+    ]
+  }
+}

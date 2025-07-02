@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Comprehensive two-dimensional primary hepatic stellate cell (HSC) membrane chromatography-based screening of anti-fibrotic components from Schisandra chinensis (Turcz.) Baill. and mechanistic insights into gomisin N against liver fibrosis.",
+  "abstract": "Schisandra chinensis, a renowned medicinal plant in traditional Chinese, Korean, and Russian ethnomedicine, has been widely used for its hepatoprotective, adaptogenic, and tonic properties. In traditional Chinese medicine, it is classified as a superior herb known to astringe essence, nourish the kidneys, and calm the mind. Historically, it has been prescribed for fatigue, insomnia, and respiratory ailments, but its most notable application lies in liver protection. It has long been used to treat liver disorders, including hepatitis and toxin-induced liver injury, aligning with modern pharmacological evidence demonstrating its potent hepatoprotective effects.",
+  "publication_date": "2025-06-06",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.120067",
+  "entities": {
+    "POLYPHENOL": [
+      "its hepatoprotective, adaptogenic, and tonic properties",
+      "its potent hepatoprotective effects",
+      "liver protection"
+    ],
+    "SYMPTOM": [
+      "fatigue",
+      "hepatitis and toxin-induced liver injury"
+    ]
+  }
+}

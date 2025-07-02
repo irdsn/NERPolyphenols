@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Inhibition of carboxymethyllysine in walnut cookies via food additives.",
+  "abstract": "Carboxymethyllysine(CML) is one of advanced glycation end products(AGEs), which is associated with the occurrence and development of chronic diseases such as diabetes, cardiovascular disease, Alzheimer's disease, etc. This study focused on assessing the CML formation pattern in walnut cookies and the related impact of food additives on the CML content and sensory characteristics. The results showed that the baking conditions significantly affected the CML content in the walnut cookies, which exhibited a significant positive correlation with the sensory evaluation scores. Three food additives, namely propyl gallate (PG), theaflavins (TF), and tea polyphenols (TP), were selected based on their high CML inhibition rates. They were combined using mixture optimal design, and the optimal compounding ratios were obtained, which were X1=\u00a00.236, X2=\u00a00.400, and X3=\u00a00.364. These ratios were converted to the additive ratios in the walnut cookies, with PG at 0.0236\u00a0\u2030, TF at 0.160\u00a0\u2030, and TP at 0.146\u00a0\u2030. The CML inhibition rate reached a maximum value of 40.98\u00a0%, with the sensory evaluation score also higher.",
+  "publication_date": "2025-01-18",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102194",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease"
+    ],
+    "FOOD": [
+      "the walnut cookies",
+      "walnut cookies"
+    ],
+    "POLYPHENOL": [
+      "tea polyphenols"
+    ]
+  }
+}

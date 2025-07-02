@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Advanced stability prediction and mechanism study of goji berry beverage via ultrasound-assisted homogenization utilizing genetic algorithm-based backpropagation neural networks.",
+  "abstract": "Traditional cloudy goji berry beverages (CGBs) preparation methods often cause irreversible phase separation during sterilization and require high homogenization pressures. However, combined ultrasound and homogenization (US-HPH) technology achieves stability of CGBs at lower pressures with the combination of 200 W ultrasonic power and 40 MPa homogenizing pressure. US-HPH significantly reduces average particle size by 67.91 % and increases absolute zeta potential by 5.73 % compared to optimal ultrasound conditions. And it reduces particle size by 43.78 % and increases zeta potential by 20.63 % compared to optimal homogenization. Simultaneously, a variety of active components in CGBs, including proteins, polyphenols, and carotenoids, were preserved. Additionally, to comprehensively reveal the effects of US-HPH on CGBs stability, a predictive model based on genetic algorithm (GA) and back-propagation (BP) neural network accurately characterizes were developed, and the results predicts particle size and zeta potential of CGBs, with high accuracy (RMSE = 0.026, MAE < 2).",
+  "publication_date": "2025-04-02",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144186"
+}

@@ -1,0 +1,39 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "[Physiological and biochemical evaluation of the effectiveness of a new food ingredient - blueberry polyphenol concentrate].",
+  "abstract": "Extracts from bilberry leaves and blueberries containing a wide range of biologically active compounds, including polyphenols, are of particular interest due to their antioxidant, hypoglycemic and hypolipidemic properties. In this regard,The aimof this research was to investigate in vivo the effect of a concentrate of blueberrie polyphenolic compounds with buckwheat flour on some physiological and biochemical parameters in C57Bl/6 mice with impaired carbohydrate and lipid metabolism induced by the consumption of a high fat high carbohydrate (HFHC) diet.Material and methods. The polyphenol concentrate was obtained by sorption of blueberry extract on grinded buckwheat flour. Total polyphenol content was determined by Folin-Ciocalteu method, profiles of anthocyanins, flavonoids and easily digested carbohydrates were determined by HPLC. An in vivo experiment was carried out using 84 male mice C57Bl/6 for 109 days. Animals were divided into 3 groups: control fed standard semisynthetic diet, control treated with HFHC diet and experimental group treated with HFHC diet with addition of blueberry polyphenol concentrate (60 mg-eq. of gallic acid/kg body weight). Food intake, body weight gain and fasting blood glucose levels were measured during the experiment. Grip strength of the front paws of the animals was measured weekly. Oral glucose tolerance and insulin resistance tests were carried out twice. Common physiological tests (Elevated Plus Maze and Passive Avoidance Test) were used to assess the anxiety and memory of animals. Glycated hemoglobin level was determined in blood, plasma was collected for leptin and insulin level determination. The hepatic levels of triglycerides and cholesterol were assessed.Results. The concentrate of polyphenols extracted from blueberries and sorbed on grinded buckwheat flour was obtained under conditions that made it possible to exclude the sorption of easily digested carbohydrates - glucose, fructose and sucrose on the flour. The total concentrate content of polyphenols was 65.5\u00b10.7 mg-eq. gallic acid/g, anthocyanins - 27.3\u00b12.7 mg/g, flavonoids - 1.2\u00b10.1 mg/g. The consumption of the concentrate by C57Bl/6 male mice with carbohydrate and lipid metabolism disorders induced by a HFHC diet had a significant (p<0.05) hypoglycemic and hypolipidemic effect, reducing the area under the curve in the insulin resistance test by 5.7% and decreasing the insulin and leptin levels by 31.3 and 15.9%, respectively (relative to the animals of comparison group fed HFHC diet). The consumption of the concentrate had a significant (p<0.05) anxiolytic effect, reducing the anxiety of animals by 2.2 times, as determined in the Elevated Plus Maze test.Conclusion. The results of the study indicate the prospects for using the developed blueberry polyphenol concentrate adsorbed on buckwheat flour as part of specialized foods for the prevention of such alimentary dependent diseases as metabolic syndrome, obesity, and diabetes mellitus.",
+  "publication_date": "2022-09-30",
+  "journal": "Voprosy pitaniia",
+  "doi": "10.33029/0042-8833-2022-91-5-43-55",
+  "entities": {
+    "FOOD": [
+      "blueberries",
+      "blueberry extract",
+      "buckwheat flour",
+      "grinded buckwheat flour",
+      "such alimentary dependent diseases"
+    ],
+    "POLYPHENOL": [
+      "a significant (p<0.05) anxiolytic effect",
+      "blueberrie polyphenolic compounds",
+      "blueberry polyphenol concentrate",
+      "flavonoids",
+      "gallic acid/kg body weight",
+      "hypoglycemic and hypolipidemic effect",
+      "polyphenols",
+      "specialized foods",
+      "the developed blueberry polyphenol concentrate",
+      "the effect",
+      "the polyphenol concentrate",
+      "the prospects",
+      "total polyphenol content"
+    ],
+    "SYMPTOM": [
+      "insulin resistance tests",
+      "metabolic syndrome",
+      "obesity",
+      "the insulin resistance test"
+    ]
+  }
+}

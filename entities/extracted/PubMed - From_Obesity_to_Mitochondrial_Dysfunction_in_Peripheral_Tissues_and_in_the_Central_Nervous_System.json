@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "From Obesity to Mitochondrial Dysfunction in Peripheral Tissues and in the Central Nervous System.",
+  "abstract": "Obesity is a condition of chronic low-grade inflammation affecting peripheral organs of the body, as well as the central nervous system. The adipose tissue dysfunction occurring under conditions of obesity is a key factor in the onset and progression of a variety of diseases, including neurodegenerative disorders. Mitochondria, key organelles in the production of cellular energy, play an important role in this tissue dysfunction. Numerous studies highlight the close link between obesity and adipocyte mitochondrial dysfunction, resulting in excessive ROS production and adipose tissue inflammation. This inflammation is transmitted systemically, leading to metabolic disorders that also impact the central nervous system, where pro-inflammatory cytokines impair mitochondrial and cellular functions in different areas of the brain, leading to neurodegenerative diseases. To date, several bioactive compounds are able to prevent and/or slow down neurogenerative processes by acting on mitochondrial functions. Among these, some molecules present in the Mediterranean diet, such as polyphenols, carotenoids, and omega-3 PUFAs, exert a protective action due to their antioxidant and anti-inflammatory ability. The aim of this review is to provide an overview of the involvement of adipose tissue dysfunction in the development of neurodegenerative diseases including Alzheimer's disease, Parkinson's disease, and multiple sclerosis, emphasizing the central role played by mitochondria, the main actors in the cross-talk between adipose tissue and the central nervous system.",
+  "publication_date": "2025-04-29",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom15050638",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "chronic low-grade inflammation",
+      "obesity",
+      "obesity and adipocyte mitochondrial dysfunction",
+      "parkinson's disease",
+      "this inflammation",
+      "tissue inflammation"
+    ],
+    "POLYPHENOL": [
+      "a protective action",
+      "polyphenols",
+      "some molecules"
+    ],
+    "FOOD": [
+      "omega-3 pufas"
+    ]
+  }
+}

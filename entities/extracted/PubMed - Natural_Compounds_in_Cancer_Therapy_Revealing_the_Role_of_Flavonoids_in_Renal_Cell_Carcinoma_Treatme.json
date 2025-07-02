@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Natural Compounds in Cancer Therapy: Revealing the Role of Flavonoids in Renal Cell Carcinoma Treatment.",
+  "abstract": "Renal cell carcinoma (RCC) is the most lethal malignancy of the urinary system, with limited treatment options due to drug resistance and the adverse effects associated with current therapies. This review aims to systematically examine the therapeutic potential of flavonoids, which are natural polyphenolic compounds possessing anti-inflammatory, antioxidant, and anticancer properties, in the context of RCC treatment. We summarize the anticancer activities of 26 natural flavonoids, classified into six subclasses, and explore their mechanisms of action, including the inhibition of tumor cell proliferation, migration, and invasion, as well as the induction of apoptosis, autophagy, and ferroptosis. Particular attention is paid to their modulation of key signaling pathways such as the JAK/STAT3, PI3K/Akt/mTOR, and miRNA-related axes, including miR-21/YAP1 and miR-324-3p/GPX4, providing a molecular basis for their anti-RCC activity. We also address several pharmacological challenges that limit the clinical application of flavonoids, including poor bioavailability, metabolic instability, and potential toxicity. Emerging solutions such as novel flavonoid derivatives, advanced drug delivery systems, and rational combination therapy strategies are also discussed. Current clinical evidence, including a phase II trial of flavopiridol in advanced RCC, highlights the potential but also the need for further validation. In conclusion, flavonoids offer a promising approach to improving RCC treatment. Future research should focus on optimizing their therapeutic efficacy and ensuring their safe clinical translation, with the goal of achieving personalized and minimally invasive cancer therapies.",
+  "publication_date": "2025-04-25",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom15050620",
+  "entities": {
+    "POLYPHENOL": [
+      "26 natural flavonoids",
+      "a molecular basis",
+      "flavonoids",
+      "natural polyphenolic compounds",
+      "novel flavonoid derivatives",
+      "the adverse effects",
+      "their mechanisms"
+    ],
+    "SYMPTOM": [
+      "anti-inflammatory, antioxidant, and anticancer properties",
+      "apoptosis",
+      "personalized and minimally invasive cancer therapies",
+      "the anticancer activities"
+    ]
+  }
+}

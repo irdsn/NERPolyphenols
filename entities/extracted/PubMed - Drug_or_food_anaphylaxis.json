@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Drug or food anaphylaxis?",
+  "abstract": "A 9-month-old infant with a personal history of atopic dermatitis and no family history of atopy presented to the outpatient allergy clinic for evaluation of suspected food and drug allergy. The mother breastfed the infant from birth and had introduced only fruits and vegetables into his diet. After the first dose of Ferplex\u00ae(iron protein succinylate), the infant had an immediate moderate systemic reaction that required emergency care and treatment with intramuscular epinephrine. The drug was indicated for the treatment of acute anemia. Skin prick test and specific IgE were done, confirming sensitization to cow's milk and egg proteins. It was determined that the baby was sensitized to cow's milk proteins, without prior ingestion, and experienced an anaphylactic reaction after taking Ferplex\u00ae, a pharmaceutical product that contains casein as part of its active ingredients. The presence of succinylated casein was confirmed, without pertinent information on the amount in the technical sheet or package insert. Existing pharmaceutical industry regulations should be modified in order to declare food allergens present in excipients and in active ingredients to avoid potential risks for allergic patients. A detailed food history is important in young children who are gradually being introduced to new foods, and in those that have not yet been introduced, recordings should be made to avoid this type of allergic reaction.",
+  "publication_date": "2025-05-01",
+  "journal": "Allergologia et immunopathologia",
+  "doi": "10.15586/aei.v53i3.1282",
+  "entities": {
+    "POLYPHENOL": [
+      "recordings",
+      "specific ige",
+      "suspected food and drug allergy",
+      "the technical sheet"
+    ]
+  }
+}

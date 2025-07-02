@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "ZnO NPs: A Nanomaterial-Based Fertilizer That Significantly Enhanced Salt Tolerance ofGlycyrrhiza uralensisFisch and Improved the Yield and Quality of Its Root.",
+  "abstract": "Glycyrrhiza uralensisFisch. is an important economic plant. With its wild populations on the brink of extinction and the area of salinized soil increasing sharply, farmers have gradually used saline soil to carry out artificial cultivation of the licorice. However, the salt stress has led to a significant decrease in the yield and quality of its medicinal organ (root), seriously restricting the sustainable development of the licorice industry. Therefore, we investigated zinc oxide nanoparticles (ZnO NPs) as a nano-fertilizer to enhance root biomass and bioactive compound accumulation under salinity. Our results indicate that under 160 mM NaCl stress, the application of 30 mg/kg ZnO NPs increased the root biomass of the licorice and the contents of glycyrrhizic acid, glycyrrhizin, and total flavonoids in the roots by 182%, 158%, 87%, and 201%, respectively. And the ZnO treatment made the enzyme activities of SOD, CAT, and POD exhibit increase, and made the levels of superoxide anions, electrolyte leakage, soluble sugar, and proline reduce. These results demonstrate that ZnO NPs not only enhance salt tolerance but also redirect metabolic resources toward medicinal compound biosynthesis. Our findings provide a mechanistic basis for utilizing nanotechnology to sustainably cultivate the licorice in marginal saline environments, bridging agricultural productivity and pharmacological value.",
+  "publication_date": "2025-06-09",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14121763",
+  "entities": {
+    "POLYPHENOL": [
+      "a mechanistic basis",
+      "a significant decrease",
+      "an important economic plant",
+      "electrolyte leakage",
+      "nanotechnology",
+      "total flavonoids"
+    ],
+    "SYMPTOM": [
+      "160 mm nacl stress",
+      "the salt stress"
+    ]
+  }
+}

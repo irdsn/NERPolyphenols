@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Modulation of GLP-1 signalling as an innovative strategy counteracting the onset of heart failure: Potential for natural compound supplementation.",
+  "abstract": "The clinical continuum of heart failure (HF) is commonly divided into four stages (A, B, C and D), but despite the identification of its staging, to date, the management of the early phases remains an unmet need. In fact, the incomplete knowledge of the molecular mechanisms associated with the comorbidities leading to HF onset represents an obstacle to a targeted therapy. Recently, stages A and B have been further typified and, starting from this novel characterization, the aim of our review was to propose an alternative criterion to appropriately use GLP-1 RA in association with plant-derived polyphenolic extracts. This alternative approach is based on the selection of the main molecular mechanisms underlying the early and asymptomatic HF onset that might be further prevented or antagonized through the administration of natural extracts.",
+  "publication_date": "2025-04-21",
+  "journal": "Pharmacological research",
+  "doi": "10.1016/j.phrs.2025.107744",
+  "entities": {
+    "SYMPTOM": [
+      "heart failure",
+      "its staging"
+    ],
+    "POLYPHENOL": [
+      "plant-derived polyphenolic extracts",
+      "the main molecular mechanisms",
+      "the molecular mechanisms",
+      "the selection"
+    ]
+  }
+}

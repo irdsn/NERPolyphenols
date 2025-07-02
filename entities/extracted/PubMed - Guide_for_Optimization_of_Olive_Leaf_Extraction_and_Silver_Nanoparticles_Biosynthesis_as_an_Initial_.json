@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Guide for Optimization of Olive Leaf Extraction and Silver Nanoparticles Biosynthesis as an Initial Step for Pilot Plant Design.",
+  "abstract": "This account presents the results of two successful optimization processes. First, a polyphenol-rich aqueous olive extract was obtained and then silver nanoparticles (AgNPs) synthesized with high efficiency. Selected parameters for both processes were optimized based on the procedure of the Box-Behnken multifactorial design. The independent variables in the extraction process were the biomass/water ratio, temperature, and time. For AgNPs synthesis, the independent variables were the volume of olive extract, temperature, and process duration. The relationship between the process parameters was visualized graphically by using the response surface methodology. A high fit of the experimental data with the predicted models was shown. The regression coefficients were high, 0.9936 for extraction and 0.9757 for AgNPs biosynthesis. The extraction efficiency under its optimal conditions was as follows: biomass/solvent ratio 0.016, temperature 80 \u00b0C for 80 min, and yield 160.67 [\u03bcg GAE (gallic acid equivalent)/mL]. The highest yield of AgNPs synthesis, equal to 1.955, was obtained when it was carried out for 50 min at 75 \u00b0C with the application of 11 mL of extract. Studies on the AgNPs suspension's stability depending on the extract amount were demonstrated. A physicochemical analysis using dynamic light scattering, transmission electron microscopy images, and Fourier transform infrared spectroscopy for AgNPs obtained under optimal conditions was shown. Finally, a pilot-scale biosynthesis of AgNPs was designed.",
+  "publication_date": "2024-06-17",
+  "journal": "ACS omega",
+  "doi": "10.1021/acsomega.4c04483",
+  "entities": {
+    "POLYPHENOL": [
+      "[\u03bcg gae (gallic acid equivalent)/ml",
+      "a polyphenol-rich aqueous olive extract",
+      "infrared spectroscopy",
+      "selected parameters",
+      "transmission electron microscopy images"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Targeting tumor-associated macrophage polarization with traditional Chinese medicine active ingredients: Dual reversal of chemoresistance and immunosuppression in tumor microenvironment.",
+  "abstract": "Chemotherapy resistance and immunosuppression are major causes of tumor treatment failure. The polarization state of tumor-associated macrophages (TAMs) is a central regulatory hub for both processes. Traditional Chinese medicine (TCM) has the characteristics of multi-component, multi-target, and multi-pathway. It regulating M1/M2 polarization is promising due to the high plasticity of TAMs. This review comprehensively explores the anti-tumor effects of TCM active components through multiple targets such as metabolic reprogramming. The mechanism includes regulating TAM's polarization, reversing chemotherapy resistance, and modulating immunosuppression. Furthermore, we also summarize the synergistic effects of TCM multi-component and the exploration of mechanisms promoted by new technologies. While most studies are still in the preclinical stage, these insights highlight the potential of TCM as a cancer treatment and highlight avenues for future research and clinical application to improve patient outcomes.",
+  "publication_date": "2025-05-23",
+  "journal": "Pharmacological research",
+  "doi": "10.1016/j.phrs.2025.107788",
+  "entities": {
+    "POLYPHENOL": [
+      "mechanisms",
+      "new technologies",
+      "the anti-tumor effects",
+      "the mechanism",
+      "the preclinical stage",
+      "the synergistic effects"
+    ],
+    "SYMPTOM": [
+      "a cancer treatment"
+    ]
+  }
+}

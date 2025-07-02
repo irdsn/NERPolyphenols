@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Bioactive Compounds From Rosa canina L. Roots With Anti-Collagenase, Anti-Tyrosinase, and Antioxidant Activities: In Vitro and In Silico Approaches.",
+  "abstract": "The study aimed to investigate the anti-aging, skin-whitening, and antioxidant capacities of the extracts and constituents from the roots of Rosa canina L. by anti-collagenase, anti-tyrosinase activity, ferric-reducing antioxidant power (FRAP), cupric-reducing antioxidant capacity (CUPRAC) assays, and the Folin-Ciocalteu method (for the extracts). Enzyme inhibitory activities, pharmacokinetics, and drug-likeness properties of the compounds were evaluated in silico. According to the results of activity studies, the ethyl acetate subextract exhibited the highest anti-tyrosinase activity, and the remaining aqueous subextract demonstrated the highest anti-collagenase activity. The isolation studies led to the purification of euscaphic acid (1), tormentic acid (2), kaji-ichigoside F1 (3), rosamultin (4), 2-oxopomolic acid (5), and (+)-catechin (6) for the first time from the roots of this plant. Isolated compounds exhibited anti-collagenase and anti-tyrosinase activities. The extracts and (+)-catechin had higher antioxidant capacities than other compounds. R. canina roots and their compounds can be included in dermocosmetic products after further studies.",
+  "publication_date": "2025-06-13",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202500357",
+  "entities": {
+    "SYMPTOM": [
+      "the anti-aging, skin-whitening"
+    ],
+    "POLYPHENOL": [
+      "(+)-catechin"
+    ]
+  }
+}

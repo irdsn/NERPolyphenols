@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Integrating mass defect filtering and targeted molecular networking for foodomics research: A case study of Magnolia officinalis cortex.",
+  "abstract": "Mass spectrometry (MS)-based foodomics is widely used to tackle complex challenges in food science, although its effectiveness is often hampered by extensive data redundancy. To address this limitation, a novel MS-based foodomics strategy, integrating mass defect filtering and targeted molecular networking (IMDFTMN), was developed and applied to Magnolia Officinalis Cortex (MOC). By minimizing redundant information, more concise and streamlined molecular networks were produced, thereby enhancing the efficiency of compound annotation. In this study, 167 characteristic compounds, including phenylpropanoid glycosides, phenolic glycosides, lignans, and alkaloids, were identified from 44 batches of MOC. These batches, obtained from various regions, were grouped into two distinct clusters based on 25 differential markers. The practical utility of these markers was validated through a support vector machine model, which accurately classified the 44 MOC batches according to geographic origin. This process not only improved grouping accuracy in foodomics analyses but also enabled the precise identification of key differential markers. In conclusion, this innovative strategy not only deepened our comprehension of the chemical profile characteristics of MOC across various regions, facilitating further studies on quality consistency and efficacy, but also provided significant insights for addressing critical issues in food science, such as food composition analysis, adulteration detection, variety identification, and origin tracing.",
+  "publication_date": "2025-04-18",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116441",
+  "entities": {
+    "POLYPHENOL": [
+      "a support vector machine model",
+      "adulteration detection",
+      "its effectiveness",
+      "mass defect filtering",
+      "molecular networking",
+      "streamlined molecular networks",
+      "the precise identification"
+    ]
+  }
+}

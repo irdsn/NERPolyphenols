@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Mid-infrared spectroscopic identification of the right-fermented Baiyaojian for pulmonary inflammation therapy.",
+  "abstract": "Baiyaojian is a product co-fermented from Chinese gallnut, tea leaves, and distillers' grains. Baiyaojian shows a significant therapeutic effect in the treatment of pulmonary inflammation. In the process of fermentation, the content of components in Baiyaojian changes all the time, resulting in different anti-inflammatory effects. As a fermentation drug, the time of fermentation plays a decisive role in the efficacy and quality standards of Baiyaojian. Therefore, the determination of the right endpoint of the fermentation time is the primary quality standard for the fermentation of Baiyaojian. In this study, the best fermentation time of Baiyaojian was determined by mid-infrared (MIR) spectroscopy and high-performance liquid chromatography (HPLC), combined with the in vitro anti-inflammatory effect of Baiyaojian. MIR spectra showed that organic compounds such as tannins were gradually decomposed into gallic acid during fermentation, and Baiyaojian with different fermentation days could be clearly distinguished in the PCA score map of MIR; HPLC showed that tannins and gallic acid derivatives were decomposed during fermentation, and the content of gallic acid continued to increase; Cell activity, NO, ROS, inflammatory factors and mRNA expression levels of inflammatory factors clearly showed that with the increase of fermentation days, the anti-inflammatory effect of Baiyaojian was significantly improved, which means Baiyaojian has a good prospect in the treatment of respiratory diseases. Meanwhile, MIR spectroscopy can identify the right-fermented Baiyaojian simply and rapidly.",
+  "publication_date": "2025-05-22",
+  "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+  "doi": "10.1016/j.saa.2025.126460",
+  "entities": {
+    "POLYPHENOL": [
+      "-infrared (mir) spectroscopy and high-performance liquid chromatography",
+      "a decisive role",
+      "a good prospect",
+      "a significant therapeutic effect",
+      "different anti-inflammatory effects",
+      "gallic acid",
+      "gallic acid derivatives",
+      "mir spectra",
+      "mir spectroscopy",
+      "tannins",
+      "the anti-inflammatory effect",
+      "the in vitro anti-inflammatory effect"
+    ],
+    "SYMPTOM": [
+      "pulmonary inflammation"
+    ]
+  }
+}

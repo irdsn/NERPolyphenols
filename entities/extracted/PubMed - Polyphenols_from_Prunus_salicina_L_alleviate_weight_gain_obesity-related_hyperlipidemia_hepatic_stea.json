@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Polyphenols from Prunus salicina L. alleviate weight gain, obesity-related hyperlipidemia, hepatic steatosis, hyperglycemia, and modulate gut microbiota in mice fed a high-fat diet.",
+  "abstract": "Hyperlipidemia, hepatic steatosis, and hyperglycemia are prevalent metabolic disorders closely linked to obesity. The objective of this research was to examine the potential advantageous impacts of polyphenols extracted from Prunus salicina L. fruit (PSFP) on hyperlipidemia, hepatic steatosis, and hyperglycemia induced by a high-fat diet (HFD), as well as to elucidate the underlying mechanisms involved. Male C57BL/6J mice, free from specific pathogens, were assigned randomly into three groups. These groups were then subjected to a 14-week dietary intervention, including a low-fat diet, an HFD, or an HFD plus with PSFP via intragastric administration. The obesity-related biochemical indexes were evaluated. To assess alterations in gut microbiota resulting from PSFP treatment, 16S rRNA sequencing was performed. UPLC-ESI-MS/MS assay identified 162 distinct polyphenolic compounds in PSFP. The administration of PSFP significantly reduced both body weight gain and hyperlipidemia induced by HFD. In addition, PSFP ameliorated hepatic steatosis induced by HFD and enhanced liver function in mice. PSFP treatment also ameliorated HFD-induced insulin resistance and hyperglycemia, evidenced by the observed decrease in fasting serum concentrations of glucose and insulin, improved insulin sensitivity, and restored glucose tolerance. Moreover, PSFP modulated the composition and abundance of specific microbial genus, including Lachnospiraceae NK4A136 group, Akkermansia, Parabacteroides, Enterococcus, Adlercreutzia, and Roseburia. Correlation analysis indicated significant associations between gut microbiota and physiological indices associated with obesity. These findings suggested that PSFP supplementation ameliorated HFD-induced hyperlipidemia, hepatic steatosis, and hyperglycemia, potentially through modulating the gut microbiota composition and abundance of specific taxa.",
+  "publication_date": "2024-11-05",
+  "journal": "Nutrition research (New York, N.Y.)",
+  "doi": "10.1016/j.nutres.2024.11.001",
+  "entities": {
+    "SYMPTOM": [
+      "hepatic steatosis",
+      "hfd-induced hyperlipidemia",
+      "hfd-induced insulin resistance",
+      "hyperglycemia",
+      "hyperlipidemia",
+      "obesity",
+      "the obesity-related biochemical indexes"
+    ],
+    "POLYPHENOL": [
+      "162 distinct polyphenolic compounds",
+      "polyphenols",
+      "specific microbial genus",
+      "specific pathogens",
+      "specific taxa",
+      "the objective",
+      "the observed decrease",
+      "the underlying mechanisms"
+    ]
+  }
+}

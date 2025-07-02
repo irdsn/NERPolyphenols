@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Aragezolone, a Novel Purple-Pink Pigment with a Unique Structure and Healthy Benefits from the Edible MushroomAuricularia cornea.",
+  "abstract": "Auricularia corneais an edible mushroom commonly known as \"Aragekikurage\" in Japan. AlthoughA. corneaphenotypically resemblesA. auricula-judae, they are genetically different. We found a purple to pink pigment in the fruiting body ofA. corneaspecifically and elucidated its chemical structure. The novel pigment, aragezolone, contains isoindole and isoxazolone, both of which are rare subunits in natural products. The color of the solution of aragezolone changed depending on the pH, from pink at pH 3.0 to blue-purple at pH 12.0. It was stable under light conditions; however, it degraded less than half under heating at 121 \u00b0C for 45 min. Aragezolone exhibited stronger antioxidative, antiglycation, and anti-\u03b1-glucosidase activities than rutin. Further studies are warranted to reveal its fundamental characteristics as a food ingredient, although its remarkable color stability and diverse bioactive properties underscore its potential as a novel natural food colorant.",
+  "publication_date": "2025-06-30",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c04488",
+  "entities": {
+    "POLYPHENOL": [
+      "the fruiting body ofa. corneaspecifically"
+    ]
+  }
+}

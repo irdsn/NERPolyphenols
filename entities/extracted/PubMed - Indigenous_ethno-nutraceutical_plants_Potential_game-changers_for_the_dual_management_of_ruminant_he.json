@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Indigenous ethno-nutraceutical plants: Potential game-changers for the dual management of ruminant helminths and undernutrition in sub-saharan africa.",
+  "abstract": "Ruminant productivity in sub-Saharan Africa (SSA) remains low largely due to helminth infections coupled with undernutrition. To jointly boost ruminant health and nutritional status, rural farmers in SSA often resort to indigenous ethno-nutraceutical plants (iENPs), which form part of folkloric practices perceived to be more accessible, affordable and effective compared with chemotherapy which is challenged by helminth resistance. However, these perceived advantages are largely unsubstantiated.",
+  "publication_date": "2025-06-04",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.120077",
+  "entities": {
+    "POLYPHENOL": [
+      "helminth infections"
+    ],
+    "FOOD": [
+      "helminth resistance"
+    ]
+  }
+}

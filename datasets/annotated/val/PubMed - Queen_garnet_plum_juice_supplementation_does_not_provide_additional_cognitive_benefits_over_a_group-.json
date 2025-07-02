@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Queen garnet plum juice supplementation does not provide additional cognitive benefits over a group-based memory program in older adults with mild cognitive impairment: A randomized clinical trial.",
+  "abstract": "Research suggests a role for inflammation and oxidative stress in mild cognitive impairment (MCI) and its progression. Evidence suggests anthocyanin-rich foods may reduce inflammation and oxidative stress and improve cognition but benefits in MCI are unclear. Therefore, it was hypothesized that daily consumption of anthocyanin-rich Queen Garnet Plum (QGP) juice would improve cognition, mood and blood pressure in people with MCI. Participants diagnosed with MCI (N = 42) participated in a double-blind, randomized controlled trial. Participants were administered either QGP juice or apricot juice (comparator) daily for 8-weeks and participated in a 6-week group-based memory program. Cognitive function was assessed using a battery of cognitive tests, including the Rey Auditory Verbal Learning Test (RAVLT), Complex Figure Test (CFT), Royal Prince Alfred-Prospective Memory Test (RPA-ProMem), and Comprehensive Assessment of Prospective Memory self-report (CAPM-self). Mood and blood pressure were also measured pre- and post-intervention. There was a significant effect of TIME for total RAVLT (P = .028, \u03b72= .12), CFT-recall (P = .036, \u03b72= .11), RPA-ProMem (P < .001, \u03b72= .28), and CAPM-self (P = .007, \u03b72= .22) scores. There was a non-significant trend towards an interaction for CFT-recall (p = .063, \u03b72= .09), where Bonferroni adjusted pairwise comparisons showed that the QGP group, but not comparators, had significantly improved CFT-recall scores (QGP: +13.93%, P = .007; comparators: +0.84%, P = .855). Overall, QGP consumption during a group-based memory rehabilitation program did not result in additional cognitive benefits in older adults with MCI. This trial was registered at the Australian New Zealand Clinical Trials Registry as ACTRN12618001184268.",
+  "publication_date": "2025-04-14",
+  "journal": "Nutrition research (New York, N.Y.)",
+  "doi": "10.1016/j.nutres.2025.04.006",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ],
+    "FOOD": [
+      "anthocyanin-rich queen garnet plum (qgp) juice",
+      "apricot juice",
+      "complex figure test",
+      "either qgp juice"
+    ],
+    "POLYPHENOL": [
+      "a significant effect",
+      "cft-recall",
+      "cft-recall scores",
+      "prospective memory self-report",
+      "royal prince alfred-prospective memory test"
+    ]
+  }
+}

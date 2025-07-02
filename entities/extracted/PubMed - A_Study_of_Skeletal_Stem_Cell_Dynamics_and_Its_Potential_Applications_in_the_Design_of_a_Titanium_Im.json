@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "A Study of Skeletal Stem Cell Dynamics and Its Potential Applications in the Design of a Titanium Implant for Senile Osteoporosis.",
+  "abstract": "Traditional biomaterial design often prioritizes empirical knowledge over disease mechanisms and pathological dynamics, resulting in imprecise solutions in complex clinical conditions. Age-related osteoporosis (A-OP) is a disease associated with aging, characterized by a dysfunctional pathological microenvironment that hinders the osseointegration of conventional titanium implants. To develop a targeted titanium implant for A-OP, rat single-cell transcriptomics is integrated with human serum-derived transcriptome data to investigate dynamic changes in skeletal stem cells (SSCs) during aging, which guided the implant design. These findings reveal that hematopoietic stem cells (HSCs) and mesenchymal stem cells (MSCs) within SSCs interact via a feedback loop: HSCs undergo premature senescence, leading to depletion of HSCs and secondary senescence of MSCs. Senescent MSCs exhibit adipogenic bias, perpetuating the pathological cycle of A-OP. Using core genes identified in the transcriptome analyses, resveratrol is selected and utilized it and a GelMA-chitosan hydrogel to decorate titanium implants for localized delivery. In the A-OP microenvironment, the hydrogel enables sustained responsive release of resveratrol, which reverses MSC senescence and redirects differentiation from adipogenic to osteogenic lineages, thereby breaking the pathological cycle. This multi-omics-driven implant design enhances precision and offers a novel methodology for biomaterial development.",
+  "publication_date": "2025-06-19",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "doi": "10.1002/advs.202506982",
+  "entities": {
+    "POLYPHENOL": [
+      "disease mechanisms",
+      "imprecise solutions",
+      "precision",
+      "resveratrol",
+      "secondary senescence"
+    ],
+    "SYMPTOM": [
+      "age-related osteoporosis",
+      "aging"
+    ]
+  }
+}

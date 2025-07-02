@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Multi-miRNAs-Mediated Hepatic Lepr Axis Suppression: A Pparg-Dicer1 Pathway-Driven Mechanism in Spermatogenesis for the Intergenerational Transmission of Paternal Metabolic Syndrome.",
+  "abstract": "Bisphenol A (BPA) is an \"environmental obesogen\" and this study aims to investigate the intergenerational impacts of BPA-induced metabolic syndrome (MetS), specifically focusing on unraveling mechanisms. Exposure to BPA induces metabolic disorders in the paternal mice, which are then transmitted to offspring, leading to late-onset MetS. Mechanistically, BPA upregulates Srebf1, which in turn promotes the Pparg-dependent transcription of Dicer1 in spermatocytes, increasing the levels of multiple sperm microRNAs (miRNAs). Several of these miRNAs are highly expressed in a synchronized manner in liver of the offspring. miR149-5p, miR150-5p, and miR700-5p target a specific region in the Lepr 3'UTR, termed \"SMITE\" (\"Several MiRNAs Targeting Elements\"), to negatively regulate Lepr. These inherited anti-Lepr miRNAs, also referred to inherited anti-Lepr miRNAs (IAL-miRs), modulate hepatic steatosis, and insulin signaling through the Lepr regulatory Igfbp2, Egfr, and Ampk. Furthermore, IAL-miRs inhibit Ccnd1 not only via binding to \"SMITE\" but also via Lepr-Igfbp2 axis, which contribute to hepatocyte senescence. These pathological processes interact in a self-reinforcing cycle, worsening MetS in the paternal BPA-exposed offspring. The findings reveal mechanism wherein lipid metabolism reprogramming in spermatocytes-induced perturbations of sperm miRNAs, triggered by BPA, leads to intergenerational inheritance of paternal MetS through suppression of the hepatic Lepr axis in the offspring.",
+  "publication_date": "2025-01-10",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "doi": "10.1002/advs.202410831"
+}

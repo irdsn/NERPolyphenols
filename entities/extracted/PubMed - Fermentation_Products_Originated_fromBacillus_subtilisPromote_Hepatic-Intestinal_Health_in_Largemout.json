@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Fermentation Products Originated fromBacillus subtilisPromote Hepatic-Intestinal Health in Largemouth Bass,Micropterus salmoides.",
+  "abstract": "The fermentation product FP-WeiGuangSu is regarded as a novel, green and efficient antibiotic substitute. Such products constitute one of the principal strategies for addressing bacterial diseases in aquaculture in the future. This study investigates the effects of FPs derived fromBacillus subtilison the antioxidant capacity and gut microbiota of Largemouth Bass (Micropterus salmoides). Experimental diets containing 0, 1%, 3% and 5% FPs (Control, H1, H2 and H3) were fed toM. salmoides. Although short-term administration of FPs exerted no significant influence on the growth performance of Largemouth Bass, serological findings demonstrated that supplementation with FPs decreased the contents of the liver injury markers ALT, AST and AKP, along with liver MDA content, and enhanced antioxidant capacity (SOD, CAT and GSH-px). Notably, the addition of 1% FPs significantly improved the systemic antioxidant performance (SOD, CAT, GSH-px and T-AOC). Moreover, the FP supplementation increased the expression levels ofil-10andIgM, and lipolysis-related genes. The results of gut microbiota analysis revealed that FPs significantly altered the diversity and structure of gut microbiota. The LEfSe results indicated that the microbial marker of the control group wasCetobacterium, those of the H1 group wereBacillusandMycoplasma, those of the H2 group wereAcinetobacter,Paenibacillusand g_unclassified_Rhizobiaceae, and that of the H3 group wasEnterococcus. The most significant microbial marker upon the addition of FPs wasPaenibacillus, and the pathways for biosynthesis of secondary metabolites, biosynthesis of antibiotics, and biosynthesis of amino acids were significantly activated. The Bugbase analysis results suggested that, compared with the control group, the abundance of anaerobic bacteria in the FP group decreased, while the abundance of microorganisms with mobile-element-containing and oxidative-stress-tolerant phenotypes increased. Hence, this study demonstrated that 1-3% FP dietary supplementation can be used to enhance antioxidant ability, and liver and intestine health ofM. salmoidesin the aquaculture industry and can be regarded as a promising feed additive in aquaculture.",
+  "publication_date": "2025-06-02",
+  "journal": "Biology",
+  "doi": "10.3390/biology14060646",
+  "entities": {
+    "POLYPHENOL": [
+      "secondary metabolites",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "mobile-element-containing and oxidative-stress-tolerant phenotypes",
+      "the liver injury markers alt"
+    ]
+  }
+}

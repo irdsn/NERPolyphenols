@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Enhancing stability and antioxidant activity of lyophilized guar gum-coated neohesperidin-loaded nano-nutriosomes in functional dairy beverages.",
+  "abstract": "Neohesperidin (NH) is among the most promising flavonoids, but its use in functional foods, particularly beverages, is limited due to its low water solubility, instability, and biological activity. A new freeze-dried guar gum-coated nano-nutriosomes (FD-GG-NS) has demonstrated significant potential in addressing these issues. The objective of this work was to create and evaluate novel freeze-dried guar gum-coated nano-nutriosomes that would increase the physicochemical stability and antioxidant activity of NH in dairy-based beverages. The findings displayed that NH was successfully encapsulated in freeze-dried NS and GG-NH-NS, with good encapsulation efficacy (>94.64\u202f%) and particle sizes ranging from 152.47\u202f\u00b1\u202f1.74 to 194.63\u202f\u00b1\u202f0.44\u202fnm within an acceptable range PDI (<0.3). In addition, the FD-NH-NS had more stability in 10\u202fmM NaCl and hydrophilic conditions during the storage period. Firstly, 0.4\u202f% was determined to be the ideal concentration due to better stability and dietary fiber content. The FD-GG-NH-NS in dairy beverages enhanced the color, turbidity, \u03b6-potential, and sensory aspects, while decreasing viscosity and acidity with better antioxidant activity during the storage period, and better-controlled release of NH in SGF and SIF conditions. Therefore, incorporating NH into functional dairy drinks via guar gum-coated nano-nutriosomes has numerous applications in the food industry.",
+  "publication_date": "2025-06-17",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145193",
+  "entities": {
+    "POLYPHENOL": [
+      "sensory aspects",
+      "the most promising flavonoids",
+      "the objective"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

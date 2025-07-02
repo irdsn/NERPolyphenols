@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Danggui Buxue Decoction Combined with Borneol Improves Cyclophosphamide-Induced Myelosuppression by Inhibiting CDK2.",
+  "abstract": "Objective:The purpose of this study is to explore the effective components and molecular targets of Danggui Buxue decoction (DBD) combined with borneol (DBD&Bor) in alleviating myelosuppression.Methods:A network pharmacology strategy was used to identify the active components and key targets of DBD&Bor in the context of myelosuppression.In vivo, the effects of the DBD&Bor and its effective components on cyclophosphamide (CTX)-induced myelosuppression in rats were evaluated through immunohematological analysis, histopathological analysis, and organ index analysis.In vitro, the impact of the effective components of DBD&Bor on CTX-stimulated apoptosis and cell cycle of K562 cells was analyzed using flow cytometry. Finally, the recovery experiment was used to verify further the relationship between the effective ingredient and the target.Results:Network pharmacology and ultrahigh-performance liquid chromatography-tandem mass spectrometry analysis revealed that the principal components, catechin, isorhamnetin, and erythrodiol, in DBD&Bor may function as a prospective antimyelosuppression compound. Animal experiments demonstrated that in DBD&Bor, catechin and isorhamnetin could reverse the reduction in hematopoietic stem cell number, the production of stem cell marker (C-kit), and blood cell counts induced by CTX in rats. In addition, CD3, CD4, and CD8\u03b1 are significantly increased in peripheral blood mononuclear cells, and thymic and splenic pathological damage is significantly attenuated. Also, the improvement effect of catechin was more noticeable. Therefore, the authors chose catechin for further study. Nevertheless,in\u00a0vivo, overexpression ofCDK2negated the beneficial effects of catechin on myelosuppression.In vitroexperiments demonstrated that catechin reduced CTX-induced apoptosis and cell cycle arrest in K562 cells by inhibitingCDK2.Conclusion:The primary component catechin in DBD&Bor inhibits the expression ofCDK2, improving CTX-induced myelosuppression in rats and inhibiting apoptosis and cell cycle arrest in K562 cells.",
+  "publication_date": "2025-06-16",
+  "journal": "Cancer biotherapy & radiopharmaceuticals",
+  "doi": "10.1089/cbr.2024.0207",
+  "entities": {
+    "POLYPHENOL": [
+      "a prospective antimyelosuppression compound",
+      "catechin",
+      "danggui buxue decoction",
+      "isorhamnetin",
+      "its effective components",
+      "molecular targets",
+      "network pharmacology and ultrahigh-performance liquid chromatography-tandem mass spectrometry analysis",
+      "objective",
+      "the beneficial effects",
+      "the effective components",
+      "the effective ingredient",
+      "the effects",
+      "the improvement effect",
+      "the primary component catechin",
+      "the recovery experiment"
+    ],
+    "SYMPTOM": [
+      "apoptosis and cell cycle arrest",
+      "ctx-induced apoptosis and cell cycle arrest",
+      "ctx-stimulated apoptosis and cell cycle"
+    ]
+  }
+}

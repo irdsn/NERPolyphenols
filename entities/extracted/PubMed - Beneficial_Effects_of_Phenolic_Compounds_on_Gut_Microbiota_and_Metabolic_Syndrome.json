@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Beneficial Effects of Phenolic Compounds on Gut Microbiota and Metabolic Syndrome.",
+  "abstract": "The human intestine contains an intricate community of microorganisms, referred to as the gut microbiota (GM), which plays a pivotal role in host homeostasis. Multiple factors could interfere with this delicate balance, including genetics, age, medicines and environmental factors, particularly diet. Growing evidence supports the involvement of GM dysbiosis in gastrointestinal (GI) and extraintestinal metabolic diseases. The beneficial effects of dietary polyphenols in preventing metabolic diseases have been subjected to intense investigation over the last twenty years. As our understanding of the role of the gut microbiota advances and our knowledge of the antioxidant and anti-inflammatory functions of polyphenols accumulates, there emerges a need to examine the prebiotic role of dietary polyphenols. This review firstly overviews the importance of the GM in health and disease and then reviews the role of dietary polyphenols on the modulation of the gut microbiota, their metabolites and how they impact on host health benefits. Inter-dependence between the gut microbiota and polyphenol metabolites and the vital balance between the two in maintaining the host gut homeostasis are also discussed.",
+  "publication_date": "2021-04-02",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms22073715",
+  "entities": {
+    "POLYPHENOL": [
+      "dietary polyphenols",
+      "polyphenol",
+      "polyphenols accumulates",
+      "the beneficial effects"
+    ]
+  }
+}

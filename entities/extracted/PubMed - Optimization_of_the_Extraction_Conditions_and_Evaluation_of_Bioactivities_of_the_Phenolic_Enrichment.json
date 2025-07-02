@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Optimization of the Extraction Conditions and Evaluation of Bioactivities of the Phenolic Enrichment FromPandanus amaryllifoliusLeaves.",
+  "abstract": "This study investigates the optimal conditions to enrich the phenolic content of the extract fromPandanus amaryllifoliusleaves and evaluates the bioactivities of this enrichment. The phenolic enrichment was prepared under optimized conditions using the response surface methodology (RSM) with the Box-Behnken design. The antioxidant properties were assessed using DPPH and hydroxyl radical scavenging assays, while the NO production inhibition was measured in LPS-stimulated RAW 264.7 macrophage cells. Results indicated that the phenolic enrichment showed potent antioxidant activity comparable to ascorbic acid and catechin and significantly higher NO inhibition than the separated nonalkaloid and alkaloid fractions. The study also highlights the synergistic effect of phenolic and alkaloid compounds on the antioxidants and anti-inflammatory activities of the phenolic enrichment fromPandanus amaryllifoliusleaves.",
+  "publication_date": "2025-05-07",
+  "journal": "Journal of analytical methods in chemistry",
+  "doi": "10.1155/jamc/5256388",
+  "entities": {
+    "POLYPHENOL": [
+      "catechin",
+      "the synergistic effect"
+    ]
+  }
+}

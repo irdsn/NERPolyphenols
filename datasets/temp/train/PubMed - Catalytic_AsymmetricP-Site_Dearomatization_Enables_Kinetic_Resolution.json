@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Catalytic AsymmetricP-Site Dearomatization Enables Kinetic Resolution.",
+  "abstract": "Dearomatization of planar aromatics offers unparalleled opportunities for the construction of three-dimensional stereochemical frameworks. However, the inherent instability of dearomatized intermediates, particularly bearing labile C(sp3)-heteroatom bonds, has hindered progress due to competing rearomatization pathways. By capitalizing on arene dearomatization and transforming the rearomatization predicament into a new opportunity, we herein present a stability-driven catalytic asymmetric dearomatization/rearomatization (CADA/RA) cooperative strategy to resolve racemicP-stereogenic compounds. Through the systematic engineering of phenolic substrates, bench-stableP-site dearomatized products with dual C(sp3)-P and C(sp3)-Cl bonds were isolated. Chiral Lewis acid catalysis enabled kinetic resolution (KR) and parallel kinetic resolution (PKR), achieving full enantiomeric separation with exceptional stereocontrol across diverse substrates. Mechanistic analysis revealed competing substrate- and catalyst-controlled pathways for stereochemical precision. Postsynthetic chemoselectiveCl- orP-liberation furnished enantioenrichedP-chiral compounds. This method transforms the challenges of dearomatization and rearomatization into opportunities for stereochemical complexity generation, offering a robust platform to synthesizeP-chiral building blocks and ligand precursors.",
+  "publication_date": "2025-06-20",
+  "journal": "Journal of the American Chemical Society",
+  "doi": "10.1021/jacs.5c07259"
+}

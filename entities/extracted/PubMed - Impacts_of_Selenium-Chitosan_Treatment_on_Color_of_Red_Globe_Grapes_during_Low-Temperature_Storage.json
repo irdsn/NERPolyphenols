@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Impacts of Selenium-Chitosan Treatment on Color of \"Red Globe\" Grapes during Low-Temperature Storage.",
+  "abstract": "Maintaining the vibrant color of fruit is a longstanding challenge in fruit and vegetable preservation. Chitosan and selenium, known for their protective and antioxidant properties, have been applied to preserve these produce. This study aimed to investigate the influence of selenium-chitosan treatment (comprising 25 mg L-1selenium and 1.0% chitosan) on the color of \"Red Globe\" grapes and to analyze the relative expression of genes associated with anthocyanin synthesis enzymes (VvCHS,VvCHI,VvF3H,VvF3'H,VvF3'5'H,VvDFR,VvLDOX,VvUFGT,VvOMT,Vv5GT, andVvGST) using RT-qPCR. Our goal was to uncover the regulatory mechanisms governing grape color. Comparing various treatments, we observed that selenium-chitosan treatment had a significant effect in reducing decay, maintaining the soluble solids content of grape flesh, and preserving the vivid color of grape. This research indicated that selenium-chitosan treatment slowed down browning and prevented the reduction in total phenolic, flavonoids, and anthocyanin in the grape. Moreover, gene expression analysis revealed that selenium-chitosan treatment increased the expression ofVvCHS,VvF3H,VvF'3'H,VvLDOX, andVv5GT, while also stabilized the expression ofVvCHI,VvF3'H, andVvDFRin grape skins. These findings shed light on the potential mechanism by which selenium-chitosan impacts grape color. This study established a theoretical foundation for investigating the molecular mechanisms behind selenium-chitosan's ability to slow down grape browning and provides a novel approach to enhancing fruit and vegetable preservation techniques.",
+  "publication_date": "2024-02-04",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13030499",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant effect",
+      "decay",
+      "fruit and vegetable preservation techniques",
+      "the molecular mechanisms",
+      "the potential mechanism",
+      "the regulatory mechanisms",
+      "their protective and antioxidant properties",
+      "total phenolic, flavonoids"
+    ],
+    "FOOD": [
+      "\"red globe\" grapes",
+      "andvvdfrin grape skins",
+      "grape",
+      "grape color",
+      "grape flesh",
+      "selenium-chitosan impacts grape color",
+      "the grape"
+    ]
+  }
+}

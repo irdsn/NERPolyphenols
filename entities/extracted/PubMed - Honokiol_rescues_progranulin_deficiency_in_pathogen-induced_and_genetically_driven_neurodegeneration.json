@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Honokiol rescues progranulin deficiency in pathogen-induced and genetically driven neurodegeneration: Bridging veterinary models with therapeutic development.",
+  "abstract": "Progranulin (PGRN), a crucial regulator of lysosomal function, is deficient in several neurodegenerative disorders. Restoring PGRN levels with small molecules presents a promising therapeutic strategy for these conditions. Honokiol (HNK), a polyphenolic compound known for its neuroprotective effects, has demonstrated potential in various neurodegenerative diseases (ND), though its precise mechanisms remain unclear. This study explores HNK's ability to upregulate PGRN expression in nerve cells and central nervous system tissues. Our results show that HNK enhances PGRN expression and lysosomal targeting in nerve cells, rescues PGRN deficiency in PHEV-infected models both in vitro and in vivo, and significantly increases brain PGRN levels in GRN haploinsufficient mice following oral administration. Collectively, these findings establish HNK's multimodal action as a promising therapeutic intervention for neurodegenerative conditions spanning both infectious (PHEV-mediated) and genetic (GRN-linked) etiologies of PGRN deficiency.",
+  "publication_date": "2025-06-23",
+  "journal": "Veterinary microbiology",
+  "doi": "10.1016/j.vetmic.2025.110616",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenolic compound",
+      "its neuroprotective effects",
+      "its precise mechanisms",
+      "phev-infected models",
+      "small molecules"
+    ]
+  }
+}

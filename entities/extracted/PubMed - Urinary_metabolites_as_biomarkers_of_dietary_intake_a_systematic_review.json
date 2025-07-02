@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Urinary metabolites as biomarkers of dietary intake: a systematic review.",
+  "abstract": "Current diet assessment tools, such as food frequency questionnaires, may result in misclassification bias from measurement error and misreporting. These limitations can be mitigated by diet-related biomarkers in urine specimens, an emerging approach to characterize dietary intake.",
+  "publication_date": "2025-05-15",
+  "journal": "Frontiers in nutrition",
+  "doi": "10.3389/fnut.2025.1596543",
+  "entities": {
+    "POLYPHENOL": [
+      "urine specimens"
+    ]
+  }
+}

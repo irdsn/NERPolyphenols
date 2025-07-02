@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Nutritional quality profiles of six microgreens.",
+  "abstract": "Globally, one in every four individuals faces a deficiency in essential micronutrients. Harvested early from various vegetables, grains, and herbs, microgreens have rich nutritional profiles that can mitigate nutrient deficiencies. Here, we analyzed six microgreens' nutritional profiles for broccoli, black radish, red beet, pea, sunflower, and bean. Ascorbic acid content varied widely, from 32.72\u00a0mg/100\u00a0g fresh weight (FW) in red beet to 80.45\u00a0mg/100\u00a0g FW in beans. All microgreens exhibited high macro elements (mg/100\u00a0g FW), with potassium ranging from 187.07 to 416.05, magnesium from 45.96 to 86.83, calcium from 67.18 to 148.63, and phosphorus from 2.57 to 4.88. They also contained significant microelements (\u00b5g/100\u00a0g FW), including iron from 524 to 2610, manganese from 176.32 to 350.56, zinc from 31.92 to 129.78, and copper from 458.84 to 956.34. Glucose content surpassed sucrose and fructose, ranging from 0.114 to 0.580\u00a0mg/100\u00a0g FW. Among organic acids, citric acid was highest in red beet, succinic acid in beans, and fumaric acid in sunflower. Broccoli microgreens had the highest total phenolic content (825.53\u00a0mg GA/100\u00a0g FW), while beans had the highest total flavonoid content (758.0\u00a0mg RU/100\u00a0g FW). Black radish microgreens demonstrated the highest antioxidant capacity. Additionally, volatile aromatic compounds were analyzed across the six microgreen species. These findings highlight the nutritional potential of microgreens, advocating for their inclusion in diets to enhance human health. Red beet microgreens were the richest in organic acids, particularly citric acid, and flavonoids, supporting antioxidant activity, while black radish microgreens exhibited the highest DPPH antioxidant capacity and phenolic content. Bean microgreens stood out for their high ascorbic acid content. Sunflower microgreens had the highest levels of calcium and fumaric acid. Broccoli microgreens were abundant in phenolic compounds and contained high concentrations of iron and manganese. Finally, pea microgreens excelled in phosphorus and copper content.",
+  "publication_date": "2025-02-20",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-85860-z",
+  "entities": {
+    "FOOD": [
+      "beans",
+      "black radish",
+      "black radish microgreens",
+      "broccoli",
+      "red beet",
+      "red beet microgreens"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "phenolic compounds",
+      "the highest total flavonoid content",
+      "the six microgreen species"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "New progress in the pharmacology of protocatechuic acid: A compound ingested in daily foods and herbs frequently and heavily.",
+  "abstract": "Protocatechuic acid is a natural phenolic acid, which widely exists in our daily diet and herbs. It is also one of the main metabolites of complex polyphenols, such as anthocyanins and proanthocyanins. In recent years, a large number of studies on the pharmacological activities of protocatechuic acid have emerged. Protocatechuic acid has a wide range of pharmacological activities including antioxidant, anti-inflammatory, neuroprotective, antibacterial, antiviral, anticancer, antiosteoporotic, analgesia, antiaging activties; protection from metabolic syndrome; and preservation of liver, kidneys, and reproductive functions. Pharmacokinetic studies showed that the absorption and elimination rate of protocatechuic acid are faster, with glucuronidation and sulfation being the major metabolic pathways. However, protocatechuic acid displays a dual-directional regulatory effect on some pharmacological activities. When the concentration is very high, it can inhibit cell proliferation and reduce survival rate. This review aims to comprehensively summarize the pharmacology, pharmacokinetics, and toxicity of protocatechuic acid with emphasis on its pharmacological activities discovered in recent 5 years, so as to provide more up-to-date and thorough information for the preclinical and clinical research of protocatechuic acid in the future. Moreover, it is hoped that the clinical application of protocatechuic acid can be broadened, giving full play to its characteristics of rich sources, low toxicity and wide pharmacological activites.",
+  "publication_date": "2020-07-30",
+  "journal": "Pharmacological research",
+  "doi": "10.1016/j.phrs.2020.105109",
+  "entities": {
+    "POLYPHENOL": [
+      "a dual-directional regulatory effect",
+      "complex polyphenols",
+      "protection",
+      "protocatechuic acid",
+      "recent 5 years",
+      "recent years",
+      "the preclinical and clinical research"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "The Light-RegulatedSsMYB106Transcription Factor Promotes Flavonoids inSpatholobus suberectus.",
+  "abstract": "Spatholobus suberectusDunn is rich in flavonoids, which were previously demonstrated to respond to changing light conditions. In this study, through weighted gene co-expression network analysis (WGCNA),MYBgenes were screened as the potential regulator for these light-intensity-induced changes. OneMYBgene,SsMYB106, was chosen for in-depth research. Analysis showed thatSsMYB106was an R2R3-type MYB transcription factor, regulated by light, and involved in controlling the light responses ofS. suberectus.SsMYB106was then transiently overexpressed inS. suberectusflowers and stably overexpressed inNicotiana benthamianaDomin.SsMYB106overexpression promoted flavonoids (especially catechins) accumulation, and affected expressions of all the flavonoid biosynthetic pathway genes. In transient overexpression,SsDFR1was the only significantly decreased gene, while other 17 genes were significantly increased. In stable overexpression, nearly all genes were upregulated or at least unchanged.SsMYB106overexpression also might function in inhibiting anthocyanin and lignin biosynthesis. This study deepens our understanding ofSsMYBsgene functions in regulating and enhancing flavonoids, and would be beneficial for designing high-valuedS. suberectusin future.",
+  "publication_date": "2025-05-30",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26115292",
+  "entities": {
+    "POLYPHENOL": [
+      "all the flavonoid biosynthetic pathway genes",
+      "flavonoids",
+      "flavonoids (especially catechins) accumulation",
+      "high-valueds. suberectusin future",
+      "ins. suberectusflowers",
+      "spatholobus suberectusdunn",
+      "suberectus",
+      "the only significantly decreased gene"
+    ]
+  }
+}

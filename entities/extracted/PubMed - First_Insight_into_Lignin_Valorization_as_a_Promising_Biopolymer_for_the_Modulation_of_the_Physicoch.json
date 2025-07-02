@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "First Insight into Lignin Valorization as a Promising Biopolymer for the Modulation of the Physicochemical Properties of Port Wine.",
+  "abstract": "Lignosulfonate (LS), kraft lignin (KL), and organosolv lignin (OL) were evaluated as potential modulating agents of the physicochemical properties of Port wine at two different concentrations for 7 and 30 days. KL and LS demonstrated the ability to remove proteins and potentiate the anthocyanin concentration. LS reduced the tannin content and the interaction of salivary acidic proline-rich proteins with wine phenolic compounds. None of the lignin promoted a perceptible color change; however, the yellowish color of KL and OL at 100 g/hL contributed to an increase in the yellow tones of wines. Lignin improved wine aroma by reducing the amount of unwanted volatiles by 30% and increasing the content of ethyl esters associated with fruity aromas by up to 60%. The results suggest that lignin, especially LS, can be employed as a modulating agent, positively impacting wine's physicochemical properties. This valorization of a byproduct opens up new opportunities for the wine industry.",
+  "publication_date": "2024-09-17",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c05442",
+  "entities": {
+    "FOOD": [
+      "port wine",
+      "the wine industry",
+      "wine aroma",
+      "wine's physicochemical properties",
+      "wines"
+    ],
+    "POLYPHENOL": [
+      "especially ls",
+      "the tannin content",
+      "wine phenolic compounds"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Dietary phytogenic inclusion level affects performance and expression of heat shock, cytoprotective, inflammatory and apoptotic genes in the duodenum and the liver of cyclic heat-challenged broilers.",
+  "abstract": "This study was conducted to investigate the inclusion level effect of a phytogenic blend (PB) on performance and the expression of genes relevant to heat shock response, detoxification, antioxidant capacity, inflammation and apoptosis in the duodenum and the liver of broilers under heat challenge conditions. The PB consisted of bioactive substances derived from oregano, thyme and olive oil polyphenols. Depending on PB inclusion level (i.e., 0, 500, 1,000, 1,500 and 2000 mg/kg diet) in the basal diet, 490 male broilers Ross 308, 1-d-old were assigned into 5 treatments: CON, PB500, PB1000, PB1500, and PB2000, with 7 replicates of 14 broilers, each. Birds were reared for 35 days under thermoneutral conditions and then subjected to 7 h cyclic heat stress (32 \u00b1 1\u00b0C; RH 55 \u00b1 5 %) for 5 consecutive days. Performance responses were closely monitored per growth phase (starter 1-10d, grower 11-24, finisher 25-40) and overall. At the end of the experiment (d40), duodenal and liver samples from 7 broilers per treatment were appropriately collected, snap frozen and subsequently stored at -80\u00b0C until gene expression analysis. Results revealed that PB inclusion level, improved (P < 0.05) Feed Conversion Ratio, Protein Efficiency Ratio, Energy Efficiency Ratio and the Nutritional Efficiency in a quadratic manner, compared to CON. At the molecular level, PB inclusion down-regulated (P < 0.05) most of the heat shock and inflammation-related genes, both in the duodenum and liver, in a linear manner with PB inclusion level. In addition, P\u0392 cytoprotective capacity was demonstrated via beneficial changes (P < 0.05) seen for the majority of the antioxidant and detoxification-related genes assessed, with the PB1500 displaying most significant differences, compared to CON. Conclusively, in heat challenged broilers, the multi-pathway nutrigenomic analysis provided new mechanistic support behind the improved broiler performance responses with PB inclusion.",
+  "publication_date": "2025-05-26",
+  "journal": "Poultry science",
+  "doi": "10.1016/j.psj.2025.105348",
+  "entities": {
+    "POLYPHENOL": [
+      "5 consecutive days",
+      "new mechanistic support",
+      "olive oil polyphenols",
+      "p\u03b2 cytoprotective capacity",
+      "the inclusion level effect",
+      "the molecular level"
+    ],
+    "SYMPTOM": [
+      "7 h cyclic heat stress",
+      "apoptosis",
+      "inflammation",
+      "inflammation-related genes"
+    ],
+    "FOOD": [
+      "oregano",
+      "thyme"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Reveal the correlation between hub hypoxia/immune-related genes and immunity and diagnosis, and the effect of SAP30 on cell apoptosis, ROS and MDA production in cerebral ischemic stroke.",
+  "abstract": "Cerebral ischemic stroke (CIS) is a common cerebrovascular disease. The purpose of this study was to investigate the potential mechanism of hypoxia and immune-related genes in CIS.",
+  "publication_date": "2023-12-27",
+  "journal": "Aging",
+  "doi": "10.18632/aging.205339",
+  "entities": {
+    "POLYPHENOL": [
+      "the potential mechanism"
+    ]
+  }
+}

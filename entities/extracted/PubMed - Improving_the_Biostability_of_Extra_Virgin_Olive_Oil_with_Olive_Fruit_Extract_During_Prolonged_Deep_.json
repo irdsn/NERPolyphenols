@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Improving the Biostability of Extra Virgin Olive Oil with Olive Fruit Extract During Prolonged Deep Frying.",
+  "abstract": "This study explores approaches to enhancing the biostability of extra virgin olive oil (EVOO) supplemented with olive fruit extract (OFE) enriched with hydroxytyrosol (HTyr). The investigation focuses on prolonged deep frying (DF) conditions at 170 \u00b0C and 210 \u00b0C, over durations ranging from 3 to 48 h, with the aim of improving sensorial attributes, polyphenolic content, and thermal oxidative stability. Parameters, such as acidity, peroxide value (PV), K232, K270, \u0394K, phenolic compounds, and sensory attributes, were monitored. The PV did not exceed the standard limit in HTyr-EVOO at 210 \u00b0C/24 h; however, in non-supplemented EVOOs, it remained within the limits only up to 210 \u00b0C/18 h. Acidity stayed within the acceptable limit (\u22640.8) at 170 \u00b0C/24 h in both enriched and non-enriched EVOOs. K232values were \u22642.5 in HTyr-EVOO fried at 170 \u00b0C/18 h. K270and \u0394K did not exceed the limits in HTyr-EVOO at 170 \u00b0C/3 h, whereas they surpassed them in non-supplemented oils. Additionally, HTyr and tyrosol levels were significantly higher (p< 0.05) in HTyr-EVOOs. Phenolic compounds, including verbascoside, pinoresinol, 1-acetoxypinoresinol, and phenolic acids, such as chlorogenic, vanillic, homovanillic, 4-dihydroxybenzoic, and caffeic acids, were detected in HTyr-EVOOs. Oxidized secoiridoid derivatives increased significantly as DF progressed. Moreover, sensory analysis revealed that positive attributes in EVOOs-such as fruity, bitter, and pungent notes-decreased significantly with increasing temperature and frying duration (p< 0.05). Beyond 210 \u00b0C/6 h, these attributes were rated at zero. However, HTyr-EVOOs exhibited lower rancidity compared to non-enriched oils under identical conditions, attributed to the protective effect of HTyr. In conclusion, HTyr-EVOOs demonstrated thermal stability up to 210 \u00b0C/6 h, retaining desirable sensory qualities, higher phenolic content, and reduced degradation. These findings indicate that natural OFEs have strong potential as food additive in deep fried EVOOs, enhancing sensory properties, health benefits, and overall oil stability. This innovation provides a practical solution for the food industry by improving the biostability and versatility of EVOO. Further research is recommended to investigate various EVOO categories and oils from diverse origins.",
+  "publication_date": "2025-01-15",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14020260",
+  "entities": {
+    "FOOD": [
+      "extra virgin olive oil",
+      "olive fruit extract"
+    ],
+    "POLYPHENOL": [
+      "1-acetoxypinoresinol, and phenolic acids",
+      "chlorogenic, vanillic, homovanillic, 4-dihydroxybenzoic, and caffeic acids",
+      "oxidized secoiridoid derivatives",
+      "phenolic compounds",
+      "pinoresinol",
+      "polyphenolic content",
+      "the protective effect"
+    ]
+  }
+}

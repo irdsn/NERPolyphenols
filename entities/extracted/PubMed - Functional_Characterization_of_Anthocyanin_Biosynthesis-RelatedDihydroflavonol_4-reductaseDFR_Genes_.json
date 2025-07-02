@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Functional Characterization of Anthocyanin Biosynthesis-RelatedDihydroflavonol 4-reductase(DFR) Genes in Blueberries (Vaccinium corymbosum).",
+  "abstract": "Dihydroflavonol 4-reductase(DFR) genes contribute greatly to anthocyanin biosynthesis in plants. Up to now, however, research on theDFRgene family and the key anthocyanin-relatedDFRmembers in blueberries (Vaccinium corymbosum) has been limited. In this study, we performed a genome-wide identification of the blueberryDFRgene family, identifying 36VcDFRgenes categorized into five subfamilies. Gene expression analysis showed that three Subfamily III members (VcDFR11/29/34) and four Subfamily V members (VcDFR4/7/30/33) are highly expressed in blueberry fruits, particularly at late ripening stages. Transient overexpression analysis in apple fruits verified the contributions ofVcDFR11andVcDFR30to anthocyanin biosynthesis, withVcDFR11showing better promoting effects. Blueberry fruit-based transient overexpression further confirmed the promoting effects ofVcDFR11on anthocyanin accumulation and the expression of anthocyanin-related structural genes (especially its downstreamanthocyanindin synthase(ANS) andUDP-glucose: flavonoid 3-O-glycosyltransferase(UFGT) genes). TheVcDFR11promoter contains binding sites for both bHLH and MYB transcription factors (TFs). Consistently, yeast one-hybrid and dual-luciferase assays confirmed that anthocyanin-related VcMYB-1 and VcbHLHs can bind to and activate theVcDFR11promoter. Furthermore, co-overexpressingVcMYB-1/VcbHLHswithVcDFR11led to much higher anthocyanin accumulation than overexpressingVcDFR11alone, indicating that these TFs positively regulate anthocyanin biosynthesis by upregulatingVcDFR11. In summary, our study characterized the blueberryDFRgene family and demonstrated the role ofVcDFR11in anthocyanin biosynthesis.",
+  "publication_date": "2025-05-13",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14101449",
+  "entities": {
+    "FOOD": [
+      "apple fruits",
+      "blueberries",
+      "blueberry fruit-based transient overexpression",
+      "blueberry fruits",
+      "the blueberrydfrgene family"
+    ],
+    "POLYPHENOL": [
+      "effects",
+      "especially its downstreamanthocyanindin synthase(ans",
+      "the promoting effects"
+    ]
+  }
+}

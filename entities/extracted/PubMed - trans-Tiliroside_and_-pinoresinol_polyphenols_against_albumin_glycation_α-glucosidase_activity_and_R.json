@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "trans-Tiliroside and (+)-pinoresinol: polyphenols against albumin glycation, \u03b1-glucosidase activity and ROS formation, within silicopharmacokinetic evaluation.",
+  "abstract": "trans-Tiliroside and (+)-pinoresinol, a flavonoid and a lignan found in plants traditionally used for diabetes mellitus care, were investigated for antidiabetic properties throughin vitroandin silicostudies. Four assays were conducted: Bovine Serum Albumin (BSA) assay to assess inhibition of albumin glycation, \u03b1-glucosidase assay to evaluate decrease of carbohydrate digestion, Oxygen Radical Absorbance Capacity (ORAC) assay for antioxidant activity and cytotoxicity evaluation on HT-29 cells.trans-Tiliroside showed higher inhibition of protein glycation, with IC50values of 113.6, 71.03 and 95.73\u2009\u00b5M against glucose, fructose and ribose-induced glycation, respectively. Moreover,trans-tiliroside demonstrated higher antioxidant capacity than (+)-pinoresinol. Both compounds showed slight \u03b1-glucosidase inhibitory activity and no cytotoxicity in HT-29 cells at 0.1-100\u2009\u00b5M. Anin silicopharmacokinetic study evaluated their bioavailability. Results suggesttrans-tiliroside can act as an inhibitor of protein glycation, potentially reducing unwanted glycation reactions and preventing hyperglycaemia-related diseases.",
+  "publication_date": "2025-04-22",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2493187",
+  "entities": {
+    "POLYPHENOL": [
+      "(+)-pinoresinol",
+      ")-pinoresinol",
+      "a flavonoid",
+      "decrease"
+    ]
+  }
+}

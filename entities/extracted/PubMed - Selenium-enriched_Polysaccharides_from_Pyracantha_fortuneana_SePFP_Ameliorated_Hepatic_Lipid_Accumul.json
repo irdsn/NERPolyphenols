@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Selenium-enriched Polysaccharides from Pyracantha fortuneana (SePFP) Ameliorated Hepatic Lipid Accumulation through Enhancing Mitochondrial Fatty Acid \u03b2-Oxidation in Aging Mice.",
+  "abstract": "Selenium-enriched polysaccharides from Pyracantha fortuneana (SePFP) has many beneficial physiological activities, but how it improves the aging associated abnormal lipid metabolism is still unclear. Therefore, we explored the mechanisms of the regulatory role of SePFP on liver lipid accumulation in aging mice.",
+  "publication_date": "2023-09-12",
+  "journal": "Journal of oleo science",
+  "doi": "10.5650/jos.ess23065",
+  "entities": {
+    "SYMPTOM": [
+      "aging mice",
+      "the aging associated abnormal lipid metabolism"
+    ],
+    "POLYPHENOL": [
+      "the mechanisms"
+    ]
+  }
+}

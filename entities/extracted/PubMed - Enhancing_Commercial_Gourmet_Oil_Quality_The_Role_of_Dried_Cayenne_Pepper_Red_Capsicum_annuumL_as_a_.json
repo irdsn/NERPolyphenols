@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Enhancing Commercial Gourmet Oil Quality: The Role of Dried Cayenne Pepper Red (Capsicum annuumL.) as a Natural Additive.",
+  "abstract": "This study assessed the potential of dried Cayenne pepper (CP;Capsicum annuumL.) as a natural additive to rice bran oil (RBO), grape seed oil (GSO), and virgin olive oil (OO). Key analyses included peroxide and acid values, oxidative stability (Rancimat method), the composition of fatty acids (FAs) (GC-FID method), antioxidant activity (AA; DPPH method), and antimicrobial properties (disc diffusion method). Capsaicin and the dihydrocapsaicin contents in CP were quantified (HPLC-DAD method) as 1499.37 \u00b1 3.64 and 1449.04 \u00b1 5.14 mg/kg DW, respectively. Oleic acid (C18:1cis n9) dominated in OO (69.70%), OO-CP (69.73%), and RBO-CP (38.97%), while linoleic acid (C18:2cis n6) prevailed in RBO (41.34%), GSO (57.93%), and GSO-CP (58.03%). The addition of CP influenced the FA profile, particularly linoleic acid in OO and RBO, and all FAs in GSO. Peroxide and acid values increased significantly in RBO and GSO upon CP addition, but induction times remained unaffected. The strongest AA (77.00 \u00b1 0.13%) was observed in OO-CP. Cayenne pepper significantly enhanced the antioxidant profiles of all oils compared to the counterparts. However, the antimicrobial activity was weak (\u22645.0 mm inhibition zones) against tested microorganisms. These findings support CP as a functional additive for enhancing the nutritional and functional properties of gourmet oils, while highlighting the need for further optimization to improve stability and bioactivity.",
+  "publication_date": "2025-02-17",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30040927",
+  "entities": {
+    "FOOD": [
+      "cayenne pepper",
+      "dried cayenne pepper",
+      "grape seed oil",
+      "virgin olive oil"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Oil/Water Biphasic Solvent System for the Eco-Extraction and Cosmetic Formulation ofBixa orellanaL.",
+  "abstract": "Annatto, obtained from the seeds of achiote (Bixa orellanaL.), is a widely used orange pigment rich in bixin and other apocarotenoids. This work reports the optimisation of a green extraction method of pigments and antioxidant compounds from achiote as well as its integration in a one-step green extraction-cosmetic formulation process. A biphasic solvent system of water and oil was used to recover simultaneously polar polyphenols, and less polar compounds, such as \u03b4-tocotrienol and bixin. The optimisation of the ultrasound assisted extraction is presented, as well as a comparison of different vegetable oils used as extraction solvents. The composition, physicochemical properties and antioxidant activity of the oils were studied and their extraction performance was compared. Refined sunflower oil proved to be a better solvent than virgin olive, jojoba, coconut and grapeseed oils. Both aqueous and oil phases displayed an interesting antioxidant capacity. The oil phase contained 0.9% of bixin, as well as minor apocarotenoids and \u03b4-tocotrienol. Twelve compounds, mainly phenolics, were identified by UHPLC-DAD-HRMS/MS in the aqueous phase. Twenty-one volatile compounds were identified in the volatile fraction by SPME-GC-MS. Lastly, a one-step green process is proposed to combine the extraction and the cosmetic formulation of the bioactive compounds.",
+  "publication_date": "2024-07-15",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants13141940",
+  "entities": {
+    "FOOD": [
+      "a widely used orange pigment",
+      "refined sunflower oil"
+    ],
+    "POLYPHENOL": [
+      "simultaneously polar polyphenols"
+    ]
+  }
+}

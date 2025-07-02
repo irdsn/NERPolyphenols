@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Effect of Rain-Shelter Cultivation on Yield and Fruit Quality of Container-Grown Rabbiteye Blueberry in Central-Eastern China.",
+  "abstract": "The fruit ripening season for the rabbiteye blueberry often coincides with periods of heavy rainfall in central-eastern China. The use of rain shelters to protect fruit from rainfall damage has increased worldwide due to global climate anomalies. However, the effects of rain-shelter cultivation on the photosynthesis and fruit characteristics of the rabbiteye blueberry have not yet been fully explored. In the present study, 4-year-old container-grown rabbiteye blueberry plants were covered with polyethylene (PE) film from the berry coloration stage until fruit were harvested for three consecutive years in Nanjing, China. The results showed that rain-shelter cultivation did not affect the air temperature and relative humidity, but significantly reduced the photosynthetically active radiation and UV radiation reaching the canopy zone. However, the rain shelter conditions did not significantly decrease the net photosynthetic rate (Pn), stomatal conductance (Gs), and transpiration rate (E) of the rabbiteye blueberry leaves. Additionally, the fruit yield and berry weight of blueberries cultivated under the rain shelter were not significantly affected. Furthermore, no significant differences were observed in total soluble solids, acidity, and total flavonoids content between fruits grown under the rain shelter and in the open field in all experimental years, but a significant decrease in total polyphenols and anthocyanins content was observed in fruits grown under the rain shelter in years with less rainfall. Our results suggest that simple rain shelter cultivation did not noticeably affect the photosynthesis and fruit yield of container-grown rabbiteye blueberry in rainy areas of central-eastern China, but its effects on the fruit quality vary depending on rainfall during the fruit ripening period.",
+  "publication_date": "2025-04-09",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14081167",
+  "entities": {
+    "FOOD": [
+      "4-year-old container-grown rabbiteye blueberry plants",
+      "blueberries",
+      "container-grown rabbiteye blueberry",
+      "the rabbiteye blueberry"
+    ],
+    "POLYPHENOL": [
+      "a significant decrease",
+      "its effects",
+      "the effects",
+      "three consecutive years",
+      "total flavonoids content",
+      "total polyphenols"
+    ]
+  }
+}

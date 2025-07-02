@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "TiO2Nanoparticles Loaded withPolygonum cuspidatumExtract for Wound Healing Applications: Exploring Their Hemolytic, Antioxidant, Cytotoxic, and Antimicrobial Properties.",
+  "abstract": "The dry roots ofPolygonum cuspidatumcontain resveratrol, a compound known for its antimicrobial and protective effects against oxidative stress, which is associated with impaired wound healing. In this study, titanium dioxide nanoparticles (TiO2NPs) were loaded with aP. cuspidatumextract (TiO2-loaded extract NPs), and the resveratrol release profile, hemocompatibility, antioxidant, cytotoxic, and antimicrobial activities were evaluated. The results demonstrated that TiO2-loaded extract NPs exhibited antioxidant activity for DPPH (Inhibitory Concentration 50 (IC50) = 62.31 mg Trolox Equivalent (TE)/mL) and ABTS+(IC50= 4.8 mg TE/mL) assays, along with suitable hemocompatibility (3.02% at 10 mg/mL), in comparison with bulk TiO2NPs. Additionally, temperature influenced the resveratrol release over time. TheP. cuspidatumextract alone showed strong antibacterial activity, with a Minimal Inhibitory Concentration (MIC) of 5 \u00b5g/mL, TiO2-loaded extract NPs showed MIC values about 50 mg/mL, while bulk TiO2NPs exhibited no antibacterial effect against the tested strains. In contrast, theP. cuspidatumextract, the TiO2-loaded extract NPs, and the bulk TiO2NPs did not demonstrate antifungal activity againstCandida albicansandC. glabrata. Moreover, TiO2-loaded extract NPs showed no cytotoxicity against the L-929 cell line at concentrations ranging from 1.5 to 150 \u00b5g/mL, unlike TiO2NPs, which exhibited high cytotoxic concentrations between 9.4 and 300 \u00b5g/mL. These findings suggest that TiO2-loaded extract NPs effectively control the release of resveratrol and hold promises for applications in skin management and wound healing.",
+  "publication_date": "2025-06-14",
+  "journal": "Nanomaterials (Basel, Switzerland)",
+  "doi": "10.3390/nano15120926",
+  "entities": {
+    "POLYPHENOL": [
+      "cuspidatumcontain resveratrol",
+      "its antimicrobial and protective effects",
+      "no antibacterial effect",
+      "resveratrol",
+      "the resveratrol release",
+      "the resveratrol release profile, hemocompatibility, antioxidant, cytotoxic, and antimicrobial activities"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

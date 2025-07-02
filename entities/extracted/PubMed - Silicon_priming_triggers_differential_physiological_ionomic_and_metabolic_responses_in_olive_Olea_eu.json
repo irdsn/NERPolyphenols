@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Silicon priming triggers differential physiological, ionomic and metabolic responses in olive (Olea europaea L.) cultivars with different tolerance to salinity.",
+  "abstract": "Salinity stress can negatively influence the growth potential and productivity of olive trees affecting photosynthesis and, disturbing ions homeostasis and essential metabolic pathways. Silicon (Si) is proposed as exogenous pretreatment for mitigate the salinity impact on olive plants. One-year old 'Frantoio' (salt-tolerant) and 'Leccino' (salt-sensitive) plants (n\u00a0=\u00a05) were grown in pots filled with sand and clay and pretreated for 28 days with 10\u00a0mg\u00a0L-1of Si(OH)4then, for 51 days with 100\u00a0mM NaCl (12.15\u00a0g for each plant) and compared to control plants. The following hypotheses have been tested: i) Si pretreatment enhances photosynthetic performance by regulating stomatal closure and decreasing water loss; ii) Si reduces Na+uptake and accumulation in new leaves; iii) Si improve the biosynthesis of compatible osmolytes that have a role in the regulation of the osmotic stress induced by salinity. The Si priming effect in olive tree was cultivar dependent. In 'Frantoio' Si induce a rapid early decrease of stomatal conductance increasing the intrinsic water use efficiencies (intWUE) not observed in 'Leccino' plants. In 'Leccino' the key Si effect was the reduction of Na+accumulation in new leaves (-58\u00a0%) and maintenance of the K+concentration under salinity. Specific interactions between Si and NaCl and the number of polyphenols affected were higher in 'Frantoio' than in 'Leccino'. Among the key mechanisms related to the Si-mediated tolerance to salt stress we can conclude that photosynthesis and Na+uptake are the two principals involved in the responses of salinity to 'Frantoio' and 'Leccino' cultivars.",
+  "publication_date": "2025-03-21",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.109809",
+  "entities": {
+    "SYMPTOM": [
+      "salinity stress",
+      "stress",
+      "the osmotic stress"
+    ],
+    "POLYPHENOL": [
+      "'frantoio' and 'leccino' cultivars",
+      "a rapid early decrease",
+      "decreasing water loss",
+      "leccino",
+      "leccino' plants",
+      "leccino' the key si effect",
+      "polyphenols",
+      "specific interactions",
+      "the key mechanisms",
+      "the si priming effect"
+    ]
+  }
+}

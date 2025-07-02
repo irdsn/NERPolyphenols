@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Synergistic Interplay of Diet, Gut Microbiota, and Insulin Resistance: Unraveling the Molecular Nexus.",
+  "abstract": "This comprehensive review explores the intricate relationship between gut microbiota, diet, and insulin resistance, emphasizing the novel roles of diet-induced microbial changes in influencing metabolic health. It highlights how diet significantly influences gut microbiota composition, with different dietary patterns fostering diverse microbial communities. These diet-induced changes in the microbiome impact human metabolism by affecting inflammation, energy balance, and insulin sensitivity, particularly through microbial metabolites like short-chain fatty acids (SCFAs). Focusing the key mediators like endotoxemia and systemic inflammation, and introduces personalized microbiome-based therapeutic strategies, it also investigates the effects of dietary components-fiber, polyphenols, and lipids-on microbiota and insulin sensitivity, along with the roles of protein intake and amino acid metabolism. The study compares the effects of Western and Mediterranean diets on the microbiota-insulin resistance axis. Therapeutic implications, including probiotics, fecal microbiota transplantation (FMT), and personalized diets, are discussed. Key findings reveal that high-fat diets, especially those rich in saturated fats, contribute to dysbiosis and increased intestinal permeability, while high-fiber diets promote beneficial bacteria and SCFAs. The review underscores the future potential of food and microbiota interventions for preventing or managing insulin resistance.",
+  "publication_date": "2024-11-16",
+  "journal": "Molecular nutrition & food research",
+  "doi": "10.1002/mnfr.202400677",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "insulin resistance",
+      "systemic inflammation",
+      "the microbiota-insulin resistance axis"
+    ],
+    "POLYPHENOL": [
+      "especially those",
+      "fecal microbiota transplantation",
+      "polyphenols",
+      "the effects"
+    ]
+  }
+}

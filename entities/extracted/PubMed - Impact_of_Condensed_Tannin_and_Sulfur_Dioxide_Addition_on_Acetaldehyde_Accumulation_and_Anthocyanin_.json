@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Impact of Condensed Tannin and Sulfur Dioxide Addition on Acetaldehyde Accumulation and Anthocyanin Profile ofVitis viniferaL. Cv. Cabernet Sauvignon Wines During Alcoholic Fermentation.",
+  "abstract": "Acetaldehyde is a key carbonyl by-product during red wine alcoholic fermentation; it is reactive and takes part in certain reactions involving anthocyanin. The aim of this study was to investigate the influence of SO2and condensed tannin on the acetaldehyde accumulation ofSaccharomyces cerevisiae(S. cerevisiae) during alcoholic fermentation and the ripple effect on wine anthocyanin. In this study, six sets of Cabernet Sauvignon alcoholic fermentation with two different sulfur levels (HS and LS) were carried out by adding exogenous condensed tannins before fermentation (T0) in the acetaldehyde rise period (TA) ofS. cerevisiaeand at the end of fermentation (TE), separately. The acetaldehyde evolution was identified during fermentation and anthocyanin was analyzed comparatively. The results showed that HS treatment slowed down the degradation of acetaldehyde, while tannins accelerated the degradation of acetaldehyde during alcoholic fermentation, especially TA wines. Furthermore, TA wines possessed a unique anthocyanin profile after fermentation regardless of SO2level compared with other wines. These results suggest that acetaldehyde-mediated anthocyanin polymerization most likely occurs timely at the acetaldehyde production phase ofS. cerevisiaeduring alcoholic fermentation, and managing tannin addition time during production could be used to regulate the anthocyanin profile.",
+  "publication_date": "2024-11-05",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29225238",
+  "entities": {
+    "FOOD": [
+      "other wines",
+      "red wine alcoholic fermentation",
+      "ta wines"
+    ],
+    "POLYPHENOL": [
+      "especially ta wines",
+      "exogenous condensed tannins",
+      "tannin",
+      "tannins",
+      "the ripple effect"
+    ]
+  }
+}

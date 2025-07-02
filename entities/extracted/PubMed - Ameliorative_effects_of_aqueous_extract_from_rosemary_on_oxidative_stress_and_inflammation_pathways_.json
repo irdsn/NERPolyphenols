@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Ameliorative effects of aqueous extract from rosemary on oxidative stress and inflammation pathways caused by a high-fat diet in C57BL/6 mice.",
+  "abstract": "Rosemary is an herb exhibits biological properties, attenuates inflammation, oxidative stress, and improves lipid profile. Here, we evaluated the effects of rosemary aqueous extract (RE) on mice fed with a high-fat diet (HFD). Male C57BL/6 mice were administered a control diet or HFD for 10 weeks. The treated groups received RE in the diet at different concentrations: 25, 250, and 500\u00a0mg/100\u00a0g. After 10 weeks, serum concentrations of glucose, lipid, insulin, leptin, adiponectin, and cytokines were evaluated and the oxygen radical absorbance capacity was determined. Histological analysis was performed to determine the concentrations of triacylglycerides (TG), total cholesterol, cytokines, and antioxidant enzymes as well as the expression of genes involved in lipid metabolism, oxidative stress, and inflammation. The dietary RE ameliorated HFD-induced weight gain, adipose tissue weight, glucose intolerance, and insulin, leptin, and free fatty acid levels. Reduction in hepatic TG deposition was observed. The levels of inflammatory cytokines decreased, and the expression of genes involved in lipid metabolism increased. RE mitigated oxidative stress and reduced the production of reactive oxygen species in HepG2 and 3T3-L1 cells. Therefore, RE is a potential therapeutic agent for the prevention of inflammation and oxidative stress outcomes associated with obesity.",
+  "publication_date": "2023-12-04",
+  "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+  "doi": "10.1139/apnm-2023-0157",
+  "entities": {
+    "FOOD": [
+      "rosemary",
+      "rosemary aqueous extract"
+    ],
+    "SYMPTOM": [
+      "glucose intolerance",
+      "inflammation",
+      "obesity",
+      "oxidative stress",
+      "oxidative stress outcomes"
+    ],
+    "POLYPHENOL": [
+      "adiponectin",
+      "reactive oxygen species",
+      "the effects"
+    ]
+  }
+}

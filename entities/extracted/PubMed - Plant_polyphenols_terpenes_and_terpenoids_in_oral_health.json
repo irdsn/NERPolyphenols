@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Plant polyphenols, terpenes, and terpenoids in oral health.",
+  "abstract": "Herbal products are increasingly being used for their potential to promote oral health. Phytochemicals can act as scavengers of reactive or toxic chemicals, selective growth factors for beneficial oral bacteria, fermentation substrates for beneficial oral bacteria, and selective inhibitors of harmful oral microflora. Plant-derived secondary metabolites encompass a variety of natural products, including alkaloids, polyphenols (including flavonoids and tannins), terpenes, terpenoids, steroids, saponins, quinones, coumarins, glycosides, and carotenoids.",
+  "publication_date": "2025-04-15",
+  "journal": "Open medicine (Warsaw, Poland)",
+  "doi": "10.1515/med-2025-1183",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "plant-derived secondary metabolites",
+      "polyphenols",
+      "selective growth factors",
+      "selective inhibitors",
+      "tannins"
+    ]
+  }
+}

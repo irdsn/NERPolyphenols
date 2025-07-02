@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Schaftoside contributed to anti-inflammatory activity ofClinacanthus nutansextract in lipopolysaccharide-induced RAW 264.7 cells.",
+  "abstract": "Clinacanthus nutans: a plant listed in the Thai Herbal Pharmacopoeia, is well recognized for its medicinal properties, particularly its anti-inflammatory and antiviral activities. Among its known bioactive constituents, schaftoside has been reported to exhibit anti-inflammatory effects in various disease models. However, comparative studies between pure schaftoside andC. nutanscrude extracts, as well as comprehensive investigations into the underlying mechanisms of action, remain limited. Moreover, the relationship between the quantity and diversity of bioactive compounds and their corresponding anti-inflammatory activity which could serve as potential quality biomarkers has not been fully elucidated.",
+  "publication_date": "2025-06-10",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1584620",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory effects",
+      "the underlying mechanisms"
+    ]
+  }
+}

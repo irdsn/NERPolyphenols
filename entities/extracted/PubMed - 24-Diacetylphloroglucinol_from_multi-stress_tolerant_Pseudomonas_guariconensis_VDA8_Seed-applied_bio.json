@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "2,4-Diacetylphloroglucinol from multi-stress tolerant Pseudomonas guariconensis VDA8: Seed-applied bioprotectant for groundnut (Arachis hypogaea L.) against Aspergillus flavus NCIM 524 for post-harvest preservation.",
+  "abstract": "The fungal contaminated crops or post-harvest products are unfit for consumption, hazardous to human health and threat to food safety. Soil borne phytopathogenic microbes cause severe yield losses at various stages and contribute to 40-50% crop mortality. Post-harvest fungal deterioration during storage is frequently observed primarily because of high oil content. At present, chemical disinfectants and agrichemicals are extensively used to control seed contaminating fungal infection as seed priming agent and/or post-harvest storage protectants. However, application of synthetic fungicides requires experimental evaluation of several parameters and raised serious concerns about emergence of fungicide resistance. On this streak, natural anti-microbial agents such as microbial secondary metabolites are preferred as eco-friendly and cost-effective alternative for seed protection. For this purpose, the use of broad-spectrum antibiotics such as 2,4-diacetylphloroglucinol can warrant potential benefit for seed priming over chemical fungicides. In the present study, it showed maximum inhibitory activity against aflatoxin producing Aspergillus flavus as well as other phytopathogenic fungi viz. Ustilago maydis, Fusarium oxysporum, Sclerotinia sclerotiorum, Colletotrichum circinans and Colletotrichum dematium. It was therefore explored for seed priming of groundnut for repressed proliferation of mycotoxin producing A. flavus. Under pot experiments, 2,4-diacetylphloroglucinol primed seeds showed long-term post-harvest preservation, enhanced seed germination and growth indices as compared to methanol primed and non-primed seeds. 2,4-diacetylphloroglucinol priming is therefore, proposed as a low-cost, dual-benefit seed storage protectant for control of post-harvest fungal deterioration of oilseeds as well as a phytostimulant for enhanced plant growth in field after long-term storage.",
+  "publication_date": "2025-06-17",
+  "journal": "Biotechnology letters",
+  "doi": "10.1007/s10529-025-03606-3",
+  "entities": {
+    "POLYPHENOL": [
+      "a low-cost, dual-benefit seed storage protectant",
+      "agent and/or post-harvest storage protectants",
+      "broad-spectrum antibiotics",
+      "chemical disinfectants",
+      "eco-friendly and cost-effective alternative",
+      "fungal infection",
+      "microbial secondary metabolites",
+      "seed protection"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Bioactive properties of spearmint, orange peel, and baby sage oleoresins obtained by supercritical CO2extraction and their integration into dark chocolate.",
+  "abstract": "This study investigated the potential health benefits of spearmint, orange peel, and baby sage oleoresins extracted using supercritical CO2and subsequently emulsified. The oleoresins were incorporated into dark chocolate, and their impact on physicochemical properties was evaluated. Characterization revealed rich sources of phenolic compounds, carotenoids, and volatile compounds in these oleoresins. In vitro studies demonstrated anti-obesogenic, antioxidant, anti-inflammatory, and neuroprotective properties of the emulsified oleoresins. However, only physicochemical properties were determined for the formulations of dark chocolate with these emulsified oleoresins. Chocolate formulations fortified with these emulsions displayed a softer texture, lower water activity, and solid-like behavior. The findings suggest that these oleoresins could serve as nutraceutical agents for mitigating metabolic syndrome and associated pathologies. Incorporating them into chocolate matrices offers a practical approach to formulating functional foods. Further research is warranted to explore the preventive and therapeutic efficacy in an in vivo model.",
+  "publication_date": "2024-09-16",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2024.141306",
+  "entities": {
+    "FOOD": [
+      "baby sage oleoresins",
+      "chocolate formulations",
+      "chocolate matrices",
+      "dark chocolate",
+      "functional foods",
+      "orange peel",
+      "spearmint"
+    ],
+    "POLYPHENOL": [
+      "neuroprotective properties",
+      "phenolic compounds"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

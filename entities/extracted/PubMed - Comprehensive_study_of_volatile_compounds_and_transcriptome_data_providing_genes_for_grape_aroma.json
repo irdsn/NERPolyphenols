@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Comprehensive study of volatile compounds and transcriptome data providing genes for grape aroma.",
+  "abstract": "Fruit aroma is an important quality with respect to consumer preference, but the most important aroma compounds and their genetic regulatory mechanisms remain elusive.",
+  "publication_date": "2023-03-31",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-023-04191-1",
+  "entities": {
+    "POLYPHENOL": [
+      "respect",
+      "their genetic regulatory mechanisms"
+    ]
+  }
+}

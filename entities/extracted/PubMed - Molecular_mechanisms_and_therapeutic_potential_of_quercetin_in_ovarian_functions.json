@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Molecular mechanisms and therapeutic potential of quercetin in ovarian functions.",
+  "abstract": "Quercetin is a naturally occurring flavonoid abundant in various fruits and vegetables, known for its broad pharmacological properties, including antioxidant, anti-inflammatory, anti-apoptotic, and anti-fibrotic effects. Emerging evidence suggests that quercetin exerts protective roles in a range of ovarian-related reproductive disorders.",
+  "publication_date": "2025-06-04",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156945",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring flavonoid",
+      "antioxidant, anti-inflammatory, anti-apoptotic, and anti-fibrotic effects",
+      "quercetin"
+    ]
+  }
+}

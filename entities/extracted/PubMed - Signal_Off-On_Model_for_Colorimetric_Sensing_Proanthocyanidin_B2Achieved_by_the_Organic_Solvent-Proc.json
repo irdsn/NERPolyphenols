@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Signal \"Off-On Model'' for Colorimetric Sensing Proanthocyanidin B2Achieved by the Organic Solvent-Processed Amorphous BiVO4Nanozyme.",
+  "abstract": "Here, we report a \"off-on model\"-based colorimetric sensor without the assistance of H2O2, achieved by organic solvent-processed amorphous BiVO4nanoparticles favorable for large-scale manufacturing. The amorphous material beyond traditional crystalline nanozymes has both vanadium vacancy (Vv) and oxygen vacancy (Ov), as well as single oxidase-like activity with both hydroxyl radical (\u2022OH) and superoxide anion (O2\u2022-) as electron acceptors. Despite the high enzymatic performance, the dual-defect-rich amorphous BiVO4preserves good long-term activity in either buffer solution or the solid state. The specially designed BiVO4is capable of accelerating TMB oxidation in the presence of polyphenols, thus leading to an interesting signal-intensified colorimetric response. This is probably due to the coordination of the ortho dihydroxyl group in polyphenols with the catalyst by replacing the surface-adsorbed NO3-, which results in faster charge transfer between BiVO4and substrate and, thus, more rapid depletion of radicals for TMB oxidation. Based on these findings, a sensor platform for proanthocyanidin (PAC) B2is established with a limit of detection (LOD) as low as 65 nM and good specificity. The sensor shows higher sensitivity than the standard Porter method (LOD: 0.29 \u03bcM) and comparable accuracy when analyzing PAC B2in commercially available grape seed capsules, with quantitative recoveries varying from 104.0 to 108.3% and relative standard deviations ranging from 1.7 to 5.7%. To date, this is the only nanozyme-based chemical sensor that is active for the signal \"off-on model\" for the detection of reducing polyphenols. Also, this method seems quite general, and it can be used for sensing of a series of specific polyphenols in addition to PAC B2.",
+  "publication_date": "2025-03-25",
+  "journal": "Analytical chemistry",
+  "doi": "10.1021/acs.analchem.4c06509",
+  "entities": {
+    "POLYPHENOL": [
+      "detection",
+      "electron acceptors",
+      "good specificity",
+      "polyphenols",
+      "proanthocyanidin (pac) b2is",
+      "quantitative recoveries",
+      "specific polyphenols",
+      "the detection",
+      "the specially designed bivo4is"
+    ],
+    "FOOD": [
+      "commercially available grape seed capsules"
+    ]
+  }
+}

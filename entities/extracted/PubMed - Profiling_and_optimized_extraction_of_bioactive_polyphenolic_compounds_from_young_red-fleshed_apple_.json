@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Profiling and optimized extraction of bioactive polyphenolic compounds from young, red-fleshed apple using eco-friendly deep eutectic solvents.",
+  "abstract": "Red-fleshed apple cultivars with an enhanced content of polyphenolic compounds have attracted increasing interest due to their promising health benefits. Here, we have analysed the polyphenolic content of young, red-fleshed apples (RFA) and optimised extraction conditions of phenolics by utilising natural deep eutectic solvents (NDES). We also compare the antioxidant, neuroprotective and antimicrobial activities of NDES- and methanol-extracted phenolics from young RFA. High-performance liquid chromatography coupled to high-resolution mass spectrometry (HPLC-HRMS) was used for phenolics identification and quantification. Besides young RFA, ripe red-fleshed, young and ripe white-fleshed apples were analysed, revealing that young RFA possess the highest phenolic content (2078.4\u00a0\u00b1\u00a04.0\u00a0mg gallic acid equivalent/100\u00a0g), and that ripe white-fleshed apples contain the least amount of phenolics (545.0\u00a0\u00b1\u00a032.0\u00a0mg gallic acid equivalent/100\u00a0g). The NDES choline chloride-glycerol containing 40\u00a0% w/w H2O gave similar yields at 40\u00a0\u00b0C as methanol. In addition, the polyphenolics profile, and bioactivities of the NDES extract from young RFA were comparable that of methanol extracts. Altogether, our data show that NDES extracts of young RFA are a promising source of bioactive polyphenolics with potential applications in diverse sectors, e.g., for functional food production, smart material engineering and natural therapies.",
+  "publication_date": "2024-04-25",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2024.114334",
+  "entities": {
+    "FOOD": [
+      "functional food production",
+      "red-fleshed apple cultivars",
+      "ripe red-fleshed, young and ripe white-fleshed apples",
+      "ripe white-fleshed apples",
+      "young, red-fleshed apples"
+    ],
+    "POLYPHENOL": [
+      "2078.4\u00a0\u00b1\u00a04.0\u00a0mg gallic acid equivalent/100\u00a0g",
+      "32.0\u00a0mg gallic acid equivalent/100\u00a0g",
+      "bioactive polyphenolics",
+      "diverse sectors",
+      "high-resolution mass spectrometry",
+      "natural deep eutectic solvents",
+      "polyphenolic compounds",
+      "the antioxidant, neuroprotective and antimicrobial activities",
+      "the polyphenolic content",
+      "the polyphenolics"
+    ]
+  }
+}

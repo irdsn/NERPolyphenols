@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "GC-MS/MS and HR-LCMS-QTOF analysis of various extracts of Saraswata Ghrita: A comprehensive dataset on phytochemical compounds.",
+  "abstract": "This dataset provides a comprehensive phytochemical profile ofSaraswata Ghrita, a classical Ayurvedic formulation traditionally used for cognitive enhancement. To capture its diverse bioactive constituents, three different extracts-methanol, hexane, and hexane-ethanol-were analyzed using Gas Chromatography-Mass Spectrometry (GC-MS/MS) and High-Resolution Liquid Chromatography-Mass Spectrometry-Quadrupole Time-of-Flight (HR-LCMS/MS-QTOF). The dataset includes volatile and semi-volatile compounds identified through GC-MS/MS, while HR-LCMS/MS-QTOF facilitates the characterization of non-volatile and polar metabolites. Advanced chromatographic and spectrometric techniques were employed, integrating mass spectrometric detection, retention time analysis, and cheminformatics-based compound classification. Spectral data were processed using multiple databases, ensuring accurate compound annotation. Additionally, key parameters such as molecular weight, chemical structure, base peak intensity, and ion fragmentation patterns were recorded to aid in structural elucidation. This dataset is structured for comparative metabolomics, quality control, and pharmacological exploration, offering a valuable reference for researchers investigating the phytochemical complexity of Ayurvedic formulations. The compiled raw data, including chromatograms, peak intensities, spectral fingerprints, and molecular fragmentations, are publicly available for further computational modeling and validation. The dataset can also support future drug discovery efforts, network pharmacology studies, and Ayurvedic formulation standardization, ensuring reproducibility and facilitating integrative research on traditional medicine.",
+  "publication_date": "2025-05-18",
+  "journal": "Data in brief",
+  "doi": "10.1016/j.dib.2025.111675",
+  "entities": {
+    "POLYPHENOL": [
+      "advanced chromatographic and spectrometric techniques",
+      "gas chromatography-mass spectrometry",
+      "mass spectrometric detection",
+      "molecular fragmentations",
+      "molecular weight",
+      "spectral data",
+      "spectral fingerprints"
+    ]
+  }
+}

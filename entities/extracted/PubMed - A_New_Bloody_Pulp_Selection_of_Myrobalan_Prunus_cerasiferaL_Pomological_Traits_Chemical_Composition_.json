@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "A New Bloody Pulp Selection of Myrobalan (Prunus cerasiferaL.): Pomological Traits, Chemical Composition, and Nutraceutical Properties.",
+  "abstract": "A new accession of myrobalan (Prunus cerasiferaL.) from Sicily (Italy) was studied for the first time for its chemical and nutraceutical properties. A description of the main morphological and pomological traits was created as a tool for characterization for consumers. For this purpose, three different extracts of fresh myrobalan fruits were subjected to different analyses, including the evaluation of total phenol (TPC), flavonoid (TFC), and anthocyanin (TAC) contents. The extracts exhibited a TPC in the range 34.52-97.63 mg gallic acid equivalent (GAE)/100 g fresh weight (FW), a TFC of 0.23-0.96 mg quercetin equivalent (QE)/100 g FW, and a TAC of 20.24-55.33 cyanidine-3-O-glucoside/100 g FW. LC-HRMS analysis evidenced that the compounds mainly belong to the flavonols, flavan-3-ols, proanthocyanidins, anthocyanins, hydroxycinnamic acid derivatives, and organic acids classes. A multitarget approach was used to assess the antioxidant properties by using FRAP, ABTS, DPPH, and\u03b2-carotene bleaching tests. Moreover, the myrobalan fruit extracts were tested as inhibitors of the key enzymes related to obesity and metabolic syndrome (\u03b1-glucosidase, \u03b1-amylase, and lipase). All extracts exhibited an ABTS radical scavenging activity that was higher than the positive control BHT (IC50value in the range 1.19-2.97 \u03bcg/mL). Moreover, all extracts showed iron-reducing activity, with a potency similar to that of BHT (53.01-64.90vs3.26 \u03bcM Fe(II)/g). The PF extract exhibited a promising lipase inhibitory effect (IC50value of 29.61 \u03bcg/mL).",
+  "publication_date": "2023-03-05",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods12051107",
+  "entities": {
+    "POLYPHENOL": [
+      "a promising lipase inhibitory effect",
+      "flavonoid",
+      "hydroxycinnamic acid derivatives",
+      "proanthocyanidins"
+    ],
+    "FOOD": [
+      "the myrobalan fruit extracts"
+    ],
+    "SYMPTOM": [
+      "obesity and metabolic syndrome"
+    ]
+  }
+}

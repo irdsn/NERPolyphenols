@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Unlocking the Potential of Bioactive Compounds in Pancreatic Cancer Therapy: A Promising Frontier.",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDA) is a highly challenging malignancy to treat, with a high mortality rate and limited therapeutic options. Despite advances in cancer research, the prognosis for patients diagnosed with PDA is often poor due to late-stage detection and resistance to conventional therapies. Consequently, there is growing interest in the potential of bioactive compounds as alternative or adjuvant treatments, given their ability to target multiple aspects of cancer biology, offering a more holistic approach to treatment. In the context of PDA, certain bioactive compounds, such as polyphenols (found in fruits, vegetables, and tea), flavonoids, carotenoids and compounds in cruciferous vegetables, have shown potential in inhibiting cancer cell growth, reducing inflammation, and promoting cancer cell apoptosis. This review aims to elucidate the mechanisms, by which these bioactive compounds exert their effects, modulating the oxidative stress, influencing inflammatory pathways and regulating cell survival and death. It also highlights current clinical trials that are paving the way toward incorporating these natural agents into mainstream treatment strategies, with the goal of boosting the efficacy of conventional therapies for PDA.",
+  "publication_date": "2025-05-15",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom15050725",
+  "entities": {
+    "SYMPTOM": [
+      "cancer biology",
+      "cancer cell apoptosis",
+      "cancer cell growth",
+      "cancer research",
+      "inflammation",
+      "the oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "late-stage detection",
+      "multiple aspects",
+      "polyphenols",
+      "the mechanisms",
+      "their effects"
+    ]
+  }
+}

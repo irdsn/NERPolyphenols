@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Chronic resveratrol administration reduces oxidative stress and brain cell loss and improves memory of recognition in old rats.",
+  "abstract": "The cognitive functions of people over 60 years of age have been diminished, due to the structural and functional changes that the brain has during aging. The most evident changes are at the behavioral and cognitive level, with decreased learning capacity, recognition memory, and motor incoordination. The use of exogenous antioxidants has been implemented as a potential pharmacological option to delay the onset of brain aging by attenuating oxidative stress and neurodegeneration. Resveratrol (RSVL) is a polyphenol present in various foods, such as red fruits, and drinks, such as red wine. This compound has shown great antioxidant capacity due to its chemical structure. In this study, we evaluated the effect of chronic RSVL treatment on oxidative stress and cell loss in the prefrontal cortex, hippocampus, and cerebellum of 20-month-old rats, as well as its impact on recognition memory and motor behavior. Rats treated with RSVL showed an improvement in locomotor activity and in short- and long-term recognition memory. Likewise, the concentration of reactive oxygen species and lipid peroxidation decreased significantly in the group with RSVL, coupled with an improvement in the activity of the antioxidant system. Finally, with the help of hematoxylin and eosin staining, it was shown that chronic treatment with RSVL prevented cell loss in the brain regions studied. Our results demonstrate the antioxidant and neuroprotective capacity of RSVL when administered chronically. This strengthens the proposal that RSVL could be an important pharmacological option to reduce the incidence of neurodegenerative diseases that affect older adults.",
+  "publication_date": "2023-05-02",
+  "journal": "Synapse (New York, N.Y.)",
+  "doi": "10.1002/syn.22271",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "neurodegeneration",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "a polyphenol present",
+      "decreased learning capacity",
+      "reactive oxygen species",
+      "recognition memory",
+      "resveratrol",
+      "short- and long-term recognition memory",
+      "the antioxidant and neuroprotective capacity",
+      "the effect"
+    ],
+    "FOOD": [
+      "red wine"
+    ]
+  }
+}

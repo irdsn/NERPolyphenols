@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Microbial modulation of digoxin bioavailability: A pharmacomicrobiome perspective on Eggerthella lenta's role in steroid-like drug metabolism and precision therapeutics.",
+  "abstract": "Digoxin is a cardiac glycoside used to treat heart failure and atrial fibrillation, but its narrow therapeutic index makes precise dosing critical. The effectiveness of digoxin is influenced by individual variations in drug metabolism, with recent studies showing that gut microbiota, particularly Eggerthella lenta (E. lenta), plays a key role. E. lenta can convert digoxin into its inactive form, dihydrodigoxin, potentially reducing its therapeutic efficacy. This paper explores how E. lenta affects the biotransformation of digoxin and other drugs like L-dopa and resveratrol. The aim is to investigate how the presence of E. lenta in the gut influences drug metabolism and therapeutic outcomes. The review also examines the broader implications of microbiome-driven drug interactions and highlights the need for precision dosing strategies based on an individual's microbiome composition which is also essential for patients with high E. lenta colonization. Further research into microbiome-driven drug and sterol interactions is needed to optimize treatment strategies, ensuring personalized and effective patient care.",
+  "publication_date": "2025-05-25",
+  "journal": "The Journal of steroid biochemistry and molecular biology",
+  "doi": "10.1016/j.jsbmb.2025.106792",
+  "entities": {
+    "SYMPTOM": [
+      "heart failure"
+    ],
+    "POLYPHENOL": [
+      "personalized and effective patient care",
+      "precision dosing strategies",
+      "recent studies",
+      "resveratrol",
+      "the effectiveness"
+    ]
+  }
+}

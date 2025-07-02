@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Lobaric Acid Exhibits Anticancer Potential by Modulating the Wnt/\u03b2-Catenin Signaling Pathway in MCF-7 Cells.",
+  "abstract": "Lichen secondary metabolites with many remarkable biological activities are used in cancer treatments due to their low side effects and high anticancer potential. In particular, these metabolites constitute an interesting research area in cancer treatments due to their potential to induce apoptosis and suppress metastasis by inhibiting cancer-related signaling pathways. The Wnt/\u03b2-catenin signaling pathway plays a role in important biological processes such as oncogenesis, cell cycle regulation, cell proliferation, metastasis, differentiation, apoptosis, and drug resistance. Therefore, inhibition of this pathway is a potential target in cancer therapies. There is no detailed study explaining the potential anticancer molecular mechanism of the lichen secondary metabolite lobaric acid (LA) on breast cancer. Here, it is aimed to investigate the effect of LA on viability, apoptosis, and migration in MCF-7 cells and to elucidate the relationship between the potential anticancer effect and the Wnt/\u03b2-catenin signaling pathway. The dose- and time-dependent viability of LA-treated MCF-7 cells was evaluated by XTT assay, and the IC50value was determined as 44.21\u2009\u03bcg/mL at 48\u2009h. LA increased the apoptotic cell population, as shown by flow cytometry analysis, qPCR, and Western blot results. LA inhibited \u03b2-catenin by inducing GSK3-\u03b2 protein expression, thereby suppressing Wnt/\u03b2-catenin target genes. LA might be a natural active compound candidate for breast cancer treatment.",
+  "publication_date": "2025-06-01",
+  "journal": "Pharmacology research & perspectives",
+  "doi": "10.1002/prp2.70142",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "apoptosis and suppress metastasis",
+      "breast cancer",
+      "breast cancer treatment",
+      "cancer therapies",
+      "cancer treatments",
+      "cancer-related signaling pathways",
+      "high anticancer potential"
+    ],
+    "POLYPHENOL": [
+      "the effect",
+      "the lichen secondary metabolite lobaric acid",
+      "the potential anticancer effect",
+      "the potential anticancer molecular mechanism",
+      "their low side effects"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Sea buckthorn polyphenols on gastrointestinal health and the interactions with gut microbiota.",
+  "abstract": "The potential health benefits of sea buckthorn polyphenols (SBP) have been extensively studied, attracting increasing attention from researchers. This paper reviews the composition of SBP, the effects of processing on SBP, its interactions with nutrients, and its protective role in the gastrointestinal tract. Polyphenols influence nutrient absorption and metabolism by regulating the intestinal flora, thereby enhancing bioavailability, protecting the gastrointestinal tract, and altering nutrient structures. Additionally, polyphenols exhibit anti-inflammatory and immunomodulatory effects, promoting intestinal health. The interaction between polyphenols and intestinal flora plays a significant role in gastrointestinal health, supporting the composition and diversity of the gut microbiota. However, further research is needed to emphasize the importance of human trials and to explore the intricate relationship between SBP and gut microbiota, as these insights are crucial for understanding the mechanisms underlying SBP's benefits for the gastrointestinal tract (GIT).",
+  "publication_date": "2024-12-21",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2024.142591",
+  "entities": {
+    "POLYPHENOL": [
+      "-inflammatory and immunomodulatory effects",
+      "its protective role",
+      "polyphenols",
+      "sea buckthorn polyphenols",
+      "the effects",
+      "the mechanisms"
+    ]
+  }
+}

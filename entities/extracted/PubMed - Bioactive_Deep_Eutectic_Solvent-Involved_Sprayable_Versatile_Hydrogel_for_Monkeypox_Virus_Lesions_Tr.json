@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Bioactive Deep Eutectic Solvent-Involved Sprayable Versatile Hydrogel for Monkeypox Virus Lesions Treatment.",
+  "abstract": "To address the issues of infectious virus, bacterial secondary infections, skin pigmentation, and scarring caused by monkeypox virus (MPXV), a sprayable hydrogel with versatile functions was developed with comprehensive properties. Based on current research, the bioactive deep eutectic solvent (DES) of rosmarinic acid-proanthocyanidin-glycol (RPG) was designed and synthesized as active agent, and molecular docking was applied to discover its binding to MPXV proteins through H-bonds and van der Waals interactions, and the docking results show the binding energies between RA, PC, Gly and MPXV proteins are -58.7188, -50.2311, and -18.4755 kcal/mol, respectively. Additionally, poly(vinyl alcohol) (PVA), borate, and xylitol (Xyl) were integrated with RPG to prepare the PB-RPG-Xyl hydrogel, which was characterized by popular ways. The pH-responsive properties of the hydrogel accelerated the release of RPG under acidic conditions, resulting in an increased cumulative release percentage of 84.83% at pH 5.5 at 210 min. Besides that, it was proved to have the expected sprayability, self-healing, adhesion, and shape-adaptability. The results of molecular dynamic simulation were meaningful to understanding its formation and self-healing mechanisms. Furthermore, the hydrogel shows ideal degradability, removability, and biocompatibility. Lastly, its multiple functions were systematically explored, including UV-blocking, blood clotting, cooling, antioxidant, antibacterial, and virus inhibition properties. The developed sprayable PB-RPG-Xyl hydrogel represents the first promising dressing based on natural bioactive DES for MPXV lesions management, which not only expands the application of green solvents in health care but also provides a convenient and effective treatment process for MPXV infection in the face of difficult skin lesions and complex treatment needs.",
+  "publication_date": "2024-12-27",
+  "journal": "ACS applied materials & interfaces",
+  "doi": "10.1021/acsami.4c14905",
+  "entities": {
+    "POLYPHENOL": [
+      "a convenient and effective treatment process",
+      "bacterial secondary infections",
+      "deep eutectic solvent",
+      "infectious virus",
+      "molecular docking",
+      "molecular dynamic simulation",
+      "mpxv infection",
+      "self-healing mechanisms",
+      "the expected sprayability"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Selective PPAR\u03b3 modulator alpinetin restores insulin sensitivity and protects from bone loss in type 2 diabetes.",
+  "abstract": "Type 2 diabetes mellitus (T2DM) poses a significant global health burden, with its escalating prevalence and related complications. Although peroxisome proliferator-activated receptor gamma (PPAR\u03b3) agonists such as thiazolidinediones effectively enhance insulin sensitivity, their use is limited by adverse effects, including bone loss. Recent research has focused on developing selective PPAR\u03b3 modulators with improved safety profiles. Alpinetin (Apt), a naturally occurring flavonoid, has demonstrated anti-inflammation potential; however, its impact on insulin signaling and bone metabolism under diabetic conditions has yet to be investigated.",
+  "publication_date": "2025-06-18",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.157003",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring flavonoid",
+      "adverse effects",
+      "recent research",
+      "selective ppar\u03b3 modulators"
+    ],
+    "SYMPTOM": [
+      "anti-inflammation potential",
+      "bone loss"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Multi-task detection of pesticide residues in Allium tuberosum using a colorimetric sensor array based on anthocyanin dyes combined with a pattern recognition algorithm.",
+  "abstract": "Rapid and reliable detection of pesticide residues in Allium tuberosum is essential to ensure food safety and sustainable agriculture. In this study, a novel colorimetric sensor array (CSA) was developed using nine environmentally friendly anthocyanins as dyes and silica gel plates as carriers. And the color change of the CSA in this study was verified to relate to the potential-of-Hydrogen of volatile organic compounds in the sample by headspace solid-phase microextraction combined with gas chromatography-mass spectrometry. This CSA was combined with pattern recognition models to achieve detection of pesticide category, concentration and content in Allium tuberosum: the convolutional neural network classifier achieved 100\u00a0% accuracy for pesticide types classification and 75\u00a0%-100\u00a0% accuracy for concentration classification. And the root mean square error of the support vector regression model reached 1.02-2.68\u00a0mg/kg, and the correlation coefficient reached 0.93-0.95. This method has great potential for routine, rapid food safety detection.",
+  "publication_date": "2025-06-24",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145296",
+  "entities": {
+    "POLYPHENOL": [
+      "detection",
+      "gas chromatography-mass spectrometry",
+      "pattern recognition models",
+      "rapid and reliable detection",
+      "routine, rapid food safety detection",
+      "the support vector regression model"
+    ]
+  }
+}

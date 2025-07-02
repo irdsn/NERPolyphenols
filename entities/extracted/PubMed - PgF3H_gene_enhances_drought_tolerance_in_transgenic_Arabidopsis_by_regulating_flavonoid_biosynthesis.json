@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "PgF3H gene enhances drought tolerance in transgenic Arabidopsis by regulating flavonoid biosynthesis and stress response.",
+  "abstract": "Water stress stimulates plants to regulate flavonoid biosynthesis. Overexpression of the PgF3H gene increases flavonoid levels and drought tolerance in Arabidopsis, with stress-responsive elements in the PgF3H promoter indicating its role in drought response. Water stress significantly impairs plant growth and yield, but plants combat this through various strategies, including flavonoid biosynthesis regulation. Flavonoids, crucial secondary metabolites, aid in plant development and stress responses. Pearl millet, a drought-tolerant crop, produces high levels of secondary metabolites like flavonoids and anthocyanins via the phenylpropanoid pathway. Research indicates that flavonoid-encoding genes are prevalent in drought-tolerant pearl millet variants, hinting at their role in drought response, though their exact functions are not fully understood. This study highlights the essential role of pearl millet flavanone 3-hydroxylase (PgF3H) in flavonoid biosynthesis. To validate this function, PgF3H was expressed in flavonoid-deficient Arabidopsis mutant backgrounds: Atf3h (defective in flavanone 3-hydroxylase activity), Atans (mutated in anthocyanidin synthase, leading to impaired anthocyanin production), and Atanr (a regulatory mutant with altered anthocyanin accumulation). The PgF3H overexpression led to partial or complete restoration of flavonoid production in these mutants, reinforcing the gene's role in biosynthesis and drought resilience. In silico analysis of the PgF3H promoter revealed stress-responsive elements, and ProPgF3H::GUS expressing lines showed increased GUS expression with higher PEG concentrations. The in silico structure of PgF3H revealed a 2OG-Fe(II) oxygenase domain, crucial in the flavonoid biosynthetic pathway. In conclusion, PgF3H overexpression enhances drought tolerance in Arabidopsis, suggesting a potential strategy for improving crop drought resistance by manipulating flavonoid biosynthesis.",
+  "publication_date": "2025-06-20",
+  "journal": "Plant cell reports",
+  "doi": "10.1007/s00299-025-03524-8",
+  "entities": {
+    "SYMPTOM": [
+      "stress responses",
+      "stress-responsive elements",
+      "water stress"
+    ],
+    "POLYPHENOL": [
+      "anthocyanidin synthase",
+      "crucial secondary metabolites",
+      "flavonoid biosynthesis",
+      "flavonoid biosynthesis regulation",
+      "flavonoid levels",
+      "flavonoid production",
+      "flavonoid-deficient arabidopsis mutant backgrounds",
+      "flavonoid-encoding genes",
+      "flavonoids",
+      "secondary metabolites",
+      "the flavonoid biosynthetic pathway"
+    ],
+    "FOOD": [
+      "drought-tolerant pearl millet variants",
+      "pearl millet",
+      "pearl millet flavanone"
+    ]
+  }
+}

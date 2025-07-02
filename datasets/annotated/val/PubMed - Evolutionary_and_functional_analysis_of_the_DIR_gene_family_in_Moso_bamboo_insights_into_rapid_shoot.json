@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Evolutionary and functional analysis of the DIR gene family in Moso bamboo: insights into rapid shoot growth and stress responses.",
+  "abstract": "Dirigent (DIR) proteins are key regulators of lignin and lignan biosynthesis and play critical roles in plant hormone responses, abiotic stress tolerance, and growth and development. This study identified and characterized 47PeDIRgenes in Moso bamboo, classifying them into three groups. Phylogenetic and comparative analyses revealed strong evolutionary conservation, with the Moso bambooPeDIRgenes being most closely related to those in rice and maize. DIR proteins within each subfamily exhibited high conservation in motif composition, domain structure, and 3D configuration. Subcellular localization and protein interaction studies further elucidatedPeDIRgene functions. Specifically, PeDIR02 primarily localized to the cell membrane and was shown to be unable to form homodimers in yeast two-hybrid (Y2H) assays. Transcriptome and expression analyses revealed the involvement ofPeDIRgenes in rapid shoot growth, indicating roles in lignin biosynthesis and cell wall modification. Transcriptome and qRT-PCR data also demonstrated the responsiveness of these genes to hormones and abiotic stresses, such as drought and salinity. This study constructed the first comprehensive regulatory network between transcription factors (TFs) andPeDIRgenes, identifying ERF, DOF, and MYB TFs as key synergistic regulators ofPeDIRgene expression.",
+  "publication_date": "2025-02-25",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2025.1535733",
+  "entities": {
+    "SYMPTOM": [
+      "abiotic stress tolerance",
+      "abiotic stresses"
+    ],
+    "FOOD": [
+      "3d configuration"
+    ]
+  }
+}

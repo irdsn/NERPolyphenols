@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Functionalized Zinc Oxide Nanoparticles Conjugated With Artemisinin Against Luperox-Induced Oxidative Stress and Their Impact on Antioxidant Defense Mechanism.",
+  "abstract": "Reactive oxygen species (ROS) are the by-products of energy metabolism, which play various key roles in the body's metabolism. However, excessive ROS production may contribute to several diseases. Reports suggest that the functional properties of the nanoparticles can be altered by conjugating a plant's secondary metabolite. Artemisinin, extracted from Artemisia annua, was reported to have various therapeutic properties. We aim to synthesise artemisinin-conjugated zinc oxide nanoparticles (ART-ZnO NPs) and evaluate their antioxidant properties. In vitro studies showed that ART-ZnO NPs have the ability to scavenge free radicals effectively. The zebrafish developmental toxicity studies indicated that ART-ZnO NPs can protect the zebrafish larvae exposed to Luperox-induced oxidative stress from developmental and cognitive impairment. Further enzymatic analysis revealed that the ART-ZnO NPs upregulated the Antioxidant enzymes and downregulated the oxidative stress markers like lipid peroxidation and nitric oxide production. Additionally, they improved acetylcholinesterase enzyme activity, crucial for neuronal function, in stressed larvae. The fluorescence microscopy investigation showed ART-ZnO NPs also regulated the ROS and ROS-induced cell death in the zebrafish larvae exposed to Luperox-induced oxidative stress. Notably, ART-ZnO NPs increased the expression of both primary and secondary antioxidant enzymes and protected the larvae from oxidative stress-induced cell damage. Our findings strongly support the potential therapeutic properties of ART-ZnO NPs against oxidative stress. Further research is warranted to explore their applications in treating related conditions.",
+  "publication_date": "2025-06-01",
+  "journal": "Journal of biochemical and molecular toxicology",
+  "doi": "10.1002/jbt.70380",
+  "entities": {
+    "POLYPHENOL": [
+      "a plant's secondary metabolite",
+      "both primary and secondary antioxidant enzymes",
+      "reactive oxygen species"
+    ],
+    "SYMPTOM": [
+      "luperox-induced oxidative stress",
+      "oxidative stress",
+      "oxidative stress-induced cell damage",
+      "stressed larvae",
+      "the oxidative stress markers",
+      "the ros and ros-induced cell death"
+    ]
+  }
+}

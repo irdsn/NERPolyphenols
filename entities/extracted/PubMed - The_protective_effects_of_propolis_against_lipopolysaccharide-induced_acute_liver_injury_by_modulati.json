@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "The protective effects of propolis against lipopolysaccharide-induced acute liver injury by modulating serum metabolites and gut flora.",
+  "abstract": "Propolis has significant hepatoprotective effects, but the active components, targets, and mechanisms have not been fully elucidated. Here, we integrated network pharmacology, serum metabolomics, and 16\u00a0S rRNA sequencing to disclose the hepatoprotective effects of Chinese propolis (CP) by lipopolysaccharide (LPS)-induced acute liver injury (ALI) in mice. The core active ingredients of CP against ALI, including quercetin, luteolin, and kaempferol, can bind stably to pro-inflammatory factors such as TNF-\u03b1, IL-6, IL-1\u03b2, and IFN-\u03b3. CP and its active ingredient quercetin obviously alleviated LPS-induced ALI in mice and downregulated the levels of pro-inflammatory genes (Tnf-\u03b1, Il-1\u03b2, Il-6, Mcp-1, Ifn-\u03b3, and Cox-2) while increasing the protein expression levels of the antioxidant factors Nrf2 and HO-1. Untargeted serum metabolomics analysis indicated that CP and quercetin ameliorated LPS-induced metabolic disorders mainly by modulating the ascorbate and aldarate metabolisms. 16\u00a0S rRNA sequencing demonstrated that CP and quercetin modulated the gut microbiota, augmenting the relative abundance of anti-inflammatory bacteria like Lactobacillus and Dubosiella and diminishing the pro-inflammatory bacteria like Alistipes. Spearman correlation analysis revealed that there existed significant correlations among inflammatory factors, gut microbiota, and differential metabolites of serum after propolis pretreatment. Our research indicated that propolis effectively alleviated pathological damage in LPS-induced ALI mice mainly through partially restoring the ecology of gut flora and metabolic disorders to reduce inflammation.",
+  "publication_date": "2025-05-15",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-01343-1",
+  "entities": {
+    "POLYPHENOL": [
+      "its active ingredient quercetin obviously alleviated lps-induced ali",
+      "kaempferol",
+      "luteolin",
+      "mechanisms",
+      "quercetin",
+      "significant hepatoprotective effects",
+      "the ecology",
+      "the hepatoprotective effects"
+    ],
+    "SYMPTOM": [
+      "acute liver injury",
+      "inflammation"
+    ],
+    "FOOD": [
+      "spearman correlation analysis"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Integrated metabolomic and transcriptomic analysis of anthocyanin metabolism in wheat pericarp.",
+  "abstract": "Wheat seeds display different colors due to the types and contents of anthocyanins, which is closely related to anthocyanin metabolism. In this study, a transcriptomic and metabolomic analysis between white and purple color wheat pericarp aimed to explore some key genes and metabolites involved in anthocyanin metabolism.",
+  "publication_date": "2025-01-13",
+  "journal": "BMC genomic data",
+  "doi": "10.1186/s12863-024-01294-y",
+  "entities": {
+    "FOOD": [
+      "wheat seeds",
+      "white and purple color wheat pericarp"
+    ]
+  }
+}

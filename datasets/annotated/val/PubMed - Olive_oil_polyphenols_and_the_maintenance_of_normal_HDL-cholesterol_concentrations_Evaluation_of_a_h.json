@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Olive oil polyphenols and the maintenance of normal HDL-cholesterol concentrations: Evaluation of a health claim pursuant to Article 13(5) of Regulation (EC) No 1924/2006.",
+  "abstract": "Following an application from University of Bari Aldo Moro, submitted for authorisation of a health claim pursuant to Article 13(5) of Regulation (EC) No 1924/2006 via the Competent Authority of Italy, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver an opinion on the scientific substantiation of a health claim related to olive oil polyphenols and the maintenance of normal blood high-density lipoprotein cholesterol (HDL-c) concentrations. The Panel considers that the food constituent, olive oil polyphenols, is sufficiently characterised. The maintenance of HDL-c concentrations in the blood (without increasing low-density lipoprotein cholesterol concentrations) is a beneficial physiological effect for the general population. The applicant submitted a published systematic review and meta-analysis of 10 human intervention studies, along with the individual studies included therein, investigating the effect of olive oil polyphenols on blood HDL-c concentrations. In weighing the evidence, the Panel took into account that, whereas one human intervention study in adult males showed a dose-dependent increase in HDL-c following daily consumption of olive oil polyphenols for 3\u2009weeks, these results are not supported by other studies and have not been replicated in other population groups or settings. The Panel also took into account that no evidence was available on the sustainability of the effect with continuous consumption of olive oil polyphenols over longer periods of time (e.g. \u2265\u20098\u2009weeks), and that no evidence for a plausible mechanism by which olive oil polyphenols could exert the claimed effect was provided. The Panel concludes that the evidence provided is insufficient to establish a cause-and-effect relationship between the consumption of olive oil polyphenols and the maintenance of normal HDL-c concentrations.",
+  "publication_date": "2025-05-02",
+  "journal": "EFSA journal. European Food Safety Authority",
+  "doi": "10.2903/j.efsa.2025.9372",
+  "entities": {
+    "POLYPHENOL": [
+      "a beneficial physiological effect",
+      "a cause-and-effect relationship",
+      "a plausible mechanism",
+      "ec",
+      "olive oil polyphenols",
+      "the claimed effect",
+      "the effect"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Isochlorogenic Acid C Alleviates Allergic Asthma via Interactions Between Its Bioactive Form and the Gut Microbiome.",
+  "abstract": "The global prevalence of asthma is approximately 4.3%, and current asthma treatments focus on reducing symptoms, maintaining normal activity levels, and preventing the deterioration of lung function, rather than achieving a cure or complete prevention. We identified isochlorogenic acid C (ICGAC) as a potential natural medicine for the treatment of asthma. However, the bioavailability of ICGAC was low, ranging from 14.4% to 16.9%, suggesting the involvement of the gut microbiota. The full spectrum of ICGAC's anti-asthmatic mechanism remains to be elucidated. This study investigated the mechanism by which ICGAC alleviates allergic asthma through the gut-lung axis. We discovered anti-asthma pathways and targets based on the selective regulation of lipid peroxidation and employed pharmacological tools to preliminarily validate their mechanisms and efficacy. To study the role of ICGAC in regulating the gut microbiota, we performed 16S rRNA gene sequencing and metabolite analysis. Furthermore, by combining molecular biology and lipid metabolomics, we elucidated the underlying anti-asthma mechanisms of ICGAC. The effective form of ICGAC varies between single and long-term administration. The oral administration of ICGAC enhances the gut-microbiota-derived production of short-chain fatty acids (SCFAs) as the active substances, modulates immune cell activity, influences the differentiation of T- and B-cells, and reduces airway inflammation. ICGAC also regulates the metabolic network of lipid mediators (LMs) and polyunsaturated fatty acids (PUFAs), thus exerting anti-inflammatory effects by modulating arachidonate lipoxygenase (ALOX) activity and LM levels. In addition, ICGAC enhanced the antioxidant response by upregulating the expression of glutathione peroxidase 4 (GPX4), solute carrier family 7 member 11 (SLC7A11), and nuclear factor erythroid 2-related factor 2 (Nrf2), while inhibiting the release of interleukin-4 (IL-4), thereby suppressing asthma inflammation and IgE production. The anti-asthmatic mechanism of oral ICGAC involves the inhibition of lipid peroxidation by chlorogenic acid (CGA) and SCFAs produced by the gut microbiota. ICGAC suppresses asthma-associated inflammatory and oxidative stress responses through the upregulation of GPX4, SLC7A11, and Nrf2 in lung tissue. This study not only provides a solid foundation for the potential clinical use of ICGAC in asthma treatment but also offers novel insights for future research and therapeutic strategies targeting asthma.",
+  "publication_date": "2025-05-19",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26104864",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory effects",
+      "chlorogenic acid",
+      "icgac's anti-asthmatic mechanism",
+      "isochlorogenic acid c",
+      "molecular biology and lipid metabolomics",
+      "the anti-asthmatic mechanism",
+      "the effective form",
+      "the full spectrum",
+      "the mechanism",
+      "the selective regulation",
+      "the underlying anti-asthma mechanisms",
+      "their mechanisms"
+    ],
+    "SYMPTOM": [
+      "airway inflammation",
+      "asthma inflammation",
+      "oxidative stress responses"
+    ]
+  }
+}

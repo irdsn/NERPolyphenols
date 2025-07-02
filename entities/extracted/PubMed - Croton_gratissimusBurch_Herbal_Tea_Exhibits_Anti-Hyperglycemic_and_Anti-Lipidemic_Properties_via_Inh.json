@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Croton gratissimusBurch Herbal Tea Exhibits Anti-Hyperglycemic and Anti-Lipidemic Properties via Inhibition of Glycation and Digestive Enzyme Activities.",
+  "abstract": "Over the years, the world has continued to be plagued by type 2 diabetes (T2D). As a lifestyle disease, obese individuals are at higher risk of developing the disease. Medicinal plants have increasingly been utilized as remedial agents for managing metabolic syndrome. The aim of the present study was to investigate the in vitro anti-hyperglycemic and anti-lipidemic potential ofCroton gratissimusherbal tea infusion. The inhibitory activities ofC. gratissimuson carbohydrate (\u03b1-glucosidase and \u03b1-amylase) and lipid (pancreatic lipase) hydrolyzing enzymes were determined, and the mode of inhibition of the carbohydrate digestive enzymes was analyzed and calculated via Lineweaver-Burk plots and Michaelis Menten's equation. Its effect on Advanced Glycation End Product (AGE) formation, glucose adsorption, and yeast glucose utilization were also determined. High-performance liquid chromatography (HPLC) was used to quantify the possible phenolic compounds present in the herbal tea infusion, and the compounds were docked with the digestive enzymes.C. gratissimussignificantly (p< 0.05) inhibited \u03b1-glucosidase (IC50= 60.56 \u00b1 2.78 \u03bcg/mL), \u03b1-amylase (IC50= 35.67 \u00b1 0.07 \u03bcg/mL), as well as pancreatic lipase (IC50= 50.27 \u00b1 1.51 \u03bcg/mL) in a dose-dependent (15-240 \u00b5g/mL) trend. The infusion also inhibited the non-enzymatic glycation process, adsorbed glucose effectively, and enhanced glucose uptake in yeast cell solutions at increasing concentrations. Molecular docking analysis showed strong binding affinity between HPLC-quantified compounds (quercetin, caffeic acid, gallic acid, and catechin) ofC. gratissimusherbal tea and the studied digestive enzymes. Moreover, the herbal tea product did not present cytotoxicity on 3T3-L1 cell lines. Results from this study suggest thatC. gratissimusherbal tea could improve glucose homeostasis and support its local usage as a potential anti-hyperglycemic and anti-obesogenic agent. Further in vivo and molecular studies are required to bolster the results from this study.",
+  "publication_date": "2024-07-17",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants13141952",
+  "entities": {
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "type 2 diabetes"
+    ],
+    "FOOD": [
+      "its local usage",
+      "ofc. gratissimusherbal tea",
+      "thatc. gratissimusherbal tea",
+      "the herbal tea infusion",
+      "the herbal tea product",
+      "the in vitro anti-hyperglycemic and anti-lipidemic potential ofcroton gratissimusherbal tea infusion",
+      "the infusion"
+    ],
+    "POLYPHENOL": [
+      "its effect",
+      "molecular docking analysis",
+      "the possible phenolic compounds",
+      "vivo and molecular studies"
+    ]
+  }
+}

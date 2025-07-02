@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "(-)-Epicatechin and the comorbidities of obesity.",
+  "abstract": "Obesity has major adverse consequences on human health contributing to the development of, among others, insulin resistance and type 2 diabetes, cardiovascular disease, non-alcoholic fatty liver disease, altered behavior and cognition, and cancer. Changes in dietary habits and lifestyle could contribute to mitigate the development and/or progression of these pathologies. This review will discuss current evidence on the beneficial actions of the flavan-3-ol (-)-epicatechin (EC) on obesity-associated comorbidities. These benefits can be in part explained through EC's capacity to mitigate several common events underlying the development of these pathologies, including: i) high circulating levels of glucose, lipids and endotoxins; ii) chronic systemic inflammation; iii) tissue endoplasmic reticulum and oxidative stress; iv) insulin resistance; v) mitochondria dysfunction and vi) dysbiosis. The currently known underlying mechanisms and cellular targets of EC's beneficial effects are discussed. While, there is limited evidence from human studies supplementing with pure EC, other studies involving cocoa supplementation in humans, pure EC in rodents and in vitro studies, support a potential beneficial action of EC on obesity-associated comorbidities. This evidence also stresses the need of further research in the field, which would contribute to the development of human dietary strategies to mitigate the adverse consequences of obesity.",
+  "publication_date": "2020-07-14",
+  "journal": "Archives of biochemistry and biophysics",
+  "doi": "10.1016/j.abb.2020.108505",
+  "entities": {
+    "SYMPTOM": [
+      "cancer",
+      "chronic systemic inflammation",
+      "insulin resistance",
+      "obesity",
+      "obesity-associated comorbidities",
+      "type 2 diabetes"
+    ],
+    "POLYPHENOL": [
+      "(ec",
+      "ec",
+      "ec's beneficial effects",
+      "ec's capacity",
+      "pure ec",
+      "the currently known underlying mechanisms"
+    ],
+    "FOOD": [
+      "cocoa supplementation"
+    ]
+  }
+}

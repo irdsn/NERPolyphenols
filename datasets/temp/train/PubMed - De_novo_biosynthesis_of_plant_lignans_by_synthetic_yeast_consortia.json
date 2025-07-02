@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "De novo biosynthesis of plant lignans by synthetic yeast consortia.",
+  "abstract": "Reconstructing the biosynthesis of complex natural products such as lignans in yeast is challenging and can result in metabolic promiscuity, affecting the biosynthetic efficiency. Here we divide the lignan biosynthetic pathway across a synthetic yeast consortium with obligated mutualism and use ferulic acid as a metabolic bridge. This cooperative system successfully overcomes the metabolic promiscuity and synthesizes the common precursor, coniferyl alcohol. Furthermore, combined with systematic engineering strategies, we achieve the de novo synthesis of key lignan skeletons, pinoresinol and lariciresinol, and verify the scalability of the consortium by synthesizing complex lignans, including antiviral lariciresinol diglucoside. These results provide a starting engineering platform for the heterologous synthesis of lignans. In particular, the study illustrates that the yeast consortium with obligate mutualism is a promising strategy that mimics the metabolic division of labor among multiple plant cells, thereby improving the biosynthesis of long pathways and complex natural products.",
+  "publication_date": "2025-03-17",
+  "journal": "Nature chemical biology",
+  "doi": "10.1038/s41589-025-01861-z"
+}

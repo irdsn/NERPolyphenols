@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Millettia speciosaand By-Products: A Comprehensive Review of Chemical Composition, Bioactivities, Safety, and Industrial Applications.",
+  "abstract": "Millettia speciosa(MS) is a traditional medicinal and edible plant with notable nutritional value and a wide range of biological activities. Recent studies have explored its chemical composition and pharmacological effects, particularly focusing on the potential utilization of its by-products. However, a lack of integrated analysis has limited a comprehensive understanding of its functional value and industrial relevance. This review provides a critical overview of the major bioactive components of MS, such as flavonoids, phenolic acids, alkaloids, saponins, and polysaccharides, and highlights their antioxidant, lipid-lowering, antimicrobial, antidepressant, and immune-regulatory properties. In addition, the nutritional aspects of MS, including its protein, amino acid, and mineral contents, are discussed in detail. Safety evaluations based on existing toxicological and pharmacokinetic studies are also summarized. Furthermore, this work outlines the current and emerging applications of MS and its by-products in key industries: in the food sector as functional ingredients and nutritional supplements, in agriculture as biofertilizers and animal feed additives, and in cosmetics for their antioxidative and skin-protective effects. Finally, the review identifies current challenges and prospects for the industrial development of MS-based products across multiple domains.",
+  "publication_date": "2025-06-09",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14122035",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "its chemical composition and pharmacological effects",
+      "prospects",
+      "recent studies",
+      "speciosa(ms",
+      "the food sector",
+      "the nutritional aspects",
+      "their antioxidative and skin-protective effects"
+    ]
+  }
+}

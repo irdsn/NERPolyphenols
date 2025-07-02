@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "3D-Printed Alginate/Pectin-Based Patches Loaded with Olive Leaf Extracts for Wound Healing Applications: Development, Characterization and In Vitro Evaluation of Biological Properties.",
+  "abstract": "Traditional wound dressings may lack suitability for diverse wound types and individual patient requirements. In this context, this study aimed to innovate wound care by developing a 3D-printed patch using alginate and pectin and incorporating Olive Leaf Extract (OLE) as an active ingredient. Different polymer-to-plasticizer ratios were systematically examined to formulate a printable ink with optimal viscosity. The resultant film, enriched with OLE, exhibited a substantial polyphenolic content of 13.15 \u00b1 0.41 mg CAE/g, showcasing significant antioxidant and anti-inflammatory properties. Notably, the film demonstrated potent scavenging abilities against DPPH, ABTS, and NO radicals, with IC50values of 0.66 \u00b1 0.07, 0.47 \u00b1 0.04, and 2.02 \u00b1 0.14 mg/mL, respectively. In vitro release and diffusion studies were carried out and the release profiles revealed an almost complete release of polyphenols from the patch within 48 h. Additionally, the fabricated film exhibited the capacity to enhance cell motility and accelerate wound healing, evidenced by increased collagen I expression in BJ fibroblast cells. Structural assessments affirmed the ability of the patch to absorb exudates and maintain the optimal moisture balance, while biocompatibility studies underscored its suitability for biomedical applications. These compelling findings endorse the potential application of the developed film in advanced wound care, with the prospect of tailoring patches to individual patient needs.",
+  "publication_date": "2024-01-11",
+  "journal": "Pharmaceutics",
+  "doi": "10.3390/pharmaceutics16010099",
+  "entities": {
+    "POLYPHENOL": [
+      "a substantial polyphenolic content",
+      "pectin",
+      "polyphenols",
+      "the prospect"
+    ]
+  }
+}

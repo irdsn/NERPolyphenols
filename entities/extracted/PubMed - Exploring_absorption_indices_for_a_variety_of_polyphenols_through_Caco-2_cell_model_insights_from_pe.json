@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Exploring absorption indices for a variety of polyphenols through Caco-2 cell model: insights from permeability studies and principal component analysis.",
+  "abstract": "Phytochemicals have long been utilized as active ingredients in the developing of novel functional foods or drugs due to their diverse biological and pharmacological effects. Many studies have demonstrated that polyphenols exhibit low absorption rates and are extensively metabolized into various metabolites, resulting in significantly reduced bioavailability.",
+  "publication_date": "2025-05-08",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.14339",
+  "entities": {
+    "FOOD": [
+      "novel functional foods"
+    ],
+    "POLYPHENOL": [
+      "polyphenols",
+      "their diverse biological and pharmacological effects"
+    ]
+  }
+}

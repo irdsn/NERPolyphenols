@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "The Estimation of Phenolic Compounds, Sugars, and Acids of the Cultivar and Clones of Red-Fleshed Apples Based on Image Features.",
+  "abstract": "The genotypes of red-fleshed apples can vary in the intensity of red color and other fruit quality parameters. Crossing red-fleshed apple genotypes may lead to the development of new genotypes with increased health properties desired by apple processors. For fruit samples belonging to 5 genotypes, such as the cultivar 'Trinity' and four clones (90, 120, 156, and 158), image textures and the contents of sucrose, fructose, glucose, sorbitol, total sugars, L-ascorbic acid, malic acid, citric acid, and phenolic compounds were measured. Five groups of polyphenols, namely, flavanols, dihydrochalcones, anthocyanins, flavonols, and phenolic acids, were determined. The correlations between the chemical and image properties of apple samples were determined. The regression equations to estimate the chemical compounds content in red-fleshed apple samples based on image features were set. Generally, the results revealed that red-fleshed apple clones and a cultivar can statistically significantly differ in the content of phenolic compounds, sugars, and acids. Strong relationships between all examined chemical parameters with selected image texture features were observed. The highest correlation coefficients were found between citric acid with texture ZS5SH3Correlat (R = -0.999), total flavanols with RS5SH5Correlat (R = 0.999), quercetin-xyloside (group of flavonols) with XS5SH5Entropy (R = 0.999), and total sugars with GS5SH1SumVarnc (R = -0.998). The developed regression equations allowed for correct estimations of acid, sugar, and phenolic compound contents based on image textures with the coefficients of determination (R2) reaching 0.998 for citric acid, total flavanols, and quercetin-xyloside, and 0.996 for total sugars.",
+  "publication_date": "2025-03-25",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14071138",
+  "entities": {
+    "FOOD": [
+      "apple processors",
+      "apple samples",
+      "red-fleshed apple clones",
+      "red-fleshed apple genotypes",
+      "red-fleshed apple samples",
+      "red-fleshed apples"
+    ],
+    "POLYPHENOL": [
+      ", quercetin-xyloside",
+      "correct estimations",
+      "phenolic compound contents",
+      "phenolic compounds",
+      "polyphenols",
+      "quercetin-xyloside",
+      "selected image texture"
+    ]
+  }
+}

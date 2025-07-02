@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Therapeutic Effects of Naringin on Bisphenol A-Induced Oxidative Stress Damage in Nervous and Reproductive Systems of Cockerel Chickens.",
+  "abstract": "Bisphenol A (BPA) is an endocrine-disrupting chemical, and it is mostly used in plastic industries. Naringin is a potent flavonoid that has been reported to possess several beneficial pharmacological properties such as antioxidant, anti-inflammatory, and antiapoptotic properties.",
+  "publication_date": "2025-06-01",
+  "journal": "Veterinary medicine and science",
+  "doi": "10.1002/vms3.70322",
+  "entities": {
+    "POLYPHENOL": [
+      "a potent flavonoid",
+      "naringin"
+    ]
+  }
+}

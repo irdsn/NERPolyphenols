@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Furofuran and tetrahydrofuran lignans from Lancea tibetica.",
+  "abstract": "Seven undescribed lignans, including four furofuran lignans (lanceticosides A-D) and three tetrahydrofuran lignans (lanceticosides E-G), along with seven known lignans, were isolated from the whole herb of Lancea tibetica. Their structures were elucidated by NMR spectroscopic data, HR-ESI-MS, electronic circular dichroism (ECD) data and calculations, and single crystal X-ray diffraction analysis. The application of ECD spectra in determining the absolute configuration of furofuran and tetrahydrofuran lignans has also been proposed. Compounds 1, 3, and 12 demonstrated moderate antioxidant activity, with IC50values of 236.6, 173.4, and 190.0\u00a0\u03bcM, respectively.",
+  "publication_date": "2025-05-20",
+  "journal": "Phytochemistry",
+  "doi": "10.1016/j.phytochem.2025.114552",
+  "entities": {
+    "POLYPHENOL": [
+      "ecd spectra",
+      "ecd) data",
+      "electronic circular dichroism",
+      "nmr spectroscopic data"
+    ],
+    "FOOD": [
+      "the absolute configuration"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Nurturing through Nutrition: Exploring the Role of Antioxidants in Maternal Diet during Pregnancy to Mitigate Developmental Programming of Chronic Diseases.",
+  "abstract": "Chronic diseases represent one of the major causes of death worldwide. It has been suggested that pregnancy-related conditions, such as gestational diabetes mellitus (GDM), maternal obesity (MO), and intra-uterine growth restriction (IUGR) induce an adverse intrauterine environment, increasing the offspring's predisposition to chronic diseases later in life. Research has suggested that mitochondrial function and oxidative stress may play a role in the developmental programming of chronic diseases. Having this in mind, in this review, we include evidence that mitochondrial dysfunction and oxidative stress are mechanisms by which GDM, MO, and IUGR program the offspring to chronic diseases. In this specific context, we explore the promising advantages of maternal antioxidant supplementation using compounds such as resveratrol, curcumin,N-acetylcysteine (NAC), and Mitoquinone (MitoQ) in addressing the metabolic dysfunction and oxidative stress associated with GDM, MO, and IUGR in fetoplacental and offspring metabolic health. This approach holds potential to mitigate developmental programming-related risk of chronic diseases, serving as a probable intervention for disease prevention.",
+  "publication_date": "2023-10-31",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu15214623",
+  "entities": {
+    "SYMPTOM": [
+      "maternal obesity",
+      "mitochondrial dysfunction",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "curcumin",
+      "mechanisms",
+      "resveratrol",
+      "this specific context"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Polyphenolic profiles of a variety of wild berries from the Pacific Northwest region of North America.",
+  "abstract": "Polyphenols have been extensively profiled and quantified in commercially grown berries, but similar information is sparsely available for wild berries. Because polyphenolic contents are inherently associated with berries health benefits, determining phenolic profiles is an important step for strategizing potential uses by the industry and for health and nutrition outcomes. Here, we profiled phenolic compounds in wild berries commonly encountered and harvested in the Pacific Northwest region of North America. Huckleberries (Vaccinium membranaceum) of varying phenotypes were found to be comparable to related blueberries in terms of general phenolic classes composition. However, all huckleberries exhibited markedly high levels of cyanidins, and delphinidins or peonidins were also higher in specific phenotypes. Wild black elderberries (Sambucus nigraspp.Canadensis) were found to have remarkably high phenolic, especially anthocyanins, in line with reports from cultivated elderberries. Saskatoon serviceberries (Amelanchier alnifolia) were found to exhibit high polyphenol content, but with a less diverse profile dominated by quercetin. The most intriguing berry may be the Oregon grape (Mahonia Aquifolium) being the only one exhibiting more than one g of polyphenols per 100\u00a0g; as well as a remarkably even distribution of the different anthocyanin classes. All colored wild berries were found to have at minimum comparable total phenolic contents when compared to cultivated and other wild berries, suggesting they should exhibit comparable human health benefits such as antioxidant and metabolic syndrome preventative potential described for these other berries. Overall, our data represents a valuable resource to explore the potential to valorize wild berry species for their specific phenolic profiles and predicted nutritional and health properties. With repeated phenolic profiling to better understand the impact of the environment, the wild berries described here hold promises both as food ingredient applications as well as valuable complement for healthy dietary patterns.",
+  "publication_date": "2023-08-16",
+  "journal": "Current research in food science",
+  "doi": "10.1016/j.crfs.2023.100564",
+  "entities": {
+    "POLYPHENOL": [
+      "cyanidins",
+      "delphinidins",
+      "especially anthocyanins",
+      "high polyphenol content",
+      "peonidins",
+      "phenolic compounds",
+      "polyphenolic contents",
+      "polyphenols",
+      "quercetin",
+      "specific phenotypes",
+      "their specific phenolic profiles",
+      "wild berry species"
+    ],
+    "FOOD": [
+      "related blueberries",
+      "the oregon grape"
+    ],
+    "SYMPTOM": [
+      "antioxidant and metabolic syndrome preventative potential"
+    ]
+  }
+}

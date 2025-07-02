@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Black Raspberry Polyphenols Shape Metabolic Dysregulation and Perturbation in Gut Microbiota to Promote Lipid Metabolism and Liver Regeneration.",
+  "abstract": "Black raspberry as a functional food is a potential modulator of human metabolic disease. However, the role of black raspberry polyphenols (HSM) in shaping metabolic dysregulation and perturbation in gut microbiota (GM) to promote lipid metabolism and liver regeneration is unclear. In this work, the effects of HSM in mitigating metabolic disturbances and hepatic damage induced by a high-fat diet (HFD) and antibiotics (Abs) in mice were measured. HSM significantly alleviated HFD-induced obesity, insulin resistance, lipid and glucose metabolic dysregulation, as well as hepatic damage by activating the PI3K/AKT pathway and pregnane X receptor (PXR)-farnesoid X receptor (FXR) axis with improved GM, which was evidenced by short-chain fatty acids, 16S, and nontarget metabolism analysis. Excellent results were also evident in mice treated with Abs. Besides, HSM markedly inhibited key digestive enzymes associated with metabolic syndrome and also significantly enhanced antioxidant capacity after metabolized by GM. The discoveries underscored the potential of dietary HSM to manage lipid metabolism and liver regeneration within GM homeostasis.",
+  "publication_date": "2025-03-25",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c00702",
+  "entities": {
+    "FOOD": [
+      "a functional food",
+      "black raspberry"
+    ],
+    "POLYPHENOL": [
+      "black raspberry polyphenols",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

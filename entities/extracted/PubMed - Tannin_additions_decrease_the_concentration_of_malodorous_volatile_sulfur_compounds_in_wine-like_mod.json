@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Tannin additions decrease the concentration of malodorous volatile sulfur compounds in wine-like model solutions and wine.",
+  "abstract": "Hydrogen sulfide (H2S), methanethiol (MeSH) and ethanethiol (EtSH) are volatile sulfur compounds (VSCs) produced during winemaking and are associated with negative 'reductive' aromas in wine. Anecdotal evidence suggests that oenological tannins may be used to remediate the 'reductive' character of wines, yet little scientific evidence or explanation supporting this observation has been published. In this study, it was found that the addition of oenological tannins significantly decreased H2S, MeSH, and EtSH in model wine by up to 92\u00a0%, 90\u00a0% and 86\u00a0%, respectively, after two weeks of storage. Furthermore, the removal of H2S from real wine matrices was accelerated at high pH levels. The reaction products of polyphenol oxidation and their ability to ameliorate the presence of MeSH and EtSH were studied in model systems and wines, and vescalagin/castalagin adducts of MeSH and EtSH were subsequently produced. This study provides evidence for the mechanism through which oenological tannins may diminish 'reductive' aromas in wine.",
+  "publication_date": "2025-01-07",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.142777",
+  "entities": {
+    "FOOD": [
+      "model wine",
+      "real wine matrices",
+      "wine",
+      "wines"
+    ],
+    "POLYPHENOL": [
+      "anecdotal evidence",
+      "oenological tannins",
+      "polyphenol oxidation",
+      "the mechanism"
+    ]
+  }
+}

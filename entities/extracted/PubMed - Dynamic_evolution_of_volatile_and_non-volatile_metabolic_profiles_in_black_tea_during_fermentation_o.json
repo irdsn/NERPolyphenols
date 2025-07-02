@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Dynamic evolution of volatile and non-volatile metabolic profiles in black tea during fermentation on an industrial scale.",
+  "abstract": "The effect of fermentation process on the formation of quality compounds of crush-tear-curl black tea (CTCBT) was unclear. In this study, a total of nine characteristic volatile compounds were screened, and their contents generally exhibited an upward trend during the fermentation process. Among them, the increase in the contents of phenylethanal, 2,4-hexadienal, and guaiacol contributed to the formation of a sweet aroma in tea, while the increase in hexanal and (2E)-hexanal contents helped suppress the production of off-flavors. Additionally, 68 non-volatile differential metabolites were identified. Fermentation primarily influenced the biosynthesis of flavonoids and amino acids, and regulated the taste quality of tea by promoting the oxidative degradation of tea polyphenols, the acylation of amino acids, and the breakdown of nucleotides. This provides an in-depth understanding of the dynamic evolution of quality compounds during the fermentation of CTCBT.",
+  "publication_date": "2025-04-30",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144582",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "tea polyphenols",
+      "the effect"
+    ],
+    "FOOD": [
+      "crush-tear-curl black tea"
+    ]
+  }
+}

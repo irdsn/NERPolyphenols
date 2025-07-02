@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Caryocar brasilienseCamb. Fruit Improves Health and Lifespan inCaenorhabditis elegans.",
+  "abstract": "TheCaryocar brasilienseCamb. is a native Brazilian Cerrado species, considered the symbol of this biome. This tree produces a fruit known as pequi, which is much appreciated in Brazilian traditional culinary and is also used in popular medicine. However, there is still limited knowledge about the pharmaceutical potential of the fruit ofC. brasiliense. In this study, we evaluated the bioactive compounds present in the lyophilized fruit pulp ofC. brasiliense(CBFP) and investigated its antioxidant properties in\u00a0vitro and in\u00a0vivo, as well as its effects on models of Alzheimer's disease and longevity. As a main result, we revealed that CBFP presented phenolic and flavonoid constituents, lipophilic compounds, and ascorbic acid. The in\u00a0vitro antioxidant activity was observed through free radical scavenging and DNA protection against oxidative damage. In the in\u00a0vivo life quality assay, no signs of CBFP-induced toxicity were observed, and nematode viability and reproductive capacity remained unaltered. Furthermore, CBFP treatment delayed paralysis in the Alzheimer's disease mutant strain and improved locomotor capacity during aging in the wild-type strain. CBFP increased the lifespan ofC. elegansand enhanced resistance to oxidative and heat stresses. Together, our findings demonstrate that CBFP exhibited beneficial effects on healthspan, attributed to its antioxidant properties and the regulation of oxidative stress.",
+  "publication_date": "2025-06-07",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70384",
+  "entities": {
+    "POLYPHENOL": [
+      "a native brazilian cerrado species",
+      "beneficial effects",
+      "dna protection",
+      "its effects",
+      "phenolic and flavonoid constituents",
+      "thecaryocar brasiliensecamb"
+    ],
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "oxidative and heat stresses",
+      "oxidative damage",
+      "oxidative stress",
+      "the alzheimer's disease mutant strain"
+    ]
+  }
+}

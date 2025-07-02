@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "The Chemical Exposome on Ovarian Aging in Adult Women: a Narrative Review.",
+  "abstract": "The effects of environmental exposures on female reproductive outcomes in early life are well studied. In contrast, we do not understand the broad range of chemical risk factors on women's reproductive physiology during midlife. The purpose of this review is to summarize the epidemiological literature on associations between environmental exposures (i.e., phthalates, phenols, per- and polyfluoroalkyl substances (PFAS), toxic metals, air pollution, and persistent organic compounds) and ovarian function and sex hormones as women approach and transverse the menopausal transition.",
+  "publication_date": "2025-02-19",
+  "journal": "Current pollution reports",
+  "doi": "10.1007/s40726-025-00341-1",
+  "entities": {
+    "POLYPHENOL": [
+      "the effects"
+    ]
+  }
+}

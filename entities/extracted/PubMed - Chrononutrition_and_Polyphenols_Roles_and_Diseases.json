@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Chrononutrition and Polyphenols: Roles and Diseases.",
+  "abstract": "Biological rhythms can influence the activity of bioactive compounds, and at the same time, the intake of these compounds can modulate biological rhythms. In this context, chrononutrition has appeared as a research field centered on the study of the interactions among biological rhythms, nutrition, and metabolism. This review summarizes the role of phenolic compounds in the modulation of biological rhythms, focusing on their effects in the treatment or prevention of chronic diseases. Heterotrophs are able to sense chemical cues mediated by phytochemicals such as phenolic compounds, promoting their adaptation to environmental conditions. This is called xenohormesis. Hence, the consumption of fruits and vegetables rich in phenolic compounds exerts several health benefits, mainly attributed to the product of their metabolism. However, the profile of phenolic compounds present in plants differs among species and is highly variable depending on agricultural and technological factors. In this sense, the seasonal consumption of polyphenol-rich fruits could induce important changes in the regulation of physiology and metabolism due to the particular phenolic profile that the fruits contain. This fact highlights the need for studies that evaluate the impact of these specific phenolic profiles on health to establish more accurate dietary recommendations.",
+  "publication_date": "2019-10-30",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu11112602",
+  "entities": {
+    "POLYPHENOL": [
+      "agricultural and technological factors",
+      "more accurate dietary recommendations",
+      "phenolic compounds",
+      "polyphenol-rich fruits",
+      "species",
+      "their effects",
+      "these specific phenolic profiles"
+    ]
+  }
+}

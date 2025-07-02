@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Rapid processing of liquid chromatography mass spectrometry data for compound screening and characterization in complex matrix based on python: with Meconopsis quintuplinervia Regel as an example.",
+  "abstract": "Herbal extracts are time-consuming and laborious to analyse by traditional methods due to the complexity of their composition. Therefore, it is necessary to develop a rapid identification tool. In this study, a mass spectrometry data processing workstation was designed based on python language, which can rapidly screen and comprehensively characterize the components of herbal medicines. The main steps are as follows: (1) data acquisition by ultra-high-performance liquid chromatography coupled with Q-Exactive MS/MS (UPLC-QE-MS/MS); (2) conversion of mass spectrometry raw data file format and collection of key information; (3) enumeration of permutations and combinations of core structures and substituents based on the structural features of common flavonoids, and establishment of a database of precursor ions. (4) matching precursor ions from mass spectrometry data to a database and labeling mass spectrometry fragment ions based on structural information provided by the database;(5) establishment of a rating system for evaluating compound combinations based on mass spectrometry fragmentation information; (6) information on combinations of highly rated compounds was collected, analyzed for retention times and ionic behavior, and compared with online databases for further structural confirmation. Taking Meconopsis quintuplinervia Regel as an example, 140 flavonoids were finally preliminarily characterized. The results showed that the collection and identification of mass spectrometry information with the help of the mass spectrometry data processing workstation is fast and effective, and can be used for the rapid screening and characterization of compounds in traditional Chinese medicine or other complex matrix.",
+  "publication_date": "2025-05-05",
+  "journal": "Journal of chromatography. A",
+  "doi": "10.1016/j.chroma.2025.466022",
+  "entities": {
+    "POLYPHENOL": [
+      "(4) matching precursor ions",
+      "140 flavonoids",
+      "a mass spectrometry data processing workstation",
+      "collection",
+      "common flavonoids",
+      "mass spectrometry data",
+      "mass spectrometry fragment ions",
+      "mass spectrometry fragmentation information",
+      "mass spectrometry information",
+      "mass spectrometry raw data file format",
+      "meconopsis",
+      "precursor ions",
+      "the collection",
+      "the mass spectrometry data processing workstation"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Lignocellulosic hydrolysate composition influences contamination profiles in ethanol production.",
+  "abstract": "Second-generation ethanol is a promising renewable alternative to traditional transportation fuels. However, its large-scale production via fermentation faces economic and technical challenges, including microbial contamination. This study evaluates how ten common lignocellulosic inhibitors, formed during biomass pretreatment, affect the growth of the industrial bioethanol yeast strain Saccharomyces cerevisiae PE-2 and two bacterial contaminants Lactiplantibacillus plantarum I4a and Limosilactobacillus fermentum I3a. The bacteria demonstrated greater resilience to furanic compounds than yeast. In heterofermentative bacteria, furanic compounds stimulated growth, increasing the maximum specific growth rate (\u03bcmax) from 0.35\u00a0h-1(control) to 0.46\u00a0h-1and 0.40\u00a0h-1with 1\u00a0g\u00b7L-1HMF and 1.5\u00a0g\u00b7L-1furfural, respectively. In contrast, yeast \u03bcmaxdropped to 35\u00a0% of the control when exposed to furfural. Organic acids, particularly formic acid, were the most inhibitory to both yeast and bacteria, due to their low pKa and high membrane permeability, blocking completely the growth of both bacteria and yeast at 2\u00a0g\u00b7L-1. S. cerevisiae PE-2 exhibited greater tolerance to phenolic compounds, maintaining a relative \u00b5maxof 50\u00a0% compared to the control, even at low concentrations that were sufficient to inhibit bacterial growth. These findings highlight the critical role of hydrolysate composition in shaping contamination profiles, as yeast and bacteria display distinct inhibitor tolerances. Targeting bacterial contaminants and selecting robust yeast strains capable of withstanding inhibitory conditions are essential strategies to improve fermentation efficiency, addressing a key barrier to the economic viability of second-generation ethanol production.",
+  "publication_date": "2025-06-17",
+  "journal": "Bioresource technology",
+  "doi": "10.1016/j.biortech.2025.132838",
+  "entities": {
+    "POLYPHENOL": [
+      "economic and technical challenges",
+      "phenolic compounds",
+      "second-generation ethanol",
+      "second-generation ethanol production",
+      "the economic viability",
+      "the maximum specific growth rate"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Quality by design-based optimization and HP-TLC densitometric standardization ofTheobroma cacaoL. extract as a nutraceutical supplement.",
+  "abstract": "Our previous studies identified the hydroalcoholic extract of defattedTheobroma cacaoL. bean (CE) as a cancer-preventive and a protective agent against chemotherapeutic-induced toxicities, specifically doxorubicin-induced heart, liver, and kidney toxicities.",
+  "publication_date": "2025-04-09",
+  "journal": "Frontiers in nutrition",
+  "doi": "10.3389/fnut.2025.1537963",
+  "entities": {
+    "POLYPHENOL": [
+      "a protective agent",
+      "specifically doxorubicin-induced heart"
+    ]
+  }
+}

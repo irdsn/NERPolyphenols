@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Schisandrin B targets CDK4/6 to suppress proliferation and enhance radiosensitivity in nasopharyngeal carcinoma by inducing cell cycle arrest.",
+  "abstract": "Nasopharyngeal carcinoma (NPC) is notably prevalent in East and Southeast Asia, where despite advancements in radiotherapy leading to high control rates, challenges like radioresistance and collateral tissue damage remain significant. While Schisandrin B (SchB) has been demonstrated antitumor effects in various tumors, its efficacy in NPC remains unexplored. In this study, we explored the antitumor potential of Sch B on NPC, particularly its effects on cell proliferation and radiosensitivity. Our research demonstrates that Sch B effectively inhibits the proliferation of NPC cell lines HONE-1 and CNE-1 by inducing cell cycle G1 phase arrest, specifically through the down-regulation of cyclin-dependent kinase 4/6, without impacting the normal nasopharyngeal epithelial cell line NP69. This selective inhibitory effect positions Sch B as a targeted therapeutic agent, sparing healthy tissue from adverse effects. Furthermore, we observed that Sch B enhances the efficacy of radiotherapy in NPC cells by obstructing DNA double-strand break repair mechanisms, suggesting that a combined treatment regimen of Sch B and radiation could offer a superior therapeutic strategy. These findings propose Sch B not only as a potent inhibitor of NPC cell proliferation but also as an enhancer of radiosensitivity, providing a promising avenue for improving NPC treatment outcomes.",
+  "publication_date": "2025-03-12",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-92992-9",
+  "entities": {
+    "POLYPHENOL": [
+      "adverse effects",
+      "antitumor effects",
+      "dna double-strand break repair mechanisms",
+      "particularly its effects",
+      "this selective inhibitory effect positions"
+    ]
+  }
+}

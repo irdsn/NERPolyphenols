@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "A smart drug delivery microgel system with phased intervention capabilities and dual physical state of use promotes healing of diabetic infected wounds.",
+  "abstract": "Effectively managing infected diabetic wounds involves the elimination of bacteria, neutralization of reactive oxygen species (ROS), suppression of inflammation, and induction of angiogenesis. This study describes the development of a multifunctional hyaluronic acid (HA)-based microgel system capable of serving as either an injectable wet microgel or dry microspheres (MSs). After initially engineering Fe2+/tea polyphenol (TP) metal-polyphenol network (MPN)-functionalized HAMA MS, these particles were found to suppress inflammation and facilitate ROS scavenging. A deferoxamine (DFO)-loaded zinc-based metal-organic framework (ZIF-8@DFO) was then coated using phenylboronic acid (PBA)-functionalized \u03b5-polylysine (PPL) to produce PPZD nanoparticles with antibacterial and pro-angiogenic properties. The dynamic loading of PPZD into MPN-functionalized MS (MMS)viaboron ester bonds then yielded a pH/ROS-responsive microgel system (MMS@PPZD). PPL coating endowed the prepared materials with antimicrobial properties while mitigating cytotoxic effects resulting from the rapid release of Zn2+and DFO in acidic micro-environments. This microgel system showed superior biocompatibility and phased intervention activities aligned with the various stages of the wound healing processin vitroandin vivo.Specifically, under acidic conditions, the system sequentially released TP, PL, Zn2+, and DFO, enabling effective ROS scavenging, suppressing inflammation, exhibiting antibacterial activity, and inducing angiogenesis. Overall, this environmentally-responsive, multifunctional, versatile microgel system offers significant promise for infected diabetic wound management.",
+  "publication_date": "2025-03-26",
+  "journal": "Journal of materials chemistry. B",
+  "doi": "10.1039/d4tb02474e",
+  "entities": {
+    "POLYPHENOL": [
+      "cytotoxic effects",
+      "effective ros scavenging",
+      "either an injectable wet microgel",
+      "infected diabetic wound management",
+      "infected diabetic wounds",
+      "initially engineering fe2+/tea polyphenol (tp) metal-polyphenol network",
+      "reactive oxygen species"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

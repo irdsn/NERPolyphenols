@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Evaluating the anti-inflammatory and antioxidant efficacy of complementary and alternative medicines (CAM) used for management of inflammatory bowel disease: a comprehensive review.",
+  "abstract": "Inflammatory bowel disease (IBD) is a chronic autoimmune condition whose pathogenesis has not been fully elucidated, and current treatments are not definitive and often carry several side effects. The Complementary and Alternative Medicine (CAM) offers a new approach to conventional medicine. However, their clinical application and mechanisms remain limited.Objective:The aim of this review is to evaluate the anti-inflammatory, impact on microbiota and antioxidant efficacy of currently available CAM for IBD.Methods:The literature collection was obtained from Google Scholar, MEDLINE, PubMed and Web of Science (WOS). Studies in both human and animal models, published in English language between 2018 and 2024, were selected. Sixty-seven studies were included in the current review after inclusion and exclusion screening processes.Results:Mostly, studies showed significant anti-inflammatory, gut microbiota restoring, antioxidant effects of polyphenols, polysaccharides, emodin, short-chain fatty acids (SCFA; including butyrate, propionate and acetate), and probiotics although some contrasting results were noted. Current evidence shows that polyphenols exhibit the most consistent result in alleviating IBD pathophysiology, primarily due to their significant SCFA-elevating effect.Discussion:Future studies may focus on human studies, narrowing down on individual factors which may change natural product's metabolism. Further research studies are also essential to obtain therapeutic recommendations.",
+  "publication_date": "2025-03-08",
+  "journal": "Redox report : communications in free radical research",
+  "doi": "10.1080/13510002.2025.2471737",
+  "entities": {
+    "SYMPTOM": [
+      "inflammatory bowel disease"
+    ],
+    "POLYPHENOL": [
+      "antioxidant effects",
+      "mechanisms",
+      "objective",
+      "polyphenols",
+      "several side effects",
+      "the literature collection",
+      "their significant scfa-elevating effect",
+      "therapeutic recommendations"
+    ]
+  }
+}

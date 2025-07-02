@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Olive Mill Waste-Water Extract Enriched in Hydroxytyrosol and Tyrosol Modulates Host-Pathogen Interaction in IPEC-J2 Cells.",
+  "abstract": "The dietary supplementation of olive oil by-products, including olive mill waste-water (OMWW) in animal diets, is a novel application that allows for their re-utilization and recycling and could potentially decrease the use of antibiotics, antimicrobial resistance risk in livestock species, and the occurrence of intestinal diseases.Salmonella serovar typhimuriumis one of the most widespread intestinal pathogens in the world, causing enterocolitis in pigs. The aim of this study was to investigate the effect of an OMWW extract enriched in polyphenols (hydroxytyrosol and tyrosol) in the immune response of an intestinal porcine epithelial cell line (IPEC-J2) followingS. typhimuriuminfection. Cells were pre-treated with OMWW-extract polyphenols (OMWW-EP, 0.35 and 1.4 \u00b5g) for 24 h and then infected withS. typhimuriumfor 1 h. We evaluated bacterial invasiveness and assayed IPEC-J2 gene expression with RT-qPCR and cytokine release with an ELISA test. The obtained results showed that OMWW-EP (1.4 \u00b5g) significantly reducedS. typhimuriuminvasiveness; 0.35 \u00b5g decreased the IPEC-J2 gene expression ofIL1B,MYD88,DEFB1andDEFB4A, while 1.4 \u00b5g down-regulatedIL1BandDEFB4Aand increasedTGFB1.The cytokine content was unchanged in infected cells. This is the first study demonstrating thein vitroimmunomodulatory and antimicrobial activity of OMWW extracts enriched in polyphenols, suggesting a protective role of OMWW polyphenols on the pig intestine and their potential application as feed supplements in farm animals such as pigs.",
+  "publication_date": "2024-02-07",
+  "journal": "Animals : an open access journal from MDPI",
+  "doi": "10.3390/ani14040564",
+  "entities": {
+    "FOOD": [
+      "olive oil"
+    ],
+    "POLYPHENOL": [
+      "a protective role",
+      "followings. typhimuriuminfection",
+      "infected cells",
+      "ipec-j2",
+      "ipec-j2 gene expression",
+      "livestock species",
+      "omww polyphenols",
+      "omww-extract polyphenols",
+      "polyphenols",
+      "recycling",
+      "the effect",
+      "the ipec-j2 gene expression"
+    ]
+  }
+}

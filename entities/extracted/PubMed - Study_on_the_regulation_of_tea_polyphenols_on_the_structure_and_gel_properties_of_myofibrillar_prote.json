@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Study on the regulation of tea polyphenols on the structure and gel properties of myofibrillar protein fromNeosalanx taihuensis.",
+  "abstract": "Neosalanx taihuensis (N. taihuensis)is an important freshwater fish species, rich in nutrients and proteins. However, myofibrillar proteins (MPs), as the major component of muscle, are prone to oxidative denaturation. Tea polyphenols (TPs), as natural antioxidants, have broad applications in the area of aquatic product manufacturing. The research examined the impacts of three typical catechins, namely epicatechin (EC), epigallocatechin (EGC), and epigallocatechin gallate (EGCG), on the structure and gel characteristics of MP fromN. taihuensisunder oxidative treatment conditions. In comparison to the oxidized group, all three TP compounds notably slowed down the oxidation process of MP and decreased the production of oxidative products. Additionally, TP addition induced changes in the MP structure, with further exposure of hydrophobic regions. Furthermore, TP treatment notably enhanced the functional properties of MP gels, including optimized gel strength, improved water holding capacity (WHC), and altered rheological properties. Among the three TP compounds, EGCG, due to its higher number of phenolic rings, formed complexes with MP that exhibited greater antioxidant activity. The research results indicated that the WHC of the EGCG group had increased by 17.06\u00a0% compared to the oxidized group, and the decrease in amino content reached as much as 40.09\u00a0%. Finally, molecular docking simulations were performed to explore the ways in which TP and MP interact. This study not only uncovers the relationship between polyphenol types and MP structure, but also confirms the enormous potential of TP as antioxidants in the improvement ofN. taihuensissurimi products.",
+  "publication_date": "2025-01-28",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102243",
+  "entities": {
+    "POLYPHENOL": [
+      "an important freshwater fish species",
+      "ec",
+      "egcg",
+      "epigallocatechin",
+      "epigallocatechin gallate",
+      "molecular docking simulations",
+      "namely epicatechin",
+      "polyphenol types",
+      "tea polyphenols",
+      "the decrease",
+      "the egcg group",
+      "three typical catechins"
+    ]
+  }
+}

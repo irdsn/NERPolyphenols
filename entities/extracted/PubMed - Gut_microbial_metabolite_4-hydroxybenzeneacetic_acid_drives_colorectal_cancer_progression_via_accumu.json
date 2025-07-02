@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Gut microbial metabolite 4-hydroxybenzeneacetic acid drives colorectal cancer progression via accumulation of immunosuppressive PMN-MDSCs.",
+  "abstract": "Colorectal cancer (CRC) is characterized by an immune-suppressive microenvironment that contributes to tumor progression and immunotherapy resistance. The gut microbiome produces diverse metabolites that feature unique mechanisms of interaction with host targets, yet the role of many metabolites in CRC remains poorly understood. In this study, the microbial metabolite 4-hydroxybenzeneacetic acid (4-HPA) promoted the infiltration of PMN myeloid-derived suppressor cells (PMN-MDSCs) in the tumor microenvironment, consequently inhibiting the antitumor response of CD8+ T cells and promoting CRC progression in vivo. Mechanistically, 4-HPA activates the JAK2/STAT3 pathway, which upregulates CXCL3 transcription, thereby recruiting PMN-MDSCs to the CRC microenvironment. Selective knockdown of CXCL3 resensitized tumors to anti-PD-1 immunotherapy in vivo. Chlorogenic acid reduces the production of 4-HPA by microbiota, likewise abolishing 4-HPA-mediated immunosuppression. The 4-HPA content in CRC tissues was notably increased in patients with advanced CRC. Overall, the gut microbiome uses 4-HPA as a messenger to control chemokine-dependent accumulation of PMN-MDSC cells and regulate antitumor immunity in CRC. Our findings provide a scientific basis for establishing clinical intervention strategies to reverse the tumor immune microenvironment and improve the efficacy of immunotherapy by reducing the interaction among intestinal microbiota, tumor cells, and tumor immune cells.",
+  "publication_date": "2025-04-03",
+  "journal": "The Journal of clinical investigation",
+  "doi": "10.1172/JCI181243",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "colorectal cancer",
+      "selective knockdown",
+      "unique mechanisms"
+    ]
+  }
+}

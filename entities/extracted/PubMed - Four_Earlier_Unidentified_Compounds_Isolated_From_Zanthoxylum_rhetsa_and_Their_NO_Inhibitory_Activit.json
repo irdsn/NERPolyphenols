@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Four Earlier Unidentified Compounds Isolated From Zanthoxylum rhetsa and Their NO Inhibitory Activity.",
+  "abstract": "The plant Zanthoxylum rhetsa has been used for centuries as both food and traditional medicine by the Vietnamese people to treat some diseases. Using various chromatography methods, four earlier unidentified compounds (1-4), along with eight known compounds (5-12), were isolated from the leaves of Z. rhetsa. The chemical structures of these compounds were elucidated based on the extensive spectroscopic interpretation of HRESIMS, 1D, and 2D NMR spectra. The absolute configurations of compounds 1 and 2 were determined by experimental CD spectra. Compounds 3 and 7 exhibited the most significant inhibition of NO production in LPS-activated RAW264.7 cells, with IC50values of 45.32 and 67.58\u00a0\u00b5M, respectively, compared to the positive control, dexamethasone, which showed an IC50value of 13.12\u00a0\u00b5M. The other isolated compounds displayed moderate to low inhibitory effects, with IC50values ranging from 88.98 to 95.17\u00a0\u00b5M.",
+  "publication_date": "2025-06-05",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202501328",
+  "entities": {
+    "POLYPHENOL": [
+      "2d nmr spectra",
+      "experimental cd spectra",
+      "moderate to low inhibitory effects",
+      "the extensive spectroscopic interpretation"
+    ],
+    "FOOD": [
+      "the absolute configurations"
+    ]
+  }
+}

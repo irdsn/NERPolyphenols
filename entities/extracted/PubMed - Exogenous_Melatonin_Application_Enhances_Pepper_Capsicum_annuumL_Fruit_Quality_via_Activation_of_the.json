@@ -1,0 +1,36 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Exogenous Melatonin Application Enhances Pepper (Capsicum annuumL.) Fruit Quality via Activation of the Phenylpropanoid Metabolism.",
+  "abstract": "Melatonin (MT) is an elicitor that stimulates phenolic compounds biosynthesis and accumulation in fruits and vegetables. However, its role in regulating phenolic compounds and the phenylpropane metabolism during pepper ripening is unclear. To investigate how exogenous MT regulates phenolic compounds biosynthesis during pepper ripening, pepper plant surfaces were sprayed with different MT concentrations (0 and 100 \u00b5mol\u00b7L-1) 10 days after anthesis. MT treatment improved pepper fruits quality. In particular, total phenolics and flavonoids compounds levels were elevated, indicating that MT affected phenolic compounds metabolism. Furthermore, metabolomics identified 15 substances exhibiting high fold-change values after MT treatment, including chlorogenic acid, gallic acid, ferulic acid, caffeic acid, cynarin,p-coumaric acid, cinnamic acid, gentianic acid, benzoic acid, sinapic acid,p-hydroxybenzoic acid, protocatechuic acid, rutin, quercetin, and kaempferol. Shikimate dehydrogenase, phenylalanine ammonia-lyase, cinnamate-4-hydroxylase, 4-coumarate-Coa ligase, chalcone synthase, and chalcone isomerase activities were also evaluated. MT upregulated the expression of genes involved in phenolic compounds synthesis during pepper ripening and that of corresponding genes involved in the endogenous MT anabolic pathway, promoting endogenous. The polyphenolics and carbohydrates are indicators of the botanical and geographical origin of Serbian autochthonous clones of red spice MT synthesis throughout pepper ripening. In summary, exogenous MT accelerates phenolic compounds synthesis in pepper fruits by activating phenylpropane metabolism and modulating endogenous hormone signaling networks. This is expected to offer a revolutionary strategy to reinforce pepper plants resistance and quality.",
+  "publication_date": "2025-04-03",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14071247",
+  "entities": {
+    "POLYPHENOL": [
+      "caffeic acid",
+      "chlorogenic acid",
+      "cinnamic acid",
+      "cynarin,p-coumaric acid",
+      "ferulic acid",
+      "gallic acid",
+      "kaempferol",
+      "phenolic compounds",
+      "phenolic compounds biosynthesis",
+      "phenolic compounds metabolism",
+      "phenolic compounds synthesis",
+      "protocatechuic acid",
+      "quercetin",
+      "rutin",
+      "sinapic acid",
+      "the polyphenolics",
+      "total phenolics and flavonoids compounds levels"
+    ],
+    "FOOD": [
+      "pepper fruits",
+      "pepper plant surfaces",
+      "pepper plants resistance",
+      "pepper ripening"
+    ]
+  }
+}

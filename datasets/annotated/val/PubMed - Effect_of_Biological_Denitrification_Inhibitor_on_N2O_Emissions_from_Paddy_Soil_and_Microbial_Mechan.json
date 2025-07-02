@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Effect of Biological Denitrification Inhibitor on N2O Emissions from Paddy Soil and Microbial Mechanisms.",
+  "abstract": "The denitrification process is the main process of the soil nitrogen (N) cycle in paddy fields, which leads to the production of large amounts of nitrous oxide (N2O) and increases N loss in paddy soil. Plant-derived bio denitrification inhibitor procyanidins are thought to inhibit soil denitrification, thereby reducing N2O emissions and soil N loss. However, the denitrification inhibition effect of procyanidins in paddy soils with high organic matter content remains unclear, and their high price is not conducive to practical application. Therefore, this study conducted a 21-day incubation experiment using low-cost proanthocyanidins (containing procyanidins) and paddy soil with high organic matter content in Northeast China to explore the effects of proanthocyanidins on N2O emissions and related microorganisms in paddy soil. The results of the incubation experiment showed that the application of proanthocyanidins in paddy soil in Northeast China could promote the production of N2O in the first three days but inhibited the production of N2O thereafter. Throughout the incubation period, proanthocyanidins inhibited the enzyme nitrate reductase (NaR) activity and the abundance ofnirSandnirkdenitrifying bacteria, with a significant dose-response relationship. Although the application of proanthocyanidins also reduced the soil nitrate nitrogen (NO3--N) content, the soil NO3--N content increased significantly with increasing incubation time. In addition, the application of proanthocyanidins increased soil microbial respiration, ammonia-oxidizing archaea (AOA)amoAgene abundance, and soil ammonium nitrogen (NH4+-N) content. Therefore, the application of proanthocyanidins to paddy soil in Northeast China can effectively regulate denitrification. However, in future studies, it is necessary to explore the impact of proanthocyanidins on the nitrification process and use them in combination with urease inhibitors and/or nitrification inhibitors to better regulate soil N transformation and reduce N2O emissions in paddy soil.",
+  "publication_date": "2025-05-27",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13061232",
+  "entities": {
+    "POLYPHENOL": [
+      "low-cost proanthocyanidins",
+      "plant-derived bio denitrification inhibitor procyanidins",
+      "proanthocyanidins",
+      "procyanidins",
+      "the denitrification inhibition effect",
+      "the effects"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Hypersensitive quantification of major astringency markers in food and wine by substoichiometric quenching of silicon-rhodamine conjugates.",
+  "abstract": "Tannins are chemically diverse polyphenols in plant-derived products that not only show diverse biological activities but also play a crucial role in determining the sensory attributes of food and beverages. Therefore, their accurate and cost-effective quantification is essential. Here, we identified a novel fluorescence quenching mechanism of different synthetic rhodamine fluorophores, with a high selectivity towards tannic acid (TA) and catechin-3-gallate (C3G) compared to a structurally diverse panel of tannins and polyphenols. Specific chemical conjugates of silicon-rhodamine with alkyl linkers attached to bulky apolar moieties had a limit of detection near 500 pM and a linear range spanning 5-100\u00a0nM for TA. We validated the assay on 18 distinct red wine samples, which showed high linearity (R2=\u00a00.92) with methylcellulose precipitation with no interference from anthocyanins. In conclusion, a novel assay was developed and validated that allows the sensitive and selective quantification of major astringency markers abundant in food and beverages.",
+  "publication_date": "2024-06-25",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2024.101592",
+  "entities": {
+    "POLYPHENOL": [
+      "a high selectivity",
+      "a novel fluorescence quenching mechanism",
+      "detection",
+      "diverse polyphenols",
+      "methylcellulose precipitation",
+      "polyphenols",
+      "specific chemical conjugates",
+      "tannins",
+      "the sensitive and selective quantification",
+      "their accurate and cost-effective quantification"
+    ],
+    "FOOD": [
+      "18 distinct red wine samples"
+    ]
+  }
+}

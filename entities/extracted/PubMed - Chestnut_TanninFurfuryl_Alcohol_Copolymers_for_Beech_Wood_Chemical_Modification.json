@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Chestnut Tannin/Furfuryl Alcohol Copolymers for Beech Wood Chemical Modification.",
+  "abstract": "Tannins, present in all plants, are the most abundant polyphenols in the world. Their potential as a raw material for modifying wood alongside furfuryl alcohol (FA) has already been demonstrated in previous studies. This study focused on using large quantities of hydrolysable tannins from chestnut (Castanea sativa) to replace as much FA as possible to chemically modify beech wood (Fagus sylvaticaL.). Impregnation was carried out using different concentrations and ratios of both FA and tannins and tartaric acid as catalysts through a vacuum/atmospheric pressure cycle. Copolymerization was carried out for 24 h at 120 \u00b0C. Properties such as weight percent gain (WPG), leachability, anti-swelling efficiency (ASE), thermal stability, wettability and durability against brown rot (Coniophora puteana) and white rot (Coriolus versicolor) were analyzed and compared to a furfurylation treatment without the addition of tannins. These treatments were also chemically characterized using FTIR spectroscopy. The results showed that replacing 50% of FA mass by tannins largely increased WPG and demonstrated similar leachability and dimensional stability to standard furfurylation. Above all, the new treatment showed to have better resistance to wood-degrading fungi, in addition to improved wettability and thermal stability.",
+  "publication_date": "2025-04-24",
+  "journal": "Polymers",
+  "doi": "10.3390/polym17091159",
+  "entities": {
+    "POLYPHENOL": [
+      "beech wood",
+      "ftir spectroscopy",
+      "hydrolysable tannins",
+      "tannins",
+      "the most abundant polyphenols"
+    ]
+  }
+}

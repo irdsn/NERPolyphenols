@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "2G-lactic acid from olive oil supply chain waste: olive leaves upcycling via Lactobacillus casei fermentation.",
+  "abstract": "The transition towards a sustainable model, particularly the circular economy, emphasizes the importance of redefining waste as a valuable resource, paving the way for innovative upcycling strategies. The olive oil industry, with its significant output of agricultural waste, offers a promising avenue for high-value biomass conversion into useful products through microbial processes. This study focuses on exploring new, high-value applications for olive leaves waste, utilizing a biotechnological approach with Lactobacillus casei for the production of second-generation lactic acid. Contrary to initial expectations, the inherent high polyphenol content and low fermentable glucose levels in olive leaves posed challenges for fermentation. Addressing this, an enzymatic hydrolysis step, following a preliminary extraction process, was implemented to increase glucose availability. Subsequent small-scale fermentation tests were conducted with and without nutrient supplements, identifying the medium that yielded the highest lactic acid production for scale-up. The scaled-up batch fermentation process achieved an enhanced conversion rate (83.58%) and specific productivity (0.26\u00a0g/L\u00b7h). This research confirms the feasibility of repurposing olive waste leaves for the production of lactic acid, contributing to the advancement of a greener economy through the valorization of agricultural waste. KEY POINTS: \u2022 Olive leaves slurry as it did not allow L. casei to ferment. \u2022 High concentrations of polyphenols inhibit fermentation of L. casei. \u2022 Enzymatic hydrolysis combined to organosolv extraction is the best pretreatment for lactic acid production starting from leaves and olive pruning waste.",
+  "publication_date": "2024-06-18",
+  "journal": "Applied microbiology and biotechnology",
+  "doi": "10.1007/s00253-024-13217-z",
+  "entities": {
+    "POLYPHENOL": [
+      "a biotechnological approach",
+      "a greener economy",
+      "initial expectations",
+      "particularly the circular economy",
+      "polyphenols",
+      "second-generation lactic acid",
+      "specific productivity",
+      "the inherent high polyphenol content"
+    ],
+    "FOOD": [
+      "the olive oil industry"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Valorization of Artichoke Bracts in Pasta Enrichment: Impact on Nutritional, Technological, Antioxidant, and Sensorial Properties.",
+  "abstract": "The incorporation of artichoke bracts, a by-product of artichoke processing, into pasta formulations represents an innovative approach to enhancing the nutritional and functional properties of this staple food while promoting environmental sustainability. This study aimed to evaluate the impact of artichoke powder (AP) enrichment (10%w/wreplacement of semolina) on the technological, nutritional, antioxidant, and sensory properties of pasta. The enriched pasta (P-AP) was compared to control pasta (P-CTR) through comprehensive physicochemical analyses, including cooking performance, polyphenol characterization, and in vitro digestion. Polyphenol analysis revealed that chlorogenic acid, dicaffeoylquinic acids, and flavonoids accounted for 87% of total identified phenolic compounds in P-AP. Despite a 42% reduction in free polyphenols due to cooking, in vitro digestion revealed a 47% increase in total identified polyphenols, attributed to the release of bound polyphenols. Antioxidant assays (DPPH, ABTS, and FRAP) confirmed a significantly higher antioxidant capacity in P-AP compared to P-CTR. Additionally, P-AP exhibited a lower predicted glycemic index (pGI = 56.67) than the control (pGI = 58.41), a beneficial feature for blood glucose regulation. Sensory analysis highlighted distinct differences between samples, with P-AP showing stronger vegetal, artichoke, and legume-like notes, as well as higher intensity in bitterness and astringency. While panelists rated P-CTR higher in overall liking, enriched pasta maintained acceptable sensory characteristics. These findings support the valorization of artichoke by-products in pasta production, demonstrating their potential to enhance nutritional quality and functional properties while contributing to a circular economy.",
+  "publication_date": "2025-04-16",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14040475",
+  "entities": {
+    "FOOD": [
+      "artichoke",
+      "artichoke bracts",
+      "artichoke powder (ap) enrichment",
+      "artichoke processing"
+    ],
+    "POLYPHENOL": [
+      "a circular economy",
+      "bound polyphenols",
+      "chlorogenic acid",
+      "flavonoids",
+      "free polyphenols",
+      "polyphenol analysis",
+      "polyphenol characterization",
+      "the technological, nutritional, antioxidant, and sensory properties",
+      "total identified phenolic compounds",
+      "total identified polyphenols"
+    ]
+  }
+}

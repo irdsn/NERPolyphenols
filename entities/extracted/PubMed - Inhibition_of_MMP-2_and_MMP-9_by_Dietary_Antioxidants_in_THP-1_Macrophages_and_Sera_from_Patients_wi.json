@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Inhibition of MMP-2 and MMP-9 by Dietary Antioxidants in THP-1 Macrophages and Sera from Patients with Breast Cancer.",
+  "abstract": "Polyphenols, the main antioxidants of diet, have shown anti-inflammatory, antioxidant and anticarcinogenic activities. Here, we compared the effects of four polyphenolic compounds on ROS production and on the levels of matrix metalloproteinase (MMP)-2 and -9, which represent important pathogenetic factors of breast cancer. THP-1 differentiated macrophages were activated by LPS and simultaneously treated with different doses of a green tea extract (GTE), resveratrol (RSV), curcumin (CRC) and an olive fruit extract (oliplus). By using the 2,2-Diphenyl-1-picrylhydrazyl (DPPH) radical scavenging assay, we found that all of the tested compounds showed antioxidant activity in vitro. In addition, GTE, RSV and CRC were able to counteract ROS production induced by H2O2in THP-1 cells. As assessed by a zymographic analysis of THP-1 supernatants and by an \"in-gel zymography\" of a pool of sera from patients with breast cancer, the antioxidant compounds used in this study inhibited both the activity and expression of MMP-2 and MMP-9 through different mechanisms related to their structures and to their ability to scavenge ROS. The results of this study suggest that the used antioxidants could be promising agents for the prevention and complementary treatment of breast cancer and other diseases in which MMPs play a pivotal role.",
+  "publication_date": "2024-04-10",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29081718",
+  "entities": {
+    "POLYPHENOL": [
+      "curcumin",
+      "different mechanisms",
+      "four polyphenolic compounds",
+      "polyphenols",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "breast cancer"
+    ],
+    "FOOD": [
+      "a green tea extract",
+      "an olive fruit extract"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Hesperidin improves cardiac fibrosis induced by \u03b2-adrenergic activation through modulation of gut microbiota.",
+  "abstract": "Cardiac fibrosis is a prevalent characteristic of various cardiovascular diseases and poses a significant global health challenge. Recent research has established a robust correlation between gut microbiota and cardiovascular diseases. Hesperidin has been shown to possess cardioprotective properties to some extent. Furthermore, studies suggest that hesperidin may enhance overall health by regulating intestinal flora. However, there is a lack of reports regarding the effects of hesperidin on cardiac fibrosis. This study aimed to investigate the mechanisms by which hesperidin ameliorates cardiac fibrosis through the regulation of gut microbiota and associated metabolites. Cardiac fibrosis was induced in C57BL/6 mice via subcutaneous injection of isoproterenol (5 mg/kg per day) for a duration of 7 days. Echocardiography was used to assess cardiac function, while Masson staining, western blot analysis, and real-time polymerase chain reaction were used to evaluate fibrosis-related indicators. Changes in gut microbiota were analyzed through 16S ribosomal RNA gene sequencing. Our findings indicate that hesperidin significantly mitigates cardiac fibrosis in mice. These beneficial effects are associated with improvements in the dysbiosis of intestinal microbiota observed in fibrotic mouse models. The involvement of gut microbiota in cardiac fibrosis was further corroborated by administering hesperidin therapy to mice depleted of gut microbiota. To our knowledge, this study provides the first evidence that the modulation of gut microbiota by hesperidin contributes to improved outcomes in cardiac fibrosis. The use of traditional Chinese medicine to modulate gut microbiota presents a promising strategy for the treatment of cardiac fibrosis. SIGNIFICANCE STATEMENT: The work is extremely interesting because it acts on a frontier of science that relates the influence of the intestinal microbiota with human physiological systems and associated pathologies. This study provides the first evidence that the modulation of gut microbiota by hesperidin contributes to improved outcomes in cardiac fibrosis.",
+  "publication_date": "2025-04-07",
+  "journal": "The Journal of pharmacology and experimental therapeutics",
+  "doi": "10.1016/j.jpet.2025.103578",
+  "entities": {
+    "POLYPHENOL": [
+      "cardioprotective properties",
+      "echocardiography",
+      "recent research",
+      "subcutaneous injection",
+      "the effects",
+      "the mechanisms",
+      "these beneficial effects"
+    ]
+  }
+}

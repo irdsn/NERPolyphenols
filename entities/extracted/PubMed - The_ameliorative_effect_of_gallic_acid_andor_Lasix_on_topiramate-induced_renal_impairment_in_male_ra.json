@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "The ameliorative effect of gallic acid and/or Lasix on topiramate-induced renal impairment in male rats.",
+  "abstract": "Topiramate (TPM) is commonly used for migraine prophylaxis; nonetheless, it is linked to nephrotoxicity, which mostly results from oxidative stress and inflammatory mechanisms.",
+  "publication_date": "2025-04-30",
+  "journal": "Open veterinary journal",
+  "doi": "10.5455/OVJ.2025.v15.i4.35",
+  "entities": {
+    "SYMPTOM": [
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "inflammatory mechanisms"
+    ]
+  }
+}

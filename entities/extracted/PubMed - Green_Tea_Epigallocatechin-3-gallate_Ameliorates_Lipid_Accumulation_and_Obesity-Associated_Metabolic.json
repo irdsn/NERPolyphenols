@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Green Tea Epigallocatechin-3-gallate Ameliorates Lipid Accumulation and Obesity-Associated Metabolic Syndrome via Regulating Autophagy and Lipolysis in Preadipocytes and Adipose Tissue.",
+  "abstract": "Previous studies have shown that epigallocatechin-3-gallate (EGCG), the most abundant catechin in green tea, demonstrates promising antiobesity effects. While autophagy mediates obesity via preadipocyte differentiation and lipogenesis, EGCG's potential autophagy-dependent antiobesity mechanism remains unclear. We used 3T3-L1 cells and high-fat-diet (HFD)-fed mice to examine how EGCG inhibits adipogenesis and lipogenesis via autophagy. EGCG (50 or 100 mg/kg) significantly attenuated HFD-induced weight gain, fat accumulation, hyperlipidemia, and glucose intolerance in mice. It also enhanced autophagy and lipolysis in white adipose tissue (WAT). EGCG profoundly inhibited terminal preadipocyte differentiation and lipid droplet formation in 3T3-L1 cells accompanied by reduced PPAR\u03b3, C/EBP\u03b1, and FASN expressions. Mechanistically, EGCG inhibited autophagy during the early stage of preadipocyte differentiation, as evidenced by increased autophagosome accumulation and impaired autophagic flux. The antiadipogenic effect of EGCG was further aggravated by the autophagy inhibitor chloroquine. Meanwhile, EGCG increased p38 and AMPK/ACC phosphorylation while inhibiting JNK phosphorylation in 3T3-L1 cells at an early stage of adipogenesis. Interestingly, EGCG reduced the expression of lipolytic enzymes HSL and ATGL, and it decreased glycerol contents in differentiated 3T3-L1 cells. These findings provide novel insights into the mechanism of using green tea EGCG in functional foods to combat obesity by targeting autophagy and lipolysis.",
+  "publication_date": "2025-05-10",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c00973",
+  "entities": {
+    "POLYPHENOL": [
+      "antiobesity effects",
+      "egcg",
+      "egcg's potential autophagy-dependent antiobesity mechanism",
+      "epigallocatechin-3",
+      "green tea egcg",
+      "the antiadipogenic effect",
+      "the mechanism",
+      "the most abundant catechin"
+    ],
+    "FOOD": [
+      "functional foods",
+      "green tea"
+    ],
+    "SYMPTOM": [
+      "glucose intolerance",
+      "hyperlipidemia",
+      "obesity"
+    ]
+  }
+}

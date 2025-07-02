@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Resveratrol Supplementation in In\u00a0Vitro Maturation and Culture Medium: Enhancing Blastocyst Viability After Vitrification.",
+  "abstract": "Resveratrol is a potent antioxidant that improves the quality, development, and freezing resistance of mammalian oocytes and embryos by reducing oxidative stress. This study examined the effects of resveratrol supplementation during in\u00a0vitro maturation (IVM), in\u00a0vitro culture (IVC), and post-vitrification on the developmental competence of bovine embryos derived from vitrified blastocysts. Oocytes were matured in media with resveratrol at concentrations of 0, 0.5, 1.0, and 2.0\u2009\u03bcM. Mitochondrial analysis indicated that vitrified oocytes matured with resveratrol exhibited significantly higher mitochondrial activity than controls (p\u2009<\u20090.05). In IVC, zygotes treated with 0.5\u2009\u03bcM resveratrol exhibited significantly higher cleavage (81.70%) and blastocyst rates (37.75%) than untreated embryos (p\u2009<\u20090.05). Vitrified blastocysts derived from resveratrol-supplemented IVC and subsequently cultured without resveratrol for 48\u2009h showed the highest development to the hatching and hatched blastocyst stage (64.15%). Gene expression analysis revealed the BCL2 and SIRT1 upregulation and BAX downregulation. These findings suggest that resveratrol enhances oocyte and embryo quality, mitochondrial function, and cryotolerance.",
+  "publication_date": "2025-05-01",
+  "journal": "Animal science journal = Nihon chikusan Gakkaiho",
+  "doi": "10.1111/asj.70061",
+  "entities": {
+    "POLYPHENOL": [
+      "0.5\u2009\u03bcm resveratrol",
+      "resveratrol",
+      "resveratrol supplementation",
+      "resveratrol-supplemented ivc",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Chemical composition and functional properties of protein-polyphenol complexes from purple rice: Effects of alkaline and enzymatic extraction.",
+  "abstract": "Protein-polyphenol complexes have attracted increasing attention in the development of novel food ingredients owing to their potential health benefits. Purple rice (Oryza Sativa L.) is rich in proteins and polyphenols, particularly anthocyanins. This study investigated the effects of two extraction methods, alkaline extraction (0.2\u00a0% NaOH) and \u03b1-amylase degradation, on the structure, compositional components and physicochemical properties of purple rice proteins (PRP). Chemical analysis revealed that PRP extracted by alkaline solution (PRPA) and \u03b1-amylase degradation (PRPE) contained phenolic acids, flavonoids, hydrophobic amino acids, with cyanidin-3-O-glucoside identified as the predominant anthocyanin in these natural protein-polyphenol complexes. Notably, PRPA, characterized by its darker pigmentation, exhibited significantly higher total phenolic content (TPC) and total flavonoid content (TFC) compared to PRPE, indicating superior polyphenol retention in the protein-polyphenol complex. Furthermore, PRPA displayed higher protein content, enhanced thermal stability, and increased surface hydrophobicity, along with elevated levels of hydrophobic amino acids, total sulfhydryl groups, disulfide bonds, and ordered secondary structures (\u03b1-helix and \u03b2-sheet). In contrast, PRPE had superior solubility, higher \u03b2-turn content, and more exposed sulfhydryl groups. Scanning electron microscopy (SEM) revealed PRPA presented a compact, smooth surface, whereas PRPE exhibited a porous microstructure. Functionally, PRPE had enhanced water and oil absorption capabilities than PRPA. Although PRPA initially exhibited better foaming and emulsifying properties, PRPE displayed greater stability in these functionalities over time. Molecular docking studies further elucidated the mechanism of protein-polyphenol complex formation through hydrogen bonding, hydrophobic interactions, and \u03c0-\u03c0 stacking between proteins and cyanidin-3-O-glucoside, with a binding energy of -8.1\u00a0kJ/mol, explaining the higher polyphenol retention in PRPA and its unique functional properties. These findings highlighted the potential of PRP as a natural protein-polyphenol complex for multifunctional ingredients in food applications.",
+  "publication_date": "2025-06-02",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145010",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural protein-polyphenol complex",
+      "cyanidin-3-o-glucoside",
+      "electron microscopy",
+      "flavonoids",
+      "molecular docking studies",
+      "polyphenols",
+      "protein-polyphenol complex formation",
+      "protein-polyphenol complexes",
+      "secondary structures",
+      "superior polyphenol retention",
+      "the effects",
+      "the higher polyphenol retention",
+      "the mechanism",
+      "the protein-polyphenol complex",
+      "these natural protein-polyphenol complexes",
+      "total flavonoid content"
+    ]
+  }
+}

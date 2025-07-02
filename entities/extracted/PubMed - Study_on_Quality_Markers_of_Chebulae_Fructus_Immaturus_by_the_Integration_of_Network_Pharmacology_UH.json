@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Study on Quality Markers of Chebulae Fructus Immaturus by the Integration of Network Pharmacology, UHPLC Fingerprint, and Serum Pharmacochemistry.",
+  "abstract": "The chemical composition of Chebulae Fructus Immaturus, a traditional Chinese medicine, is complex. Its efficacy relies on the interaction of its components, making quality evaluation based on a single chemical insufficient. This study proposes a multi-dimensional feature network to enhance Chebulae Fructus Immaturus quality assessment, focusing on effectiveness, content, traceability, and specificity. The network pharmacological analysis is employed to elucidate the underlying mechanism by which chemical components in Chebulae Fructus Immaturus exert their therapeutic effects, specifically in terms of heat-clearing, body fluid promotion, and detoxification. UHPLC fingerprinting analysis can systematically parse the overall chemical profile of Chebulae Fructus Immaturus, and in combination with chemometric analysis, based on the screening criterion of variable importance projection value > 1, nine potential differential compounds in Chebulae Fructus Immaturus were screened out from the chemometric analysis. Subsequently, the UHPLC-QTOF-MS method, which features high sensitivity, high selectivity, high precision and is capable of multi-stage mass spectrometry, was employed to qualitatively identify the aforementioned potential differential compounds to accurately reveal the chemical constituents of Chebulae Fructus Immaturus. The rat serum was subjected to pharmacochemical analysis, which revealed the presence of nine prototype components that were absorbed into the bloodstream. The candidate components were identified and the scores for four dimensions were computed, leading to the construction of a multi-dimensional feature network based on the \"spider web\" model. Key quality markers in Chebulae Fructus Immaturus were identified as ellagic acid, chebulic acid, methyl gallate, and gallic acid. In conjunction with our prior research on the quality markers of Chebulae Fructus. The binding ability of quality markers in Chebulae Fructus Immaturus and Chebulae Fructus to their corresponding core targets was verified using molecular docking. This multi-dimensional approach founded on advanced analytical methods is capable of accurately identifying and validating key Chebulae Fructus Immaturus quality markers.",
+  "publication_date": "2025-06-01",
+  "journal": "Journal of separation science",
+  "doi": "10.1002/jssc.70199",
+  "entities": {
+    "POLYPHENOL": [
+      "effectiveness",
+      "ellagic acid",
+      "gallic acid",
+      "high precision",
+      "high selectivity",
+      "molecular docking",
+      "multi-stage mass spectrometry",
+      "specificity",
+      "the underlying mechanism",
+      "their therapeutic effects",
+      "variable importance projection value"
+    ]
+  }
+}

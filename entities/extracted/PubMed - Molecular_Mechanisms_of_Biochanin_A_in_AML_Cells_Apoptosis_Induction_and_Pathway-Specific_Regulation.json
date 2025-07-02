@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Molecular Mechanisms of Biochanin A in AML Cells: Apoptosis Induction and Pathway-Specific Regulation in U937 and THP-1.",
+  "abstract": "Biochanin A, a naturally occurring isoflavone derived from legumes, possesses anti-inflammatory, estrogenic, and anticancer activities. In this study, we investigated the cytotoxic effects and underlying molecular mechanisms of Biochanin A in acute myeloid leukemia (AML) cell lines, U937 and THP-1, using in vitro cytotoxicity assays, RNA sequencing, and bioinformatic analyses. Biochanin A induced dose-dependent apoptosis, as evidenced by caspase-7 activation and PARP1 cleavage. Over-representation analysis (ORA) revealed that differentially expressed genes (DEGs) were significantly enriched in pathways related to inflammatory responses, DNA replication, and cell cycle regulation. Gene set enrichment analysis (GSEA) further confirmed the upregulation of apoptosis- and inflammation-related pathways and the downregulation of MYC targets, cholesterol biosynthesis, and G2/M checkpoint gene sets. RT-qPCR analysis demonstrated that Biochanin A downregulated oncogenes such asRUNX1,BCL2, andMYCwhile upregulatingCHOP(GADD153),CDKN1A(p21), andSQSTM1(p62), contributing to apoptosis and cell cycle arrest across both cell lines. Notably, Biochanin A downregulatedPLK1andUHRF1in THP-1 cells, indicating a disruption of mitotic progression and epigenetic regulation. In contrast, in U937 cells, Biochanin A upregulatedTXNIPand downregulatedCCND2, highlighting the involvement of oxidative stress and G1/S cell cycle arrest. These findings support the potential of Biochanin A as a promising therapeutic candidate for AML through both shared and distinct regulatory pathways.",
+  "publication_date": "2025-05-31",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26115317",
+  "entities": {
+    "SYMPTOM": [
+      "acute myeloid leukemia (aml) cell lines",
+      "anti-inflammatory, estrogenic, and anticancer activities",
+      "apoptosis and cell cycle arrest",
+      "apoptosis- and inflammation-related pathways",
+      "biochanin a induced dose-dependent apoptosis",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "g2/m checkpoint gene sets",
+      "the cytotoxic effects",
+      "underlying molecular mechanisms"
+    ]
+  }
+}

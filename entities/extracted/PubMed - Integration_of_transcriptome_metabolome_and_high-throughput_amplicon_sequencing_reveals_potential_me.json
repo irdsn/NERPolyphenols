@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Integration of transcriptome, metabolome and high-throughput amplicon sequencing reveals potential mechanisms of antioxidant activity and environmental adaptation in the purple-leaf phenotype of Coffea cultivars.",
+  "abstract": "To understand its potential in meeting the increasing market demand for high-quality and resistant coffee varieties., the study focused on evaluating a leaf color mutation in Coffea arabica L. (purple coffee) and comparing it with the control (Catimor). Analysis of antioxidant indices revealed that purple coffee exhibited significantly higher levels of TAC (total anthocyanin content), DPPH (2,2-dyphenyl-1-picrylhydrazyl), POD (peroxidase), and PPO (polyphenol oxidase) compared to Catimor, indicating stronger antioxidant activities. Multi-omics analysis was conducted to create metabolic profiles, genetic maps, and phyllosphere microbial communities of the two Coffea genotypes. The metabolome and transcriptome results showed higher levels of flavonoids and phenolic acids in purple coffee, along with different gene expression patterns. The up-regulation of key genes in the phenylpropanoid pathway was identified to result in a notable alteration in the accumulation of flavonoids and phenolic acids. The co-occurrence network analysis of bacterial communities identified 10 keystone OTUs (operational taxonomic units), including Methylobacterium-Methylorubrum, 1174-901-12, Massilia, Comamonas, Klenkia, and Salinicola, all of which are Proteobacteria. The results of the co-analysis demonstrated a strong correlation between keystone OTUs and both phenylpropanoid metabolism and antioxidant activity. Taken together, we hypothesize that the up-regulation of key genes in the phenylpropanoid metabolite pathway in purple coffee facilitates the synthesis of flavonoids and phenolic acids, which suppresses the abundance of microbial taxa and thus enhances antioxidant activity and environment adaptability. These findings provide valuable insights for future research on the environmental adaptation of coffee and hold potential in breeding high flavonoid content coffee leaf tea.",
+  "publication_date": "2025-05-13",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.110015",
+  "entities": {
+    "FOOD": [
+      "(purple coffee",
+      "coffee",
+      "high-quality and resistant coffee varieties",
+      "purple coffee"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "high flavonoid content coffee leaf tea",
+      "polyphenol oxidase"
+    ]
+  }
+}

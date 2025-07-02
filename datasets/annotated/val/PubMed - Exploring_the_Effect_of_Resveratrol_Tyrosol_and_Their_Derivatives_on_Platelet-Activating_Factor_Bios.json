@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Exploring the Effect of Resveratrol, Tyrosol, and Their Derivatives on Platelet-Activating Factor Biosynthesis in U937 Cells.",
+  "abstract": "Platelet-activating factor (PAF) is a potent lipid mediator, involved in thrombosis, inflammation, and atherosclerosis. The protective effect of wine and olive oil against atherosclerotic diseases is largely attributed to their phenolic compounds and mostly to resveratrol and tyrosol. Both compounds have been reported to inhibit PAF biosynthesis in interleukin-1\u03b2 (IL-1\u03b2)-stimulated monocytes and also to attenuate PAF biosynthesis in cell lysates. The aim of this study was to investigate the effects of resveratrol, tyrosol, and their derivatives on unstimulated U937 cells and to explore the intracellular messaging pathways that participate in the activation of PAF biosynthesis in the same cell line. Tyrosol and its derivatives did not exert any substantial effect on PAF biosynthesis. Resveratrol (50 and 100 \u03bcM), as well as its methoxy derivative (5-20 \u03bcM), caused a reduction in the PAF biosynthetic enzymes' activity by 20-43% after 24 h of incubation. On the other hand, lower resveratrol concentration (10 \u03bcM) and higher concentration of the methoxy derivative (50 \u03bcM) increased the Ca2+-dependent lyso-PAF acetyltransferase (LysoPAF-ATC) activity by 28-45% after half-hour incubation via p38 mitogen-activated protein kinase (p38-MAPK) action. IL-1\u03b2 activated PAF biosynthetic pathways via different signaling pathways, with phospholipase C-\u03b2 (PLC-\u03b2) being a key enzyme.",
+  "publication_date": "2024-11-17",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29225419",
+  "entities": {
+    "SYMPTOM": [
+      "atherosclerosis",
+      "inflammation",
+      "the intracellular messaging pathways"
+    ],
+    "POLYPHENOL": [
+      "any substantial effect",
+      "lower resveratrol concentration",
+      "resveratrol",
+      "the effects",
+      "the protective effect",
+      "their phenolic compounds"
+    ],
+    "FOOD": [
+      "olive oil",
+      "wine"
+    ]
+  }
+}

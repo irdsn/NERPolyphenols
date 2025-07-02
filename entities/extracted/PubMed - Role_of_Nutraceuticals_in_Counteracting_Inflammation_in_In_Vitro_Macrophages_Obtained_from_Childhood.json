@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Role of Nutraceuticals in Counteracting Inflammation in In Vitro Macrophages Obtained from Childhood Cancer Survivors.",
+  "abstract": "The advancement of anti-cancer therapies has markedly improved the survival rate of children with cancer, making them long-term childhood cancer survivors (CCS). Nevertheless, these treatments cause a low-grade inflammatory state, determining inflamm-aging and, thus, favoring the early onset of chronic diseases normally associated with old age. Identification of novel and safer therapeutic strategies is needed to counteract and prevent inflamm-aging. Macrophages are cells involved in immune and inflammatory responses, with a pivotal role in iron metabolism, which is related to inflammation. We obtained macrophages from CCS patients and evaluated their phenotype markers, inflammatory states, and iron metabolism by Western blotting, ELISA, and iron assays. We observed a strong increase in classically activated phenotype markers (M1) and iron metabolism alteration in CCS, with an increase in intracellular iron concentration and inflammatory markers. These results suggest that the prevalence of M1 macrophages and alteration of iron metabolism could be involved in the worsening of inflammation in CCS. Therefore, we propose macrophages and iron metabolism as novel therapeutic targets to counteract inflamm-aging. To avoid toxic regimens, we tested some nutraceuticals (resveratrol, curcumin, and oil-enriched lycopene), which are already known to exert anti-inflammatory properties. After their administration, we observed a macrophage switch towards the anti-inflammatory phenotype M2, as well as reductions in pro-inflammatory cytokines and the intracellular iron concentration. Therefore, we suggest-for the first time-that nutraceuticals reduce inflammation in CCS macrophages through a novel anti-inflammatory mechanism of action, modulating iron metabolism.",
+  "publication_date": "2024-02-08",
+  "journal": "Cancers",
+  "doi": "10.3390/cancers16040714",
+  "entities": {
+    "SYMPTOM": [
+      "anti-cancer therapies",
+      "cancer",
+      "inflamm-aging",
+      "inflammation"
+    ],
+    "POLYPHENOL": [
+      "a novel anti-inflammatory mechanism",
+      "curcumin",
+      "resveratrol"
+    ]
+  }
+}

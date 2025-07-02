@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Selectivity optimization of real-time and continuous sensing of endogenous H2S in biological fluids.",
+  "abstract": "In the direct electrochemical sensing of endogenous hydrogen sulfide, the utilization of triple-pulse amperometry (TPA) enables the delivery of distinct cleaning and measurement pulses, effectively mitigating electrode surface passivation due to sulfur deposition. In order to further improve the sensor's sensitivity and selectivity, gold nanoparticles(nano-Au), platinum nanoparticles (nano-Pt), and poly(3,4-ethylenedioxythiophene) (PEDOT) were separately employed to modify electrodes for constructing electrochemical sensors. Their performance in detecting hydrogen sulfide was evaluated using constant potential amperometry (CPA) alongside TPA. Selectivity coefficients were determined based on current responses to hydrogen sulfide as well as four major interfering substances: ascorbic acid (AA), dopamine (DA), uric acid (UA), and epinephrine (EP). After quantitative comparison, the optimal solution for direct electrochemical sensing of hydrogen sulfide involved employing a PEDOT/nano-Au composite film in conjunction with TPA technology. The sensor responds to\u00a0hydrogen sulfide in the concentration range 3.0-24.0\u00a0\u00b5M with a detection limit of 0.035\u00a0\u00b5M. Furthermore, the sensor demonstrates excellent repeatability and stability, rendering it suitable for continuous electrochemical monitoring of hydrogen sulfide in simulated real biological environments.",
+  "publication_date": "2025-06-23",
+  "journal": "Mikrochimica acta",
+  "doi": "10.1007/s00604-025-07298-4",
+  "entities": {
+    "POLYPHENOL": [
+      "a detection limit",
+      "continuous electrochemical monitoring",
+      "direct electrochemical sensing",
+      "electrochemical sensors",
+      "electrode surface passivation",
+      "electrodes",
+      "selectivity",
+      "selectivity coefficients",
+      "the direct electrochemical sensing",
+      "tpa technology"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Insertion of anthranilyl unit into inert amides: A facile route to oligoamides and cyclic peptides.",
+  "abstract": "Manipulation of polar functional groups to extend the druggability and developability space is an important approach in the current field of drug discovery. Here, we report an editing method that enables the direct insertion of anthranilyl units into inert amides to form versatile oligoamides and cyclic peptides under exceptionally mild reaction conditions. We showcase a diverse array of pharmaceuticals, natural products, and bioactive molecules involving the mentioned scaffold insertion. The synthesis of the secondary metabolites from marine-derived fungi, the expedited construction of bioactive molecules, and the assembly of functionalized peptide macrocycles through iterative insertions highlight the synthetic utility of this method. Computational tools and experimental measurements indicate that a hydrogen bond network formed by reacting and catalytic amide enables the insertion of the anthranilyl unit into a C\u2500N bond.",
+  "publication_date": "2025-06-25",
+  "journal": "Science advances",
+  "doi": "10.1126/sciadv.adw0465",
+  "entities": {
+    "POLYPHENOL": [
+      "bioactive molecules",
+      "the direct insertion",
+      "the secondary metabolites"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Pomegranate Juice Alleviates Preeclampsia Symptoms in an L-NAME-Induced Rat Model: A Dose-Dependent Study.",
+  "abstract": "Objective: This study aimed to evaluate the dose-dependent therapeutic effects of pomegranate juice on preeclampsia symptoms using an L-NAME-induced rat model.Methods: Pregnant rats (n= 5/group) were assigned to a negative control group or groups receiving L-NAME to induce preeclampsia, with pomegranate juice administered at low, medium, and high doses from gestation day 7 to 20. Maternal parameters, including body weight, systolic blood pressure, urinary protein, and sFlt-1 levels, were monitored. Kidney and placental histology were assessed on gestation day 20.Results: L-NAME successfully induced preeclampsia symptoms, including significant maternal weight gain, hypertension, proteinuria, and increased sFlt-1 levels. Pomegranate juice administration alleviated these symptoms in a dose-dependent manner. High doses significantly prevented weight gain from gestation day 14, reduced the systolic blood pressure from gestation day 16, and lowered proteinuria and the sFlt-1 levels by gestation day 18, achieving values comparable to those of normal pregnant controls. Medium doses showed a moderate improvement, particularly in later gestational stages, while low doses had minimal effects. Pomegranate juice also enhanced placental health by increasing the labyrinth depth and reducing endocapillary hypercellularity, contributing to higher fetal and placental birth weights. The dose-response analysis indicated that the kidneys exhibited a stronger response to pomegranate juice than the placenta, suggesting different sensitivity thresholds.Conclusions: Pomegranate juice alleviates preeclampsia symptoms in a dose-dependent manner, significantly improving maternal weight regulation, blood pressure, and proteinuria. The therapeutic effects of pomegranate juice are attributed to its high phenolic content, which reduces sFlt-1 and improves placental function. These findings support pomegranate juice as a potential natural intervention for preeclampsia management.",
+  "publication_date": "2025-03-26",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17071143",
+  "entities": {
+    "POLYPHENOL": [
+      "minimal effects",
+      "objective",
+      "preeclampsia",
+      "preeclampsia management",
+      "preeclampsia symptoms",
+      "the dose-dependent therapeutic effects",
+      "the therapeutic effects"
+    ],
+    "FOOD": [
+      "juice",
+      "pomegranate juice",
+      "pomegranate juice administration"
+    ],
+    "SYMPTOM": [
+      "hypertension"
+    ]
+  }
+}

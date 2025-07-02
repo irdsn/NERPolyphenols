@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Potassium and methionine mitigate the alternate bearing of Balady mandarin via reducing gibberellins and increasing salicylic acid and auxins.",
+  "abstract": "Alternate bearing (AB) is a major challenge for citrus orchards. Increasing yield in one season (On year) leads to more seeds (fruits) as a supplier of gibberellins, which delay harvesting with low fruit quality and also decreases flowering and fruiting in the next season (Off year). So, the aim of this study is improving Balady mandarin fruit quality as well as accelerating fruit harvesting during the On year via foliar nourishments with potassium citrate (KC) or nitrate (KN) at 0.5% incorporated with either methionine (M) at 0.2% or sulphur (S) at 0.3%, twice two months before harvest (at flower bud induction time). The results indicated that, during On year, all treatments accelerate harvesting date, improve fruit weight, yield, fruit quality with a highly significant effect for KC\u2009+\u2009M treatment compared to the control. Moreover, this treatment increased fruit yield by 20.72% and 33.74%, for the first and the second On years, respectively. The most promising effect for KC\u2009+\u2009M is decreasing gibberellins levels during December (flower bud induction) in On year by 7& 19.4% and during January (before flowering) in Off year by 19.4% and 17.44%. Moreover, it increased both salicylic acid and auxin in the following Off year (before flowering) by 17.44%, 42.9 and 40%, respectively. This findings led to increase fruit number by 272.64% and 267.94%, and fruit yield by 251.3% and 289.65% for the following two off-year as well as decreasing AB by 61.7% and 61.67%. This study highlights the efficiency role of KC as a key for improving fruit quality during On year where heavy fruit load, as well as M application for overcoming AB as anti-gibberellins agent via accelerating harvesting in On year and enhances flowering in the following Off year via hormonal control.",
+  "publication_date": "2025-06-20",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-04943-z",
+  "entities": {
+    "POLYPHENOL": [
+      "a highly significant effect",
+      "both salicylic acid",
+      "december",
+      "the most promising effect"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Evaluation of Antioxidant and Anti-Inflammatory Effects of a Nanoformulation Derived from Annurca Apple Callus Extract in an In Vitro Model of Iron Overload-Induced Inflammation.",
+  "abstract": "Ferroptosis, a regulated form of cell death driven by iron accumulation and lipid peroxidation, contributes to oxidative stress-related skin damage. This study evaluates the antioxidant and anti-inflammatory effects of a nanoformulation derived from an Annurca apple callus extract in an in vitro model of ferroptosis using human keratinocytes (HaCaT cells). A hydroalcoholic extract from light Annurca apple callus (LCE) was nanoformulated with Pluronic\u00aeF127 and Soluplus\u00aeto enhance stability and bioavailability. The resulting nanoformulation (NF-LCE) exhibited optimal particle size (103.17 \u00b1 0.87 nm), polydispersity index (0.21 \u00b1 0.00), and zeta potential (-1.88 \u00b1 0.64 mV). Iron overload (100 \u00b5M) was employed to induce oxidative stress and inflammation in HaCaT cells, resulting in elevated levels of inflammatory markers (COX2, IL-6, TNF-\u03b1) and a diminished antioxidant response, as indicated by decreased expression of GPX4 and Nrf2. NF-LCE treatment restored GPX4 and Nrf2 levels (~0.8-fold increase,p< 0.05) while significantly reducing COX2 (36.6%,p< 0.01), IL-6 (79.6%,p< 0.0001), and TNF-\u03b1 (30.9%,p< 0.1). These results suggest NF-LCE as a promising therapeutic strategy for mitigating ferroptosis-induced skin damage, warranting further investigation in advanced skin models and clinical applications.",
+  "publication_date": "2025-05-24",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060631",
+  "entities": {
+    "SYMPTOM": [
+      "cell death",
+      "inflammation",
+      "oxidative stress",
+      "oxidative stress-related skin damage"
+    ],
+    "POLYPHENOL": [
+      "decreased expression",
+      "the antioxidant and anti-inflammatory effects"
+    ],
+    "FOOD": [
+      "an annurca apple callus extract",
+      "light annurca apple callus"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Effects of NatureKnit\u2122, a Blend of Fruit and Vegetable Fibers Rich in Naturally Occurring Bound Polyphenols, on the Metabolic Activity and Community Composition of the Human Gut Microbiome Using the M-SHIME\u00aeGastrointestinal Model.",
+  "abstract": "This study evaluated the impact of a proprietary blend of fruit and vegetable fibers rich in naturally occurring bound polyphenols (commercially marketed as NatureKnitTM), compared to purified fibers (inulin and psyllium), on the human gut microbiome using the validated M-SHIME\u00aegastrointestinal model. A short-term single-stage colonic M-SHIME\u00aeexperiment (with fecal inoculum from three healthy human donors) was used to evaluate the test products compared to a negative control. Samples were assessed for pH, gas pressure, short-chain fatty acid (SCFA) production, lactate, and ammonium from 0 h to 48 h. Microbial community composition was assessed at 0 h (negative control only), 24 h, and 48 h (lumen) or 48 h (mucosal). All test products were fermented well in the colon as demonstrated by decreases in pH and increases in gas pressure over time; these changes occurred faster with the purified fibers, whereas NatureKnit\u2122 demonstrated slow, steady changes, potentially indicating a gentler fermentation process. SCFA production significantly increased over the course of the 48 h experiment with all test products versus negative control. SCFA production was significantly greater with NatureKnit\u2122 versus the purified fibers. Shifts in the microbial community composition were observed with all test products versus negative control. At the conclusion of the 48 h experiment, the absolute bacterial abundance and the richness of observed bacterial taxa in the lumen compartment was significantly greater with NatureKnit\u2122 compared with inulin, psyllium, and negative control. Overall, NatureKnit\u2122 demonstrated greater or similar prebiotic effects on study measures compared with established prebiotic fibers.",
+  "publication_date": "2025-03-07",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13030613",
+  "entities": {
+    "POLYPHENOL": [
+      "bound polyphenols",
+      "decreases",
+      "fecal inoculum",
+      "greater or similar prebiotic effects"
+    ]
+  }
+}

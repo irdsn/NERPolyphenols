@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Thermo-responsive hydrogelviasustained Co-delivery of TA and PDGF to modulate the diabetic microenvironment and accelerate diabetic wound healing.",
+  "abstract": "In modern society, the need for diabetic wound healing is increasing due to the increase in the number of diabetic patients. In particular, chronic inflammation is a major problem in diabetic wounds due to excessive accumulation of reactive oxygen species (ROS). Therefore, it is essential to remove ROS and promote angiogenesis for effective diabetic wound healing. In this study, we developed a thermo-responsive poly(organophosphazene) hydrogel system (TSP-TP) designed to deliver antioxidants and growth factors for a long period of time. The TSP-TP hydrogel stably loads and continuously releases tannic acid (TA) and platelet-derived growth factor (PDGF) through various physical interactions. Effective ROS scavenging induced macrophage polarization and alleviated chronic inflammation, while the sustained release of PDGF promoted angiogenesis, ultimately maximizing wound healing efficacy in a diabetic mouse model. Based on these results, the proposed TSP-TP hydrogel demonstrates synergistic effects through sustained delivery of antioxidants and growth factors, demonstrating a promising system with high applicability in diabetic wound treatment.",
+  "publication_date": "2025-06-18",
+  "journal": "Journal of materials chemistry. B",
+  "doi": "10.1039/d5tb00563a",
+  "entities": {
+    "SYMPTOM": [
+      "alleviated chronic inflammation",
+      "chronic inflammation"
+    ],
+    "POLYPHENOL": [
+      "effective diabetic wound healing",
+      "effective ros scavenging",
+      "reactive oxygen species",
+      "synergistic effects"
+    ]
+  }
+}

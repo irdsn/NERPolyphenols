@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Bioaccessible (Poly)phenols of Winery Byproducts Modulate Pathogenic Mediators of Intestinal Bowel Disease:In VitroEvidence.",
+  "abstract": "Intestinal inflammation entails a multifactorial pathophysiology, frequently treated by using anti-inflammatory drugs with severe side effects. At the same time, bioactive compounds present in plant materials and derived residues could contribute to reducing the use of such medications in terms of dosage and treatment length. Thus, the phytochemicals of winery byproducts, mainly represented by (poly)phenols, display significant anti-inflammatory and antioxidant potential. However, the functionality of bioaccessible fractions remains underexplored. This study uncovers the capacity of bioaccessible (poly)phenols of winery byproducts to modulate inflammatory mediators and secondary oxidative stress (OS). Afterin vitrosimulated digestion, bioaccessible (poly)phenols exhibited significant inhibitory capacity of nitric oxide, interleukin (IL)-6, IL-8, and TNF-\u03b1 production and prevented OS, lowering reactive oxygen species (ROS) resulting from disturbed cell metabolism while preserving the molecular machinery of cells, involving glutathione, catalase, superoxide dismutase, and glutathione peroxidase. The results retrieved suggested the relevance of specific profiles for efficiently preventing inflammation.",
+  "publication_date": "2025-04-23",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c00916",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "intestinal inflammation"
+    ],
+    "POLYPHENOL": [
+      "reactive oxygen species",
+      "secondary oxidative stress",
+      "severe side effects",
+      "specific profiles",
+      "the molecular machinery"
+    ],
+    "FOOD": [
+      "dosage and treatment length",
+      "winery byproducts"
+    ]
+  }
+}

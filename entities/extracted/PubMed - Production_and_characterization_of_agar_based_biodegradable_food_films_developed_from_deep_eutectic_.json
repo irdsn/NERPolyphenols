@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Production and characterization of agar based biodegradable food films developed from deep eutectic pea hull (Pisum sativum) extract.",
+  "abstract": "Sustainable food packaging materials are essential for reducing plastic waste and enhancing food preservation. This study investigates the development of agar-based biopolymer films impregnated with bioactive compounds extracted from pea pods (Pisum sativum) using natural deep eutectic solvents (NADES), offering an eco-friendly alternative for active food packaging. For the first time, extracts produced from pea hulls via NADES were incorporated into agar-glycerol films. The NADES-based films exhibited significantly improved tensile strength, reaching up to 9.03\u00a0MPa, compared to 4.37\u00a0MPa in the control group. Water solubility was reduced by 38\u00a0%, and contact angle measurements confirmed increased hydrophobicity (75.75\u00b0 NADES vs. 63.26\u00b0 control). LC-MS/MS analysis identified major phenolic compounds including quercetin (25.82\u00a0\u03bcg/g extract), coumaric acid (23.94\u00a0\u03bcg/g), and ferulic acid (6.08\u00a0\u03bcg/g). Antimicrobial tests demonstrated clear inhibition zones against E. coli (20.4\u00a0mm) and S. aureus (15.6\u00a0mm). In cheese preservation tests, samples wrapped with NADES films showed significantly lower microbial counts (2.85 log CFU/g), while unwrapped samples exceeded 6 log CFU/g. NADES-extracted bioactive compounds enhance the functional properties of agar-based films, improving antimicrobial performance, mechanical durability, and food preservation capabilities. These findings support the potential of NADES films as biodegradable, active food packaging materials, aligning with circular economy principles.",
+  "publication_date": "2025-06-12",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145231",
+  "entities": {
+    "SYMPTOM": [
+      "active food packaging",
+      "biodegradable, active food packaging materials",
+      "sustainable food packaging materials"
+    ],
+    "POLYPHENOL": [
+      "an eco-friendly alternative",
+      "circular economy principles",
+      "ferulic acid",
+      "major phenolic compounds",
+      "mechanical durability",
+      "natural deep eutectic solvents",
+      "quercetin"
+    ]
+  }
+}

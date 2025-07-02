@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Assessment of dietary intake in adults with cystic fibrosis pre and post commencement of Elexacaftor/Tezacaftor/Ivacaftor.",
+  "abstract": "Elexacaftor, Tezacaftor, Ivacaftor has enhanced clinical outcomes, expected lifespan and quality of life for people with cystic fibrosis. Increased body mass index post- Elexacaftor, Tezacaftor, Ivacaftor is well documented, suggesting high-energy, high-fat recommendations may no longer be appropriate. This study aims to identify changes in dietary intake and nutritional parameters post gene modulator therapy Elexacaftor, Tezacaftor, Ivacaftor.",
+  "publication_date": "2025-04-24",
+  "journal": "Clinical nutrition ESPEN",
+  "doi": "10.1016/j.clnesp.2025.04.006",
+  "entities": {
+    "POLYPHENOL": [
+      "high-energy, high-fat recommendations"
+    ]
+  }
+}

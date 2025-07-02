@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Alcohol or No Alcohol in Wine: Half a Century of Debate.",
+  "abstract": "Alcoholic beverages have been consumed for centuries in different countries around the world. Today, we know that the ethanol they contain is associated with significant health risks, especially in the case of abuse, in individuals with special health conditions, and in pregnant women. However, over the years, awareness has grown that wine, especially red wine, has a beneficial effect on human health due to the powerful effect of the antioxidant substances it contains, known under the generic term of polyphenols. The main concern remains around the ethanol content of wine and its effects on health. After fifty years of research and studies, the debate is still open, with conflicting indications about the positive effect of moderate wine consumption in the context of a balanced diet and the toxic effect of ethanol even in low doses. In this disputed area, the market for low-alcohol and alcohol-free wines has found its place in the last decade, creating a new opportunity for the global wine trade. These new types of wine are going to open a new chapter in the history of wine. In this review, we have summarised the main aspects of the health implications of wine consumption considering scientific evidence from the last 50 years, including low-alcohol and dealcoholised wine.",
+  "publication_date": "2025-05-23",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14111854",
+  "entities": {
+    "POLYPHENOL": [
+      "a beneficial effect",
+      "especially red wine",
+      "its effects",
+      "polyphenols",
+      "special health conditions",
+      "the last decade",
+      "the main aspects",
+      "the positive effect",
+      "the powerful effect",
+      "the toxic effect"
+    ],
+    "FOOD": [
+      "low-alcohol and alcohol-free wines",
+      "moderate wine consumption",
+      "the global wine trade",
+      "wine",
+      "wine consumption"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Research advances in polyphenols from Chinese herbal medicine for the prevention and treatment of chronic obstructive pulmonary disease: a review.",
+  "abstract": "Chronic obstructive pulmonary disease (COPD) is a global health problem due to its high death and morbidity worldwide, which is characterized by an incompletely reversible limitation in airflow that is not fully reversible. Unfortunately, Western medical treatments are unable to reverse the progressive decline in lung function. Importantly, polyphenolic compounds isolated from Chinese herbal medicine exhibited therapeutic/interventional effects on COPD in preclinical studies. This review systematically analyzed the pathogenesis of COPD, such as inflammation, oxidative stress, protease/antiprotease imbalance, aging, cell death, and dysbiosis of gut microbiota. Moreover, this review summarized the regulatory mechanisms of natural polyphenolic compounds for the treatment of COPD. Several studies have demonstrated that natural polyphenolic compounds have therapeutic effects on COPD by regulating various biological processes, such as anti-inflammatory, reduction of oxidative damage, anti-cell death, and inhibition of airway hyperglycemia. Mechanistically, this review found that the promising effects of natural polyphenolic compounds on COPD were mainly achieved through modulating the NF-\u03baB and MAPK inflammatory pathways, the Nrf2 oxidative stress pathway, and the SIRT1/PGC-1\u03b1 lung injury pathway. Furthermore, this review analyzed the efficacy and safety of natural polyphenolic compounds for the treatment of COPD in clinical trials, and discussed their challenges and future development directions. In conclusion, this review combined the latest literature to illustrate the various pathogenesis and interrelationships of COPD in the form of graphs, texts, and tables, and sorted out the functional role and mechanisms of natural polyphenols in treating COPD, with a view to providing new ideas and plans for the in-depth research on COPD and the systemic treatment of COPD with Chinese herbal medicine.",
+  "publication_date": "2025-03-04",
+  "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+  "doi": "10.1007/s00210-025-03945-y",
+  "entities": {
+    "POLYPHENOL": [
+      "future development directions",
+      "mechanisms",
+      "natural polyphenolic compounds",
+      "natural polyphenols",
+      "polyphenolic compounds",
+      "preclinical studies",
+      "the progressive decline",
+      "the promising effects",
+      "the regulatory mechanisms",
+      "therapeutic effects",
+      "therapeutic/interventional effects"
+    ],
+    "SYMPTOM": [
+      "aging",
+      "airway hyperglycemia",
+      "anti-cell death",
+      "cell death",
+      "inflammation",
+      "oxidative damage",
+      "oxidative stress"
+    ]
+  }
+}

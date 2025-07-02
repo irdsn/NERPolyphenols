@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Salacca zalaccaextract's antiaging effect on aging genes, protein levels, and apoptosis in UV-induced fibroblast cells.",
+  "abstract": "Ultraviolet (UV) exposure can hasten the aging process of the skin. The use of chemicals for anti-aging has long-term adverse effects. The natural ingredients of snake fruit (Salacca zalaccaL.) are known to have bioactive properties such as polyphenols, flavonoids, chlorogenic acid, and caffeic acid which have antiaging potential. The study aims to ascertain the potential ofS. zalaccaExtract (SZE) as an antiaging agent byin vitroassay.",
+  "publication_date": "2025-06-09",
+  "journal": "Journal of Taibah University Medical Sciences",
+  "doi": "10.1016/j.jtumed.2025.05.005",
+  "entities": {
+    "SYMPTOM": [
+      "an antiaging agent byin vitroassay",
+      "the aging process"
+    ],
+    "POLYPHENOL": [
+      "caffeic acid",
+      "chlorogenic acid",
+      "flavonoids",
+      "long-term adverse effects",
+      "polyphenols"
+    ]
+  }
+}

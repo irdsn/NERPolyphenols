@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Molecular mechanisms driving the unusual pigmentation shift during eggplant fruit development.",
+  "abstract": "Fruit pigmentation is a major signal that attracts frugivores to enable seed dispersal. In most fleshy fruit, green chlorophyll typically accumulates early in development and is replaced by a range of pigments during ripening. In species such as grape and strawberry, chlorophyll is replaced by red anthocyanins produced by the flavonoid biosynthetic pathway. Eggplant (Solanum melongena) is unique, as its fruit accumulates anthocyanins beginning from fruit set, and these are later replaced by the yellow flavonoid-pathway intermediate naringenin chalcone. To decipher the genetic regulation of this extraordinary pigmentation shift, we integrated mRNA and microRNA (miRNA) profiling data obtained from developing eggplant fruit. We discovered that SQUAMOSA PROMOTER BINDING-LIKE (i.e., SPL6a, SPL10, and SPL15), MYB1, and MYB2 transcription factors (TFs) regulate anthocyanin biosynthesis in early fruit development, whereas the MYB12 TF controls later accumulation of naringenin chalcone. We further show that miRNA157 and miRNA858 negatively regulate the expression of SPLs and MYB12, respectively. Taken together, our findings suggest that opposing and complementary expression of miRNAs and TFs controls the pigmentation switch in eggplant fruit skin. Intriguingly, despite the distinctive pigmentation pattern in eggplant, fruit development in other species makes use of homologous regulatory factors to control the temporal and spatial production of different pigment classes.",
+  "publication_date": "2025-03-25",
+  "journal": "Plant communications",
+  "doi": "10.1016/j.xplc.2025.101321",
+  "entities": {
+    "POLYPHENOL": [
+      "naringenin chalcone",
+      "other species",
+      "species",
+      "the flavonoid biosynthetic pathway",
+      "the yellow flavonoid-pathway intermediate naringenin chalcone"
+    ],
+    "FOOD": [
+      "developing eggplant fruit",
+      "eggplant",
+      "eggplant fruit skin",
+      "grape",
+      "solanum melongena",
+      "strawberry"
+    ]
+  }
+}

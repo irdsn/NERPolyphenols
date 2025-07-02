@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Red Grape By-Products from the Demarcated Douro Region: Chemical Analysis, Antioxidant Potential and Antimicrobial Activity against Food-Borne Pathogens.",
+  "abstract": "Wine production is one of the most important agricultural activities. The winemaking process generates a considerable volume of different residues characterized as by-products, such as pomace, seeds, stems, and skins. By-products are rich in polyphenols with antioxidant and antibacterial properties and may act as bacteriostatic or bactericidal agents against food-borne pathogens, improving food safety by enhancing antibiotic efficacy and reducing bacterial resistance. The aim of this study was to evaluate the phenolic composition and antioxidant activity of grape components (skins, seeds, and stems) from three red grape varieties (Periquita, Gamay, and Donzelinho Tinto) and determine their antibacterial activity against antibiotic-resistant bacteria, includingEscherichia coliin food-producing animals andListeria monocytogenesfrom food products and food-related environments. Ten phenolic compounds were quantified in these red grape varieties, with specific compounds found in different parts of the grape, including phenolic acids and flavonoids. Flavonoids are abundant in seeds and stems, malvidin-3-O-glucoside being the main anthocyanin in skins. The ethanolic extract from the seeds showed in vitro concentration-dependent activity against reactive species like\u2022NO and O2\u2022-. Gamay extract was the most effective, followed by Donzelinho Tinto and Periquita. Extracts showed varying antibacterial activity against Gram-positive and Gram-negative bacteria, with stronger effects on Gram-positive bacteria.L. monocytogeneswas more susceptible, whileE. coliwas limited to three strains. Seeds exhibited the strongest antibacterial activity, followed by stems. The results of our study provide evidence of the potential of grape by-products, particularly seeds, as sources of bioactive compounds with antioxidant and antibacterial properties, offering promising avenues for enhancing food safety and combating antibiotic resistance in food production and related environments.",
+  "publication_date": "2024-10-04",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29194708",
+  "entities": {
+    "FOOD": [
+      "grape",
+      "grape components",
+      "the grape",
+      "the winemaking process",
+      "these red grape varieties",
+      "three red grape varieties",
+      "wine production"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "malvidin-3-o-glucoside",
+      "polyphenols",
+      "reactive species",
+      "specific compounds",
+      "stronger effects",
+      "ten phenolic compounds"
+    ]
+  }
+}

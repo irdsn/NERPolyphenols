@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Antiparasitic and antimicrobial activity ofIpomoea palmataagainstToxoplasma gondiiandStaphylococcus aureus: correlation with major phenolics identified by HPLC.",
+  "abstract": "Toxoplasma gondii, a protozoan parasite found in water sources, causes toxoplasmosis, with no current protocols for inactivating its oocysts in water.Staphylococcus aureus, a significant bacterial pathogen, is known for causing various illnesses, including skin infections and biofilm-related diseases. This study investigated the antibacterial and antiparasitic properties ofIpomoea palmataleaf extract, rich in phenolics, againstT. gondiitachyzoites andS. aureus. I. palmataextract significantly reduced tachyzoites count in peritoneal fluids and liver smears of infected mice with alleviation of toxoplasmosis-induced hepatitis. SEM showed surface irregularities in tachyzoites from treated groups. The extract demonstrated antibacterial action againstS. aureuswith a minimum inhibitory concentration of 128 to 512\u00b5g/mL, reduced biofilm formation from 69.23% to 15.38% of tested isolates, and downregulated biofilm genes (cna,fnbA, andica) in 53.85% of isolates. Treatment withI. palmataextract improved liver architecture, reduced inflammation, and eliminated blood vessel congestion. The main phenolic acids identified by HPLC/UV analysis were chlorogenic acid, gallic acid, ellagic acid, and methyl gallate, while the predominant flavonoids were apigenin, quercetin, and naringenin. These findings highlight the potential ofI. palmataextract as a natural antimicrobial and antiparasitic agent, warranting further research to isolate and evaluate its active compounds.",
+  "publication_date": "2025-04-26",
+  "journal": "Artificial cells, nanomedicine, and biotechnology",
+  "doi": "10.1080/21691401.2025.2494796",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "ellagic acid",
+      "gallic acid",
+      "improved liver architecture",
+      "infected mice",
+      "skin infections",
+      "the predominant flavonoids"
+    ],
+    "SYMPTOM": [
+      "reduced inflammation"
+    ]
+  }
+}

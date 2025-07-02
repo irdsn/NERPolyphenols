@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Santali Albi Lignum: From traditional efficacies to pharmacological properties and modern therapeutic applications.",
+  "abstract": "Santali Albi Lignum (SA), the dry heartwood of the trunk of Santalum album L., was originally discovered in India. It has a long history of use in Ayurveda and traditional Chinese medicine (TCM), mainly to treat skin, cardiovascular and lung diseases. In recent years, SA has received worldwide attention because of its diverse pharmacological effects, including anti-tumour, neuroprotective and gastrointestinal regulatory effects.",
+  "publication_date": "2025-05-24",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.120031",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-tumour, neuroprotective and gastrointestinal regulatory effects",
+      "its diverse pharmacological effects",
+      "recent years"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Antineoplastic Activity of Podophyllotoxin and Juniper Extracts Encapsulated in MPEG-b-PLA Diblock Copolymer Micelles in Cutaneous Squamous Carcinoma Cells.",
+  "abstract": "Nanotechnology offers alternative approaches to the discovery of anticancer drugs. Hydrophobic bioactive components can be included in the cores of amphiphilic nanocarriers, which leads to the formation of a water-dispersible product with improved bioavailability, facilitated excretion, and reduced systemic toxicity in the treated organisms. This study was aimed at the formation of polymer nanocarriers, loaded with anticancer drug precursor podophylotoxin (PPT) or PPT-containing juniper leaf extracts, seeking to study their antineoplastic activity in A-431 epidermoid carcinoma cells and HaCaT normal keratinocytes. The amphiphilic, biodegradable, and biocompatible MPEG-b-PLA diblock copolymer was self-assembled in aqueous media into nanosized particles, whose physicochemical characteristics were studied by dynamic light scattering, transmission electron microscopy, and other methods. High encapsulation efficiency was determined for the PPT component-loaded micelles. DNA fragmentation, cell cycle arrest, nuclear condensation, membrane lipid order assessment, reactive oxygen species, and apoptosis induction by the loaded nanocarriers in A-431 or HaCaT cells were analyzed by the comet assay, FACS, Hoechst DNA staining, Laurdan generalized polarization, and other methods. As a result of various cellular processes induced by the PPT component-loaded nanoparticles, effector caspase-3 and caspase-7 activation showed selectivity towards tumor cells compared to the normal cells. The newly obtained PPT-containing nanoparticles have applications as potential drugs in the prospective nanomedicine.",
+  "publication_date": "2025-05-28",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26115167",
+  "entities": {
+    "POLYPHENOL": [
+      "anticancer drug precursor podophylotoxin",
+      "effector",
+      "hoechst dna staining",
+      "nanotechnology",
+      "reactive oxygen species",
+      "selectivity",
+      "the prospective nanomedicine",
+      "transmission electron microscopy"
+    ],
+    "SYMPTOM": [
+      "anticancer drugs",
+      "apoptosis induction"
+    ]
+  }
+}

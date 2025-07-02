@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Novel Antimicrobial-Decorated Polyelectrolytes as Versatile Building Blocks for Multifunctional Hydrogel Nano- and Microparticles.",
+  "abstract": "The construction of multipurpose particles with functional coatings of varying structure and composition provides the opportunity to modify their physicochemical and biological characteristics. In accordance with the aforementioned, new polyelectrolytes (PEs) decorated with an antimicrobial function (PEs-DAF) were designed and prepared to apply them as building blocks of a various carrier systems. A series of hydrogel nano- and microparticles were developed and coated with an outer PE shell with antimicrobial functionality. To this end, poly-(acrylic acid) (PAA) was grafted with different degrees of substitution (DS) of antimicrobial essential oils such as thymol (THY), menthol (MEN), and carvacrol (CAR) (abbreviated as PAA-X-DS% (X = THY, MEN, CAR; DS = 5,15)) using Steglich esterification under mild reaction conditions. Their structures were confirmed by1H NMR and FTIR spectroscopy. The particles' morphology and mean diameter were determined by dynamic light scattering (DLS), scanning electron microscopy (SEM), transmission electron microscopy (TEM), and atomic force microscopy (AFM). The physicochemical properties of the novel functional coatings were characterized using quartz crystal microbalance with a dissipation (QCM-D) analysis and spectroscopic ellipsometry. The antimicrobial properties of the functionalized PAA and the alginate microgel particles decorated with these PEs were evaluated against Staphylococcus aureus and Escherichia coli using the agar disc diffusion assay and minimal inhibitory concentration evaluation. The particles exhibited satisfactory antimicrobial activity, and some examples showed higher bioactivity than the functionalized PAAs. Moreover, the designed systems were loaded with resveratrol (RES), a model chemotherapeutic substance, to assess their potential applicability as drug carriers. The analysis proved the effective RES encapsulation and its release in a controlled manner depending on the coating properties. The results found in our study indicate potential therapeutic applications of the new antimicrobial-decorated carrier systems in the treatment of multidrug-resistant pathogenic infections.",
+  "publication_date": "2025-05-20",
+  "journal": "ACS omega",
+  "doi": "10.1021/acsomega.5c02518",
+  "entities": {
+    "POLYPHENOL": [
+      "by1h nmr and ftir spectroscopy",
+      "electron microscopy",
+      "multidrug-resistant pathogenic infections",
+      "resveratrol",
+      "spectroscopic ellipsometry",
+      "the aforementioned, new polyelectrolytes",
+      "the effective res encapsulation",
+      "the new antimicrobial-decorated carrier systems"
+    ]
+  }
+}

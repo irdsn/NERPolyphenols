@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "A miR-770-5p/XBP1-driven pathway controls ESR1 expression and tamoxifen response in luminal breast cancer.",
+  "abstract": "Cancer cells employ various adaptive mechanisms to withstand stressors, with one notable pathway being the unfolded protein response (UPR), crucial in fostering endocrine resistance within ER-positive breast cancer. Investigating miRNAs within tumors holds promise for identifying key miRNA-gene interactions pivotal for tumor characteristics like proliferation and resistance to treatment. Notably, XBP1 emerges as a pivotal player in UPR within the endoplasmic reticulum, particularly through the inositol-requiring enzyme 1 (IRE1\u03b1) - the X-box-binding protein 1 (XBP1) pathway, presenting a compelling target for clinical intervention. In this study, I explore the regulatory role of miR-770-5p in modulating XBP1 expression and its potential as a therapeutic target in luminal breast cancer.",
+  "publication_date": "2025-05-23",
+  "journal": "Molecular biology reports",
+  "doi": "10.1007/s11033-025-10598-w",
+  "entities": {
+    "SYMPTOM": [
+      "cancer cells",
+      "er-positive breast cancer",
+      "luminal breast cancer",
+      "stressors"
+    ],
+    "POLYPHENOL": [
+      "various adaptive mechanisms"
+    ]
+  }
+}

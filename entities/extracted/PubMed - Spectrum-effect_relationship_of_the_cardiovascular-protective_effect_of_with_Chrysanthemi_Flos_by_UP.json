@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Spectrum-effect relationship of the cardiovascular-protective effect of with Chrysanthemi Flos by UPLC-MS/MS and component knock-out method.",
+  "abstract": "Chrysanthemi Flos (CF), as one of the important 'dual-use' plants, possesses great pharmacological research and development potential. This work aimed to find the pharmacodynamic material basis of CF in cardiovascular-protection by spectrum-effect relationship and component knock-out method. The fingerprint was established by ultra-high performance liquid chromatography and 25 peaks were picked out as common peaks. The common peaks were identified by ultra-performance liquid chromatography-quadrupole-orbitrap-mass spectrometry including twelve flavonoids, nine phenylpropanoids, three organic acids, and one nucleoside. The cardiovascular-protective effect of CF was determined by angiotensin II-induced injury model of human umbilical vein endothelial cells. Grey relation analysis, partial least squares regression analysis and Pearson's correlation analysis were performed to assess the relationship between the cardiovascular-protective effect and ingredients. Spectrum-effect relationship and component knock-out method revealed that P11 (luteolin-7-O-\u03b2-D-glucoside), P14 (3,4-O-dicaffeoylquinic acid), P16 (1,5-O-dicaffeoylquinic acid), and P17 (3,5-O-dicaffeoylquinic acid) were the pharmacological material basis for the cardiovascular-protective effect of CF. This work preliminarily elucidated the pharmacodynamic material basis of cardiovascular-protective effect of CF, which could be used to considerable methods and insight for the fundamental research of the pharmacodynamic material basis of Traditional Chinese Medicine.",
+  "publication_date": "2025-03-05",
+  "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+  "doi": "10.1016/j.fct.2025.115372",
+  "entities": {
+    "POLYPHENOL": [
+      "cardiovascular-protection",
+      "cardiovascular-protective effect",
+      "luteolin-7",
+      "spectrum-effect relationship",
+      "the cardiovascular-protective effect",
+      "twelve flavonoids",
+      "ultra-performance liquid chromatography-quadrupole-orbitrap-mass spectrometry"
+    ],
+    "FOOD": [
+      "pearson's correlation analysis"
+    ]
+  }
+}

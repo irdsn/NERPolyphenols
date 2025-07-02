@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Beverages Based on Second Quality Citrus Fruits and Maqui Berry, a Source of Bioactive (Poly)phenols: Sorting Out Urine Metabolites upon a Longitudinal Study.",
+  "abstract": "The intake of sugar-sweetened beverages has been associated with an augmented prevalence of metabolic diseases, namely, obesity, type II diabetes, and metabolic syndrome. On the other hand, nowadays, it is broadly accepted that foods and beverages rich in (poly)phenols could contribute to reducing the incidence of these pathologies. In this sense, the objective of the work was to revalue second quality citrus fruits for the development of new beverages, rich in anthocyanins and flavanones (maqui berry and second qualities citrus-based), and evaluate the influence of alternative sweeteners (sucralose, sucrose, or stevia), regarding the bioaccessibility and bioavailability of these bioactive compounds in the frame of a chronic (longitudinal) intervention. To fulfill this objective, a longitudinal study of the urinary excretion of anthocyanins and flavanones, after 2-months of ingestion of the developed maqui-citrus beverage, by 138 volunteers (n= 46 per beverage) and the analysis of the resulting phenolic metabolites by ultra-high performance liquid chromatography coupled to mass spectrometry (UHPLC-ESI-QqQ-MS/MS) was carried out. As major results, the bioavailable metabolites of caffeic acid (CA), catechol (CAT), 3,4-di-hydroxyphenylacetic acid (DHPAA), eriodictyol (E), homoeriodictyol (HE), hippuric acid (HA), naringenin (N), trans-ferulic acid (TFA), 2,4,6-tri-hydroxybenzaldehyde (THBA), trans-isoferulic acid (TIFA), and vanillic acid (VA) were detected. Accordingly, significantly different bioavailability was dependent on the sweetener used, allowing proposing stevia and, to a lower extent, sucralose, as valuable alternatives to sucrose.",
+  "publication_date": "2021-01-22",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu13020312",
+  "entities": {
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "obesity"
+    ],
+    "POLYPHENOL": [
+      "caffeic acid",
+      "catechol",
+      "eriodictyol (e",
+      "mass spectrometry",
+      "naringenin",
+      "second quality citrus fruits",
+      "the objective",
+      "this objective",
+      "trans-ferulic acid",
+      "trans-isoferulic acid",
+      "vanillic acid"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Effect of membrane tension on (-)-epigallocatechin gallate-induced burst of single giant unilamellar vesicles.",
+  "abstract": "(-)-Epigallocatechin gallate (EGCg), a tea catechin, exhibits antimicrobial activity. EGCg induces burst of giant unilamellar vesicles (GUVs), resulting in leakage of their internal contents. Here, we examined the effect of membrane tension on the EGCg-induced burst of dioleoylphosphatidylcholine (DOPC)-GUVs. The observation of the EGCg-induced burst of GUVs without membrane tension indicated that first a micropore was formed in the membrane and then its radius rapidly increased with time within ~10\u00a0ms without a change in the GUV diameter, and then the GUV diameter decreased to a lipid membrane aggregate. Next, we examined the effect of membrane tension on the EGCg-induced fractional area change (\u03b4) of GUVs and its burst. During the interaction of EGCg with a GUV with low tension (\u2264 0.5 mN/m), the \u03b4 initially increased slightly and then decreased to negative values, concomitant with the appearance of invaginated structures such as dense particles and narrow tubes in the GUV membrane and lumen, resulting in pore formation and subsequent GUV burst. By contrast, at higher tension, \u03b4 increased with time. The fraction of burst GUV after 5\u00a0min of interaction, Pburst(5\u00a0min), decreased with increasing tension up to 3.0 mN/m, indicating that membrane tension suppressed the burst. The Pburst(5\u00a0min) increased with increasing the fraction of GUVs in which invaginated structures appeared within 5\u00a0min of interaction, suggesting that the formation of invaginated structures may cause the initial EGCg-induced pore formation. We have proposed a mechanism of the tension effect on the EGCg-induced pore formation.",
+  "publication_date": "2025-05-26",
+  "journal": "Biochimica et biophysica acta. Biomembranes",
+  "doi": "10.1016/j.bbamem.2025.184427",
+  "entities": {
+    "POLYPHENOL": [
+      "(-)-epigallocatechin gallate",
+      "a mechanism",
+      "a tea catechin",
+      "egcg",
+      "the effect",
+      "the egcg-induced burst",
+      "the egcg-induced fractional area change",
+      "the egcg-induced pore formation",
+      "the initial egcg-induced pore formation",
+      "the tension effect"
+    ],
+    "FOOD": [
+      "the appearance"
+    ]
+  }
+}

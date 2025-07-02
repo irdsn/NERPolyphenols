@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "The Transcription FactorCcMYB330Regulates Capsaicinoid Biosynthesis in Pepper Fruits.",
+  "abstract": "Pepper is an important vegetable and economic crop, and the MYB family is one of the most numerous transcription factor families in plants, extensively participating in various biological processes such as plant growth, development, and stress resistance. In this study,CcMYB330is identified as a differentially expressed gene in the pepper fruit, andCcMYB330is expressed with higher expression levels in the placenta and pericarp at different development stages of pepper fruit. Analysis of the promotercis-elements revealed that this gene contains not only core elements but also environmental factor response elements and plant hormone response elements. The silencing ofCcMYB330could reduce the capsaicinoid accumulation in pepper fruit, while the overexpression ofCcMYB330could increase capsaicinoid accumulation. Additionally, silencing or overexpressingCcMYB330could regulate the expression of structural genes involved in capsaicinoid biosynthesis. In addition, through yeast one-hybrid experiments, we identified an interaction betweenCcMYB330and the capsaicinoid biosynthesis structural geneCcPAL. Further evidence from EMSA experiments and dual luciferase assays confirmed thatCcMYB330can bind to thecis-element ACCAACAACCAAA in theCcPALpromoter. These results indicate thatCcMYB330may regulate the synthesis of capsaicinoids by modulating structural genes in the capsaicinoid biosynthesis pathway, providing new insights into the regulatory mechanisms of capsaicinoid synthesis.",
+  "publication_date": "2025-02-08",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26041438",
+  "entities": {
+    "FOOD": [
+      "pepper",
+      "pepper fruit",
+      "the pepper fruit"
+    ],
+    "POLYPHENOL": [
+      "an important vegetable and economic crop",
+      "structural geneccpal",
+      "the regulatory mechanisms",
+      "thecis-element"
+    ],
+    "SYMPTOM": [
+      "stress resistance"
+    ]
+  }
+}

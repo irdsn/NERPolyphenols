@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Hydroxytyrosol acetate from olive leaves (Olea\u00a0EuropaeaL.) induces apoptosis via mitochondrial pathway in BEL7402 cell line.",
+  "abstract": "Hydroxytyrosol acetate is one of the polyphenolic compounds in olive leaves. Hydroxytyrosol acetate has a variety of biological activities, such as antibacterial, antioxidant, anti-inflammatory, cognitive improvement and neuroprotective effects. However, there is no report on the antitumor activity and the antitumor mechanism of hydroxytyrosol acetate. In our study, we studied the antitumor activity of hydroxytyrosol acetate by MTT assay and determined the antitumor mechanism by DNA ladder assay, mitochondrial membrane potential assay and western blot assay. We found that hydroxytyrosol acetate could inhibit cell proliferation, and the inhibition rate was 78.08%. The further researches showed that hydroxytyrosol acetate could downregulate Bcl-2 protein while upregulate Bax protein. It also could induce mitochondrial depolarisation and release of cytochrome C. These results indicated that hydroxytyrosol acetate might induce BEL7402 cells apoptosisviamitochondrial pathway.",
+  "publication_date": "2024-05-01",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2024.2348679",
+  "entities": {
+    "POLYPHENOL": [
+      "neuroprotective effects",
+      "the antitumor mechanism",
+      "the polyphenolic compounds"
+    ],
+    "SYMPTOM": [
+      "apoptosisviamitochondrial pathway"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Rhododendri Daurici Folium: An Overview of Studies on the Study of Herbal Medicine, Chemical Composition, Pharmacological Action, Clinical Application, and Quality Control.",
+  "abstract": "The Rhododendri Daurici Folium (RDF) represents the desiccated foliage of Rhododendron dauricum L., belonging to the Rhododendron family. RDF abounds in diverse chemical elements, predominantly flavonoids, volatile oils, phenols, coumarin, and lignans. RDF functions as a cough and expectorant agent, primarily employed in the management of acute and chronic bronchitis and pharyngitis. RDF is also known for its pharmacological properties, including antibacterial, cardiotonic, antihypertensive, and anticancer properties. RDF is frequently utilized as a potent ingredient in Yingshanhong tablets, compound RDF syrup, XiaoKeChuan syrup, and various traditional Chinese medicinal concoctions, and it holds significant importance in clinical settings. This article's data were sourced from publications including PubMed, CNCK, SCI-HUB, Web of Science, Scopus, Chinese Pharmacopoeia, Chinese Dictionary of Traditional Chinese Medicine, Chinese Flora, and associated studies. The present document provides a comprehensive examination of the herbal properties, pharmacological effects, chemical makeup, clinical application, quality assurance, and safety assessments of RDF, serving as a guide for advancing and applying traditional Chinese medicine RDF.",
+  "publication_date": "2025-05-19",
+  "journal": "Phytochemical analysis : PCA",
+  "doi": "10.1002/pca.3537",
+  "entities": {
+    "POLYPHENOL": [
+      "a cough and expectorant agent",
+      "pharmacological effects",
+      "predominantly flavonoids",
+      "xiaokechuan syrup"
+    ],
+    "SYMPTOM": [
+      "antibacterial, cardiotonic, antihypertensive, and anticancer properties"
+    ]
+  }
+}

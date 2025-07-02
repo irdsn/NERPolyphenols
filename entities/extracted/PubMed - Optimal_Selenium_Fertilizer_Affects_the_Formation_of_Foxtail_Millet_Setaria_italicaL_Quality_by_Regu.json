@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "Optimal Selenium Fertilizer Affects the Formation of Foxtail Millet (Setaria italicaL.) Quality by Regulating Flavonoid Metabolism and Amino Acid Metabolism.",
+  "abstract": "In order to clarify the regulation mechanism of selenium (Se) on foxtail millet quality formation and metabolism, the effects of different Se fertilizers (no application of S1, optimal for Se S2, high Se S3) on yield, quality, and metabolic characteristics of Jingu 21 and Jingu 40 (Se-rich varieties) were studied. The results showed that S2 treated foxtail millet yield was the highest, the content of fat and starch in Jingu 21 increased, the content of protein decreased, the content of protein in Jingu 40 increased, and the content of starch and fiber decreased. S3 treatment reduced the content of fat and fiber and increased the content of starch. The peak viscosity and breakdown value of Jingu 21 decreased under S2 treatment. Metabolomics analysis revealed that S2 promoted flavonoid accumulation (Taxifolin, Epicatechin, etc.) and inhibition of L-histidine expression in Jingu 21 by regulating flavonoid and histidine metabolism pathways, leading to reduced protein content, increased fat and starch content, and lower peak viscosity and breakdown value, thereby affecting foxtail millet quality formation. S2 treatment activated the stilbenoid, diarylheptanoid, and gingerol biosynthesis pathways of Jingu40, reducing the synthesis of demethoxycurcumin and chlorogenic acid, increasing protein content and decreasing fat content. S3 treatment activated the tyrosine metabolism pathway of Jingu40, up-regulated L-tyrosine and gentisic acid expression, which increased protein content and decreased fat content, thus affecting foxtail millet quality. This study provides a theoretical basis for the safe use of foxtail millet Se fertilizer, high-quality cultivation, and the development of Se-enriched functional foods.",
+  "publication_date": "2025-05-30",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70362",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "demethoxycurcumin",
+      "epicatechin",
+      "flavonoid",
+      "flavonoid accumulation",
+      "the effects",
+      "the regulation mechanism",
+      "up-regulated l-tyrosine and gentisic acid expression"
+    ],
+    "FOOD": [
+      "se-enriched functional foods"
+    ]
+  }
+}

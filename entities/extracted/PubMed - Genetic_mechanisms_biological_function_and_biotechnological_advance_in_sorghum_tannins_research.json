@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Genetic mechanisms, biological function, and biotechnological advance in sorghum tannins research.",
+  "abstract": "Sorghum (Sorghum bicolor) holds a unique position in the human diet and serves as a stable food source in many developing countries especially in African and south Asian regions. Tannins, the primary secondary metabolites in sorghum, are pivotal in determining its characteristic bitter taste. Beyond their influence on flavor, tannins play a vital role in sorghum's resistance to biotic and abiotic stresses and serve as key indicators of grain quality. The concentration of tannins significantly affects the potential for diverse applications of sorghum. This review provides a comprehensive analysis of sorghum tannins, focusing on their genetic basis, biological activities, and biosynthesis mechanisms. It highlights the relationship between tannin levels and grain color and delves into the underlying biogenetic pathways. Furthermore, the potential of functional genomics and biotechnological approaches in precisely controlling tannin levels for sorghum breeding is discussed. This study aims to offer valuable insights and perspectives for advancing both the scientific understanding and practical applications of sorghum tannins.",
+  "publication_date": "2025-03-30",
+  "journal": "Biotechnology advances",
+  "doi": "10.1016/j.biotechadv.2025.108573",
+  "entities": {
+    "POLYPHENOL": [
+      "biotechnological approaches",
+      "mechanisms",
+      "perspectives",
+      "precisely controlling tannin levels",
+      "sorghum tannins",
+      "tannin levels",
+      "tannins",
+      "the primary secondary metabolites"
+    ],
+    "SYMPTOM": [
+      "biotic and abiotic stresses"
+    ]
+  }
+}

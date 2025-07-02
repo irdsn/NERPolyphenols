@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "The Effect of Green Tea Beverage on Blood Cardiometabolic Risk Biomarkers in Dyslipidemia Subjects.",
+  "abstract": "Green tea bioactive compounds show promise as a potential functional food to improve blood lipid profiles and ameliorate cardiovascular diseases. To determine the effect of 6\u2009weeks of green tea compared to the placebo beverage consumption on blood cardiometabolic biomarkers. A randomized double-blinded placebo-controlled trial was conducted on dyslipidemia participants and randomly allocated in green tea beverage (n=\u200930) and placebo beverage (n=\u200930) groups. Sixty dyslipidemia adults with age 30-60\u2009years old participated. Change in blood parameters, including lipid profiles, liver and kidney functions, oxidative stress and antioxidant markers, gene expressions, and anthropometric parameters, was measured. After 6\u2009weeks of green tea intervention, blood total cholesterol and low-density lipoprotein cholesterol (LDL) decreased in the green tea group by 4.96% and 7.98%, respectively. Plasma malondialdehyde (MDA), a lipid peroxidation marker, decreased, whereas antioxidant capacities measured by the ferric ion reducing antioxidant power (FRAP) and oxygen radical absorbance capacity (ORAC) assays were maintained in the green tea beverage group. The lipid-related gene expression of peripheral blood mononuclear cells (PBMC) was observed by real-time polymerase chain reaction. The LDL receptor gene was upregulated in the green tea beverage group. The liver and kidney function tests showed no alterations among the subjects in the green tea beverage and placebo groups. Six weeks of green tea beverage intervention showed potential as a treatment to reduce cardiometabolic risk in dyslipidemia subjects.Trial Registration:Thai Clinical Trial Registry: TCTR20250104003.",
+  "publication_date": "2025-06-17",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70415",
+  "entities": {
+    "FOOD": [
+      "a potential functional food",
+      "green tea",
+      "green tea beverage",
+      "green tea beverage intervention",
+      "green tea bioactive compounds show promise",
+      "green tea intervention",
+      "the green tea beverage and placebo groups",
+      "the green tea beverage group",
+      "the green tea group"
+    ],
+    "POLYPHENOL": [
+      "subjects",
+      "the effect",
+      "the ldl receptor gene",
+      "the subjects"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

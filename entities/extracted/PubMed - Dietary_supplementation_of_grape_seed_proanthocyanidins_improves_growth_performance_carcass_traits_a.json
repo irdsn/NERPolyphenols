@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Dietary supplementation of grape seed proanthocyanidins improves growth performance, carcass traits, and meat quality in growing-finishing pigs.",
+  "abstract": "Grape seed proanthocyanidin (GSP) is a type of plant polyphenol with a wide variety of biological activities, such as antioxidant properties. This study investigated the effects of GSP supplementation on growth performance and meat quality in growing-finishing pigs. A total of 180 pigs (with an initial average body weight of 30.37\u00a0\u00b1\u00a00.66\u00a0kg) were randomly assigned to five treatments: a control diet or a control diet supplemented with GSP at 15, 30, 60, and 120\u00a0mg/kg. Each treatment group comprised six replicate pens (6 pigs per pen). Results showed that GSP supplementation linearly increased the average daily gain (P=\u00a00.048) and quadratically decreased the feed intake to gain ratio (P=\u00a00.049) with the lowest values at 30 and 60\u00a0mg/kg GSP. Serum concentrations of immunoglobulins (Ig) (IgA, IgG, IgM), total antioxidative capacity, catalase, and total superoxide dismutase were elevated with the peak levels at 30\u00a0mg/kg GSP (P<\u00a00.05). Serum glutathione peroxidase increased and malondialdehyde decreased quadratically (P<\u00a00.05), with peak and trough levels at 120 and 60\u00a0mg/kg GSP, respectively. The GSP also improved dressing percentage and muscle redness (a\u221745\u00a0min) with optimal levels at 30 and 60\u00a0mg/kg (P<\u00a00.05). Additionally, GSP supplementation quadratically reduced the muscle yellowness (b\u221724\u00a0h) and shear force (P<\u00a00.05), with the lowest values at 120\u00a0mg/kg. The expression level of myosin heavy chain I in muscle was quadratically increased with maximum expression at 30 and 60\u00a0mg/kg (P=\u00a00.015). Furthermore, the expression levels of fatty acid synthase, phosphoenolpyruvate carboxykinase (PEPCK), and glucokinase in the muscle were decreased quadratically (P<\u00a00.05) with the lowest values at 120\u00a0mg/kg. Additionally, GSP supplementation at 60\u00a0mg/kg upregulated the expression of hepatic hormone-sensitive triglyceride lipase andPEPCK(P<\u00a00.05). These results suggest that GSP enhances carcass characteristics and meat quality in growing-finishing pigs, potentially through improved antioxidative capacity, modified muscle fiber type distribution, and altered glucose-lipid metabolism in muscle and liver.",
+  "publication_date": "2024-11-20",
+  "journal": "Animal nutrition (Zhongguo xu mu shou yi xue hui)",
+  "doi": "10.1016/j.aninu.2024.10.006",
+  "entities": {
+    "FOOD": [
+      "grape seed"
+    ],
+    "POLYPHENOL": [
+      "plant polyphenol",
+      "the effects"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Amylin is incorporated into extracellular vesicles in an ESCRT-dependent manner and regulates senescence.",
+  "abstract": "Type 2 diabetes mellitus is a disease which initiates with insulin resistance. Then, pancreatic \u03b2 cells start to counteract this situation by increasing insulin secretion, which is known as pre-diabetic state. Amylin protein or islet amyloid polypeptide (IAPP), has multiple physiological roles such as the regulation of satiety and avoiding gastric emptying. However, amylin is able to aggregate, forming insoluble structures that affects pancreatic \u03b2 cell survival. Interestingly, not all the amylin from the different species has this aggregate-prone capacity. There are species, which possesses non-amyloidogenic capacity and does not aggregate such as the rodents. However, there are versions of the protein, for instance from humans and primates, which can aggregate. Previously, we observed that small oligomers could be found in extracellular vesicles (EVs). Now, we have used a pancreatic \u03b2 cell which overexpresses human amylin (hIAPP) (INS1E-hIAPP) and we have explored the capacity of amylin to be incorporated into EVs and how amylin could affect to different essential signaling pathways such as the mammalian target of rapamycin complex 1, endoplasmic-reticulum stress and senescence. Here, we report that amylin can be incorporated into EVs in an endosomal sorting complexes required for transport (ESCRT)-dependent manner. When we treated the cells with the neutral sphingomyelinase inhibitor, GW4869, one of the pathways for EV biogenesis and under high glucose conditions, there was an increased incorporation of soluble amylin into vesicles. Interestingly in this condition, when we isolated the EVs, we clearly observed that the size of the vesicles was higher, compatible with microvesicles (MVs). Resveratrol increased a pro-senescent phenotype but, it was able to revert either the high glucose or GW4869-associated senescent. In summary, these results indicate that amylin can be recruited in an ESCRT-dependent manner into EVs and, resveratrol presents an important role in inducing senescence in INS1E-hIAPP pancreatic \u03b2 cells.",
+  "publication_date": "2025-01-30",
+  "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+  "doi": "10.1016/j.bbadis.2025.167699",
+  "entities": {
+    "SYMPTOM": [
+      "endoplasmic-reticulum stress",
+      "insulin resistance"
+    ],
+    "POLYPHENOL": [
+      "increasing insulin secretion",
+      "resveratrol",
+      "species",
+      "the different species"
+    ]
+  }
+}

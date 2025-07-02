@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Effect of epicatechin consumption on the inflammatory pathway and mitochondria morphology in PBMC from a R350P desminopathy patient: A case report.",
+  "abstract": "Desminopathy R350P is a human myopathy that is characterized by the progressive loss of muscle fiber organization. This results in the loss of muscle size, mobility, and strength. In desminopathy, inflammation affects muscle homeostasis and repair, and contributes to progressive muscle deterioration. Mitochondria morphology was also suggested to affect desminopathy progression. Epicatechin (Epi)-a natural compound found in cacao-has been proposed to regulate inflammatory signaling and mitochondria morphology in human and animal models. Hence, we hypothesize chronic Epi consumption to improve inflammatory pathway and mitochondria morphology in the peripheral blood mononuclear cells (PBMCs) of a desminopathy R350P patient. We found that 12\u2009weeks of Epi consumption partially restored TRL4 signaling, indicative of inflammatory signaling and mitochondria morphology in the desminopathy patient. Moreover, Epi consumption improved blood health parameters, including reduced HOMA-IR and IL-6 levels in the desminopathy patient. This indicates that Epi consumption could be a useful tool to slow disease progression in desminopathy patients.",
+  "publication_date": "2024-04-01",
+  "journal": "Physiological reports",
+  "doi": "10.14814/phy2.16020",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation"
+    ],
+    "POLYPHENOL": [
+      "epicatechin"
+    ]
+  }
+}

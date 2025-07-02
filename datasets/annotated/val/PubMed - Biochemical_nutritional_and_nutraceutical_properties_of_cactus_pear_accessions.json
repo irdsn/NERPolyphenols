@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Biochemical, nutritional, and nutraceutical properties of cactus pear accessions.",
+  "abstract": "Cactus pear (Opuntia ficus-indica Mill.) is a resilient fruit species gaining importance due to its nutritional and health-promoting properties, especially in arid and semi-arid regions like T\u00fcrkiye. Despite its growing significance, limited comprehensive research exists on the variability in its biochemical and nutraceutical traits. This study aimed to assess 100 wild cactus pear accessions collected from Hatay province, T\u00fcrkiye evaluating a broad range of traits, including biochemical properties, antioxidant activities, fatty acid profiles, organic acid, mineral compositions, and sensory characteristics. Extensive variability was observed among the accessions. Total phenolics ranged from 68.17 to 109.92\u00a0mg GAE 100\u00a0g\u207b\u00b9 FW, antioxidant activity (ABTS) from 13.74 to 35.40 mmol Trolox kg\u207b\u00b9 DW, and \u03b2-carotene from 3.11 to 6.87\u00a0\u00b5g \u03b2-CE 100\u00a0g\u207b\u00b9 FW. Notably, linoleic acid, oleic acid, and palmitic acid were the predominant fatty acids, while citric acid was the major organic acid. High levels of essential minerals such as potassium (1473.21-2113.57\u00a0mg kg\u207b\u00b9 DW) and calcium (201.77-325.91\u00a0mg kg\u207b\u00b9 DW) were found. Sensory evaluations revealed accessions with high aroma, sweet taste, and juiciness. Significant positive correlations were detected between total phenolics and antioxidant activity (DPPH, r\u2009=\u20090.45, p\u2009\u2264\u20090.01) and \u03b2-carotene and antioxidant activity (ABTS, r\u2009=\u20090.55, p\u2009\u2264\u20090.01). A total of 20 superior genotypes were identified based on their exceptional biochemical and organoleptic traits. The first five of these genotypes are 'CP53', 'CP61', 'CP6', 'CP44', and 'CP15'. Principal component analysis\u00a0(PCA) results showed that the first three components explained 26.40% of the total variation, with PC1 and PC2 being key for distinguishing cactus pear genotypes based on nutritional and sensory traits relevant to breeding programs. Within the framework of hierarchical cluster analysis, the similarity index ranged from 0.59 to 0.94, with the highest similarity observed between the genotypes 'CP50' and 'CP56'. The cactus pear accessions studied demonstrated significant potential for use in breeding programs aimed at enhancing fruit quality for nutritional and industrial purposes. These findings contribute valuable insights for the conservation and utilization of wild cactus pear genetic resources, supporting the development of functional food products and sustainable cultivation strategies in Mediterranean climates.",
+  "publication_date": "2025-06-05",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-04726-6",
+  "entities": {
+    "POLYPHENOL": [
+      "a resilient fruit species"
+    ],
+    "FOOD": [
+      "functional food products"
+    ]
+  }
+}

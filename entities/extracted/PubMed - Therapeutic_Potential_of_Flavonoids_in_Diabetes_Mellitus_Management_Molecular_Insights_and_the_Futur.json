@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Therapeutic Potential of Flavonoids in Diabetes Mellitus Management: Molecular Insights and the Future Directions for Drug Design.",
+  "abstract": "Diabetes mellitus (DM) is a prevalent metabolic disorder with a rapidly rising global inci-dence, presenting a significant burden to healthcare systems worldwide. Flavonoids, a class of natu-rally occurring polyphenolic compounds, are well-documented for their diverse pharmacological ac-tivities, particularly their anti-diabetic and anti-inflammatory effects. These secondary metabolites are commonly found in fruits, vegetables, and fungi and are classified into six main subclasses: fla-vanols, flavones, flavanones, isoflavones, anthocyanidins, and chalcones. The interplay between hy-perglycemia, inflammation, and vascular complications in diabetes is now well recognized. Flavo-noids with anti-diabetic properties may help mitigate inflammation by reducing hyperglycemia through various mechanisms. This review explores the antidiabetic potential and molecular mecha-nisms of citrus flavonoids, drawing on updated evidence from in vitro and in vivo studies. Flavonoids are shown to regulate biomarkers of glycemic control, lipid metabolism, renal function, hepatic en-zymes, and antioxidant defenses. They also modulate signaling pathways implicated in glucose up-take and insulin sensitivity, which are central to the development of diabetes and its complications. Furthermore, this review synthesizes current knowledge on the antidiabetic effects of dietary flavo-noids, emphasizing their molecular mechanisms in modulating key pathways such as glucose trans-porters, hepatic enzymes, tyrosine kinase inhibitors, AMP-activated protein kinase (AMPK), peroxi-some proliferator-activated receptors (PPARs), and nuclear factor kappa B (NF-\u03ba\u03b2). Further research is essential to deepen our understanding of flavonoids' therapeutic mechanisms in managing diabetes.",
+  "publication_date": "2025-06-02",
+  "journal": "Current drug discovery technologies",
+  "doi": "10.2174/0115701638333208250522050837",
+  "entities": {
+    "POLYPHENOL": [
+      "anthocyanidins",
+      "citrus flavonoids",
+      "flavonoids",
+      "flavonoids' therapeutic mechanisms",
+      "molecular mecha-nisms",
+      "natu-rally occurring polyphenolic compounds",
+      "particularly their anti-diabetic and anti-inflammatory effects",
+      "peroxi-some proliferator-activated receptors",
+      "the antidiabetic effects",
+      "their molecular mechanisms",
+      "these secondary metabolites",
+      "various mechanisms"
+    ],
+    "SYMPTOM": [
+      "hyperglycemia",
+      "inflammation",
+      "managing diabetes"
+    ]
+  }
+}

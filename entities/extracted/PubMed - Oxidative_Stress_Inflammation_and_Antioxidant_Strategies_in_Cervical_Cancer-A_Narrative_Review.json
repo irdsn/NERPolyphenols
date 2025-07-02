@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Oxidative Stress, Inflammation, and Antioxidant Strategies in Cervical Cancer-A Narrative Review.",
+  "abstract": "Cervical cancer ranks third among malignant diseases of the female reproductive system and progressively develops through a series of pathological changes known as cervical intraepithelial neoplasia (CIN). Despite being extremely aggressive and causing increased mortality, the main treatment options include surgery or a combination of chemotherapy and radiotherapy, often based on cisplatin-based chemotherapy and external beam radiotherapy or brachytherapy. Cervical dysplasia is an abnormal growth of cells on the surface of the cervix that could lead to cervical cancer. CIN most commonly occurs at the squamocolumnar junction of the cervix, a transitional zone between the squamous epithelium of the vagina and the columnar epithelium of the endocervix. The primary cause of CIN is chronic infection of the cervix with Human Papillomavirus (HPV). Oxidative stress (OS) and chronic inflammation are associated with HPV-induced cervical dysplasia. Reactive oxygen species (ROS) facilitate the progression of CIN through DNA damage, immune evasion, and cellular mutations. Thus, the inflammatory environment, characterized by increased expression of proinflammatory cytokines, contributes to epithelial transformation. Given these mechanisms, antioxidants, including vitamins A, C, D, E, polyphenols, and carotenoids, are being investigated for their potential as adjunctive therapies in CIN management. This review aims to provide a comprehensive analysis of the influence of oxidative stress, antioxidants, and inflammation on cervical cancer.",
+  "publication_date": "2025-05-21",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26104961",
+  "entities": {
+    "SYMPTOM": [
+      "cervical cancer",
+      "chronic inflammation",
+      "dna damage",
+      "inflammation",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "chronic infection",
+      "reactive oxygen species",
+      "these mechanisms"
+    ]
+  }
+}

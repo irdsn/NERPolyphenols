@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "An evidence-based debate on epigenetics and immunosenescence in COVID-19.",
+  "abstract": "Immunosenescence contributes to the decline of immune function leading to a reduced ability to respond to severe coronavirus disease 2019 (COVID-19) in elderly patients. Clinical course of COVID-19 is widely heterogeneous and guided by the possible interplay between genetic background and epigenetic-sensitive mechanisms underlying the immunosenescence which could explain, at least in part, the higher percentage of disease severity in elderly individuals. The most convincing evidence regards the hypomethylation of the angiotensin-converting enzyme 2 (ACE2) promoter gene in lungs as well as the citrullination of histone H3 in neutrophils which have been associated with worsening of COVID-19 outcome in elderly patients. In contrast, centenarians who have showed milder symptoms have been associated to a younger \"epigenetic age\" based on DNA methylation profiles at specific genomic sites (epigenetic clock). Some large prospective studies showed that the acceleration of epigenetic aging as well as the shortening of telomeres were significantly associated with lymphopenia and poor outcome suggesting prognostic biomarkers in elderly COVID-19 patients. Furthermore, randomized clinical trials showed that statins, L-arginine, and resveratrol could mediate anti-inflammatory effectsviaindirect epigenetic interference and might improve COVID-19 outcome. Here, we discuss the epigenetic-sensitive events which might contribute to increase the risk of severity and mortality in older subjects and possible targeted therapies to counteract immunosenescence.",
+  "publication_date": "2023-09-26",
+  "journal": "Current research in immunology",
+  "doi": "10.1016/j.crimmu.2023.100069",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory effectsviaindirect epigenetic interference",
+      "epigenetic-sensitive mechanisms",
+      "older subjects",
+      "resveratrol",
+      "some large prospective studies",
+      "specific genomic sites",
+      "the decline"
+    ],
+    "SYMPTOM": [
+      "epigenetic aging"
+    ]
+  }
+}

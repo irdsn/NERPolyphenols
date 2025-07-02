@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Green synthesis and adsorption performance of Eucalyptus globulus leaf modified iron oxide-graphene oxide nanocomposite for Cd(II) and Pb(II) removal from aqueous solution.",
+  "abstract": "This study investigates the potential of a biogenic iron oxide-graphene oxide nanocomposite modified with Eucalyptus globulus leaf extract, in comparison with its chemically synthesized counterpart, for efficient removal of Cd(II) and Pb(II) ions from aqueous solutions. The nanocomposites were synthesised using two routes via co-precipitation: conventional chemical method (MGO) and green synthesis method using Eucalyptus leaf extract (MGOE), showcasing a novel, sustainable approach. The leaf extract, rich in phytochemicals such as polyphenols and flavonoids, served as a natural reducing and stabilizing agent, enhancing surface functionality and adsorption efficiency. The structural, functional and surface properties were characterized by FESEM-EDX, TEM, XRD, FTIR, BET and pHPZC. Both nanocomposites had rough, mesoporous surfaces with Fe3O4nanoparticles as bright flakes. MGOE demonstrated an increased surface area (156.45 m2/g) compared to MGO (116.20 m2/g), confirming successful modification by biogenic extract. MGOE had a smaller mean pore diameter (12.574\u00a0nm) and reduced pore volume (0.2768 cm3/g) than MGO (16.353\u00a0nm and 0.3309 cm3/g, respectively). The point of zero charge (pHPZC) was 4.6 for MGOE and 3.8 for MGO, exhibiting acidic surface properties. Batch adsorption experiments were conducted across varying pH (2-10), metal concentration (10-60\u00a0mg/L), adsorbent dose (0.1-2.5\u00a0g/L) and contact time (10-180\u00a0min). For Cd(II), the adsorption capacities achieved were 37.52\u00a0mg/g (MGO, 1.0\u00a0g/L, 120\u00a0min) and 42.10\u00a0mg/g (MGOE, 0.8\u00a0g/L, 90\u00a0min), while for Pb(II) removal, maximum adsorption capacities were 90.99\u00a0mg/g (MGO, 0.6\u00a0g/L, 90\u00a0min) and 105.15\u00a0mg/g (MGOE, 0.4\u00a0g/L, 30\u00a0min), at optimum pH 6 and 25\u00a0\u00b0C. The adsorption behaviour followed Langmuir isotherm model (0\u2009<\u2009RL<\u20091) and kinetics analysis indicated pseudo-second-order chemisorption with rate constant (k2) between 0.01 and 0.05\u00a0g/mg.min. The process was spontaneous and endothermic. Both nanocomposites retained adsorption efficiency up to eight adsorption-desorption cycles. MGOE, enhanced via a green synthesis route, emerged as a cost-effective, efficient, and superior adsorbent than MGO, offering viable and sustainable options for heavy metal remediation in water treatment applications.",
+  "publication_date": "2025-06-23",
+  "journal": "Environmental geochemistry and health",
+  "doi": "10.1007/s10653-025-02586-7",
+  "entities": {
+    "POLYPHENOL": [
+      "a cost-effective, efficient, and superior adsorbent",
+      "flavonoids",
+      "polyphenols",
+      "precipitation",
+      "pseudo-second-order chemisorption"
+    ]
+  }
+}

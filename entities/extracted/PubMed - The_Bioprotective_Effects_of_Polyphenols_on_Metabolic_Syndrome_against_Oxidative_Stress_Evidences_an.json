@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "The Bioprotective Effects of Polyphenols on Metabolic Syndrome against Oxidative Stress: Evidences and Perspectives.",
+  "abstract": "Polyphenols are the general designation of various kinds of phytochemicals, mainly classified as flavonoids and nonflavonoids. Polyphenolic compounds have been confirmed to exhibit numerous bioactivities and potential health benefits bothin vivoandin vitro. Dietary polyphenols have been shown to significantly alleviate several manifestations of metabolic syndrome, namely, central obesity, hypertension, dyslipidemia, and high blood sugar. This review is aimed at discussing the bioprotective effects and related molecular mechanisms of polyphenols, mainly by increasing antioxidant capacity or oxygen scavenging capacity. Polyphenols can exert their antioxidative activity by balancing the organic oxidoreductase enzyme system, regulating antioxidant responsive signaling pathways, and restoring mitochondrial function. These data are helpful for providing new insights into the potential biological effects of polyphenolic compounds and the development of future antioxidant therapeutics.",
+  "publication_date": "2019-11-30",
+  "journal": "Oxidative medicine and cellular longevity",
+  "doi": "10.1155/2019/6713194",
+  "entities": {
+    "POLYPHENOL": [
+      "dietary polyphenols",
+      "flavonoids",
+      "molecular mechanisms",
+      "nonflavonoids",
+      "polyphenolic compounds",
+      "polyphenols",
+      "the bioprotective effects",
+      "the potential biological effects"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

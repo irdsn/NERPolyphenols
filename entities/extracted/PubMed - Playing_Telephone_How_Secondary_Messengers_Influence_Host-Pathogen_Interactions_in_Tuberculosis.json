@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Playing Telephone: How Secondary Messengers Influence Host-Pathogen Interactions in Tuberculosis.",
+  "abstract": "Secondary messengers are small, diffusible signaling molecules that transmit information from environmental cues detected at the cell surface by extracellular signaling molecules (primary messengers) to effector proteins, thereby enabling an appropriate cellular response. These molecules include cyclic nucleotides, alarmones, and lipid-derived metabolites and are ubiquitous regulators, influencing processes such as growth, metabolism, and neurotransmission in mammalian cells, as well as chemotaxis, biofilm formation, and metabolism in prokaryotes.Mycobacterium tuberculosisencodes an extensive array of genes dedicated to the synthesis and degradation of a diverse range of secondary messenger molecules. Given its highly intricate intracellular lifestyle and its ability to endure and persist in hostile and fluctuating environments, there is significant potential for crosstalk between host and bacterial secondary messengers.M. tuberculosishas likely co-opted these signaling processes within the host cell to facilitate its own pathogenesis and virulence. Recent studies have begun to elucidate the complex and multifaceted roles played by some of these secondary messengers, highlighting their capacity to regulate mycobacterial physiology while simultaneously modulating host immune responses. This review summarizes the current understanding of secondary messenger signaling inM. tuberculosisand explores how this knowledge is being leveraged to develop improved vaccines and therapeutic strategies.",
+  "publication_date": "2025-06-20",
+  "journal": "ACS infectious diseases",
+  "doi": "10.1021/acsinfecdis.5c00077",
+  "entities": {
+    "POLYPHENOL": [
+      "bacterial secondary messengers",
+      "effector proteins",
+      "extracellular signaling molecules",
+      "recent studies",
+      "secondary messenger",
+      "secondary messenger molecules",
+      "secondary messengers",
+      "small, diffusible signaling molecules",
+      "these molecules",
+      "these secondary messengers"
+    ]
+  }
+}

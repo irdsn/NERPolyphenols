@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Ginsenoside Rg1 Alleviates Hydrogen Peroxide-Induced Autophagy and Apoptosis in Ovarian Granulosa Cells.",
+  "abstract": "Oxidative stress results in the apoptosis of ovarian granulosa cells (GCs) and premature ovarian failure (POF). Ginsenoside Rg1 possesses natural antioxidant and anti-apoptotic properties. However, the underlying mechanisms by which it regulates mitochondrial function in ovarian GCs remain unclear. To investigate the potential mechanism of ginsenoside Rg1 (Rg1) in mitigating oxidative stress, autophagy and apoptosis in POF. This study employed network pharmacology and in vitro experiments to identify the key targets and pathways associated with the therapeutic effects of Rg1 in the treatment of POF. An oxidative stress model was established using H₂O₂-treated KGN cells to validate the network pharmacology predictions in vitro. In the Rg1-treated group, cell viability was significantly improved, while the rate of apoptosis was reduced. Furthermore, Rg1 suppressed the production of reactive oxygen species and malondialdehyde, and increased the levels of glutathione and adenosine triphosphate. Additionally, Rg1 downregulated pro-apoptotic and mitophagy-related markers (Bax, Caspase-3, Parkin, PINK1) and upregulated Bcl-2, p-PI3K, p-AKT, and p-mTOR, suggesting involvement of the PI3K/AKT/mTOR signaling pathway. These findings suggest that Rg1 protects against H2O2-induced apoptosis in ovarian GCs by preserving mitochondrial function and inhibiting mitophagy.",
+  "publication_date": "2025-06-27",
+  "journal": "Cell biochemistry and biophysics",
+  "doi": "10.1007/s12013-025-01803-5"
+}

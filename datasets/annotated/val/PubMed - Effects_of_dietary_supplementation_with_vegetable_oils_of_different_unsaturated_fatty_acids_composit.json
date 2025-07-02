@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Effects of dietary supplementation with vegetable oils of different unsaturated fatty acids composition on intake, digestibility, nitrogen balance performance, and carcass traits of sheep.",
+  "abstract": "We aimed at evaluating the best unsaturated fatty acid candidate (vegetable oil) for blending (dry matter-DM basis) with cashew nutshell liquid (CNSL) to improve feed intake, digestibility, nitrogen balance, growth, and carcass traits in sheep. Forty uncastrated male Santa Ines\u2009\u00d7\u2009Dorper crossbred sheep (n\u2009=\u20098/treatment) weighting 24.44\u2009\u00b1\u20091.5\u00a0kg were used. Animals were randomly assigned to a completely randomized design and received one of the following treatments: a control group consisting of a blend of phenolic lipids (CNSL at 0.5%) and canola oil (a monounsaturated fatty acid source, MUFA, at 1.5%), and four treatment groups with CNSL (0.5%) combined with 1.5% of a high polyunsaturated fatty acid (PUFA) vegetable oil (corn, soybean, sunflower, or cottonseed oil), as DM basis. Feeding sheep with CNSL\u2009+\u2009canola oil resulted in higher SFA, UFA, and MUFA and lower PUFA's (P\u2009<\u20090.05) intakes. The TDN intake was lower for the CNSL\u2009+\u2009corn oil diet than the other oils (P\u2009<\u20090.0001). The DM and NDF digestibility were higher for CNSL\u2009+\u2009cottonseed oil (PUFA) or canola oil (MUFA) diets than other oils (P\u2009<\u20090.05). The CNSL\u2009+\u2009soybean oil blend promoted a lower urinary N excretion (P\u2009=\u20090.047) in sheep. Growth and carcass traits were not affected by the oil's composition in the blends. The level of saturation was confirmed as such a determining factor in the DM and NDF digestibility since the oil containing the highest concentration of MUFA (canola oil) showed better digestibility compared to other PUFA-rich oils; however, without effect on the performance and feed efficiency of the sheep.",
+  "publication_date": "2025-04-01",
+  "journal": "Tropical animal health and production",
+  "doi": "10.1007/s11250-025-04395-7",
+  "entities": {
+    "FOOD": [
+      "canola oil",
+      "cashew nutshell liquid",
+      "cnsl\u2009+\u2009canola oil",
+      "soybean",
+      "the cnsl\u2009+\u2009soybean oil blend"
+    ],
+    "POLYPHENOL": [
+      "effect"
+    ]
+  }
+}

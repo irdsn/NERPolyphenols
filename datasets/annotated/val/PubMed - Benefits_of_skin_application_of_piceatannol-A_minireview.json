@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Benefits of skin application of piceatannol-A minireview.",
+  "abstract": "The skin is the largest organ of the human body and has several functions such as barrier against external agents, the maintenance of temperature and homeostatic functions. Skin ageing is a natural process that can be influenced by environmental factors, intrinsic skin factors and lifestyle. UV light plays an important role in skin ageing and can cause spots, requiring the use of depigmenting agents. Nowadays, there is a great demand for ingredients that prevent skin ageing, with natural agents occupying a promising position. Among the natural agents, polyphenols, such as resveratrol and piceatannol, found in grapes, passion fruits and other fruits, have a huge relevance. Great benefits of piceatannol have been reported, so thus, this work focuses specifically on a review of the literature regarding the application of this polyphenol in skin care products. This polyphenol can be used in a wound-healing, or as anti-ageing, antioxidant, anti-acne and skin whitening, among other effects.",
+  "publication_date": "2022-10-20",
+  "journal": "The Australasian journal of dermatology",
+  "doi": "10.1111/ajd.13937",
+  "entities": {
+    "POLYPHENOL": [
+      "other effects",
+      "piceatannol",
+      "polyphenols",
+      "resveratrol",
+      "this polyphenol"
+    ],
+    "FOOD": [
+      "grapes"
+    ]
+  }
+}

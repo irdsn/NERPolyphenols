@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Development and characterization of multifunctional phytonanoemulgels based on licorice extract and biocompatible polymers.",
+  "abstract": "Natural extract-derived cosmetics are primarily preferred by green consumers for their safety and environmental sustainability. However, many natural bioactive compounds are hydrophilic and unstable, thus having limitations in overcoming the high lipophilic barrier of stratum corneum and maintaining their beneficial properties over time. For this reason, nanostructured emulgel based on phytochemical ingredients called \"phytonanoemulgel\" could represent an option for a natural, safe, and effective skincare product. In this work, an extract of licorice was prepared and analyzed with a particular regard for antioxidant activity. The extract was incorporated in a phytonanoemulsion using lecithin as a vegetable, safe, and sustainable emulsifier. The optimized licorice phytonanoemulsion was physico-chemically characterized. Then, different natural polymers having additive cosmetic properties, such as sodium hyaluronate, Acacia and xanthan gums, pectin, or sodium alginate, were added to the phytonanoemulsion to form a gel. Different phytonanoemulgels were obtained and evaluated for their macroscopic appearance, droplet size, zeta potential, pH, total phenolic content and antioxidant activity. Additionally, rheological characterization was conducted. Cell viability studies verified the safety of phytonanoemulsion, and the stability of the different phytonanoemulgels was assessed over time. The licorice phytonanoemulgel based on gums demonstrated optimal physicochemical parameters, suitable rheological characteristics, and good stability over time, thus representing a promising option as a multifunctional cosmetic phytoformulation.",
+  "publication_date": "2025-06-13",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145241",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural, safe, and effective skincare product",
+      "lecithin",
+      "pectin"
+    ],
+    "FOOD": [
+      "their macroscopic appearance"
+    ]
+  }
+}

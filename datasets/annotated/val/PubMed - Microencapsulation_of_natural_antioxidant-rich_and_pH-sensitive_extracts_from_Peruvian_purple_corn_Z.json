@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Microencapsulation of natural antioxidant-rich and pH-sensitive extracts from Peruvian purple corn (Zea mays L.) cob using spray-drying.",
+  "abstract": "The development of pH-sensitive microcapsules based on natural antioxidants from Peruvian purple corn (Zea mays L.) cob was successfully achieved using various wall materials, including maltodextrin, gum arabic, and soy protein isolate, via spray drying. The proportions of wall materials were optimized using a mixed simplex-centroid design, resulting in a microencapsulation efficiency of 95-98\u00a0%. The total polyphenol content was 2-3\u00a0mg of gallic acid equivalents per g of microcapsules, while the anthocyanin content was 2-3\u00a0mg/g of microcapsules. The physicochemical properties of the resulting microencapsulated anthocyanin-rich powders (MAP) were evaluated at different intervals (0 and 48\u00a0h) and pH levels (4, 7, and 10). The microcapsules exhibited remarkable color stability (\u2206E*\u00a0<\u00a01) at pH\u00a04 and 7 over 48\u00a0h, with minimal variations in the a* values across pH levels, demonstrating their capacity to retain the characteristic red hue of anthocyanin over time and across varying pH conditions. A structural X-ray diffraction (XRD) analysis showed a semicrystalline structure in all formulations. Fourier-transform infrared (FTIR) analysis revealed that the anthocyanin extract interacted with the wall materials through hydrogen bonding and hydrophobic interactions. The morphological analysis by scanning electron microscopy (SEM) showed that microcapsules with equal proportions of encapsulating agents exhibited fewer surface irregularities than those made with single-wall materials. These results underscore the stability of microcapsules, highlighting their potential as natural antioxidants for applications in the food industry and intelligent packaging.",
+  "publication_date": "2025-06-04",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144937",
+  "entities": {
+    "POLYPHENOL": [
+      "electron microscopy",
+      "gallic acid equivalents",
+      "the total polyphenol content"
+    ],
+    "SYMPTOM": [
+      "intelligent packaging"
+    ]
+  }
+}

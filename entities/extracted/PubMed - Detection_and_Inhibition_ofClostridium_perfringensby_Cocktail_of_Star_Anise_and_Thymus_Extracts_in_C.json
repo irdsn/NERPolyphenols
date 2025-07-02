@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Detection and Inhibition ofClostridium perfringensby Cocktail of Star Anise and Thymus Extracts in Chicken Meat Products.",
+  "abstract": "The presence ofC. perfringensin chicken meat products leads to significant economic losses for the industry and is associated with human food poisoning. It inspires creative answers for novel substances and techniques, such natural antibacterials, for improved prospects in the future. The objective of this study was to examine the antibacterial properties of thymus and star anise extracts for the suppression ofClostridium perfringensin products made from chicken meat.",
+  "publication_date": "2025-06-01",
+  "journal": "Pathogens (Basel, Switzerland)",
+  "doi": "10.3390/pathogens14060552",
+  "entities": {
+    "POLYPHENOL": [
+      "improved prospects",
+      "significant economic losses",
+      "techniques",
+      "the objective"
+    ]
+  }
+}

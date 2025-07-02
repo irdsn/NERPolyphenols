@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Anthocyanins and phenolic compounds in colored wheat grain.",
+  "abstract": "Wheat is an extremely important and preferred source of human nutrition in many regions of the world. The production of biofortified colored-grain wheat varieties, which are known to contain a range of biologically active compounds, including anthocyanins, phenolic compounds, vitamins and minerals, reflects a worldwide trend toward increasing dietary diversity and improving diet quality through the development and introduction of diverse functional foods. The present work describes the genetic systems that regulate the biosynthesis and accumulation of anthocyanins in the pericarp and aleurone layer, the presence of which imparts purple, blue and black grain color. The review is devoted to the systematization of available information on the peculiarities of qualitative and quantitative content of anthocyanins, soluble and insoluble phenolic acids in wheat grain of different color, as well as on indicators of antioxidant activity of alcoholic extracts of grain depending on the content of anthocyanins and phenolic compounds. A huge number of studies have confirmed that these compounds are antioxidants, have anti-inflammatory activity and their consumption makes an important contribution to the prevention of a number of socially significant human diseases. Consumption of colored cereal grain products may contribute to an additional enrichment of bioactive compounds in human diet along with the usual sources of antioxidants. Special attention in the review is paid to the description of achievements of Russia's breeders in developing promising varieties and lines with colored grain, which will be a key factor in expanding the opportunities of the domestic and international grain market.",
+  "publication_date": "",
+  "journal": "Vavilovskii zhurnal genetiki i selektsii",
+  "doi": "10.18699/vjgb-25-42",
+  "entities": {
+    "FOOD": [
+      "biofortified colored-grain wheat varieties",
+      "diverse functional foods",
+      "wheat",
+      "wheat grain"
+    ],
+    "POLYPHENOL": [
+      "phenolic compounds",
+      "special attention",
+      "the peculiarities"
+    ]
+  }
+}

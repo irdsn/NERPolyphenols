@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Exploring a Sustainable Process for Polyphenol Extraction from Olive Leaves.",
+  "abstract": "Olive leaves are residues from pruning and harvesting and are considered an environmental management problems. Interestingly, these residues contain high polyphenol concentrations, which can be used to treat chronic diseases. However, these compounds are a technological challenge due to their thermolability and reactivity during extraction. Thus, this study assessed the use of pressurized liquid extraction (PLE) with green solvents like water-ethanol and water-glycerol mixtures (0-15%) at 50 \u00b0C and 70 \u00b0C to yield polyphenol-rich antioxidant extracts with reduced glucose and fructose content. The use of 30% ethanol at 70\u00b0C presented the highest polyphenol content (15.29 mg gallic acid equivalent/g dry weight) and antioxidant capacity, which was expressed as IC50(half maximal inhibitory concentration): 5.49 mg/mL and oxygen radical absorbance capacity (ORAC): 1259 \u03bcmol Trolox equivalent/g dry weight, as well as lower sugar content (glucose: 3.75 mg/g dry weight, fructose: 5.68 mg/g dry weight) compared to water-glycerol mixtures. Interestingly, ethanol exhibits a higher degree of effectiveness in recovering flavanols, stilbenes and secoiridoids, while glycerol improves the extraction of phenolic acids and flavonols. Therefore, to enhance the efficiency of polyphenol recovery during the PLE process, it is necessary to consider its solvent composition and chemical structure.",
+  "publication_date": "2024-01-15",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13020265",
+  "entities": {
+    "POLYPHENOL": [
+      "a technological challenge",
+      "effectiveness",
+      "high polyphenol concentrations",
+      "polyphenol recovery",
+      "polyphenol-rich antioxidant extracts",
+      "secoiridoids",
+      "the highest polyphenol content"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Research Progress on Hypoglycemic Effects and Molecular Mechanisms of Flavonoids: A Review.",
+  "abstract": "As a prevalent metabolic disorder, the increasing incidence of diabetes imposes a significant burden on global healthcare. Flavonoids in natural phytochemical products exhibit notable hypoglycemic properties, making them potential alternatives for diabetes treatment. This article summarizes the hypoglycemic properties of flavonoid subcategories studied in recent years, including flavones, isoflavones, flavonols, flavanols, and others. The relevant targets and signal pathways, such as \u03b1-amylase, \u03b1-glucosidase, insulin receptor substrate (IRS)/phosphatidylinositol 3-kinase (PI3K)/protein kinase B (AKT), PKR-like endoplasmic reticulum kinase (PERK)/eukaryotic initiation factor 2\u03b1 (eIF2\u03b1)/activation transcription factor 4 (ATF4)/C/EBP homologous protein (CHOP), etc., are also elaborated. Additionally, flavonoids have also been demonstrated to modulate the gut microbiota and its metabolites. Through the aforementioned mechanisms, flavonoids mainly suppress carbohydrate metabolism and gluconeogenesis; facilitate glucose uptake, glycogenesis, and insulin secretion; and mitigate insulin resistance, oxidative stress, inflammation, etc. Notably, several studies have indicated that certain flavonoids displayed synergistic hypoglycemic effects. In conclusion, this article provides a comprehensive review of the hypoglycemic effects of the flavonoids investigated in recent years, aiming to offer theoretical insights for their further exploration.",
+  "publication_date": "2025-03-22",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14040378",
+  "entities": {
+    "POLYPHENOL": [
+      "certain flavonoids",
+      "flavonoid subcategories",
+      "flavonoids",
+      "recent years",
+      "synergistic hypoglycemic effects",
+      "the aforementioned mechanisms",
+      "the flavonoids",
+      "the hypoglycemic effects"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "insulin resistance",
+      "oxidative stress"
+    ]
+  }
+}

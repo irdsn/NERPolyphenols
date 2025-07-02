@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Effects of Daily Raspberry Consumption on Immune-Metabolic Health in Subjects at Risk of Metabolic Syndrome: A Randomized Controlled Trial.",
+  "abstract": "Consumption of red raspberries has been reported to exert acute beneficial effects on postprandial glycemia, insulinemia, triglyceridemia, and cytokine levels in metabolically disturbed subjects. In a two-arm parallel-group, randomized, controlled trial, 59 subjects with overweight or abdominal obesity and with slight hyperinsulinemia or hypertriglyceridemia were randomized to consume 280 g/day of frozen raspberries or to maintain their usual diet for 8 weeks. Primary analyses measured metabolic differences between the groups. Secondary analyses performed with omics tools in the intervention group assessed blood gene expression and plasma metabolomic changes following the raspberry supplementation. The intervention did not significantly affect plasma insulin, glucose, inflammatory marker concentrations, nor blood pressure. Following the supplementation, 43 genes were differentially expressed, and several functional pathways were enriched, a major portion of which were involved in the regulation of cytotoxicity, immune cell trafficking, protein signal transduction, and interleukin production. In addition, 10 serum metabolites were found significantly altered, among which \u03b2-alanine, trimethylamine N-oxide, and bioactive lipids. Although the supplementation had no meaningful metabolic effects, these results highlight the impact of a diet rich in raspberry on the immune function and phospholipid metabolism, thus providing novel insights into potential immune-metabolic pathways influenced by regular raspberry consumption.",
+  "publication_date": "2020-12-17",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu12123858",
+  "entities": {
+    "FOOD": [
+      "frozen raspberries",
+      "raspberry",
+      "red raspberries",
+      "regular raspberry consumption",
+      "the raspberry supplementation"
+    ],
+    "POLYPHENOL": [
+      "59 subjects",
+      "acute beneficial effects",
+      "metabolically disturbed subjects",
+      "no meaningful metabolic effects",
+      "secondary analyses"
+    ],
+    "SYMPTOM": [
+      "overweight or abdominal obesity"
+    ]
+  }
+}

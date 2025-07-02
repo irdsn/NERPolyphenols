@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Does Selection for Longevity inAcheta domesticusInvolve Sirtuin Activity Modulation and Differential Response to Activators (Resveratrol and Nanodiamonds)?",
+  "abstract": "Sirtuins, often called \"longevity enzymes\", are pivotal in genome protection and DNA repair processes, offering insights into aging and longevity. This study delves into the potential impact of resveratrol (RV) and nanodiamonds (NDs) on sirtuin activity, focusing on two strains of house crickets (Acheta domesticus): the wild-type and long-lived strains. The general sirtuin activity was measured using colorimetric assays, while fluorescence assays assessed SIRT1 activity. Additionally, a DNA damage test and a Kaplan-Meier survival analysis were carried out. Experimental groups were fed diets containing either NDs or RV. Notably, the long-lived strain exhibited significantly higher sirtuin activity compared to the wild-type strain. Interestingly, this heightened sirtuin activity persisted even after exposure to RVs and NDs. These findings indicate that RV and NDs can potentially enhance sirtuin activity in house crickets, with a notable impact on the long-lived strain. This research sheds light on the intriguing potential of RV and NDs as sirtuin activators in house crickets. It might be a milestone for future investigations into sirtuin activity and its potential implications for longevity within the same species, laying the groundwork for broader applications in aging and lifespan extension research.",
+  "publication_date": "2024-01-22",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms25021329",
+  "entities": {
+    "POLYPHENOL": [
+      "genome protection and dna repair processes",
+      "resveratrol",
+      "the same species"
+    ],
+    "SYMPTOM": [
+      "a dna damage test",
+      "aging",
+      "aging and lifespan extension research"
+    ]
+  }
+}

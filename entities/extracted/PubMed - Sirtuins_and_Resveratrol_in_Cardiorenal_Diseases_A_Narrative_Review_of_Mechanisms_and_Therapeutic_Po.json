@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Sirtuins and Resveratrol in Cardiorenal Diseases: A Narrative Review of Mechanisms and Therapeutic Potential.",
+  "abstract": "Aging is a very complex process, and it has been linked with Sirtuins. Sirtuin enzymes are a family of deacetylases that are related to caloric restriction and aging by modulating energy metabolism, genomic stability, and stress resistance. Up to now, seven sirtuins have been recognized. This narrative review aimed to analyze the literature produced between January 2005 and March 2025 to evaluate the role of sirtuins in chronic kidney disease and, as heart and kidney diseases are strictly interrelated, to explore their role in heart diseases and cardio-renal cross-talk. A reciprocal relationship between CKD and aging seems to exist since CKD may contribute to premature biological aging of different organ systems. SIRTs are involved in the pathophysiology of renal diseases; their activation can delay the progression of several renal diseases. Notably, an increasing number of studies linked SIRTs with different CVDs. SIRTs affect the production of mitochondrial reactive oxygen species (ROS) by modulating mitochondrial function. The imbalance of SIRT levels may increase the vulnerability to CVDs. SIRTs are involved in the pathophysiological mechanisms of HFpEF (heart failure with preserved ejection fraction) through different signaling pathways. Fibrosis is the linkage mechanism between the heart and kidney in the development of cardio-renal diseases. Current studies on sirtuins, resveratrol, and cardiorenal disease highlight their potential therapeutic benefits in regulating blood pressure, kidney function, lipid profiles, and inflammation, making them a promising area of investigation for improving cardiovascular and renal health outcomes. However, significant gaps remain. The limited availability of highly selective and potent sirtuin modulators hampers their clinical translation, as most existing compounds exhibit poor bioavailability and suboptimal pharmacokinetic properties.",
+  "publication_date": "2025-03-30",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17071212",
+  "entities": {
+    "SYMPTOM": [
+      "(heart failure",
+      "aging",
+      "premature biological aging",
+      "stress resistance"
+    ],
+    "POLYPHENOL": [
+      "a reciprocal relationship",
+      "highly selective and potent sirtuin modulators",
+      "mitochondrial reactive oxygen species",
+      "preserved ejection fraction",
+      "the linkage mechanism",
+      "the pathophysiological mechanisms"
+    ]
+  }
+}

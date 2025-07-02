@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Exploring the antioxidant, antiglycation, and anti-inflammatory potential of Oroxylum indicum stem bark extracts.",
+  "abstract": "Degenerative diseases occur when humans suffer from oxidative stress, glycation and prolonged inflammation. This study explores the antioxidant, antiglycation, and anti-inflammatory effects of extracts of Oroxylum indicum, a plant used in traditional medicines in Asia. Several extracts from its stem bark were obtained using hexane, ethyl acetate, and ethanol as extraction solvents. The extracts were analyzed using high-performance liquid chromatography (HPLC). The HPLC chromatograms showed that the different O. indicum extracts contained three major flavonoid compounds, namely baicalein, chrysin, and oroxylin A, as well as a phenolic compound, p-coumaric acid. The total phenolic content (TPC) and total flavonoid content (TFC) of the extracts were also determined. The ethyl acetate fractionated extract (EAFE) possessed the highest TPC (172\u2009\u00b1\u20098\u2009mg/g extract) and TFC (147\u2009\u00b1\u20091\u2009mg/g extract), several times higher than those of crude ethanol extract, ethanol fractionated extract (EFE) and hexane fractionated extract (HFE), respectively. According to the highest levels of TPC and TFC, EAFE showed the highest antioxidant activity with Trolox equivalent antioxidant activity of 9.7\u2009\u00b1\u20090.1\u2009mM/mg and \u03b2-carotene bleaching inhibition of 79.5\u2009\u00b1\u20091.1%. The activities for the natural antioxidant quercetin were 3.1\u2009\u00b1\u20090.1\u2009mM/mg and 88.7\u2009\u00b1\u20090.1%, respectively. EAFE showed the highest antiglycation activity using a bovine serum albumin-methylglyoxal assay with 89.1\u2009\u00b1\u20090.7% inhibition. These findings indicate that TPC and TFC are the determining factors for the antioxidant and antiglycation activities of the extracts. An in silico analysis suggested that the anti-inflammatory activity of the extracts is due to the inhibition of toll-like receptor 4 (TLR4) activity by direct binding of the bioactive compounds to the TLR4 protein. Our findings provide scientific support for the use of O. indicum in traditional medicine and demonstrate that EAFE has potential in mitigating oxidative stress, glycation, and inflammation.",
+  "publication_date": "2025-06-12",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0325795",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress",
+      "prolonged inflammation"
+    ],
+    "POLYPHENOL": [
+      "a phenolic compound, p-coumaric acid",
+      "chrysin",
+      "direct binding",
+      "namely baicalein",
+      "the antioxidant, antiglycation, and anti-inflammatory effects",
+      "the natural antioxidant quercetin",
+      "three major flavonoid compounds",
+      "toll-like receptor 4 (tlr4) activity",
+      "total flavonoid content"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Exploring the effects of quercetin-added pancreatic diet on metabolic homeostasis in dogs via metabolomics.",
+  "abstract": "To investigate the role of quercetin-added pancreatic prescription food in regulating metabolic homeostasis in dogs.",
+  "publication_date": "2025-02-13",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0318159",
+  "entities": {
+    "POLYPHENOL": [
+      "quercetin-added pancreatic prescription food"
+    ]
+  }
+}

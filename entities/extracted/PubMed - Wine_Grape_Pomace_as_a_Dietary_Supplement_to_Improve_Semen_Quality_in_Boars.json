@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Wine Grape Pomace as a Dietary Supplement to Improve Semen Quality in Boars.",
+  "abstract": "Boar spermatozoa are highly susceptible to oxidative damage due to their high content of unsaturated fatty acids, which are prone to disruption by reactive oxygen species (ROS). Excessive ROS can induce lipid peroxidation, DNA fragmentation and impaired enzyme activity, ultimately reducing sperm quality and reproductive performance. Wine grape pomace (WGP), a by-product of the winemaking process, is rich in polyphenols, including flavonoids (anthocyanins and quercetin), stilbenes (resveratrol) and tannins, which possess strong antioxidant properties. This study aimed to evaluate the effects of dietary supplementation with 4% WGP on boar ejaculate output and sperm quality during storage. Twenty boars were divided into two groups: a control group fed a standard diet and a WGP group supplemented with 4% WGP for 4\u2009months. Semen samples were collected and analysed for ejaculate number of sperm per ml, total antioxidant capacity (in seminal plasma) and quality parameters (motility, kinematic parameters, mitochondrial activity, acrosome integrity, viability) after 1, 3 and 5\u2009days of refrigerated storage. Results showed that WGP supplementation increased the number of sperm per ml compared to the control group (p\u2009<\u20090.05), resulting in approximately two additional seminal doses per ejaculate, without negatively affecting other seminal parameters (p\u2009>\u20090.05) and refrigeration storage (p\u2009>\u20090.05). This improvement in sperm concentration could enhance the profitability of swine semen production by increasing the number of doses produced per boar annually. Given the low cost of WGP (10.03 \u20ac/boar/year), this strategy could offer a cost-effective approach to improving reproductive performance in boars. These findings support further research into optimising WGP inclusion levels and exploring its broader impacts on boar fertility and reproductive efficiency.",
+  "publication_date": "2025-05-01",
+  "journal": "Reproduction in domestic animals = Zuchthygiene",
+  "doi": "10.1111/rda.70049",
+  "entities": {
+    "SYMPTOM": [
+      "oxidative damage"
+    ],
+    "POLYPHENOL": [
+      "a cost-effective approach",
+      "flavonoids",
+      "polyphenols",
+      "quercetin",
+      "reactive oxygen species",
+      "resveratrol",
+      "tannins",
+      "the effects"
+    ],
+    "FOOD": [
+      "swine semen production",
+      "the winemaking process",
+      "wine grape pomace"
+    ]
+  }
+}

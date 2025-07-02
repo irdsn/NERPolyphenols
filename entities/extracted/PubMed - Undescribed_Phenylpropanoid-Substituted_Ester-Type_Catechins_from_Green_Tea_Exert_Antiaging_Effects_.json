@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Undescribed Phenylpropanoid-Substituted Ester-Type Catechins from Green Tea Exert Antiaging Effects inCaenorhabditis elegansvia Activating DAF-16, HSF-1, and Heat Shock Proteins.",
+  "abstract": "Green tea processing creates a hot acidic environment that facilitates reactions between catechins and hydroxycinnamic acids (HCAs), generating new catechins. Accordingly, we developed a one-pot method incorporating a Michael addition reaction to synthesize 13 phenylpropanoid-substituted ester-type catechins (PSECs), whose contents exhibit seasonal changes in tea leaves similar to those observed for common catechins. These PSECs showed antiaging effects inCaenorhabditis elegans(C. elegans), among whichPSEC13extended the longest lifespan by 57%, formed through the reaction between sinapic acid and EGCG with anSconfiguration. Moreover,PSEC13activated the HSF-1/DAF-16 axis, upregulating heat shock proteins (HSPs). Surface plasmon resonance (SPR) analysis confirmed high-affinity binding betweenPSEC13and HSP-16.2 (KD= 0.11 \u03bcM). Molecular dynamics simulations revealed thatPSEC13forms stable hydrogen bonds with key residues (GLU39, SER41, ASN55) in the HSP-16.2 active site. This study emphasizes the potential ofPSEC13as a novel approach to enhance proteostasis and extend lifespan through the modulation of HSP-16.2.",
+  "publication_date": "2025-06-11",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c02825",
+  "entities": {
+    "FOOD": [
+      "ansconfiguration",
+      "green tea processing"
+    ],
+    "POLYPHENOL": [
+      "13 phenylpropanoid-substituted ester-type catechins",
+      "antiaging effects",
+      "catechins",
+      "common catechins",
+      "egcg",
+      "hydroxycinnamic acids",
+      "molecular dynamics simulations",
+      "new catechins",
+      "psecs",
+      "sinapic acid",
+      "the potential ofpsec13as",
+      "these psecs"
+    ]
+  }
+}

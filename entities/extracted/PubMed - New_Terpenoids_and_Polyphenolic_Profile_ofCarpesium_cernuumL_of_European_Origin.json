@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "New Terpenoids and Polyphenolic Profile ofCarpesium cernuumL. of European Origin.",
+  "abstract": "Carpesium cernuumL., the most widespread representative of the genusCarpesium, has been traditionally used in some regions of Asia as a remedy for various ailments or as a vegetable. Although the plant is distributed in Europe, there is no data on its medicinal use in this part of the world. The chemical composition of EuropeanCarpesium cernuumL. has remained unknown until now, except for the compositions of essential oils distilled from the roots and aerial parts of the plant. Polyphenolic profiles of hydroalcoholic extracts fromC. cernuumwere studied using the HPLC-MSntechnique. The analysis revealed the presence of 24 hydroxycinnamates, which were dominated by caffeoylquinic and caffeoylhexaric acids. Moreover, fractionation of the chloroform extracts from the plant led to the isolation of three new compounds, 8\u03b1-angeloyloxy-4\u03b2-hydroxy-5\u03b2-(3-methylbutyryloxy)-9-oxo-germacran-6\u03b1,12-olide, 9\u03b2-angeloyloxy-4\u03b2,8\u03b1-dihydroxy-5\u03b2-(3-methylbutyryloxy)-3-oxo-germacran-6\u03b1,12-olide, and a dihydrobenzofuran derivative, together with twelve known compounds. 8-Hydroxy-9,10-diisobutyryloxythymol, a monoterpenoid thymol derivative from the roots of the plant, was evaluated for potential neuroprotective and cytotoxic activities using differentiated and undifferentiated SH-SY5Y neuroblastoma cells. At a concentration range of 1-10 \u03bcM, the compound provided partial (up to 50%) protection against H2O2-induced cell damage in the undifferentiated cells. At concentrations higher than 25 \u03bcM, the monoterpenoid significantly reduced the viability of the cells (IC50: 65.7 \u03bcM for the undifferentiated cells and 40.9 \u03bcM for the differentiated cells).",
+  "publication_date": "2025-06-07",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122506",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenolic profiles",
+      "potential neuroprotective and cytotoxic activities",
+      "the hplc-msntechnique"
+    ],
+    "SYMPTOM": [
+      "h2o2-induced cell damage"
+    ]
+  }
+}

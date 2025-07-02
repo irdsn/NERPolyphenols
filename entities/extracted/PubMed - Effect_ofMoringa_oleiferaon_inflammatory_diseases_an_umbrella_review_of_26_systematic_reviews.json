@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Effect ofMoringa oleiferaon inflammatory diseases: an umbrella review of 26 systematic reviews.",
+  "abstract": "To summarize and critically assess the quality of evidence from Systematic reviews (SRs) and meta-analyses (MAs) that have evaluated the effectiveness ofMoringa oleifera(MO) in treating inflammatory diseases and understand the main pathways activated during this exposure.",
+  "publication_date": "2025-05-19",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1572337",
+  "entities": {
+    "POLYPHENOL": [
+      "the effectiveness ofmoringa oleifera(mo"
+    ]
+  }
+}

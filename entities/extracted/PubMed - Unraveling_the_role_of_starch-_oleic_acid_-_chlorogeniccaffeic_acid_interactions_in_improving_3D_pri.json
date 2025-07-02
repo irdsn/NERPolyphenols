@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Unraveling the role of starch- oleic acid - chlorogenic/caffeic acid interactions in improving 3D printing properties of rice flour: A structural correlation study.",
+  "abstract": "Personalized additive manufacturing of starch-based foodstuffs is currently at the forefront of research in the food field. This work mainly studied the effects of oleic acid (OA) and polyphenols with different spatial structures (chlorogenic and caffeic acid, CA and CF) on the 3D printing properties of rice flour (RF), and the results showed their synergistic addition significantly improved the printability. From perspectives of rheological properties and structural correlation analysis of rice starch (RS), the structural ordered degree of RS including relative V-type crystallinity, enthalpy value (\u0394H), and aggregate structure had a positive correlation with the RF printability. Notably, when compared to CF, CA could hinder the entanglement and proximity between starch and starch-OA single helix due to its large spatial site resistance and hydrogen bonding, thus further improving the viscosity of the system and the regularity of the gel network. This research provided new ideas for 3D-printed starchy foods.",
+  "publication_date": "2025-04-01",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144170",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic and caffeic acid",
+      "perspectives",
+      "polyphenols",
+      "the effects"
+    ]
+  }
+}

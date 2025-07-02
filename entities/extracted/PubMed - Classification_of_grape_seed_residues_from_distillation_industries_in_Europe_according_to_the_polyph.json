@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Classification of grape seed residues from distillation industries in Europe according to the polyphenol composition highlights the influence of variety, geographical origin and color.",
+  "abstract": "Grape seed residues represent the raw material to produce several value-added products including polyphenol-rich extracts with nutritional and health attributes. Although the impact of variety and environmental conditions on the polyphenol composition in fresh berries is recognized, no data are available regarding grape seed residues. The chemical composition of grape seed residues from wine distilleries in France, Spain and Italy was characterized by mass spectrometry. Forty-two metabolites were identified belonging to non-galloylated and galloylated procyanidins as well as amino acids. Polyphenol concentrations in the red varieties originated from Champagne or Veneto were twice higher than in white varieties from the Loire Valley. The chemical profiles of grape seed residues were mainly classified according to the color variety with galloylated procyanidins as biomarkers of white varieties and non-galloylated procyanidins as biomarkers of red ones. The present approach might assist the selection of grape seed residues as quality raw materials for the production of polyphenol-rich extracts.",
+  "publication_date": "2024-04-07",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2024.101362",
+  "entities": {
+    "FOOD": [
+      "grape seed residues",
+      "wine distilleries"
+    ],
+    "POLYPHENOL": [
+      "galloylated procyanidins",
+      "mass spectrometry",
+      "non-galloylated and galloylated procyanidins",
+      "non-galloylated procyanidins",
+      "polyphenol concentrations",
+      "polyphenol-rich extracts",
+      "the polyphenol composition",
+      "the selection"
+    ],
+    "SYMPTOM": [
+      "spain"
+    ]
+  }
+}

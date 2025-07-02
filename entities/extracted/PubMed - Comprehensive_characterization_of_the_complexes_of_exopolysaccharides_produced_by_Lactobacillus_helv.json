@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Comprehensive characterization of the complexes of exopolysaccharides produced by Lactobacillus helveticus MB2-1 with polyphenols.",
+  "abstract": "Polyphenols have attracted widespread attention owing to their excellent biological activities. However, their low solubility and poor stability limit their bio-accessibility. Numerous studies have demonstrated that the complexation of polysaccharides with polyphenols represents an efficacious strategy to overcome these limitations. Nonetheless, there remains little research exploring the binding effects and underlying mechanisms between exopolysaccharides from lactic acid bacteria and polyphenols. This study aimed to comprehensively explore the structural and functional properties of different complexes prepared using Lactobacillus helveticus MB2-1 exopolysaccharides (LHP) with six kinds of polyphenols.",
+  "publication_date": "2025-04-07",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.14272",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols",
+      "the binding effects",
+      "underlying mechanisms"
+    ]
+  }
+}

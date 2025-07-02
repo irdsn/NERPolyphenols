@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Research on Quality Evaluation of the Seeds ofCichorium glandulosum Boiss. et Huet.",
+  "abstract": "The seeds ofCichorium glandulosum Boiss. et Huet.(CS) are known for various effects. However, the research on the establishment of quality evaluation standards for CS is currently limited. Therefore, this study employed Ultra Performance Liquid Chromatography-Tandem Mass Spectrometry (UPLC-MS/MS) to analyze the components of CS. Forty-nine compounds were identified through manual analysis and database comparison. The components were then verified using HPLC and standards. Additionally, 19 batches were collected to establish the fingerprint chromatogram. Five major chemical components were selected for subsequent analysis. MIR, combined with three variable selection algorithms and three preprocessing methods, was used to build prediction models. For the three indexes of Chlorogenic Acid, 1,4-Dicaffeoylquinic Acid, and 1,5-Dicaffeoylquinic Acid, the R2values for both the training set and test set were above 0.9, the RPD values were all greater than 2.5, and the RER values were greater than 10. This indicated that the combination of mid-infrared spectroscopy and chemometrics had excellent model applicability and prediction performance for these three indexes. A quality evaluation system has been initially established, laying a foundation for research on quality evaluation of CS.",
+  "publication_date": "2025-04-21",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14081434",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "mid-infrared spectroscopy",
+      "three variable selection algorithms",
+      "ultra performance liquid chromatography-tandem mass spectrometry",
+      "various effects"
+    ]
+  }
+}

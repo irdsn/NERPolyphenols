@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Pterostilbene Exhibited the Anticancer Effect Against 1, 2-Dimethylhydrazine (DMH)-Induced Colorectal Cancer via Alteration of Oxidative Stress, Inflammation and Gut Microbiota.",
+  "abstract": "Colorectal cancer (CRC) is the third leading cause of cancer-related deaths worldwide. The current investigation aimed to assess the chemoprotective effects of pterostilbene against 1,2-dimethylhydrazine (DMH)-induced colorectal cancer in mice. An in-silico study was conducted to perform docking studies against nuclear factor kappa factor (NF-\u03baB). CRC was induced in mice by administering DMH (20\u2009mg/kg) subcutaneously, and the mice were subsequently administered various dosages of pterostilbene (5, 10, and 15\u2009mg/kg). At the end of the study, various biochemical parameters, including inflammatory cytokines, inflammatory markers, and antioxidant enzymes, were examined. Additionally, the mice's stools were collected for the analysis of intestinal microbiota. A total of 5 hydrogen bonds were identified between NF-\u03baB and pterostilbene using LigPlot+. Pterostilbene significantly (p\u2009<\u20090.001) reduced tumor incidence, tumor weight, and increased body weight. Pterostilbene significantly (p\u2009<\u20090.001) altered the levels of lipid peroxidation, reduced glutathione, superoxide dismutase, glutathione peroxidase, and catalase as well as the activity of both phase I and phase II enzymes. Furthermore, pterostilbene significantly (p\u2009<\u20090.001) decreased the levels of proinflammatory cytokines such as tumor necrosis factor-\u03b1, interleukin-6, interferon-\u03b3, and interleukin-1\u03b2, while increasing the levels of anti-inflammatory cytokines like interleukin-4 and interleukin-10. Pterostilbene considerably suppressed the levels of cyclooxygenase-2 and prostaglandin E2, as well as inducible nitric oxide synthase and simultaneously elevated the levels of apoptosis-related parameters, including caspase-3, caspase-8, and caspase-9. Moreover, pterostilbene significantly reduced the abundance of Staphylococcus in the intestinal microbiota and enhanced the levels of beneficial bacteria, such as Bifidobacterium, Akkermansia, and Lactobacillus. Pterostilbene demonstrated a chemoprotective effect against CRC by effectively reducing oxidative stress, mitigating inflammatory responses, and inducing alterations in gut microbiota levels.",
+  "publication_date": "2025-03-01",
+  "journal": "Journal of biochemical and molecular toxicology",
+  "doi": "10.1002/jbt.70123",
+  "entities": {
+    "POLYPHENOL": [
+      "1,2-dimethylhydrazine (dmh)-induced colorectal cancer",
+      "a chemoprotective effect",
+      "colorectal cancer",
+      "pterostilbene",
+      "the chemoprotective effects",
+      "tumor necrosis factor"
+    ],
+    "SYMPTOM": [
+      "apoptosis-related parameters",
+      "cancer-related deaths",
+      "oxidative stress"
+    ],
+    "FOOD": [
+      "various dosages"
+    ]
+  }
+}

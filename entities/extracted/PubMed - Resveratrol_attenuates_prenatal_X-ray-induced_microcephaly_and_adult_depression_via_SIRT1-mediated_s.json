@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Resveratrol attenuates prenatal X-ray-induced microcephaly and adult depression via SIRT1-mediated senescence suppression and TPH2/5-HT pathway restoration in mice.",
+  "abstract": "With increasing use of medical imaging (e.g., CT scans) and environmental radiation sources, over 2 % of pregnancies worldwide are inadvertently exposed to low-dose ionizing radiation (IR), raising urgent concerns about fetal neuroprotection. While prenatal IR is implicated in microcephaly and lifelong neuropsychiatric risks, prior studies have not resolved whether sirtuin-mediated pathways, particularly SIRT1/TPH2 signaling, drive these deficits or whether dietary phytochemicals like resveratrol can mitigate them.",
+  "publication_date": "2025-05-21",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156845",
+  "entities": {
+    "SYMPTOM": [
+      "medical imaging"
+    ],
+    "POLYPHENOL": [
+      "fetal neuroprotection",
+      "resveratrol"
+    ]
+  }
+}

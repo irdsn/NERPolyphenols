@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Abiotic stress responses in forage crops and grasses: the role of secondary metabolites and biotechnological interventions.",
+  "abstract": "Forage crops and grasses play crucial roles in global agriculture, serving as primary sources of livestock feed. However, various abiotic stresses, such as drought, salinity, extreme temperatures, and heavy metals, frequently challenge their productivity, quality, and resilience. In response to these stressors, plants activate defense mechanisms, including the production of secondary metabolites (SMs). This review exclusively examines the diverse impacts of abiotic stresses on forage crops and grasses' physiological processes, growth, development, yield, and quality. We delve into the synthesis, types, and role of SMs in mediating stress responses, conferring adaptation and resilience to adverse environmental conditions in forage crops and grasses. Furthermore, we examine the regulatory mechanisms governing SM production in response to abiotic stress. This is crucial for developing strategies to enhance stress tolerance and improve forage productivity and quality. Finally, the review discusses emerging biotechnological interventions for improving forage crop performance under abiotic stress. Different omics technologies, gene editing, and pathway engineering offer promising avenues that enable the precise manipulation of key regulatory genes and metabolic pathways, with enhanced SM biosynthesis to engineer resilient crops tailored to specific environmental challenges. This review obtains a strong correlation of SMs with improving fodder and forage crop tolerance to varying degrees of stresses by regulating antioxidant activity, osmotic homeostasis, and membrane stability, ultimately enhancing plant viability, productivity, and quality under diverse stress conditions. Further, unraveling the intricate interplay between abiotic stresses, SMs, and biotechnological interventions is pivotal for advancing forage crop resilience and ensuring global food security amid changing environmental conditions.",
+  "publication_date": "2025-06-03",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2025.1542519",
+  "entities": {
+    "SYMPTOM": [
+      "abiotic stress",
+      "abiotic stresses",
+      "diverse stress conditions",
+      "stress responses",
+      "stress tolerance",
+      "stresses",
+      "these stressors",
+      "various abiotic stresses"
+    ],
+    "POLYPHENOL": [
+      "biotechnological interventions",
+      "defense mechanisms",
+      "different omics technologies",
+      "emerging biotechnological interventions",
+      "global food security",
+      "secondary metabolites",
+      "specific environmental challenges",
+      "the precise manipulation",
+      "the regulatory mechanisms"
+    ]
+  }
+}

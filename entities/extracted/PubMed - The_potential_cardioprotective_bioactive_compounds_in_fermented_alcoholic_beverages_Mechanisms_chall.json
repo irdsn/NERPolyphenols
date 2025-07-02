@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "The potential cardioprotective bioactive compounds in fermented alcoholic beverages: Mechanisms, challenges, and opportunities in beer and wine.",
+  "abstract": "Excessive alcohol consumption is detrimental to human health, and it is implicated in the development of heart disease, stroke, and cancer. However, the last few decades have given rise to epidemiological evidence suggesting that low-to-moderate consumption of red wine and beer may reduce the risk of cardiovascular diseases. Studies have shown that moderate consumption of wine and beer protects against ischemic stroke, increases HDL plasma concentrations, and reduces platelet aggregation and insulin resistance. This cardioprotective effect has previously been attributed to phytochemicals in these beverages. This narrative review explores these potential cardioprotective phytochemicals and the underlying mechanisms responsible. Data from trials investigating the effect of alcoholic beverage consumption and in vitro analyses of the bioactive phytochemical compounds are reviewed. The potential of dealcoholized beverages is also explored. The literature shows that the cardioprotective effects observed with moderate alcohol consumption are mainly owing to the presence of anti-inflammatory polyphenolic and bioactive substances including lipophilic molecules present in low but biologically significant quantities. These phytochemicals are obtained from the raw materials and generated during the brewing processes. Studies indicate that dealcoholized variants of beer and wine also possess beneficial health effects, indicating that these effects are not alcohol dependent. There is also growing interest in dealcoholized beverages that are fortified or enhanced with cardioprotective properties. The development of such beverages is an important avenue of future research so that there are options for consumers who wish to enjoy wine and beer safely.",
+  "publication_date": "2024-10-10",
+  "journal": "Nutrition research (New York, N.Y.)",
+  "doi": "10.1016/j.nutres.2024.10.002",
+  "entities": {
+    "SYMPTOM": [
+      "cancer",
+      "insulin resistance"
+    ],
+    "POLYPHENOL": [
+      "anti-inflammatory polyphenolic and bioactive substances",
+      "beneficial health effects",
+      "cardioprotective properties",
+      "lipophilic molecules",
+      "the cardioprotective effects",
+      "the effect",
+      "the last few decades",
+      "the underlying mechanisms",
+      "these effects",
+      "these potential cardioprotective phytochemicals",
+      "this cardioprotective effect",
+      "wine and beer protects"
+    ],
+    "FOOD": [
+      "red wine",
+      "wine"
+    ]
+  }
+}

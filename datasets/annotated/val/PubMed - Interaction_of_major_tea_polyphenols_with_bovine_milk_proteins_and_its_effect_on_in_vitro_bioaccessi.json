@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Interaction of major tea polyphenols with bovine milk proteins and its effect on in vitro bioaccessibility of tea polyphenols.",
+  "abstract": "Adding bovine milk into tea and tea-containing beverages has been popular nowadays, while this dietary system may affect the digestion and absorption of tea polyphenols. In this work, the interactions of tea polyphenols with bovine milk proteins and their impacts on the bioaccessibility of tea polyphenols were investigated. The results indicate that tea polyphenols interact with amino acid residues of bovine milk proteins through hydrogen bonds and van der Waals forces spontaneously. Tea polyphenols cause static fluorescence quenching of bovine milk proteins, with different interaction types through one binding site. The interaction between tea polyphenols and bovine milk proteins forms a complex, which reduces the contents of \u03b1-helix, \u03b2-turn, and random coil in the secondary structure of bovine milk proteins while increasing the \u03b2-sheet content. Tea polyphenol-bovine milk protein interaction can enhance the bioaccessibility of tea polyphenols, with esterified tea polyphenols epicatechin gallate and epigallocatechin gallate showing better improvement effects.",
+  "publication_date": "2025-02-10",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.143341",
+  "entities": {
+    "POLYPHENOL": [
+      "better improvement effects",
+      "esterified tea polyphenols",
+      "tea polyphenol-bovine milk protein interaction",
+      "tea polyphenols",
+      "the secondary structure"
+    ]
+  }
+}

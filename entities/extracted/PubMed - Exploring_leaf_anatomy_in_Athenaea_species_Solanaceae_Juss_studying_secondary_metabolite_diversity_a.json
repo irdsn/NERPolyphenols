@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Exploring leaf anatomy in Athenaea species (Solanaceae Juss.): studying secondary metabolite diversity and potential taxonomic characters.",
+  "abstract": "The genus Athenaea (Solanaceae) has been the target of recent pharmacological and taxonomic investigations, which point out promising species in metabolomic and biotechnological approaches. However, little is known about the chemical diversity of Athenaea species. Recent research has shown that some species could be good sources of steroidal lactones (withanolides) that can be used for different biological targets. These metabolites have anticholinestaric and antitumor activities, for example. Thus, we investigated the development, structure, and chemical nature of Athenaea leaves with the aim of identifying promising characters to corroborate the current systematics of the genus and, above all, the structures involved in the synthesis and accumulation of classes of chemical compounds. Secretory trichomes and idioblasts are the structures specialized in the accumulation of alkaloids, steroids, phenolics, and lipids in the leaves of Athenaea, and the morphotypes of the trichomes can help in distinguishing species. The differentiation and activity are precocious in such trichomes, being evident in the early stages of development. The secretory head of the trichome displays atypical development, with the presence of intercellular space, where secretion accumulates. Our results point out the site where biological activity compounds are stored in representative taxa of Athenaea, which may conduct biotechnological investigations in this genus.",
+  "publication_date": "2025-06-24",
+  "journal": "Protoplasma",
+  "doi": "10.1007/s00709-025-02084-8",
+  "entities": {
+    "POLYPHENOL": [
+      "athenaea species",
+      "biotechnological investigations",
+      "metabolomic and biotechnological approaches",
+      "promising species",
+      "recent pharmacological and taxonomic investigations",
+      "recent research",
+      "secretion",
+      "secretory trichomes",
+      "some species",
+      "species",
+      "the secretory head"
+    ]
+  }
+}

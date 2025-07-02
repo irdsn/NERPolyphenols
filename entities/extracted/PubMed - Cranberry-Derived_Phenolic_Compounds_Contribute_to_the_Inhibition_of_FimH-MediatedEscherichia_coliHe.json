@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Cranberry-Derived Phenolic Compounds Contribute to the Inhibition of FimH-MediatedEscherichia coliHemagglutination.",
+  "abstract": "Background/Objectives:FimH adhesin, located at the tips of type 1 pili inEscherichia coli(E. coli), plays a crucial role in bacterial adhesion to the surface urothelial cells-a key step in the pathogenesis of urinary tract infections (UTIs). Given the rising concern over antimicrobial resistance (AMR), and considering thatE. coliis one of the pathogens with the largest AMR burdens on a global scale, alternative strategies targeting bacterial adhesion are gaining increasing attention. Products that contain D-mannose and cranberry-derived phenolic compounds have shown promise in preventingE. colicolonization and infection. The aim of this study was to investigate the antiadhesive effects of cranberry-related phenolic compounds on FimH-mediatedE. coliadhesion using a cellular hemagglutination inhibition assay, as well as to assess the synergistic effects of mannose and phenolic compounds on biofilm formation.Methods:A range of phenolic acids (benzoic, chlorogenic, hippuric,p-coumaric, ferulic and caffeic), resveratrol, (+)-catechin and procyanidin A, as well as aVaccinium macrocarponextract, were evaluated for their ability to inhibit FimH-mediated adhesion. A binocular microscope was used to observe agglutination, and we also evaluated the biofilm inhibition potential of the phenolic compounds in the presence of D-mannose.Results:Our results demonstrated that these compounds significantly reduced hemagglutination, with benzoic acid, chlorogenic acid, caffeic acid and resveratrol exhibiting strong inhibitory effects at concentrations as low as 0.25 mM. Furthermore, the addition of 1 mM solutions of these phenolic compounds to D-mannose resulted in a twofold reduction in the inhibition titer, suggesting synergistic interactions. In addition to their antiadhesive properties, the tested phenolic compounds contributed slightly to the inhibition of FimH-mediated biofilm formation, further supporting their potential roles in UTI prevention.Conclusions:These findings highlight the potential of cranberry-derived phenolics as natural antiadhesive agents againstE. coliand warrant further investigation into their mechanisms of action and possible applications in infection control.",
+  "publication_date": "2025-04-21",
+  "journal": "Antibiotics (Basel, Switzerland)",
+  "doi": "10.3390/antibiotics14040418",
+  "entities": {
+    "POLYPHENOL": [
+      ")-catechin",
+      "background/objectives",
+      "chlorogenic acid",
+      "cranberry-related phenolic compounds",
+      "d-mannose and cranberry-derived phenolic compounds",
+      "infection",
+      "infection control",
+      "mannose and phenolic compounds",
+      "resveratrol",
+      "strong inhibitory effects",
+      "the antiadhesive effects",
+      "the phenolic compounds",
+      "the synergistic effects",
+      "the tested phenolic compounds",
+      "their mechanisms",
+      "these phenolic compounds",
+      "urinary tract infections"
+    ]
+  }
+}

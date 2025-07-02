@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Fortified vegetarian milk for prevention of metabolic syndrome in rats: impact on hepatic and vascular complications.",
+  "abstract": "Metabolic syndrome (MetS) is characterized as a gathering of various metabolic disorders, for example, hyperglycemia, dyslipidemia, and obesity. The present research was conducted to prepare fortified almond milk as functional beverages and evaluate their protective effect against MetS and associated hepatic and vascular complications. Three beverages (I, II, and III) were prepared by fortification almond milk with carrot juice or powder of quinoa seeds and carrot juice or oat powder and banana juice. The sensory attributes, physicochemical properties, bioactive compounds (total phenolic, beta-carotene, tocopherols) and B-complex vitamins were determined in the beverages. In-vitro antioxidant activity of the beverages was assessed. MetS was induced in rats via feeding on high-fat high-fructose diet (HFHF). The biochemical (lipid profile, oxidative stress, liver, and kidney functions), nutritional and histopathological parameters were assessed in rats. The beverage I recorded the highest sensory attributes' scores. The physicochemical properties of the beverages revealed that acidity and viscosity of all beverages ranged from 4.55 to 4.88 and from 40 to 59, respectively. The beverage I showed the highest content of alpha-tocopherol (14.994 \u03bcg/g) and beta-carotene (104.541 \u03bcg/g), while the beverage II showed the highest content of gamma-tocopherol (0.557 \u03bcg/g), folic acid (0.806 \u03bcg/g), and total phenols (147.43 \u03bcg GAE/g). The results of animals revealed that the beverage II was the most promising in attenuation levels of total cholesterol, triglycerides, low-density lipoprotein cholesterol, malondialdehyde, and tumor necrosis factor-alpha. Also, the beverage II was the superior in the protection of the liver and heart tissues as reflected by the histopathological examination findings. So, it can be concluded that the newly prepared almond milk with quinoa seeds and carrot juice could be used as an effective functional beverage for the prevention of MetS and its complications.",
+  "publication_date": "2020-08-05",
+  "journal": "Heliyon",
+  "doi": "10.1016/j.heliyon.2020.e04593",
+  "entities": {
+    "SYMPTOM": [
+      "hyperglycemia",
+      "metabolic syndrome",
+      "obesity",
+      "oxidative stress"
+    ],
+    "FOOD": [
+      "almond milk",
+      "banana juice",
+      "carrot juice",
+      "fortified almond milk",
+      "quinoa seeds",
+      "the newly prepared almond milk"
+    ],
+    "POLYPHENOL": [
+      "an effective functional beverage",
+      "the protection",
+      "their protective effect",
+      "tumor necrosis factor-alpha"
+    ]
+  }
+}

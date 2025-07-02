@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "A narrative review on dietary components and patterns and age-related macular degeneration.",
+  "abstract": "Age-related macular degeneration (AMD) is one of the most prevalent eye diseases among the ageing population worldwide. It is a leading cause of blindness in individuals over 55, particularly in industrialised Western countries. The prevalence of AMD increases with age, and genetic factors and environmental influences are believed to contribute to its development. Among the environmental factors, diet plays a significant role in AMD. This review explores the association between dietary components, dietary patterns and AMD. Various nutrients, non-nutrient substances and dietary models that have the potential to counteract oxidative stress and inflammation, which are underlying mechanisms of AMD, are discussed. Consuming fruits, vegetables, fish and seafood, whole grains, olive oil, nuts and low-glycaemic-index foods has been highlighted as beneficial for reducing the risk of AMD. Adhering to the Mediterranean diet, which encompasses these elements, can be recommended as a dietary pattern for AMD. Furthermore, the modulation of the gut microbiota through dietary interventions and probiotics has shown promise in managing AMD.",
+  "publication_date": "2024-01-15",
+  "journal": "Nutrition research reviews",
+  "doi": "10.1017/S0954422424000015",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "underlying mechanisms"
+    ],
+    "FOOD": [
+      "olive oil",
+      "whole grains"
+    ]
+  }
+}

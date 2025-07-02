@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "New Insights and Strategies in the Nutritional Reformulation of Meat Products Toward Healthier Foods.",
+  "abstract": "Meat plays a key role in human nutrition, providing protein of high digestibility and essential micronutrients. However, according to the FAO and WHO, excessive consumption of red and processed meats may increase health risks due to their content of saturated fats, sodium, and E-number additives. For this reason, recent research has focused on the nutritional reformulation of meat products to develop functional and health-promoting alternatives that meet consumer expectations and respond to market trends for healthier and more sustainable foods. However, the addition or elimination of traditional ingredients in meat products leads to problems such as changes in texture, color, or sensory acceptability that must be solved. This review will focus on current reformulation strategies in the meat industry, including the reduction or replacement of animal fat with vegetable oils using technologies such as microencapsulation, or the elaboration of 3D gels using organogelants and hydrocolloids; the replacement of the umami flavor of salt with extracts from seafoods and mushrooms; the replacement of E-number additives with antioxidant and preservative extracts from plants and herbs; and the incorporation of dietary fiber through fruit peels and vegetable by-products.",
+  "publication_date": "2025-06-12",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122565",
+  "entities": {
+    "POLYPHENOL": [
+      "consumer expectations",
+      "recent research",
+      "technologies"
+    ]
+  }
+}

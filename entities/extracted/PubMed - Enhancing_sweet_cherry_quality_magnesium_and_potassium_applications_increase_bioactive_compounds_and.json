@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "Enhancing sweet cherry quality: magnesium and potassium applications increase bioactive compounds and antioxidant activity.",
+  "abstract": "Sweet cherry is highly valued around the world for its sensory qualities. Bioactive properties play significant roles in sweet cherry quality and consumer acceptance due to its health benefits. Plant nutrition through balanced fertilizer application helps in abiotic stresses mitigation, enhancing the biosynthesis of bioactive substances. For three consecutive years, magnesium (Mg) and potassium (K) were applied as foliar sprays to sweet cherry trees of the Burlat cultivar, with the aim to improve phytochemical composition. Fruits from each treatment were harvested at the commercial ripening stage to evaluate cherry bioactive composition and antioxidant activity.",
+  "publication_date": "2025-04-17",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.14294",
+  "entities": {
+    "FOOD": [
+      "cherry bioactive composition and antioxidant activity",
+      "sweet cherry",
+      "sweet cherry quality",
+      "sweet cherry trees"
+    ],
+    "SYMPTOM": [
+      "abiotic stresses"
+    ],
+    "POLYPHENOL": [
+      "three consecutive years"
+    ]
+  }
+}

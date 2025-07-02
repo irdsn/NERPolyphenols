@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Efficacy of pre-harvest weed control treatments on onion bulb storability.",
+  "abstract": "Storage experiments were carried out, in 2019 and 2020, to evaluate the effect of pre-harvest weed control treatments on quality attributes and storability of onion bulbs during a six-month storage at room temperature (25\u2009\u00b1\u20095\u00a0\u00b0C and 50-60% relative humidity) in corrugated paper boxes. Weed control treatments consisted of the aqueous extracts of orange peel processing waste (OPPW) 20%, mango leaves waste (MLW) 30%, and olive oil processing waste (OOPW) 30%, alone or mixed with half a dose of oxyfluorfen herbicide (938\u00a0ml ha-1), soil mulching with orange peel processing waste, mango leaves, olive oil processing waste, and rice straw (OPPWM, OOPWM, MLW, and RSM, respectively) at 10\u00a0tons ha-1, hoeing, oxyfluorfen herbicide (at 938 and 1875\u00a0ml ha-1), and an unweeded control treatment. OPPW mulch and hoeing treatments were the most effective treatments in improving storability, decreasing weight loss and decay percentages of onion bulbs as well as maintaining bulb quality attributes, i.e., bulb firmness, dry matter, total soluble solids and total soluble sugars content during a six-months storage. It was concluded that using OPPW and MLW, as soil mulches or as aqueous extracts, for weed control within onion field, helps maintain onion bulb quality, and storability.",
+  "publication_date": "2025-02-25",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-89970-6",
+  "entities": {
+    "POLYPHENOL": [
+      "decay percentages",
+      "the effect",
+      "the most effective treatments"
+    ],
+    "FOOD": [
+      "mango",
+      "olive oil processing waste",
+      "onion bulb quality",
+      "onion bulbs",
+      "onion field",
+      "orange peel processing waste"
+    ]
+  }
+}

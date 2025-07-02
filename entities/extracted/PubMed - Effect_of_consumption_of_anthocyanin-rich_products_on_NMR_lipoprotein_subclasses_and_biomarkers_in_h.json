@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Effect of consumption of anthocyanin-rich products on NMR lipoprotein subclasses and biomarkers in hypercholesterolemic subjects: a randomized controlled trial (the AppleCOR study).",
+  "abstract": "Our aim was to assess the effect of intake of anthocyanin biofortified red-fleshed apples (RFA)versusthat of common white apples (WFA) without anthocyanins on the NMR lipoprotein subfraction profile and other NMR metabolites. Additionally, an aronia infusion (AI) arm, matching the anthocyanin content and profile of the RFA, was included. A 6-week, randomized, parallel study was conducted in hypercholesterolemic subjects (n= 121). Anthocyanin-rich products (RFA and AI) decreased LDLc; ApoB; total, large, and small LDL-P; LDL size; TG/HDL ratio; and large TRL,versusWFA. All treatments significantly decreased HDLc, ApoA1, and total HDL-P, with the most significant reductions after RFA treatment. RFA significantly decreased large HDL-P compared to WFA and AI, while medium HDL-P decreased significantly after AI compared to WFA. Anthocyanin-rich products decreased GlycA and alanine and increased acetoacetateversusWFA. WFA and RFA decreased plasma citrateversusAI. Thus, anthocyanin-rich products provided greater protection against CVD risk than WFA.",
+  "publication_date": "2025-03-17",
+  "journal": "Food & function",
+  "doi": "10.1039/d4fo02949f",
+  "entities": {
+    "POLYPHENOL": [
+      "greater protection",
+      "hypercholesterolemic subjects",
+      "the effect"
+    ],
+    "FOOD": [
+      "an aronia infusion",
+      "anthocyanin biofortified red-fleshed apples",
+      "common white apples"
+    ]
+  }
+}

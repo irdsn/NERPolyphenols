@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Denovo Production of Resveratrol by Engineered Rice Wine StrainSaccharomyces cerevisiaeHJ08 and Its Application in Rice Wine Brewing.",
+  "abstract": "Resveratrol is a plant-derived polyphenolic compound with numerous biological activities and health-promoting properties. Rice wine is a popular traditional alcoholic beverage made from fermented rice grains, and widely consumed in Asia. To develop resveratrol-enriched rice wine, a heterologous resveratrol biosynthesis pathway was established by integrating the 4-coumaroyl-CoA ligase (Pc4CL) and the stilbene synthase (VvSTS) fromPetroselinum crispumandVitis viniferaat the δ locus sites of industrial rice wine strainsSaccharomyces cerevisiaeHJ. The resultingS. cerevisiaeHJ01 produced a level of 0.6 ± 0.01 mg/L resveratrol. Next, the resveratrol production was increased 16.25-fold through employing the fused proteinPc4CL::VvSTSwith a rigidly linked peptide (TPTP, EAAAK). Then, the strains were further modified by removing feedback inhibition of tyrosine through point mutation ofARO4andARO7, which integrated at the rDNA region of strain HJ03, and generated strain HJ06, HJ07, and HJ08. Subsequently, the highest resveratrol titer (34.22 ± 3.62 mg/L) was obtained by optimizing fermentation time and precursor addition amount. Finally, resveratrol content of rice wine fermented with strain HJ08 was 2.04 ± 0.08 mg/L and 1.45 ± 0.06 mg/L with or without the addition of 400 mg/L tyrosine after 7 days fermentation.",
+  "publication_date": "2024-07-23",
+  "journal": "Journal of fungi (Basel, Switzerland)",
+  "doi": "10.3390/jof10080513"
+}

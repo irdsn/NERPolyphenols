@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Serum bisphenol A analogues in women diagnosed with the polycystic ovary syndrome - is there an association?",
+  "abstract": "Due to the endocrine disrupting effects of bisphenol A (BPA) several governmental authorities have banned its use and the manufacturers had to find alternative substances with similar chemical properties. This led to the increase in the use of so-called BPA analogues, which however also turn out to possess mild estrogenic and ani-androgenic properties and thus, may cause fertility problems and sex-hormone dependent endocrinopathies. The aim of this study was to evaluate the potential association between the exposure to BPA and its two analogues: BPS and BPF, with the diagnosis of the polycystic ovary syndrome (PCOS), which remains the most common female endocrinopathy. Serum concentrations of BPA, BPS and BPF were measured using high performance liquid chromatography method with tandem mass spectrometry (HPLC-MS/MS) among 199 women with PCOS and 158 control subjects. In women with PCOS serum BPS concentrations were significantly higher compared to the control subjects (geometric mean [95% CI]: 0.14\u00a0ng/mL [0.10; 1.17] vs. 0.08\u00a0ng/mL [0.06; 0.09], P\u00a0=\u00a00.023). Serum BPA and BPF concentrations did not differ between the studied groups. There was however a negative correlation between serum BPA and HOMA-IR (r\u00a0=\u00a0- 0.233, P\u00a0=\u00a00.001) and TST (r\u00a0=\u00a0- 0.203, P\u00a0=\u00a00.006) in women with PCOS. No correlations were found between the serum BPs and other metabolic parameters such as serum lipids, insulin, DHEA-S, androstenedione and FAI. When studying the association between serum BPA analogues and PCOS it turned out that women whose serum BPS concentrations were in the first tertile were more likely to be diagnosed with this endocrinopathy (OR [95% CI]: 1.21 [1.04; 3.46], P\u00a0=\u00a00.017). This association was also statistically significant when adjusted for age, education, BMI, smoking, income, and alcohol consumption (adjusted OR [95% CI]: 1.12 [1.03; 3.71], P\u00a0=\u00a00.029). These results point to the potential association between the exposure to BPS and the diagnosis of PCOS. The role of BPA is not clear and warrants further studies.",
+  "publication_date": "2020-11-06",
+  "journal": "Environmental pollution (Barking, Essex : 1987)",
+  "doi": "10.1016/j.envpol.2020.115962",
+  "entities": {
+    "POLYPHENOL": [
+      "158 control subjects",
+      "effects",
+      "tandem mass spectrometry",
+      "the control subjects"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Neuronal Cell Rearrangement During Aging: Antioxidant Compounds as a Potential Therapeutic Approach.",
+  "abstract": "Aging is a natural process that leads to time-related changes and a decrease in cognitive abilities, executive functions, and attention. In neuronal aging, brain cells struggle to respond to oxidative stress. The structure, function, and survival of neurons can be mediated by different pathways that are sensitive to oxidative stress and age-related low-energy states. Mitochondrial impairment is one of the most noticeable signs of brain aging. Damaged mitochondria are thought to be one of the main causes that feed the inflammation related to aging. Also, protein turnover is involved in age-related impairments. The brain, due to its high oxygen usage, is particularly susceptible to oxidative damage. This review explores the mechanisms underlying neuronal cell rearrangement during aging, focusing on morphological changes that contribute to cognitive decline and increased susceptibility to neurodegenerative diseases. Potential therapeutic approaches are discussed, including the use of antioxidants (e.g., Vitamin C, Vitamin E, glutathione, carotenoids, quercetin, resveratrol, and curcumin) to mitigate oxidative damage, enhance mitochondrial function, and maintain protein homeostasis. This comprehensive overview aims to provide insights into the cellular and molecular processes of neuronal aging and highlight promising therapeutic avenues to counteract age-related neuronal deterioration.",
+  "publication_date": "2024-11-23",
+  "journal": "Cells",
+  "doi": "10.3390/cells13231945",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "brain aging",
+      "neuronal aging",
+      "oxidative damage",
+      "oxidative stress",
+      "the inflammation"
+    ],
+    "POLYPHENOL": [
+      "a decrease",
+      "cognitive decline",
+      "curcumin",
+      "executive functions",
+      "quercetin",
+      "resveratrol",
+      "the cellular and molecular processes",
+      "the mechanisms"
+    ],
+    "FOOD": [
+      "its high oxygen usage"
+    ]
+  }
+}

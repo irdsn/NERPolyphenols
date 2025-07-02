@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "The clinical impact of an extra virgin olive oil enriched mediterranean diet on metabolic syndrome: Lights and shadows of a nutraceutical approach.",
+  "abstract": "For years it has been established that the only truly effective treatment of metabolic syndrome (MS) is lifestyle modification to prevent its cardiovascular (e.g., coronary artery disease and atherosclerosis), metabolic (e.g., diabetes mellitus), and hepatic (e.g., steatosis and non-alcoholic steatohepatitis) complications. The focal points of this approach are to increase physical activity and intake of a diet characterized by high quantities of fruits, vegetables, grains, fish, and low-fat dairy products, the so called mediterranean diet (MD); however, the added value of MD is the presence of extra virgin olive oil (EVOO), a healthy food with a high content of monounsaturated fatty acids, especially oleic acid, and variable concentrations (range 50-800 mg/kg) of phenols (oleuropein, ligstroside, and oleocanthal, and their derivatives, phenolic alcohols, such as hydroxytyrosol and tyrosol). Phenolic compounds not only determine EVOO's main organoleptic qualities (oxidative stability, specific flavor, and taste features) but, theoretically, make it a source of antioxidant, anti-inflammatory, insulin-sensitizing, cardioprotective, antiatherogenic, neuroprotective, immunomodulatory, and anticancer activity. Although many studies have been carried out on EVOO's clinical effects and attention toward this dietary approach (healthy and palatable food with strong nutraceutical activity) has become increasingly pressing, there are still many dark sides to be clarified, both in terms of actual clinical efficacy and biochemical and molecular activity. Thus, we reviewed the international literature, trying to show the state of the art about EVOO's clinical properties to treat MS (along with correlated complications) and the future prospective of its nutraceutical use.",
+  "publication_date": "2022-08-04",
+  "journal": "Frontiers in nutrition",
+  "doi": "10.3389/fnut.2022.980429",
+  "entities": {
+    "POLYPHENOL": [
+      "antioxidant, anti-inflammatory, insulin-sensitizing, cardioprotective, antiatherogenic, neuroprotective, immunomodulatory, and anticancer activity",
+      "biochemical and molecular activity",
+      "especially oleic acid",
+      "evoo's clinical effects",
+      "oleuropein",
+      "specific flavor",
+      "the only truly effective treatment"
+    ],
+    "SYMPTOM": [
+      "atherosclerosis",
+      "metabolic syndrome"
+    ],
+    "FOOD": [
+      "extra virgin olive oil"
+    ]
+  }
+}

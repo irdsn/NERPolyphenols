@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Ultrasonic and thermal effect on the preparation and properties of starch-chlorogenic acid complexes.",
+  "abstract": "In this study, complexes of chlorogenic acid (CA) with starch from different sources were prepared by thermal treatment (70\u00a0\u00b0C, 20\u00a0min) and ultrasound (450\u00a0W, 20\u00a0kHz, 25\u00a0\u00b0C, 20\u00a0min). Both ultrasound and thermal treatment are effective methods for preparing starch-CA complexes, but the two treatments have different effects on different starches. Characterization of the complexes prepared using the two methods showed that thermal treatment and ultrasound reduced the crystallinity of starch to some extent, with thermal treatment having a greater effect. Thermal treatment also reduced the amount of double-helix structures in starch. In contrast, ultrasound was relatively mild and had less effect on starch granular structure. However, these two methods promoted the binding of CA, thereby increasing the crystallinity of starch and forming a more ordered and compact structure, which, to some extent hindered the enzymatic degradation of starch. Moreover, the RDS of starch-CA complexes were reduced to different degrees, with the most significant changes in U (PS-CA) and T (CS-CA), which were reduced by 5.96\u00a0% and 4.55\u00a0%, respectively.",
+  "publication_date": "2025-04-08",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.142953",
+  "entities": {
+    "POLYPHENOL": [
+      "a greater effect",
+      "chlorogenic acid",
+      "different effects",
+      "effective methods",
+      "less effect"
+    ]
+  }
+}

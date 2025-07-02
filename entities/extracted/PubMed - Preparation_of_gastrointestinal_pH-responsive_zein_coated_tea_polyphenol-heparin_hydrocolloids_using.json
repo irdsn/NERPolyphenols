@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Preparation of gastrointestinal pH-responsive zein coated tea polyphenol-heparin hydrocolloids using for inflammatory bowel disease therapy.",
+  "abstract": "In the pathogenesis of inflammatory bowel disease (IBD), overstimulation of inflammatory factors can trigger a coagulation cascade, increase the risk of intestinal micro-thrombosis and lead to microcirculation disorders. However, prevention of microcirculation pathways has not received enough attention. Heparin is commonly used in anticoagulant therapy, but oral delivery does not have an excellent anticoagulant effect. To improve the stability of heparin (HEP) in the gastrointestinal tract, zein/tea polyphenol nanospheres with a core-shell structure (EGNs@Z) were developed for oral administration of heparin (HEGNs@Z). The Zein shell has pH-responsive properties and is effective in preventing premature dissolution of heparin. At the same time, EGCG nanospheres (EGNs) play an anti-inflammatory role, jointly improve the vicious cycle between inflammation and microthrombosis. The results of SEM, TEM and FTIR showed that EGNs successfully encapsulated heparin and formed zein shells on the surface of microspheres with a thickness of 50-100\u00a0nm. In vitro simulated digestion experiments showed that zein shells prevented the breakdown of microspheres and heparin in a simulated gastric environment, whereas EGNs and HEP were slowly degraded and released in a simulated intestinal environment. Coagulation analysis showed that HEGNs@Z was effective in delaying clotting time. A mouse model of acute colitis has also shown that HEGNs@Z robust promotes colonic epithelial regeneration, inhibits malignant microcirculation, and reduces bleeding risk. These findings reveal that this orally bioavailable multifunctional material may provide a novel, effective and convenient treatment for inflammatory bowel disease.",
+  "publication_date": "2025-04-13",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.143135",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "inflammatory bowel disease"
+    ],
+    "POLYPHENOL": [
+      "a novel, effective and convenient treatment",
+      "an excellent anticoagulant effect",
+      "egcg nanospheres",
+      "zein/tea polyphenol nanospheres"
+    ]
+  }
+}

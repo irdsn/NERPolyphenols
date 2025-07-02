@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "From Chemical Composition to Antiproliferative Effects Through In Vitro Studies: Honey, an Ancient and Modern Hot Topic Remedy.",
+  "abstract": "Honey is a natural product which has been used throughout time as a food, spice, and medicine. Its therapeutic use has its origins in direct empirical observations of various beneficial actions in terms of its anti-infectious, anti-inflammatory, and wound-healing effects, to which an antiproliferative effect is added. In the context of malignant transformation, reductions in chronic inflammation, antioxidant action, cell cycle arrest, and apoptosis activation contribute to this antiproliferative effect, achievements attributed mainly to the polyphenols in its composition. A multitude of in vitro studies performed on malignant cell cultures try to elucidate the real mechanism(s) that can scientifically explain this action. In addition, its use as an adjuvant in association with cytostatic therapy demonstrates a promising effect in enhancing its cytotoxic effect, but also in reducing some adverse effects. Highlighting these actions allows for further perspectives to be opened regarding the use of honey for therapeutic and also prophylactic purposes, as a food supplement. Future studies will support the identification of real antiproliferative effects in patients with malignant tumors in terms of actions on the human body as a whole, moving from cell cultures to complex implications.",
+  "publication_date": "2025-05-06",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17091595",
+  "entities": {
+    "POLYPHENOL": [
+      "a promising effect",
+      "an antiproliferative effect",
+      "direct empirical observations",
+      "further perspectives",
+      "its cytotoxic effect",
+      "real antiproliferative effects",
+      "some adverse effects",
+      "the polyphenols",
+      "the real mechanism(s",
+      "this antiproliferative effect",
+      "wound-healing effects"
+    ],
+    "SYMPTOM": [
+      "apoptosis activation",
+      "chronic inflammation"
+    ]
+  }
+}

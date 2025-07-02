@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Possible Mitigating Effect of Nobiletin on Rotenone-Induced Parkinsonism in Male Albino Rat Model: Targeting Bmal1/Nrf2 Mediated Ferroptosis and Restoring Mitochondrial Mitophagy.",
+  "abstract": "Ferroptosis and circadian disruption might be implicated in Parkinson disease (PD), a neurodegenerative disorder due to degeneration of dopaminergic neurons in the substantia nigra. As such, the ability to preserve mitochondrial and therefore neuronal homeostasis is essential. In PD, Nobiletin (NOB) may have neuroprotective effects. Still, further clarification is needed about the processes behind these impacts. To evaluate the positive effect of NOB against rotenone induced PD in rats via the Bmal1/ NRF2 axis regulation. Four groups of thirty-two male Albino rats were randomly assigned: Control, NOB treated, rotenone treated, and combined Rotenone and NOB treated groups. The validation of the neuroprotective potential of NOB entailed a behavioral examination, RT-PCR and colorimetric evaluation of biochemical markers, as well as immunohistopathological study of brain tissues. The relative gene expression of Bmal1 increased with NOB therapy significantly reducing the circadian rhythm disruption. Furthermore, as shown by the elevated Nrf2-DNA binding activity, increased levels of GPx4, and decreased levels of GSH with comparable low levels of MDA and Fe+2in the brain tissue, NOB ameliorated oxidative stress and ferroptosis. NOB stimulated both mitophagy and autophagy through the activation of Bmal1/Nrf2 pathway as characterized by upregulated expression of PINK-1 & Parkin genes and enhanced beclin-1 and LC3-II immunoreaction. This study showed that NOB ameliorated rotenone-induced PD by modulating dysregulated behavioral & cognitive dysfunction, attenuating ferroptosis & redox imbalance, and promoting mitophagy & autophagy through modulation of disrupted circadian rhythm through Bmal1/Nrf2 pathway.",
+  "publication_date": "2025-06-25",
+  "journal": "Neurochemical research",
+  "doi": "10.1007/s11064-025-04438-3",
+  "entities": {
+    "POLYPHENOL": [
+      "beclin-1 and lc3-ii immunoreaction",
+      "neuroprotective effects",
+      "the neuroprotective potential",
+      "the positive effect"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

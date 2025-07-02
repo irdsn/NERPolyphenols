@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "The interaction between soluble dietary fiber and bound phenolic from litchi pomace, and its effect on gut microbiota and inflammation.",
+  "abstract": "The dietary fiber present in litchi pomace is abundant in bound phenolics, which are advantageous for human health. In this study, the interaction between litchi pomace soluble dietary fiber (SDF) and bound phenolics on in vitro colonic fermentation properties, intestinal flora metabolism and anti-inflammatory activity was investigated. The results indicated that litchi pomace SDF group displayed higher total phenolic, total flavonoids content, short-chain fatty acids (SCFAs) content and higher antioxidant activity than the dephenolized SDF (SDF-DF) group. Furthermore, litchi pomace SDF could enrich beneficial bacteria and inhibit harmful bacteria, with the SDF group was superior to the SDF-DF group. Metabolomics analysis revealed significant up-regulation of polyphenolic compounds, indole and its derivatives, and nicotinic acid in the SDF 24\u00a0h group compared to the SDF-DF 24\u00a0h group. Additionally, the SDF group was more effective than the SDF-DF group in inhibiting the production of NO and inflammatory factors by RAW264.7 macrophages. Collectively, these results suggest that bound phenolic contribute significantly to the intestinal regulation and anti-inflammatory functional properties of litchi pomace SDF, providing a scientific basis for high-value utilization of litchi pomace SDF.",
+  "publication_date": "2025-06-24",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145322",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenolic compounds",
+      "total flavonoids content"
+    ]
+  }
+}

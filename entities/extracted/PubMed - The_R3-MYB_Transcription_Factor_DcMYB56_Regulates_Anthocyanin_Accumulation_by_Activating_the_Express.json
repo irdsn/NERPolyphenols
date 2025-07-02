@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "The R3-MYB Transcription Factor DcMYB56 Regulates Anthocyanin Accumulation by Activating the Expression of Anthocyanin Biosynthesis-Related Genes inDendrobium candidum.",
+  "abstract": "Dendrobium candidumis a traditional Chinese medicinal herb with green and red stems.D. candidum, which has red stems, is highly nutritious. However, there is a need to clarify the mechanisms of transcriptional regulation underlying anthocyanin biosynthesis inD. candidum. In this study, we found that the red stem ofD. candidumhas a high anthocyanin content and a wide variety of types. Cyanidin derivatives of anthocyanins were found to be responsible for red pigmentation in red leaves. An R3-MYB transcription factor, DcMYB56, which modulates anthocyanin biosynthesis, along with homologs of other plants, was isolated and identified. Compared with that in green stems, DcMYB56 expression inD. candidumred stems markedly increased. The binding of DcMYB56 to theDcCHS8,DcF3'H,DcF3'5'H, andDcANS1gene promoters controlled DcMYB56 expression levels. The overexpression of DcMYB56 inArabidopsis thalianaresulted in a red phenotype and substantially increased the anthocyanin content. Our findings suggest that DcMYB56 is important for anthocyanin biosynthesis, which thus sheds new light on the modulation of anthocyanin biosynthesis-associated transcription factors inD. candidum.",
+  "publication_date": "2025-06-12",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14121805",
+  "entities": {
+    "POLYPHENOL": [
+      "the mechanisms"
+    ]
+  }
+}

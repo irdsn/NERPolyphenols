@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Bone regeneration enhanced by green tea polyphenols/chitosan bifunctional hydrogel.",
+  "abstract": "Approximately 455 million fracture cases were reported globally in 2019, which is an increase of 33.4\u202f% from 1990. Fractures affect the health status and quality of life of patients and bring a heavy burden to families and even society. Bone tissue engineering is an innovative technology in which composite scaffolds are used to treat defects and fractures. However, this technology lacks efficient dual-function materials for inducing bone regeneration. We here developed a bone tissue engineering scaffold with a structural and compositional bionic natural bone tissue having antibacterial properties, good biocompatibility, and appropriate mechanical strength. Methacrylated gelatin, carboxyethyl chitosan, green tea polyphenols, and oxidized hyaluronic acid were prepared through a photo-crosslinking reaction and Schiff base crosslinking to form a crosslinked dual-function hydrogel. The morphology of the hydrogels was observed through field-emission scanning electron microscopy. The mechanical properties were explored using a mechanical universal testing machine. The in vitro cell compatibility was also verified. Finally, the in vivo repair mechanism was unveiled using an animal model. The dual-function hydrogel exhibited a structure and mechanical properties similar to the bone tissue and good biocompatibility, and promoted good bone regeneration.",
+  "publication_date": "2025-06-07",
+  "journal": "Colloids and surfaces. B, Biointerfaces",
+  "doi": "10.1016/j.colsurfb.2025.114824",
+  "entities": {
+    "POLYPHENOL": [
+      "a mechanical universal testing machine",
+      "a structure and mechanical properties",
+      "an innovative technology",
+      "appropriate mechanical strength",
+      "defects",
+      "electron microscopy",
+      "green tea polyphenols",
+      "the in vivo repair mechanism",
+      "the mechanical properties",
+      "this technology"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Cardiovascular and Renal Outcomes Following Repeated Naringenin Exposure in Normotensive and Hypertensive Rats.",
+  "abstract": "Background: Systemic arterial hypertension is one of the leading global health concerns, significantly increasing the risk of cardiovascular and kidney diseases, including nephrolithiasis. The treatment, still far from ideal, is constantly undergoing new alternatives. In this context, medicinal plants rich in flavonoids, such as naringenin-a compound found in citrus fruits-have gained attention for their potential diuretic, nephroprotective, and blood pressure-lowering effects.Objectives: This study aimed to evaluate the effects of naringenin (100 mg/kg, orally) over nine days on blood pressure, renal function, and calcium oxalate crystal formation in normotensive Wistar (NTR) and spontaneously hypertensive male rats (SHR).Methods: Key assessments included blood pressure and heart rate measurements in vivo, urine volume and electrolyte excretion in vivo, in vitro calcium oxalate crystallization, and in silico molecular docking analyses to investigate molecular interactions.Results: Naringenin treatment significantly reduced blood pressure and increased diuresis in both NTR and SHR groups, while a notable natriuretic effect was observed specifically in NTR. In vitro, naringenin reduced the formation of calcium oxalate crystals in urines from NTR. Molecular docking studies suggested that these effects may be mediated by interactions with SGLT1 and SGLT2 transporters, potentially explaining the diuretic and natriuretic outcomes. Additionally, interactions with MMP-9 and \u03b22-adrenergic receptors may contribute to the reduction in crystal formation.Conclusions: Collectively, these findings indicate that repeated administration of naringenin exerts beneficial effects on both cardiovascular and renal parameters, and point to promising molecular targets that may underlie its protective actions.",
+  "publication_date": "2025-06-12",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18060873",
+  "entities": {
+    "SYMPTOM": [
+      "systemic arterial hypertension"
+    ],
+    "POLYPHENOL": [
+      "a notable natriuretic effect",
+      "electrolyte excretion",
+      "flavonoids",
+      "its protective actions",
+      "mmp-9 and \u03b22-adrenergic receptors",
+      "molecular docking studies",
+      "molecular interactions",
+      "molecular targets",
+      "naringenin",
+      "naringenin exerts",
+      "naringenin treatment",
+      "objectives",
+      "the effects",
+      "their potential diuretic, nephroprotective, and blood pressure-lowering effects",
+      "these effects"
+    ]
+  }
+}

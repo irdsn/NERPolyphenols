@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Picropodophyllotoxin alters EMT in neuroblastoma via inhibition of surface receptors IGF1R and ALK.",
+  "abstract": "Neuroblastoma (NB) is a type of paediatric cancer that originates from embryonic sympathoadrenal cells. Despite its paediatric origin, NB is mostly treated with strategy of non-small cell lung cancer like adults due to lack of specific therapeutic approach. To improve treatment outcome for NB patients, developing drugs that specifically target the genetic mutations or molecular pathways involved in neuroblastoma is necessary. Overexpression of the insulin-like growth factor 1 receptor (IGF1R) has been linked to various malignancies, including paediatric cancers. We hypothesized that inhibiting IGF1R with ALK (NB specific mutation) by phytochemical compound could effectively treat NB while avoiding undesirable cytotoxic effects. We evaluated the efficacy of Picropodophyllotoxin (PPP) as IGF1R inhibitor, for treatment of NB. The IC50value of PPP on SH-SY5Y, NB cells after 24\u00a0h of treatment was found to be 0.501\u00a0\u03bcM. Molecular docking studies revealed that PPP had a binding score of -7.5\u00a0kcal/mol with IGF1R and\u00a0-\u00a08.8\u00a0kcal/mol with ALK. This suggests that PPP not only binds to and inhibits IGF1R but also has a strong affinity for ALK. Gene expression studies, densitometric analysis, scratch assays, and AO/EtBr differential staining were used to evaluate the efficacy of PPP in NB cells. Transcript expression and densitometric analysis revealed that PPP could downregulate IGF1R and ALK in NB cells. Downregulation of SNAIL, a mesenchymal marker, and upregulation of E-cadherin, an epithelial marker, indicated a mesenchymal to epithelial transition in NB cells, suggesting that PPP treatment inhibited NB cell migration and proliferation. This was further supported by scratch assay results in our study. Furthermore, gene expression analysis of p53, BAX and BCL2 indicated that PPP induces apoptosis in NB cells. AO/EtBr differential staining revealed apoptotic phenomena in NB cells after 24\u00a0h of PPP treatment. Although further research is needed to explore the receptor targeting approach using PPP for IGF1R and ALK inhibition.",
+  "publication_date": "2025-02-20",
+  "journal": "Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society",
+  "doi": "10.1016/j.ghir.2025.101638",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "non-small cell lung cancer",
+      "paediatric cancer",
+      "paediatric cancers"
+    ],
+    "POLYPHENOL": [
+      "(nb specific mutation",
+      "0.501\u00a0\u03bcm. molecular docking studies",
+      "1 receptor",
+      "molecular pathways",
+      "specific therapeutic approach",
+      "the receptor",
+      "undesirable cytotoxic effects"
+    ]
+  }
+}

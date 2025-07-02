@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Total Phenolic, Flavonoid Content, and Antioxidant Activity of Dried Marigold (Tagetes erecta L.) Petals Produced in a Mixed-Mode Solar Dryer.",
+  "abstract": "Marigold (Tagetes erecta L.), commonly known as Cempas\u00fachil, is a significant symbol of Mexico's Day of the Dead celebrations. However, once the festivities conclude, the flowers and petals are frequently discarded as waste, contributing to environmental pollution. Cempas\u00fachil was dehydrated using an active mixed-type solar dryer to address this issue. This method establishes an environmentally friendly, easy-to-use, cost-effective, and practical preservation technique for rural communities. The maximum drying temperature was 69.65\u00a0\u00b0C, and the maximum solar irradiance was 1080.60 W/m2. The initial moisture content began at 87.35% and finished at 4.93%. The initial colorimetric parameters were: lightness 65.44, a 32.43, b 78.38, Chroma 84.83, and Hue angle 67.53\u00b0. The antioxidant activity of the marigold flower was 93.51%, ascorbic acid 27.86\u00a0mg/100\u00a0g, total phenols content 28.06 mg\u00a0GAE/g\u00a0dry mass (gallic acid equivalents), total flavonoids content 6.34 QE/g (quercetin equivalent) and carotenoid content 2.07\u00a0mg/g. After drying it was observed an increment in vitamin C (from 27.86 to 75.675\u00a0mg/100\u00a0g), carotenoids content (from 2.073 to 18.947\u00a0mg/100\u00a0g.), and antioxidant activity (from 93.513 to 98.178%). No significative changes in total phenols content with a value of 28.488 QE/g for dried marigold samples and flavonoid content from 6.348 QE/g and 6.622 QE/g were observed. Dried flowers and petals can be used in practical applications, such as in agriculture. They serve as a natural insecticide, providing an alternative for pest management, and can also act as a fertilizer, enhancing the soil's physical, chemical, and biological conditions.",
+  "publication_date": "2025-05-17",
+  "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+  "doi": "10.1007/s11130-025-01366-z",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural insecticide",
+      "dry mass (gallic acid equivalents",
+      "erecta l.",
+      "flavonoid content",
+      "total flavonoids"
+    ]
+  }
+}

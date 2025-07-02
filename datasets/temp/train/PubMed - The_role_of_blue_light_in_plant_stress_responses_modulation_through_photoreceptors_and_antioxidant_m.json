@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "The role of blue light in plant stress responses: modulation through photoreceptors and antioxidant mechanisms.",
+  "abstract": "Blue light exerts a profound influence on plant physiology by tightly regulating photosynthetic efficiency, developmental processes, and stress signaling networks. Within the photosynthetically active radiation range, blue wavelengths uniquely activate cryptochromes and phototropins, which in turn regulate processes such as chloroplast repositioning, phototropism, and transcriptional adjustments linked to stress mitigation. Under high intensity blue irradiation, photosynthetic electron transport chains and apoplastic NADPH oxidases generate reactive oxygen species (ROS), acting as key signaling intermediates yet posing oxidative challenges. Plants deploy intricate antioxidant defenses including superoxide dismutase, ascorbate peroxidase, catalase, and non-enzymatic scavengers like ascorbate, glutathione, and anthocyanins to maintain redox homeostasis and mitigate ROS damage. Emerging evidence indicates that the balance between beneficial and detrimental blue light effects is modulated by intensity, photoreceptor abundance, species-specific traits, and developmental context. This minireview explores the molecular and physiological responses to blue light, focusing on its role in stress signaling, reactive oxygen species (ROS) regulation, and antioxidant activity in plants.",
+  "publication_date": "2025-05-16",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2025.1554281"
+}

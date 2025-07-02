@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Evaluation of Kamut\u00ae wheat bran extract as a natural antioxidant for improving sunflower oil oxidative stability at frying temperatures.",
+  "abstract": "Lipid oxidation reduces frying oil shelf life, which can be mitigated by adding antioxidants. Repeated use of frying oil can lead to the formation of harmful compounds, posing health risks for consumers. This study evaluated Kamut\u00ae wheat bran extract (KWBE) as a natural antioxidant to improve the oxidative stability of sunflower oil at frying temperatures (180\u00a0\u00b0C). KWBE was compared with TBHQ, and natural antioxidants like trans-ferulic acid, quercetin, and p-coumaric acid. Antioxidant efficacy was determined using peroxide value, conjugated dienes/trienes content, HPLC-HRMS and1H NMR spectroscopy. KWBE was more effective than TBHQ in reducing the degradation of unsaturated acyl groups and slowing the formation of oxidation products. Aldehydic signals in KWBE-fortified oil had lower intensities than TBHQ and the control, while conjugated dienes and trienes levels remained lower throughout the heating process. The results suggest KWBE as a promising natural alternative to synthetic antioxidants for enhancing frying oil stability and reducing lipid oxidation.",
+  "publication_date": "2025-05-20",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144857",
+  "entities": {
+    "FOOD": [
+      "kamut\u00ae wheat bran extract",
+      "sunflower oil"
+    ],
+    "POLYPHENOL": [
+      "-ferulic acid, quercetin, and p-coumaric acid",
+      "nmr spectroscopy"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "The Incretin Effect of Yerba Mat\u00e9 (Ilex paraguariensis) Is Partially Dependent on Gut-Mediated Metabolism of Ferulic Acid.",
+  "abstract": "Yerba mat\u00e9 (YM), a traditional herbal beverage made fromIlex paraguariensis, contains bioactive compounds like polyphenols and alkaloids known for their metabolic benefits. This study investigates YM's incretin effects, focusing on glucagon-like peptide-1 (GLP-1) and gastric inhibitory polypeptide (GIP).Methods: Male and female C57BL/6 mice were supplemented with YM for four weeks. Post-supplementation, GLP-1 and GIP gene expression levels were analyzed in jejunal mucosa, and plasma hormone concentrations were measured. Additionally, in vitro experiments were conducted using GLUTag L-cells to evaluate the direct effects of YM and its metabolites, including ferulic acid and dihydroferulic acid, on GLP-1 secretion. Gene expression analysis involved quantitative real-time PCR, while hormone levels were assessed via ELISA.",
+  "publication_date": "2025-02-09",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17040625",
+  "entities": {
+    "POLYPHENOL": [
+      "ferulic acid and dihydroferulic acid",
+      "glp-1 secretion",
+      "polyphenols",
+      "the direct effects",
+      "ym's incretin effects"
+    ]
+  }
+}

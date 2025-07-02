@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Combined Transcriptome and Metabolome Analysis Reveals That DcWRKY11 Promotes Methyl Jasmonate-Induced Proanthocyanidin Biosynthesis in Dioscorea composita.",
+  "abstract": "Proanthocyanidins (PAs) are condensed tannins with a wide range of pharmacological properties and have a variety of nutritional roles in food processing and medicinal supplements. Although studies have shown that methyl jasmonate (MeJA) promotes the accumulation of PAs, the underlying molecular regulatory network remains unclear. Our study herein indicated that MeJA also dramatically induces the accumulation of PAs in Dioscorea composita. Comparative transcriptomic and metabolomic analyses were further employed to investigate its detailed molecular regulatory network. In addition, we further identified a classical WRKY transcription factor named DcWRKY11 and characterized its function in regulating MeJA-induced PAs biosynthesis. Silencing of DcWRKY11 in D. composita decreased PAs accumulation, whereas heterologous overexpression of DcWRKY11 in Arabidopsis thaliana increased PAs accumulation. Further evidence verified that DcWRKY11 directly binds to the promoter of AtTT2 thereby regulates the expression of the PAs biosynthetic genes in A. thaliana. These results suggest that DcWRKY11 functions as a positive regulator in the regulation of PAs biosynthesis. Our findings not only provide a deeper understanding of the regulatory network of MeJA-mediated PAs biosynthesis in D. composita, but also provide abundant candidate genes for further investigation of the regulatory mechanism of PAs biosynthesis.",
+  "publication_date": "2025-06-02",
+  "journal": "Plant, cell & environment",
+  "doi": "10.1111/pce.15641",
+  "entities": {
+    "POLYPHENOL": [
+      "condensed tannins",
+      "decreased pas accumulation",
+      "its detailed molecular regulatory network",
+      "proanthocyanidins",
+      "the regulatory mechanism",
+      "the underlying molecular regulatory network"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "A Review of the Chemical Composition and Biological Activities of Sugarcane: Potential Medicinal Value and\u00a0Sustainable Development.",
+  "abstract": "Sugarcane (Saccharum spp.) is an important cash crop widely grown in tropical and subtropical regions. In addition to being the main raw material for sugar and ethanol production, it is rich in a wide range of bioactive compounds with remarkable chemical diversity and biological activity. In recent years, sugarcane research has gradually increased due to the increased interest in natural medicines and functional foods. This paper reviews the chemical constituents and their potential bioactivities of sugarcane. These include flavonoids, flavonoid carbonyl glycosides, flavonols, dihydroflavonoids, dihydroflavonols, chalcones and flavanols. China's traditional Chinese medicine resources are facing serious problems in terms of sustainable development, causing a shortage aggravated by changes in the natural environment and species composition as well as uncontrolled human harvesting. Therefore, it is of great significance for the maintenance and development of traditional Chinese medicine resources to study such resources, which have medicinal value and crop potential, and discover new uses for them. In this review, we discuss the chemical composition of sugarcane and its potential bioactivities, explore its applications in the field of medicine and look for the direction of future research.",
+  "publication_date": "2025-05-01",
+  "journal": "Physiologia plantarum",
+  "doi": "10.1111/ppl.70293",
+  "entities": {
+    "POLYPHENOL": [
+      "dihydroflavonoids",
+      "flavonoid carbonyl glycosides",
+      "flavonoids",
+      "recent years",
+      "species composition",
+      "the direction"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

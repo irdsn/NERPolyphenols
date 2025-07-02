@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Combinatorial pathway disruption is a powerful approach to delineate metabolic impacts of endocrine disruptors.",
+  "abstract": "The prevalence of metabolic diseases, such as obesity, diabetes, metabolic syndrome and chronic liver diseases among others, has been rising for several years. Epidemiology and mechanistic (in\u2009vivo, in\u2009vitro and in\u2009silico) toxicology have recently provided compelling evidence implicating the chemical environment in the pathogenesis of these diseases. In this review, we will describe the biological processes that contribute to the development of metabolic diseases targeted by metabolic disruptors, and will propose an integrated pathophysiological vision of their effects on several organs. With regard to these pathomechanisms, we will discuss the needs, and the stakes of evolving the testing and assessment of endocrine disruptors to improve the prevention and management of metabolic diseases that have become a global epidemic since the end of last century.",
+  "publication_date": "2022-08-22",
+  "journal": "FEBS letters",
+  "doi": "10.1002/1873-3468.14465",
+  "entities": {
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "obesity"
+    ],
+    "POLYPHENOL": [
+      "their effects",
+      "these pathomechanisms"
+    ]
+  }
+}

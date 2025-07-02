@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "W/O/W Multiple Emulsified Microcapsules Based on Biopolymer Soybean Isolate Proteins: Improving Tannic Acid's Biocompatibility and Sustained-Release Performance.",
+  "abstract": "Tannic acid (TA) possesses antioxidant, anticancer, and antibacterial properties. However, its pH sensitivity, protein cross-linking properties, and susceptibility to oxidation restrict its application. To address these challenges, W/O/W multiple emulsified TA microcapsules were developed using soybean protein isolate (SPI) as the natural wall material emulsifier through a two-step emulsification and spray drying process. The encapsulation efficiency of the obtained TA microcapsules was 87.6%, and TA's thermal stability was significantly improved. TA microcapsules effectively reduced the acidity and irritability of TA, eliminated protein flocculation, and enhanced biocompatibility. Notably, the cell viability of the TA microcapsule (>94%) was significantly higher than free TA (65.6%). The storage stability test revealed that the microcapsules maintained structural integrity, with a retention rate of 96% after 10 days of storage. In vitro release studies of TA microcapsules demonstrated a sustained-release effect within 24 h. Simulated digestion studies further elucidated the protective effect of microcapsules on TA during gastric digestion. These multi-structured microcapsules based on SPI effectively address the limitations associated with TA utilization and enhance its potential for dual oral/transdermal administration in biomedical and cosmetic applications.",
+  "publication_date": "2025-05-29",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112373",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer"
+    ],
+    "FOOD": [
+      "soybean protein isolate"
+    ],
+    "POLYPHENOL": [
+      "a sustained-release effect",
+      "the protective effect"
+    ]
+  }
+}

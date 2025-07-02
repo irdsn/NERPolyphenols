@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Rapid Covalent Bonding of Walnut Protein Isolates to EGCG: Unveiling the Ultrasound-Assisted Ratio Optimization, Binding Mechanism, and Structural-Functional Transformations.",
+  "abstract": "The application of walnut protein isolate (WPI) and polyphenols is usually limited by low solubility. To solve the above problem, the impact of the alkaline treatment method and the ultrasound-assisted alkaline treatment method on the structural and functional properties of protein-polyphenol covalent complexes (WPI-(-)-epigallocatechin-3-gallate (EGCG), UWPI-EGCG, respectively) was explored. Fourier transform infrared spectroscopy and fluorescence spectroscopy indicated that the covalent binding of EGCG to WPI altered the secondary and tertiary structures of the protein and increased its random coil content. In addition, the UWPI-EGCG samples had the lowest particle size (153.67 nm), the largest absolute zeta potential value (25.4 mV), and the highest polyphenol binding (53.37 \u00b1 0.33 mg/g protein). Meanwhile, WPI-EGCG covalent complexes also possessed excellent solubility and emulsification properties. These findings provide a promising approach for WPI in applications such as functional foods.",
+  "publication_date": "2025-03-29",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14071204",
+  "entities": {
+    "FOOD": [
+      "functional foods",
+      "walnut protein isolate"
+    ],
+    "POLYPHENOL": [
+      "egcg",
+      "fluorescence spectroscopy",
+      "infrared spectroscopy",
+      "polyphenols",
+      "protein-polyphenol covalent complexes",
+      "the highest polyphenol binding",
+      "the secondary and tertiary structures",
+      "the uwpi-egcg samples",
+      "uwpi-egcg",
+      "wpi-(-)-epigallocatechin-3-gallate",
+      "wpi-egcg covalent complexes"
+    ]
+  }
+}

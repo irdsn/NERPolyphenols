@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Genome-Driven Functional Validation ofBacillus amyloliquefaciensStrain MEPW12: A Multifunctional Endophyte for Sustainable Sweet Potato Cultivation.",
+  "abstract": "Sweet potato (Ipomoea batatas(L.) Lam.), as an important crop, is rich in polyphenols, vitamins, minerals, and other nutrients in its roots and leaves and is gradually gaining popularity. The use of endophytic bacteria to improve the quality of sweet potato can protect the environment and effectively promote the sustainable development of the sweet potato industry. In this study, 12 strains of endophytic bacteria were isolated from sweet potato. Through nitrogen fixation, phosphorus solubilization, indoleacetic acid production, siderophore production, ACC deaminase production, and carboxymethyl cellulose production, three strains with multiple biological activities were screened out. Among them, MEPW12 had the most plant growth-promoting functions. In addition, MEPW12 promoted host chlorophyll accumulation and inhibited pathogen growth and colonization in sweet potato roots and can utilize various carbon sources and salts for growth. It can also grow in extreme environments of high salt and weak acid. MEPW12 was identified asBacillus amyloliquefacienswith a genome size of 3,928,046 bp and a GC content of 46.59%. After the annotation of multiple databases, it was found that MEPW12 had multiple enzymatic activities and metabolic potential. Comparative genomics and pan-genomics analyses revealed that otherBacillussp. strains of MEPW12 have similar functions. However, due to adaptation to different growth environments, there are still genomic differences and changes. Inoculation with MEPW12 induced the high expression ofIbGH3.10,IbERF1, and other genes, thereby promoting the growth of sweet potatoes.Bacillus amyloliquefaciensstrain MEPW12 is a sweet potato endophyte with multiple growth-promoting functions, which can promote the growth of sweet potato seedlings. This study provides new microbial resources for developing microbial agents and improving the quality of sweet potatoes.",
+  "publication_date": "2025-06-06",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13061322",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols"
+    ]
+  }
+}

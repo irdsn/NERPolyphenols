@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Effects of Leaf Removal on Free and Glycoconjugate Aromas of Skins and Pulps of Two Italian Red Grapevine Varieties.",
+  "abstract": "Leaf removal is a cultural practice mainly aimed at improving cluster zone microclimates and impacting primary and secondary metabolites, such as volatiles. This research aimed to assess the impact of defoliation on free and glycosylated aromas of a neutral ('Nebbiolo') and a semi-aromatic ('Aleatico') red variety. Defoliation was performed at fruit set (BBCH 71) and, for 'Nebbiolo', also at berries touch (BBCH 81) phenological stages. Skins and pulps were separately analyzed by Solid Phase Extraction-Gas Chromatography/Mass Spectrometry. Results showed that the response to defoliation was variety-dependent. For 'Nebbiolo', especially when performed at the berries' touch stage, defoliation had a significant effect on the accumulation of free volatiles and glycosidic precursors. Differently, free and bound 'Aleatico' volatiles were less impacted by defoliation. Interestingly, in both grapevine varieties, defoliation significantly enhanced the accumulation of aroma precursors in grapes' skins, which is of particular relevance for red wine production and their aging potential. Moreover, results could be helpful for the management of grape quality, as defoliation is currently considered as a strategy to address climate change issues.",
+  "publication_date": "2023-10-04",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods12193661",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant effect",
+      "aroma precursors",
+      "glycosidic precursors",
+      "primary and secondary metabolites",
+      "solid phase extraction-gas chromatography/mass spectrometry"
+    ],
+    "FOOD": [
+      "both grapevine varieties",
+      "grape quality",
+      "grapes' skins",
+      "red wine production"
+    ],
+    "SYMPTOM": [
+      "their aging potential"
+    ]
+  }
+}

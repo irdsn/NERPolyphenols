@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Impact of Nanofiller Fractions on Selected Properties of Microfilled Composite Resin.",
+  "abstract": "To assess the impact of incorporating various weight fractions of nanometre-sized particulate fillers on specific properties of microfilled composite resin.",
+  "publication_date": "2025-06-01",
+  "journal": "The Chinese journal of dental research",
+  "doi": "10.3290/j.cjdr.b6260583",
+  "entities": {
+    "POLYPHENOL": [
+      "specific properties"
+    ]
+  }
+}

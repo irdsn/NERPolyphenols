@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Protective effects of medicinal plant-derived metabolites on slow transit constipation via the ENS-ICC-SMC pathway.",
+  "abstract": "Slow transit constipation (STC) is a type of functional constipation resulting from a lack of intestinal motility. The primary symptoms are challenging defecation and desiccated feces, which may readily result in perianal, cardiovascular, cerebrovascular, and psychological disorders. The structural and morphological impairment of the enteric nervous system (ENS), along with the dysfunction of interstitial cells of Cajal (ICCs) and smooth muscle cells (SMCs), are the primary contributors to the onset and progression of STC. In recent years, traditional Chinese medicine (TCM) has emerged as an alternative for the therapeutic prevention and treatment of STC. Metabolites obtained from botanical drugs, including quercetin and nobiletin, may ameliorate symptoms of STC, presenting a possible therapeutic approach for STC. This review summarizes metabolites derived from botanical drugs, including flavonoids, terpenoids, steroids, polysaccharides, anthraquinones, and phenylpropanoids, emphasizing their regulatory mechanisms in the treatment of STC via the ENS-ICC-SMC pathway, while also addressing future challenges and developmental directions.",
+  "publication_date": "2025-06-11",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1598806",
+  "entities": {
+    "POLYPHENOL": [
+      "defecation",
+      "developmental directions",
+      "feces",
+      "flavonoids",
+      "quercetin",
+      "recent years",
+      "their regulatory mechanisms"
+    ]
+  }
+}

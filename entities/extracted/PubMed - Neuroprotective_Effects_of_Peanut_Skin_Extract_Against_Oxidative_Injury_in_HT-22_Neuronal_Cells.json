@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Neuroprotective Effects of Peanut Skin Extract Against Oxidative Injury in HT-22 Neuronal Cells.",
+  "abstract": "Background:Oxidative stress is a key therapeutic target in neurological disorders. As processing wastes from the peanut industry, peanut skins are great sources of antioxidants and possess potential in neuroprotection.Methods:We prepared a peanut skin extract (PSE) and investigated its protective effects against tert-butyl hydroperoxide (t-BHP)-induced oxidative injury in HT-22 neuronal cells.Results:PSE was rich in phenolic compounds (123.90 \u00b1 0.46 mg GAE/g), comprising flavonoids (75.97 \u00b1 0.23 mg RE/g) and proanthocyanidins (53.34 \u00b1 1.58 mg PE/g), and displayed potent radical scavenging activities in chemical-based assays. In HT-22 cells, PSE pretreatment restored oxidative balance and endogenous antioxidant defense disrupted by t-BHP, as evidenced by significant reductions in ROS generation and lipid peroxidation levels, along with enhanced endogenous antioxidants. Specifically, 25 \u03bcg/mL PSE pretreatment reduced ROS levels by 53.03%, decreased MDA content by 78.82%, enhanced superoxide dismutase (SOD) activity by 12.42%, and improved the ratio of glutathione (GSH) to oxidized glutathione (GSSG) by 80.34% compared to the t-BHP group. Furthermore, PSE rescued mitochondrial membrane potential collapse, inhibited cytochrome c (Cyt.c) release, and prevented subsequent apoptotic death. Notably, the neuroprotective efficacy of PSE was comparable to that of edaravone, an approved neuroprotective drug. Mechanistic investigations combining network pharmacology and experimental validation revealed that the PI3K/Akt/Nrf2 signaling pathway played a pivotal role in mediating the neuroprotective effects of PSE. Compared to t-BHP-treated cells, 25 \u00b5g/mL PSE pretreatment significantly upregulated PI3K/Akt phosphorylation, the expression of Nrf2, and its downstream antioxidant proteins heme oxygenase-1 (HO-1) and NAD(P)H dehydrogenase quinone 1 (NQO1).Conclusions:Collectively, these findings demonstrate the potential of PSE as a natural protective agent against oxidative-related neurological disorders.",
+  "publication_date": "2025-04-08",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18040544",
+  "entities": {
+    "SYMPTOM": [
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "a natural protective agent",
+      "an approved neuroprotective drug",
+      "flavonoids",
+      "its protective effects",
+      "mechanistic investigations",
+      "neuroprotection",
+      "phenolic compounds",
+      "proanthocyanidins",
+      "the neuroprotective effects",
+      "the neuroprotective efficacy"
+    ]
+  }
+}

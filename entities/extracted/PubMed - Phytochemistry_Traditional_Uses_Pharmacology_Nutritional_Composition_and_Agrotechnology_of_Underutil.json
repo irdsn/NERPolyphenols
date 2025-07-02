@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Phytochemistry, Traditional Uses, Pharmacology, Nutritional Composition, and Agrotechnology of Underutilized Wild Fruit Plant Carissa carandas L.",
+  "abstract": "Carissa carandas L., an indigenous Indian medicinal wild fruit plant, demonstrates remarkable resilience in dry and barren environments. The plant holds significance in traditional medicinal practices among various Indian tribes and mainstream systems like Ayurveda, Unani, Siddha, and Homeopathy. In addition, distinct parts of plant are commonly processed into decoctions, utilized in treating a range of ailments such as dysentery, fever, and cold, and exhibit various other ethnopharmacological applications. The medicinal attributes of C. carandas have spurred research into its phytochemistry, revealing the presence of various secondary metabolites such as phenolics, flavonoids, anthocyanins, alkaloids, cardiac glycosides, tannins, and triterpenoids. These secondary metabolites play\u00a0a significant role in exhibiting various pharmacological actions, including antidiabetic, antioxidant, antibacterial, cardiovascular, and anticancer properties. Owing to its noteworthy ethnopharmacological and therapeutic importance, this review seeks to briefly outline the traditional uses, phytochemistry, nutritional composition, pharmacology, and agrotechnological aspects of this less explored and underutilized plant.",
+  "publication_date": "2025-04-07",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202402193",
+  "entities": {
+    "POLYPHENOL": [
+      "agrotechnological aspects",
+      "decoctions",
+      "flavonoids",
+      "tannins",
+      "these secondary metabolites",
+      "various secondary metabolites"
+    ],
+    "SYMPTOM": [
+      "antidiabetic, antioxidant, antibacterial, cardiovascular, and anticancer properties",
+      "fever"
+    ]
+  }
+}

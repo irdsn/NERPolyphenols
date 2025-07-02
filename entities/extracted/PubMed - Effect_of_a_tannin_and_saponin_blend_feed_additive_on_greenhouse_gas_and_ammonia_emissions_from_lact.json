@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Effect of a tannin and saponin blend feed additive on greenhouse gas and ammonia emissions from lactating dairy cows.",
+  "abstract": "The objective of this study was to determine if a commercial feed additive blend composed of quebracho, chestnut tannins, and saponins (TAN; Silvafeed BX) could reduce enteric GHG and ammonia (NH3) emissions without negatively effecting the productive performance of dairy cows. Twenty mid lactation Holstein dairy cows were blocked by DIM and parity in a randomized complete block design, and were assigned to 1 of 2 treatments: TAN (n = 10) or control with no TAN (CON; n = 10). The treatments were administered as a top dress at each of 2 daily feedings with TAN supplemented at a rate of 0.07% of dietary DM. Cow blocks were sampled for enteric gaseous emissions in head chambers (HC) for a 12 h period on their respective treatment d 0, 16, 32, and 48. After the enteric emission sampling period concluded, collected urine and manure were combined into a manure slurry at 1:1.7 (urine wt:feces wt) per cow. Manure slurry methane (CH4), carbon dioxide (CO2), nitrous oxide (N2O), and NH3emissions were measured for 24 h. Supplemental TAN decreased enteric production (g/HC period or mg/HC period gas) of CH4, CO2, and N2O over the trial period, and tended to increase NH3production in TAN-supplemented cows. Gaseous emission yield (g or mg gas/kg HC DM intake) did not differ between TAN- and CON-supplemented cows for CH4, CO2,or N2O, although TAN-supplemented cows had greater NH3yield. Methane, CO2, N2O, and NH3intensity (g or mg gas/kg PM ECM) were not affected by TAN supplementation. Supplemental TAN did not effect slurry GHG emissions, although it increased NH3emissions. No differences in ECM, milk fat yield, milk protein yield, and DMI in TAN-supplemented cows versus CON-supplemented cows were noted.",
+  "publication_date": "2025-05-28",
+  "journal": "Journal of dairy science",
+  "doi": "10.3168/jds.2025-26410",
+  "entities": {
+    "POLYPHENOL": [
+      "/kg pm ecm",
+      "chestnut tannins",
+      "ecm",
+      "feces",
+      "the objective",
+      "their respective treatment"
+    ]
+  }
+}

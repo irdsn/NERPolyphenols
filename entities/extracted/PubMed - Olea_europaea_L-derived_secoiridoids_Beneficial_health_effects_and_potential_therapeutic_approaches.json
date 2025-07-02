@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Olea europaea L-derived secoiridoids: Beneficial health effects and potential therapeutic approaches.",
+  "abstract": "Over the years, health challenges have become increasingly complex and global and, at the beginning of the 21st century, chronic diseases, including cardiovascular, neurological, and chronic respiratory diseases, as well as cancer and diabetes, have been identified by World Health Organization as one of the biggest threats to human health. Recently, antimicrobial resistance has also emerged as a growing problem of public health for the management of infectious diseases. In this scenario, the exploration of natural products as supplementation or alternative therapeutic options is acquiring great importance, and, among them, the olive tree, Olea europaea L, specifically leaves, fruits, and oil, has been increasingly investigated for its health promoting properties. Traditionally, these properties have been largely attributed to the high concentration of monounsaturated fatty acids, although, in recent years, beneficial effects have also been associated to other components, particularly polyphenols. Among them, the most interesting group is represented by Olea europaea L secoiridoids, comprising oleuropein, oleocanthal, oleacein, and ligstroside, which display anti-inflammatory, antioxidant, cardioprotective, neuroprotective and anticancer activities. This review provides an overview of the multiple health beneficial effects, the molecular mechanisms, and the potential applications of secoiridoids from Olea europaea L.",
+  "publication_date": "2024-01-30",
+  "journal": "Pharmacology & therapeutics",
+  "doi": "10.1016/j.pharmthera.2024.108595",
+  "entities": {
+    "SYMPTOM": [
+      "cancer"
+    ],
+    "POLYPHENOL": [
+      "-inflammatory, antioxidant, cardioprotective, neuroprotective and anticancer activities",
+      "beneficial effects",
+      "infectious diseases",
+      "olea europaea l secoiridoids",
+      "oleuropein",
+      "particularly polyphenols",
+      "recent years",
+      "secoiridoids",
+      "the molecular mechanisms",
+      "the multiple health beneficial effects"
+    ]
+  }
+}

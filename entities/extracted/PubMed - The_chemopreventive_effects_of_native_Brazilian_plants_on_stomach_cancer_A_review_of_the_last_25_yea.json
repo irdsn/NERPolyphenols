@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "The chemopreventive effects of native Brazilian plants on stomach cancer: A review of the last 25 years.",
+  "abstract": "Stomach cancer (SC) is the fifth most prevalent and deathly type of cancer worldwide. This is a multifactorial disease, and its development can be influenced by both genetic factors and dietary habits. On the other hand, a regular consumption of fruit and vegetables rich in bioactive compounds, such as polyphenols and flavonoids, has demonstrated anti-inflammatory, antioxidant, and chemopreventive effects on SC. Brazil, which has a vast plant diversity, appears to be a promising scenario for investigating species with potential anti-tumor action. Thus, the objective of this review is to present and discuss the chemopreventive aspects of native Brazilian species in SC. Less-explored fractions of native plants, such as a\u00e7a\u00ed (Euterpe oleracea), ara\u00e7\u00e1-do-campo (Psidium guineense), yellow ara\u00e7\u00e1 (Psidium cattleianum Sabine), cacao (Theobroma cacao), coriander (Eryngium foetidum), physalis (Physalis angulata), guava (Psidium guajava), jambu (Acmella oleracea), pitanga (Eugenia uniflora), and ubaia (Eugenia patrisii), have demonstrated the ability to slow down the progression of the disease, indicating suppression of cell proliferation and survival, induction of apoptosis, and regulation of the cell cycle, despite showing not mechanism of action in the great majority of these studies. Although, still little studied, Brazilian plant matrices could show a promising impact against SC.",
+  "publication_date": "2025-05-08",
+  "journal": "Oncoscience",
+  "doi": "10.18632/oncoscience.618",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer",
+      "stomach cancer"
+    ],
+    "POLYPHENOL": [
+      "anti-inflammatory, antioxidant, and chemopreventive effects",
+      "flavonoids",
+      "native brazilian species",
+      "not mechanism",
+      "polyphenols",
+      "species",
+      "the chemopreventive aspects",
+      "the objective"
+    ]
+  }
+}

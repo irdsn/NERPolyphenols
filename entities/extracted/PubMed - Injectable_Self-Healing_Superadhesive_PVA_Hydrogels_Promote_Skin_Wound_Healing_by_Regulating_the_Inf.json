@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Injectable, Self-Healing, Superadhesive PVA Hydrogels Promote Skin Wound Healing by Regulating the Inflammatory Microenvironment.",
+  "abstract": "Macrophage cells are crucial in the inflammatory and proliferative phases of skin injury. The key to skin regeneration lies in controlling the immune response triggered by macrophages. The current treatment methods for skin defects include scar healing, skin grafting surgery, and skin flap repair surgery. The healing time is too long and cannot be cured for a long time, which seriously endangers the health and quality of life of patients. The hydrogel developed by predecessors has promoted the healing of skin defects by providing a moist environment for the wound surface. A hydrogel wound dressing with self-healing and adhesive qualities can offer enhanced protection to the wound and extend the material's lifespan. This study developed a high-adhesion, injectable, and self-healing hydrogel using PVA. The Northern Schisandrin B (NSB) were trapped within PVA hydrogels (PVA.gel). Due to the presence of PVA gel, which provides strong adhesion and anti-inflammatory properties to NSB, it addresses the issue of NSB solution not adhering to the wound surface, thus ensuring continuous action on the wound surface. During in vitro experiments on wound healing, the hydrogel has the ability to adhere to the wound's surface, thereby improving the healing process. The NSB.PVA.gel is capable of persistently suppressing inflammation to manage the inflammatory milieu in long-term wounds, ensuring a seamless shift from the inflammatory stage to the proliferation stage. The NSB.PVA.gel, known for its efficacy, safety, and ease of use, is capable of meeting a variety of clinical requirements.",
+  "publication_date": "2025-05-29",
+  "journal": "ACS applied bio materials",
+  "doi": "10.1021/acsabm.5c00432",
+  "entities": {
+    "POLYPHENOL": [
+      "a high-adhesion, injectable, and self-healing hydrogel",
+      "enhanced protection",
+      "predecessors",
+      "skin defects"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

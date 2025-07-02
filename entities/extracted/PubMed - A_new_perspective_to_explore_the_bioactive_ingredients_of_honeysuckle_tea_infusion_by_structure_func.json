@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "A new perspective to explore the bioactive ingredients of honeysuckle tea infusion by structure, function and stability characterization of self-assembled nano/microaggregates.",
+  "abstract": "The self-assembled nano/microaggregates formed by the interaction of polyphenols and polysaccharide are key bioactive ingredients in substitute tea infusions, but lack in-depth investigation. Taking honeysuckle tea infusion as a mode infusion, the self-assembled nano/microaggregates were characterized as compact advanced spherical submicroparticles with a particle size of about 155\u00a0nm and composed of 47.75\u00a0% esterification pectin, 6.53\u00a0% of 20 kinds of small molecular substances (mainly phenolic acids and flavonoids) and a small amount of protein at 3.49\u00a0% through hydrogen bonding and hydrophobic interaction. The submicroparticles exhibited 1.03 and 1.25 times greater ABTS+scavenging activity than honeysuckle tea and particle-deficient tea infusion, respectively. During productive and storage processes, the submiroparticles showed notable stability under diverse external physical and chemical conditions. The submicroparticles were verified as the key bioactive ingredients in honeysuckle tea infusion, contributing greatly to its antioxidant activity and stability. This study provided a new perspective for the bioactive ingredients in plant-based beverages.",
+  "publication_date": "2025-02-04",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.115923",
+  "entities": {
+    "POLYPHENOL": [
+      "47.75\u00a0% esterification pectin",
+      "a new perspective",
+      "flavonoids",
+      "polyphenols",
+      "small molecular substances"
+    ],
+    "FOOD": [
+      "a mode infusion",
+      "honeysuckle tea and particle-deficient tea infusion",
+      "honeysuckle tea infusion",
+      "substitute tea infusions"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "The Effects of Tea Polyphenols in Feed on the Immunity, Antioxidant Capacity, and Gut Microbiota of Weaned Goat Kids.",
+  "abstract": "In this present study, we aimed to investigate the effects of adding tea polyphenols to feed on the immunity, antioxidant capacity, and gut microbiota of weaned goat kids. Thirty weaned kids (Leizhou goats, average initial weight of 9.32 \u00b1 1.72 kg, 2 months old) were randomly divided into five groups with six kids in each group, with half being male and half being female. The control (CON) group was fed the basal diet, and the four other groups were supplemented with 2, 4, or 6\u2009g/kg tea polyphenols or 50\u2009mg/kg chlortetracycline in the basal diet (denoted as the T1, T2, T3, and CTC groups, respectively). The results showed that compared to the CON and CTC groups, adding 4 or 6 g/kg tea polyphenols could increase the expression levels of serum antioxidant enzymes and intestinal antioxidant genes in the kids. It also increased the expression ofNrf2andIL-10in the intestine, while reducing the content and gene expression of cytokines (IL-1\u03b2, IL-6, IFN-\u03b3, and TNF-\u03b1). Dietary supplementation with 4 or 6 g/kg tea polyphenols reduced the expression levels ofTLR4,MyD88, andNF\u03baBin intestinal tissue, activated intestinal protective mechanisms, and enhanced the immune defense of the intestinal epithelium. Compared to the CTC group, feeding tea polyphenols significantly increased the Simpson indices. However, adding 4 g/kg tea polyphenols significantly increased the relative abundance ofVerrucomicrobiota,Candidatus Soleaferrea, theChristensenellaceae R-7 group, andPrevotella, as well as the acetic acid content in the cecum of the kids (p< 0.05). Overall, the results indicate that dietary supplementation with 4 g/kg of tea polyphenols can effectively maintain the homeostasis of the gut microbiota and enhance the anti-inflammatory and antioxidant capabilities of weaned kids.",
+  "publication_date": "2025-02-07",
+  "journal": "Animals : an open access journal from MDPI",
+  "doi": "10.3390/ani15040467",
+  "entities": {
+    "POLYPHENOL": [
+      "4 g/kg tea polyphenols",
+      "4 or 6 g/kg tea polyphenols",
+      "6\u2009g/kg tea polyphenols",
+      "intestinal protective mechanisms",
+      "tea polyphenols",
+      "the cecum",
+      "the effects",
+      "thechristensenellaceae r-7 group"
+    ],
+    "FOOD": [
+      "leizhou goats"
+    ]
+  }
+}

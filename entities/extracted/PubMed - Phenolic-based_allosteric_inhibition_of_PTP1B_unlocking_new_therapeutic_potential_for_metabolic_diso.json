@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Phenolic-based allosteric inhibition of PTP1B: unlocking new therapeutic potential for metabolic disorders.",
+  "abstract": "Protein tyrosine phosphatase 1B (PTP1B) plays a critical role in insulin signaling and is associated with various metabolic diseases, including type 2 diabetes. In this study, we investigated the inhibitory potential of five phenolic compounds isolated from Tamarix aphylla against PTP1B. Using molecular docking, molecular dynamics (MD) simulations, and ADMET analysis, we assessed the binding modes, stability, and pharmacokinetic properties of these compounds. The findings from in silico studies were validated by experimental in vitro enzyme activity assays, which showed that 3,3'-di-O-methylellagic acid and scutellarein exhibited the strongest inhibitory activities with IC50values of 3.77\u2009\u00b1\u20090.15 \u00b5M and 3.08\u2009\u00b1\u20090.36 \u00b5M, respectively. Both compounds were found to inhibit PTP1B via non-competitive inhibition, with Kivalues of 3.90 \u00b5M and 3.40 \u00b5M. The free energy landscape (FEL) analysis confirmed stable binding conformations, while various MD parameter analyses indicated minimal structural perturbations in the enzyme, suggesting enhanced stability of the enzyme-ligand complexes. MM/PBSA calculations further supported the strong binding affinities of these compounds, highlighting their potential as PTP1B inhibitors. ADMET profiling indicated favorable pharmacokinetic properties, including good bioavailability and low toxicity risks. This study provides compelling evidence for the potential of phenolic compounds from Tamarix aphylla as therapeutic agents for PTP1B inhibition, offering new opportunities for the treatment of metabolic disorders.",
+  "publication_date": "2025-06-24",
+  "journal": "Journal of computer-aided molecular design",
+  "doi": "10.1007/s10822-025-00616-1",
+  "entities": {
+    "SYMPTOM": [
+      "type 2 diabetes"
+    ],
+    "POLYPHENOL": [
+      "3,3'-di-o-methylellagic acid",
+      "five phenolic compounds",
+      "molecular docking",
+      "molecular dynamics (md) simulations",
+      "phenolic compounds"
+    ]
+  }
+}

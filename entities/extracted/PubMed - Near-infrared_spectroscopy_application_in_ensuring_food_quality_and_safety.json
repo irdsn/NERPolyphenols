@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Near-infrared spectroscopy: application in ensuring food quality and safety.",
+  "abstract": "In recent years, the demand for intelligent control of food quality during processing has been increasing in the food industry. As a practical analytical tool, near-infrared (NIR) spectroscopy has become a common detection method to ensure food quality and safety because of its advantages of continuous, rapid on-line determination and strong analytical performance. In the past 20 years, many attempts and research studies have been conducted on the applications of NIR spectroscopy. Based on this, this review focuses on the specific application of near-infrared technology in the field of food, highlighting its breakthrough and applicability. NIR spectroscopy is widely used for online quantitative analysis of beneficial food components to the human body, which include proteins, polysaccharides, and polyphenols. Additionally, this technology is applied to food microbiological analysis, food safety detection (such as food adulteration), and food origin prediction. This review discusses the existing challenges, future development directions, and opportunities for NIR spectroscopy technology.",
+  "publication_date": "2025-05-01",
+  "journal": "Analytical methods : advancing methods and applications",
+  "doi": "10.1039/d4ay02039a",
+  "entities": {
+    "POLYPHENOL": [
+      "a common detection method",
+      "food safety detection",
+      "future development directions",
+      "near-infrared (nir) spectroscopy",
+      "near-infrared technology",
+      "nir spectroscopy",
+      "nir spectroscopy technology",
+      "polyphenols",
+      "recent years",
+      "the specific application",
+      "this technology"
+    ]
+  }
+}

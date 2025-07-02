@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Mult-omics analysis reveals the lipid-lowering effects of sea buckthorn and milk thistle solid beverage in hyperlipidemic rats.",
+  "abstract": "Hyperlipidemia is a common metabolic disorder and a risk factor for cardiovascular disease. The traditional medicine herb, Hippophae rhamnoides L., known as sea buckthorn, has anti-obesity and lipid-lowering effects, while Silybum marianum (L.) Gaertn, known as milk thistle, has hepatoprotective properties and exhibits antioxidant effects.",
+  "publication_date": "2025-05-29",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156920",
+  "entities": {
+    "SYMPTOM": [
+      "hyperlipidemia"
+    ],
+    "POLYPHENOL": [
+      "anti-obesity and lipid-lowering effects",
+      "antioxidant effects",
+      "hepatoprotective properties"
+    ]
+  }
+}

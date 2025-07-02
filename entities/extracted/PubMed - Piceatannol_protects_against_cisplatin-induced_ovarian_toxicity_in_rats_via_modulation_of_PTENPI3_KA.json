@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Piceatannol protects against cisplatin-induced ovarian toxicity in rats via modulation of PTEN/PI3 K/AKT axis.",
+  "abstract": "Premenopausal women diagnosed with cancer may suffer from ovarian toxicity, which affects their quality of life. Cisplatin (CIS) is an effective chemotherapeutic drug used for different types of tumors. However, CIS has been reported to cause ovarian toxicity. Aberration of the PI3K/AKT signaling has been implicated in CIS-induced ovarian toxic effects. Piceatannol (PIC) is a naturally occurring polyphenolic stilbene that has garnered significant research interest due to its known antioxidant, anti-inflammatory, and anti-apoptotic activities. The aim of this study was to investigate the potential protective role of PIC against CIS-induced ovarian toxicity in female rats. Thirty female rats were divided randomly into five groups, and treated for 17\u00a0days. (1) control, (2): PIC (10\u00a0mg/kg), (3): CIS (6\u00a0mg/kg), (4): low dose PIC (5\u00a0mg/kg)\u2009+\u2009CIS (6\u00a0mg/kg), and (5): high dose PIC (10\u00a0mg/kg)\u2009+\u2009CIS (6\u00a0mg/kg). Pretreatment with PIC significantly prevented the CIS-induced histopathological alterations, inhibited follicles loss, and inhibited the decrease in serum AMH. PIC exhibited antioxidant activity by significantly preventing MDA production and the depletion of GSH and antioxidant enzymes in ovarian tissues in a dose-dependent manner. PIC markedly decreased the immunostaining expression of iNOS, TNF-\u03b1, and NF-\u03baB in ovarian tissues. Furthermore, PIC significantly attenuated immune-expression of PTEN and enhanced those of PI3K and phosphor-AKT in ovarian tissues of CIS-treated rats. Finally, PIC modulated mRNA expression of Bcl-2, BAX and CASP3 in favor of anti-apoptosis. PIC protects against CIS-induced ovarian toxicity by exerting antioxidant, anti-inflammatory, and anti-apoptotic effects, primarily through modulation of the PTEN/PI3K/p-AKT axis.",
+  "publication_date": "2025-06-13",
+  "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+  "doi": "10.1007/s00210-025-04264-y",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer"
+    ],
+    "POLYPHENOL": [
+      "a naturally occurring polyphenolic stilbene",
+      "an effective chemotherapeutic drug",
+      "antioxidant, anti-inflammatory, and anti-apoptotic effects",
+      "cis-induced ovarian toxic effects",
+      "piceatannol",
+      "the decrease",
+      "the potential protective role"
+    ]
+  }
+}

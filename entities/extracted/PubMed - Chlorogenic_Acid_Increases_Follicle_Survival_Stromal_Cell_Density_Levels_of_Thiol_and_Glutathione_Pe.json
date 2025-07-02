@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Chlorogenic Acid Increases Follicle Survival, Stromal Cell Density, Levels of Thiol and Glutathione Peroxidase Activity in Cultured Bovine Ovarian Tissues.",
+  "abstract": "This study aimed to investigate the radical scavenging activity and the effects of chlorogenic acid on follicular survival and development, stromal cell density and collagen fibres distribution in extracellular matrix, as well as on mRNA expression of nuclear factor erythroid 2-related factor 2 (NRF2), superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPX), and periredoxin 6 (PRDX6), thiol levels, and activity of SOD, CAT, GPX enzymes in cultured bovine ovarian tissues. The free radical scavenging potential of chlorogenic acid was assessed through DPPH (2,2-diphenyl-1-picrylhydrazyl) and ABTS (2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)) assays. The ovarian fragments were cultured in \u03b1-MEM+alone or supplemented with 25, 50, 100, and 200\u2009\u03bcmol/L chlorogenic acid for 6\u2009days at 38.5\u00b0C and 5% CO2. Follicular growth and survival, stromal cell density, and collagen fibres were analysed by classical histology. Expression of mRNA for NRF2, SOD, CAT, GPX, and PRDX6 was evaluated by real-time PCR. Thiol levels and activity of SOD, CAT, GPX were investigated by Bradford method. The results showed that the presence of 100\u2009\u03bcmol/L chlorogenic acid in culture medium promotes an increase in morphologically normal follicles and stromal cell density when compared to tissues cultured in control medium. Chlorogenic acid also increased thiol levels and GPX activity, but did not influence the distribution of collagen fibres or the expression of the analysed mRNAs. In conclusion,100\u2009\u03bcmol/L chlorogenic acid increases the percentage of morphologically normal follicles, stromal cell density, thiol levels, and GPX activity in bovine ovarian tissues cultured in\u00a0vitro.",
+  "publication_date": "2025-05-01",
+  "journal": "Reproduction in domestic animals = Zuchthygiene",
+  "doi": "10.1111/rda.70053",
+  "entities": {
+    "POLYPHENOL": [
+      "100\u2009\u03bcmol/l chlorogenic acid",
+      "200\u2009\u03bcmol/l chlorogenic acid",
+      "chlorogenic acid",
+      "the effects",
+      "\u03bcmol/l chlorogenic acid"
+    ]
+  }
+}

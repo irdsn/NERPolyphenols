@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Luteolin Potentially Alleviates Methamphetamine Withdrawal-Induced Negative Emotions and Cognitive Deficits Through the AKT/FOXO1/HO-1 Signaling Pathway in the Prefrontal Cortex and Caudate Putamen.",
+  "abstract": "Methamphetamine (METH) misuse-induced affective and cognitive dysfunctions cause severe global health and economic burdens. However, the mechanisms underlying METH withdrawal-induced negative emotions and cognitive deficits, as well as the treatment strategies for them, remain elusive. Previous findings suggest that METH use triggers neuroinflammation and neuronal apoptosis, and protein kinase B (AKT), forkhead box protein 1 (FOXO1), and heme-oxygenase-1 (HO-1) are implicated in these processes. In the present study, we aimed to reveal the role and potential mechanisms of luteolin, a flavonoid phytochemical with anti-inflammatory and antioxidative properties, in METH withdrawal-induced negative emotions and cognitive deficits. We found that prolonged METH withdrawal led to an increase in neuronal activity and a decrease in the protein expression of phosphorylated AKT (p-AKT) and HO-1 in the prefrontal cortex (PFC) and caudate putamen (CPu). Luteolin pretreatment partially mitigated these METH withdrawal-induced negative emotions and cognitive deficits, and prevented the abnormal activation of PFC and CPu as well as the downregulation of AKT/HO-1 expression. Notably, we further observed that luteolin inhibited the METH-induced nuclear translocation of FOXO1. Our findings suggest that luteolin may alleviate METH withdrawal-induced affective and cognitive dysfunctions by reducing oxidative injury in the brain through the AKT/FOXO1/HO-1 pathway, highlighting its potential for treating drug addiction-related health issues.",
+  "publication_date": "2025-06-15",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26125739",
+  "entities": {
+    "POLYPHENOL": [
+      "a decrease",
+      "a flavonoid",
+      "luteolin",
+      "luteolin pretreatment",
+      "meth withdrawal-induced affective and cognitive dysfunctions",
+      "meth) misuse-induced affective and cognitive dysfunctions",
+      "potential mechanisms",
+      "severe global health and economic burdens",
+      "the mechanisms"
+    ],
+    "SYMPTOM": [
+      "neuronal apoptosis",
+      "triggers neuroinflammation"
+    ]
+  }
+}

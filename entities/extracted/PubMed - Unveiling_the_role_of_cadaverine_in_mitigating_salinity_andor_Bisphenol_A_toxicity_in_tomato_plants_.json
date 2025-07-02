@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Unveiling the role of cadaverine in mitigating salinity and/or Bisphenol A toxicity in tomato plants and reduced Bisphenol A accumulation in tomato roots.",
+  "abstract": "Mitigating the co-existence of environmental stresses on crop plants necessitates the development of integrated, eco-friendly, and sustainable approaches to alleviate plant stress responses. This study represents the first attempt to mitigate the toxic impact of prevalent pollutant (salinity) and an emergent plastic manufacturing pollutants (bisphenol A, BPA) using the polyamine (cadaverine).Tomato plants, treated with or without cadaverine, were subjected to NaCl salinity (120\u00a0mM), BPA (375\u00a0mg\u00a0kg-1soil), and their combinations compared to non-stressed control plants examining morphological, physiological, metabolic, and molecular responses. After 10 days of transplanting, tomato plants under combined stress were unable to survive without cadaverine application. However, cadaverine spraying mitigated the damaging effects of both single and combined stresses under short- and long-term exposure, enabling stressed plants to endure the conditions and complete their life cycles. Cadaverine efficiently restrained the reduction in chlorophylls, carotenoids, and cytosolutes under applied stresses compared to the stressed plants. Cadaverine also increased \u03b1-tocopherol content (by 171 and 53\u00a0%) and enhanced the activity of polyphenol oxidase (by 26 and 32\u00a0%), glutathione s-transferases (by 18 and 39\u00a0%), superoxide dismutase (by 23 and 46\u00a0%), and phenylalanine ammonia-lyase (by 9 and 25\u00a0%), under BPA and salinity stress, respectively. Thus, cadaverine ameliorated the oxidative and nitrosative burst induced by BPA or salinity, respectively by declining hydroxyl radical (by 28\u00a0% and 20\u00a0%), superoxide anion (by 73\u00a0% and 74\u00a0%), nitric oxide (by 60 and 65\u00a0%), lipid peroxidation (by 35\u00a0% and 54\u00a0%), and lipoxygenase activity (by 74 and 68\u00a0%). Moreover, cadaverine enhanced the expression of defence-related genes, including polyphenol oxidase, tubulin, and thaumatin-like protein, and reduced the uptake of BPA in the tomato's roots while promoting its metabolism in leaves and fruits. This ensured the safety of the harvested fruits. By mitigating stress, improving plant resilience, and limiting pollutant accumulation, cadaverine presents significant potential for sustainable agricultural practices and food safety. These findings offer valuable insights into the role of cadaverine in managing abiotic stress and safeguarding crop health in environmentally challenging conditions.",
+  "publication_date": "2025-04-02",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.109799",
+  "entities": {
+    "SYMPTOM": [
+      "abiotic stress",
+      "applied stresses",
+      "both single and combined stresses",
+      "bpa and salinity stress",
+      "combined stress",
+      "environmental stresses",
+      "non-stressed control plants",
+      "plant stress responses",
+      "stress",
+      "stressed plants",
+      "the stressed plants"
+    ],
+    "POLYPHENOL": [
+      "integrated, eco-friendly, and sustainable approaches",
+      "polyphenol oxidase",
+      "the damaging effects"
+    ],
+    "FOOD": [
+      "(cadaverine).tomato plants",
+      "the tomato's roots",
+      "tomato plants"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Natural Bioproducts with Epigenetic Properties for Treating Cardiovascular Disorders.",
+  "abstract": "Cardiovascular disorders (CVDs) are the leading cause of mortality worldwide, highlighting an urgent need for innovative therapeutic strategies. Recent advancements highlight the potential of naturally derived bioproducts with epigenetic properties to offer protection against CVDs. These compounds act on key epigenetic mechanisms, DNA methylation, histone modifications, and non-coding RNA regulation to modulate gene expression essential for cardiovascular health. This review explores the effects of various bioproducts, such as polyphenols, flavonoids, and other natural extracts, on these epigenetic modifications and their potential benefits in preventing and managing CVDs. We discuss recent discoveries and clinical applications, providing insights into the epigenetic regulatory mechanisms of these compounds as potential epidrugs, naturally derived agents with promising therapeutic prospects in epigenetic therapy for CVDs.",
+  "publication_date": "2025-05-10",
+  "journal": "Genes",
+  "doi": "10.3390/genes16050566",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "key epigenetic mechanisms",
+      "polyphenols",
+      "protection",
+      "recent advancements",
+      "recent discoveries",
+      "the effects",
+      "the epigenetic regulatory mechanisms",
+      "therapeutic prospects"
+    ]
+  }
+}

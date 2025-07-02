@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Effects of Wind Exposure and Deficit Irrigation on Vegetative Growth, Yield Components and Berry Composition of Malbec and Cabernet Sauvignon.",
+  "abstract": "The impact of global warming on Argentine viticulture may result in a geographical shift, with wine-growing regions potentially moving towards the southwest, known as one of the windiest regions in the world. Deficit irrigation is a widely used strategy to control the shoot growth and improve fruit quality attributes, such as berry skin polyphenols. The present study aimed to assess the effects of different wind intensities and irrigation levels, as well as their interactions, on field-grownVitis viniferaL. cvs. Malbec and Cabernet Sauvignon. The experiment was conducted during two growing seasons with two wind treatments (sheltered and exposed) and two irrigation treatments (well-watered and moderate deficit irrigation) in a multifactorial design. Vegetative growth, stomatal conductance, shoot biomass partition, fruit yield components and berry skin phenolics were evaluated. Our study found that, generally, wind exposure reduced vegetative growth, and deficit irrigation increased the proportion of smaller berries within the bunches. Meanwhile, deficit irrigation and wind exposure additively increased the concentration of berry skin phenolics. Combined stressful conditions enhance biomass partition across the shoot to fruits in Malbec, increasing the weight of bunches and the number of berries. Our findings offer practical implications for vineyard managers in windy regions, providing actionable insights to optimize grapevine cultivation and enhance wine quality.",
+  "publication_date": "2024-05-08",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants13101292",
+  "entities": {
+    "FOOD": [
+      "grapevine cultivation",
+      "wine quality",
+      "wine-growing regions"
+    ],
+    "POLYPHENOL": [
+      "malbec",
+      "skin polyphenols",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "combined stressful conditions"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Tea polyphenol EGCG enhances the improvements of calorie restriction on hepatic steatosis and obesity while reducing its adverse outcomes in obese rats.",
+  "abstract": "Currently, calorie restriction (CR) is popular among young people as a way to lose weight and prevent obesity. However, CR can also cause a series of side effects, such as weight regain after resuming free eating. Tea polyphenol epigallocatechin-3-gallate (EGCG) has been widely recognized as antiobesity effects. However, whether EGCG can enhance the antiobesity effect of CR and reduce its adverse outcomes is still unclear.",
+  "publication_date": "2025-04-09",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156744",
+  "entities": {
+    "SYMPTOM": [
+      "weight and prevent obesity"
+    ],
+    "POLYPHENOL": [
+      "antiobesity effects",
+      "egcg",
+      "epigallocatechin-3",
+      "side effects",
+      "the antiobesity effect"
+    ]
+  }
+}

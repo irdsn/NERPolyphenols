@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "In vitroantioxidant, anticholinesterase, and antiproliferative activities of methanol extracts ofCrateva religiosabark.",
+  "abstract": "Background:C. religiosahas traditionally been applied to treat heart disease, chronic weight loss, improved digestion, memory loss, convulsion and epilepsy, psychological problems, and neurologic pains.Purpose:Prior studies have already elucidated the potential therapeutic effects of C. religiosa. However, in this work, the bark extract ofC. religiosawas studied systematically to investigate its antioxidant, anticholinesterase, and antiproliferative activities, focusing on potential applications in treating Alzheimer's disease (AD) and cancer.Study Design and Methods:The dried coarse powder ofC. religiosabark was cold-extracted in methanol and evaporated to dryness. It was then successively fractionated into petroleum ether (PEF), dichloromethane (DMF), and ethyl acetate (EEF) fractions. The Folin-Ciocalteu reagent and AlCl3approaches were utilized to evaluate the total phenol and flavonoid contents, respectively, and the DPPH (2,2-diphenyl-1-picrylhydrazyl) and phosphomolybdenum assays were employed to determine the antioxidant activity of each fraction. The DMF was tested against acetylcholinesterase (AChE) and butyrylcholinesterase (BChE) by employing the Ellman method, while all fractions were tested for antiproliferative activity against HepG2 and A549 cell lines by MTT assay.Results:The DMF displayed the highest phenolic content (124.8 \u00b1 17.5 mg gallic acid equivalent/g of dry extract) and flavonoid content (211.1 \u00b1 4.8 mg quercetin equivalent/g of dry extract). In the phosphomolybdenum assay, its antioxidant IC50 value was 25 \u00b1 1 \u00b5g/mL. Additionally, the DMF fraction exhibited significant inhibition activity against AChE and BChE, with IC50 values of 455 \u00b1 1 and 450 \u00b1 1 \u03bcg/mL, respectively. In terms of anti-proliferative activity, the DMF exhibited an IC50 value of 29.2 \u00b5M against the HepG2 cell line, while the EAF showed IC50 values of 24.7 \u00b5M in the A549 cell line.Conclusion:The potent activity ofC. religiosaas an antioxidant, along with its significant inhibition of AChE and BChE, positions it as a promising candidate for Alzheimer's disease treatment. Furthermore, its robust inhibition of human liver and lung cancer cells suggests its potential as a therapeutic agent against cancer.",
+  "publication_date": "2025-04-28",
+  "journal": "Journal of Cancer",
+  "doi": "10.7150/jca.94492",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "alzheimer's disease treatment",
+      "cancer",
+      "human liver and lung cancer cells",
+      "neurologic pains"
+    ],
+    "POLYPHENOL": [
+      "124.8 \u00b1 17.5 mg gallic acid",
+      "211.1 \u00b1 4.8 mg quercetin equivalent",
+      "the potential therapeutic effects",
+      "the total phenol and flavonoid contents"
+    ]
+  }
+}

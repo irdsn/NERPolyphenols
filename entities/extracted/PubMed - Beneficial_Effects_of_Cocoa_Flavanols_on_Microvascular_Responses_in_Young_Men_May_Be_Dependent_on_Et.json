@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Beneficial Effects of Cocoa Flavanols on Microvascular Responses in Young Men May Be Dependent on Ethnicity and Lifestyle.",
+  "abstract": "Cocoa flavan-3-ols affect endothelium-dependent responses in resistance vessels and microcirculation has received little attention. We tested the effects of dark chocolate consumption (396 mg total flavanols/day for 3 days) in two Groups of 10 men (18-25 years; non-smokers) each comprising equal numbers of White European (WE) and South Asian (SA) ethnicity. In Group 1, dark chocolate did not affect reactive hyperaemia in forearm muscle, but augmented muscle dilatation evoked by acute mental stress, and reactive hyperaemia and acetylcholine (ACh)-evoked dilatation in cutaneous microcirculation. Conversely, in Group 2, chocolate did not affect cutaneous reactive hyperaemia or ACh-evoked dilatation, but these responses were blunted in Group 1 relative to Group 2. Further, when Groups 1 and 2 were combined, responses were blunted in SAs relative to WEs, augmented by chocolate in SAs only. In Group 2 individuals whose ACh-evoked dilatation was attenuated by nitric oxide synthase (NOS) inhibition, ACh-evoked dilatation was not altered after chocolate, but the attenuating effect of NOS inhibition was lost. Conversely, in Group 2 individuals whose ACh-evoked dilatation wasenhancedby NOS inhibition, ACh-evoked dilatation was also augmented by chocolate. We propose that in resistance and microvessels of young men, cocoa flavan-3-ols preferentially augment endothelium-dependent dilator responses whose responses are depressed by familial and lifestyle factors more prevalent in SAs than Wes. Flavan-3-ols may facilitate the NOS pathway but also influence other endothelium-dependent dilators.",
+  "publication_date": "2024-08-31",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16172911",
+  "entities": {
+    "FOOD": [
+      "chocolate",
+      "cocoa",
+      "dark chocolate",
+      "dark chocolate consumption"
+    ],
+    "POLYPHENOL": [
+      "the attenuating effect",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "acute mental stress"
+    ]
+  }
+}

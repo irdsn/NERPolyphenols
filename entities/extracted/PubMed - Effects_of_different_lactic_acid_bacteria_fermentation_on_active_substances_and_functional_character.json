@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Effects of different lactic acid bacteria fermentation on active substances and functional characteristics of honeysuckle liquid: analysis of metabolites of honeysuckle liquid based on metabolomics.",
+  "abstract": "In order to study the effects of lactic acid bacteria on the active substances and functions of honeysuckle, metabolomics was used to analyze the differential metabolites of honeysuckle fermented by lactic acid bacteria. The results showed thatLactobacillus acidophilusincreased the contents of total phenols, flavonoids and chlorogenic acid by 26.48, 22.59, and 33.57%, respectively, compared with Control Group (CK). The antioxidant capacity and\u03b1-glucosidase activity of fermented honeysuckle liquid (FLJT) were the strongest, and the scavenging activity and reducing ability of DPPH radical, hydroxyl radical and superoxide anion radical increased by 33.96, 25.60, 58.21 and 39.29%, respectively, compared with unfermented honeysuckle liquid without lactic acid bacteria (LJT). The 991 metabolites with significant differences were screened and enriched into 79 metabolic pathways. The contents of 4-hydroxybenzoic acid, 3, 4-dihydroxyhydrocinnamic acid, chlorogenic acid and 4-hydroxycinnamic acid, which have antioxidant and hypoglycemic activities, and flavonoids in FLJT were increased compared with those in LJT.Lactobacillus acidophilusfermentation could promote the synthesis and accumulation of secondary metabolites in honeysuckle liquid. This study provides a theoretical basis for the development of honeysuckle functional products.",
+  "publication_date": "2025-05-26",
+  "journal": "Frontiers in microbiology",
+  "doi": "10.3389/fmicb.2025.1595351",
+  "entities": {
+    "POLYPHENOL": [
+      "-dihydroxyhydrocinnamic acid",
+      "4-hydroxycinnamic acid",
+      "chlorogenic acid",
+      "flavonoids",
+      "secondary metabolites",
+      "the effects"
+    ]
+  }
+}

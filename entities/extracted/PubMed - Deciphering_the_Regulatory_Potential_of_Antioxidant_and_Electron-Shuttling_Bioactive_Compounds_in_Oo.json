@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Deciphering the Regulatory Potential of Antioxidant and Electron-Shuttling Bioactive Compounds in Oolong Tea.",
+  "abstract": "OT has gained attention for its high polyphenol content and therapeutic potential. To elucidate this further, this study investigated the electron-shuttling bioactive compounds of OT and evaluated their effect on dysregulated breast cancer (BC) genes. OT extracts were obtained via solvent extraction (SE) and supercritical fluid extraction (SFE), followed by in vitro assays. Phytochemical analysis revealed that ethanol-extracted OT (OTL-E) had the highest polyphenol, flavonoid, and tannin contents, correlating with strong antioxidant activity, while water-extracted OT (OTL-W) exhibited greater bioelectricity-stimulating properties in microbial fuel cells (MFC), confirmed by cyclic voltammetry (CV). Based on phytochemical analyses, SE displayed a better extraction technique for isolating OT bioactive compounds compared to SFE. In silico approaches through network pharmacology, molecular docking and dynamics simulations revealed that polyphenols withortho- orpara-dihydroxyl groups targeted dysregulated BC proteins involved in kinase signaling, apoptosis, and hormone receptor pathways. Luteolin exhibited the highest binding affinities to MAPK1 and PIK3CA with free energy (\u0394G) of -9.1 and -8.4 kcal/mol, respectively. Trajectory-based analyses confirmed enthalpy-favored ligand-induced conformational changes to these oncoproteins, altering their function in BC development. These findings suggest the potential of OT as a bioelectricity-stimulating and chemopreventive agent, warranting further in vitro and in vivo validation.",
+  "publication_date": "2025-04-28",
+  "journal": "Biology",
+  "doi": "10.3390/biology14050487",
+  "entities": {
+    "POLYPHENOL": [
+      "a better extraction technique",
+      "a bioelectricity-stimulating and chemopreventive agent",
+      "greater bioelectricity-stimulating properties",
+      "hormone receptor pathways",
+      "its high polyphenol content",
+      "luteolin",
+      "molecular docking",
+      "polyphenols",
+      "tannin contents",
+      "the electron-shuttling bioactive compounds",
+      "the highest polyphenol",
+      "their effect",
+      "trajectory-based analyses"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "dysregulated breast cancer (bc) genes"
+    ]
+  }
+}

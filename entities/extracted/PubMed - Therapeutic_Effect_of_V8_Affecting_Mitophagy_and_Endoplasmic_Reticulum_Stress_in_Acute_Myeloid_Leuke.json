@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Therapeutic Effect of V8 Affecting Mitophagy and Endoplasmic Reticulum Stress in Acute Myeloid Leukemia Mediated by ROS and CHOP Signaling.",
+  "abstract": "Acute myeloid leukemia (AML) is characterized by the malignant proliferation of abnormally or poorly differentiated myeloid cells in the hematopoietic system. However, there is a lack of effective drugs for treating non-M3 AML. V8, a newly synthesized derivative of the natural flavonoid wogonin, which is a potential anticancer drug, has demonstrated significant antitumor activity both in\u00a0vitro and in\u00a0vivo. Here, we investigated the effects of V8 on AML cell lines and primary AML cells as well as its underlying mechanisms. Our results showed that V8 exerted significant concentration-dependent growth inhibition and apoptosis induction in AML cells, accompanied by characteristic pathological features including lysosomal functions suppression, mitochondrial dysfunction, and endoplasmic reticulum stress (ERS) activation. Mechanistic investigations revealed that V8 induced mitochondrial membrane potential collapse through elevation of intracellular reactive oxygen species (ROS) levels, while concurrently blocking mitophagy via lysosomal functional inhibition. Furthermore, V8 selectively activated the PERK/p-eIF2\u03b1/ATF4 and IRE1\u03b1/XBP1 signaling axes of ERS, ultimately triggering CHOP-mediated apoptosis through the ERS-specific pathway. In\u00a0vivo studies confirmed that V8 treatment significantly prolonged survival duration in NOD/SCID mice bearing primary AML xenografts and suppressed tumor progression in BALB/c nude mice with U937 cell xenografts, with antitumor efficacy closely associated with CHOP-dependent ERS pathway modulation. These findings not only elucidate the multi-targeted mechanism of V8 against AML through coordinated regulation of the ROS-mitochondria-lysosome-ERS signaling network, but also provide critical theoretical foundations for developing natural product-based therapeutics for AML. The multi-pathway synergistic characteristics exhibited by V8 underscore its considerable potential as a clinically translatable candidate drug.",
+  "publication_date": "2025-05-01",
+  "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+  "doi": "10.1096/fj.202500599R",
+  "entities": {
+    "SYMPTOM": [
+      "a potential anticancer drug",
+      "acute myeloid leukemia",
+      "apoptosis induction",
+      "chop-mediated apoptosis",
+      "endoplasmic reticulum stress (ers) activation",
+      "mitochondrial dysfunction",
+      "tumor progression"
+    ],
+    "POLYPHENOL": [
+      "effective drugs",
+      "intracellular reactive oxygen species (ros) levels",
+      "its underlying mechanisms",
+      "mechanistic investigations",
+      "the effects",
+      "the ers-specific pathway",
+      "the multi-targeted mechanism",
+      "the natural flavonoid wogonin"
+    ]
+  }
+}

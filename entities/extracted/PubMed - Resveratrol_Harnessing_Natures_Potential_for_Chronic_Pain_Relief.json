@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Resveratrol: Harnessing Nature's Potential for Chronic Pain Relief.",
+  "abstract": "Resveratrol, a natural polyphenol with anti-inflammatory, antioxidant, and neuroprotective properties, shows great potential in managing chronic pain. This review explores its analgesic mechanisms, including the inhibition of neuroinflammation, enhancement of antioxidant activity, induction of autophagy, reduction of endoplasmic reticulum stress, modulation of the serotonin system, restoration of gut microbiota homeostasis, regulation of the neuroendocrine system, and promotion of mitochondrial biogenesis. While its analgesic potential is considerable, future research should prioritize enhancing its bioavailability, investigating drug interactions, and confirming long-term safety to develop more effective therapies for chronic pain.",
+  "publication_date": "2025-06-23",
+  "journal": "Aging and disease",
+  "doi": "10.14336/AD.2025.0530",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural polyphenol",
+      "its analgesic mechanisms",
+      "more effective therapies",
+      "resveratrol"
+    ],
+    "SYMPTOM": [
+      "chronic pain",
+      "endoplasmic reticulum stress",
+      "managing chronic pain",
+      "neuroinflammation"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Amylose-graft-GA @curcumin reinforced polyvinyl alcohol composite: A promising natural biomacromolecule-based material for wound healing applications.",
+  "abstract": "Effective wound care depends on the development of advanced dressing materials, which remain a top priority in healthcare. In this study, amylose-graft-Gallic acid @curcumin reinforced polyvinyl alcohol (PVA/CUR@Am-g-GA) composite films were prepared and evaluated for their potential as new wound dressing materials. These films were fabricated by physically encapsulating CUR in V-Type amylose which was extracted from potato starch and then functionalized with GA, into the Polyvinyl Alcohol matrix. The resulting composite films were characterized using various analytical techniques such as FTIR, SEM and UV-vis. The mechanical properties were found to be appropriate for use as wound dressings. They also demonstrated suitable antioxidant activity. GA showed a higher release rate compared to CUR. In-vivo studies clearly revealed that the CUR@Am-g-GA enhanced the wound healing process. Overall, the PVA/CUR@Am-g-GA films exhibit superior wound healing efficacy compared to conventional dressings, achieving 70-80\u00a0% pH-responsive drug release (vs. 35-40\u00a0% at neutral pH) and synergistic antioxidant effects due to simultaneous application of CUR and GA. This system uniquely combines amylose's protective encapsulation with PVA's mechanical stability, offering a high-performance alternative to synthetic antibiotic-loaded dressings.",
+  "publication_date": "2025-06-17",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145311",
+  "entities": {
+    "POLYPHENOL": [
+      "amylose's protective encapsulation",
+      "amylose-graft-gallic acid @curcumin",
+      "effective wound care",
+      "pva's mechanical stability",
+      "synergistic antioxidant effects",
+      "the mechanical properties",
+      "various analytical techniques"
+    ]
+  }
+}

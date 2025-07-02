@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Exploring the Role of Algae in Promoting Oral Health: Antimicrobial, Anti-inflammatory, and Tissue Healing Benefits.",
+  "abstract": "Algae a large and very diverse group of photosynthesizing organisms are also being increasingly hailed for their health benefits including their use in the preservation of human oral health. The major classes of molecules found in algae including polysaccharides, lipids, proteins, and secondary metabolites, exhibit a wide range of commercial applications including antimicrobial, anti-inflammatory, and tissue healing activities. This review proposed to analyze the scientific data on the use of algae for oral care focusing on diseases include dental caries, periodontal disease, and oral infection. Moreover, the application of algae-based products in oral care formulations is described together with the problems and prospects of this topic.",
+  "publication_date": "2025-02-15",
+  "journal": "Journal of pharmacy & bioallied sciences",
+  "doi": "10.4103/jpbs.jpbs_1761_24",
+  "entities": {
+    "POLYPHENOL": [
+      "molecules",
+      "oral infection",
+      "prospects",
+      "secondary metabolites"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Effect of Cocoa and Cocoa Products on Cognitive Performance in Young Adults.",
+  "abstract": "Increasing evidence support a beneficial role of cocoa and cocoa products on human cognition, particularly in aging populations and patients at risk. However, thorough reviews on the efficacy of cocoa on brain processes in young adults do not exist precisely due to the limited number of studies in the matter. Thus, the aim of this study was to summarize the findings on the acute and chronic effects of cocoa administration on cognitive functions and brain health in young adults. Web of Science and PubMed databases were used to search for relevant trials. Human randomized controlled studies were selected according to PRISMA guidelines. Eleven intervention studies that involved a total of 366 participants investigating the role of cocoa on cognitive performance in children and young adults (average age \u2264 25 years old) were finally selected. Findings from individual studies confirm that acute and chronic cocoa intake have a positive effect on several cognitive outcomes. After acute consumption, these beneficial effects seem to be accompanied with an increase in cerebral blood flow or cerebral blood oxygenation. After chronic intake of cocoa flavanols in young adults, a better cognitive performance was found together with increased levels of neurotrophins. This systematic review further supports the beneficial effect of cocoa flavanols on cognitive function and neuroplasticity and indicates that such benefits are possible in early adulthood.",
+  "publication_date": "2020-11-30",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu12123691",
+  "entities": {
+    "FOOD": [
+      "cocoa",
+      "cocoa administration",
+      "cocoa and cocoa products",
+      "cocoa flavanols",
+      "that acute and chronic cocoa intake"
+    ],
+    "SYMPTOM": [
+      "aging populations"
+    ],
+    "POLYPHENOL": [
+      "a positive effect",
+      "the acute and chronic effects",
+      "the beneficial effect",
+      "these beneficial effects"
+    ]
+  }
+}

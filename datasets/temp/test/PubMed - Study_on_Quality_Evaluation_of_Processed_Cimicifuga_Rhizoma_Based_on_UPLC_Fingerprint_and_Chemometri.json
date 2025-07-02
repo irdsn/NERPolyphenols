@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Study on Quality Evaluation of Processed Cimicifuga Rhizoma Based on UPLC Fingerprint and Chemometrics.",
+  "abstract": "Cimicifuga Rhizoma, a traditional Chinese medicinal herb for treating toothache, aphtha, and measles, is also used as a dietary supplement for menopausal and osteoporosis management. Its therapeutic variability hinges on diverse processing methods, yet systematic quality assessment remains elusive. Here, nine processed Cimicifuga products were prepared following pharmacopoeia and classical protocols. Ultra-high performance liquid chromatography (UPLC) fingerprints integrated with multivariate chemometrics-hierarchical clustered heatmap (HCH), principal component analysis (PCA), and orthogonal partial least squares-discriminant analysis (OPLS-DA) revealed three distinct clusters. Variable importance projection (VIP > 1) identified caffeic acid, ferulic acid, and isoferulic acid as key markers. Quantitative analysis demonstrated that heating temperature and duration critically influenced these phenolic acids: steaming significantly increased all three, with caffeic acid, ferulic acid, and isoferulic acid contents rising by 1.71-, 1.27-, and 1.02-fold, respectively, whereas carbonization selectively elevated isoferulic acid by 3.03-fold. This chemometric-driven approach establishes a simplified yet robust framework for quality evaluation, linking processing parameters (e.g., thermal conditions) to chemical profiles. By bridging traditional processing knowledge with modern analytical rigor, the study provided actionable insights for standardizing Cimicifuga Rhizoma derivatives in clinical and industrial contexts.",
+  "publication_date": "2025-06-01",
+  "journal": "Biomedical chromatography : BMC",
+  "doi": "10.1002/bmc.70141"
+}

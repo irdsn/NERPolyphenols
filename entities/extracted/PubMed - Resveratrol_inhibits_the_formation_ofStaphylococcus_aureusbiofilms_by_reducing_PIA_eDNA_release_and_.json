@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Resveratrol inhibits the formation ofStaphylococcus aureusbiofilms by reducing PIA, eDNA release, and ROS production.",
+  "abstract": "Staphylococcus aureusis a zoonotic pathogen that is difficult to control. Resveratrol (RES) has been shown to have significant antibacterial effects. The present study aimed to investigate the inhibitory effect of RES on the formation ofStaphylococcus aureusbiofilms and their molecular mechanism.",
+  "publication_date": "2025-04-30",
+  "journal": "Frontiers in veterinary science",
+  "doi": "10.3389/fvets.2025.1594239",
+  "entities": {
+    "POLYPHENOL": [
+      "resveratrol",
+      "significant antibacterial effects",
+      "the inhibitory effect",
+      "their molecular mechanism"
+    ]
+  }
+}

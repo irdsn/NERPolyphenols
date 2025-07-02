@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "The therapeutic mechanisms of quercetin on inflammatory diseases: an update.",
+  "abstract": "Bioactive compounds derived from medicinal plants have become a significant source of drugs for inflammatory diseases treatment, particularly those caused by immune system abnormalities. Quercetin, a flavonol found in a wide variety of herbs, fruits, and vegetables, has garnered attention for its diverse biological properties, including anti-inflammatory, anticancer, and antiviral activities. Numerous in vivo and ex vivo studies have validated quercetin's role in treating inflammatory diseases through multiple pathways, mainly involving anti-oxidative stress, modulation of metabolism, intestinal flora, apoptosis, endoplasmic reticulum stress, and macrophage polarization, indicating it a promising pharmaceutical candidate for managing inflammatory and autoimmune conditions. We aimed to systematically review quercetin's anti-inflammatory activity and the mechanisms of action across various inflammatory diseases in the digestive, respiratory, endocrine, neurological, and osteoarticular systems. By summarizing the therapeutic potential of quercetin in these multifaceted conditions, this review seeks to provide a solid foundation for future clinical research and application strategies involving quercetin.",
+  "publication_date": "2025-05-31",
+  "journal": "Inflammopharmacology",
+  "doi": "10.1007/s10787-025-01795-x",
+  "entities": {
+    "POLYPHENOL": [
+      "quercetin",
+      "quercetin's anti-inflammatory activity",
+      "quercetin's role",
+      "the mechanisms"
+    ],
+    "SYMPTOM": [
+      "anti-oxidative stress",
+      "anticancer",
+      "apoptosis",
+      "endoplasmic reticulum stress"
+    ]
+  }
+}

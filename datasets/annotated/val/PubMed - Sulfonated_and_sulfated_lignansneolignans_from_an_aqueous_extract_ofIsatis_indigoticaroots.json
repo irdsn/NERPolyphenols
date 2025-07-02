@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Sulfonated and sulfated lignans/neolignans from an aqueous extract ofIsatis indigoticaroots.",
+  "abstract": "Five sulfonated and sulfated lignans/neolignans (1-5), together with a neolignan analogue (6), were isolated from an aqueous extract of theIsatis indigoticaroots (ban lan gen). Their structures were determined by spectral data analysis in combination with electronic circular dichroism (ECD) and NMR calculations. Among the isolates,1and2are sulfonated 7,9'-epoxylignans, while3-5are either sulfated or sulfonated 4',7-epoxy-8,3'-neolignans. In the preliminary bioassay,2and3exhibited moderate inhibitory activities against TGF-\u03b2induced HSC-T6 cell activation.",
+  "publication_date": "2025-04-11",
+  "journal": "Journal of Asian natural products research",
+  "doi": "10.1080/10286020.2025.2483810",
+  "entities": {
+    "POLYPHENOL": [
+      "ecd",
+      "electronic circular dichroism",
+      "spectral data analysis"
+    ]
+  }
+}

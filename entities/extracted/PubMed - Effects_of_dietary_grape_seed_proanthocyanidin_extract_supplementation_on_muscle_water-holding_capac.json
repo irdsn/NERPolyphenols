@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Effects of dietary grape seed proanthocyanidin extract supplementation on muscle water-holding capacity of finishing pigs.",
+  "abstract": "Water-holding capacity (WHC) is essential for both pork quality and industrial economics. Preliminary studies have shown that grape seed proanthocyanidin extract (GSPE) helps reduce drip loss in the longissimus thoracis (LT) muscle of finishing pigs. However, the mechanism by which GSPE affects the WHC of pork remains unclear. This study investigated the improvement in WHC of pork following dietary supplementation with GSPE. The research findings showed that adding GSPE to the diet significantly reduced drip loss, increased the proportion of bound water in the muscle, and improved muscle fiber rupture and separation. GSPE also significantly increased muscle pH value, reduced glycolytic potential, enhanced the expression of calpain-1 and integrin \u03b21, and altered muscle fiber characteristics. In summary, the impact of GSPE on the WHC of LT muscle may be closely linked to the expression of cytoskeletal proteins, calpains, muscle fiber characteristics, and enzymes involved in the glycolysis pathway.",
+  "publication_date": "2025-05-21",
+  "journal": "Meat science",
+  "doi": "10.1016/j.meatsci.2025.109865",
+  "entities": {
+    "POLYPHENOL": [
+      "industrial economics",
+      "proanthocyanidin extract",
+      "the mechanism"
+    ],
+    "FOOD": [
+      "that grape seed"
+    ],
+    "SYMPTOM": [
+      "calpains"
+    ]
+  }
+}

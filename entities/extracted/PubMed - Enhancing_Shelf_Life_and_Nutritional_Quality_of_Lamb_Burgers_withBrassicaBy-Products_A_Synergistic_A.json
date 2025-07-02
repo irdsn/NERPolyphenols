@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Enhancing Shelf Life and Nutritional Quality of Lamb Burgers withBrassicaBy-Products: A Synergistic Approach Using High Hydrostatic Pressure.",
+  "abstract": "This study examines the effects of incorporating broccoli and cauliflower by-products (leaves, stems and inflorescences) like puree ingredients and applying high hydrostatic pressure (HHP) treatment on the quality, safety, and shelf life of lamb burgers. Broccoli and cauliflower by-products were valorized like rich bioactive ingredients, especially in phenol compounds. The valorized ingredients were added to lamb burgers (5%w/w), and 120 burgers were produced for the experiment: three formulations (lamb, lamb with broccoli, and lamb with cauliflower) \u00d7 four pressure treatments (untreated, 400 MPa, 500 MPa, 600 MPa) \u00d7 five replicates per formulation and pressure treatment \u00d7 two storage times (day 1 and day 14). The interactions between composition and pressure were also investigated. The results indicated that whileBrassicaby-products contributed to slight changes in moisture content and fatty acid composition, they did not independently provide strong antimicrobial effects, likely due to their high moisture content and minimal impact on pH reduction. However, combining these ingredients with HHP treatment (600 MPa for 60 s) significantly improved microbial stability. HHP treatment effectively reduced microbial counts, which were maintained during refrigerated storage, supporting its role as a valuable non-thermal intervention for enhancing meat safety. In terms of oxidative stability, the inclusion ofBrassicaingredients, particularly with HHP, reduced lipid (TBA-RS \u2264 1.47 MDA mg kg-1) and protein oxidation (\u22645.05 Nmol mg-1proteins) over time, thereby enhancing product stability during storage. Sensory evaluation and affective testing revealed no significant differences in appearance, odor, taste, texture, or overall acceptability between treated and untreated samples, with high acceptance scores. This suggests that HHP treatment, in combination withBrassicaby-products, can improve safety and oxidative stability without compromising the sensory quality of meat products. Overall, this study presents a sustainable and effective approach for producing high-quality and safe meat products with extended shelf life.",
+  "publication_date": "2025-02-11",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14040594",
+  "entities": {
+    "POLYPHENOL": [
+      "a sustainable and effective approach",
+      "sensory evaluation and affective testing",
+      "strong antimicrobial effects",
+      "the effects"
+    ],
+    "FOOD": [
+      "appearance",
+      "broccoli",
+      "cauliflower"
+    ]
+  }
+}

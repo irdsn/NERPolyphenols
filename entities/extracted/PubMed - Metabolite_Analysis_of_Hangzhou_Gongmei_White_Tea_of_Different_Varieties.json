@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Metabolite Analysis of Hangzhou Gongmei White Tea of Different Varieties.",
+  "abstract": "To comprehensively understand the quality characteristics and key characteristic metabolites of Hangzhou Gongmei white tea (HGW), an integrated approach involving sensory evaluation, chemical composition analysis, gas chromatography-mass spectrometry (GC-MS), and liquid chromatography-mass spectrometry (LC-MS) was employed to analyse the volatile and non-volatile metabolites of tea samples from different varieties. Compared to the Fudingdabai (FD) variety, the Jiukeng (JK) and Longjing (LJ) varieties exhibited more pronounced fruity or floral aromas and stronger taste profiles. The elevated concentrations of water extracts, tea polyphenols, and complex catechins in the tea infusion contributed to its increased astringency. A multivariate analysis revealed that linalool, geraniol, 2-ethylhexanol, hexanal, methyl salicylate, linalool oxide I, (E)-hex-2-en-1-al, \u03b2-myrcene, (Z)-hex-3-en-1-ol, phenylethanol, benzaldehyde, (E)-citral, nonanal, andtrans-\u03b2-ionone were the primary differential volatile metabolites in HGW. The non-volatile metabolomic analyses showed that flavonoids were the main differential metabolites in HGW from different varieties. The abundance levels of the differential non-volatile metabolites were higher in JK and LJ compared to those in FD. This study provides theoretical support for the breeding and quality improvement of Hangzhou white tea, as well as the development of flowery and fruity flavoured white tea products.",
+  "publication_date": "2025-05-04",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14091622",
+  "entities": {
+    "FOOD": [
+      "hangzhou gongmei white tea",
+      "hangzhou white tea",
+      "the tea infusion",
+      "white tea products"
+    ],
+    "POLYPHENOL": [
+      "complex catechins",
+      "flavonoids",
+      "gas chromatography-mass spectrometry",
+      "liquid chromatography-mass spectrometry",
+      "tea polyphenols"
+    ]
+  }
+}

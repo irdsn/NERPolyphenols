@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Influence of Grape Flesh on the Retention and Composition of Polyphenols from Skins and Seeds.",
+  "abstract": "This study examined the impact of grape flesh polysaccharide, protein, and amino acid contents on polyphenol retention from skins and seeds in Pinot noir (Vitis vinifera) and cold-hardy interspecific cultivars Marquette and Frontenac (Vitisspp.). After isolating grape tissues (skin, seed, and flesh), they were soaked either individually or combined with other tissues in a wine-like solution for up to 7 days. Findings revealed that flesh significantly reduces the concentration of condensed tannin, and mono- and diglucoside forms of anthocyanins in the supernatants, due to its rich content in polysaccharides and proteins. Frontenac skin and flesh tissues were the main sources of soluble proteins, amino acids, and soluble polysaccharides. Surprisingly, Marquette exhibited a higher retention of skin tannin than Pinot noir, likely due to its smaller tannin molecular mass, and a potential competitive effect with anthocyanins for the binding sites of flesh.",
+  "publication_date": "2024-04-10",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c00612",
+  "entities": {
+    "FOOD": [
+      "a wine-like solution",
+      "grape flesh polysaccharide",
+      "grape tissues"
+    ],
+    "POLYPHENOL": [
+      "a potential competitive effect",
+      "cold-hardy interspecific cultivars marquette",
+      "condensed tannin",
+      "its smaller tannin",
+      "molecular mass",
+      "polyphenol retention",
+      "skin tannin"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Nutraceutical Interventions for Mitigating Skin Ageing: Analysis of Mechanisms and Efficacy.",
+  "abstract": "Skin ageing is influenced by intrinsic factors such as genetics and hormones, as well as extrinsic factors like environmental exposure, ultraviolet (UV) radiation, and diet. These factors lead to biochemical, biological, and structural changes in the skin. Plant-derived compounds with antioxidant and anti-inflammatory properties have emerged as potential anti-ageing agents. This comprehensive review, spanning data from 1997 to 2024, explores the role of nutraceuticals in skin anti-ageing. The research data were drawn from Google, PubMed, PubMed Central, Scopus, and various journal databases, including ScienceDirect, Springer, and Taylor & Francis. This review specifically examines plant-derived polyphenols, carotenoids, and other bioactive compounds, analysing their mechanisms through signalling pathways and cellular processes, using data from in vitro, in vivo, and clinical studies. Polyphenols like quercetin, curcumin, and epigallocatechin gallate (EGCG) have antioxidant and anti-inflammatory properties, helping to reduce oxidative stress, inflammation, UV-induced collagen degradation, and inflammatory cytokines. Notably, curcumin enhances collagen production and decreases the number of senescent cells. Carotenoids such as \u03b2-carotene, lutein, zeaxanthin, and lycopene protect against UV damage, and lycopene-rich tomato paste was specifically noted for its ability to reduce erythema and DNA damage. Additionally, compounds like resveratrol, fisetin, and wogonin exert protective effects against oxidative stress and inflammation, with resveratrol improving collagen synthesis and reducing the appearance of wrinkles. These plant-derived compounds can effectively combat skin ageing through various mechanisms, including the inhibition of oxidative stress, inflammation, and extracellular matrix degradation. They present a natural and sustainable approach to skincare in accord with the growing trend of conscious consumption. Future research should focus on understanding the long-term effects and determining the optimal dosage for clinical applications, highlighting the potential of integrating plant-based nutraceuticals into skincare regimens.",
+  "publication_date": "2025-03-03",
+  "journal": "Current pharmaceutical design",
+  "doi": "10.2174/0113816128336661250218080928",
+  "entities": {
+    "POLYPHENOL": [
+      "curcumin",
+      "egcg",
+      "fisetin",
+      "plant-derived polyphenols",
+      "polyphenols",
+      "protective effects",
+      "resveratrol",
+      "sciencedirect",
+      "the long-term effects",
+      "their mechanisms",
+      "various mechanisms"
+    ],
+    "SYMPTOM": [
+      "dna damage",
+      "inflammation",
+      "oxidative stress"
+    ],
+    "FOOD": [
+      "the appearance",
+      "the optimal dosage"
+    ]
+  }
+}

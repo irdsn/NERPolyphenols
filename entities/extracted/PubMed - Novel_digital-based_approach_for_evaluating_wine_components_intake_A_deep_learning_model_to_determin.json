@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Novel digital-based approach for evaluating wine components' intake: A deep learning model to determine red wine volume in a glass from single-view images.",
+  "abstract": "Estimation of wine components' intake (polyphenols, alcohol, etc.) through Food Frequency Questionnaires (FFQs) may be particularly inaccurate. This paper reports the development of a deep learning (DL) method to determine red wine volume from single-view images, along with its application in a consumer study developed via a web service. The DL model demonstrated satisfactory performance not only in a daily lifelike images dataset (mean absolute error\u00a0=\u00a010\u00a0mL), but also in a real images dataset that was generated through the consumer study (mean absolute error\u00a0=\u00a026\u00a0mL). Based on the data reported by the participants in the consumer study (n\u00a0=\u00a038), average red wine volume in a glass was 114\u00a0\u00b1\u00a033\u00a0mL, which represents an intake of 137-342\u00a0mg of total polyphenols, 11.2\u00a0g of alcohol, 0.342\u00a0g of sugars, among other components. Therefore, the proposed method constitutes a diet-monitoring tool of substantial utility in the accurate assessment of wine components' intake.",
+  "publication_date": "2024-08-02",
+  "journal": "Heliyon",
+  "doi": "10.1016/j.heliyon.2024.e35689",
+  "entities": {
+    "POLYPHENOL": [
+      "total polyphenols",
+      "wine components' intake (polyphenols"
+    ],
+    "FOOD": [
+      "average red wine volume",
+      "red wine volume",
+      "wine components' intake"
+    ]
+  }
+}

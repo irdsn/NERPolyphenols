@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Genetic variants in tamoxifen metabolism and early treatment discontinuation among premenopausal breast cancer patients.",
+  "abstract": "Premenopausal, estrogen receptor (ER)-positive breast cancer patients should receive tamoxifen for at least 5\u00a0years, but many prematurely discontinue. Activation, transport, and deactivation of tamoxifen and its metabolites are controlled by proteins encoded by genes with functional variations. We examined the impact of genetic polymorphisms in the tamoxifen pathway on early treatment discontinuation.",
+  "publication_date": "2025-05-14",
+  "journal": "Breast cancer research and treatment",
+  "doi": "10.1007/s10549-025-07719-1",
+  "entities": {
+    "POLYPHENOL": [
+      "estrogen receptor (er)-positive breast cancer patients"
+    ]
+  }
+}

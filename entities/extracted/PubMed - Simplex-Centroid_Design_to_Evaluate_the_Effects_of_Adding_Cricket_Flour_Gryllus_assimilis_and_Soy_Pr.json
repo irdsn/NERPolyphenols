@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Simplex-Centroid Design to Evaluate the Effects of Adding Cricket Flour (Gryllus assimilis) and Soy Protein to Beef Burgers.",
+  "abstract": "In 2050, the demand for animal-based proteins will increase by 25%, highlighting the need for novel nutrient sources due to the environmental impacts of conventional livestock. Edible insects like Gryllus assimilis offer a sustainable and high-quality protein alternative. Thus, this research aimed to apply the simplex-centroid mixture design (SCMD) to evaluate the effect of adding cricket flour and soy protein to beef burgers and obtain surface responses regarding texture profile, instrumental color, pH, water activity (aw), lipid oxidation, cooking losses, and proximate composition. The special cubic model provided by SCMD allowed us to observe the effects of interactions of the pseudo components and establish a mathematical model. Adding cricket flour and soy protein to burgers tended to change the texture profile and instrumental color to no red-bright coloration and reduced tenderness, however, C12S0 was the best formulation due to its lower influence on these parameters. The pH values were significantly higher (p < 0.05) in the group with the maximum addition of cricket flour (6.03\u00a0\u00b1\u00a00.01) than those without this ingredient (5.49\u00a0\u00b1\u00a00.05). Also, our findings suggest a possible synergism between the pro-oxidant and antioxidant activities of the ingredients, determining the variations in the lipid oxidation levels between treatments. There were no significant differences (p > 0.05) between the groups regarding water activity. Our findings suggest that further studies must evaluate innovative approaches, such as emerging technologies (e.g., high-intensity ultrasound) and functional ingredients (e.g., natural dyes, such as betalains and anthocyanins) to obtain burgers with the improvement of textural parameters and color characteristics, increasing consumer acceptance.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70284",
+  "entities": {
+    "POLYPHENOL": [
+      "edible insects",
+      "emerging technologies",
+      "the effect",
+      "the effects",
+      "the special cubic model"
+    ],
+    "FOOD": [
+      "soy protein"
+    ]
+  }
+}

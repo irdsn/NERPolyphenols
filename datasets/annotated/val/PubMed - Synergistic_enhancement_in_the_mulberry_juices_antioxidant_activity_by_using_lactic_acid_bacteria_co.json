@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Synergistic enhancement in the mulberry juice's antioxidant activity by using lactic acid bacteria co-culture fermentation.",
+  "abstract": "Studying the implications of multifunctional edible bacteria on the chemical composition and bioactivities of plant extracts could provide one of the best solutions for producing functional juices. This study aimed to develop a high-quality mulberry juice with enhanced antioxidant capacity through fermentation. The juice was fermented using five different mono- and co-cultures of probiotic strains like Lacticaseibacillus casei (LC), Lactobacillus acidophilus (LA), Lacticaseibacillus paracasei (LPC), Lactobacillus helveticus (LH), and Lactiplantibacillus plantarum (LP). Where, four different interval time (24\u00a0h, 48\u00a0h, 72\u00a0h, and 96\u00a0h) were used in measuring total phenolic content (TPC), flavonols, along with the antioxidant activity assays and FTIR analysis. The results revealed the formation of new compounds during fermentation, such as organic acids, alcohols, glycerol, and phenols, as evidenced by the FTIR spectra. Besides, LC-LA and LC-LPC co-culture treatments yield the most substantial stability in TPC and total flavonoid content (TFC) after 48\u00a0h compared to 24\u00a0h and 72\u00a0h. After 48\u00a0h, the co-cultures of LPC-LH and LPC-LA (1265.5, 1145 GAE/mL, respectively) have increased the TPC than their individual cultures. In conclusion, the novelty of the current study lies in its provision of valuable insights into the industrial applications of fermented mulberry juice. The LC-LPC co-culture was confirmed to enhance the bioactive antioxidant capacity of the mulberry juice, particularly with 72\u00a0h of preservation.",
+  "publication_date": "2025-06-03",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-024-81023-8",
+  "entities": {
+    "FOOD": [
+      "a high-quality mulberry juice",
+      "fermented mulberry juice",
+      "functional juices",
+      "plant extracts",
+      "the juice",
+      "the mulberry juice"
+    ],
+    "POLYPHENOL": [
+      "the ftir spectra",
+      "total flavonoid content"
+    ]
+  }
+}

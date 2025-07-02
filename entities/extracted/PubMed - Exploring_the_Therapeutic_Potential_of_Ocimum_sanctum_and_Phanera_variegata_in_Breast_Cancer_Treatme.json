@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Exploring the Therapeutic Potential of Ocimum sanctum and Phanera variegata in Breast Cancer Treatment: A Promising Natural Approach.",
+  "abstract": "Breast cancer is one of the most common malignancies affecting women worldwide. It is a complex, heterogeneous disease, classified into several subtypes, including hormone receptor-positive and triple-negative breast cancer (TNBC), each with distinct therapeutic challenges. TNBC, in particular, is characterized by its aggressive nature and lack of targeted therapies due to the absence of estrogen, progesterone, and HER2 receptors. This review explores the potential of natural plant-based compounds, especially focusing on Clove Basil (Ocimum sanctum) and Phanera variegata, in combating breast cancer. These plants have been traditionally used for their medicinal properties and are now being studied for their anticancer effects. Ocimum sanctum has demonstrated significant antiproliferative and pro-apoptotic effects against breast cancer cells, particularly the MCF-7 line, through mitochondrial pathway activation and gene regulation. Similarly, Phanera variegata exhibits potential through its rich content of flavonoids and other bioactive compounds, which have been shown to induce apoptosis, reduce tumor growth, and offer antioxidant benefits. The review highlights how these plant extracts, with their multiple mechanisms, including immune modulation and direct cytotoxic effects, hold promise as adjunctive or alternative therapies in breast cancer treatment, particularly for hard-to-treat subtypes like TNBC. Continued research into their molecular pathways and therapeutic efficacy could lead to new, less toxic treatment options.",
+  "publication_date": "2025-06-11",
+  "journal": "Anti-cancer agents in medicinal chemistry",
+  "doi": "10.2174/0118715206375507250603074251",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "breast cancer",
+      "breast cancer cells",
+      "breast cancer treatment",
+      "tumor growth"
+    ],
+    "POLYPHENOL": [
+      "direct cytotoxic effects",
+      "flavonoids",
+      "her2 receptors",
+      "hormone receptor-positive and triple-negative breast cancer",
+      "pro-apoptotic effects",
+      "their anticancer effects",
+      "their molecular pathways",
+      "their multiple mechanisms"
+    ],
+    "FOOD": [
+      "clove basil"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Oil-type modulation of the interfacial adsorption behavior of flavonoid-modified walnut protein hydrolysates to improve the storage stability of high internal phase Pickering emulsions.",
+  "abstract": "Currently, protein-polyphenol complexes have garnered increasing attention as surface-active substances in high internal phase Pickering emulsions (HIPPEs). However, the effects of the oil type and flavonoid structure on the HIPPE-stabilizing ability of protein-polyphenol complexes remain unclear. Notably, very few studies have investigated the impacts and mechanisms of different oils (olive, flaxseed, and coconut oils) and the effects of the addition of flavonoids (catechin and quercetin) on the interfacial behavior of walnut protein hydrolysates (WPHs) and the co-oxidation of protein-lipid in the resulting emulsion during storage.",
+  "publication_date": "2024-12-12",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.14081",
+  "entities": {
+    "POLYPHENOL": [
+      "catechin",
+      "flavonoid structure",
+      "flavonoids",
+      "mechanisms",
+      "protein-polyphenol complexes",
+      "quercetin",
+      "the effects"
+    ],
+    "FOOD": [
+      "coconut oils",
+      "walnut protein hydrolysates"
+    ]
+  }
+}

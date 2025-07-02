@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Unlocking the power of polyphenols: A promising biomarker of improved metabolic health and anti-inflammatory diet in adolescents.",
+  "abstract": "Metabolic syndrome (MetS) in adolescence is a risk factor for future cardiovascular disease. The chronic inflammation associated with MetS can be attenuated by the anti-inflammatory effect of polyphenols. We aimed to evaluate total urinary polyphenols as a biomarker of anti-inflammatory diets and their effect on MetS in adolescents.",
+  "publication_date": "2024-06-25",
+  "journal": "Clinical nutrition (Edinburgh, Scotland)",
+  "doi": "10.1016/j.clnu.2024.06.023",
+  "entities": {
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "the chronic inflammation"
+    ],
+    "POLYPHENOL": [
+      "polyphenols",
+      "the anti-inflammatory effect",
+      "their effect",
+      "total urinary polyphenols"
+    ]
+  }
+}

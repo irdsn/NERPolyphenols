@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "UV-C and Nanomaterial-Based Approaches for Sulfite-Free Wine Preservation: Effects on Polyphenol Profile and Microbiological Quality.",
+  "abstract": "Controlling the microorganisms employed in vinification is a critical factor for successful wine production. Novel methods aimed at lowering sulfites used for wine stabilization are sought. UV-C irradiation has been proposed as an alternative for reducing the viable cell count of microorganisms in wine and grape juice. Nevertheless, UV-C treatment poses the risk of altering the chemical properties of wine. Therefore, this study aimed to test and implement iron oxide-silica core-shell nanomaterial functionalized with TiO2in UV-C treatment of white and red wines. Material for the study consisted of the synthesized nanocomposite,Saccharomyces cerevisiaeas a model yeast, and Muscaris and Cabernet Cortis wines. The viability of yeasts under treatment, the physiochemical properties of wine, and polyphenol content were tested. Studies have shown that nanomaterial can modulate the effects of UV-C treatment regarding yeast viability and polyphenol content, and the effectiveness of the treatment depends on the wine type. These results open up discussion on the possible use of the proposed hurdle technology in winemaking to control the polyphenol composition and alcohol reduction.",
+  "publication_date": "2025-01-08",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30020221",
+  "entities": {
+    "FOOD": [
+      "successful wine production",
+      "the wine type",
+      "white and red wines",
+      "wine",
+      "wine and grape juice",
+      "wine stabilization"
+    ],
+    "POLYPHENOL": [
+      "polyphenol content",
+      "the effectiveness",
+      "the effects",
+      "the polyphenol composition and alcohol reduction",
+      "the proposed hurdle technology"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Glucose Uptake-Stimulating Metabolites from Aerial Parts ofCentaurea sicula.",
+  "abstract": "A comprehensive phytochemical investigation of aerial parts obtained fromCentaurea siculaL. led to the isolation of 14 terpenoids (1-14) and nine polyphenols (15-23). The sesquiterpenoid group (1-11) included three structural families, namely, elemanolides (1-6), eudesmanolides (7and8), and germacranolides (9-11) with four unreported secondary metabolites (5-8), whose structure has been determined by extensive spectroscopic analysis, including 1D/2D NMR, HR-MS, and chemical conversion. Moreover, an unprecedented alkaloid, named siculamide (24), was structurally characterized, and a possible biogenetic origin was postulated. Inspired by the traditional use of the plant and in the frame of ongoing research on compounds with potential activity on metabolic syndrome, all the isolated compounds were evaluated for their stimulation of glucose uptake, disclosing remarkable activity for dihydrocnicin (10) and the lignan salicifoliol (15).",
+  "publication_date": "2024-03-25",
+  "journal": "Journal of natural products",
+  "doi": "10.1021/acs.jnatprod.4c00134",
+  "entities": {
+    "POLYPHENOL": [
+      "an unprecedented alkaloid",
+      "extensive spectroscopic analysis",
+      "four unreported secondary metabolites",
+      "nine polyphenols"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome"
+    ]
+  }
+}

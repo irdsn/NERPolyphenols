@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "One-Health Approach to Managing Aflatoxin-Producing Aspergillus flavus Using Spent Mushroom Substrate ofPleurotusspp.",
+  "abstract": "Food loss represents a critical global concern. Aspergillus flavus is central to this issue, contaminating maize crops with aflatoxins. The agricultural fungicide carboxin presents significant challenges due to the rise of resistant fungal strains. This study investigates the antifungal efficacy of spent mushroom substrates from Pleurotus ostreatus (SPoS) and P. djamor (SPdS) cultivated on banana leaves, combined with carboxin (CBX), against A. flavus strains isolated from maize. The SPoS and SPdS extracts showed a low biogenic amine content and a global profile (1H NMR) of volatile oils, unsaturated fatty acids, polysaccharides, oligosaccharides, tannins, and flavonoids. A. flavus strains were not susceptible to amphotericin B and itraconazole. SGPo and SGPd exhibited fungicidal activity against all strains tested, with MIC values ranging from 1024 to 2048 mg/L. CBX demonstrated fungicidal activity with MIC values ranging from 32 to 512 mg/L. No antagonism between CBX+SPdS and CBX+SPoS was observed. SPoS and SPdS showed significant inhibition of conidial germination and mycelial growth, but CBX+SPdS and CBX+SPoS were more potent than individual agents (p< 0.05). SPoS and SPdS reduced conidial germination and mycelial growth by more than 70%. The study also assessed the irritation potential of these agents using the HET-CAM model, classifying them as moderate irritants. These findings support that SPdS and SPoS can potentially reduce the required dosages and frequency of application of CBX, leading to more sustainable antifungal treatments with minimized environmental and resistance risks, which aligns with a one-health approach.",
+  "publication_date": "2025-06-11",
+  "journal": "ACS omega",
+  "doi": "10.1021/acsomega.5c00858",
+  "entities": {
+    "FOOD": [
+      "banana leaves",
+      "the required dosages"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "tannins"
+    ]
+  }
+}

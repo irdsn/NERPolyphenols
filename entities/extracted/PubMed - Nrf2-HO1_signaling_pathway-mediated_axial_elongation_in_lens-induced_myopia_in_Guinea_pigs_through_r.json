@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Nrf2-HO1 signaling pathway-mediated axial elongation in lens-induced myopia in Guinea pigs through regulation of tight junctions in retinal pigment epithelial cells.",
+  "abstract": "The study aimed to explore the potential involvement of Nrf2-HO1 (nuclear factor erythroid 2-related factor 2 heme oxygenase-1) in the process of myopic axial elongation, which influenced the disruption of tight junctions in retinal pigment epithelium (RPE) cells. Guinea pigs aged 2-3 weeks underwent bilateral lens-induced myopization (LIM) and received weekly intraperitoneal injections of the heme oxygenase-1 (HO-1) activators Hemin (25\u00a0mg/kg and 50\u00a0mg/kg, respectively), or Quercetin (25\u00a0mg/kg and 50\u00a0mg/kg, respectively). The study additionally included normal control groups with or without LIM and with vehicle injections. Ocular biometry, optical coherence tomography, and high-throughput sequencing were performed. Eyes with LIM showed a significantly increased expression of the Nrf2-HO1 signal pathway. Eyes with Hemin injections demonstrated axial elongation in a Hemin-dose dependent manner. Eyes with LIM and Quercetin injections showed in a dose-dependent manner and inhibition of the Nrf2 overexpression and an attenuation of axial elongation, a disruption of RPE cell tight junctions, and retinal and choroidal thinning. Immunofluorescence revealed the RPE cell as the main location of the HO-1 activation. Transmission electron microscope showed that Hemin was associated with a disruption of RPE tight junctions with axial elongation. The overexpression of Nrf2-HO1 signal pathway may be involved in LIM development and RPE tight junction disruption. The potential anti-myopic therapeutic value of Quercetin may be further explored.",
+  "publication_date": "2025-06-04",
+  "journal": "Experimental eye research",
+  "doi": "10.1016/j.exer.2025.110477",
+  "entities": {
+    "POLYPHENOL": [
+      "hemin injections",
+      "lim and quercetin injections",
+      "quercetin",
+      "transmission electron microscope",
+      "vehicle injections",
+      "weekly intraperitoneal injections"
+    ]
+  }
+}

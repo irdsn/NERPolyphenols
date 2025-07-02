@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Importance of Advanced Detection Methodologies from Plant Cells to Human Microsystems Targeting Anticancer Applications.",
+  "abstract": "The growing global demand for phytochemicals as bioactive sources is prompting scientists to develop methods that link their sensory properties to their mechanisms of action in cancer treatment. Recent techniques for tracking the actions of small plant metabolites (SPMs) from single-cell plant sources to their molecular anticancer biomarkers could provide valuable insights in this field. Among the critical methods discussed in this review are the real-time tracking of cell components through stable isotope probing (Sis) and microspectroscopy, which has attracted the attention of biotechnologists. Additionally, the precise pathways required for studying new insights into functional materials are discussed, based on high-resolution and accurate technologies, which could aid their functional categorization. Notably, the molecules under study have recently garnered attention for their anticancer applications due to advancements in effective evaluation techniques that surpass traditional methods. In December 2020, the Food and Drug Administration (FDA) authorized 89 SPMs as safe anticancer natural molecules. In conclusion, by combining spatiotemporal techniques and SPMs' mechanisms, they could facilitate the development of more exceptional, bio-efficient materials.",
+  "publication_date": "2025-05-14",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26104691",
+  "entities": {
+    "POLYPHENOL": [
+      "biotechnologists",
+      "december",
+      "effective evaluation techniques",
+      "high-resolution and accurate technologies",
+      "recent techniques",
+      "safe anticancer natural molecules",
+      "spatiotemporal techniques",
+      "spms' mechanisms",
+      "the molecules",
+      "the precise pathways",
+      "their mechanisms",
+      "their molecular anticancer biomarkers"
+    ],
+    "SYMPTOM": [
+      "cancer treatment",
+      "their anticancer applications"
+    ]
+  }
+}

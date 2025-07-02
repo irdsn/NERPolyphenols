@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Protective effects of taxifolin against gentamicin-induced nephrotoxicity in mice: modulation of oxidative stress, inflammation, apoptosis, and Nrf2 signaling.",
+  "abstract": "Gentamicin (GEN), an antibiotic belonging to aminoglycosides, is commonly administered to treat gram-negative bacterial infections. However, GEN nephrotoxicity restricts its therapeutic applications. The study examined the nephroprotective efficiency of a plant flavonoid (Taxifolin, TX) against GEN-associated renal damage in mice. Oral administration of TX (25 or 50\u00a0mg/kg/day) in mice for 14\u00a0days was followed by intraperitoneal GEN (100\u00a0mg/kg/day) treatments from the 8th to 14th day. GEN-treated mice were characterized by higher creatinine and urea levels in the serum and significant renal histopathological modifications. They also presented elevated malondialdehyde (MDA) and protein carbonyl and decreased levels of reduced glutathione\u00a0(GSH) and activities of catalase\u00a0(CAT), and superoxide dismutase\u00a0(SOD). TX effectively improved renal function and antioxidant potential while simultaneously lowering MDA and protein carbonyl levels in GEN-administered mice. Furthermore, TX suppressed the renal expressions of nuclear factor kappa B (NF-\u03baB) p65 and decreased levels of interleukin-6 (IL-6) and tumor necrosis factor alpha (TNF-\u03b1) in GEN-treated mice. GEN treatment increased caspase-3 and Bcl-2 associated X (Bax) and reduced B-cell lymphoma-2 (Bcl-2) protein levels in mouse kidneys. These effects were significantly mitigated by TX treatment. GEN administration significantly suppressed nuclear factor erythroid 2-related factor 2 (Nrf2) and heme oxygenase-1 (HO-1) protein levels in mouse kidneys. Largely, TX restored renal Nrf2 and HO-1 protein levels, as evidenced by immunohistochemistry and ELISA analyses, respectively, in GEN-treated mice. Overall, TX provided nephroprotection against GEN-induced kidney damage via modulation of oxidative stress, inflammation, and apoptosis and restoration of Nrf2 signaling. Thus, TX could be a promising adjuvant candidate to prevent drug-linked organ injury.",
+  "publication_date": "2025-06-28",
+  "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+  "doi": "10.1007/s00210-025-04396-1",
+  "entities": {
+    "POLYPHENOL": [
+      "a plant flavonoid",
+      "gram-negative bacterial infections",
+      "nephroprotection",
+      "the nephroprotective efficiency",
+      "these effects",
+      "tumor necrosis factor alpha"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

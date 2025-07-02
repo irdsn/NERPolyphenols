@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Palladium/N-Heterocyclic Carbene-Decorated Covalent Organic Framework for Suzuki-Miyaura and Mizoroki-Heck Cross-Coupling.",
+  "abstract": "Recently, significant breakthroughs have been achieved in covalent organic frameworks (COF) as well-defined porous materials for palladium catalysis. However, the development of modular frameworks decorated with readily available and strongly \u03c3-donating N-heterocyclic ligands is unexplored. In this study, we report a novel modular Pd-NHC/COF framework, where the active palladium species is incorporated into a covalent organic framework (COF) through readily accessible benzimidazolium. The Pd-NHC/COF system promotes the Suzuki-Miyaura and Mizoroki-Heck C-C cross-coupling as a highly active reusable catalyst. Excellent catalytic efficiency and highZ/Eselectivity have been achieved for the construction of biaryls and stilbenes using this Pd-NHC/COF catalytic system.",
+  "publication_date": "2025-05-02",
+  "journal": "The Journal of organic chemistry",
+  "doi": "10.1021/acs.joc.5c00419",
+  "entities": {
+    "POLYPHENOL": [
+      "heck c-c",
+      "highz/eselectivity",
+      "the active palladium species"
+    ]
+  }
+}

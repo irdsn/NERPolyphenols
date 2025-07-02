@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Propolis: A Natural Substance with Multifaceted Properties and Activities.",
+  "abstract": "Propolis (bee glue) is a complex mixture of resins, waxes, and gums, and it is a resinous exudate manufactured by honey bees to maintain the integrity of the hive and defend against external threats. This multifunctional material exhibits several striking properties. The anti-inflammatory properties of propolis have made it a subject of traditional medicine over time, from ancient Egyptian mummification to modern complementary medicine. Propolis with rich phytochemicals, such as polyphenols and flavonoids, exhibit anti-inflammatory, antioxidant, and anticancer effects. This review describes multiple properties and uses of propolis, highlighting the role of propolis as an exceptional natural resource with high therapeutic potential.",
+  "publication_date": "2025-02-11",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26041519",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "inflammatory, antioxidant, and anticancer effects",
+      "polyphenols"
+    ]
+  }
+}

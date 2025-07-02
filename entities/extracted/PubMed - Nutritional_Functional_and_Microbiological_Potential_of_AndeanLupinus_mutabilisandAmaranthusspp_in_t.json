@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Nutritional, Functional and Microbiological Potential of AndeanLupinus mutabilisandAmaranthusspp. in the Development of Healthy Foods-A Review.",
+  "abstract": "The limited nutritional quality of conventional cereals has prompted the search for more complete alternatives from native Andean sources. In this context, a systematic review of recent studies was conducted to compare the characteristics of Lupinus mutabilis andAmaranthusspp., two crops with potential as functional ingredients in the food industry. Data reported in multiple studies were analyzed, considering the variability attributed to origin, processing, and genetic conditions, as well as the influence of different transformation techniques. The results show that Lupinus mutabilis has a protein content ranging from 41% to 53% in dry matter, along with up to 17% fat and fiber levels above 10%.Amaranthusspp., on the other hand, offers 13% to 17% protein, 6% to 8% fat, and up to 10% fiber and is notable for providing up to 180 mg of polyphenols per 100 g. Processing, such as debittering, may decrease the antioxidant capacity of Lupinus mutabilis by 52.9%, while germination enhances this indicator inAmaranthusspp. The inclusion of these flours in bakery and extrusion formulations allows for protein and fiber content enhancements ranging from 10% to 50%, achieving texture and acceptability improvements in up to 80% of reported sensory tests. This scenario supports the strategic use of these grains to optimize nutritional and functional profiles in innovative food developments.",
+  "publication_date": "2025-06-11",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14122059",
+  "entities": {
+    "POLYPHENOL": [
+      "different transformation techniques",
+      "polyphenols",
+      "recent studies"
+    ]
+  }
+}

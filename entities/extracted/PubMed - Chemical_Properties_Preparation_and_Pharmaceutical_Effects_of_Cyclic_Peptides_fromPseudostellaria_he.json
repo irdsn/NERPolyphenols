@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Chemical Properties, Preparation, and Pharmaceutical Effects of Cyclic Peptides fromPseudostellaria heterophylla.",
+  "abstract": "Radix Pseudostellariae(Tai-Zi-Shen), the dried tuberous root of the Caryophyllaceae plantPseudostellaria heterophylla(Miq.) Pax (P. heterophylla), has been widely used in traditional Chinese medicine (TCM) for thousands of years. It is slightly bitter, neutral in nature, associated with the spleen and lung meridians, and used for nourishing qi, invigorating the spleen, as well as promoting body fluid production and moistening the lungs. In recent years, with the development in natural product chemistry, cyclic peptides, as some of the active constituents derived fromP. heterophylla,have gained increasing attention. These cyclic peptides demonstrate a broad range of biological activities, including anticancer, antioxidant, and immunomodulatory effects, as well as cognitive benefits. This review provides an overview of the chemical characteristics and preparation strategies of cyclic peptides fromP. heterophylla, and their biological activities and potential mechanisms are also described. The presented work establishes a scientific framework to facilitate the future research and development ofP. heterophyllacyclic peptides as potential therapeutic agents.",
+  "publication_date": "2025-06-09",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122521",
+  "entities": {
+    "POLYPHENOL": [
+      "immunomodulatory effects",
+      "potential mechanisms",
+      "recent years"
+    ],
+    "SYMPTOM": [
+      "anticancer"
+    ]
+  }
+}

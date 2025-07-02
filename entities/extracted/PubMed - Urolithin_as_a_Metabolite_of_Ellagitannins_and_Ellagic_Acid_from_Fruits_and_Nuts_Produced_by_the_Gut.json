@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Urolithin as a Metabolite of Ellagitannins and Ellagic Acid from Fruits and Nuts Produced by the Gut Microbiota: Its Role on Non-Communicable Diseases.",
+  "abstract": "This narrative review investigates how urolithins produced by the gut microbiota can regulate transcription factors (such as NRF2, NF-kB, and PPAR-\u03b3) associated with senescence, inflammation, and imbalanced redox status. It also discusses the potential benefits of urolithins for patients with chronic diseases, including cardiovascular disease, cancer, diabetes, obesity, and chronic kidney disease.",
+  "publication_date": "2025-04-03",
+  "journal": "Current nutrition reports",
+  "doi": "10.1007/s13668-025-00645-0",
+  "entities": {
+    "SYMPTOM": [
+      "cancer",
+      "inflammation",
+      "obesity"
+    ]
+  }
+}

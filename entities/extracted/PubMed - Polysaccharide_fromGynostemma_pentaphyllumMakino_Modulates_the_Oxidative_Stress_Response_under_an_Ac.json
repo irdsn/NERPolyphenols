@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Polysaccharide fromGynostemma pentaphyllumMakino Modulates the Oxidative Stress Response under an Acute Hypobaric Hypoxia Environment by Enhancing the Relative Abundance of Anti-inflammatory Gut Microbiota.",
+  "abstract": "Gynostemma pentaphyllaMakino, a plant renowned for its dual medicinal and culinary properties, is rich in high-quality phytochemicals with significant therapeutic potential. Polysaccharides represent one of their key bioactive components. This study investigated the mechanism of polysaccharide fromGynostemma pentaphyllumMakino (GPMP) in counteracting high-altitude hypoxic stress. Experiment 1 demonstrated that GPMP significantly enhanced hypoxia tolerance and antifatigue capacity in mice (p< 0.05). Experiment 2 established a simulated 6300 m hypobaric hypoxia model, revealing that GPMP intervention (300 mg/kg) ameliorated oxidative stress damage: MDA levels decreased by 44.53%, SOD and GSH-Px activities restored to 73.91% and 91.87% of normal levels, respectively, anti-inflammatory factors IL-10 and TGF-\u03b2 increased with a 1.33-fold elevation in Bcl-2/Bax ratio, while pro-inflammatory factors IL-1\u03b2 and TNF-\u03b1 decreased by 30.06-32.04%. GPMP concurrently improved intestinal barrier integrity (the V/C ratio increased to 1.74-fold of model control) and modulated gut microbiota, reducing the F/B ratio by 3.25-fold while enriching anti-inflammatory and SCFA-producing genera likeOdoribacterandRuminiclostridium_5, with total cecal SCFA and butyrate elevated by 62.14% and 50.77%, respectively. Mechanistic studies indicated GPMP activates the \"microbiota-SCFA-gut barrier\" axis through GPR41 and GPR109A activation/HDAC inhibition, regulating the Nrf2 pathway to mitigate oxidative stress, providing theoretical foundations for developing high-altitude functional foods.",
+  "publication_date": "2025-06-06",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c00178",
+  "entities": {
+    "POLYPHENOL": [
+      "mechanistic studies",
+      "the mechanism",
+      "total cecal scfa"
+    ],
+    "SYMPTOM": [
+      "antifatigue capacity",
+      "high-altitude hypoxic stress",
+      "oxidative stress",
+      "oxidative stress damage"
+    ],
+    "FOOD": [
+      "high-altitude functional foods"
+    ]
+  }
+}

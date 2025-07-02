@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Design and synthesis of stilbene analogs based on resveratrol as NF-\u03baB inhibitors for the treatment of breast cancer.",
+  "abstract": "NF-\u03baB is a critical signaling molecule connecting inflammation and tumors, involved in numerous cellular processes, including inflammation, cell transformation, tumor cell survival, proliferation, invasion, angiogenesis, and metastasis by regulating immune, growth, and inflammatory gene expression. Inhibition of the NF-\u03baB signaling pathway in tumor cells can effectively reduce inflammation levels, potentially providing antitumor benefits. Resveratrol, a natural polyphenolic compound known for its anti-inflammatory properties, has been shown both anti-inflammatory and anticancer effects in breast cancer cells through the inhibition of NF-\u03baB signaling. Based on the stilbene structure of Resveratrol, we designed and synthesized a series of novel analogs. Preliminary screening indicated that compound 8a exhibited not only anti-inflammatory and antiproliferative effects but also suppressant on the expression of inflammatory factors in MCF-7 breast cancer cells. To gain a deeper understanding of its mechanism of action, we further investigated the inhibitory effect of compound 8a on the NF-\u03baB signaling pathway. The study found that compound 8a can significantly reduce the expression levels of key proteins p65 and I\u03baB\u03b1 in the classical NF-\u03baB signaling pathway and effectively prevent the entry of p65 protein into the nucleus, thereby exhibiting potent anti-inflammatory effects and potential anti-breast cancer activity. Molecular docking analysis results show that compound 8a interacts with the NF-\u03baB p65 protein through two crucial hydrogen bonds, and this binding affinity is even superior to that of the known Resveratrol. In summary, compound 8a could be a promising drug lead, as a NF-\u03baB inhibitor for breast cancer treatment.",
+  "publication_date": "2025-05-16",
+  "journal": "Molecular diversity",
+  "doi": "10.1007/s11030-025-11212-8",
+  "entities": {
+    "POLYPHENOL": [
+      "a critical signaling molecule connecting inflammation",
+      "a natural polyphenolic compound",
+      "both anti-inflammatory and anticancer effects",
+      "its mechanism",
+      "not only anti-inflammatory and antiproliferative effects",
+      "potent anti-inflammatory effects",
+      "resveratrol",
+      "the inhibitory effect",
+      "the known resveratrol"
+    ],
+    "SYMPTOM": [
+      "breast cancer cells",
+      "breast cancer treatment",
+      "inflammation",
+      "inflammation levels",
+      "mcf-7 breast cancer cells",
+      "potential anti-breast cancer activity"
+    ]
+  }
+}

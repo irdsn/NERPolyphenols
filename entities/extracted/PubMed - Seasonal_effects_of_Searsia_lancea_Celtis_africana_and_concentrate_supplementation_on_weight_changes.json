@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Seasonal effects of Searsia lancea, Celtis africana and concentrate supplementation on weight changes, serum and urine metabolites in South African Nguni goats.",
+  "abstract": "This study evaluated the seasonal impact of different dietary supplements on male Nguni goats' health, focusing on serum and urine metabolite concentrations. Twenty male Nguni goats (15\u2009\u00b1\u20091.6\u00a0kg) were arranged in a 2\u2009\u00d7\u20094 (season\u2009\u00d7\u2009diet) factorial design using a randomized complete block arrangement with five goats per treatment. All goats received a basal diet of Eragrostis hay supplemented with one of four treatments: T1) Searsia lancea (SLA), T2) Celtis africana (CAF), T3) a 1:1 combination of SLA and CAF (LAC), or T4) a control diet with concentrate. During the wet season, goats fed CAF or SLA showed higher average daily gain (ADG) and average dry matter intake (ADMI) than those on LAC. Significant season\u2009\u00d7\u2009diet interactions were observed for urobilinogen (URO), urine bilirubin (UBIL), urine protein (UPRO), and urine calcium (UCAL). Goats on the control diet exhibited higher URO and UBIL values (P\u2009<\u20090.05) than those on browse forages during both seasons. In the wet season, goats on SLA had higher UPRO (P\u2009<\u20090.05) than those on LAC. Across seasons, goats on CAF showed higher blood serum gamma-glutamyltransferase (GGT) than those on control or LAC diets (P\u2009<\u20090.05). Diet significantly affected (P\u2009<\u20090.05) serum GGT, albumin, alkaline phosphatase, urea nitrogen, creatinine, cholesterol, glucose, and inorganic phosphate levels regardless of season. Urinalysis revealed diet-related kidney dysfunction and imbalanced serum metabolites. The study concluded that CAF and SLA supplementation negatively affected renal and hepatic health in goats, warranting further investigation.",
+  "publication_date": "2025-06-20",
+  "journal": "Tropical animal health and production",
+  "doi": "10.1007/s11250-025-04523-3",
+  "entities": {
+    "FOOD": [
+      "all goats",
+      "five goats",
+      "goats",
+      "male nguni goats' health",
+      "twenty male nguni goats"
+    ]
+  }
+}

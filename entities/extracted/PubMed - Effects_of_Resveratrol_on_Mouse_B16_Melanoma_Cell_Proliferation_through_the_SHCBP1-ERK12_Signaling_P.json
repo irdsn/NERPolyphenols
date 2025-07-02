@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Effects of Resveratrol on Mouse B16 Melanoma Cell Proliferation through the SHCBP1-ERK1/2 Signaling Pathway.",
+  "abstract": "Melanoma originates from the malignant mutational transformation of melanocytes in the basal layer of the epidermal layer of the skin. It can easily spread and metastasize in the early stage, resulting in a poor prognosis. Therefore, it is particularly important to find effective antitumor adjuvant drugs to inhibit the occurrence and development of melanoma. In this study, we found that resveratrol, a polyphenolic compound from grape plants, can significantly inhibit the proliferation, colony formation and migration of mouse melanoma B16 cells. Notably, resveratrol was also found to inhibit the expression of SHCBP1 in B16 cells. Transcriptional analysis and cellular studies showed that SHCBP1 can activate the MAPK/ERK signaling pathway to regulate cyclin expression and promote the G1/S phase transition of the cell cycle by upregulating ERK1/2 phosphorylation levels. Resveratrol further downregulates the phosphorylation level of ERK1/2 by inhibiting SHCBP1 expression, thus inhibiting tumor cell proliferation. In conclusion, resveratrol inhibits the proliferation of B16 cells by regulating the ERK1/2 signaling pathway through SHCBP1. As an upstream protein of the ERK1/2 signaling pathway, SHCBP1 may be involved in the process of resveratrol-mediated inhibition of tumor cell proliferation.",
+  "publication_date": "2023-11-15",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules28227614",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenolic compound",
+      "effective antitumor adjuvant drugs",
+      "resveratrol",
+      "resveratrol-mediated inhibition"
+    ],
+    "FOOD": [
+      "grape plants"
+    ]
+  }
+}

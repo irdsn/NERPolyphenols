@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Valorization of Olive Leaf Polyphenols by Green Extraction and Selective Adsorption on Biochar Derived from Grapevine Pruning Residues.",
+  "abstract": "Given today's increasingly intensive agriculture, one key problem area considers the valorization and reuse of wastes from food and agricultural production with minimal impact on the environment. Due to its physicochemical characteristics, biochar (BC) derived from grapevine pruning residue has shown considerable potential for use as an adsorbent. High-value phytochemicals found in abundance in the olive leaf (OL) can be employed in many different industrial sectors. The potential application of BC in the removal of specific polyphenolic components from OL extracts has been investigated in the present study. Water, as the most available and greenest of solvents, was investigated as to its use in the extraction of polyphenols, which was carried out by comparing maceration, ultrasound-assisted extraction, and microwave-assisted extraction, considering different temperatures and solid-to-liquid (s/l) ratios. The BC adsorption capacity of selected polyphenols was fitted with both the Langmuir and Freundlich isotherm models. The Freundlich model fitted better relative to OL polyphenols adsorption. Oleuropein was the most abundant compound identified in the extracts, obtaining the highest Kfvalue (20.4 (mg/g) \u00d7 (L/g)n) and R2coefficient (0.9715) in the adsorption on the biochar's surface. The optimum conditions in the dosage experiment suggest the use of 0.5 g of BC using 3 g/L extracts, with an exception for oleuropein and hydroxytyrosol, for which the highest biochar dose (2.5 g) performed better. Considering the compounds' concentrations and the BC dose, BC from grapevine pruning residues demonstrated a potential use in the uptake of specific polyphenols from olive leaves, making it a promising adsorbent for such applications.",
+  "publication_date": "2023-12-19",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox13010001",
+  "entities": {
+    "FOOD": [
+      "grapevine pruning residue",
+      "grapevine pruning residues",
+      "the dosage experiment"
+    ],
+    "POLYPHENOL": [
+      "many different industrial sectors",
+      "ol polyphenols adsorption",
+      "oleuropein",
+      "polyphenols",
+      "selected polyphenols",
+      "specific polyphenolic components",
+      "specific polyphenols"
+    ]
+  }
+}

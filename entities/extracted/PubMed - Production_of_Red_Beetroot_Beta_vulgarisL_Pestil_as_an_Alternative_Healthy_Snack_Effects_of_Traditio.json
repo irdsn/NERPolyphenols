@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "Production of Red Beetroot (Beta vulgarisL.) Pestil as an Alternative Healthy Snack: Effects of Traditional, Thermosonication, and Microwave Pretreatments on Physicochemical, Sensorial, Nutritional, and Chemometric Profiles.",
+  "abstract": "Red beetroot (Beta vulgarisL.) is a nutritionally rich root vegetable. It is a potential alternative raw material for pestil, a traditional fruit-based snack. This study aimed to develop a healthy beetroot-based pestil using traditional boiling (95 \u00b0C) and novel pretreatment methods, including thermosonication and microwave processing, with and without additional concentration steps. The effects of these methods on heat treatment period, hydroxymethylfurfural (HMF) formation, and the physicochemical, sensorial, nutritional, and chemometric profiles of pestils were evaluated. The beetroot-based snack formulated in this study was hedonically acceptable (\u22655/9) and rich in essential minerals (Ca, K, Na, P, Mg) and trace elements (Zn, Fe, Mn), as determined by inductively coupled plasma-mass spectrometry. Total antioxidant capacity (CUPRAC) ranged from 113.11 to 870.78 mg Trolox\u00aeequivalent/100 g dry matter (DM). Total phenolic, flavonoid, and betalain contents varied between 220.6-313.8 mg gallic acid equivalent/100 g DM, 365.08-517.46 mg rutin equivalent/100 g DM, and 314.40-488.66 mg/kg, respectively. Major flavonoids identified and quantified included epicatechin, rutin, isoquercitrin, taxifolin, and quercetin, while major phenolic acids identified were chlorogenic acid, ferulic acid, caffeic acid, o-salicylic acid, p-coumaric acid, and vanillin, using liquid chromatography-electrospray tandem mass spectrometry. Reducing the soluble solids content of the pestil pulp from 40 to 20 Brix degrees, in combination with thermosonication and microwave treatments, significantly shortened the processing time by 10-67%. This approach also reduced the HMF content to the limit of quantification (LOQ). Pretreatment methods significantly (p< 0.05) affected the levels of minerals and bioactive compounds in the pestils. These findings highlight the importance of process optimization to improve overall safety and the nutritional quality of the pestil.",
+  "publication_date": "2025-05-17",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14101784",
+  "entities": {
+    "FOOD": [
+      "a healthy beetroot-based pestil",
+      "red beetroot",
+      "the beetroot-based snack"
+    ],
+    "POLYPHENOL": [
+      "-salicylic acid",
+      "220.6-313.8 mg gallic acid equivalent/100",
+      "365.08-517.46 mg rutin equivalent/100",
+      "caffeic acid",
+      "chlorogenic acid",
+      "epicatechin",
+      "ferulic acid",
+      "inductively coupled plasma-mass spectrometry",
+      "liquid chromatography-electrospray tandem mass spectrometry",
+      "major flavonoids",
+      "p-coumaric acid",
+      "quercetin",
+      "rutin",
+      "the effects",
+      "total phenolic, flavonoid, and betalain contents"
+    ]
+  }
+}

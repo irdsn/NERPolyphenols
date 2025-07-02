@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Tannin and Iron-Reactive Phenolics Content in Red Cold-Hardy Hybrid Grape Tissues throughout Development and Ripening.",
+  "abstract": "Phenolic compounds, especially tannins, are important for red wine quality. Wines made from cold-hardy hybrid grape cultivars have much lower tannin concentrations than wines fromVitis viniferagrape cultivars. This study assessed the phenolics content of berry tissues of three red cold-hardy hybrid cultivars in comparison toV. viniferacv. 'Pinot noir' throughout development and ripening. Basic chemical properties, iron-reactive phenolics content, and tannin content were evaluated in the juice, skins, and seeds ofVitisspp. cvs. 'Crimson Pearl', 'Marquette', and 'Petite Pearl' and 'Pinot noir' at six time points from one week post-fruit set to harvest in 2021 and 2022. 'Crimson Pearl' displayed similar iron-reactive phenolics and tannin contents in juice, skins (22.6-25.4 mg/g dry skin and 8.0-12.2 mg/g dry skin, respectively), and seeds (12.8-29.8 mg/g dry seed and 4.2-22.0 mg/g dry seed, respectively) as 'Petite Pearl' and 'Marquette' at harvest in 2022. The hybrid cultivars showed a similar trend of phenolic accumulation as 'Pinot noir' but resulted in overall lower content in skins and seeds. Despite differences in developmental trends, the three hybrid grape cultivars displayed similar phenolic content at harvest ripeness. This is the first study examining the phenolic content of 'Crimson Pearl' and 'Petite Pearl' throughout berry development and ripening. This study provides important information for the wine industry to make informed decisions on making wine with these cultivars.",
+  "publication_date": "2024-03-23",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13070986",
+  "entities": {
+    "POLYPHENOL": [
+      "especially tannins",
+      "informed decisions",
+      "much lower tannin concentrations",
+      "phenolic compounds",
+      "tannin content",
+      "tannin contents"
+    ],
+    "FOOD": [
+      "'crimson pearl",
+      "'petite pearl",
+      "cold-hardy hybrid grape cultivars",
+      "crimson pearl",
+      "juice",
+      "red wine quality",
+      "the juice",
+      "the three hybrid grape cultivars",
+      "the wine industry",
+      "wine",
+      "wines",
+      "wines fromvitis viniferagrape cultivars"
+    ]
+  }
+}

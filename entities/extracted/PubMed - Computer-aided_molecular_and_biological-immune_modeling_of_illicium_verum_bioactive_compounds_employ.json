@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Computer-aided molecular and biological-immune modeling of illicium verum bioactive compounds employing the Egyptian Nile snail Biomphalaria alexandrina as a paradigm.",
+  "abstract": "In pursuit of sustainable biocontrol strategies, this study explores Illicium verum (star anise) as a dual-action anti-inflammatory/oxidative and molluscicidal agent using Biomphalaria alexandrina, the intermediate host of Schistosoma mansoni, as an eco-relevant in vivo model. Two experimental snail groups were employed: a control group and a treatment group exposed to a sublethal concentration of I. verum extract (LC\u2081\u2080\u2009=\u2009315 ppm). Through a combined pipeline of phytochemical profiling, computational simulations, and in vivo assays, we identified flavonoids and phenylpropanoids with potent bioactivity. Molecular docking and ADMET screening highlighted kaempferol, quercetin, and rutin as top ligands, which bind effectively to key snail proteins such as cytochrome c oxidase and actin. In vivo analyses confirmed immunomodulatory effects, and these findings were validated through oxidative/inflammatory biomarker assays, which revealed altered cytokine levels (IFN-\u03b3, IL-2 and IL-6), tissue remodeling, and reduced oxidative stress. Histopathological and immunohistochemical evaluations revealed significant tissue alterations in the digestive gland and head-foot regions of treated snails. Gene and protein interaction networks supported these findings by linking compound action to immune and oxidative regulatory pathways. This integrative study demonstrated that Illicium verum contains bioactive compounds capable of modulating oxidative stress, immune responses, and tissue integrity in B. alexandrina as an animal model. Integrating phytochemical analysis with in silico and molecular simulations offers a powerful approach for understanding and optimizing bioactive compounds. While phytochemical profiling identifies key constituents such as flavonoids and phenylpropanoids, computational tools predict their binding to biological targets, pharmacokinetics, and safety. This combination not only streamlines the discovery of effective and low-toxicity compounds but also clarifies their mechanisms of action at the molecular level, enhancing both the precision and efficiency of experimental validation. These results position star anise as a promising, eco-friendly candidate for the development of novel molluscicidal and anti-inflammatory agents supporting sustainable disease control strategies.",
+  "publication_date": "2025-06-20",
+  "journal": "Journal of computer-aided molecular design",
+  "doi": "10.1007/s10822-025-00607-2",
+  "entities": {
+    "POLYPHENOL": [
+      "a promising, eco-friendly candidate",
+      "an eco",
+      "both the precision",
+      "effective and low-toxicity compounds",
+      "flavonoids",
+      "highlighted kaempferol",
+      "immunomodulatory effects",
+      "molecular docking",
+      "molecular simulations",
+      "rutin",
+      "the molecular level",
+      "their mechanisms"
+    ],
+    "SYMPTOM": [
+      "oxidative stress",
+      "reduced oxidative stress"
+    ]
+  }
+}

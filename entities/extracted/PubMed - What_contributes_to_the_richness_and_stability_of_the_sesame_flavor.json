@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "What contributes to the richness and stability of the sesame flavor?",
+  "abstract": "Sesame, an oilseed crop with a long history, is renowned for its distinctive flavor characteristics and diverse uses. In-depth research on the stable and potent flavor components in sesame not only enhances the taste and aroma of sesame products but also promotes their high-value utilization. This review comprehensively discusses the latest advancements in the flavor of processed sesame foods, systematically categorizing 187 compounds that contribute to the flavor. The focus is on sulfur-containing compounds and heterocyclic compounds. From a molecular sensory perspective, this study explores the impact of various factors on flavor profiles. Moreover, sesame seeds contain natural polyphenols, such as sesamin, sesamol, and sesamolin, which enhance the flavor and stability of sesame products and play a crucial role in maintaining the stability during processing and storage. Future research should focus on using machine learning models for real-time flavor optimization. This approach can leverage robust data analysis to adjust parameters promptly and achieve desired flavor outcomes. Additionally, integrating cutting-edge detection technology to establish a comprehensive sesame food flavor database will provide essential data for flavor research, simplify the flavor enhancement process, ensure scientific and efficient flavor adjustment, and maintain stable flavor quality. This will help to promote the development and utilization of nutritious and delicious sesame products in-line with consumer preferences, thereby driving growth in the sesame industry.",
+  "publication_date": "2025-04-01",
+  "journal": "Comprehensive reviews in food science and food safety",
+  "doi": "10.1111/1541-4337.70155",
+  "entities": {
+    "POLYPHENOL": [
+      "a molecular sensory perspective",
+      "cutting-edge detection technology",
+      "natural polyphenols"
+    ],
+    "FOOD": [
+      "sesame seeds"
+    ]
+  }
+}

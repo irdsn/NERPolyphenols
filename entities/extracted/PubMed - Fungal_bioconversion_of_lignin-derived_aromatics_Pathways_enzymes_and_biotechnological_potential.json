@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Fungal bioconversion of lignin-derived aromatics: Pathways, enzymes, and biotechnological potential.",
+  "abstract": "Lignin, the most abundant aromatic biopolymer on Earth, holds immense potential as a renewable feedstock for the production of high-value bioproducts. However, its structural complexity and recalcitrance pose significant challenges for efficient valorization. Fungal biodegradation offers a sustainable strategy for lignin conversion by employing extracellular oxidative enzymes and specialized metabolic pathways to transform lignin-derived aromatic compounds into central metabolites or valuable end products. Despite extensive research on fungal ligninolytic systems, a systematic integration of aromatic catabolic pathways remains fragmented. This review consolidates recent advances in fungal metabolism of key lignin-derived aromatics, including cinnamic acid, gallic acid, ferulic acid and vanillin, with a focus on their assimilation into central metabolic networks and the enzymatic machinery involved. We highlight the critical role of fungal transporter systems in mediating aromatic compound uptake and efflux. Furthermore, we discuss future research directions, emphasizing the integration of synthetic biology, computational modeling, and systems biology to engineer robust fungal chassis for lignin valorization. Addressing these knowledge gaps will advance the development of fungal-based platforms for sustainable production of renewable aromatics, thereby contributing to the circular bioeconomy and green biomanufacturing.",
+  "publication_date": "2025-06-10",
+  "journal": "Biotechnology advances",
+  "doi": "10.1016/j.biotechadv.2025.108624",
+  "entities": {
+    "POLYPHENOL": [
+      "cinnamic acid",
+      "ferulic acid",
+      "future research directions",
+      "gallic acid",
+      "recalcitrance",
+      "recent advances",
+      "specialized metabolic pathways",
+      "the circular bioeconomy"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Revealing the molecular mechanism of biosynthesis and transcriptional regulation of PAs, caffeine and linalool globally under simulative stress in coffee plants.",
+  "abstract": "Coffee has become one of the most popular beverages worldwide due to the variety of bioactive compounds, which also play crucial roles against biotic and abiotic stresses. However, little is known about how these defensive compounds are produced in coffee. Here, we found that the whole biosynthetic pathways and the production of caffeine and proanthocyanidins (PAs) were promoted under Methyl Jasmonate (MeJA) treatment. Co-expression data showed that some transcription factors were shared by caffeine and PA regulation, and further several candidate caffeine regulators were identified. The biosynthesis of monoterpene linalool was also triggered by MeJA, and the functions of coffee linalool synthase were characterized. Evolution and expression analyses revealed that the expression variation of linalool synthase is likely the major reason for the low linalool content in coffee leaves, despite of the linalool synthase expansion in coffee genome. Additionally, the JA signaling key regulator MYC2 could directly bind to and activate the promoter of linalool synthase to regulate linalool biosynthesis.",
+  "publication_date": "2025-04-17",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.143103",
+  "entities": {
+    "FOOD": [
+      "coffee",
+      "coffee genome",
+      "coffee leaves",
+      "coffee linalool synthase"
+    ],
+    "SYMPTOM": [
+      "biotic and abiotic stresses"
+    ],
+    "POLYPHENOL": [
+      "proanthocyanidins"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "The Growth-Promoting Effects ofPiriformospora indicaon Banana Under Different Concentrations of Phosphorus and Potassium Treatments.",
+  "abstract": "Banana plants require substantial nutrients, and their growth is significantly hindered by nutrient deficiency. This study investigated the influences ofPiriformospora indicacolonization on the growth of clean river sand-cultivated banana plants under varying phosphorus (P) and potassium (K) levels. Banana plants without (CK) and withP. indicacolonization (PI) were watered using Hoagland solutions with four gradients of P or K (100%, 50%, 25%, and 0%). Results showed thatP. indicacolonization promoted the growth of banana plants under different concentrations of P and K treatments. Further analysis revealed that the pseudo-stem P and K contents were very significantly (p< 0.01) positively and positively correlated with biomass-related parameters (aboveground part fresh weight, root fresh weight, and total plant biomass), respectively. Root starch, sucrose, proline (PRO), and anthocyanins contents, as well as leaf malondialdehyde (MDA) and PRO contents, were positively correlated with most growth-related parameters. However, root and leaf flavonoid contents, total antioxidant capacity (T-AOC), and leaf anthocyanin content showed negative correlations with growth-related parameters. Moreover, a very significant negative correlation (p< 0.01) was identified between root T-AOC and root starch content. Additionally,P. indicaaltered the P and K reduction-caused starch content change patterns in both leaves and roots. Our study demonstrated thatP. indicacolonization promoted the growth of banana under different concentrations of P and K treatments by mediating the accumulation of carbohydrates, secondary metabolites, osmoprotectants, and so on.",
+  "publication_date": "2025-06-19",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14121878",
+  "entities": {
+    "FOOD": [
+      "banana",
+      "banana plants",
+      "clean river sand-cultivated banana plants"
+    ],
+    "POLYPHENOL": [
+      "osmoprotectants",
+      "root and leaf flavonoid contents",
+      "secondary metabolites"
+    ]
+  }
+}

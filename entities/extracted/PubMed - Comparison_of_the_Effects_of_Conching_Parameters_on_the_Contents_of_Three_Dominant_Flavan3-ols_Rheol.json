@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Comparison of the Effects of Conching Parameters on the Contents of Three Dominant Flavan3-ols, Rheological Properties and Sensory Quality in Chocolate Milk Mass Based on Liquor from Unroasted Cocoa Beans.",
+  "abstract": "The content of polyphenols in chocolate depends on many factors related to the properties of raw material and manufacturing parameters. The trend toward developing chocolates made from unroasted cocoa beans encourages research in this area. In addition, modern customers attach great importance to how the food they consume benefits their bodies. One such benefit that consumers value is the preservation of natural antioxidant compounds in food products (e.g., polyphenols). Therefore, in our study we attempted to determine the relationship between variable parameters at the conching stage (i.e., temperature and time of) and the content of dominant polyphenols (i.e.,catechins, epicatechins, and procyanidin B2) in chocolate milk mass (CMM) obtained from unroasted cocoa beans. Increasing the conching temperature from 50 to 60 \u00b0C decreased the content of three basic flavan-3-ols. The highest number of these compounds was determined when the process was carried out at 50 \u00b0C. However, the time that caused the least degradation of these compounds differed. For catechin, it was 2 h; for epicatechin it was 1 h; and for procyanidin it was 3 h. The influence of both the temperature and conching time on the rheological properties of chocolate milk mass was demonstrated. At 50 \u00b0C, the viscosity and the yield stress of the conched mass showed its highest value.",
+  "publication_date": "2021-04-25",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules26092502",
+  "entities": {
+    "POLYPHENOL": [
+      "(i.e.,catechins, epicatechins",
+      "catechin",
+      "dominant polyphenols",
+      "e.g., polyphenols",
+      "epicatechin",
+      "polyphenols",
+      "procyanidin"
+    ],
+    "FOOD": [
+      "chocolate",
+      "chocolate milk mass",
+      "developing chocolates",
+      "unroasted cocoa beans"
+    ],
+    "SYMPTOM": [
+      "the yield stress"
+    ]
+  }
+}

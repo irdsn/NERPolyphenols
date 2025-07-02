@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Metabolomics analysis reveal differences in the chemical components ofBrassica napusbee bread fromApis melliferaandApis cerana.",
+  "abstract": "Although mature bee bread is a key natural bee product, comprehensive metabolite profiles remain incomplete. This study comparedBrassica napusbee bread metabolomes fromApis mellifera(BAM) andA. cerana(BAC) using LC-MS broad-target metabolomics. We identified 1090 metabolites across 19 compound classes, with 269 differentially expressed between species. Variation depended critically on bee species, including primary metabolites (42 organic acids, 38 lipids, 21 amino acids/derivatives, 19 saccharides) and secondary metabolites (29 flavonoids, 10 phenols). Results demonstrate significant chemical composition differences in bee bread brewed by different honey bee species. Thus, assessing species-specific biological and pharmacological compositional differences is essential before developing bee bread into wellness or functional foods.",
+  "publication_date": "2025-06-08",
+  "journal": "International journal of food sciences and nutrition",
+  "doi": "10.1080/09637486.2025.2512888",
+  "entities": {
+    "POLYPHENOL": [
+      "29 flavonoids",
+      "bee species",
+      "different honey bee species",
+      "secondary metabolites",
+      "species",
+      "species-specific biological and pharmacological compositional differences"
+    ],
+    "FOOD": [
+      "wellness or functional foods"
+    ]
+  }
+}

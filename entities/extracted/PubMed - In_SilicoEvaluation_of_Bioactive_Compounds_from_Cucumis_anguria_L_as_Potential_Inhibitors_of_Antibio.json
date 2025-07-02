@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "In SilicoEvaluation of Bioactive Compounds from Cucumis anguria L. as Potential Inhibitors of Antibiotic-Resistant New Delhi Metallo-\u03b2-Lactamase (NDM-1).",
+  "abstract": "Traveler's diarrhea (TD), manifested by loose stools, is a critical health issue affecting the digestive system. It poses a significant health risk with documented mortality and morbidity. Escherichia coli andKlebsiellaare primary causative organisms. The emergence of New Delhi metallo-\u03b2-lactamases (NDM-1), initially reported in E. coli and Klebsiella pneumoniae, has driven the rapid dissemination of antibiotic-resistant strains. Thebla NDM-1gene encodes NDM-1, an enzyme that confers resistance to \u03b2-lactam antibiotics. Traditionally, Cucumis anguria L., which is native to Africa and is widely distributed in East and Southern Africa, has been used to alleviate various stomach disorders. The NDM-1 metallo-\u03b2-lactamase protein is involved in the production of \u03b2-lactams. In this study, we have conductedin silicoscreening of natural bioactive compounds, including ethylenediaminetetraacetic acid (EDTA), to identify potential inhibitors of metallo-\u03b2-lactamase protein. Molecular docking is performed to evaluate the binding interactions between the compounds and NDM-1. Subsequently, the ADME/Tox properties of the lead compounds and EDTA are predicted. The phytocompounds homogentisic acid, caffeic acid, and protocatechuic acid have Glide g-scores of -8.818, -8.663, and -8.121 kcal/mol, respectively. They form hydrogen bonds with GLN 123 and ASN 220, along with metal coordination involving Zn2+ions. Molecular dynamics (MD) simulations, including RMSD, RMSF,Rg, and hydrogen bond analyses, are conducted on the top-ranked protein-ligand complexes and EDTA. The results indicate that the protein-ligand complexes remained stable throughout the 100 ns simulation period. This assessment provides the first evidence supporting the specificity and compatibility of potential phytochemicals in C. anguria against TD by inhibiting \u03b2-lactam proteins.",
+  "publication_date": "2025-05-30",
+  "journal": "ACS omega",
+  "doi": "10.1021/acsomega.5c02627",
+  "entities": {
+    "POLYPHENOL": [
+      "caffeic acid",
+      "molecular docking",
+      "protocatechuic acid",
+      "the phytocompounds homogentisic acid",
+      "the specificity"
+    ]
+  }
+}

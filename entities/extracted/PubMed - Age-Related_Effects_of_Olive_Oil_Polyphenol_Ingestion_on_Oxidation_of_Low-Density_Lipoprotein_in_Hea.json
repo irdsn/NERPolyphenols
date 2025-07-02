@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Age-Related Effects of Olive Oil Polyphenol Ingestion on Oxidation of Low-Density Lipoprotein in Healthy Japanese Men: A Randomized Controlled Double-Blind Crossover Trial.",
+  "abstract": "The function of olive oil polyphenols in suppressing the oxidation of low-density lipoprotein (LDL) is well-known in Europeans. However, it remains unclear whether olive oil polyphenols exert antioxidant effects in Japanese people.",
+  "publication_date": "2024-10-01",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16193342",
+  "entities": {
+    "POLYPHENOL": [
+      "antioxidant effects",
+      "olive oil polyphenols"
+    ]
+  }
+}

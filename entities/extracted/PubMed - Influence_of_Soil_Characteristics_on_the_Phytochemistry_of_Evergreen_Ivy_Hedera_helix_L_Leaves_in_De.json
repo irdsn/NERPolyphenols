@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Influence of Soil Characteristics on the Phytochemistry of Evergreen Ivy (Hedera helix L.) Leaves in Deciduous Forests.",
+  "abstract": "The evergreen ivy (Hedera helix L.), traditionally used to treat respiratory conditions, contains triterpene saponins, primarily hederacoside C, and various phenolic compounds. This study investigated the relationships between the chemical composition of ivy leaves and their natural growing conditions (moisture, temperature, pH, and electrical conductivity of soil). Ivy leaves were collected monthly over 1\u00a0year from oak and beech forests. Hederacoside C, rutin, chlorogenic acid (ChA), neoChA, 4,5-dicaffeoylquinic acid (DCQA), and 3,5-DCQA were analyzed by high-performance thin-layer chromatography (HPTLC) and high-performance liquid chromatography (HPLC). Soil parameter data, along with the quantitative HPLC results of ivy leaves, were first subjected to bivariate analysis, which revealed significant correlations, particularly between soil moisture, soil temperature, and the chemical composition of ivy leaves. In addition, ivy samples were classified and clustered based on seasons by principal component analysis (PCA) and hierarchical cluster analysis (HCA), regardless of their collection sites. Digitized HPTLC chromatograms were evaluated by PCA and partial least squares discriminant analysis (PLS-DA) analyses; PCA enabled the grouping of ivy leaves based on their collection sites, and PLS-DA categorized the samples by seasons. The evaluation of the relationships between the phytochemistry of ivy leaves and their natural growing conditions has been reported for the first time.",
+  "publication_date": "2025-06-13",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202403044",
+  "entities": {
+    "POLYPHENOL": [
+      "beech forests",
+      "chlorogenic acid",
+      "electrical conductivity",
+      "rutin",
+      "their collection sites",
+      "various phenolic compounds"
+    ]
+  }
+}

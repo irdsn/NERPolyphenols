@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Valorisation of grape stem as an alternative ingredient in rabbit feed.",
+  "abstract": "Grape stem is a winery by-product that it is currently disposed as waste or at best as soil conditioner. However, it is rich in fibres and polyphenols which makes it interesting for animal feeding. In this regard, rabbit farming emerges as a target livestock farming since fibre content is essential in rabbit's diets for preventing digestive troubles and polyphenols are associated with improved performances in animals due to their antimicrobial and antioxidant activities. This study aims to assess the suitability of a grape stem-based ingredient for rabbit feeding. The stem was dried using flash drying technology to prevent rapid spoilage and stabilise the ingredient. Then, its nutritional value was evaluated resulting in a high fibre (>40%) and polyphenol (>6%) content ingredient with antioxidant and antimicrobial activity againstStaphylococcus aureus. A feed efficiency trial was conducted and inclusion rates of up to 10% of grape stem-based ingredient did not affect animals' mortality, average daily feed intake, daily gain or feed conversion ratio. In conclusion, grape stem-based ingredient arises as a secondary feedstuff for cuniculture reducing the dependence on other fibre sources, such as cereals or sunflower hulls. This could also contribute to reduce the environmental footprint of the wine sector by giving a second life to an existing waste, while generating a new activity based on circular economy.",
+  "publication_date": "2024-06-20",
+  "journal": "Waste management & research : the journal of the International Solid Wastes and Public Cleansing Association, ISWA",
+  "doi": "10.1177/0734242X241259660",
+  "entities": {
+    "FOOD": [
+      "a grape stem-based ingredient",
+      "a winery",
+      "grape stem",
+      "grape stem-based ingredient"
+    ],
+    "POLYPHENOL": [
+      "a second life",
+      "a secondary feedstuff",
+      "circular economy",
+      "flash drying technology",
+      "polyphenols",
+      "the wine sector"
+    ]
+  }
+}

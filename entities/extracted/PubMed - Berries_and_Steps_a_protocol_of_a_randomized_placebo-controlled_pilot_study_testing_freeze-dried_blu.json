@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Berries and Steps: a protocol of a randomized, placebo-controlled pilot study testing freeze-dried blueberry powder in sedentary older adults with mild depressive symptoms.",
+  "abstract": "Older adults spend the majority of their day engaging in sedentary behavior, which increases risk of mortality by 22%. Despite the well-established health benefits of physical activity, a large portion of older adults remain sedentary. Recent evidence suggests that inflammation contributes to lack of motivation, which is a critical barrier to overcoming sedentary behavior in older adults. Given that inflammation is highly modifiable by diet, an anti-inflammatory dietary strategy may be a viable way to improve inflammation-driven lack of motivation and ultimately increase physical activity in sedentary older adults. However, interventions targeting such a pathway are scarce. We propose a study intervention protocol, which aims to determine the feasibility and preliminary efficacy of daily supplementation of freeze-dried blueberries. Supplementation with blueberries provides 2 anti-inflammatory nutrients (fiber and anthocyanins) to theoretically reduce inflammation-driven lack of motivation and thereby enhance physical activity in older adults with sedentary behavior and mild depressive symptoms.",
+  "publication_date": "2025-05-29",
+  "journal": "Nutrition journal",
+  "doi": "10.1186/s12937-025-01154-0",
+  "entities": {
+    "POLYPHENOL": [
+      "recent evidence"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "inflammation-driven lack",
+      "that inflammation"
+    ],
+    "FOOD": [
+      "blueberries",
+      "freeze-dried blueberries"
+    ]
+  }
+}

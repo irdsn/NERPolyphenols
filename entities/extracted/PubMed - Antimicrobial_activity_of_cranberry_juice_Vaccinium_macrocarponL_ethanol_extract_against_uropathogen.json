@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Antimicrobial activity of cranberry juice (Vaccinium macrocarponL.) ethanol extract against uropathogenic bacteria.",
+  "abstract": "Cranberry fruit (Vaccinium macrocarponL) contains a mixture of phytochemicals such as flavonoids which consist of flavonoids, anthocyanins, proanthocyanidins, catechins, phenolic acids, and triterpenoids, all of which have possible antimicrobial (antibacterial, antifungal, and antiviral) activity.",
+  "publication_date": "2025-02-28",
+  "journal": "Open veterinary journal",
+  "doi": "10.5455/OVJ.2025.v15.i2.30",
+  "entities": {
+    "POLYPHENOL": [
+      "catechins",
+      "flavonoids",
+      "proanthocyanidins"
+    ]
+  }
+}

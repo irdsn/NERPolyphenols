@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "The Prolonged Application of Organic Fertilizers Increases the Quality and Yield of Tea Crops.",
+  "abstract": "The substitution of chemical nitrogen (N) with organic fertilizers in tea plantations has been widely recognized as a strategy to maintain tea yield and improve soil quality, ensuring the sustainability of tea production systems. However, the effects of long-term organic-fertilizer substitution on tea yield and quality, soil properties, and bacterial communities have yet to be fully investigated, and the underlying mechanisms affecting tea yield and quality remain unclear. We conducted a six-year-long field experiment in a tea plantation to investigate the relationships among soil properties, bacterial communities, and the yield and quality of tea. Four treatments were compared: no fertilizer (NF), conventional fertilization (CF), 50% chemical N fertilizer substituted with a microbial organic fertilizer (MF), and 50% chemical N fertilizer substituted with a special organic fertilizer for tea (OF). The results showed that the substitution of organic fertilizers increased the spring tea yield by 6.4%~8.5% and the amino acid content of tea by up to 7.8%, while reducing tea polyphenol levels by 1.2-4.4% compared to CF. The soil quality improved significantly, with total phosphorus rising by 20.0% (MF) and 22.9% (OF), and soil organic matter increasing notably in the MF treatment group. The soil quality index (SQI) improved by 38.6% in the OF treatment group compared to the CF treatment group. Organic treatments reshaped bacterial communities, with the OF boostingAcidobacteriota(36.4%) andPlanctomycetota(444.4%), and the MF enrichingActinobacteriaandGemmatimonadetes. Bacterial diversity (Shannon and Chao1 indices) correlated positively with the soil organic matter, total nitrogen, and pH. Changes in microbial communities were driven by pH, soil organic matter, and nitrogen levels. The partial least squares path model analysis confirmed that fertilization indirectly influenced tea yield (67% variance explained) and quality (79% variance explained) via soil properties and bacterial communities. These findings highlight the potential of organic-fertilizer substitution to promote sustainable tea production.",
+  "publication_date": "2025-04-26",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14091317",
+  "entities": {
+    "POLYPHENOL": [
+      "a special organic fertilizer",
+      "tea polyphenol levels",
+      "the effects",
+      "the underlying mechanisms"
+    ]
+  }
+}

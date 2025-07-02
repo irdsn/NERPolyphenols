@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Organic Functional Groups and Their Substitution Sites in Natural Flavonoids: A Review on Their Contributions to Antioxidant, Anti-Inflammatory, and Analgesic Capabilities.",
+  "abstract": "Natural flavonoids are regularly consumed orally and are known to possess antioxidant, anti-inflammatory, and analgesic properties. Yet, there is limited understanding of the role of organic functional groups in imparting these properties. This review paper suggests that several organic functional groups, including the hydroxyl, methoxy, glycosyl, prenylated, and flavonoid groups, play crucial roles in determining the antioxidant, anti-inflammatory, and analgesic abilities of flavonoids. Of particular significance is the contribution of the prenylated group, which notably enhances the anti-inflammatory and analgesic abilities of flavonoids. Among isoflavones, the prenylated groups are primarily situated at C6. Despite their importance, prenylated flavonoids have not received sufficient attention from researchers. Another crucial class of organic functional groups is glycosyl groups, with C3 being a key substitution site among anthocyanins because monosaccharides are commonly found at this position. Conversely, the presence of trisaccharides or a combination of disaccharides and monosaccharides within flavonoids appears to impede their anti-inflammatory and analgesic properties. Additionally, the majority of biflavonoids, excluding polymerized flavanols, demonstrate either anti-inflammatory or analgesic abilities. C8 holds paramount importance among flavanols as the main substitution site for flavonoid substitution. Examination of the significance of substitution sites in flavanones, flavonols, flavones, and chalcones, which possess antioxidant, anti-inflammatory, and analgesic abilities, revealed the importance of total substitution with diverse organic functional groups. Insights from this review can provide the guiding light to the discovery of flavonoids with antioxidant, anti-inflammatory, and analgesic abilities in the future.",
+  "publication_date": "2025-04-30",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70191",
+  "entities": {
+    "POLYPHENOL": [
+      "biflavonoids",
+      "flavonoid substitution",
+      "flavonoids",
+      "natural flavonoids",
+      "prenylated flavonoids",
+      "the hydroxyl, methoxy, glycosyl, prenylated, and flavonoid groups"
+    ]
+  }
+}

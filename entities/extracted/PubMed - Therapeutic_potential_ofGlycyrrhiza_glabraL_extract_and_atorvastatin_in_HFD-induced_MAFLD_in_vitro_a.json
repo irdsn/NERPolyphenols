@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Therapeutic potential ofGlycyrrhiza glabraL. extract and atorvastatin in HFD-induced MAFLD: in vitro and in vivo exploration.",
+  "abstract": "Herein, we investigated the therapeutic potential of combiningGlycyrrhiza glabraL. (G. glabraL.) extract with atorvastatin for the treatment of high-fat diet (HFD)-induced metabolic dysfunction-associated fatty liver disease (MAFLD), using both in vitro and in vivo models. Phytochemical analysis of theG. glabraL. extract revealed the presence of bioactive compounds, such as flavonoids, tannins, saponins, and alkaloids. The extract exhibited total phenolic content (TPC) of approximately 218.77\u00a0mg GAE/g, total flavonoid content (TFC) of 137.09\u00a0mg QCE/g, and significant antioxidant activity as evidenced by DPPH assay with an IC50value of\u2009~\u200930.71\u2009\u00b1\u20090.108\u00a0\u00b5g/milk. The anti-bacterial activity of the extract, measured by the zone of inhibition (ZOI), was notable againstEscherichia coli(E. coli) (~\u200931\u00a0mm) andBacillus subtilis(B. subtilis) (~\u200934\u00a0mm). Furthermore, the combination ofG. glabraL. extract and atorvastatin enhanced anti-bacterial activity againstE. coli(~\u200929\u00a0mm) andB. subtilis(~\u200934\u00a0mm). In the in vivo model, Wistar rats were divided into 6 groups and fed an HFD for six weeks. Biochemical investigation scrutinizes hepatic function, lipid profile, and antioxidant status. The treatment group significantly improved body weight, hepatic function, and lipid biomarkers. Antioxidant assays indicated restoration of liver enzyme activity. Histopathological examination revealed marked hepatocyte ballooning in the disease control group, while the treatment group exhibited restored hepatic architecture. These findings suggest that gut dysbiosis, influenced by HFD, contributes to MAFLD pathogenesis, and combinedG. glabraL. extract and atorvastatin may offer a promising therapeutic approach.",
+  "publication_date": "2025-05-06",
+  "journal": "3 Biotech",
+  "doi": "10.1007/s13205-025-04322-5",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "restored hepatic architecture",
+      "tannins",
+      "total flavonoid content"
+    ],
+    "SYMPTOM": [
+      "gut dysbiosis"
+    ]
+  }
+}

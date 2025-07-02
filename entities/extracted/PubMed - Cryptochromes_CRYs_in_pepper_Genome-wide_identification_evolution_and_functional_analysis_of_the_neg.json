@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Cryptochromes (CRYs) in pepper: Genome-wide identification, evolution and functional analysis of the negative role of CaCRY1 under Phytophthora capsici infection.",
+  "abstract": "Cryptochromes (CRYs) are ultraviolet-A (UV-A) and blue light photoreceptors that perceive UV-A and blue light to mediate a range of physiological processes including disease response in plants. However, there has been no report about the roles of CRY genes in pepper, which often suffers from Phytophthora blight caused by Phytophthora capsici. In this work, three pepper CRY genes were identified and their characteristics were examined by bioinformatics analysis. CaCRY1 is an ortholog of AtCRY1 located in the cytoplasm and nucleus, and expression analysis by RT-qPCR showed that its transcription was differentially regulated by jasmonic acid (JA) and salicylic acid (SA), as well as by P. capsici infection (PCI). Overexpression of CaCRY1 in pepper and Nicotiana benthamiana promoted the susceptibility of plants to PCI. Further virus-induced gene silencing (VIGS) analysis showed that silencing of CaCRY1 promoted the resistance of pepper plants to PCI with decreased disease index and transcripts of genes associated with SA biosynthesis. RNA-seq analysis showed that CaCRY1 silencing affected many genes in stress-related metabolic pathways. In summary, our findings show that CaCRY1 plays a negative role in the defense response of pepper to PCI, laying a foundation for studying the roles of CRYs in the future.",
+  "publication_date": "2025-03-06",
+  "journal": "Plant science : an international journal of experimental plant biology",
+  "doi": "10.1016/j.plantsci.2025.112460",
+  "entities": {
+    "POLYPHENOL": [
+      "blue light photoreceptors",
+      "decreased disease index",
+      "p. capsici infection",
+      "salicylic acid"
+    ],
+    "FOOD": [
+      "pepper",
+      "pepper plants",
+      "three pepper cry genes"
+    ],
+    "SYMPTOM": [
+      "stress-related metabolic pathways"
+    ]
+  }
+}

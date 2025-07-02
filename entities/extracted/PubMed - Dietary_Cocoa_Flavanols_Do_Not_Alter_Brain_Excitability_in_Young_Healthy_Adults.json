@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Dietary Cocoa Flavanols Do Not Alter Brain Excitability in Young Healthy Adults.",
+  "abstract": "The ingestion of dietary cocoa flavanols acutely alters functions of the cerebral endothelium, but whether the effects of flavanols permeate beyond this to alter other brain functions remains unclear. Based on converging evidence, this work tested the hypothesis that cocoa flavanols would alter brain excitability in young healthy adults. In a randomised, cross-over, double-blinded, placebo-controlled design, transcranial magnetic stimulation was used to assess corticospinal and intracortical excitability before as well as 1 and 2 h post-ingestion of a beverage containing either high (695 mg flavanols, 150 mg (-)-epicatechin) or low levels (5 mg flavanols, 0 mg (-)-epicatechin) of cocoa flavanols. In addition to this acute intervention, the effects of a short-term chronic intervention where the same cocoa flavanol doses were ingested once a day for 5 consecutive days were also investigated. For both the acute and chronic interventions, the results revealed no robust alteration in corticospinal or intracortical excitability. One possibility is that cocoa flavanols yield no net effect on brain excitability, but predominantly alter functions of the cerebral endothelium in young healthy adults. Future studies should increase intervention durations to maximize the acute and chronic accumulation of flavanols in the brain, and further investigate if cocoa flavanols would be more effective at altering brain excitability in older adults and clinical populations than in younger adults.",
+  "publication_date": "2024-03-27",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16070969",
+  "entities": {
+    "FOOD": [
+      "cocoa flavanols",
+      "dietary cocoa flavanols",
+      "the same cocoa flavanol doses"
+    ],
+    "POLYPHENOL": [
+      "-)-epicatechin",
+      "5 consecutive days",
+      "no net effect",
+      "the effects"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Combining in vivo and in vitro approaches to investigate the effect of sainfoin on strongyle infection, immunity, and large intestine ecosystem of horses.",
+  "abstract": "Sainfoin (Onobrychis viciifolia), a polyphenol-rich plant, has shown promising anti-parasitic properties in ruminants, but results in horses are fewer and inconsistent. The mechanisms of action involved are not fully understood and different factors may influence its anti-parasitic properties. Recently, it has been shown that the effect of sainfoin depends on the horse's diet. Indeed, the inclusion of dehydrated sainfoin pellets in a high-starch diet limited the rate of increase in strongyle egg shedding over a short period of time (21 d). The objective of this study was to evaluate, in vivo, the effect of long-term inclusion of sainfoin in a high-starch diet on strongyle infection and intestinal health in horses and to compare in vitro anti-parasitic activity of 2 different dehydrated sainfoin pellets. Horses known to have a past history of strongyle egg excretion (n\u2005=\u200516) were allocated to 2 groups and fed with a high-starch diet containing either sainfoin (SF) pellets or control pellets (sunflower and hay) (CONT) for 84 d. In vitro tests including egg hatch test (EHT) and larval migration inhibition test (LMIT) were performed with different concentrations of aqueous extracts of the sainfoin pellets. No effect of the inclusion of sainfoin in the high-starch diet was observed on the number of strongyle eggs excreted in the feces (P\u2005=\u20050.671). At the different sampling dates, including sainfoin in a high-starch diet-induced some changes in the relative abundance of bacterial taxa (e.g., Oscillibacter, P\u2005<\u20050.05), but not on bacterial diversity (all P's\u2005>\u20050.05), function (P\u2005>\u20050.05) or activity (P\u2005>\u20050.05). Adding sainfoin to a high-starch diet increased plasma acetate concentration (P\u2005=\u20050.032) but no statistically significant differences were observed on other markers of intestinal integrity (plasma lipopolysaccharides) and health (complete blood count) (all P's\u2005>\u20050.05). Both sainfoin pellets showed anti-parasitic activity in the 2 in vitro tests (all P's\u2005<\u20050.05), and 1 sainfoin had a stronger anti-parasitic effect than the other (EHT, all P's\u2005<\u20050.05; LMIT, P\u2005=\u20050.008). Overall, these results suggest that the anti-parasitic effect of sainfoin may depend on its polyphenolic concentration. Thus, preliminary in vitro testing may help to identify sainfoin best suited for in vivo use.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of animal science",
+  "doi": "10.1093/jas/skaf100",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol-rich plant",
+      "a stronger anti-parasitic effect",
+      "its polyphenolic concentration",
+      "no effect",
+      "strongyle infection",
+      "the anti-parasitic effect",
+      "the effect",
+      "the feces",
+      "the mechanisms",
+      "the objective"
+    ]
+  }
+}

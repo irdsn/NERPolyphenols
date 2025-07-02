@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "SIRT1 Mediated by Baicalein and GFI1 Promotes Osteogenic Differentiation and Ameliorates Osteoporosis by Inhibiting Ferroptosis in Bone Marrow Mesenchymal Stem Cells.",
+  "abstract": "Osteogenic differentiation (OD) of human bone marrow mesenchymal stem cells (hBMSCs) plays a vital role in bone formation, and its impairment contributes to osteoporosis, particularly estrogen-deficient osteoporosis (EDO). Baicalein (BN) and silent information regulator of transcription 1 (SIRT1) have been implicated in bone metabolism; however, the upstream regulatory mechanisms of SIRT1 and the potential synergistic effect of BN with the transcription factor growth factor independent 1 (GFI1) remain unclear. In this study, target genes were identified via SwissTargetPrediction and GeneCards databases, and protein-protein interaction (PPI) networks were constructed with Cytoscape software. The mRNA and protein expression levels were analyzed by RT-qPCR and Western blotting. The Alkaline phosphatase (ALP) Assay Kit was employed to analyze ALP activity in osteogenically differentiated hBMSCs. Alizarin red S (ARS) staining was utilized to assess cell calcification. Apoptosis was determined by flow cytometry. Kits were used to test changes in ferroptosis-related indicators such as malondialdehyde (MDA), glutathione (GSH), reactive oxygen species (ROS) and Fe2+content. Cell viability was determined by the CCK-8 assay. The binding of GFI1 to the SIRT1 promoter was confirmed by dual-luciferase reporter and chromatin immunoprecipitation (ChIP) assays. A rat osteoporosis model was established for in vivo validation. Bioinformatics analysis identified SIRT1 as a common target of BN, ferroptosis, and EDO. SIRT1 expression was significantly decreased in osteoporosis patients' peripheral blood but upregulated duringOD, paralleling increased GFI1 expression. ChIP assays confirmed GFI1's direct binding to the SIRT1 promoter, activating its transcription. BN treatment enhanced SIRT1 protein level. BN and GFI1 synergistically regulated SIRT1 at protein and transcriptional levels, respectively, promoting OD and inhibiting apoptosis and ferroptosis in hBMSCs. In vivo, BN facilitated OD in osteoporosis rats. These findings revealed a novel dual-level regulatory mechanism of SIRT1 by BN and GFI1, providing new insights into osteoporostic pathogenesis and suggesting potential therapeutic targets.",
+  "publication_date": "2025-07-01",
+  "journal": "Journal of biochemical and molecular toxicology",
+  "doi": "10.1002/jbt.70368",
+  "entities": {
+    "SYMPTOM": [
+      "a rat osteoporosis model",
+      "apoptosis",
+      "osteoporosis",
+      "osteoporosis patients' peripheral blood",
+      "osteoporosis rats",
+      "particularly estrogen-deficient osteoporosis"
+    ],
+    "POLYPHENOL": [
+      "a novel dual-level regulatory mechanism",
+      "baicalein",
+      "gfi1's direct binding",
+      "however, the upstream regulatory mechanisms",
+      "swisstargetprediction and genecards databases",
+      "the potential synergistic effect"
+    ]
+  }
+}

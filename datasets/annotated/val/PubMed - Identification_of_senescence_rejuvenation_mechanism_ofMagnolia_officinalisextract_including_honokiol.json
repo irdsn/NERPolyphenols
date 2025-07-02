@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Identification of senescence rejuvenation mechanism ofMagnolia officinalisextract including honokiol as a core ingredient.",
+  "abstract": "Reactive oxygen species (ROS) contribute to aging by mainly damaging cellular organelles and DNA. Although strategies to reduce ROS production have been proposed as important components of anti-aging therapy, effective mechanisms to lower ROS levels have not yet been identified. Here, we screened natural compounds frequently used as cosmetic ingredients to find substances that reduce ROS levels.Magnolia officinalis(M. officinalis) extract significantly lowered the levels of ROS in senescent fibroblasts. A novel mechanism by whichM. officinalisextract restores mitochondrial function to reduce ROS, a byproduct of inefficient electron transport, was discovered. The reduction of ROS byM. officinalisextracts reversed senescence-associated phenotypes and skin aging. Then, honokiol was demonstrated as a core ingredient ofM. officinalisextract that exhibits antioxidant effects. Honokiol functions as an oxygen radical scavenger through redox processes, also significantly reduced ROS levels by restoring mitochondrial function. In summary, our study identified a novel mechanism by whichM. officinalisextract reverses aging and skin aging by reducing ROS through restoring mitochondrial function. These new findings will not only expand our understanding of aging and associated diseases, but also provide new approaches to anti-aging treatments.",
+  "publication_date": "2025-02-21",
+  "journal": "Aging",
+  "doi": "10.18632/aging.206207",
+  "entities": {
+    "POLYPHENOL": [
+      "a novel mechanism",
+      "antioxidant effects",
+      "effective mechanisms",
+      "inefficient electron transport",
+      "reactive oxygen species"
+    ],
+    "SYMPTOM": [
+      "aging",
+      "aging and associated diseases",
+      "anti-aging therapy",
+      "anti-aging treatments"
+    ]
+  }
+}

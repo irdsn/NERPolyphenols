@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Boosting microbial nitrogen removal through green-engineered iron nanocomposites: A sustainable strategy for high-strength inorganic nitrogen wastewater treatment.",
+  "abstract": "Heterotrophic nitrification and aerobic denitrification are critical biochemical pathways for nitrogen removal in wastewater treatment systems. These processes are predominantly mediated by microorganisms, whose bioremediation capacity is often constrained when treating wastewater with high concentrations of inorganic nitrogen. In this study, a novel zeolite (Ze)-supported sulfurized nanoscale zerovalent iron (NZVI) with tea polyphenols (TP) (TP-Ze-NZVI/S) was synthesized through an innovative, low-energy green vacuum reduction method, utilizing TP as the reducing agent. The addition of TP-Ze-NZVI/S significantly enhanced the nitrogen removal capacity of Pseudomonas fragi EH-H1, achieving removal efficiencies of 99.49\u00a0%, 71.20\u00a0%, and 95.68\u00a0% for nitrate, nitrite, and ammonium, respectively. Compared to the standalone strain EH-H1, the TP-Ze-NZVI/S supplementation improved the removal efficiencies by 20.81\u00a0%, 18.61\u00a0%, and 18.87\u00a0% for nitrate, nitrite, and ammonium, respectively. Notably, in wastewater containing both ammonium and nitrate, the removal efficiencies reached 93.74\u00a0% for nitrate and 87.87\u00a0% for ammonium, representing substantial increases of 63.35\u00a0% and 30.04\u00a0%, respectively, over the strain EH-H1 alone. These enhancements were attributed to the TP-Ze-NZVI/S-induced elevation in nitrogen-related enzyme activities, gaseous nitrogen loss rates, electron transport system activity, adenosine triphosphate levels, and upregulation of nitrogen metabolism genes in strain EH-H1. These findings provide a foundation for the development of environmentally benign nanomaterials to augment microbial remediation capabilities in wastewater treatment systems with high levels of inorganic nitrogen.",
+  "publication_date": "2025-05-26",
+  "journal": "Environmental research",
+  "doi": "10.1016/j.envres.2025.121967",
+  "entities": {
+    "POLYPHENOL": [
+      "electron transport system activity",
+      "tea polyphenols"
+    ]
+  }
+}

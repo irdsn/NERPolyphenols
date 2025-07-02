@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Long-term arsenic exposure perturbs gut microbial diversity, composition and predicts metabolic dysregulation.",
+  "abstract": "The present study documents significant alterations in human gut microbial composition in arsenic exposed populations of West Bengal, India through amplicon sequencing of human stool metagenomic DNA. A notable reduction in \u03b1-diversity underscored a reduced species richness and an altered predominance. \u03b2- diversity analysis revealed prominent inter-individual differences. Among the 26 phyla detected, significant perturbation was noted in Bacteroidetes, Actinobacteria, Proteobacteria, and Firmicutes. Species analysis identified significant increase in Bifidobacterium adolescentis, B.longum, Blautia luti, B.wexlerae, Clostridium saudiense, Romboutsia timonensis and Streptococcus salivarius whereas members of Faecalibacterium prausnitzii, Megasphaera elsdenii, Prevotella copri and P. stercorea were found to be highly diminished due to As stress. PICRUSt analysis predicted significant upregulation (pT-test< 0.05) in gene families associated with carbohydrate, amino acid, nucleotide and lipid metabolism along with fermentation and secondary metabolite/ vitamin synthesis pathways in exposed group confirmed through Linear Discriminant Analysis. B.longum, B.luti and S.salivarius were found to be associated with obesity and ulcerative colitis. Network interactions were also characterized with major disruptions in keystone species interaction. The major findings of this study shall drive future studies like community-based metagenomics, metabolomics and in-vitro microbial verifications for designing of microbial therapeutics targeting gut health to combat the harmful impact of As exposure.",
+  "publication_date": "2025-06-06",
+  "journal": "Journal of hazardous materials",
+  "doi": "10.1016/j.jhazmat.2025.138836",
+  "entities": {
+    "POLYPHENOL": [
+      "a reduced species richness",
+      "faecalibacterium prausnitzii",
+      "keystone species interaction",
+      "secondary metabolite/ vitamin synthesis pathways",
+      "species analysis"
+    ],
+    "SYMPTOM": [
+      "obesity",
+      "stress"
+    ]
+  }
+}

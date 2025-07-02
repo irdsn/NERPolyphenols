@@ -1,0 +1,39 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "A ProprietaryPunica granatum pericarpExtract, Its Antioxidant Properties Using Multi-Radical Assays and Protection Against UVA-Induced Damages in a Reconstructed Human Skin Model.",
+  "abstract": "Background:Within the solar ultraviolet (UV) spectrum, ultraviolet A rays (UVA, 320-400 nm), although less energetic than ultraviolet B rays (UVB, 280-320 nm), constitute at least 95% of solar UV radiation that penetrates deep into the skin The UV rays are associated with both epidermal and dermal damage resulting from the generation of reactive oxygen species (ROS). Among them, the longest UVA wavelengths (UVA1, 340-400 nm) can represent up to 75% of the total UV energy. Therefore, UVA radiation is linked to various acute and chronic conditions, including increased skin pigmentation and photoaging. Despite many advances in the skin photoprotection category, there is still a growing demand for natural daily photoprotection active ingredients that offer broad protection against skin damage caused by UVA exposure. In our quest to discover new, disruptive, next generation of photoprotective ingredients, we were drawn to pomegranate, based on its diverse polyphenolic profile. We investigated the pericarp of the fruit, so far considered as byproducts of the pomegranate supply chain, to design a novel patented extract \"POMAOX\" with a desired spectrum of phenolic components comprising of\u03b1\u03b2-punicalagins,\u03b1\u03b2-punicalins and ellagic acid.Methods: Antioxidant properties of POMAOX were measured using in-tubo standard tests capable of revealing a battery of radical oxygen species (ROS): peroxyl radical (ORAC), singlet oxygen (SOAC), superoxide anion (SORAC), peroxynitrite (NORAC), and hydroxyl radical (HORAC). In vitro, confirmation of antioxidant properties was first performed by evaluating protection against UVA-induced lipid peroxidation in human dermal fibroblasts (HDF), via the release of 8 iso-prostanes. The protection offered by POMAOX was further validated in a 3D in vitro reconstructed T-SkinTMmodel, by analyzing tissue viability/morphology and measuring the release of Matrix Metallopeptidase 1 (MMP-1) & pro-inflammatory mediators (IL-1\u03b1, IL-1ra, IL-6, IL-8, GM-CSF, and TNF-\u03b1) after UVA1 exposure.Results:POMAOX displayed strong antioxidant activity against peroxynitrite (NORAC) at 1.0-3.0 ppm, comparable to the reference vitaminC, as well as singlet oxygen (SOAC) at 220 ppm, and superoxide radicals with a SORAC value of 500 ppm. Additionally, POMAOX demonstrated strong photoprotection benefit at 0.001% concentration, offering up to 74% protection against UVA-induced lipid peroxidation on HDF, in a similar range as the positive reference, Vitamin E at 0.002% (50 \u00b5M), and with higher efficacy than ellagic acid alone at 5 \u00b5M. Moreover, our pomegranate-derived extract delivered photoprotection at 0.001%, mitigating dermal damages induced by UVA1, through inhibition of MMP-1 and significant inhibition of pro-inflammatory mediators release (including IL-1\u03b1, IL-1ra, IL-6, IL-8, GM-CSF, and TNF\u03b1) on an in vitro reconstructed full-thickness human skin model with a similar level of protection to that of Vitamin C tested at 0.035% (200 \u00b5M).Conclusions: Overall, the novel pomegranate-derived extract \"POMAOX\" significantly reduced the impact of UVA on human skin, due to its broad-spectrum antioxidant profile. These findings suggest that POMAOX could offer enhanced protection against the detrimental effects of UV exposure, addressing the growing consumer demand for strong photoprotection with skincare benefits.",
+  "publication_date": "2025-02-28",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14030301",
+  "entities": {
+    "POLYPHENOL": [
+      "a desired spectrum",
+      "an in vitro reconstructed full-thickness human skin model",
+      "broad protection",
+      "ellagic acid",
+      "enhanced protection",
+      "its broad-spectrum antioxidant profile",
+      "its diverse polyphenolic profile",
+      "natural daily photoprotection",
+      "photoprotection",
+      "photoprotective ingredients",
+      "protection",
+      "radical oxygen species",
+      "reactive oxygen species",
+      "strong photoprotection",
+      "strong photoprotection benefit",
+      "the detrimental effects",
+      "the protection",
+      "the skin photoprotection category",
+      "the solar ultraviolet (uv) spectrum",
+      "up to 74% protection",
+      "vitro reconstructed t-skintmmodel"
+    ],
+    "FOOD": [
+      "our pomegranate-derived extract",
+      "the novel pomegranate-derived extract \"pomaox",
+      "the pomegranate supply chain"
+    ]
+  }
+}

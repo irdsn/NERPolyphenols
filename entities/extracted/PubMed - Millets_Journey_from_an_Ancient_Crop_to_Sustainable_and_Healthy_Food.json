@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Millets: Journey from an Ancient Crop to Sustainable and Healthy Food.",
+  "abstract": "Millets, often known as \"nutri-cereals\", have garnered renewed global interest due to their numerous health benefits, rich nutritional composition, resilience to extreme climatic conditions, and minimal environmental footprint. The advent of rice and wheat as staple foods in the 1960s led to drastic decline in millet cultivation worldwide. Recognizing the importance of millet, the United Nations (UN) declared 2023 as the International Year of Millets in an effort to accomplish Sustainable Development Goal 2 (SDG-2), i.e., zero hunger, by increasing millet production and fostering research and development to improve the integration of these grains into mainstream food systems. In recent years, global production of millets has surged, with India leading as the top producer. Millets are nutritionally advantageous, consisting of carbohydrates, antioxidants, and biologically active compounds such as flavonoids, carotenoids, phenolic acids, minerals, and vitamins. Incorporating millets into a balanced diet can help control and prevent diseases such as cardiovascular disease, diabetes, inflammation, and malnutrition due to their enriched vital nutrients, low glycemic index, and gluten-free nature. This indicates a transition of millets from an \"orphan crop\" to being used as ingredients for products (with or without fermentation) that are nutrient-rich, climate-resilient, sustainable, and health-promoting.",
+  "publication_date": "2025-05-13",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14101733",
+  "entities": {
+    "FOOD": [
+      "wheat"
+    ],
+    "POLYPHENOL": [
+      "drastic decline",
+      "flavonoids",
+      "recent years"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

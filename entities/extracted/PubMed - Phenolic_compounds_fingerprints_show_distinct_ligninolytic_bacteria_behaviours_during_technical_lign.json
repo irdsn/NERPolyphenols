@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Phenolic compounds fingerprints show distinct ligninolytic bacteria behaviours during technical lignins conversion.",
+  "abstract": "Lignins, one of the main components of plant cell wall, and by-products of certain industries (paper and wood industries,\u2026) are a renewable source of aromatic molecules. They can be degraded and transformed by microbial and enzymatic processes known to be respectful of the environment. Biological valorization of lignins remains challenging as biocatalysts are not sufficiently effective and efficient. Moreover, the chemical complexity and heterogeneity of lignins are a barrier to their use. Understanding the microbial behaviour on lignins by fingerprinting their efficient transformation could lead to the development of effective biological routes to valorise these aromatic polymers. Ligninolytic bacteria present some interesting features in term of ligninolytic enzymes productions, utilization of aromatic compounds via various intracellular pathways and the productions of molecules of interest from aromatic molecules. In this work, multiple approaches (growth studies, ligninolytic activities production, lignin modifications and phenolic compounds fingerprints) were used to understand the behaviour of two ligninolytic bacteria Pandoraea norimbergensis and Comamonas composti, in presence of lignins with different structures and origins. Results showed dissimilar growths profiles, lignin modifications, consumption and production of phenolic monomers and oligomers according to the bacteria and the lignin used. To achieve efficient transformation of lignins, suitable combination of biocatalysts and lignins is required and the microorganisms used must be selected on the basis of their metabolic capacity, and the structure and composition of lignin.",
+  "publication_date": "2025-06-28",
+  "journal": "New biotechnology",
+  "doi": "10.1016/j.nbt.2025.06.004",
+  "entities": {
+    "POLYPHENOL": [
+      "aromatic molecules",
+      "effective biological routes",
+      "molecules",
+      "phenolic compounds fingerprints"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "NtSHN3 directly inhibits the expression of NtF6'H1 and NtTOGT1 genes to prevent the accumulation of scopoletin in Nicotiana tabacum.",
+  "abstract": "Scopoletin is a kind of coumarins, which play essential roles in plant development and human health. SHN1/WIN1 has been shown to promote polyphenols biosynthesis in tobacco, but the roles of its homologous protein SHN3 in regulating secondary metabolite accumulation are still unclear. In this study, we identified a new SHINE-type transcription factor NtSHN3 from N. tabacum, which showed low sequence identities and different spatial conformation with the known NtWIN1. Overexpression of NtSHN3 resulted in the decrease of scopoletin levels in the leaves, flowers, and capsules compared to that in WT plants. In contrast, the scopoletin contents in the leaves, flowers, and capsules of ntshn3 lines were significantly higher than that in WT plants. RNA-seq revealed six phenylpropanoid pathway related differentially expressed genes in NtSHN3-OE lines, and our findings additionally demonstrated that NtSHN3 directly interacts with the promoter regions of NtF6'H1 and NtTOGT1, suppressing their gene expression. Knock-out NtF6'H1 and NtTOGT1 significantly inhibited scopoletin accumulation in N. tabacum, and the contents of scopoletin in ntshn3/ntf6'h1 and ntshn3/nttogt1 double mutants were significantly decreased compared to those in the WT and ntshn3 mutant plants, but were the same with that in the ntf6'h1 and nttogt1 mutant, respectively, confirming that NtF6'H1 and NtTOGT1 function downstream of NtSHN3 to regulate scopoletin biosynthesis in tobacco. Our study elucidates the novel function of NtSHN3, and provides insights into the regulation of scopoletin biosynthesis in tobacco.",
+  "publication_date": "2025-05-26",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.110080",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols biosynthesis",
+      "secondary metabolite accumulation",
+      "the decrease"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "A pH-sensitive double-layer film based on gellan gum/cellulose acetate and modified anthocyanins with high color stability for monitoring fish freshness.",
+  "abstract": "A two-step approach was employed to modify anthocyanins in order to enhance their stability in smart packaging. Initially, maleic anhydride was combined with anthocyanin through solvent-free acylation for the acylation reaction, followed by mixing with tannic acid in varying ratios for co-coloring. The acylation modification significantly enhanced the thermal, light, and pH stability of the anthocyanins. The pre and post-co-pigmentation anthocyanins exhibited significant pH sensitivity in different buffers, while the temperature stability of the anthocyanins notably increased after co-pigmentation. The modified anthocyanins were incorporated into gellan gum as the inner indicator film and cellulose acetate with geranyl acetate as the outer antimicrobial film. Scanning electron microscope, Fourier transform infrared spectroscopy and X-ray diffraction demonstrated that the addition of tannic acid resulted in a more uniform molecular structure of the films. The optical properties, mechanical properties, water solubility/vapor barrier and color stability of the films were increased following co-pigmentation. Application of this film on grass carp not only enabled real-time monitoring of fish freshness but also extended shelf life by 1-2\u00a0days.",
+  "publication_date": "2025-05-05",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116585",
+  "entities": {
+    "SYMPTOM": [
+      "smart packaging"
+    ],
+    "POLYPHENOL": [
+      "a more uniform molecular structure",
+      "electron microscope",
+      "infrared spectroscopy",
+      "mechanical properties"
+    ]
+  }
+}

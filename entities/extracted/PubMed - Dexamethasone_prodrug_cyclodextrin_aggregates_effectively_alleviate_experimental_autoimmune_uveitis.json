@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Dexamethasone prodrug cyclodextrin aggregates effectively alleviate experimental autoimmune uveitis.",
+  "abstract": "Noninfectious uveitis (NIU) remains a significant cause of vision impairment, typically managed with glucocorticoids. However, current glucocorticoid implants present considerable side effects, including elevated intraocular pressure and cataracts. To overcome these limitations, we synthesized a novel prodrug, dexamethasone gallate (DG), which possesses the powerful anti-inflammatory ability of dexamethasone (DEX) and exhibits strong antioxidant activity of gallic acid (GA) that helps protect ocular tissues against oxidative stress. DG was formulated into cyclodextrin microparticle suspension eye drops, designed to progressively disintegrate and penetrate ocular tissues effectively. In experimental autoimmune uveitis (EAU) models, DG suspension eye drops demonstrated comparable therapeutic efficacy to conventional DEX eye drops at reduced dosages, significantly reducing anterior and posterior ocular inflammation. Notably, DG formulations substantially minimized intraocular pressure elevation and glucocorticoid-related adverse effects. These findings support the potential of DG suspension eye drops as a safer, efficient, and patient-friendly therapeutic alternative for treating NIU.",
+  "publication_date": "2025-06-21",
+  "journal": "Colloids and surfaces. B, Biointerfaces",
+  "doi": "10.1016/j.colsurfb.2025.114889",
+  "entities": {
+    "POLYPHENOL": [
+      "considerable side effects",
+      "gallic acid",
+      "glucocorticoid-related adverse effects",
+      "noninfectious uveitis"
+    ],
+    "SYMPTOM": [
+      "anterior and posterior ocular inflammation",
+      "oxidative stress"
+    ],
+    "FOOD": [
+      "reduced dosages"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Quantification of gossypetin, myricetin, quercetin and isorhamnetin in mouse plasma: Pharmacokinetic profiling after oral administration of total flavone of Abelmoschi Corolla.",
+  "abstract": "The total flavone of Abelmoschi Corolla (TFA) has diverse pharmacological effects, including anti-inflammatory and antioxidant properties, and improving insulin resistance. Clinically, TFA has been utilized for a substantial duration for managing various renal diseases. Phase II metabolites, such as sulfated and glucuronidated conjugates, are the primary in vivo forms of flavonoids and may mediate the pharmacological effects of TFA. However, the direct quantification of conjugated metabolites is limited by the lack of reference standards. To address this, \u03b2-glucuronidase/sulfatase hydrolysis can be used to cleave these conjugates, releasing aglycones and enabling the indirect quantification of total flavonoids. In this study, a reliable and sensitive ultra-high-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) method was developed and validated for the quantification of gossypetin, myricetin, quercetin, and isorhamnetin in mouse plasma following enzymatic hydrolysis. Chromatographic separation was performed using a Waters ACQUITY UPLC HSS-T3 column with gradient elution. The mobile phase consisted of acetonitrile and water (both containing 0.1\u202f% formic acid) at a flow rate of 0.35\u202fmL/min. The method was validated for plasma analysis and successfully applied to a pharmacokinetic study in mice following oral administration of TFA. The results showed that the analyzed aglycones rapidly attained maximum plasma concentrations. The area under the curve for each compound demonstrated a positive correlation with the administered dose in the range of 100-400\u202fmg/kg. Moreover, the isorhamnetin concentration increased significantly following 7-day repeated gavage compared to that with a single 200\u202fmg/kg TFA dose. These pharmacokinetic findings may inform future drug development and clinical applications of TFA-derived substances.",
+  "publication_date": "2025-06-18",
+  "journal": "Journal of pharmaceutical and biomedical analysis",
+  "doi": "10.1016/j.jpba.2025.117039",
+  "entities": {
+    "POLYPHENOL": [
+      "diverse pharmacological effects",
+      "flavonoids",
+      "isorhamnetin",
+      "myricetin",
+      "quercetin",
+      "the direct quantification",
+      "the indirect quantification",
+      "the isorhamnetin concentration",
+      "the pharmacological effects",
+      "total flavonoids"
+    ],
+    "SYMPTOM": [
+      "insulin resistance"
+    ]
+  }
+}

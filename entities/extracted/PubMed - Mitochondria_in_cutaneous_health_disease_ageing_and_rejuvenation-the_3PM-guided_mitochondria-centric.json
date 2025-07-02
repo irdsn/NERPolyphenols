@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Mitochondria in cutaneous health, disease, ageing and rejuvenation-the 3PM-guided mitochondria-centric dermatology.",
+  "abstract": "Association of both intrinsic and extrinsic risk factors leading to accelerated skin ageing is reflected in excessive ROS production and ir/reversible mitochondrial injury and burnout, as abundantly demonstrated by accumulating research data. Due to the critical role of mitochondrial stress in the pathophysiology of skin ageing and disorders, maintained (primary care) and restored (secondary care) mitochondrial health, rejuvenation and homoeostasis are considered the most effective holistic approach to advance dermatological treatments based on systemic health-supportive and stimulating measures. Per evidence, an effective skin anti-ageing protection, wound healing and scarring quality - all strongly depend on the sustainable mitochondrial functionality and well-balanced homoeostasis. The latter can be objectively measured and, if necessary, restored in a systemic manner by pre- and rehabilitation algorithms tailored to individualised patient profiles. The entire spectrum of corresponding innovations in the area includes natural and systemic skin rejuvenation, aesthetic and reconstructive medicine, sustainable skin protection and targeted treatments of skin disorders. Contextually, mitochondria-centric dermatology is instrumental for advanced 3PM-guided approach which makes a good use of predictive multi-level diagnostics and targeted protection of skin against both - the health-to-disease transition and progression of relevant disorders. Cost-effective targeted protection and new treatment avenues focused on sustainable mitochondrial health and physiologic homoeostasis are proposed in the article including in-depth analysis of patient cases and exemplified 3PM-guided care with detailed mechanisms and corresponding expert recommendations presented.",
+  "publication_date": "2025-02-14",
+  "journal": "The EPMA journal",
+  "doi": "10.1007/s13167-025-00400-z",
+  "entities": {
+    "SYMPTOM": [
+      "mitochondrial stress"
+    ],
+    "POLYPHENOL": [
+      "aesthetic and reconstructive medicine",
+      "an effective skin anti-ageing protection",
+      "corresponding expert recommendations",
+      "cost-effective targeted protection",
+      "detailed mechanisms",
+      "secondary care",
+      "sustainable skin protection",
+      "targeted protection",
+      "the entire spectrum",
+      "the most effective holistic approach"
+    ]
+  }
+}

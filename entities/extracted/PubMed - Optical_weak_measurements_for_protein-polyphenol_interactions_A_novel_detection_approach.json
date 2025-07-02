@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Optical weak measurements for protein-polyphenol interactions: A novel detection approach.",
+  "abstract": "Protein-polyphenol interactions are crucial in food chemistry, yet current detection methods have limitations. This study innovatively uses optical weak measurement. Key variables like central wavelength shifts were measured in systems with chlorogenic acid, tea polyphenols, and various proteins. A linear relationship between polyphenol concentration and wavelength shift was found, and a new calculation strategy for binding constants and sites was developed, showing consistent trends with fluorescence quenching. The method is label-free and applicable to non-immobilized biomolecules, offering cost-effective and accurate detection. However, it's sensitive to solution fluctuations and complex samples. Future research should optimize the device and detection techniques to improve stability and capture interaction dynamics. This study provides a valuable tool for food chemistry research.",
+  "publication_date": "2025-04-18",
+  "journal": "Talanta",
+  "doi": "10.1016/j.talanta.2025.128185",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "cost-effective and accurate detection",
+      "current detection methods",
+      "non-immobilized biomolecules",
+      "polyphenol concentration and wavelength shift",
+      "protein-polyphenol interactions",
+      "tea polyphenols",
+      "the device and detection techniques"
+    ]
+  }
+}

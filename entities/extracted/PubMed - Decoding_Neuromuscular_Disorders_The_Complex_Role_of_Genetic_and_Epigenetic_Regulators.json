@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Decoding Neuromuscular Disorders: The Complex Role of Genetic and Epigenetic Regulators.",
+  "abstract": "Neuromuscular disorders (NMDs), such as amyotrophic lateral sclerosis (ALS), spinal muscular atrophy (SMA), and muscular dystrophies (e.g., Duchenne muscular dystrophy, DMD), are primarily driven by genetic mutations but are critically modulated by epigenetic mechanisms such as DNA methylation, histone modifications, and noncoding RNA activity. These epigenetic processes contribute to phenotypic variability and disease progression, and emerging evidence suggests that environmental factors, particularly nutrition and exercise, may further influence the molecular pathways that modulate these diseases. Dietary bioactive compounds (e.g., polyphenols and omega-3 fatty acids) exhibit epigenetic modulatory properties, which could mitigate oxidative stress, inflammation, and muscle degeneration in NMDs. For example, the inhibition of DNMTs and HDACs by curcumin in ALS models and the promyogenic effects of green tea catechins in DMD suggest plausible, though still requiring investigation, therapeutic avenues. However, the clinical application of nutriepigenetic interventions is preliminary and requires further validation. This review examines the interaction of genetic and epigenetic factors in ALS, SMA, and muscular dystrophies, highlighting their combined role in the heterogeneity of these diseases. Integrative therapeutic strategies combining gene therapies, epigenetic modulators, and lifestyle interventions may offer a multidimensional approach to the management of NMD. A deeper understanding of these interactions will be essential for advancing precision medicine and improving patient outcomes.",
+  "publication_date": "2025-05-23",
+  "journal": "Genes",
+  "doi": "10.3390/genes16060622",
+  "entities": {
+    "POLYPHENOL": [
+      "curcumin",
+      "epigenetic mechanisms",
+      "green tea catechins",
+      "polyphenols",
+      "precision medicine",
+      "the molecular pathways",
+      "the promyogenic effects"
+    ],
+    "FOOD": [
+      "omega-3 fatty acids"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

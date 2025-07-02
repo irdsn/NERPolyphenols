@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Activation of the Insulin Receptor bySarcopoterium spinosumExtract and Identification of Sarcocyanidin A as a Novel Active Compound.",
+  "abstract": "Sarcopoterium spinosumis a medicinal plant, presenting glucose-lowering properties. The study aimed to identify the active components and their mechanisms of action. Bioguided fractionation was utilized to isolate the active molecules, followed by NMR and HRESI MS for their identification and structural elucidation. Binding to the insulin receptor (IR) and activation of the receptor were measuredin vitro. Glucose-lowering effects were validatedin vivo. A novel procyanidin trimer, named sarcocyanidin A (1, catechin-(4\u03b1-8)-epicatechin-(4\u03b2-8)-epicatechin), was identified. Sarcocyanidin A (1) activated insulin signaling in CHO-IR and L6 myotubes, while the IR inhibitor abolished this effect. IR autofluorescence and cell-based thermal shift assays indicate a direct interaction of sarcocyanidin A (1) with IR. Sarcocyanidin A (1) also activated insulin signaling and reduced blood glucose in mice. Sarcocyanidin A, a novel procyanidin trimer, mediates at least part of the antidiabetic properties of SSE, through activation of IR.",
+  "publication_date": "2025-04-09",
+  "journal": "ACS omega",
+  "doi": "10.1021/acsomega.5c00451",
+  "entities": {
+    "POLYPHENOL": [
+      "(1, catechin-(4\u03b1-8)-epicatechin-(4\u03b2-8)-epicatechin",
+      "a direct interaction",
+      "glucose-lowering effects",
+      "procyanidin trimer",
+      "sarcocyanidin a",
+      "the active molecules",
+      "the insulin receptor",
+      "the receptor",
+      "their mechanisms",
+      "this effect"
+    ]
+  }
+}

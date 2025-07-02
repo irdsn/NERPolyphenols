@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "[Dissemination of Information from Basic Research on Aging: Species, Strain, Substrain and Sex Differences].",
+  "abstract": "Various organisms with different lifespans such as yeast, nematodes, fruit fly, mice, and rats are used for basic research on mechanisms of aging and anti-aging. These organisms are often genetically engineered and used to elucidate the contribution of certain genes to aging. For example, genetic recombination techniques revealed that the lifespan of superoxide dismutase (SOD) transgenic flies extended up to approximately 30%. This result suggests that increasing antioxidant capacity extends lifespan possibly by reducing oxidative damage. However, a similar experiment conducted in mice did not shown any positive effect of prolonging lifespan. Likewise, differences between animal species have also been observed in administration experiments of antioxidants such as resveratrol and curcumin. Further complicating the understanding of aging processes are differences among substrain and sex differences. For instance, the activity of catalase (CAT) in rat liver decreases with age in males, but increases in females. In this review, we describe the diversity of age-related changes, focusing on species, strain/substrain, and sex differences and introduce some efforts to address these issues in aging research.",
+  "publication_date": "2024-04-01",
+  "journal": "Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan",
+  "doi": "10.1248/yakushi.23-00165-1",
+  "entities": {
+    "POLYPHENOL": [
+      "animal species",
+      "any positive effect",
+      "curcumin",
+      "genetic recombination techniques",
+      "mechanisms",
+      "resveratrol",
+      "species"
+    ],
+    "SYMPTOM": [
+      "aging",
+      "aging processes",
+      "aging research",
+      "oxidative damage"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "The role of bioactive compounds in the management of metabolic and alcohol-related liver disease.",
+  "abstract": "Metabolic and alcohol-related liver disease (MetALD) is a newly defined category within the spectrum of steatotic liver diseases, designed to capture the interplay between metabolic dysfunction and alcohol consumption more effectively. Bioactive compounds, celebrated for their potent antioxidant, anti-inflammatory, and hepatoprotective properties, have emerged as promising therapeutic agents for the management of MetALD. This review comprehensively examines the underlying mechanisms by which these compounds exert their effects, including the modulation of oxidative stress pathways, the enhancement of lipid metabolism, and the promotion of liver regeneration. Specific bioactive constituents, such as polyphenols, flavonoids, and omega-3 fatty acids, have demonstrated potential in ameliorating hepatic steatosis and fibrosis associated with MetALD. Incorporating these natural compounds into treatment regimens presents a novel strategy for managing MetALD, with significant implications for both lifestyle modifications and pharmacological interventions. Future research should prioritize clinical trials, improvements in bioavailability, and investigations into the synergistic effects of multi-compound formulations to establish effective and sustainable treatment strategies for MetALD.",
+  "publication_date": "2025-04-24",
+  "journal": "Life sciences",
+  "doi": "10.1016/j.lfs.2025.123660",
+  "entities": {
+    "POLYPHENOL": [
+      "effective and sustainable treatment strategies",
+      "flavonoids",
+      "inflammatory, and hepatoprotective properties",
+      "polyphenols",
+      "specific bioactive constituents",
+      "the spectrum",
+      "the synergistic effects",
+      "the underlying mechanisms",
+      "their effects"
+    ],
+    "SYMPTOM": [
+      "hepatic steatosis",
+      "managing metald",
+      "oxidative stress pathways"
+    ],
+    "FOOD": [
+      "omega-3 fatty acids"
+    ]
+  }
+}

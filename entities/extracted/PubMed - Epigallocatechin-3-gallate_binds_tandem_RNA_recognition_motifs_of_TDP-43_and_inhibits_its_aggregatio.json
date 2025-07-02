@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Epigallocatechin-3-gallate binds tandem RNA recognition motifs of TDP-43 and inhibits its aggregation.",
+  "abstract": "Transactive response DNA-binding Protein 43 (TDP-43) aggregation is a key pathological feature in Amyotrophic Lateral Sclerosis and related neurodegenerative diseases. This study investigates the inhibitory effects of Epigallocatechin-3-gallate (EGCG), a polyphenol found in green tea, on TDP-43 aggregation. Using a combination of fluorescence assays, NMR spectroscopy, and computational modeling, we demonstrate that Epigallocatechin-3-gallate significantly delays the nucleation phase of TDP-43 aggregation process, thus inhibiting the formation of TDP-43 aggregates in vitro. Additionally, we proved a direct interaction of the compound with the RNA recognition motifs of TDP-43 and modeled the mechanism of interaction. Our findings reveal that EGCG stabilizes the RRM domains, counteracting aggregation by interfering with the early stages of the amyloidogenic pathway. Furthermore, EGCG's stability under experimental conditions was ensured using reducing agents, highlighting the importance of maintaining its reduced form for reproducible results. These insights underscore the therapeutic potential of EGCG in TDP-43 proteinopathies and provide a foundation for developing targeted treatments for ALS and related disorders.",
+  "publication_date": "2025-05-23",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-02035-6",
+  "entities": {
+    "POLYPHENOL": [
+      "a direct interaction",
+      "a polyphenol",
+      "egcg",
+      "egcg's stability",
+      "epigallocatechin-3",
+      "epigallocatechin-3-gallate",
+      "nmr spectroscopy",
+      "the inhibitory effects",
+      "the mechanism",
+      "the rna recognition motifs"
+    ],
+    "FOOD": [
+      "green tea"
+    ]
+  }
+}

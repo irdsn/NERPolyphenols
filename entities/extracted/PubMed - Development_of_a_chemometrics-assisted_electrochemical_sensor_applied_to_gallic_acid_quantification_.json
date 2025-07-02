@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Development of a chemometrics-assisted electrochemical sensor applied to gallic acid quantification in food samples.",
+  "abstract": "Gallic acid (GA) is an abundant natural phenolic compound found in foods such as tea, fruits, and beverages. Quantifying GA remains a key research area in analytical chemistry. Traditional methods, such as liquid chromatography, are time-consuming, highlighting the need for faster and more efficient techniques to quantify GA concentration. This study proposes an approach based on the MCR-ALS algorithm to model second-order voltammetric data obtained by varying the scan rate. Data preprocessing and subsequent mathematical modeling enabled the quantification of GA with a detection limit of 5.9\u00a0mg\u00a0L-1, below the stipulated concentrations for the analyte in various food matrices. Quantification was achieved even in the presence of unmodeled interferences, leveraging the second-order capabilities of multivariate calibration methods. This approach allows for accurate results to be obtained in a direct, fast, and reliable manner, representing a breakthrough in food industry quality control and opening new perspectives for food quality assessment.",
+  "publication_date": "2025-05-12",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144737",
+  "entities": {
+    "POLYPHENOL": [
+      "a detection limit",
+      "a direct, fast, and reliable manner",
+      "an abundant natural phenolic compound",
+      "faster and more efficient techniques",
+      "gallic acid",
+      "new perspectives",
+      "second-order voltammetric data",
+      "the second-order capabilities"
+    ]
+  }
+}

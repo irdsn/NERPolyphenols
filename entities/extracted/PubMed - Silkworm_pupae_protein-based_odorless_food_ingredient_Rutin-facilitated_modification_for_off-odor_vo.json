@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Silkworm pupae protein-based odorless food ingredient: Rutin-facilitated modification for off-odor volatile removal.",
+  "abstract": "Silkworm (Bombyx mori) pupae are a popular insect-based food source, particularly in Southeast Asia. However, their off-flavors can hinder their widespread acceptance in food applications. To further develop insects as viable food resources, it is crucial to identify and eliminate the off-odor volatile compounds present. This study aimed to identify and eliminate off-odor volatiles from silkworm pupae. A total of 34 odor volatiles were detected from five silkworm pupae components using solid-phase microextraction gas chromatography (SPME-GC-MS). High concentrations of aldehydes, such as nonanal (1.4\u00a0\u03bcg/g) and decanal (0.14\u00a0\u03bcg/g), were identified as the primary contributors to the off-odor. Additionally, silkworm pupae protein was found to be a major carrier of these volatiles. To effectively remove the off-odor compounds, polyphenols were used to facilitate the release of aldehydes from the pupae proteins. Specifically, 160\u00a0\u03bcM rutin increased the release rate of nonanal by 2.2-fold by competing for tryptophan and tyrosine residue sites on the proteins. After a 6\u00a0h heat treatment, nonanal release reached over 97\u00a0% (p\u00a0<\u00a00.05). This research provides an effective, cost-efficient strategy for eliminating off-odor volatiles, paving the way for the development of odorless silkworm pupae protein for food applications.",
+  "publication_date": "2025-05-10",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.143996",
+  "entities": {
+    "POLYPHENOL": [
+      "160\u00a0\u03bcm rutin",
+      "a popular insect-based food source",
+      "an effective, cost-efficient strategy",
+      "insects",
+      "polyphenols"
+    ]
+  }
+}

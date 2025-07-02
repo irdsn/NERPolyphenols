@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Comparative transcriptome analyses reveal genes related to pigmentation in the petals of a flower color variation cultivar of Rhododendron obtusum.",
+  "abstract": "Rhododendron is an important woody ornamental plant, and breeding varieties with different colors is a key research goal. Although there have been a few reports on the molecular mechanisms of flower colors and color patterning in Rhododendron, it is still largely unknown what factors regulate flower pigmentation in Rhododendron.",
+  "publication_date": "2022-01-21",
+  "journal": "Molecular biology reports",
+  "doi": "10.1007/s11033-021-07070-w",
+  "entities": {
+    "POLYPHENOL": [
+      "the molecular mechanisms"
+    ]
+  }
+}

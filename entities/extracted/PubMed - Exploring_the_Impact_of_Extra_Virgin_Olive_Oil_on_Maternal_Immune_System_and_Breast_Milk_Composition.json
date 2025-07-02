@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Exploring the Impact of Extra Virgin Olive Oil on Maternal Immune System and Breast Milk Composition in Rats.",
+  "abstract": "Maternal breast milk plays a key role in providing newborns with passive immunity and stimulating the maturation of an infant's immune system, protecting them from many diseases. It is known that diet can influence the immune system of lactating mothers and the composition of their breast milk. The aim of this study was to establish if a supplementation during the gestation and lactation of Lewis rats with extra virgin olive oil (EVOO), due to the high proportion of antioxidant components in its composition, has an impact on the mother's immune system and on the breast milk's immune composition. For this, 10 mL/kg of either EVOO, refined oil (control oil) or water (REF group) were orally administered once a day to rats during gestation and lactation periods. Immunoglobulin (Ig) concentrations and gene expressions of immune molecules were quantified in several compartments of the mothers. The EVOO group showed higher IgA levels in both the breast milk and the mammary glands than the REF group. In addition, the gene expression of IgA in mammary glands was also boosted by EVOO consumption. Overall, EVOO supplementation during gestation and lactation is safe and does not negatively affect the mother's immune system while improving breast milk immune composition by increasing the presence of IgA, which could be critical for an offspring's immune health.",
+  "publication_date": "2024-06-06",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16111785",
+  "entities": {
+    "FOOD": [
+      "extra virgin olive oil"
+    ],
+    "POLYPHENOL": [
+      "immune molecules"
+    ]
+  }
+}

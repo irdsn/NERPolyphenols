@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Effects of polyphenols on cardio-metabolic risk factors and risk of type 2 diabetes. A joint position statement of the Diabetes and Nutrition Study Group of the Italian Society of Diabetology (SID), the Italian Association of Dietetics and Clinical Nutrition (ADI) and the Italian Association of Medical Diabetologists (AMD).",
+  "abstract": "A large body of evidence supports a role of polyphenols in the prevention of chronic diseases, i.e. type 2 diabetes (DMT2), cardiovascular diseases and some types of cancer. In the present manuscript, the effect of polyphenol/phenolic compounds on the main cardio-metabolic risk factors (body weight, blood pressure, blood glucose concentrations, plasma lipids, inflammation and oxidative stress) in humans will be discussed.",
+  "publication_date": "2019-12-05",
+  "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+  "doi": "10.1016/j.numecd.2019.11.015",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenol/phenolic compounds",
+      "polyphenols",
+      "the effect"
+    ],
+    "SYMPTOM": [
+      "cancer",
+      "i.e. type 2 diabetes",
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

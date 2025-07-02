@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Rational Design and Synthesis of Highly Stable Haloflavanone DNA Methyltransferase Inhibitors Inducing Tumor Suppressor Gene Re-expression in Cancer Cells.",
+  "abstract": "DNA methylation is an epigenetic modification involved in cancer. The clinically approved nucleoside DNA methyltransferase (DNMT) inhibitors 5-azacytidine and 5-aza-2'-deoxycytidine lack selectivity and stability, resulting in high toxicity. Previously, we discovered 3-halo-3-nitroflavanones as non-nucleoside DNMT inhibitors. Here, we designed and synthesized a new series of 2-substituted haloflavanones to increase compound chemical stability. Moreover, replacement of the nitro by an additional halogen enhanced compound potency. Indeed, compound34b(anti-3-bromo-3-chloro-2-methoxyflavanone) exhibited submicromolar DNMT3A inhibitory activity, upregulated the expression of DNMT-targeted genes, and impaired cell proliferation. Importantly,34btriggered a critical cell cycle arrest in the G1/S transition, notably in p53-depleted HCT-116 colorectal cancer cells, which paves the way for novel therapeutic opportunities.34bcompetes for the same DNMT catalytic pocket as confirmed by saturation transfer difference-nuclear magnetic resonance, but assuming different docking poses as shown by computational studies. Overall, the high stability and activity of34bmake it a promising DNMT inhibitor for anticancer research and therapy.",
+  "publication_date": "2025-05-26",
+  "journal": "Journal of medicinal chemistry",
+  "doi": "10.1021/acs.jmedchem.4c02075",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer research",
+      "cancer"
+    ],
+    "POLYPHENOL": [
+      "5-azacytidine and 5-aza-2'-deoxycytidine lack selectivity",
+      "p53-depleted hct-116 colorectal cancer cells"
+    ]
+  }
+}

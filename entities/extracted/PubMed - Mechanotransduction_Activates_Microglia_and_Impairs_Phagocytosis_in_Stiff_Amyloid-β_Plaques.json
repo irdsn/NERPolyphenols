@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Mechanotransduction Activates Microglia and Impairs Phagocytosis in Stiff Amyloid-\u03b2 Plaques.",
+  "abstract": "In Alzheimer's disease (AD), microglia are activated by mechanical and biochemical cues in the amyloid-\u03b2 (A\u03b2) plaque-associated microenvironment, causing neuroinflammation. While the impact of A\u03b2 stiffness on microglial activation and the dynamic interplay between inflammation and phagocytosis remain unclear. Here, an in vitro A\u03b2 plaque-associated microglia microenvironment model is built and investigated how the stiffness of A\u03b2 plaques triggers microglial activation via the PIEZO1 mechanotransduction pathway. Scanning electrochemical microscopy and scanning ion conductance microscopy are employed to in situ monitor reactive oxygen species release, membrane permeability, and phagocytic activity of microglia. It is found that A\u03b2 stiffness drives early microglial activation, forming an oxidative-stressed microenvironment that impairs the membrane integrity of microglia. And the antioxidant-resveratrol effectively improves the phagocytosis dysfunction of the impaired microglia. This work reveals the complex interplay among mechanical cues, neuroinflammation, and phagocytic dysfunction in microglia and suggests potential therapeutic strategies targeting microglial dysfunction in AD.",
+  "publication_date": "2025-05-23",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "doi": "10.1002/advs.202503389",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "an oxidative-stressed microenvironment",
+      "inflammation",
+      "neuroinflammation"
+    ],
+    "POLYPHENOL": [
+      "electrochemical microscopy",
+      "mechanical and biochemical cues",
+      "mechanical cues",
+      "situ monitor reactive oxygen species release",
+      "the antioxidant-resveratrol",
+      "the piezo1 mechanotransduction pathway"
+    ]
+  }
+}

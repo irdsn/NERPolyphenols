@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Rheumatoid Arthritis and Secondary Plant Metabolites: An Analysis.",
+  "abstract": "Chronic rheumatoid arthritis (RA) is a systemic inflammatory disease characterized by persistent joint inflammation, progressive joint destruction, and chronic pain. Although modern therapies like disease-modifying antirheumatic medications (DMARDs) can alleviate symptoms, they may also produce side effects. Because of their anti-inflammatory, antioxidant, and immunomodulatory qualities, plant secondary metabolites such as flavonoids, terpenoids, alkaloids, and phenolic acids have attracted attention as prospective RA treatment agents. This review discusses the pathogenesis of RA and provides an overview of various plant secondary metabolites and their biological activities relevant to RA. It highlights preclinical and clinical studies that have investigated the use of plant metabolites in RA management, demonstrating their potential to reduce inflammation, modulate immune responses, and protect joint structures. The review explores the potential molecular targets and mechanisms of action of plant metabolites in RA, including inflammatory mediators, transcription factors, signalling pathways, oxidative stress, immune cell regulation, cell proliferation and apoptosis, cartilage and bone metabolism, and angiogenesis. Additionally, the challenges and considerations in developing plant-based therapies for RA are discussed, such as efficacy and safety, standardization, bioavailability, regulatory approval, and patient compliance. Finally, future perspectives and research directions are outlined, emphasizing the need for further mechanistic studies, preclinical and clinical investigations, formulation strategies, and interdisciplinary collaborations to fully harness the therapeutic potential of plant secondary metabolites in RA management.",
+  "publication_date": "2025-06-20",
+  "journal": "Current rheumatology reviews",
+  "doi": "10.2174/0115733971336322250605063028",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "chronic pain",
+      "chronic rheumatoid arthritis",
+      "inflammation",
+      "oxidative stress",
+      "persistent joint inflammation"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "further mechanistic studies",
+      "future perspectives",
+      "mechanisms",
+      "plant secondary metabolites",
+      "preclinical and clinical investigations",
+      "preclinical and clinical studies",
+      "prospective ra treatment agents",
+      "research directions",
+      "secondary metabolites",
+      "side effects",
+      "the potential molecular targets",
+      "various plant secondary metabolites"
+    ]
+  }
+}

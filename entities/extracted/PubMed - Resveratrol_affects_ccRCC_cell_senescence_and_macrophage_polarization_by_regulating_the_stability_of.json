@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Resveratrol affects ccRCC cell senescence and macrophage polarization by regulating the stability of CCNB1 by RBM15.",
+  "abstract": "Aim:The present study sought to investigate the therapeutic effect of resveratrol on clear cell renal cell carcinoma.Materials & methods:Cell Counting Kit-8 and 5-ethynyl-2'-deoxyuridine assays were used to verify the cell proliferation. Transwell, real-time quantitative transcription PCR, western blot and \u03b2-galactosidase staining were used to verify the migration, macrophage polarization and senescence. The tumor inhibitory effect of resveratrol on clear cell renal cell carcinoma was verifiedin vivo.Results:This study confirmed that resveratrol could affect the stability ofCCNB1mRNA\u00a0mediated by RBM15 and inhibit the cancer process by inhibiting the expression of EP300/CBP from the perspective of cell senescence.Conclusion:Resveratrol is able to treat clear cell renal cell carcinoma through RBM15-induced cell senescence.",
+  "publication_date": "2023-11-01",
+  "journal": "Epigenomics",
+  "doi": "10.2217/epi-2023-0150",
+  "entities": {
+    "POLYPHENOL": [
+      "resveratrol",
+      "the perspective",
+      "the therapeutic effect",
+      "the tumor inhibitory effect"
+    ],
+    "SYMPTOM": [
+      "the cancer process"
+    ]
+  }
+}

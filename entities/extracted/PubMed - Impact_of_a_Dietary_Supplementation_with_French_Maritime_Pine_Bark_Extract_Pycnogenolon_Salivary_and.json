@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Impact of a Dietary Supplementation with French Maritime Pine Bark Extract Pycnogenol\u00aeon Salivary and Serum Inflammatory Biomarkers During Non-Surgical Periodontal Therapy-A Randomized Placebo-Controlled Double-Blind Trial.",
+  "abstract": "Background: Gingival inflammation is highly prevalent and may impact systemic health. While professional mechanical plaque removal (PMPR) is the standard treatment, dietary interventions may provide additional benefits. The French maritime pine bark extract Pycnogenol\u00aehas anti-inflammatory and antioxidant properties, but its impact on inflammatory biomarkers in saliva and serum has not been studied in a controlled clinical trial.Methods: In this randomized, double-blind, placebo-controlled clinical trial, 91 participants received Pycnogenol\u00ae(100 mg twice daily;n= 46) or a placebo (n= 45) following PMPR. Saliva and serum samples were collected at baseline, and after two and three months. Inflammatory biomarkers (IL-1\u03b2, IL-6, MMP-8, and MMP-9) and polyphenol concentrations were analyzed using ELISA and LC-MS/MS.Results: Pycnogenol\u00aesupplementation significantly reduced salivary MMP-8 levels (p= 0.0261), and serum IL-6 levels compared to placebo (p= 0.0409). Additionally, ferulic acid, caffeic acid, and the gut microbial metabolite 5-(3,4-dihydroxyphenyl)-\u03b3-valerolactone (M1) significantly increased in saliva following Pycnogenol\u00aeintake. A correlation analysis revealed a significant inverse association between bleeding on probing and M1 concentration in saliva (r = -0.3476,p= 0.0167).Conclusions: Dietary supplementation with Pycnogenol\u00aesignificantly reduced key inflammatory biomarkers and increased polyphenol concentrations in saliva, suggesting a potential anti-inflammatory effect of Pycnogenol\u00aeon gingival inflammation.Trial registration: ClinicalTrials.gov (NCT05786820).",
+  "publication_date": "2025-04-30",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17091546",
+  "entities": {
+    "SYMPTOM": [
+      "gingival inflammation"
+    ],
+    "POLYPHENOL": [
+      "a potential anti-inflammatory effect",
+      "caffeic acid",
+      "ferulic acid",
+      "increased polyphenol concentrations",
+      "polyphenol concentrations",
+      "professional mechanical plaque removal"
+    ]
+  }
+}

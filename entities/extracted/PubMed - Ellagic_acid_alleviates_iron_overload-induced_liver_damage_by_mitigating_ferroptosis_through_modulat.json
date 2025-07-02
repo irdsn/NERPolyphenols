@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Ellagic acid alleviates iron overload-induced liver damage by mitigating ferroptosis through modulation of the TGF\u03b2/Smad signaling pathway.",
+  "abstract": "Ellagic acid (EA), a naturally occurring polyphenolic compound abundant in fruits and nuts, has demonstrated promising therapeutic potential in liver disease management. Iron overload, a pathological condition associated with severe hepatic damage, was the focus of this investigation. This study aimed to elucidate the hepatoprotective effects of EA against iron overload-induced liver injury and uncover the underlying molecular mechanisms. Using both a mouse model of iron overload induced by iron dextran and cell model of iron overload induced by ferric ammonium citrate (FAC), we systematically evaluated the biological effects of EA. Our findings revealed that EA significantly attenuated iron overload-induced hepatic injury and fibrosis. Mechanistically, EA not only ameliorated dysregulated iron metabolism and oxidative stress but also suppressed peroxisomal lipid biosynthesis and ferroptosis in the livers of mice with iron overload. Parallel in vitro experiments confirmed the capacity of EA to inhibit FAC-triggered ferroptosis in AML12 cells. Transcriptomic profiling identified ferroptosis-related pathways as key targets of EA intervention. Notably, functional enrichment analysis of the RNA sequencing data highlighted the TGF\u03b2/Smad signaling pathway as the predominant regulatory axis modulated by EA. Importantly, exogenous TGF\u03b2 supplementation abolished the antiferroptotic effects of EA, further confirming TGF\u03b2/Smad signaling as the central mechanistic pathway through which EA exerts its protective function. Collectively, our results establish EA as a novel regulator of the TGF\u03b2/Smad axis, effectively mitigating iron overload-driven ferroptosis and subsequent hepatic injury and thereby offering a potential therapeutic strategy for iron-related hepatopathies.",
+  "publication_date": "2025-05-09",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116590",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring polyphenolic compound",
+      "ellagic acid",
+      "its protective function",
+      "the antiferroptotic effects",
+      "the biological effects",
+      "the central mechanistic pathway",
+      "the hepatoprotective effects",
+      "the underlying molecular mechanisms"
+    ],
+    "SYMPTOM": [
+      "iron overload-induced liver injury",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "In vivo metabolic effects of naringin in reducing oxidative stress and protecting the vascular endothelium in dyslipidemic mice.",
+  "abstract": "Naringin, a flavonoid, has high antioxidant activity and hypolipidemic pharmacological effects. In this study, an animal model of dyslipidemia was established by feeding Apoe-/-mice a high-fat diet for 4 weeks. Subsequently, the mice were administered Naringin via gavage at doses of 50 mg/(kg\u00b7d), 100 mg/(kg\u00b7d), or 200 mg/(kg\u00b7d) for an additional 4 weeks. The research utilized liquid chromatography-mass spectrometry (LC-MS) metabolomics in conjunction with analyses of serum oxidative stress markers, Hematoxylin-eosin staining, Masson's trichome staining, and immunohistochemical staining. Naringin treatment reduced serum total cholesterol, triglycerides, and low-density lipoprotein cholesterol concentrations (P<.05), reversed disorders of vascular structure and morphology, increased serum nicotinamide adenine dinucleotide phosphate hydride and glutathione concentrations (P<.05), reduced serum peroxynitrite concentrations (P<.05), promoted aortic endothelial nitric oxide synthase protein expression and inhibited aortic prolyl isomerase-1 protein expression. Twenty differentiated metabolites were obtained from the serum by LC-MS assay, followed by 16 differential metabolic pathways after enrichment. Among the metabolic pathways, glycolysis/gluconeogenesis, the pentose phosphate pathway, purine metabolism, ascorbate metabolism, and aldarate metabolism are the most relevant metabolic pathways by which naringin reduces oxidative stress. Our findings suggest that naringin can reduce oxidative stress levels associated with dyslipidemia through multiple metabolic pathways, protect vascular endothelial function, and thus providing a novel and promising natural medicine for treating dyslipidemia.",
+  "publication_date": "2025-02-13",
+  "journal": "The Journal of nutritional biochemistry",
+  "doi": "10.1016/j.jnutbio.2025.109866",
+  "entities": {
+    "POLYPHENOL": [
+      "a flavonoid",
+      "hypolipidemic pharmacological effects",
+      "naringin",
+      "naringin treatment",
+      "the research utilized liquid chromatography-mass spectrometry"
+    ],
+    "SYMPTOM": [
+      "dyslipidemia",
+      "oxidative stress",
+      "oxidative stress levels",
+      "serum oxidative stress markers"
+    ]
+  }
+}

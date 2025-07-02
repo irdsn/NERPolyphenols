@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Enhancing Antioxidant Activity and Nutritional Profile of Dark Chocolate Through Enrichment with Plant Sterols: A Study on Phytosterol Concentrations and Functional Properties.",
+  "abstract": "Chocolate, particularly dark chocolate, is recognized for its antioxidant properties attributed to the presence of flavonoids that promote cardiovascular health. Enriching chocolate with phytosterols, naturally occurring plant compounds known to be effective in reducing cholesterol levels, has the potential to enhance cardiovascular benefits. The incorporation of phytosterols into chocolate provides a palatable and cost-effective means of delivering these beneficial compounds to the body. This study examined the concentrations of sterols and stanols, as well as the antioxidant properties of dark chocolate enriched with plant-derived sterols and stanols. A commercially available preparation containing phytosterol esters (Vegapure\u00ae95 WE) was utilized for this enrichment. Four levels of phytosterol esters (3, 6, 9, and 12%) were added at two distinct stages of chocolate processing: conching and tempering. Sterol and stanol contents were analyzed chromatographically, total phenolic content was determined using the Folin-Ciocalteu method, and antioxidant capacity was assessed via the DPPH assay. Additionally, a sensory evaluation was performed to assess the palatability of the enriched chocolates. The enriched chocolates showed significantly increased levels of sitosterol (up to 1117.68 mg/100 g), campesterol (up to 119.10 mg/100 g), and sitostanol (up to 76.42 mg/100 g). The antioxidant capacity of the enriched dark chocolates was more strongly correlated with phenolic compound content than with phytosterol content. Sensory differences, particularly in taste, were also noted, influenced by the addition of phytosterols. The stage at which phytosterol esters were introduced affected the chocolate's properties, with the tempering stage proving to be the more advantageous step for incorporating phytosterols, resulting in a lower loss of bioactive compounds. These findings suggest that enriching dark chocolate with phytosterols improves its nutritional profile and functional properties, positioning it as a potential dietary supplement for cholesterol management and cardiovascular health.",
+  "publication_date": "2024-11-09",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13223578",
+  "entities": {
+    "FOOD": [
+      "chocolate",
+      "chocolate processing",
+      "dark chocolate",
+      "enriching dark chocolate",
+      "particularly dark chocolate",
+      "the chocolate's properties",
+      "the enriched chocolates",
+      "the enriched dark chocolates"
+    ],
+    "POLYPHENOL": [
+      "a palatable and cost-effective means",
+      "flavonoids",
+      "phenolic compound content"
+    ]
+  }
+}

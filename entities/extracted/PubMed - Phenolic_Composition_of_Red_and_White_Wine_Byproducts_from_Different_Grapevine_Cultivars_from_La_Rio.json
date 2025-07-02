@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Phenolic Composition of Red and White Wine Byproducts from Different Grapevine Cultivars from La Rioja (Spain) and How This Is Affected by the Winemaking Process.",
+  "abstract": "The recovery of raw materials offers an opportunity for applying the principles of circular bioeconomy. The phenolic composition of three underused wine byproducts (skin, seed, and bunch stem) was analyzed through UHPLC-QqQ-MS/MS to evaluate the intercultivar variability comparing red and white grape cultivars from La Rioja (Spain) and the influence of the winemaking, comparing conventional fermentation and carbonic maceration. We observed that the red skin, especially from Graciano, is rich in anthocyanins, whereas the white skin contains mainly phenolic acids, flavonols, and flavan-3-ols, with Maturana Blanca being the richest variety. Seeds are rich in flavan-3-ols and lignans with Maturana Blanca and Viura, respectively, the richest cultivars. Stems contain high amounts of flavan-3-ols, lignans, and stilbenes, with the red cultivars of Garnacha and Tempranillo being the richest samples. Carbonic maceration has a negative effect on the phenolic amount compared to conventional fermentation. In synthesis, we observed that each type of byproduct from red or white grape cultivars has a particular phenolic composition that can result in obtaining different ingredients with particular phenolic composition for target applications.",
+  "publication_date": "2023-11-20",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.3c04660",
+  "entities": {
+    "POLYPHENOL": [
+      "a negative effect",
+      "circular bioeconomy",
+      "the recovery"
+    ],
+    "FOOD": [
+      "red and white grape cultivars",
+      "red or white grape cultivars",
+      "the winemaking",
+      "three underused wine byproducts"
+    ],
+    "SYMPTOM": [
+      "spain"
+    ]
+  }
+}

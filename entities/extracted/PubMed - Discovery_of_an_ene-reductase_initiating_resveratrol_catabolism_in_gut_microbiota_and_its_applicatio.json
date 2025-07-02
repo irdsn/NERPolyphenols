@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Discovery of an ene-reductase initiating resveratrol catabolism in gut microbiota and its application in disease treatment.",
+  "abstract": "Resveratrol (RSV) is a plant-derived natural compound with multiple biological activities. Upon entering the intestine, RSV undergoes rapid metabolism and transformation by the gut microbiota. In this study, we isolated a bacterium capable of efficiently metabolizing RSV, Eggerthella lenta J01. Through induced enrichment transcriptomics and bioinformatic analyses, we identified an RSV reductase (RER) from E.\u00a0lenta J01. Using RER structure simulation, site-directed mutagenesis, and biochemical assays, we further determined the key amino acids in RER associated with RSV catalytic activity. Studies in animal models demonstrated that RER enhances RSV's ability to alleviate inflammatory bowel disease. Additionally, bioinformatics analysis revealed that the abundance of the rer gene in the gut microbiota of healthy individuals was higher than in patients with enteritis. Collectively, these findings suggest that the activity of natural products may be modulated by the gut microbiota through metabolic transformations.",
+  "publication_date": "2025-04-04",
+  "journal": "Cell reports",
+  "doi": "10.1016/j.celrep.2025.115517",
+  "entities": {
+    "POLYPHENOL": [
+      "resveratrol",
+      "site-directed mutagenesis"
+    ],
+    "SYMPTOM": [
+      "inflammatory bowel disease"
+    ]
+  }
+}

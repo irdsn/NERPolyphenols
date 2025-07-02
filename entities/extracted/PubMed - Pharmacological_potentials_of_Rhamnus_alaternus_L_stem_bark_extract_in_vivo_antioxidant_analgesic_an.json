@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Pharmacological potentials of Rhamnus alaternus L. stem bark extract in vivo: antioxidant, analgesic, anti-inflammatory and wound healing effects.",
+  "abstract": "Rhamnus alaternus L. (Rhamnaceae) is a medicinal plant traditionally used for treating a range of inflammatory diseases. This study aimed to characterize the methanolic extract of Rhamnus alaternus L. stem bark (MRAB) using LC-MS and to investigate its in vitro antioxidant activity as well as its in vivo analgesic, anti-inflammatory, and wound-healing effects. Thirteen compounds were identified, including 7 glycosylated flavonoids, two non-glycosylated flavonoids, two phenolic acids and two chromones. The IC50 of MRAB for DPPH and ABTS radical scavenging activity were 58.31\u00a0\u00b1\u00a03.07\u00a0\u03bcg/mL and 22.33\u00a0\u00b1\u00a00.35\u00a0\u03bcg/mL, respectively. MRAB also demonstrated a high total antioxidant capacity and reducing power (242.8\u00a0\u00b1\u00a017.96\u00a0mg Asc E/g extract and 143.74\u00a0\u00b1\u00a01.18\u00a0mg Asc E/g extract, respectively). The MRAB showed notable analgesic and anti-inflammatory effects. In the acetic acid-induced abdominal writhing test, MRAB at 500\u00a0mg/kg exhibited a significant reduction in writhing (66.19\u00a0%), comparable to diclofenac (76.66\u00a0%). The extract also showed potent analgesic effects in the formalin test, with a 79.54\u00a0% inhibition in the inflammatory phase, similar to salicylic acid (84.9\u00a0%). MRAB exhibited strong anti-inflammatory activity in both the carrageenan-induced hind paw edema test (58.74\u00a0% and 66.73\u00a0% inhibition at 250 and 500\u00a0mg/kg, respectively) and the xylene-induced ear edema test (49.72\u00a0% and 59.81\u00a0% inhibition). Furthermore, MRAB indicated significant wound-healing effects, with retraction percentages of 89.56\u00a0\u00b1\u00a00.93\u00a0% and 93.45\u00a0\u00b1\u00a00.83\u00a0% at 250 and 500\u00a0mg/kg, respectively, comparable to the Cicatryl group (95.91\u00a0\u00b1\u00a00.62\u00a0%) on day 12. These findings highlight the therapeutic potential applications of MRAB for analgesic, anti-inflammatory, and wound-healing treatments.",
+  "publication_date": "2025-05-31",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.120076",
+  "entities": {
+    "POLYPHENOL": [
+      "7 glycosylated flavonoids",
+      "notable analgesic and anti-inflammatory effects",
+      "potent analgesic effects",
+      "salicylic acid",
+      "significant wound-healing effects",
+      "two non-glycosylated flavonoids",
+      "wound-healing effects"
+    ]
+  }
+}

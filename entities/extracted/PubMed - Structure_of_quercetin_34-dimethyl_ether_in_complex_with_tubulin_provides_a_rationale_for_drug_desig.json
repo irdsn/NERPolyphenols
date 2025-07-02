@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Structure of quercetin 3,4'-dimethyl ether in complex with tubulin provides a rationale for drug design.",
+  "abstract": "Microtubules, composed of \u03b1\u03b2-tubulin heterodimers, serve as key targets for anticancer therapeutics due to their critical role in cell division. Numerous compounds have been discovered to interact with tubulin and disrupt microtubule dynamics, particularly those targeting the colchicine-binding domain. Certain flavones, for instance, have demonstrated the ability to bind to this site and suppress microtubule polymerization. Despite their potential, progress in developing flavone-based drugs has been limited by insufficient structural data on tubulin-ligand complexes. Here, we present the high-resolution (1.92\u00a0\u00c5) crystal structure of tubulin in complex with a flavone derivative, quercetin 3,4'-dimethyl ether (QU34), elucidating the specific molecular interactions at atomic detail. By analyzing this structure alongside other colchicine-site inhibitors, we clarify prior structure-activity relationship (SAR) findings and offer a framework for designing optimized flavone analogs targeting this site.",
+  "publication_date": "2025-06-23",
+  "journal": "Biochemical and biophysical research communications",
+  "doi": "10.1016/j.bbrc.2025.152245",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer therapeutics"
+    ],
+    "POLYPHENOL": [
+      "quercetin 3,4'-dimethyl ether",
+      "the specific molecular interactions"
+    ]
+  }
+}

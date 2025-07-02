@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Dimension-enhanced liquid chromatography/mass spectrometry approaches better decipher the difference in chemical compositions of Erzhi formula and Jiawei Erzhi formula.",
+  "abstract": "Erzhi formula (EZF) consists of wine-processed Ligustri Lucidi Fructus (W-LLF) and Ecliptae Herba (EH), while Jiawei Erzhi formula (JWEZF) is derived by newly incorporating Spatholobi Caulis (SC) and Achyranthis Bidentatae Radix (ABR). To date, the chemical difference between EZF and JWEZF has been seldom investigated. This work was designed to qualitatively and quantitatively evaluate the chemical difference between JWEZF and EZF by dimension-enhanced liquid chromatography-mass spectrometry approaches. An on-line comprehensive two-dimensional liquid chromatography/quadrupole time-of-flight mass spectrometry (2D-LC/QTOF-MS) approach was developed for the multi-component characterization of both EZF and JWEZF, while scheduled multiple reaction monitoring (sMRM) was employed for quantitative assay of the potentially differential components. Especially, the vivid 2D-LC contour plots and 4D data plots were utilized to embody the holistic chemical differentiation. A total of 289 compounds in JWEZF and 225 compounds in EZF were identified or tentatively characterized (e.g. iridoids, flavonoids, triterpenoids, phenolic acids, alkaloids, and organic acids). Compared to EZF, we could newly characterize 52 compounds in JWEZF which originated from SC and ABR, together with 12 newly generated compounds. The quantitative assay experiment determined the contents of six compounds exclusively found in JWEZF (catechin, epicatechin, chikusetsusaponin IVa, ginsenoside Ro, achyranthoside E, and \u03b2-ecdysterone), and validated the increased contents of 11 compounds in JWEZF that were common for these two formulas. The co-decoction of W-LLF with SC/ABR might cause the observed content variation for these 11 compounds between EZF and JWEZF. The developed dimension-enhanced approaches can better decipher the chemical difference between different TCM compound formulas.",
+  "publication_date": "2025-06-26",
+  "journal": "Journal of pharmaceutical and biomedical analysis",
+  "doi": "10.1016/j.jpba.2025.117041",
+  "entities": {
+    "FOOD": [
+      "wine-processed ligustri lucidi fructus"
+    ],
+    "POLYPHENOL": [
+      "catechin",
+      "decoction",
+      "dimension-enhanced liquid chromatography-mass spectrometry approaches",
+      "ecliptae herba",
+      "epicatechin",
+      "\u03b2-ecdysterone"
+    ]
+  }
+}

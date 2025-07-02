@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "From Molecular to Macroscopic: Dual-Pathway Regulation of Carrot Whole Flour on the Gluten-Starch System.",
+  "abstract": "Carrots are gaining attention due to their health effects, high yield, low cost, and bright color in food processing. This study analyzed the impact of carrot whole flour (CWF) on steamed cake quality. The effects of CWF and its active ingredients, carrot dietary fiber (CDF) and carrot polyphenols (CPs), on gluten and starch properties were studied. Results showed that steamed cake quality was better at a 12% additional dose. CPs caused gluten to form more hydrogen bonds, increasing the specific volume. CDF weakened the gluten structure by reducing disulfide bonds, decreasing the hardness. Both CDF and CPs disrupted the starch structure by decreasing the short-range order, causing a reduction in springiness and cohesiveness. CDF and CPs increased starch crystallinity, which also contributed to decreasing springiness. This study systematically evaluated the effect of CWF on the steamed cake from the microstructure level to macroscopic quality. Wheat-vegetable blend flour is a key path for nutritional upgrading of traditional staple foods and an essential direction for functional wheat products.",
+  "publication_date": "2025-05-31",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14111964",
+  "entities": {
+    "FOOD": [
+      "carrot dietary fiber",
+      "carrot whole flour",
+      "carrots",
+      "functional wheat products",
+      "wheat-vegetable blend flour"
+    ],
+    "POLYPHENOL": [
+      "an essential direction",
+      "carrot polyphenols",
+      "the effect",
+      "the effects",
+      "the specific volume",
+      "their health effects"
+    ]
+  }
+}

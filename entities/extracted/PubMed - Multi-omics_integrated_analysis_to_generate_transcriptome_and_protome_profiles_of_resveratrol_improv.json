@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Multi-omics integrated analysis to generate transcriptome and protome profiles of resveratrol improving Paraquat-induced acute lung injury.",
+  "abstract": "Paraquat (PQ), a widely used non-selective herbicide, poses significant health risks, with as little as 30\u202fmL potentially causing fatal poisoning due to acute lung injury (ALI). Despite frequent cases, effective treatments for PQ poisoning are limited, highlighting the need for in-depth investigation into the mechanisms underlying PQ-induced ALI. Resveratrol was identified as a therapeutic agent based on the key differentially regulated pathways. This study investigates the potential therapeutic effects of Resveratrol on Paraquat-induced acute lung injury (ALI) through both in vivo and in vitro experiments. In the in vivo experiment, Resveratrol significantly prolonged the survival of mice (P\u202f<\u202f0.001) compared to the control group, suggesting its protective role in the pathogenesis of ALI. In the in vitro experiment using A549 cells, Resveratrol effectively alleviated Paraquat-induced oxidative stress and iron ion deposition, significantly increasing cell viability (P\u202f<\u202f0.05). Through transcriptomic and proteomic analysis, Resveratrol was found to upregulate genes and proteins associated with inflammation, cell death, and lipid peroxidation, while downregulating those related to lipid peroxidation and iron. Furthermore, cell functional analysis revealed that Resveratrol regulates mitochondrial function, the cell cycle, and inflammatory signaling pathways, improving the pathological state of both mice and A549 cells. In conclusion, Resveratrol modulates multiple mechanisms, including lipid metabolism, cell cycle regulation, inflammatory signaling, and cell toxicity pathways, to significantly alleviate Paraquat-induced lung injury. These findings suggest that Resveratrol has broad potential applications in the treatment and prevention of ALI.",
+  "publication_date": "2025-06-03",
+  "journal": "Ecotoxicology and environmental safety",
+  "doi": "10.1016/j.ecoenv.2025.118459",
+  "entities": {
+    "POLYPHENOL": [
+      "a widely used non-selective herbicide",
+      "effective treatments",
+      "its protective role",
+      "multiple mechanisms",
+      "resveratrol",
+      "the mechanisms",
+      "the potential therapeutic effects"
+    ],
+    "SYMPTOM": [
+      "cell death",
+      "inflammation",
+      "paraquat-induced oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Effects of Systemic and Skeletal Muscle-Specific Overexpression of Piezo1.",
+  "abstract": "Piezo1, a mechanosensitive ion channel that opens in response to mechanical stimuli, is widely expressed among mammalian cell types, and regulates a diverse range of physiological processes. Although evidence has suggested potential clinical benefit of Piezo1 activation for various conditions, the safety and efficacy of such activation in living animals have remained unclear. To investigate the therapeutic potential of Piezo1 activation, we here generated genetically modified mouse models in which Piezo1 is overexpressed either specifically in skeletal muscle or systemically in response to tamoxifen treatment in adult animals. Cast immobilization induced a reduction in both muscle mass and the abundance ofPiezo1mRNA in skeletal muscle of the affected limbs in control mice. Overexpression of Piezo1 in skeletal muscle prevented the immobilization-induced reduction both in soleus muscle mass and in the corresponding cross-sectional area of myofibers, suggesting the potential benefit of Piezo1 activation for prevention of immobilization-induced muscle atrophy. Furthermore, mice with systemic overexpression of Piezo1 showed no apparent abnormalities in growth or general activity. Red blood cells from these mice manifested slight resistance to hypoosmolarity-induced hemolysis, and the animals did not develop apparent hemolytic anemia. Our findings demonstrate promising efficacy and safety of Piezo1 activation in living animals and thereby highlight the therapeutic potential of targeting the Piezo1 signaling pathway.",
+  "publication_date": "2025-05-01",
+  "journal": "The Kobe journal of medical sciences",
+  "doi": "10.24546/0100495773",
+  "entities": {
+    "POLYPHENOL": [
+      "a mechanosensitive ion channel",
+      "mechanical stimuli",
+      "the affected limbs",
+      "the corresponding cross-sectional area"
+    ],
+    "SYMPTOM": [
+      "immobilization-induced muscle atrophy"
+    ]
+  }
+}

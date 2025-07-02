@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Design, Synthesis, and Biological Evaluations of a Novel Resveratrol-Type Analogue Against VEGF.",
+  "abstract": "Vascular endothelial growth factor (VEGF), also known as VEGF-A, has been reported to mediate various diseases, including cancer and wet age-related macular degeneration (wAMD). Despite the fact that VEGF inhibitors are commercially available and appear to be effective in clinical applications, adverse effects have been caused by these treatments. There is an unmet need for developing novel VEGF-targeted treatments against these diseases. Resveratrol, a phytochemical derived from fruits and vegetables, has shown promising potency in suppressing VEGF-mediated bioactivities through a series of in vitro and in vivo testing models. Herein, we report that RE-1, a synthetic resveratrol-type analog, displays robust inhibitory activities against VEGF and its downstream signaling pathways, surpassing its parental molecule, resveratrol. In addition, the drug capabilities of RE-1 were evaluated. As a newly synthesized chemical, RE-1 could be considered for subsequent pharmacological development targeting VEGF-related diseases.",
+  "publication_date": "2025-05-27",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112345",
+  "entities": {
+    "SYMPTOM": [
+      "cancer"
+    ],
+    "POLYPHENOL": [
+      "a synthetic resveratrol-type analog",
+      "adverse effects",
+      "its parental molecule",
+      "resveratrol"
+    ]
+  }
+}

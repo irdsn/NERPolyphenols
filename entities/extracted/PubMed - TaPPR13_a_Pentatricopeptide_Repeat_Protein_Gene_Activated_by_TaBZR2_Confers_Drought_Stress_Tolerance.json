@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "TaPPR13, a Pentatricopeptide Repeat Protein Gene Activated by TaBZR2, Confers Drought Stress Tolerance by Enhancing the Antioxidant Defense System and Promoting Retrograde Signaling in Wheat (Triticum aestivum).",
+  "abstract": "The wheat (Triticum aestivum) brassinazole-resistant 2 (TaBZR2) gene is identified as significantly associated with drought tolerance by genome-wide association study (GWAS), and a chloroplast pentatricopeptide repeat (PPR) protein gene TaPPR13 functioned as a positive drought stress regulator downstream of TaBZR2. Overexpression of TaPPR13 enhanced the antioxidative defense system, whereas knockdown of TaPPR13 led to the accumulation of reactive oxygen species (ROS) and caused abnormalities in chloroplast thylakoids under drought stress conditions. RNA-seq analysis showed that overexpression of TaPPR13 significantly upregulated the expression of nuclear-encoded genes involved in ROS scavenging and the abscisic acid (ABA) signaling pathway. Furthermore, TaPPR13 interacted with TaAOR1 and TaSIG5 to facilitate detoxification and regulate chloroplast gene expression, thereby enhancing drought tolerance. Overexpression of TaPPR13 and TaAOR1 mediated stomatal closure to reduce water loss, improving photosynthetic capacity and conferring a yield advantage under drought stress. These findings show that TaPPR13 promotes retrograde signaling to alter nuclear gene expression, with the TaBZR2-TaPPR13-TaAOR1/TaSIG5 module representing a novel signaling pathway that likely plays a pivotal role in drought stress response.",
+  "publication_date": "2025-06-29",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "doi": "10.1002/advs.202502984",
+  "entities": {
+    "FOOD": [
+      "the wheat (triticum aestivum) brassinazole-resistant 2 (tabzr2) gene"
+    ],
+    "SYMPTOM": [
+      "a positive drought stress regulator",
+      "drought stress",
+      "drought stress conditions",
+      "drought stress response"
+    ],
+    "POLYPHENOL": [
+      "reactive oxygen species"
+    ]
+  }
+}

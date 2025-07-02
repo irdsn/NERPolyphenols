@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Comparative analysis of primary and secondary metabolites in wheat seedlings (Triticum aestivum L.) cultivated under varying photosynthetic photon flux densities and growth periods.",
+  "abstract": "To elucidate the impact of environmental factors on the nutritional quality of metabolites in wheat seedlings, both primary and secondary metabolites must be comprehensively examined. We thus conducted a comparative analysis of these metabolites in wheat seedlings grown under various photosynthetic photon flux densities (PPFD) (200, 400 and 800\u2009\u03bcmol\u2009m-2s-1) and growth periods (5, 7, 9, 11, 13 and 15\u2009days) to help optimize the nutritional quality of seedlings.",
+  "publication_date": "2025-06-13",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.14432",
+  "entities": {
+    "FOOD": [
+      "wheat seedlings"
+    ],
+    "POLYPHENOL": [
+      "both primary and secondary metabolites"
+    ]
+  }
+}

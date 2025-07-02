@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Phytochemicals as modulators of ferroptosis: a novel therapeutic avenue in cancer and neurodegeneration.",
+  "abstract": "Ferroptosis, a controlled cell death mechanism characterised by iron-dependent lipid peroxidation, has become a significant factor in the pathophysiology of cancer and neurodegenerative disorders. Its dual role as a tumor suppressor and mediator of neuronal damage highlights its significance as a therapeutic target. Phytochemicals, natural bioactive molecules in plants, have attracted interest for their ability to modulate ferroptosis through diverse mechanisms, including regulation of oxidative stress, iron metabolism, and antioxidant defense systems. This review examines the complex relationship between ferroptosis and disease mechanisms, emphasizing its relevance in treatment-resistant cancers and neurodegenerative disorders such as Alzheimer's and Parkinson's diseases. Information was taken from reputable databases such as PubMed, Scopus, and Web of Science. We thoroughly analyzed the current evidence on phytochemicals-including polyphenols like curcumin and epigallocatechin gallate, flavonoids like quercetin and luteolin, and alkaloids like berberine-as modulators of ferroptotic pathways. Despite their promising therapeutic potential, challenges such as limited bioavailability, pharmacokinetics, and clinical validation remain significant hurdles. Future research focusing on advanced delivery systems, synergistic approaches, and personalized medicine strategies could unlock the full potential of phytochemicals in ferroptosis-targeted therapies. This review underscores phytochemicals as a novel and versatile avenue in addressing the unmet therapeutic needs in cancer and neurodegenerative diseases.",
+  "publication_date": "2025-06-25",
+  "journal": "Molecular biology reports",
+  "doi": "10.1007/s11033-025-10752-4",
+  "entities": {
+    "POLYPHENOL": [
+      "a controlled cell death mechanism",
+      "curcumin",
+      "diverse mechanisms",
+      "epigallocatechin gallate",
+      "ferroptosis and disease mechanisms",
+      "flavonoids",
+      "luteolin",
+      "natural bioactive molecules",
+      "polyphenols",
+      "quercetin"
+    ],
+    "SYMPTOM": [
+      "alzheimer's and parkinson's diseases",
+      "cancer and neurodegenerative diseases",
+      "cancer and neurodegenerative disorders",
+      "oxidative stress",
+      "treatment-resistant cancers"
+    ]
+  }
+}

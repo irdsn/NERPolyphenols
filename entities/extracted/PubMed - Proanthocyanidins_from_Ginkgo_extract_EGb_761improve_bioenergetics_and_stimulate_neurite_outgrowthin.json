@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Proanthocyanidins from Ginkgo extract EGb 761\u00aeimprove bioenergetics and stimulate neurite outgrowthin vitro.",
+  "abstract": "EGb 761\u00aeis a proprietary extract fromGinkgo bilobaleaves approved as an herbal medication for the treatment of dementia and its related disorders. Preclinical studies highlight antioxidant, ROS scavenging, mitochondria-stabilizing, and neuroplastic properties as some of the reported pharmacological activities. Efficacy is traditionally ascribed to terpene lactones and flavone glycosides. However, these quantified known active compounds in EGb 761\u00aeonly cover approximately 30% of the mass balance, and there is the possibility that additional compounds from the residual 70% may enhance the activity of the quantified extract EGb 761\u00ae. Proanthocyanidins (PACs) are a quantitatively relevant component in EGb 761\u00ae, and some pharmacological activity has been reported for PACs from Ginkgo and other herbal sources. In this study, we focused on the effects of EGb 761\u00aeand its isolated PACs on mitochondrial bioenergetics and neuroplasticity in the human neuroblastoma cell line SH-SY5Y. We successfully demonstrated positive effects of EGb 761\u00aeand its isolated PACs on several mitochondrial characteristics and neurite outgrowth. As PACs exhibited similar effects compared to the respective extract concentration, they can be considered a pharmacologically relevant component of EGb 761\u00ae.",
+  "publication_date": "2025-06-12",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1495997",
+  "entities": {
+    "SYMPTOM": [
+      "dementia"
+    ],
+    "POLYPHENOL": [
+      "positive effects",
+      "preclinical studies",
+      "proanthocyanidins",
+      "similar effects",
+      "the effects",
+      "the respective extract concentration"
+    ]
+  }
+}

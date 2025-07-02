@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Ultrasensitive and selective nanomolar detection of quercetin in 12 complex food matrices via 3D hierarchical SiO\u2082@MoS\u2082/MXenes heterostructured sensor.",
+  "abstract": "Quercetin (Que) is a ubiquitous flavonoid and polyphenol antioxidant. Negatively charged MoS2was self-assembled onto the surface of positively charged SiO2nanospheres to form SiO2@MoS2core-shell materials. Subsequently, the materials were embedded into the interlayer of MXenes to form an effectively conductive three-dimensional heterostructured composite. The MoS2shell formed on SiO2not only retained the intrinsic properties of SiO2but also improved its conductivity and specific surface area. In addition, the addition of SiO2@MoS2to the interlayer of MXenes effectively alleviated the interference within the potential window and promoted the accurate electrical signal detection of Que. The detection range of the SiO2@MoS2/MXenes electrochemical sensor was 20\u00a0nM\u00a0\u223c\u00a030\u00a0\u03bcM, and the detection limit was 2\u00a0nM. The sensor can be effectively applied to the detection of Que. in 12 kinds of fruits, vegetables and agricultural products, and the results were comparable to those of UV spectrophotometry with satisfactory recovery.",
+  "publication_date": "2025-04-21",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144462",
+  "entities": {
+    "POLYPHENOL": [
+      "a ubiquitous flavonoid",
+      "an effectively conductive three-dimensional heterostructured composite",
+      "its conductivity and specific surface area",
+      "polyphenol",
+      "quercetin",
+      "satisfactory recovery",
+      "the accurate electrical signal detection",
+      "the detection",
+      "the detection limit",
+      "the detection range",
+      "the sio2@mos2/mxenes electrochemical sensor",
+      "uv spectrophotometry"
+    ]
+  }
+}

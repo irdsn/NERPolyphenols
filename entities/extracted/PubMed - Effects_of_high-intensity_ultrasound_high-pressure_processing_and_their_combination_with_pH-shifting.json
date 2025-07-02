@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Effects of high-intensity ultrasound, high-pressure processing, and their combination with pH-shifting on the techno-functionality and digestibility of melon seed protein isolate.",
+  "abstract": "This study presents a novel approach to improving the functional and nutritional properties of melon seed protein isolate (MSPI) through the combination of pH shifting with high-intensity ultrasound (HIUS) or high-pressure processing (HPP). MSPI, extracted from defatted melon seed flour (DMSF), was treated using five methods: pH shifting, HIUS, HPP, pH shifting + HIUS, and pH shifting + HPP. Among these, pH shifting + HIUS demonstrated the most significant improvements, including enhanced protein solubility (78.1\u00a0%), free sulfhydryl content (6.24\u00a0\u03bcmol/g), surface hydrophobicity (268.1), antioxidant activity (19.8\u00a0%), and total phenolic content (3.4\u00a0mg catechin/g dry weight). These enhancements translated into improved functional properties, such as foam stability, oil and water absorption capacity, and gel-forming ability, along with a reduction in particle size (40.3\u00a0nm) and viscosity. Additionally, this treatment yielded the highest denaturation temperature (94.4\u00a0\u00b0C), indicating improved protein stability, and increased protein digestibility (95.5\u00a0%). Microscopically, the treatment caused significant structural changes, creating large voids, cracks, and irregular surfaces that enhance protein reactivity. FTIR analysis revealed a shift toward higher wavenumbers, suggesting disruption of intermolecular and intramolecular bonds, increasing reactive sites on the protein. The results highlight the potential of combining pH shifting with HIUS or HPP as an innovative strategy for enhancing the techno-functional and nutritional properties of plant proteins. This method offers promising applications in developing high-performance, plant-based protein ingredients for the food industry, aligning with the increasing demand for sustainable and functional protein sources.",
+  "publication_date": "2025-03-16",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116219",
+  "entities": {
+    "FOOD": [
+      "defatted melon seed flour",
+      "melon seed protein isolate"
+    ],
+    "POLYPHENOL": [
+      "3.4\u00a0mg catechin",
+      "intermolecular and intramolecular bonds",
+      "the techno-functional and nutritional properties"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Polyphenols and Cognition In Humans: An Overview of Current Evidence from Recent Systematic Reviews and Meta-Analyses.",
+  "abstract": "There is increasing interest in the impact of dietary influences on the brain throughout the lifespan, ranging from improving cognitive development in children through to attenuating ageing related cognitive decline and reducing risk of neurodegenerative diseases. Polyphenols, phytochemicals naturally present in a host of fruits, vegetables, tea, cocoa and other foods, have received particular attention in this regard, and there is now a substantial body of evidence from experimental and epidemiological studies examining whether their consumption is associated with cognitive benefits.",
+  "publication_date": "2021-02-09",
+  "journal": "Brain plasticity (Amsterdam, Netherlands)",
+  "doi": "10.3233/BPL-200111",
+  "entities": {
+    "POLYPHENOL": [
+      "ageing related cognitive decline",
+      "polyphenols"
+    ],
+    "FOOD": [
+      "cocoa"
+    ]
+  }
+}

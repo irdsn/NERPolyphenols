@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Reusing wastes from olive pomace in oil production chain: How membrane technology can rescue nutrients from wastewaters.",
+  "abstract": "In olive oil production, once high-grade oils (extra virgin olive oil and virgin olive oil) are produced by milling procedure, further oils are then recovered by different methods. The lowest grade is pomace oil, recovered usually by solvent techniques, from oil pomace. This step is important for the oil recovery, but environmental issue need to be faced, since the stocking and treatment of pomace oil causes emissions into the atmosphere with fumes and smells. The present work was aimed at evaluating the performance of nanofiltration (NF) and reverse osmosis (RO) processes in the treatment of wastewaters coming from the condensation of steam emissions in a pomace oil factory. This approach allowed to reduce the volume of condensed wastewaters producing two valuable streams: fresh water, as permeate stream, and a nutrient-rich solution, as retentate stream. The experimental results indicated a better performance of the RO membrane with a progressive increase of total organic carbon (TOC), conductivity and total polyphenols in the retentate of the process. This solution can be further dehydrated and reused as organic fertilizer. The purified water, produced as permeate, can be re-used within the plant itself (i.e. water replenishment of evaporative towers or as boiler feed after degassing) or in other processes (i.e. irrigation, machinery washing, etc.).",
+  "publication_date": "2025-02-12",
+  "journal": "Heliyon",
+  "doi": "10.1016/j.heliyon.2025.e42653",
+  "entities": {
+    "FOOD": [
+      "extra virgin olive oil",
+      "olive oil production",
+      "virgin olive oil"
+    ],
+    "POLYPHENOL": [
+      "solvent techniques",
+      "the oil recovery",
+      "total polyphenols"
+    ]
+  }
+}

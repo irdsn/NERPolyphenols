@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Obtainment of Flavonoid-Enriched Fractions from Maqui (Aristotelia chilensis) and Murta (Ugni molinae) Extracts via Preparative HPLC and Evaluation of Their Anti-Inflammatory Effects in Cell-Based Assays.",
+  "abstract": "Polyphenols exert anti-inflammatory and antioxidant effects by modulating cell signalling pathways and transcription factors involved in inflammatory bowel disease (IBD). However, their stability during digestion can be compromised. Polymer coatings like chitosan (-C) help preserve their stability. Maqui (Aristotelia chilensis) and murta (Ugni molinae) are rich in antioxidant and anti-inflammatory compounds. This work aims to obtain extracts (E) and blends (B) enriched in delphinidin and quercetin glucosides from maqui (Ma) and murta (Mu) crude extracts using preparative chromatography methodology (Prep-HPLC) and to evaluate their effectiveness through in vitro and cellular assays. HPLC-DAD analysis revealed a marked increase in phenolic compound concentration in the BEMaMu and BCMaMu extract blends. Total quercetin glycosides (TQG) increased by 11-fold, and total anthocyanins increased by approximately 8-fold compared to the fruit blend (BMaMu). BCMaMu exhibited a significantly higher ORAC value compared to the estimated additive mixture, suggesting a synergistic effect. No cytotoxicity was observed for BEMaMu, BCMaMu, and their chitosan-coated versions (BEMaMu-C and BCMaMu-C) in Caco-2 and HT29-MTX-E12 cells at concentrations of 0.1-50 mg/mL. Notably, only chitosan-coated BCMaMu inhibited NF-\u03baB expression and activated Nrf2 in TNF-\u03b1-challenged Caco-2 cells at 0.1 and 0.5 mg/mL.",
+  "publication_date": "2025-05-16",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14050600",
+  "entities": {
+    "POLYPHENOL": [
+      "a synergistic effect",
+      "anti-inflammatory and antioxidant effects",
+      "delphinidin",
+      "phenolic compound concentration",
+      "polyphenols",
+      "quercetin glucosides",
+      "their effectiveness",
+      "total quercetin glycosides"
+    ],
+    "SYMPTOM": [
+      "inflammatory bowel disease"
+    ]
+  }
+}

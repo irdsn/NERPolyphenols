@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Evaluating inkjet dispenser/liquid vortex capture-mass spectrometry for single-cell metabolomics in Hep G2 steatosis caused by tamoxifen.",
+  "abstract": "Single-cell mass spectrometry (MS) is advancing our understanding of metabolic pathways in heterogeneous cell populations; however, many techniques are slow or require disruptive sample preparations. This study evaluated coupling a modified HP D100 single-cell inkjet dispenser with liquid vortex capture-mass spectrometry (D100/LVC-MS). The D100 is a single-cell inkjet dispenser capable of titrating solutions and isolating single cells via disposable cassettes equipped with microfluidic channels and an impedance sensor. The LVC-MS enables high-throughput capture, lysis, and ionization of analytes for mass spectrometric analysis. The D100/LVC-MS system was characterized through titration and single-cell experiments. Propranolol titration demonstrated linearity across a broad concentration range using the D100/LVC-MS system. Additionally, Hep G2 hepatocarcinoma cells and Chlamydomonas reinhardtii algae were used to showcase the D100's high-throughput or low-buffer-volume single-cell dispensing strategies. The D100/LVC-MS system's performance was validated by evaluating tamoxifen-induced steatosis in Hep G2 cells. Tamoxifen, associated with nonalcoholic fatty liver disease in breast cancer patients following long-term use, was tested in Hep G2 cells at 20\u00a0\u00b5M for 72\u00a0h against DMSO-treated controls. High-throughput analysis of 500 cells per condition, completed in 25\u00a0min per run, demonstrated the system's efficiency. The D100/LVC-MS system simultaneously quantified tamoxifen and measured triglycerides and phosphatidylcholines. Triglycerides were upregulated in the tamoxifen-treated cells and the results indicated two distinct cell populations, differing in tamoxifen and phosphatidylcholines levels, suggesting heterogeneity within the treated population. These findings highlight the D100/LVC-MS system as a cost-effective, high-throughput platform for single-cell metabolomics and lipidomics, with significant potential for evaluating metabolic alterations.",
+  "publication_date": "2025-05-05",
+  "journal": "Analytical and bioanalytical chemistry",
+  "doi": "10.1007/s00216-025-05885-1",
+  "entities": {
+    "POLYPHENOL": [
+      "a cost-effective, high-throughput platform",
+      "liquid vortex capture-mass spectrometry",
+      "many techniques",
+      "mass spectrometric analysis",
+      "single-cell mass spectrometry"
+    ],
+    "SYMPTOM": [
+      "breast cancer patients",
+      "tamoxifen-induced steatosis"
+    ]
+  }
+}

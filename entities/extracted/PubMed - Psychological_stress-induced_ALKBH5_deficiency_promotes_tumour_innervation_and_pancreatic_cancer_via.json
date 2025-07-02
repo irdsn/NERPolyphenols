@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Psychological stress-induced ALKBH5 deficiency promotes tumour innervation and pancreatic cancer via extracellular vesicle transfer of RNA.",
+  "abstract": "The pathological role and mechanism of psychological stress in cancer progression are little known. Here we show in a mouse model that psychological stress drives pancreatic ductal adenocarcinoma (PDAC) progression by stimulating tumour nerve innervation. We demonstrate that nociception and other stressors activate sympathetic nerves to release noradrenaline, downregulating RNA demethylase alkB homologue 5 (Alkbh5) in tumour cells. Alkbh5 deficiency in these cancer cells causes aberrant N6-methyladenosine (m6A) modification of RNAs, which are packed into extracellular vesicles and delivered to nerves in the tumour microenvironment, enhancing hyperinnervation and PDAC progression. ALKBH5 levels are inversely correlated with tumour innervation and survival time in patients with PDAC. Animal experiments identify a natural flavonoid, fisetin, that prevents neurons from taking in extracellular vesicles containing m6A-modified RNAs, thus suppressing the excessive innervation and progression of PDAC tumours. Our study sheds light on a molecular mechanism by which crosstalk between the neuroendocrine system and cancer cells links psychological stress and cancer progression and raises a potential strategy for PDAC therapy.",
+  "publication_date": "2025-05-26",
+  "journal": "Nature cell biology",
+  "doi": "10.1038/s41556-025-01667-0",
+  "entities": {
+    "POLYPHENOL": [
+      "a molecular mechanism",
+      "a natural flavonoid, fisetin",
+      "mechanism"
+    ],
+    "SYMPTOM": [
+      "cancer cells",
+      "cancer progression",
+      "other stressors",
+      "psychological stress",
+      "these cancer cells"
+    ]
+  }
+}

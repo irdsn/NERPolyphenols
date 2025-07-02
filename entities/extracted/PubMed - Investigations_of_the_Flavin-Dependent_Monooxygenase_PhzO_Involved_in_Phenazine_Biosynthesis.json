@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Investigations of the Flavin-Dependent Monooxygenase PhzO Involved in Phenazine Biosynthesis.",
+  "abstract": "Phenazines are bioactive secondary metabolites with antifungal, anticancer, and insecticidal properties, while hydroxylated derivatives often exhibit enhanced bioactivity. 2-hydroxyphenazine (2-OH-PHZ), which is synthesised by the flavin-dependent monooxygenase PhzO from phenazine-1-carboxylic acid (PCA), shows better bioactivity against the pathogenic fungus Gaeumannomyces graminis vars. tritici. However, the low catalytic efficiency (10%-20% conversion) of PhzO limited 2-OH-PHZ production. To boost PhzO activity, engineering flavin reductase (Fre)-mediated FADH2regeneration was applied to Pseudomonas chlororaphis LX24AE. Remarkably, this approach improved catalytic efficiency from 25% to 40% and increased the production of a novel dihydroxylated derivative. Then, it was first characterised by UPLC-MS and NMR, and identified as 3,4-dihydroxyphenazine-1-carboxylic acid (3,4-OH-PCA). Next, the Fre-PhzO module through heterologous co-expression in P. putida KT2440 demonstrated a 4.5-fold enhancement in hydroxylation efficiency relative to the PhzO mono-component system, which also confirmed that PhzO and flavin reductase are essential for 3,4-OH-PCA biosynthesis. Moreover, in\u00a0vitro assays further verified that PhzO exhibits FAD-dependent catalytic promiscuity, simultaneously generating 2-OH-PCA and 3,4-OH-PCA. Furthermore, in\u00a0vitro and in\u00a0vivo assays demonstrated that substrate concentration affected the distribution of products. Finally, cytotoxicity evaluation of the isolated 3,4-OH-PCA was performed, and it showed substantial inhibition against oesophageal cancer TE-1 cells and human cervical cancer HeLa cells with an IC50value of 8.55\u2009\u03bcM and 17.69\u2009\u03bcM, respectively. This work redefines PhzO as a promiscuous biocatalyst capable of dual hydroxylation, offering a modular platform for engineering bioactive phenazine derivatives.",
+  "publication_date": "2025-06-01",
+  "journal": "Microbial biotechnology",
+  "doi": "10.1111/1751-7915.70186",
+  "entities": {
+    "POLYPHENOL": [
+      "bioactive secondary metabolites",
+      "insecticidal properties"
+    ],
+    "SYMPTOM": [
+      "anticancer",
+      "human cervical cancer hela cells",
+      "oesophageal cancer te-1 cells"
+    ]
+  }
+}

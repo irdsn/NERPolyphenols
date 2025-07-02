@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Cocoa flavanols, Nrf2 activation, and oxidative stress in peripheral artery disease: mechanistic findings in muscle based on outcomes from a randomized trial.",
+  "abstract": "The pathophysiology of muscle damage in peripheral artery disease (PAD) includes increased oxidant production and impaired antioxidant defenses. Epicatechin (EPI), a naturally occurring flavanol, has antioxidant properties that may mediate the beneficial effects of natural products such as cocoa. In a phase II randomized trial, a cocoa-flavanol-rich beverage significantly improved walking performance compared with a placebo in people with PAD. In the present work, the molecular mechanisms underlying the therapeutic effect of cocoa flavanols were investigated by analyzing baseline and follow-up muscle biopsies from participants. Increases in nuclear factor erythroid 2-related factor 2 (Nrf2) target antioxidants heme oxygenase-1 (HO-1) and NAD(P)H dehydrogenase [quinone] 1 (NQO1) in the cocoa group were significantly associated with reduced accumulation of central nuclei, a myopathy indicator, in type II muscle fibers (P= 0.017 andP= 0.023, respectively). Protein levels of the mitochondrial respiratory complex III subunit, cytochrome b-c1 complex subunit 2 (UQCRC2), were significantly higher in the cocoa group than in the placebo group (P= 0.032), and increases in UQCRC2 were significantly associated with increased levels of Nrf2 target antioxidants HO-1 and NQO1 (P= 0.001 andP= 0.035, respectively). Exposure of non-PAD human myotubes to ex vivo serum from patients with PAD reduced Nrf2 phosphorylation, an indicator of activation, increased hydrogen peroxide production and oxidative stress, and reduced mitochondrial respiration. Treatment of myotubes with EPI in the presence of serum from patients with PAD increased Nrf2 phosphorylation and protected against PAD serum-induced oxidative stress and mitochondrial dysfunction. Overall, these findings suggest that cocoa flavanols may enhance antioxidant capacity in PAD via Nrf2 activation.NEW & NOTEWORTHYThe current study supports the hypothesis that in people with PAD, cocoa flavanols activate Nrf2, thereby increasing antioxidant protein levels, protecting against skeletal muscle damage, and increasing mitochondrial protein abundance. These results suggest that Nrf2 activation may be an important therapeutic target for improving walking performance in people with PAD.",
+  "publication_date": "2024-01-08",
+  "journal": "American journal of physiology. Cell physiology",
+  "doi": "10.1152/ajpcell.00573.2023",
+  "entities": {
+    "POLYPHENOL": [
+      "epicatechin",
+      "the beneficial effects",
+      "the molecular mechanisms",
+      "the therapeutic effect"
+    ],
+    "FOOD": [
+      "a cocoa-flavanol-rich beverage",
+      "cocoa",
+      "cocoa flavanols",
+      "the cocoa group"
+    ],
+    "SYMPTOM": [
+      "mitochondrial dysfunction",
+      "oxidative stress",
+      "pad serum-induced oxidative stress"
+    ]
+  }
+}

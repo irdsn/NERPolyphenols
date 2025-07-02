@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Whole Fruits Versus 100% Fruit Juice: Revisiting the Evidence and Its Implications for US Healthy Dietary Recommendations.",
+  "abstract": "Scientific literature remains inconsistent on whether and to what extent 100% fruit juice should be recommended in the diet. Specifically, the current Dietary Guidelines for Americans (DGA) do not specifically refer to free sugars in fruit juice, and further clarification to provide more explicit guidance may be needed in the 2025-2030 version. We compared evidence on whole fruit and 100% fruit juice regarding its nutrient composition, impact on hunger and satiety, and association with chronic health conditions while highlighting the potential public health perspectives and implications for healthy dietary recommendations. Processing and/or storing 100% fruit juice reduces its fibre, vitamins and other antioxidant contents and transforms intrinsic sugars in the whole fruit into free sugars. Fruit consumed in solid form provides greater satiety due to delayed gastric emptying and related physiological reactions. The synergistic effects of polyphenols and fibre in whole fruit benefit the gut microbiome by acting as prebiotics and producing short-chain fatty acids that reduce inflammation. Although the evidence surrounding 100% fruit juice on chronic conditions remains inconsistent, accumulating studies indicate a more consistently beneficial role of whole fruits. The research evidence reviewed highlights the need for the DGA to update the recommendations on fruit juice, including emphasising the health benefits of whole fruit over fruit juice, providing a clear guideline on the daily fruit juice allowance, defining \"free sugars\" in fruit juice, and clarifying the distinction between 100% fruit juice and fruit drinks.",
+  "publication_date": "2025-05-07",
+  "journal": "Nutrition bulletin",
+  "doi": "10.1111/nbu.70009",
+  "entities": {
+    "FOOD": [
+      "100% fruit juice",
+      "fruit juice",
+      "the daily fruit juice allowance"
+    ],
+    "POLYPHENOL": [
+      "healthy dietary recommendations",
+      "polyphenols",
+      "the potential public health perspectives",
+      "the recommendations",
+      "the synergistic effects"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

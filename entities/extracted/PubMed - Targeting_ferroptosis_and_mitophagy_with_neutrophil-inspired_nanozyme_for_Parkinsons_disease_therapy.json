@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols antioxidant",
+  "title": "Targeting ferroptosis and mitophagy with neutrophil-inspired nanozyme for Parkinson's disease therapy.",
+  "abstract": "Parkinson's disease (PD) is characterized by neurodegeneration, oxidative stress, and \u03b1-synuclein aggregation. While L-DOPA provides symptomatic relief through dopamine replenishment, it lacks neuroprotective effects and fails to address oxidative stress, iron dysregulation, and protein aggregation underlying PD pathogenesis. The development of antioxidant enzymes shows promise, yet challenges persist in blood-brain barrier (BBB) penetration and effective neuroinflammation mitigation. Our preliminary investigations revealed that the coordination between Icariside II (ICS II) and Fe3+facilitates the formation of self-assembled metal-polyphenol nanozymes (Fe-Ic) with enhanced antioxidant capabilities and iron chelation functionality. Building on this discovery, we engineered neutrophil membrane-coated nanozymes (R-NM@Fe-Ic) with DSPE-PEG-RVG29 modification through a rational design strategy targeting both iron dysregulation and ferroptosis in PD, enabling targeted delivery to neuroinflammatory regions. R-NM@Fe-Ic demonstrated dual enzyme-like activities, reducing \u03b1-synuclein aggregation, suppressing lipid peroxidation, and increasing glutathione peroxidase 4 expression, thereby preventing neuronal ferroptosis more effectively than L-DOPA. Additionally, it promoted mitophagy, inhibiting toxic protein aggregation and reducing neuroinflammation. In vivo studies confirmed efficient BBB penetration with targeted accumulation in PD-affected brain regions. Behavioral analyses showed significant improvements in motor function, spontaneous movement, and cognitive performance, outperforming L-DOPA in both symptom management and neuroprotection. This study establishes a novel platform for biomimetic nanozymes and provides insights into their therapeutic potential by simultaneously targeting ferroptosis and enhancing mitophagy pathways in neuroinflammatory disorders.",
+  "publication_date": "2025-06-10",
+  "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+  "doi": "10.1016/j.jconrel.2025.113950",
+  "entities": {
+    "SYMPTOM": [
+      "neurodegeneration",
+      "neuroinflammation",
+      "oxidative stress",
+      "parkinson's disease"
+    ],
+    "POLYPHENOL": [
+      "effective neuroinflammation mitigation",
+      "neuroprotection",
+      "neuroprotective effects",
+      "pd-affected brain regions",
+      "self-assembled metal-polyphenol nanozymes"
+    ]
+  }
+}

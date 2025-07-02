@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Agro-Industrial Waste fromPistacia vera: Chemical Profile and Bioactive Properties.",
+  "abstract": "In Argentina and globally, pistachio (Pistacia vera) production has significantly grown, driven by its high nutritional value and food industry demand. Its harvesting and processing generate about 40% of pistachio waste (PW), including leaves, twigs, seed coats, green, and empty kernels. Underutilized PW has led to environmental problems, including soil and water contamination by landfill accumulation. However, it could be a potential source of undiscovered bioactive compounds. This study aimed to characterize the chemical profile and to evaluate the bioactive properties of PW. The dried pistachio waste (dPW) was used to prepare the pistachio waste decoction (PWD) (10%w/v). The total phenolic content (TPC) and flavonoid content (FC) were quantified, and the chemical profile was analyzed using UPLC-DAD-ESI-MS/MS. Nematicidal activity againstMeloidogyne incognita(J2), acetylcholinesterase (AChE) and butyrylcholinesterase (BuChE) inhibition, antioxidant capacity (ABTS, DPPH, FRAP), and phytotoxicity onAllium cepa,Lactuca sativa, andRaphanus sativuswere evaluated. The UPLC-DAD-ESI-MS/MS analysis identified 26 compounds, including phenolics, flavonoids, and unsaturated fatty acids. The main compounds were gallic acid, anacardic acid, and quercetin derivatives. The TPC and FC were 212.65 mg GAE/g dPW and 0.022 mg QE/g dPW, respectively, displaying strong antioxidant activity across the assays DPPH, ABTS, and FRAP. PWD exhibited nematicidal activity againstM. incognita(J2) (LC50= 0.12% at 24 h). Alterations in the cuticle were observed, including structural disorganization and detachment from internal tissues. Additionally, a remarkable cholinesterase inhibitory effect was detected at 2.0% PWD (42.65% for AChE and 58.90% for BuChE). PWD showed low phytotoxic effects across the tested species, and the germination percentage (GP) and the mean germination time (MGT) were not significantly affected (GP > 79%). These findings highlight the potential of PW as a sustainable alternative forM. incognitacontrol, the remarkable nematicidal, anticholinesterase, and antioxidant properties, and the low phytotoxicity, supporting its use in sustainable agricultural practices.",
+  "publication_date": "2025-05-09",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14101420",
+  "entities": {
+    "FOOD": [
+      "pistachio waste",
+      "seed coats",
+      "the dried pistachio waste"
+    ],
+    "POLYPHENOL": [
+      "a remarkable cholinesterase inhibitory effect",
+      "flavonoid content",
+      "flavonoids",
+      "gallic acid",
+      "low phytotoxic effects",
+      "quercetin derivatives",
+      "the pistachio waste decoction",
+      "the tested species"
+    ]
+  }
+}

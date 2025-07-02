@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Extraction and Analysis of Natural Color From Beetroot (Beta vulgarisL.) Using Different Techniques, and Its Utilization in Ice Cream Manufacturing.",
+  "abstract": "A rich source of natural color, beetroot (Beta vulgaris L. subsp. vulgaris) extracts and colorants offer deep red color to the dishes and boost their nutritional and antioxidant value. This research extracted beetroot color using Soxhlet, cold press, and ultrasonic methods. After testing the extracts for yield %, color (L*, a*, and b*), betalains, total polyphenols, and antioxidant activity, the colorant was used to make ice cream. The results of three techniques revealed that the extract obtained from Soxhlet extraction (SE) has more total phenolic content (244.11\u2009mg GAE/100\u2009g), DPPH free radical scavenging activity (23.41%), significantly higher yield (48.05%), and better color results, as compared to the other extraction techniques. However, the contents of betalains (399.47\u2009mg/L) were observed more in the extract obtained from ultrasonic extraction (UE). The extract obtained after the SE technique was further utilized in the ice cream manufacturing to check its acceptability in this product, compared to the artificial color. Six samples of ice cream were developed having different ratios of beetroot-derived color and artificial color. Control ice cream (T0) contained artificial color, whereas ice cream (T5) was developed by replacing complete artificial color with beetroot-derived color. The other treatments (T1), (T2), (T3), and (T4) contained a combination of both natural and artificial colors with different proportions. Various quality parameters of these ice cream formulations, such as pH, acidity, brix, melting rate, overrun, and specific gravity, were studied. The result signified that the addition of beetroot color did not have a considerable effect on these attributes. The result of color analysis of ice cream suggested that the mean value of L* is higher in T5 (73.16), which only contains 0.1% beetroot color, and is lowest in T0 (65.24), which contains 0.1% artificial color. The addition of natural colorant resulted in a higher L* value. Sensory characteristics including color, mouth coating, flavor, aroma, texture, and overall acceptability of T5 showed more acceptance and significant results as compared to other treatments that contained artificial colors. Therefore, the beetroot-derived natural colorants could be employed to develop nutritional, healthy, and acceptable ice cream.",
+  "publication_date": "2025-04-18",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70167",
+  "entities": {
+    "FOOD": [
+      "0.1% beetroot color",
+      "beetroot",
+      "beetroot color",
+      "beetroot-derived color",
+      "beetroot-derived color and artificial color",
+      "the beetroot-derived natural colorants"
+    ],
+    "POLYPHENOL": [
+      "a considerable effect",
+      "specific gravity",
+      "the other extraction techniques",
+      "the se technique",
+      "three techniques",
+      "total polyphenols"
+    ]
+  }
+}

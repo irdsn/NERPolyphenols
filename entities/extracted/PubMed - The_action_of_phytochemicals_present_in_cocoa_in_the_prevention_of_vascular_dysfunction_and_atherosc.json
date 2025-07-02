@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "The action of phytochemicals present in cocoa in the prevention of vascular dysfunction and atherosclerosis.",
+  "abstract": "Chronic non-communicable diseases, including cardiovascular diseases (CVDs), have caused many deaths worldwide. Atherosclerotic plaque formation is common in individuals with CVDs. Thus, antioxidant and anti-inflammatory nutritional strategies can be used to prevent or inhibit this process. Due to its higher concentrations of cocoa, dark chocolate is considered a functional food due to the presence and action of phytochemical compounds, with anti-inflammatory and antioxidant actions. However, the recommended amounts of these compounds to prevent atherosclerosis have not yet been fully elucidated.",
+  "publication_date": "2022-11-10",
+  "journal": "Journal of clinical and translational research",
+  "doi": null,
+  "entities": {
+    "FOOD": [
+      "a functional food",
+      "cocoa",
+      "dark chocolate"
+    ],
+    "POLYPHENOL": [
+      "the recommended amounts"
+    ],
+    "SYMPTOM": [
+      "atherosclerosis"
+    ]
+  }
+}

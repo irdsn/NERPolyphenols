@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Deep eutectic solvent extraction of polyphenol from plant materials: Current status and future prospects in food applications.",
+  "abstract": "The increasing environmental concerns related to biomass waste have led to the exploration of sustainable methods for extracting bioactive compounds from plant materials, especially polyphenols, which are valued for their health benefits and use in functional foods and natural additives. These bioactive compounds are abundant in fruits, vegetables, tea, and herbs, and encompass flavonoids, phenolic acids, tannins, stilbenes, and lignans. Traditional extraction methods often rely on harmful petrochemical solvents, which pose significant environmental and health risks. In contrast, Deep Eutectic Solvents (DESs) have emerged as an eco-friendly alternative, offering advantages such as low toxicity, cost-efficiency, and a wide range of solubility. This review focused recent advancements in DES-based polyphenol extraction, emphasizing their applications in the food industry. It highlights the potential of DES to efficiently extract polyphenols, improving their bioavailability and stability, and exploring future prospect for enhancing food quality, safety, and functionality through functional foods and natural preservatives.",
+  "publication_date": "2025-03-29",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144125",
+  "entities": {
+    "POLYPHENOL": [
+      "an eco-friendly alternative",
+      "deep eutectic solvents",
+      "des-based polyphenol extraction",
+      "encompass flavonoids",
+      "especially polyphenols",
+      "future prospect",
+      "polyphenols",
+      "recent advancements",
+      "tannins"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

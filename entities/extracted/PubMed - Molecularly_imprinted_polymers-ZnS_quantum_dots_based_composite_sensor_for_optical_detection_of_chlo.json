@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Molecularly imprinted polymers-ZnS quantum dots based composite sensor for optical detection of chlorogenic acid.",
+  "abstract": "Chlorogenic acid (CGA), a key phenolic acid found in coffee, fruits, vegetables, and herbs, has significant pharmacological activities, necessitating its accurate detection in complex matrices. In this study, an organic acrylate molecularly imprinted polymers-chitosan modified zinc sulphide quantum dots/polydopamine (MIPs-CS:ZnS QDs/PDA) based composite sensor for the detection of CGA has been designed. In MIPs shell, CGA served as template and 4-vinylpyridine and methacrylic acid as functional monomers, azobisisobutyronitrile acting as the initiator and ethylene glycol dimethacrylate as the cross-linker. Chitosan was incorporated to enhance the stability of ZnS QDs, while polydopamine was introduced during polymerization to improve adhesion and the selectivity of MIPs for CGA. Under ideal conditions, the composite sensor had shown a linear range of 0.02-11\u00a0\u03bcg/mL with detection limit of 8.9\u00a0\u00d7\u00a010-3\u03bcg/mL. The composite sensor showed imprinting factor of 6.3, and response time of 12\u00a0min. The sensor demonstrated good selectivity towards CGA, in the presence of interfering agents. Composite sensor was successfully applied to detect CGA in plant extracts, coffee and fruit juices, with recovery ranges from 88.93 to 98.49 %. The MIPs-CS:ZnS QDs/PDA composite sensor offers a simple and robust approach for CGA detection in real samples without requiring pre-treatment.",
+  "publication_date": "2025-03-14",
+  "journal": "Analytical biochemistry",
+  "doi": "10.1016/j.ab.2025.115846",
+  "entities": {
+    "POLYPHENOL": [
+      "cga detection",
+      "chlorogenic acid",
+      "detection limit",
+      "good selectivity",
+      "its accurate detection",
+      "recovery",
+      "the detection",
+      "the selectivity"
+    ],
+    "FOOD": [
+      "coffee",
+      "coffee and fruit juices",
+      "plant extracts"
+    ]
+  }
+}

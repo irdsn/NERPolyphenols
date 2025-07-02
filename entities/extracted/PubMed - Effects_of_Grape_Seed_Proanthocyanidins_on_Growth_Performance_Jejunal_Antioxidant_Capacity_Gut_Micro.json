@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Effects of Grape Seed Proanthocyanidins on Growth Performance, Jejunal Antioxidant Capacity, Gut Microbial Diversity, and Metabolites in Kangle Chickens.",
+  "abstract": "This study examined the effects of dietary supplementation with grape seed proanthocyanidins (GSPs) on the growth performance, serum biochemistry, jejunal antioxidant capacity, and jejunal microbiota and metabolites in Chinese indigenous Kangle chicken. In this experiment, 120 female Kangle chickens aged 30 days old were randomly allocated into three treatment groups: a control group (CON) fed a standard diet and two experimental groups fed diets supplemented with 200 mg/kg (LGSP) or 400 mg/kg (HGSP) of GSPs. The experiment consisted of a 7-day adaptation period followed by a 30-day feeding trial. The results demonstrated that GSP supplementation did not significantly improve their average daily gain or feed efficiency. However, the HGSP group showed significant improvements in their liver and jejunal indices, a reduced jejunal crypt depth, and increased villus-height-to-crypt-depth ratios compared to these values in the CON group. Furthermore, the HGSP group also exhibited elevated concentrations of cholesterol in their serum. Additionally, the oxidative stress levels were probably reduced in the jejuna of the HGSP group, as evidenced by reduced malondialdehyde (MDA) contents. Although jejunal microbial diversity remained unchanged, the metabolomic analysis identified significant upregulation of jejunal metabolites, particularly those associated with free radical scavenging, protein nutrition, and bile acid metabolism, which would be beneficial for maintaining intestinal health. These findings indicate that supplementing their diet with 400 mg/kg of GSPs could improve the health of Kangle chickens, underscoring their potential as a functional feed additive in the production of indigenous Chinese chickens.",
+  "publication_date": "2025-05-20",
+  "journal": "Animals : an open access journal from MDPI",
+  "doi": "10.3390/ani15101481",
+  "entities": {
+    "POLYPHENOL": [
+      "grape seed proanthocyanidins",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "the oxidative stress levels"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Valorisation of Winery By-Products: Revealing the Polyphenolic Profile of Grape Stems and Their Inhibitory Effects on Skin Aging-Enzymes for Cosmetic and Pharmaceutical Applications.",
+  "abstract": "Grape (Vitis viniferaL.) stems, a by-product of winemaking, possess significant potential value due to their rich polyphenolic composition, which allows their exploitation for cosmetic and pharmaceutical applications. This presents a promising opportunity for valorisation aimed at developing innovative products with potential health-promoting effects. In this study, the polyphenolic profile of extracts from grape stems of seven white grape varieties was determined using spectrophotometric and chromatographic methods, specifically high-performance liquid chromatography coupled with a photodiode array detector and electrospray ionization multi-stage mass spectrometry (HPLC-PDA-ESI-MSn), as well as on their ferric-reducing antioxidant power (FRAP) and radical scavenging capacity, using 2,2-diphenyl-1-picrylhydrazyl (DPPH\u25cf) and 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid (ABTS\u25cf+) radicals. This study also evaluated the anti-aging activity and skin depigmenting activity of these extracts. These findings revealed a diverse polyphenolic profile, encompassing proanthocyanidins and catechin derivatives (PCDs), phenolic acids, and flavonols. Among the varieties studied, 'C\u00f3dega do Larinho' exhibited the highest concentrations of six distinct polyphenols and the highest total phenolic content. It also demonstrated the highest results for antioxidant capacity and elastase and tyrosinase inhibition. Pearson's correlation analysis showed a significant positive correlation between certain PCDs with both FRAP and DPPH assays, as well as between the identified flavonols and anti-elastase activity. These results underscore the potential health benefits of grape stem extracts and emphasize the importance of their polyphenolic composition in enhancing antioxidant and anti-aging properties, thus supporting their application in different industries.",
+  "publication_date": "2024-11-18",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29225437",
+  "entities": {
+    "FOOD": [
+      "grape",
+      "grape stem extracts",
+      "grape stems",
+      "pearson's correlation analysis",
+      "seven white grape varieties",
+      "winemaking"
+    ],
+    "POLYPHENOL": [
+      "a diverse polyphenolic profile",
+      "a photodiode array detector",
+      "catechin derivatives",
+      "encompassing proanthocyanidins",
+      "ionization multi-stage mass spectrometry",
+      "potential health-promoting effects",
+      "six distinct polyphenols",
+      "specifically high-performance liquid chromatography",
+      "spectrophotometric and chromatographic methods",
+      "the polyphenolic profile",
+      "their polyphenolic composition",
+      "their rich polyphenolic composition"
+    ],
+    "SYMPTOM": [
+      "antioxidant and anti-aging properties",
+      "the anti-aging activity and skin depigmenting activity"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "In Vitro Evaluation of the Healing Potential and Proteomic Study ofQuercus roburL. Leaf Extracts in Human Keratinocytes.",
+  "abstract": "(1) Background: This study evaluated the potential of an aqueous extract fromQuercus roburL. leaves for chronic wound healing. Its composition, rich in bioactive compounds (tannins and flavonoids), confers antioxidant and antimicrobial properties. (2) Methods: The toxicity and ability of the extract to enhance cell migration were tested in human keratinocytes (HaCaT cell line). Additionally, a proteomic analysis was performed on treated cells. (3) Results: The extract exhibited low cytotoxicity (IC50 = 943 \u00b5g\u00b7mL-1) compared to other plant extracts. At 5 mg\u00b7mL-1, it significantly accelerated wound closure at 8 h, surpassing negative control and Reoxcare; however, results were comparable at 12 h. Proteomic analysis identified 117 differentially expressed proteins (21 upregulated, 96 downregulated) involved in essential processes such as cell migration, blood clotting, and cholesterol biosynthesis. Specifically, the extract increased the expression of CYP51A1, LSS, and SQLE, while inhibiting Delta (14)-sterol reductase, key enzymes in cholesterol metabolism, suggesting a potential mechanism for tissue regeneration. (4) Conclusions: The aqueous extract ofQ. roburleaves shows promise as a natural therapeutic agent for chronic wound healing, potentially aiding tissue regeneration and modulation of cholesterol metabolism.",
+  "publication_date": "2025-05-14",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30102152",
+  "entities": {
+    "POLYPHENOL": [
+      "a potential mechanism",
+      "flavonoids",
+      "tannins"
+    ],
+    "FOOD": [
+      "other plant extracts"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Astilbin Alleviates IL-17-Induced Hyperproliferation and Inflammation in HaCaT Cells via Inhibiting Ferroptosis Through the cGAS-STING Pathway.",
+  "abstract": "Psoriasis, a chronic inflammatory skin disorder, is driven by dysregulated immune responses and keratinocyte dysfunction. Here, we explore the therapeutic potential of Astilbin (AST), a flavonoid with potent anti-inflammatory properties, in modulating ferroptosis and the cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway in IL-17-stimulated HaCaT keratinocytes. Our psoriatic cell model recapitulated key pathological features, including hyperproliferation, membrane integrity loss, mitochondrial dysfunction, and heightened oxidative stress, alongside elevated proinflammatory cytokine levels. Ferroptosis-related biomarkers were significantly altered, with increased malondialdehyde (MDA) accumulation, reduced glutathione (GSH) levels, iron overload (Fe2+), and enhanced lipid peroxidation (detected via C11-BODIPY). Mechanistically, mitochondrial damage triggered cytoplasmic leakage of mitochondrial DNA (mtDNA), activating the cGAS-STING pathway, as evidenced by upregulated pathway-associated protein expression. AST intervention effectively mitigated these pathological changes by suppressing ferroptosis and modulating cGAS-STING signaling. These findings reveal a dual-pathway regulatory mechanism, positioning AST as a promising therapeutic candidate for psoriasis. By elucidating the interplay between ferroptosis and the cGAS-STING pathway, this study provides new insights into psoriatic inflammation and offers a rationale for targeting these pathways in therapeutic strategies.",
+  "publication_date": "2025-05-24",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26115075",
+  "entities": {
+    "POLYPHENOL": [
+      "a dual-pathway regulatory mechanism",
+      "a flavonoid"
+    ],
+    "SYMPTOM": [
+      "heightened oxidative stress",
+      "mitochondrial dysfunction",
+      "psoriatic inflammation"
+    ]
+  }
+}

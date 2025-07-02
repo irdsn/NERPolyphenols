@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Upcycling of Pomegranate By-Products: Pomegranate Juice Enrichment With Phenolics-Rich Pomegranate By-Product Extracts Obtained by Green Extraction Methods.",
+  "abstract": "The objective of this study was to produce high-added-value and upcycled pomegranate juices (PJs) enriched with extracts obtained from pomegranate by-products using innovative green extraction methods. The physicochemical properties of PJs stored for 60\u2009days at 4\u00b0C and 25\u00b0C were analyzed. The incorporation of extracts into the juice resulted in a notable enhancement in the bioactive content and antioxidant activity of the samples when compared to the control. Conversely, the addition of extracts into juices resulted in a reduction inL* value, appearance and color values, and elevated turbidity. The sensory evaluation indicated that the PJ containing extract obtained from enzymatic and solvent-assisted extraction exhibited the most sensory appreciation in terms of odor, taste, aftertaste, and general acceptability. The prolongation of storage time and elevation of temperature resulted in a decline ina*,b*, and hue angle values, accompanied by a reduction in phenolics, total monomeric anthocyanin, and antioxidant activity. All sensory properties of the samples decreased during the storage period. To maintain the quality of enriched PJs, they should be stored at 4\u00b0C. Consequently, the production of upcycled PJs with a high concentration of bioactive components and a sensory profile that was acceptable was achieved. Furthermore, enrichment of the PJ with H extract, with its low addition rate and brief extraction time, was an optimum option in terms of chemical, physical, and sensory properties and industry.",
+  "publication_date": "2025-05-29",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70250",
+  "entities": {
+    "POLYPHENOL": [
+      "a decline",
+      "the most sensory appreciation",
+      "the objective"
+    ],
+    "FOOD": [
+      "appearance",
+      "juices",
+      "the juice",
+      "upcycled pomegranate juices"
+    ]
+  }
+}

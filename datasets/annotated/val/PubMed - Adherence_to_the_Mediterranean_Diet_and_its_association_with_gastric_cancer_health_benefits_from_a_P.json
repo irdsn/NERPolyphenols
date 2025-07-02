@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Adherence to the Mediterranean Diet and its association with gastric cancer: health benefits from a Planeterranean perspective.",
+  "abstract": "The Mediterranean Diet (MD) has garnered increasing attention for its potential protective effects against gastric cancer (GC). The MD's rich content of antioxidants, polyphenols, and other bioactive compounds contributes to its ability to modulate gene expression, inhibit tumor growth, and regulate apoptosis. Studies have shown significant reductions in inflammatory markers such as C-reactive protein (CRP), tumor necrosis factor-alpha (TNF-\u03b1), and interleukin-6 (IL-6) among individuals adhering to the MD, suggesting its pivotal role in mitigating chronic inflammation-associated with cancer development. Furthermore, the MD's anti-angiogenic properties, particularly in components like olive oil, red wine, fish, and tomatoes, offer promising avenues for reducing GC risk by inhibiting tumor angiogenesis. Additionally, the MD's influence on intestinal microbiota composition underscores its potential in maintaining immune homeostasis and reducing systemic inflammation, factors crucial in GC prevention. Despite challenges such as variability in dietary adherence scoring systems and the need for further gender and geographical-specific studies, evidence supports the MD as a cost-effective and holistic approach to GC prevention. Emphasizing the role of nutrition in public health is a promising strategy with broad implications for global health and cancer prevention initiatives. Therefore, this review explores the multifaceted impacts of the MD on GC prevention, delving into its anti-inflammatory, anti-angiogenic, and molecular mechanisms.",
+  "publication_date": "2024-05-21",
+  "journal": "Journal of translational medicine",
+  "doi": "10.1186/s12967-024-05176-w",
+  "entities": {
+    "POLYPHENOL": [
+      "a cost-effective and holistic approach",
+      "antioxidants, polyphenols, and other bioactive compounds",
+      "further gender and geographical-specific studies",
+      "its anti-inflammatory, anti-angiogenic, and molecular mechanisms",
+      "its potential protective effects",
+      "tumor necrosis factor-alpha"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer development",
+      "gastric cancer",
+      "global health and cancer prevention initiatives",
+      "systemic inflammation",
+      "tumor growth"
+    ],
+    "FOOD": [
+      "olive oil",
+      "red wine",
+      "tomatoes"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Unveiling anthocyanins structural basis with multiplexed colorimetric and SERS responses for smart monitoring of seafood freshness.",
+  "abstract": "Conventional anthocyanin-based colorimetric indicator labels can achieve qualitative differentiation of seafood freshness levels, but exhibit low responsiveness to early-stage freshness changes. Herein, a high-sensitive smart hydrogel patch with multiplexed colorimetric and surface-enhanced Raman spectroscopy (SERS) features was developed. The structural basis of anthocyanins served as a novel colorimetric and SERS dual-mode sensing unit for smart hydrogel patch was first uncovered. The colorimetric function of the patch can be used to qualitatively identify the freshness of seafood, and the SERS function can be used to quantitatively detect the TVB-N content in seafood. The results revealed that within a pH range of 2.0 to 12.0, the patch's color shifted from bright red to dark green, accompanied by alterations in anthocyanin's characteristic Raman peaks at 1287\u00a0cm-1, 1320\u00a0cm-1, and 1642\u00a0cm-1due to structural transitions. This study provides a new method for sensitive detection of seafood freshness using a smart hydrogel patch.",
+  "publication_date": "2025-05-19",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144841",
+  "entities": {
+    "POLYPHENOL": [
+      "multiplexed colorimetric and surface-enhanced raman spectroscopy (sers) features",
+      "sensitive detection"
+    ]
+  }
+}

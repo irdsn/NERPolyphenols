@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Mechanisms Associated With Renal Injury in Hyperuricemia and Strategies for the Development of Natural Active Substances.",
+  "abstract": "Hyperuricemia (HUA) is a metabolic condition resulting from an abnormality in the process of purine metabolism. Its occurrence has been on the rise globally. The results of relevant studies show that 5% to 12% of HUA patients will eventually develop gout, and one-third of these patients may involve the kidneys and develop kidney disease. Although the severe renal health hazards associated with excessive uric acid levels are well known, the specific molecular mechanisms remain unknown. Therefore, this paper provides insights into the mechanisms and related chain reactions of HUA leading to renal injury from three perspectives: imbalance of intestinal homeostasis, oxidative stress response, and NLRP3 inflammasome. In addition, standing against the background of the strong side effects and high tolerability disadvantages of commercially available uric acid-lowering drugs such as allopurinol, benzbromarone, and febuxostat, the development of a new active anti-hyperuricemic drug with fewer side effects is justified. This article reviews the progress of research on natural actives (probiotics, dietary polyphenols, peptides) with a high safety profile, multi-targeting, and integrative modulatory effects, in an attempt to provide some ideas for drug developers.",
+  "publication_date": "2025-05-01",
+  "journal": "International journal of rheumatic diseases",
+  "doi": "10.1111/1756-185X.70096",
+  "entities": {
+    "POLYPHENOL": [
+      "dietary polyphenols",
+      "fewer side effects",
+      "integrative modulatory effects",
+      "the mechanisms",
+      "the specific molecular mechanisms",
+      "the strong side effects",
+      "three perspectives"
+    ],
+    "SYMPTOM": [
+      "oxidative stress response"
+    ]
+  }
+}

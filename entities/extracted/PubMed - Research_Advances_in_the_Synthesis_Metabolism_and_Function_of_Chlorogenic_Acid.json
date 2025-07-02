@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Research Advances in the Synthesis, Metabolism, and Function of Chlorogenic Acid.",
+  "abstract": "Chlorogenic acids (CGAs) are a group of important plant secondary metabolites produced in the phenylpropanoid metabolic pathway; they are formed via the conjugation of caffeic and quinic acids and are widely distributed across different plant species. Renowned for their multifunctional activities-including antioxidant, anti-inflammatory, antimicrobial, anticancer, antidiabetic, and anti-obesity properties-CGAs are versatile natural food additives with diverse industrial applications. This review summarizes five distinct CGA biosynthetic pathways, the structural and regulatory genes involved, and their key biological functions. The insights aim to facilitate a deeper understanding of CGA metabolism and streamline its exploitation in agriculture and human health.",
+  "publication_date": "2025-05-28",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14111914",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acids",
+      "different plant species",
+      "important plant secondary metabolites"
+    ],
+    "SYMPTOM": [
+      "antioxidant, anti-inflammatory, antimicrobial, anticancer, antidiabetic, and anti-obesity properties-cgas"
+    ]
+  }
+}

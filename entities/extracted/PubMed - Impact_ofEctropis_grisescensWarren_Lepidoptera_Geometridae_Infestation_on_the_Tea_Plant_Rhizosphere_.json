@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Impact ofEctropis grisescensWarren (Lepidoptera: Geometridae) Infestation on the Tea Plant Rhizosphere Microbiome and Its Potential for Enhanced Biocontrol and Plant Health Management.",
+  "abstract": "The root-associated microbiome significantly influences plant health and pest resistance, yet the temporal dynamics of its compositional and functional change in response toEctropis grisescensWarren (Lepidoptera: Geometridae) infestation remain largely unexplored. The study took samples of leaves, roots, and rhizosphere soil at different times after the plants were attacked byE. grisescens. These samples were analyzed using transcriptomic and high-throughput sequencing of 16S rRNA techniques. The goal was to understand how the plant's defense mechanisms and the microbial community around the roots changed after the attack. Additionally, bacterial feedback assays were conducted to evaluate the effects of selected microbial strains on plant growth and pest defense responses. By conducting 16S rRNA sequencing on the collected soil samples, we found significant shifts in bacterial communities by the seventh day, suggesting a lag in community adaptation. Transcriptomic analysis revealed thatE. grisescensattack induced reprogramming of the tea root transcriptome, upregulating genes related to defensive pathways such as phenylpropanoid and flavonoid biosynthesis. Metagenomic data indicated functional changes in the rhizosphere microbiome, with enrichment in genes linked to metabolic pathways and nitrogen cycling. Network analysis showed a reorganization of core microbial members, favoring nitrogen-fixing bacteria likeBurkholderiaspecies. Bacterial feedback assays confirmed that selected strains, notablyBurkholderia cepaciastrain ABC4 (T1) and a nine-strain consortium (T5), enhanced plant growth and defense responses, including elevated levels of flavonoids, polyphenols, caffeine, jasmonic acid, and increased peroxidase (POD) and superoxide dismutase (SOD) activities. This study emphasizes the potential of utilizing root-associated microbial communities for sustainable pest management in tea cultivation, thereby enhancing resilience in tea crops while maintaining ecosystem balance.",
+  "publication_date": "2025-04-14",
+  "journal": "Insects",
+  "doi": "10.3390/insects16040412",
+  "entities": {
+    "POLYPHENOL": [
+      "16s rrna techniques",
+      "ecosystem balance",
+      "flavonoids",
+      "phenylpropanoid and flavonoid biosynthesis",
+      "polyphenols",
+      "selected microbial strains",
+      "that selected strains",
+      "the collected soil samples",
+      "the effects",
+      "the plant's defense mechanisms"
+    ]
+  }
+}

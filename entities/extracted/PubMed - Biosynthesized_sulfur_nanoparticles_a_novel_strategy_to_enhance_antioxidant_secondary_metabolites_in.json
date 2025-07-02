@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Biosynthesized sulfur nanoparticles: a novel strategy to enhance antioxidant secondary metabolites in Lotus arabicus L. callus cultures.",
+  "abstract": "Secondary metabolites are distinct compounds with significant medicinal value, yet their production and chemical synthesis present considerable challenges. This necessitates the development of innovative strategies to improve their yield. This study investigated the potential of biosynthesized sulfur nanoparticles (SNPs) as an eco-friendly elicitor to enhance the synthesis of antioxidant secondary metabolites in\u00a0Lotus arabicus L.\u00a0callus cultures.",
+  "publication_date": "2025-05-07",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-025-06573-z",
+  "entities": {
+    "POLYPHENOL": [
+      "an eco-friendly elicitor",
+      "antioxidant secondary metabolites",
+      "secondary metabolites"
+    ]
+  }
+}

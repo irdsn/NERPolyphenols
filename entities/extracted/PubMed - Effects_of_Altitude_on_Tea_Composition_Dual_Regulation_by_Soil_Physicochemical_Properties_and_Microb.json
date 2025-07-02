@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Effects of Altitude on Tea Composition: Dual Regulation by Soil Physicochemical Properties and Microbial Communities.",
+  "abstract": "Soil chemical properties and soil microbial communities are the key factors affecting the content of tea. The mechanism by which altitude changes soil's chemical properties and microbial community structure to affect tea content is unclear. This study was conducted on a typical tea plantation in the Fenghuang Mountains of Chaozhou, China. It systematically revealed the relationship between soil chemical properties and microbial communities with tea quality components between different altitudes (396 m/517 m/623 m). We discovered that soil pH and soil Catalase activity appeared to decrease and then increase with altitude, and soil SOM content and soil Acid Phosphatase activity were significantly higher at mid-altitude. Soil TP and TK content were lowest at high altitudes (0.20 mg/kg, 5.98 mg/kg). Non-significant differences were found in the spatial composition of microbial communities at different altitudes. The abundance of fungi (Sobol index) was significantly higher (p< 0.05) at low altitudes than in other altitude groups. Redundancy analysis indicated that soil pH and TP are drivers of changes in bacterial community structure. The abundance of Fibrobacteres, a key functional group of bacteria, showed a decreasing trend with increasing altitude, andStachybotrys(fungi) likewise had the lowest abundance at high altitude (p< 0.05). The catechin, theanine, and caffeine content of tea leaves accumulated the least at high altitude (12.91%, 0.39%, 2.88%). Fibrobacteres andStachybotrys, as well as soil TK and TP content, were strongly associated with the accumulation of major contents in tea leaves. Meanwhile, fungal abundance was significantly and positively correlated with theanine (p< 0.05). This study enhances our understanding of soil chemical property-soil microbial community-tea tree interactions. By exploring the differences in soil key nutrient content and the abundance of functional flora driving tea quality at different altitudes, it provides a basis for the precise microecological management of tea gardens.",
+  "publication_date": "2025-05-28",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14111642",
+  "entities": {
+    "POLYPHENOL": [
+      "a decreasing trend",
+      "the catechin",
+      "the mechanism",
+      "the precise microecological management"
+    ]
+  }
+}

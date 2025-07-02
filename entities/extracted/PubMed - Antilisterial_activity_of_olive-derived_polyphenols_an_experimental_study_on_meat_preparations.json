@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Antilisterial activity of olive-derived polyphenols: an experimental study on meat preparations.",
+  "abstract": "Pork meat and processed pork products have been linked to multiple listeriosis outbreaks worldwide during the past few years. Specifically, it has been highlighted that minced pork meat is easily perishable and may increase the growth ofListeria monocytogenes, which could be harmful to the general public's health. This study aimed to investigate the potential application of olive oil mill wastewater polyphenolic and red beet extracts as natural antimicrobial agents forL. monocytogenesgrowth control in burgers. The minced pork meat was mixed with the extracts and experimentally inoculated withL. monocytogenes, then molded into vacuum-packaged and cold-stored (4\u00b11\u00b0C) burgers kept under alternating exposure to fluorescent light. TheL. monocytogenesenumeration was performed on burgers at 0, 2, 5, and 10 days of shelf life. In uninoculated burgers, physicochemical (pH, water activity, color) and sensory determination (descriptive sensory analysis) were also conducted. At the end of storage, the samples treated with olive-derived extract showed the lowest value ofL. monocytogenes(approximately 1.3 Log CFU/g). The physicochemical and sensory traits of burgers have benefited from the addition of both olive-derived and red beet extracts. Results suggest that olive mill wastewater polyphenolic extracts could be added to minced pork meat products to act as a natural antimicrobial agent.",
+  "publication_date": "2024-05-20",
+  "journal": "Italian journal of food safety",
+  "doi": "10.4081/ijfs.2024.12447",
+  "entities": {
+    "POLYPHENOL": [
+      "olive mill wastewater polyphenolic extracts",
+      "olive oil mill wastewater polyphenolic and red beet extracts"
+    ],
+    "FOOD": [
+      "both olive-derived and red beet extracts"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Molecular Changes during Germination of Cocoa Beans, Part 2.",
+  "abstract": "A recently published untargeted metabolomics approach toward marker compounds of cocoa germination revealed and identified 12-hydroxyjasmonic acid sulfate, (+)-catechin, and (-)-epicatechin as the most downregulated compounds and two hydroxymethylglutaryl glucosides (HMG gluc) A and B, among others, as the decisive upregulated compounds in the germinated material. These findings were quantitatively evaluated using ultrahigh-performance liquid chromatography-tandem mass spectrometry not only in previously examined sample material but also in a vastly expanded array of cocoa samples of different provenience and process and in cocoa products such as cocoa liquor and chocolate. Hereby, yields of newly identified HMG gluc derivatives could be determined in raw, fermented, germinated, and alternatively processed cocoa, and isomers of HMG gluc A and B could be established as key process indicators. Based on unsupervised clustering and supervised classification, models could identify germinated samples in testing sets consisting of raw, fermented, and germinated samples.",
+  "publication_date": "2024-07-29",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c03524",
+  "entities": {
+    "POLYPHENOL": [
+      ")-catechin",
+      "a recently published untargeted metabolomics approach",
+      "the decisive upregulated compounds",
+      "ultrahigh-performance liquid chromatography-tandem mass spectrometry"
+    ],
+    "FOOD": [
+      "chocolate",
+      "cocoa",
+      "cocoa germination",
+      "cocoa liquor",
+      "cocoa products",
+      "cocoa samples"
+    ]
+  }
+}

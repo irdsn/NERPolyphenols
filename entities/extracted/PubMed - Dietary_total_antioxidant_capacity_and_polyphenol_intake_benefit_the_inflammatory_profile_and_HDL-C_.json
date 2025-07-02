@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Dietary total antioxidant capacity and polyphenol intake benefit the inflammatory profile and HDL-C concentrations in individuals with metabolic syndrome.",
+  "abstract": "The total dietary antioxidant capacity (DTAC) and dietary polyphenol intake (DPI) have been studied for their potential to improve metabolic profiles. However, their relationship with all the components of metabolic syndrome (MetS) and inflammatory parameters in individuals diagnosed with MetS remains underexplored, particularly in Brazil. We hypothesized that higher DTAC and DPI concentrations would be associated with better metabolic profiles in individuals with MetS. This study aimed to evaluate the simultaneous effects of DTAC and DPI on MetS components and high-sensitivity C-reactive protein (hs-CRP) concentrations. This cross-sectional study included 224 individuals with MetS recruited from an endocrinology outpatient clinic at a university hospital in Brazil. Sociodemographic and clinical data were collected along with two 24-hour dietary recalls. DTAC was estimated from food consumption data measured using the ferric-reducing antioxidant potential method. The DPI was obtained from the databases of Phenol Explorer and the United States Department of Agriculture. Binary logistic regression models were used to assess the association of DTAC and DPI with triglyceride, fasting glucose, HDL-C, waist circumference, blood pressure, and hs-CRP concentrations. The results indicated that higher intakes of DTAC, total polyphenols, and phenolic acids were associated with reduced hs-CRP concentrations, suggesting anti-inflammatory benefits in individuals with MetS. Furthermore, increased flavonoid intake was linked to higher HDL-C concentration, suggesting a favorable effect on lipid metabolism. In conclusion, these findings suggest the incorporation of antioxidant- and polyphenol-rich foods into dietary recommendations for managing inflammation and preventing dyslipidemia in individuals with MetS. These findings should be interpreted with caution because cross-sectional studies cannot determine causality.",
+  "publication_date": "2025-05-18",
+  "journal": "Nutrition research (New York, N.Y.)",
+  "doi": "10.1016/j.nutres.2025.05.002",
+  "entities": {
+    "POLYPHENOL": [
+      "a favorable effect",
+      "antioxidant- and polyphenol-rich foods",
+      "cross-sectional studies",
+      "dietary polyphenol intake",
+      "dietary recommendations",
+      "increased flavonoid intake",
+      "the simultaneous effects",
+      "this cross-sectional study",
+      "total polyphenols",
+      "two 24-hour dietary recalls"
+    ],
+    "SYMPTOM": [
+      "dyslipidemia",
+      "inflammation",
+      "metabolic syndrome"
+    ]
+  }
+}

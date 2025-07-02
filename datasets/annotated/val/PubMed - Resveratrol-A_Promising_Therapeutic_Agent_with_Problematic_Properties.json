@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Resveratrol-A Promising Therapeutic Agent with Problematic Properties.",
+  "abstract": "Resveratrol is a natural polyphenol (stilbenoid), which can be found in grape skin, red wine, blueberries, peanuts and others. The biological properties of resveratrol, in particular antioxidant, anti-inflammatory, anticancer, estrogenic, vasorelaxant and cardioprotective activity, are the main reason for its importance in medicine and pharmacy. Despite all of its advantages, however, there are many problems related to this polyphenolic substance, such as low stability, water insolubility, poor bioavailability and fast metabolism. For this reason, scientists are currently searching for different approaches to dealing with these problematic properties and improving the therapeutic usage of resveratrol. This review summarizes the mechanisms of the biological effects of resveratrol, determined in vitro and in vivo, and the main limitations of the drug. The article emphasizes new approaches for the improvement of resveratrol delivery, in particular nanoencapsulation, formation of nanocrystals, prodrugs and structure analogues.",
+  "publication_date": "2025-01-19",
+  "journal": "Pharmaceutics",
+  "doi": "10.3390/pharmaceutics17010134",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural polyphenol",
+      "anti-inflammatory, anticancer, estrogenic, vasorelaxant and cardioprotective activity",
+      "resveratrol",
+      "resveratrol delivery",
+      "the biological effects",
+      "the mechanisms",
+      "this polyphenolic substance"
+    ],
+    "FOOD": [
+      "blueberries",
+      "grape skin",
+      "peanuts",
+      "red wine",
+      "the therapeutic usage"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Impact of alkaline and deep eutectic solvent extraction on rapeseed protein isolates characteristics andin vitrodigestibility.",
+  "abstract": "This study examined the efficiency, purity, functional properties, and nutritional quality of rapeseed protein isolates extracted using alkaline extraction (ALK12) and two deep eutectic solvents (DES) systems - choline chloride:urea (DES1) and betaine:citric acid (DES2), chosen to cover distinct pH ranges. Alkaline extraction achieved the highest protein extraction efficiency (36.9\u00a0%), while DES1 achieved the highest protein purity (95.8\u00a0%). Alkaline extraction resulted in higher levels of polyphenols and tannins, while DES-based extraction led to higher phytic acid content. DES-based isolates exhibited a more balanced amino acid profile, particularly for sulphur-containing amino acids, making them more valuable protein sources compared to alkaline-extracted proteins. Techno-functional analysis favoured ALK12 for products requiring high water and oil absorption capacity, and foam stability, while DES1, despite lower absorption and foaming capacity, offered good solubility making it suitable for a wide range of applications. FT-IR spectroscopy revealed that both ALK12 and DES2 induced significant conformational changes in protein structure, likely due to extreme pH conditions. In contrast, DES1 exhibited a cleaner spectrum and more defined protein peaks, indicating high purity and stable structure. Lab-on-a-chip electrophoresis confirmed a more diverse protein profile for ALK12, while DES1 and DES2 exibited more consistent profiles, suggesting that these systems may preserve higher-order protein structures, such as cruciferin oligomers, and facilitate the extraction of structurally intact proteins.In vitrodigestibility results showed more efficient enzymatic breakdown for ALK12 and DES1. These findings suggest that the DES1 system could be a promising, sustainable, and efficient alternative to traditional extraction methods. However, future research should focus on optimisation strategies that consider various factors, refining the method for specific applications.",
+  "publication_date": "2025-05-13",
+  "journal": "Current research in food science",
+  "doi": "10.1016/j.crfs.2025.101075",
+  "entities": {
+    "POLYPHENOL": [
+      "a cleaner spectrum",
+      "ft-ir spectroscopy",
+      "polyphenols",
+      "specific applications",
+      "tannins",
+      "techno-functional analysis",
+      "two deep eutectic solvents"
+    ]
+  }
+}

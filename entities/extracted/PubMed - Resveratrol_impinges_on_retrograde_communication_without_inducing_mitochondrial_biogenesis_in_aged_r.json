@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Resveratrol impinges on retrograde communication without inducing mitochondrial biogenesis in aged rat soleus muscle.",
+  "abstract": "The natural polyphenol resveratrol (RSV) might counteract the skeletal muscle age-related loss of muscle mass and strength/function partly acting on mitochondria. This work analysed the effects of a six-week administration of RSV (50\u00a0mg/kg/day) in the oxidative Soleus (Sol) skeletal muscle of old rats (27\u00a0months old). RSV effects on key mitochondrial biogenesis proteins led to un unchanged amount of SIRT1 protein and a marked decrease (60\u00a0%) in PGC-1\u03b1 protein. In addition, Peroxyredoxin 3 (PRXIII) protein decreased by 50\u00a0%, which on overall suggested the absence of induction of mitochondrial biogenesis by RSV in old Sol. A novel direct correlation between PGC-1\u03b1 and PRXIII proteins was demonstrated by correlation analysis in RSV and ad-libitum (AL) rats, supporting the reciprocally coordinated expression of the proteins. RSV supplementation led to an unexpected 50\u00a0% increase in the frequency of the oxidized base OH8dG in mtDNA. Furthermore, RSV supplementation induced a 50\u00a0% increase in the DRP1 protein of mitochondrial dynamics. In both rat groups an inverse correlation between PGC-1\u03b1 and the frequency of OH8dG as well as an inverse correlation between PRXIII and the frequency of OH8dG were also found, suggestive of a relationship between oxidative damage to mtDNA and mitochondrial biogenesis activity. Such results may indicate that the antioxidant activity of RSV in aged Sol impinged on the oxidative fiber-specific, ROS-mediated, retrograde communication, thereby affecting the expression of SIRT1, PGC-1\u03b1 and PRXIII, reducing the compensatory responses to the age-related mitochondrial oxidative stress and decline.",
+  "publication_date": "2024-06-13",
+  "journal": "Experimental gerontology",
+  "doi": "10.1016/j.exger.2024.112485",
+  "entities": {
+    "POLYPHENOL": [
+      "a marked decrease",
+      "a novel direct correlation",
+      "an unexpected 50\u00a0% increase",
+      "decline",
+      "rsv effects",
+      "the effects",
+      "the natural polyphenol resveratrol",
+      "the oxidative fiber-specific, ros-mediated, retrograde communication",
+      "the reciprocally coordinated expression"
+    ],
+    "SYMPTOM": [
+      "oxidative damage",
+      "the age-related mitochondrial oxidative stress"
+    ]
+  }
+}

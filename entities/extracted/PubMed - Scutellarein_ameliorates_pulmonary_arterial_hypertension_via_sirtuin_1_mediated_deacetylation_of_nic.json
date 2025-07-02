@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Scutellarein ameliorates pulmonary arterial hypertension via sirtuin 1 mediated deacetylation of nicotinamide nucleotide transhydrogenase.",
+  "abstract": "Scutellarein (Sc), a natural flavonoid, holds potential for treating pulmonary arterial hypertension (PAH), yet its mechanisms remain unexplored. This study investigated Sc's therapeutic effects and underlying pathways in PAH. In vivo experiments demonstrated that Sc significantly attenuated right ventricular hypertension, pulmonary arterial remodeling, \u03b1SMA expression, and vascular inflammation in PAH models. In vitro, Sc suppressed hypoxia-induced proliferation, migration, inflammation, and pyroptosis in human pulmonary artery smooth muscle cells (HPASMCs). Mechanistically, Sc activated the SIRT1/NAD+axis to restore mitochondrial homeostasis: it upregulated SIRT1 expression and elevated NAD+levels by promoting SIRT1-mediated deacetylation of nicotinamide nucleotide transhydrogenase (NNT), thereby enhancing NNT activity. Elevated NAD+further activated SIRT1, forming a self-reinforcing SIRT1/NNT/NAD+feedback loop that mitigated hypoxia-induced mitochondrial dysfunction. This study identifies Sc as a novel regulator of the SIRT1-dependent NNT deacetylation pathway, which stabilizes NAD+homeostasis to counteract HPASMCs dysregulation in PAH. These findings highlight Sc's potential as a therapeutic candidate for PAH, offering insights into targeting mitochondrial-metabolic pathways for vascular remodeling diseases.",
+  "publication_date": "2025-04-04",
+  "journal": "Biochemical pharmacology",
+  "doi": "10.1016/j.bcp.2025.116932",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural flavonoid",
+      "its mechanisms",
+      "sc's therapeutic effects"
+    ],
+    "SYMPTOM": [
+      "hypoxia-induced mitochondrial dysfunction",
+      "inflammation",
+      "pulmonary arterial hypertension",
+      "right ventricular hypertension",
+      "vascular inflammation"
+    ]
+  }
+}

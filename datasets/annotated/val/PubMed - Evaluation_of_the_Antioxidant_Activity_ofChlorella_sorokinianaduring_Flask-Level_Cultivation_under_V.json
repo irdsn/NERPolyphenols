@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Evaluation of the Antioxidant Activity ofChlorella sorokinianaduring Flask-Level Cultivation under Varying Photoheterotrophic Growth Conditions.",
+  "abstract": "The increasing demand for natural antioxidants in the food industry, driven by their health benefits and effectiveness in extending shelf-life of food products, has highlighted potential of theChlorella sorokinianaas a sustainable source. This study evaluated the effects of environmental growth factors on antioxidant activity of the intracellular extracts ofC.\u00a0sorokiniana. Specifically, the lipid-soluble antioxidants were assessed via the 2,2-diphenyl-1-picrylhydrazyl (DPPH\u2022) assay, whereas water-soluble and lipid-soluble antioxidants were measured via the 2,2'-azino-bis[3-ethylbenzothiazoline-6-sulfonic acid] (ABTS\u2022+) assay. The results indicated that the elevated temperatures, low nitrate concentrations, and long photoperiods significantly increase production of antioxidants. For example, at 37\u00b0C under a 16\u00a0h light/8\u00a0h dark cycle and nitrate concentration of 2.524\u00a0g\u00a0L-1, the ABTS\u2022+assay showed antioxidant activity of up to 13.540\u00a0\u00b5mol Trolox equivalents mL-1, and the DPPH\u2022assay 2.533\u00a0\u00b5mol Trolox equivalents mL-1. In particular, reduction in the nitrogen concentration correlated with the increase in antioxidant synthesis, as it was statistically the factor with the greatest effect on antioxidant activity. These findings highlight importance of optimizing growth conditions not only to maximize biomass production but also to increase synthesis of both lipid-soluble and water-soluble antioxidants. These findings positionC.\u00a0sorokinianaas a promising candidate for biotechnological applications, particularly in the development of functional foods and natural preservatives for the food industry.",
+  "publication_date": "2025-06-01",
+  "journal": "Biochemistry. Biokhimiia",
+  "doi": "10.1134/S0006297925600504",
+  "entities": {
+    "POLYPHENOL": [
+      "biotechnological applications",
+      "effectiveness",
+      "the effects",
+      "the greatest effect",
+      "thechlorella"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

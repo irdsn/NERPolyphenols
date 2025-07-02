@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Gas-Phase Nitrate Radical Production Using Irradiated Ceric Ammonium Nitrate: Insights into Secondary Organic Aerosol Formation from Biogenic and Biomass Burning Precursors.",
+  "abstract": "The importance of nitrate radicalsNO3as a nighttime atmospheric oxidant is well-established. For decades, laboratory studies of multiphaseNO3chemistry have used the same methods - eitherNO2+O3reactions orN2O5thermal decomposition - to generateNO3as it occurs in the atmosphere. These methods, however, come with limitations, especially forN2O5, which must be produced and stored under cold and dry conditions until use. Recently, we developed a new photolytic source of gas-phaseNO3by irradiating aerated aqueous solutions of ceric ammonium nitrate and nitric acid. In this study, we adapted the method to maintain stableNO3concentrations for over 24 hr. We applied the method in laboratory oxidation flow reactor (OFR) experiments to measure the yield and chemical composition of oxygenated volatile organic compounds (OVOCs) and secondary organic aerosol (SOA) formed fromNO3oxidation of volatile organic compounds (VOCs) emitted by biogenic sources (isoprene,\u03b2-pinene, limonene and\u03b2-caryophyllene) and biomass burning sources (phenol, guaiacol and syringol). SOA yields and elemental ratios were typically within a factor of 2 and 10%, respectively, of those obtained in studies using conventionalNO3sources. Maximum SOA yields obtained in our studies ranged from 0.02 (isoprene/NO3) to 0.96 (\u03b2-caryophyllene/NO3). The highest SOA oxygen-to-carbon ratios (O/C) ranged from 0.48 (\u03b2-caryophyllene/NO3) to 1.61 (syringol/NO3). Additionally, we characterized novel condensed-phase oxidation products fromsyringol/NO3reactions. Overall, the use of irradiated aqueous cerium nitrate as a source of gas-phaseNO3may enable more widespread studies ofNO3-initiated oxidative aging, which has been less explored compared to hydroxyl radical chemistry.",
+  "publication_date": "",
+  "journal": "ACS earth & space chemistry",
+  "doi": "10.1021/acsearthspacechem.4c00293",
+  "entities": {
+    "POLYPHENOL": [
+      "decades",
+      "orn2o5thermal decomposition",
+      "secondary organic aerosol"
+    ],
+    "SYMPTOM": [
+      "ofno3-initiated oxidative aging"
+    ]
+  }
+}

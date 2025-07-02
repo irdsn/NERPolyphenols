@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Curcumin modulates the PTEN/PI3K/AKT pathway to alleviate inflammation and oxidative stress in PM2.5-Induced chronic obstructive pulmonary disease.",
+  "abstract": "Ambient fine particulate matter (PM2.5) contributes to the onset and escalation of chronic obstructive pulmonary disease (COPD) through the induction of inflammatory reactions and oxidative stress. Curcumin is a natural polyphenolic compound renowned for the potent antioxidant and anti-inflammatory properties. This research utilized a PM2.5-induced COPD mouse model and BEAS-2B cell line to explore the protective mechanisms of curcumin. The results showed that PM2.5 impaired pulmonary function, exacerbated airway inflammation, and caused structural damage to lung tissue. Elevated levels of inflammatory cytokines such as IL-6, IL-1\u03b2, and TNF-\u03b1, increased malondialdehyde, and reduced activities of antioxidant enzymes catalase and superoxide dismutase were observed in both mice and BEAS-2B cell line. PM2.5 exposure also suppressed PTEN expression and activated PI3K/AKT signal, and the downstream molecule NF-\u03baB was activated and FoxO1 activity was inhibited. PTEN overexpression partially reversed PM2.5-induced inflammation and oxidative stress in vitro. Curcumin enhanced PTEN expression, inhibited PI3K/AKT and NF-\u03baB activation, and restored FoxO1 activity, alleviating airway inflammation and oxidative stress, while PTEN inhibition attenuated the ameliorating effects of curcumin in vitro and in vivo. In summary, PM2.5 exposure induces COPD inflammation and oxidative stress by disrupting PTEN/PI3K/AKT signaling and curcumin significantly alleviates these effects partially through PTEN/PI3K/AKT signal.",
+  "publication_date": "2025-04-15",
+  "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+  "doi": "10.1016/j.fct.2025.115460",
+  "entities": {
+    "SYMPTOM": [
+      "airway inflammation",
+      "copd inflammation",
+      "oxidative stress",
+      "pm2.5-induced inflammation"
+    ],
+    "POLYPHENOL": [
+      "a natural polyphenolic compound",
+      "curcumin",
+      "the ameliorating effects",
+      "the downstream molecule",
+      "the protective mechanisms",
+      "these effects"
+    ]
+  }
+}

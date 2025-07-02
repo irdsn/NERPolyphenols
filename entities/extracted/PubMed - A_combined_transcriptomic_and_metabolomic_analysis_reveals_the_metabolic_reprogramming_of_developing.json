@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "A combined transcriptomic and metabolomic analysis reveals the metabolic reprogramming of developing thermogenic tissues in Nelumbo nucifera.",
+  "abstract": "Thermogenic plants exhibit high biosynthetic and energetic demands in their thermogenic organs at specific developmental stages. The receptacle of Nelumbo nucifera undergoes metabolic shifts alongside enhanced energy metabolism. Using infrared thermal imaging, we identified the greatest temperature difference between the receptacle and outer petals at the onset (S1) and peak (S2) thermogenic stages. Transcriptomic analysis revealed that alternative oxidase (AOX) and uncoupling protein (UCP) were highly expressed at both S1 and S2, while the expression level of cytochrome c oxidase (COX) at S2 was even lower than that at the pre-thermogenic stage (S0), indicating a possible respiratory flux shift favoring AOX respiration at S2. Additionally, the upregulation of UCP at the thermogenic stages raises the possibility of UCP-fueled thermogenesis. Metabolomic profiling revealed dynamic changes in both primary and secondary metabolites. At S0, amino acids and nucleotides accumulated significantly, while fatty acyl metabolites were prominently enriched at S2. At S2, volatile organic compounds (VOCs) were upregulated compared with S0, aligning with their potential roles in pollinator attraction, whereas phenolics, flavonoids, and condensed tannins declined compared with S1. The thermogenic decline stage (S3) and post-thermogenic stage (S4) were characterized by the reaccumulation of these non-volatile secondary metabolites, along with increased lignin biosynthesis. This study provides new insights into the metabolic adaptations of N. nucifera in plant-environment interactions and highlights the synergistic interplay between thermogenesis and secondary metabolism in promoting reproductive success.",
+  "publication_date": "2025-05-01",
+  "journal": "The Plant journal : for cell and molecular biology",
+  "doi": "10.1111/tpj.70193",
+  "entities": {
+    "POLYPHENOL": [
+      "both primary and secondary metabolites",
+      "condensed tannins",
+      "flavonoids",
+      "secondary metabolism",
+      "specific developmental stages",
+      "the receptacle",
+      "the thermogenic decline stage",
+      "these non-volatile secondary metabolites"
+    ],
+    "SYMPTOM": [
+      "infrared thermal imaging"
+    ]
+  }
+}

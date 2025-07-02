@@ -1,0 +1,37 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "(-)-Epicatechin acts as a potent agonist of the membrane androgen receptor, ZIP9 (SLC39A9), to promote apoptosis of breast and prostate cancer cells.",
+  "abstract": "(-)-Epicatechin, a flavonoid present in high concentrations in foods such as green tea and cocoa, exerts beneficial and protective effects in numerous disease models, including anti-tumorigenesis and apoptosis in human breast and prostate cancer cells. Potential interactions of (-)-epicatechin and (+)-catechin with the membrane androgen receptor, ZIP9 (SLC39A9), which mediates androgen induction of apoptosis in these cancer cells, were investigated. Both (-)-epicatechin and (+)-catechin were effective competitors of [3H]-testosterone binding to PC-3 prostate cancer cells (nuclear androgen receptor-negative, nAR-null) overexpressing ZIP9 (PC3-ZIP9), with relative binding affinities of 75 % and 28 % that of testosterone, respectively. (-)-Epicatechin (200 nM) mimicked the effects of 100 nM testosterone in inducing apoptosis of PC3-ZIP9 cells, whereas (+)-catechin (concentration range 200 nM-1000 nM) did not significantly increase apoptosis and instead blocked the apoptotic response to testosterone. (-)-Epicatechin also activated androgen-dependent ZIP9 signaling pathways, inducing decreases in cAMP production and elevating intracellular free zinc levels, while (+)-catechin typically lacked these actions. Both (-)-epicatechin and (+)-catechin also bound to cell membranes of MDA-MB-468 breast cancer cells (nAR-null, high ZIP9 expression). MDA-MB-468 cells showed similar apoptotic, cAMP, and free zinc signaling responses to (-)-epicatechin to those observed in PC3-ZIP9 cells, as well as antagonism by (+)-catechin of testosterone-induced apoptosis and modulation of cAMP and caspase-3 levels. Moreover, knockdown of ZIP9 expression in MDA-MB-468 cells with siRNA decreased specific [3H]-testosterone binding of both catechins and blocked the apoptotic and free zinc responses to testosterone and (-)-epicatechin. The results indicate (-)-epicatechin is a potent ZIP9 agonist in breast and prostate cancer cells.",
+  "publication_date": "2021-05-11",
+  "journal": "The Journal of steroid biochemistry and molecular biology",
+  "doi": "10.1016/j.jsbmb.2021.105906",
+  "entities": {
+    "POLYPHENOL": [
+      "(+)-catechin",
+      ")-catechin",
+      "-)-epicatechin",
+      "a flavonoid present",
+      "beneficial and protective effects",
+      "both (-)-epicatechin and (+)-catechin",
+      "both catechins",
+      "decreases",
+      "effective competitors",
+      "the effects",
+      "the membrane androgen receptor"
+    ],
+    "FOOD": [
+      "cocoa",
+      "green tea"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "breast and prostate cancer cells",
+      "cancer cells",
+      "mda-mb-468 breast cancer cells",
+      "prostate cancer cells",
+      "testosterone-induced apoptosis",
+      "these cancer cells"
+    ]
+  }
+}

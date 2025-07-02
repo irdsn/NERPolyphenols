@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Carrier Free 1,2,3,4,6-O-Pentagalloylglucose Nanoparticles for Treatment of Acute Lung Injury.",
+  "abstract": "Acute lung injury (ALI) is a severe lung disease with a high mortality rate, and novel therapeutic strategies must be developed crucially. The amelioration of inflammation and oxidative stress is a promising strategy for alleviating ALI. 1,2,3,4,6-O-pentagalloylglucose (PGG) has a pronounced therapeutic effect on ALI, with excellent anti-inflammatory and antioxidant effects. However, poor solubility and low bioavailability have affected its clinical application. In this study, carrier-free PGG nanoparticles (PGG NPs) were prepared by antisolvent precipitation method. PGG NPs have been engineered to improve solubility, sustained release behavior, and higher bioavailability than free PGG. Moreover, the pharmacodynamic results showed that the remarkable protective effect of PGG NPs on ALI in rats is better than that of free PGG, which is related to the activation of Nrf2/Keap1/HO-1/NLRP3 pathway. Overall, this study not only demonstrates the efficacy and safety of PGG against ALI, but also holds promise as a carrier-free nanodrug system.",
+  "publication_date": "2025-05-08",
+  "journal": "Bioconjugate chemistry",
+  "doi": "10.1021/acs.bioconjchem.5c00197",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "1,2,3,4,6-o-pentagalloylglucose",
+      "a pronounced therapeutic effect",
+      "antisolvent precipitation method",
+      "excellent anti-inflammatory and antioxidant effects",
+      "the remarkable protective effect"
+    ]
+  }
+}

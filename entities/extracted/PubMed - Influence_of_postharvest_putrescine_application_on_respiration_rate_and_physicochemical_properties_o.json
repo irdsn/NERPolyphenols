@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Influence of postharvest putrescine application on respiration rate and physicochemical properties of tomato.",
+  "abstract": "Tomato (Solanum lycopersicum L.) is a species of vegetable that is widely consumed worldwide and has high nutritional value. However, during storage, quality losses occur, especially water loss, decay, acidity loss and vitamin reduction. In this study, the effect of putrescine applications was investigated in order to reduce quality loss in tomatoes during storage. Putrescine is a compound belonging to the polyamine class and provides potential benefits such as delaying fruit ripening, reducing respiration rate and preserving quality. Putrescine solutions were prepared at concentrations of 0.5 mM, 1 mM and 1.5 mM, and sprayed homogeneously onto the surface of tomato fruit for 15-20\u00a0s, kept at room temperature and then placed in storage conditions.",
+  "publication_date": "2025-04-29",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-025-06613-8",
+  "entities": {
+    "FOOD": [
+      "tomato",
+      "tomato fruit",
+      "tomatoes"
+    ],
+    "POLYPHENOL": [
+      "a species",
+      "the effect"
+    ]
+  }
+}

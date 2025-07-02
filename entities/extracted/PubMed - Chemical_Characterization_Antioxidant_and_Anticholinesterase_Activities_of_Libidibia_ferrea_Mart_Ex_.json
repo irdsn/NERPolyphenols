@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Chemical Characterization, Antioxidant, and Anticholinesterase Activities of Libidibia ferrea (Mart. Ex Tul.) L.P.Queiroz and In Silico Studies with the Acetylcholinesterase Enzyme.",
+  "abstract": "Libidibia ferrea is used in many parts of Brazil for a variety of conditions, such as inflammation, respiratory disorders, muscle pain, and gastrointestinal problems. This study evaluated the chemistry and antioxidant and acetylcholinesterase (AChE) inhibitory activities of L. ferrea extracts. Hydroethanolic extracts of leaves (ELLF) and bark (EBLF) were obtained by maceration, while a methanolic fraction of seeds (MFLF) was prepared by Soxhlet extraction and essential oil of flowers (EOLF) extracted by hydrodistillation. Antioxidant activity was evaluated by scavenging 2,2-diphenyl-1-picrylhydrazyl and 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) radicals, and AChE inhibition using the Ellman method. The ELLF, EBLF, and MFLF were characterized by high-performance liquid chromatography showing the presence of gallic acid, chlorogenic acid, catechin, caffeic acid, rutin, and ellagic acid. EOLF and MFLF showed high tannin content and exhibited antioxidant and AChE inhibitory effects similar to standards. Molecular docking revealed that (Z)-9-tetradecenyl acetate, the major compound of EOLF identified by gas chromatography/mass spectrometry, interacts with AChE at the same site as galantamine. These findings suggest that L. ferrea has promising therapeutic potential for treating acetylcholine-related diseases such as Alzheimer's.",
+  "publication_date": "2025-05-22",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202500550",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "muscle pain"
+    ],
+    "POLYPHENOL": [
+      "(z)-9-tetradecenyl acetate",
+      "antioxidant and ache inhibitory effects",
+      "caffeic acid",
+      "catechin",
+      "chlorogenic acid",
+      "ellagic acid",
+      "gallic acid",
+      "gas chromatography/mass spectrometry",
+      "high tannin content",
+      "molecular docking",
+      "rutin"
+    ]
+  }
+}

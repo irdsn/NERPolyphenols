@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Isolation and Identification ofBurkholderia stagnalisYJ-2 from the Rhizosphere Soil ofWoodsia ilvensisto Explore Its Potential as a Biocontrol Agent Against Plant Fungal Diseases.",
+  "abstract": "Plant fungal diseases remain a major threat to global agricultural production, necessitating eco-friendly and sustainable strategies. Conventional chemical fungicides often lead to the development of resistant pathogen strains and cause environmental contamination. Therefore, the development of biocontrol agents is particularly important. In this study, we identifiedBurkholderia stagnalisYJ-2 from the rhizosphere soil ofWoodsia ilvensisas a promising biocontrol strain using 16S rRNA and whole-genome sequencing. This strain demonstrated broad-spectrum antifungal activity against plant fungal pathogens, with its bioactive extracts maintaining high stability across a temperature range of 25-100 \u00b0C and pH range of 2-12. We used in vitro assays to further show that the metabolites ofB. stagnalisYJ-2 disrupted the hyphal morphology ofValsa mali, resulting in swelling, reduced branching, and increased pigmentation. Fluorescence labeling confirmed thatB. stagnalisYJ-2 stably colonized the roots and stems of tomato and wheat plants. Furthermore, various formulations of microbial agents based onB. stagnalisYJ-2 were evaluated for their efficacy against plant pathogens. The seed-coating formulation notably protected tomato seedlings fromAlternaria solaniinfection without affecting germination (p> 0.1), while the wettable powder exhibited significant control effects on early blight in tomatoes, with the preventive treatment showing better efficacy than the therapeutic treatment. Additionally, theB. stagnalisYJ-2 bone glue agent showed a substantial inhibitory effect on apple tree canker. Whole-genome analysis ofB. stagnalisYJ-2 revealed a 7,705,355 bp genome (67.68% GC content) with 6858 coding genes and 20 secondary metabolite clusters, including three clusters (YJ-2_GM002015-YJ-2_GM002048, YJ-2_GM0020090-YJ-2_GM002133, and YJ-2_GM06534-YJ-2_GM006569) that are related to the antifungal activity of YJ-2 and are homologous to the biosynthetic gene clusters of known secondary metabolites, such as icosalide, ornibactin, and sinapigladioside. We further knocked out core biosynthetic genes of two secondary metabolic gene clusters and found that only the YJ-2_GM006534-YJ-2_GM006569 gene cluster had a corresponding function in two potential antifungal gene clusters. In contrast to the wild-type strain YJ-2, only deletion of the YJ-2_GM006563 gene reduced the antifungal activity ofB. stagnalisYJ-2 by 8.79%. These findings highlight the biocontrol potential ofB. stagnalisYJ-2, supporting a theoretical foundation for its development as a biocontrol agent against plant fungal diseases and thereby promoting sustainable agricultural disease management.",
+  "publication_date": "2025-05-31",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13061289",
+  "entities": {
+    "POLYPHENOL": [
+      "20 secondary metabolite clusters",
+      "a substantial inhibitory effect",
+      "broad-spectrum antifungal activity",
+      "eco",
+      "known secondary metabolites",
+      "significant control effects",
+      "tomato seedlings fromalternaria solaniinfection",
+      "two secondary metabolic gene clusters"
+    ],
+    "FOOD": [
+      "apple tree canker",
+      "tomato",
+      "tomatoes",
+      "wheat plants"
+    ]
+  }
+}

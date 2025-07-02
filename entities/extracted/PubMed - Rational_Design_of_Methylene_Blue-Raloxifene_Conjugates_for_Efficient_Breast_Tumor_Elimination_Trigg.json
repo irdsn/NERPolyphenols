@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Rational Design of Methylene Blue-Raloxifene Conjugates for Efficient Breast Tumor Elimination Triggered by ER\u03b1 Degradation.",
+  "abstract": "Small molecules capable of degrading estrogen receptor \u03b1 (ER\u03b1) are of significant interest in breast cancer treatment. Herein, we rationally designed a series of ER\u03b1 degraders (MR1-MR3) by conjugating methylene blue, a bifunctional photosensitizer, with the raloxifene pharmacophore. The lead compoundMR3exhibited high affinity to ER\u03b1, and it can induce a complete depletion of ER\u03b1 in MCF7 breast cancer cells after 660 nm irradiation (0.4 W/cm2) for 1 min. Owing to the ER\u03b1 degradation merit,MR3displayed a 45-fold boosted anticancer activity (IC50= 0.55 \u03bcM) after irradiation. In the breast cancer xenograft mouse model,MR3induced an obvious tumor regression (tumor growth inhibition = 118%), which was superior to that of the FDA-approved ER\u03b1 degraderFaslodex. These important features makeMR3extremely intriguing for breast cancer treatment.",
+  "publication_date": "2025-04-11",
+  "journal": "Journal of medicinal chemistry",
+  "doi": "10.1021/acs.jmedchem.5c00490",
+  "entities": {
+    "POLYPHENOL": [
+      "degrading estrogen receptor",
+      "small molecules"
+    ],
+    "SYMPTOM": [
+      "a 45-fold boosted anticancer activity",
+      "breast cancer treatment",
+      "mcf7 breast cancer cells",
+      "the breast cancer xenograft mouse model",
+      "tumor growth inhibition"
+    ]
+  }
+}

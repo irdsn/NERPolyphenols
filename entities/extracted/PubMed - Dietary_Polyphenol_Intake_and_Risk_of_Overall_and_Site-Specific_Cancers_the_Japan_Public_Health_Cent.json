@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Dietary Polyphenol Intake and Risk of Overall and Site-Specific Cancers: the Japan Public Health Center-based Prospective Study.",
+  "abstract": "Polyphenols may play a protective role in carcinogenesis through a wide range of properties, including antioxidant and anti-inflammatory. However, evidence for the association between total dietary polyphenol intake and cancer risk in Asian populations is limited.",
+  "publication_date": "2025-05-03",
+  "journal": "The Journal of nutrition",
+  "doi": "10.1016/j.tjnut.2025.04.028",
+  "entities": {
+    "POLYPHENOL": [
+      "a protective role",
+      "polyphenols",
+      "total dietary polyphenol intake and cancer risk"
+    ],
+    "SYMPTOM": [
+      "carcinogenesis"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Quercetin, as a Nutritional Supplement, Protects against Iron Overload-Induced Testicular Dysfunction via Inhibiting Ferroptosis.",
+  "abstract": "Iron overload is closely associated with testicular dysfunction and ferroptosis, but the mechanism is elusive. Quercetin (Q) is a natural flavonoid with significant pharmacological effects such as antioxidant, anti-inflammatory, and antiaging. Purified quercetin can be used as a dietary supplement. However, the cellular autonomous mechanisms responsible for regulating ferroptosis in the testicular reproductive system and the molecular mechanisms of Q in treating testicular injury remain to be elucidated. In the study, based on RNA-seq results, we found that iron overload causes ferroptosis in testicular cells through the SLC39A14 and HO1 pathways, thereby promoting testicular dysfunction, including hormone secretion disorders and blood-testis barrier (BTB) dysfunction. Interestingly, using RNA-seq, we found that ferroptosis and NRF2 signaling pathways may be involved in the treatment of testicular dysfunction caused by iron overload with Q. Collectively, this study demonstrates for the first time that Q can impede the progression of ferroptosis by targeting the activation of NRF2 in the testes, which may provide a new therapeutic approach to alleviate iron overload-induced testicular injury.",
+  "publication_date": "2025-06-10",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c12006"
+}

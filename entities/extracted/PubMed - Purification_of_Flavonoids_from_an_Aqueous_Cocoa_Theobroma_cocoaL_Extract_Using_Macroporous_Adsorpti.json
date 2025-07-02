@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Purification of Flavonoids from an Aqueous Cocoa (Theobroma cocoaL.) Extract Using Macroporous Adsorption Resins.",
+  "abstract": "Cocoa is a rich source of health-promoting polyphenols such as flavanols. These compounds can be separated from other matrix constituents using various adsorbents or resins. Seven different macroporous resins (Amberlite\u00aeXAD-2, XAD-4, XAD-7, XAD-7HP, XAD-16, SepabeadsTMSP207, and Diaion\u00aeHP2-MG) were evaluated for their adsorption and desorption properties for the enrichment of flavonoids from an aqueous cocoa (Theobroma cacaoL.) extract. The influence of adsorption and desorption temperatures and the concentration of the desorption solvent (a hydroalcoholic solution) were investigated by static adsorption and desorption methods. The results of the resin comparison showed that the adsorbent XAD-7HP had the best adsorption characteristics, with an adsorption capacity of 39.8 mg ECE/g. XAD-7HP was found to be the most suitable adsorbent, and 70% ethanol was the best desorbing solvent, based on static experiments. In addition, the optimal conditions for the adsorption of flavonoids were obtained at a temperature of 30 \u00b0C, where equilibrium was reached after 80 min. The static adsorption process was well-described by a pseudo-second-order kinetics model, while the adsorption isotherm data were fitted well by the Freundlich isotherm model. Further dynamic adsorption and desorption characteristics were evaluated on a packed glass column, and it was shown that XAD-7HP could enrich the flavanol content by 5.03-fold, with a dry matter content of 456.05 mg/mL (as estimated by the degree of DP1-DP7 procyanidin polymers using ultra-pressure liquid chromatography).",
+  "publication_date": "2025-05-27",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112336",
+  "entities": {
+    "FOOD": [
+      "an aqueous cocoa (theobroma cacaol.) extract",
+      "cocoa"
+    ],
+    "POLYPHENOL": [
+      "39.8 mg ece/g. xad-7hp",
+      "a pseudo-second-order kinetics model",
+      "dp1-dp7 procyanidin polymers",
+      "flavonoids",
+      "health-promoting polyphenols"
+    ]
+  }
+}

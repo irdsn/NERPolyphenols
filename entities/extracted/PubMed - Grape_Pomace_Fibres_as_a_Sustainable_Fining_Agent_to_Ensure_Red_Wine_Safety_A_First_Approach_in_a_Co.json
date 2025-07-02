@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Grape Pomace Fibres as a Sustainable Fining Agent to Ensure Red Wine Safety: A First Approach in a Continuous System.",
+  "abstract": "Grape pomace is the largest by-product in the oenological industry, and in recent years, there have been multiple attempts to turn it into a high-value product, such as a fining agent. However, most of these attempts have usually been conducted with low volumes of wine, and/or in static conditions, using a long contact time between the fibre and wine. To speed up the fining process, this study evaluated the effectiveness of three pomace fibres and a commercial fibre in improving the safety of a young red wine, previously contaminated with ochratoxin A, histamine, and various pesticides, using a continuous filtration system. All the pomace fibres were capable of reducing the OTA concentration by around 50%, and one of the tested fibres exhibited a strong ability to decrease most of the pesticides present in the wine, with the results being even better than when this fibre was used in static conditions. All the tested fibres similarly reduced the tannin concentration of the wines, without having a major impact in the colour index. These results prove that pomace grape fibres are an effective fining agent suitable for use in a continuous filtration system, allowing for a reduction in the fining time from days to hours.",
+  "publication_date": "2025-04-29",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14091565",
+  "entities": {
+    "FOOD": [
+      "a young red wine",
+      "grape pomace",
+      "pomace grape fibres",
+      "the wine",
+      "the wines",
+      "wine"
+    ],
+    "POLYPHENOL": [
+      "an effective fining agent",
+      "recent years",
+      "the effectiveness",
+      "the tannin concentration"
+    ]
+  }
+}

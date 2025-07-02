@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Photophysics of resveratrol derivatives for singlet oxygen formation.",
+  "abstract": "trans-Resveratrol, a naturally occurring antioxidant, undergoes significant photochemical transformations upon UV irradiation, producing photoisomers and derivatives such ascis-resveratrol, 2,4,6-trihydroxy-phenanthrene (THP), and resveratrone. Using quantum chemical methods, we investigated the photophysical properties of these species, including their absorption spectra, fluorescence, internal conversion (IC), and intersystem crossing (ISC) rates, to assess their potential for singlet oxygen generation. Our results indicate that whiletrans- andcis-resveratrol exhibit limited ISC, resveratrone and THP exhibit competitive ISC and fluorescence rates, making them suitable photosensitizers for singlet oxygen production at the same excitation energy astrans-resveratrol. However, THP is experimentally more abundant than resveratrone upontrans-resveratrol excitation and also demonstrates favorable ISC properties, suggesting that it plays a predominant role in singlet oxygen generation. These findings highlight the potential of resveratrone and THP in photodynamic applications, expanding the functional versatility of resveratrol-derived compounds.",
+  "publication_date": "2025-06-11",
+  "journal": "Physical chemistry chemical physics : PCCP",
+  "doi": "10.1039/d5cp00840a",
+  "entities": {
+    "POLYPHENOL": [
+      "resveratrol",
+      "resveratrol-derived compounds",
+      "resveratrone upontrans-resveratrol excitation",
+      "such ascis-resveratrol",
+      "that whiletrans- andcis-resveratrol exhibit limited isc",
+      "their absorption spectra",
+      "these species"
+    ]
+  }
+}

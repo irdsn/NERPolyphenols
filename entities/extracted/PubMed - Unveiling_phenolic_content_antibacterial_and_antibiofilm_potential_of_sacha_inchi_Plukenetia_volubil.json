@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Unveiling phenolic content, antibacterial, and antibiofilm potential of sacha inchi (Plukenetia volubilisL.) seed shell extracts againstStaphylococcus aureus.",
+  "abstract": "Sacha inchi (SI) seeds are renowned for their high oil content, with omega-3 and omega-6 polyunsaturated fatty acids accounting for approximately 85% of the total fatty acids. However, the use of seed by-products has not received much attention in research. The objective of the current study was to assess the antioxidant and antibacterial properties of aqueous and ethanolic extracts of SI seed shells. The antioxidant potential, along with the total phenolic, flavonoid, and procyanidin content of the aqueous and ethanolic extracts was assessed using the 2,2-diphenyl-1-picrylhydrazyl (DPPH). The ethanolic SI seed shell extract exerted the strongest antioxidant potential, likely due to its higher phenolic and procyanidin content. The antibacterial potency evaluation of extracts towardsS. aureus(ATCC29213),S.\u00a0aureus(clinical) isolate and methicillin-resistantS. aureus(MRSA) demonstrated that the ethanolic extract of SI seed shell possessed significant efficacy. The mean growth inhibition zones of ethanolic extract against tested bacterial strains ofS. aureuswere \u2265 17.23\u00a0\u00b1\u00a00.42 with minimum inhibitory concentration (MIC) values of 250 \u00b5g/mL. The time-kill showed the bactericidal effect of ethanolic extract on Gram-positive bacteria, which was demonstrated by the time-kill assay. After \u2264 8 hrs post-inoculation, the mean log reductions in viable bacterial cell counts ranged from 9.37 Log10 to 4.37 log10 CFU/mL forS. aureus(ATCC29213), 9.146 Log10 to 4.124 Log10 CFU/mL forS. aureus(clinical) and 9.367 Log10 to 4.221 Log10 CFU/mL. Also, the ethanol extract exhibited notable potential in reducing biofilm formation and membrane-disruptive properties. Thus, it appears that ethanolic extract of SI seed shells can be potentially used as an excellent source of antioxidants and has antibacterial qualities against certain harmful bacteria that cause infection in the upper respiratory tract and skin.",
+  "publication_date": "2025-06-04",
+  "journal": "PeerJ",
+  "doi": "10.7717/peerj.19524",
+  "entities": {
+    "FOOD": [
+      "omega-3 and omega-6 polyunsaturated fatty acids"
+    ],
+    "POLYPHENOL": [
+      "flavonoid",
+      "infection",
+      "procyanidin content",
+      "the bactericidal effect",
+      "the objective"
+    ]
+  }
+}

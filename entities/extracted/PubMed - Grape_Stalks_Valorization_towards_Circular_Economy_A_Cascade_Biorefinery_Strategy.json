@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Grape Stalks Valorization towards Circular Economy: A Cascade Biorefinery Strategy.",
+  "abstract": "Lignocellulosic biomasses have the potential to generate by-products with biological activity (i.\u2009e., polyphenols) as well as biopolymers (i.\u2009e., cellulose, hemicellulose, pectins, lignin). The wine industry is one of the pillars of Italian agri-food sector. Nevertheless, large quantities of by-products such as grape stems are produced, which are usually disposed of at a cost, and therefore represent an attractive negative-cost feedstock for biorefinery. In this work, a sequential protocol for biomass valorization is proposed, characterized by a multidisciplinary strategy using enabling technologies and subcritical water as a green solvent, where physical/chemical treatments synergistically interact with biological treatments. The first phase involved the sequential fractionation of grape stalks, obtaining several product streams rich in polyphenols, hemicellulose, pectin (13.15\u2009% of cumulative yield on biomass), lignin and cellulose. A membrane treatment was employed to recycle materials within the process. Finally, the cellulose-rich residue was exploited as a fermentation substrate for the last step, producing up to 5.8\u2005g/L of lactic acid by harnessing suitably engineered Clostridium thermocellum strains. The polyphenolic fraction successfully inhibited the growth of Brettanomyces bruxellensis and Acetobacter pasteurianus, microorganisms responsible for major wine off-flavors. Globally, this study represents a proof-of-concept of a second-generation biorefining process based on locally available waste biomass.",
+  "publication_date": "2025-02-14",
+  "journal": "ChemSusChem",
+  "doi": "10.1002/cssc.202402536",
+  "entities": {
+    "POLYPHENOL": [
+      "a second-generation biorefining process",
+      "enabling technologies",
+      "i.\u2009e., polyphenols",
+      "italian agri-food sector",
+      "pectin",
+      "pectins",
+      "polyphenols",
+      "recycle materials",
+      "the polyphenolic fraction"
+    ],
+    "FOOD": [
+      "grape stalks",
+      "grape stems",
+      "major wine off-flavors",
+      "the wine industry"
+    ]
+  }
+}

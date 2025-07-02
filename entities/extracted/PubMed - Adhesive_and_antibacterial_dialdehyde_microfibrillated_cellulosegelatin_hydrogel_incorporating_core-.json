@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Adhesive and antibacterial dialdehyde microfibrillated cellulose/gelatin hydrogel incorporating core-shell structured AgNPs@PA for wound management.",
+  "abstract": "Antibacterial hydrogels have garnered significant attention in wound healing research, yet the development of multifunctional wound dressings remains a challenge. In this work, we designed a gelatin-based composite hydrogel with exceptional antibacterial efficacy, robust anti-oxidant capacity, and strong adhesive properties, tailored for advanced wound management. The hydrogel incorporates dialdehyde microfibrillated cellulose (DAMFC) to enhance its mechanical strength through fibril reinforcement and Schiff-base reactions between DAMFC's aldehyde groups and gelatin's amide chains. Additionally, proanthocyanidin (PA) was employed as both a reducing agent and a capping layer for the green synthesis of nanosilver particles (AgNPs@PA). The resulting AgNPs@PA/DAMFC/gelatin composite hydrogel exhibited outstanding mechanical properties, including a tensile strength of 300\u00a0kPa and an elongation at break of 250\u00a0%, alongside excellent adhesion (18\u00a0kPa) and self-healing capability (70\u00a0%), ensuring durable wound protection. Remarkably, AgNPs@PA possess excellent antioxidant capacity (effective DPPH and ABTS radical scavenging) and antibacterial properties (antibacterial rate\u00a0>\u00a099\u00a0%). This feature effectively mitigates wound inflammation and accelerates the healing process (by day 12, wound closure was 92\u00a0%). Collectively, the AgNPs@PA/DAMFC/gelatin hydrogel demonstrates immense potential as a multifunctional wound dressing, offering a promising solution for advanced wound care applications.",
+  "publication_date": "2025-06-24",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145505",
+  "entities": {
+    "POLYPHENOL": [
+      "durable wound protection",
+      "effective dpph",
+      "its mechanical strength",
+      "outstanding mechanical properties"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

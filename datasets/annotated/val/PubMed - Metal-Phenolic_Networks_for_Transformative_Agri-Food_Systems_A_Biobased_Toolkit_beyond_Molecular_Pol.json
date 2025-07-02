@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Metal-Phenolic Networks for Transformative Agri-Food Systems: A Biobased Toolkit beyond Molecular Polyphenols.",
+  "abstract": "Metal-phenolic networks (MPNs), built upon the synergy of metal-phenolic chemistry and nanoscale engineering, represent a frontier advancement in expanding the functional scope of polyphenols within agri-food systems. This review examines the multifaceted potential of green MPN materials, particularly their design flexibility, adaptive properties, and environmental resilience, which highly support the development of sustainable agri-food technologies. This review begins with a brief overview of the synthesis and characterization of MPNs, shedding light on the coordination-driven assembly patterns that define their unique structure-property relationships and attributes. It then critically assesses emerging applications, spanning intelligent food systems (processing, preservation, detection, precision nutrition, and fortification) to next-generation smart agrochemical nanoformulations designed for climate adaptability and resource efficiency. Finally, the review concludes by addressing key challenges, including biosafety evaluation, functional scalability, and technical sustainability, while proposing design principles to guide the future development of MPN-based technologies. This comprehensive analysis aims to advance the role of MPNs in building resilient, innovative, and sustainable agri-food systems.",
+  "publication_date": "2025-06-18",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c03121",
+  "entities": {
+    "POLYPHENOL": [
+      "detection",
+      "mpn-based technologies",
+      "polyphenols",
+      "precision nutrition",
+      "sustainable agri-food technologies",
+      "technical sustainability"
+    ]
+  }
+}

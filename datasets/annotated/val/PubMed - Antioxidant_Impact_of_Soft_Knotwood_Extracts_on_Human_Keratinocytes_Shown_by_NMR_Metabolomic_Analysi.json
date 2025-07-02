@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Antioxidant Impact of Soft Knotwood Extracts on Human Keratinocytes Shown by NMR Metabolomic Analysis.",
+  "abstract": "ThePinophytafamily has long been used to protect the skin from oxidation, thanks to the action of molecules such as stilbenes, flavonoids, and lignans, which are particularly concentrated in knotwood. These molecules are of interest from a cosmetic perspective. The present study focuses on four species from larch (Larix deciduaMill.), silver fir (Abies albaMill.), Norway spruce (Picea abies(L.) H.Karst), and Douglas fir (Pseudotsuga menziesii(Mirb.) Franco) knotwood, recovered from byproducts of the wood industry. The molecules are extracted from knotwood and usedin vitroon human keratinocytes (HaCaT). Studies quantifying reactive oxygen species (ROS) have demonstrated its ability to eliminate hydroxyl radicals and superoxides. Metabolomic analyses using proton nuclear magnetic resonance (1H NMR) and multivariate statistics (PLS-DA) demonstrated that keratinocytes modulate metabolite expression after treatment with knot extracts. Indeed, our findings indicate an increase in metabolites such as glutathione, glycine, glutamate, sarcosine, taurine, and proline, which are known to reduce intracellular oxidative stress and validate the effect on ROS levels. They also indicate that knotwood extracts may affect membrane balance, collagen formation, and oxidative stress levels. This study highlights the value of metabolomic analysis in the cosmetic industry for a detailed understanding of the mechanisms implemented in a whole cell.",
+  "publication_date": "2025-03-26",
+  "journal": "Journal of proteome research",
+  "doi": "10.1021/acs.jproteome.4c00836",
+  "entities": {
+    "POLYPHENOL": [
+      "a cosmetic perspective",
+      "flavonoids",
+      "four species",
+      "larix deciduamill",
+      "molecules",
+      "reactive oxygen species",
+      "the effect",
+      "the mechanisms",
+      "the molecules",
+      "these molecules"
+    ],
+    "SYMPTOM": [
+      "intracellular oxidative stress",
+      "oxidative stress levels"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Amino Acid Betaxanthins: Absorption, Fluorescence, And Stability.",
+  "abstract": "Betaxanthins are natural pigments responsible for the vivid yellow coloration and intrinsic fluorescence of flowering succulent plants within the orderCaryophyllales. Though less extensively studied than other plant pigments classes, betaxanthins hold potential for application as safe food dyes, solar cell absorbers, antioxidants, and genetically encodable fluorophores. Herein, we report the absorption spectra, fluorescence properties, and hydrolysis rate constants of 24 distinct betaxanthins obtained by semisynthesis from betalamic acid and a variety of amino acids. The molecular library includes all known derivatives from amino acids present in plants and fungi, as well as cysteine-betaxanthin (which remains undetected in nature) and a selection of model non-natural analogues. Structure-property relationships were examined to contextualize the spectroscopic data. Medium effects on the spectral properties of both betaxanthins and their biosynthetic precursor, betalamic acid, are discussed in terms of light energy dissipation, supporting a proposed photoprotective role for these secondary metabolitesin vivo. All spectral data have been made accessible in a PhotochemCAD absorption/fluorescence spectral database, enabling streamlined analysis and quantification.",
+  "publication_date": "2025-06-20",
+  "journal": "Journal of natural products",
+  "doi": "10.1021/acs.jnatprod.5c00419",
+  "entities": {
+    "POLYPHENOL": [
+      "a photochemcad absorption/fluorescence spectral database",
+      "a proposed photoprotective role",
+      "a selection",
+      "all spectral data",
+      "medium effects",
+      "the absorption spectra",
+      "the molecular library",
+      "the spectral properties",
+      "the spectroscopic data",
+      "their biosynthetic precursor",
+      "these secondary metabolitesin vivo"
+    ]
+  }
+}

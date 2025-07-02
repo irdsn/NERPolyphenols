@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Integration of LC-HRMS and1H NMR metabolomics data fusion approaches for classification of Amarone wine based on withering time and yeast strain.",
+  "abstract": "Two untargeted metabolomics approaches (LC-HRMS and1H NMR) were combined to classify Amarone wines based on grape withering time and yeast strain. The study employed a multi-omics data integration approach, combining unsupervised data exploration (MCIA) and supervised statistical analysis (sPLS-DA). The results revealed that the multi-omics pseudo-eigenvalue space highlighted a limited correlation between the datasets (RV-score\u00a0=\u00a016.4%), suggesting the complementarity of the assays. Furthermore, the sPLS-DA models correctly classified wine samples according to both withering time and yeast strains, providing a much broader characterization of wine metabolome with respect to what was obtained from the individual techniques. Significant variations were notably observed in the accumulation of amino acids, monosaccharides, and polyphenolic compounds throughout the withering process, with a lower error rate in sample classification (7.52%). In conclusion, this strategy demonstrated a high capability to integrate large omics datasets and identify key metabolites able to discriminate wine samples based on their characteristics.",
+  "publication_date": "2024-07-02",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2024.101607",
+  "entities": {
+    "FOOD": [
+      "amarone wines",
+      "grape withering time",
+      "wine",
+      "wine samples"
+    ],
+    "POLYPHENOL": [
+      "respect",
+      "the individual techniques"
+    ]
+  }
+}

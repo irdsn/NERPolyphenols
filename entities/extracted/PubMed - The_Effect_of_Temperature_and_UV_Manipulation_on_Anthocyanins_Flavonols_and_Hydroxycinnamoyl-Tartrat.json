@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "The Effect of Temperature and UV Manipulation on Anthocyanins, Flavonols, and Hydroxycinnamoyl-Tartrates in cv Nebbiolo Grapes (Vitis viniferaL.).",
+  "abstract": "This research aimed to identify the effects of increased temperature and decreased ultraviolet (UV) exposure on berry characteristics and quality parameters of cv Nebbiolo, identifying the potential risks associated with climate change for the quality of grapes and the identity of Barolo wine. This two-year research (2022 and 2023) was performed in three vineyards, located at different elevations in La Morra (Piedmont, northwestern Italy), monitored from the beginning of veraison to harvest. A split-plot design was set up, applying a passive greenhouse amplifying temperature in the bunch zone ('T' = increased temperature; 'C' = control temperature) and UV-blocking plastics over individual bunches ('1' = full UV exposure; '0' = UV-blocked). Berry weight, skin weight, and juice total soluble solids were measured. Grape skin anthocyanins, flavonols, and hydroxycinnamic acid tartaric esters were analyzed by HPLC-DAD. Both treatments negatively influenced the berry weight but not the skin weight; the increased T had a negative impact on the sugar per berry content. Limited UV and increased temperature negatively impacted total anthocyanins at harvest and on di-hydroxylated anthocyanins. Limited UV-depressed flavonol concentration and high temperature decreased their synthesis. Increased UV promotedcis-p-coumaroyl tartaric acid and decreasedtrans-p-coumaroyl tartaric acid. The results of this research are valuable for improving the quality production of Nebbiolo through understanding the impacts of increased temperature and alterations to UV exposure expected by climate change.",
+  "publication_date": "2024-11-10",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants13223158",
+  "entities": {
+    "POLYPHENOL": [
+      "hydroxycinnamic acid tartaric esters",
+      "increased uv promotedcis-p-coumaroyl tartaric acid and decreasedtrans-p-coumaroyl tartaric acid",
+      "the effects"
+    ],
+    "FOOD": [
+      "barolo wine",
+      "grape skin anthocyanins",
+      "grapes",
+      "juice total soluble solids"
+    ]
+  }
+}

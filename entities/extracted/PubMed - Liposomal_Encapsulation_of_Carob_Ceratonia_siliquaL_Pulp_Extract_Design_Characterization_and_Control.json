@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Liposomal Encapsulation of Carob (Ceratonia siliquaL.) Pulp Extract: Design, Characterization, and Controlled Release Assessment.",
+  "abstract": "Background:Carob (Ceratonia siliquaL.) pulp flour is primarily used in the food industry. As a rich source of bioactive compounds, particularly polyphenols, it holds promise for pharmaceutical formulation research and development.Objectives:This study focused on developing liposomal particles loaded with carob pulp extract using the proliposome method, followed by modifications through UV irradiation and sonication.Methods:The resulting liposomes were analyzed for encapsulation efficiency, vesicle size, polydispersity index (PDI), mobility, zeta potential, viscosity, surface tension, density, antioxidant activity, FT-IR spectra, and release kinetics under simulated gastrointestinal conditions. In addition, nanoparticle tracking analysis and transmission electron microscopy (TEM) were used for liposomal characterization.Results:The findings revealed a high encapsulation efficiency across all samples (>70%). The particle size and PDI measurements confirmed the presence of a multilamellar and uniform liposomal system before post-processing modifications. The medium value of zeta potential suggested a moderately electrostatically stabilized liposomal suspension. The sonicated liposomes demonstrated a higher concentration of vesicles in comparison to non-treated and UV-irradiated samples. TEM analysis revealed purified liposomal vesicles with preserved structural integrity. Encapsulation, as well as UV irradiation and sonication of liposomes, did not diminish the extract's anti-DPPH activity. However, the ABTS radical scavenging potential of the pure extract was significantly lower compared to its encapsulated counterparts. UV irradiation and sonication notably reduced the anti-ABTS capacity of the extract-liposome system. Monitoring the release of bioactive compounds demonstrated controlled delivery from liposomal particles under simulated gastrointestinal conditions.Conclusions:Overall, liposomal formulations of carob pulp extract exhibit significant potential for further development as a functional food ingredient or for use in the prevention and treatment of various diseases.",
+  "publication_date": "2025-06-13",
+  "journal": "Pharmaceutics",
+  "doi": "10.3390/pharmaceutics17060776",
+  "entities": {
+    "POLYPHENOL": [
+      "a moderately electrostatically stabilized liposomal suspension",
+      "analysis and transmission electron microscopy",
+      "ft-ir spectra",
+      "objectives",
+      "particularly polyphenols"
+    ],
+    "FOOD": [
+      "a functional food ingredient"
+    ]
+  }
+}

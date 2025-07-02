@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Synthesis and Assessment of Novel Sustainable Antioxidants with Different Polymer Systems.",
+  "abstract": "Antioxidants are essential to the polymer industry. The addition of antioxidants delays oxidation and material degradation during their processing and usage. Sustainable phenolic acids such as 4-hydroxybenzoic acid or 3,4-dihydroxybenzoic acid were selected. They were chemically modified by esterification to obtain various durable molecules, which were tested and then compared to resveratrol, a biobased antioxidant, and Irganox 1076, a well-known and very efficient fossil-based antioxidant. Different sensitive matrices were used, such as a thermoplastic polyolefin (a blend of PP and PE) and a purposely synthesized thermoplastic polyurethane. Several formulations were then produced, with the different antioxidants in varying amounts. The potential of these different systems was analyzed using various techniques and processes. In addition to antioxidant efficiency, other parameters were also evaluated, such as the evolution of the sample color. Finally, an accelerated aging protocol was set up to evaluate variations in polymer properties and estimate the evolution of the potential of different antioxidants tested over time and with aging. In conclusion, these environmentally friendly antioxidants make it possible to obtain high-performance materials with an efficiency comparable to that of the conventional ones, with variations according to the type of matrix considered.",
+  "publication_date": "2024-02-01",
+  "journal": "Polymers",
+  "doi": "10.3390/polym16030413",
+  "entities": {
+    "FOOD": [
+      "usage"
+    ],
+    "POLYPHENOL": [
+      "3,4-dihydroxybenzoic acid",
+      "various durable molecules",
+      "various techniques"
+    ],
+    "SYMPTOM": [
+      "aging",
+      "an accelerated aging protocol"
+    ]
+  }
+}

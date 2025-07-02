@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Phytochemical studies of Veitchia arecina Becc. leaves with evaluation of in-vitro, in-vivo anti-inflammatory, and wound healing properties in rats.",
+  "abstract": "Veitchia arecina Becc. (Arecaceae family), a palm species known for its antioxidant and anti-inflammatory properties, attributed to bioactive constituents that may facilitate wound healing and enhance dermatological health. However, the wound-healing efficacy of Veitchia arecina remains uninvestigated. This study is the first to evaluate the chemical composition, antioxidant and anti-inflammatory activities, dermal safety, and wound-healing potential of Veitchia arecina leaf fractions in a rat model. The study aimed to elucidate their mechanism of action in tissue regeneration. The chemical composition of light petroleum ether and n-butanol soluble fractions of Veitchia arecina was analyzed via gas-liquid chromatography-mass spectrometry (GLC-MS) and liquid chromatography-electrospray ionization tandem mass spectrometry (LC-ESI-MS/MS), respectively. In-vitro antioxidant (DPPH), anti-inflammatory (COX-1), and MTT assays were performed utilizing a 5% gel formulation, with povidone-iodine serving as the standard. The phytochemical analysis of the tested fractions using GLC-MS and LC-ESI-MS/MS revealed the presence of sterols, terpenes, vitamin E isomers, and fatty acids in light petroleum ether soluble fraction as well as flavonoid glycosides and phenolics in n-butanol soluble fraction. Both fractions showed significant antioxidant and COX-1 inhibitory activities comparable to Trolox and ibuprofen. The topical gel formulations exhibited no dermal toxicity while improving healing by attenuating inflammation and oxidative stress, enhancing blood vessel formation, re-epithelization, formation of collagen, and restoring skin architecture. Notably, the n-butanol fraction demonstrated superior efficacy in facilitating granulation tissue maturation. This study demonstrates the dermal safety, antioxidant, anti-inflammatory, and wound-healing properties of Veitchia arecina leaf fractions, particularly flavonoid-rich variants, suggesting their potential therapeutic applications in dermatological conditions.",
+  "publication_date": "2025-06-09",
+  "journal": "Inflammopharmacology",
+  "doi": "10.1007/s10787-025-01802-1",
+  "entities": {
+    "POLYPHENOL": [
+      "(arecaceae family",
+      "a palm species",
+      "flavonoid glycosides",
+      "gas-liquid chromatography-mass spectrometry",
+      "liquid chromatography-electrospray ionization tandem mass spectrometry",
+      "particularly flavonoid-rich variants",
+      "skin architecture",
+      "their mechanism",
+      "veitchia arecina",
+      "veitchia arecina becc",
+      "veitchia arecina leaf fractions"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Radioprotective and radiosensitizing properties of silymarin/silibinin in response to ionizing radiation.",
+  "abstract": "Cancer is a health and treatment challenge that the world is facing, and many efforts are being made to develop treatment solutions for all forms of cancer. Radiotherapy (RT), one of the cancer treatment methods, can cause toxicity in healthy cells, even though it has positive effects on killing cancer cells. It is possible for cancer cells to develop resistance to radiotherapy. To address these issues, it can be beneficial to combine treatments. Combining plants with conventional cancer treatment is a viable option, and their potential can be utilized in this area. The therapeutic properties of silymarin and its active ingredient silibinin have been used in traditional medicine for a long time. The purpose of this review is to investigate the radioprotective and radio-sensitizing properties of silymarin/silibinin in cancer treatment.",
+  "publication_date": "2025-05-07",
+  "journal": "Pathology, research and practice",
+  "doi": "10.1016/j.prp.2025.156002",
+  "entities": {
+    "SYMPTOM": [
+      "cancer",
+      "cancer cells",
+      "cancer treatment",
+      "conventional cancer treatment",
+      "the cancer treatment methods"
+    ],
+    "POLYPHENOL": [
+      "positive effects",
+      "silymarin",
+      "silymarin/silibinin",
+      "the radioprotective and radio-sensitizing properties"
+    ]
+  }
+}

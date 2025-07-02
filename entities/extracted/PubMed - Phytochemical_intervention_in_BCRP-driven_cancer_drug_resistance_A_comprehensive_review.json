@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Phytochemical intervention in BCRP-driven cancer drug resistance: A comprehensive review.",
+  "abstract": "Drug resistance (DR) remains a significant challenge in cancer treatment, accounting for over 90\u00a0% of cancer-related deaths. Multidrug resistance (MDR) complicates chemotherapy by enabling cancer cells to evade therapeutic agents. This review focuses on the role of ATP-binding cassette (ABC) transporters, particularly the breast cancer resistance protein (BCRP), in mediating drug resistance. BCRP functions as a drug efflux pump, actively transporting chemotherapeutic agents out of cancer cells, thereby reducing their efficacy. The regulation of BCRP is influenced by various signaling pathways, including PI3K/AKT, MAPK/ERK, NF-\u03baB, and Wnt/\u03b2-catenin, all of which collectively enhance its expression and contribute to the MDR phenotype. Recent studies have highlighted the potential of phytochemical-based strategies to reverse drug resistance by inhibiting these transporters. Compounds such as tetrandrine and resveratrol have shown promise in sensitizing drug-resistant cancer cells. Understanding the complex interplay between BCRP regulation and these signaling pathways is essential for the development of effective therapeutic strategies to counteract cancer. Targeting multiple pathways or employing combination therapies may offer new avenues to overcome MDR and improve treatment outcomes for cancer patients.",
+  "publication_date": "2025-05-06",
+  "journal": "Biochimica et biophysica acta. Reviews on cancer",
+  "doi": "10.1016/j.bbcan.2025.189349",
+  "entities": {
+    "SYMPTOM": [
+      "cancer",
+      "cancer cells",
+      "cancer patients",
+      "cancer treatment",
+      "cancer-related deaths",
+      "drug-resistant cancer cells",
+      "particularly the breast cancer resistance protein"
+    ],
+    "POLYPHENOL": [
+      "effective therapeutic strategies",
+      "recent studies",
+      "resveratrol"
+    ]
+  }
+}

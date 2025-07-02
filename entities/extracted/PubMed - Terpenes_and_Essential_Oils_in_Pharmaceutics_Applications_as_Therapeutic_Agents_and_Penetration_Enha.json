@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Terpenes and Essential Oils in Pharmaceutics: Applications as Therapeutic Agents and Penetration Enhancers with Advanced Delivery Systems for Improved Stability and Bioavailability.",
+  "abstract": "This review examines the pharmaceutical applications of essential oils (EOs) and terpenes, highlighting their dual role as therapeutic agents and natural penetration enhancers. These volatile, hydrophobic compounds have well-documented antimicrobial, antioxidant, and anti-inflammatory properties. However, their clinical potential is limited by poor water solubility, high volatility, and sensitivity to environmental factors, including light, heat, and oxygen. To address these challenges, various advanced delivery systems have been developed to enhance stability, bioavailability, and controlled release. These systems not only protect chemical integrity but also exploit these compounds' abilities to interact with lipid membranes, facilitating the transport of active compounds across biological barriers. Additionally, their inherent antimicrobial properties can contribute to the overall stability of formulations. The review critically examines the incorporation of terpenes and major essential oil (EO) components, such as limonene, linalool, eugenol, \u03b1-pinene, and menthol, into delivery systems, assessing their performance in enhancing drug permeability and targeting specific tissues. Current challenges and future directions in terpenes and EO-based delivery strategies are discussed, highlighting their promising role in developing multifunctional and efficient pharmaceutical formulations.",
+  "publication_date": "2025-06-18",
+  "journal": "Pharmaceutics",
+  "doi": "10.3390/pharmaceutics17060793",
+  "entities": {
+    "POLYPHENOL": [
+      "future directions",
+      "specific tissues"
+    ]
+  }
+}

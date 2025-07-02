@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Key developments and hotspots in programmed cell death in liver cancer pain: a bibliometric study.",
+  "abstract": "This bibliometric study aimed to elucidate key developments, influential publications, and emerging research hotspots on programmed cell death (PCD) in liver cancer-associated pain, thereby providing guidance for future mechanism-based, patient-centered therapies.",
+  "publication_date": "2025-06-01",
+  "journal": "Discover oncology",
+  "doi": "10.1007/s12672-025-02759-x",
+  "entities": {
+    "SYMPTOM": [
+      "liver cancer-associated pain",
+      "programmed cell death"
+    ],
+    "POLYPHENOL": [
+      "future mechanism-based, patient-centered therapies"
+    ]
+  }
+}

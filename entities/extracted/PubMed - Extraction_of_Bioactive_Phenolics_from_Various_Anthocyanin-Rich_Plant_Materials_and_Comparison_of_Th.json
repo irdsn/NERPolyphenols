@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Extraction of Bioactive Phenolics from Various Anthocyanin-Rich Plant Materials and Comparison of Their Heat Stability.",
+  "abstract": "Butterfly pea flower (BPF), roselle calyx (RC), and grape skin (GS) are rich in bioactive phenolics with health benefits. Due to its simplicity, safety, and environmental friendliness, this study used water as a solvent to explore different extraction conditions in these plant materials and compared the heat stability of anthocyanins in the aqueous extracts. To maximize the total anthocyanins and polyphenols in the aqueous extracts, the powders of BPF, GS, and RC should be extracted for 30 min at 90 \u00b0C; 30 min and 120 min at 90 \u00b0C; and 30 min and 60 min at 60 \u00b0C, respectively. Among the tested plant materials, the content of total anthocyanins was RC > GS > BPF, while the total phenolic content was GS > BPF > RC. Anthocyanins of the aqueous extracts underwent rapid thermal degradation at high temperatures and high pH values. The thermal stability of anthocyanins in the materials was in the order: BPF > GS > RC. This is likely related to the types and structures of the anthocyanins such as the degree of acylation and glycosylation. The study demonstrates that hot water extraction is efficient and practical for these materials, yielding extracts suitable for food and nutraceutical applications.",
+  "publication_date": "2024-11-06",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29225256",
+  "entities": {
+    "FOOD": [
+      "grape skin"
+    ],
+    "POLYPHENOL": [
+      "polyphenols"
+    ]
+  }
+}

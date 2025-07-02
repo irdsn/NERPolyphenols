@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Myricetin Restricts the Syncytial Development Triggered by Nipah Virus Envelope Glycoproteins In Vitro.",
+  "abstract": "Background and Objectives:Myricetin, a flavonoid compound, was demonstrated to effectively arrest the cell-to-cell fusion and syncytial development triggered by Nipah virus (NiV) fusion (F) and attachment (G) envelope glycoproteins in vitro involving two permissive mammalian cell lines.Methods:Time-of-addition assays were carried out using codon-optimized NiV wild type (WT) F and G plasmids followed by a challenge with the addition of myricetin 1 h and 6 h post-transfection in HEK 293T and Vero cells.Results:Upon evaluating different myricetin concentrations, it was determined that a 100 \u03bcM concentration of myricetin effectively inhibited 64-80% of syncytia in HEK and Vero cells.Interpretation & Conclusions:In this study, we concluded that myricetin mitigated the syncytial development in HEK and Vero cell lines. Given the flavonoid attributes of myricetin which is widely present in fruits, vegetables, tea, and wine, it may be regarded as a phytonutrient and a safer antiviral alternative against Nipah virus infections. Due to the BSL-4 nature of the virus, further research involving live virus culture is necessary to confirm myricetin as a potential antiviral compound for the mitigation of pathological effects of NiV infections.",
+  "publication_date": "2025-06-07",
+  "journal": "Viruses",
+  "doi": "10.3390/v17060827",
+  "entities": {
+    "POLYPHENOL": [
+      "a flavonoid compound",
+      "different myricetin concentrations",
+      "myricetin",
+      "myricetin 1 h",
+      "nipah virus infections",
+      "niv infections",
+      "objectives",
+      "pathological effects",
+      "the flavonoid attributes",
+      "transfection"
+    ],
+    "FOOD": [
+      "wine"
+    ]
+  }
+}

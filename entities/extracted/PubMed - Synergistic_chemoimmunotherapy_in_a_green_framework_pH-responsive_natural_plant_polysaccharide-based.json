@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Synergistic chemoimmunotherapy in a green framework: pH-responsive natural plant polysaccharide-based nanoparticles.",
+  "abstract": "Traditional therapies are inadequate in addressing the escalating threat of cancer, highlighting the urgent need for more effective treatment modalities. Natural products play a crucial role in the development of novel anticancer pharmaceuticals and safe anti-tumor nanomedicines. Honokiol (HK), a naturally occurring compound, has been shown to induce apoptosis in cancer cells and inhibit tumor proliferation, positioning it as a promising candidate for chemotherapeutic applications. While, plant-derived polysaccharides are known to activate anti-tumor immune responses and exhibit favorable properties such as biocompatibility, safety, and modifiability, making them suitable carriers for drug delivery. In this study, golden berries (the fruits of Physalis peruviana) polysaccharides (PPP), which exhibit immune-stimulating properties, were integrated with the crosslinking agent benzene-1,4-diboronic acid (BDBA) to develop pH-responsive nanoparticles (HK@PPP-BDBA) for synergistic chemo-immunotherapy. We conducted a comprehensive chemical characterization of the nanoparticles and investigated the molecular mechanisms underlying the assembly of HK and polysaccharides through computational simulations. The HK@PPP-BDBA demonstrated significant inhibitory effects on the proliferation of MCF-7 and HeLa cells, reduced tumor growth, and impeded cancer cell migration in vivo. HK promoted the production of reactive oxygen species (ROS) and apoptosis in tumor cells, while PPP facilitated the maturation of dendritic cells, enhanced the expression of costimulatory molecules and histocompatibility complex, and initiated anti-tumor immunity. The advancement of HK@PPP-BDBA expands the potential applications of natural polysaccharides and nanoparticles in cancer treatment, offering a promising platform for the integration of chemotherapy and immunotherapy.",
+  "publication_date": "2025-03-25",
+  "journal": "Biomaterials advances",
+  "doi": "10.1016/j.bioadv.2025.214294",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer",
+      "cancer cell migration",
+      "cancer cells",
+      "cancer treatment",
+      "novel anticancer pharmaceuticals",
+      "reduced tumor growth"
+    ],
+    "POLYPHENOL": [
+      "costimulatory molecules",
+      "more effective treatment modalities",
+      "reactive oxygen species",
+      "significant inhibitory effects",
+      "the molecular mechanisms"
+    ]
+  }
+}

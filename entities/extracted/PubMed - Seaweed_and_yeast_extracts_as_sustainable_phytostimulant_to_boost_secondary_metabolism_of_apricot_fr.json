@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Seaweed and yeast extracts as sustainable phytostimulant to boost secondary metabolism of apricot fruits.",
+  "abstract": "In our study, we investigated the effects of Expando, a commercial biostimulant derived from seaweed and yeast extracts, on the secondary metabolism of Lady cot and Orange prima apricot cultivars. Notably, treatments with or 5.0 L/ha of Expando improved fruit uniformity and harvests synchronization, providing agronomic benefits. Expando positively influenced the biosynthesis of essential bioactive compounds such as polyphenols, flavonoids, proanthocyanidins, and anthocyanins in both apricot pulp and peel, as validated by HPLC-ESI-MS/MS analysis. These metabolic enhancements translated into significantly increased total antioxidant activity, particularly evident in the peel samples. Principal Component Analysis (PCA) revealed distinct effects of the 5.0 and 4.0 L/ha treatments, distinguishing them from lower doses and the control group. Our findings emphasize the potential of Expando to enhance the phytochemical profile of apricot fruits, positioning biostimulants as pivotal tools for improving fruit quality and sustainability in agriculture. Expando offers a sustainable and eco-friendly approach to enhancing crop yield and nutritional value, representing a significant step towards more resilient and environmentally conscious farming practices. Further research is needed to explore its broader implications and optimize application strategies for commercial orchards.",
+  "publication_date": "2025-01-24",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2024.1455156",
+  "entities": {
+    "POLYPHENOL": [
+      "a sustainable and eco-friendly approach",
+      "distinct effects",
+      "flavonoids",
+      "polyphenols",
+      "proanthocyanidins",
+      "the effects",
+      "the secondary metabolism"
+    ],
+    "FOOD": [
+      "apricot fruits",
+      "both apricot pulp",
+      "orange prima apricot cultivars"
+    ]
+  }
+}

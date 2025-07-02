@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Astringency and its sub-qualities: a review of astringency mechanisms and methods for measuring saliva lubrication.",
+  "abstract": "Astringency is an important mouthfeel attribute that influences the sensory experiences of many food and beverage products. While salivary lubricity loss and increased oral friction were previously believed to be the only astringency mechanisms, recent research has demonstrated that nontactile oral receptors can trigger astringency by responding to astringents without mechanical stimulation. Various human factors have also been identified that affect individual responses to astringents. This article presents a critical review of the key research milestones contributing to the current understanding of astringency mechanisms and the instrumental approaches used to quantify perceived astringency intensity. Although various chemical assays or physical measures mimic in-mouth processes involved in astringent mouthfeel, this review highlights how one chemical or physical approach can only provide a single measure of astringency determined by a specific mechanism. Subsequently, using a single measurement to predict astringency perception is overly idealistic. Astringency has not been quantified beyond the loss of saliva lubrication; therefore, nontactile receptor-based responses must also be explored. An important question remains about whether astringency is a single perception or involves distinct sub-qualities such as pucker, drying, and roughness. Although these sub-quality lexicons have been frequently cited, most studies currently view astringency as a single perception rather than dividing it into sub-qualities and investigating the potentially independent mechanisms of each. Addressing these knowledge gaps should be an important priority for future research.",
+  "publication_date": "2024-05-01",
+  "journal": "Chemical senses",
+  "doi": "10.1093/chemse/bjae016",
+  "entities": {
+    "POLYPHENOL": [
+      "a specific mechanism",
+      "astringency mechanisms",
+      "mechanical stimulation",
+      "nontactile oral receptors",
+      "nontactile receptor-based responses",
+      "recent research",
+      "the only astringency mechanisms",
+      "the potentially independent mechanisms"
+    ]
+  }
+}

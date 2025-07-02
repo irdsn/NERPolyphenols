@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Double-furylogous Methylene Activation for the Production of Biobased Dyes.",
+  "abstract": "Furylogous active methylene compounds retain the ability to undergo Knoevenagel condensations with aromatic aldehydes, leading to highly conjugated molecules with strong chromophores. In this work, a doubly furylogous malonate diester derived from the renewable platform molecule 5-(chloromethyl) furfural was prepared and evaluated for carbon acidity by H-D exchange and computational modeling. Its Knoevenagel adducts with biomass-derived carbonyl compounds (furfurals, phenolic aldehydes) are delocalized, push-pull systems of 3-5 rings that have intense, bright colors from the yellow to red region of the spectrum. The dyeing performance and wash fastness of these novel biobased colorants was found to be excellent.",
+  "publication_date": "2025-06-23",
+  "journal": "ChemSusChem",
+  "doi": "10.1002/cssc.202500907",
+  "entities": {
+    "POLYPHENOL": [
+      "highly conjugated molecules",
+      "the renewable platform molecule",
+      "the spectrum"
+    ]
+  }
+}

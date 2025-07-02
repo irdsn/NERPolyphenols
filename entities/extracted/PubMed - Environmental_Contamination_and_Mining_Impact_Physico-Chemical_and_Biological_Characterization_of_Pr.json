@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Environmental Contamination and Mining Impact: Physico-Chemical and Biological Characterization of Propolis as an Indicator of Pollution in the Ro\u0219ia Montan\u0103 Area, Romania.",
+  "abstract": "Contamination with heavy metal ions from mining activities presents a major environmental issue. This study investigates pollution caused by heavy metals from mining, with a particular emphasis on toxic ions and essential ions for living organisms. It starts by analyzing the sources of pollution and its effects on soil, vegetation, water, and wildlife (propolis produced by honey bees living in natural environments). Propolis is an indicator of environmental contamination by metals, a natural and valuable product of natural ecosystems. As part of the investigation, the contamination with metal cations (Pb2+, Cu2+, Cd2+, Zn2+, As3+, Fe2+, and Sr2+) of the soil, cultivated vegetables (carrot, turnip, onion, potato) was monitored in 9 points in the Ro\u0219ia Montan\u0103 area, Romania, as well as the river that runs through the area. The maximum values of the parameters investigated were recorded in soil (108.32 mg/kg Pb2+, 23.06 mg/kg Cd2+, 102.17 mg/kg As3+), river water (11.00 \u00b5g/L Pb2+, 903.47 \u00b5g/L Cu2+, 60.13 \u00b5g/L Cd2+, 1903.08 \u00b5g/L Zn2+, 148.07 \u00b5g/L As3+, 44,024.08 \u00b5g/L Fe2+), vegetables (0.72 mg/kg Pb2+, 0.17 mg/kg Cd2+) and it was followed whether the same heavy metals are found in propolis (maximum values 10.14 mg/kg Pb2+, 6.32 mg/kg Cu2+, 0.158 mg/kg Cd2+, 6.0 Zn2+, 1.04 mg/kg As3+, 12.06 mg/kg Sr2+). The parameters analyzed for the river waters were pH, sulfates, the oxygen and nutrient regime, and microbial load. Additional investigations were carried out into the quality of these propolis samples: water activity, moisture, hygroscopicity, water solubility, volatile oils, oxidation index, measuring point, density, dry matter, material insoluble in ethanol, extractable with ethanol, ash, and wax. The highest values were 189.4 mg GAE/g for phenols, 84.31 mg QE/g for flavonoids, and 0.086 \u00b5g/mL for IC50antioxidant activity. This study indicates that bee products, such as propolis, can be an indicator of pollution in mining areas.",
+  "publication_date": "2025-03-10",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14060866",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "its effects",
+      "natural ecosystems"
+    ],
+    "FOOD": [
+      "carrot",
+      "onion",
+      "turnip"
+    ]
+  }
+}

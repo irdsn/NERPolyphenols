@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Alteration of m6A Methylation in Breast Cancer Cells byKalanchoe pinnataAqueous Extract.",
+  "abstract": "Kalanchoe pinnatais used in traditional medicine to treat cancer, as it contains flavonoids and phenols known to regulate key cellular processes associated with cancer. Breast cancer, the most common cancer among women globally, presents ongoing challenges in treatment. The discovery of m6A methylation and its regulation by methylosome proteins offers novel therapeutic avenues for cancer management. This study aimed to investigate the cytotoxic and epitranscriptomic effects of an aqueous extract fromK. pinnataon MCF-7 (luminal A) and HCC1937 (triple-negative) breast cancer cells. Cell lines were treated with the aqueousK. pinnataextract, characterized by HPLC, for 72 h, followed by an assessment of cytotoxicity and migration. The expression of methylosome components METTL3 and FTO was measured using RT-PCR. m6A global methylation was assessed via colorimetry, and molecular docking studies were conducted. The results indicated that only HCC1937 cells exhibited altered migration capacity. This change was correlated in silico with the inhibition of METTL3 by luteolin and quercetin, constituents of the aqueous extract. METTL3, a methyltransferase, was overexpressed by scratch stimuli but was downregulated followingK. pinnatatreatment in both MCF-7 and HCC1937 cells. The FTO demethylase was overexpressed in both cell lines. In silico analysis suggested an interaction between FTO and compounds such as gallic acid and myricetin. Additionally, m6A global methylation decreased in MCF-7 cells but increased in HCC1937 cells, potentially affecting cell migration. Our findings indicate thatK. pinnatainfluences both METTL3 and FTO, altering m6A methylation in a cell-type-dependent manner, with HCC1937 cells being particularly sensitive. Further research is required to elucidate the complete molecular mechanism ofK. pinnata's aqueous extract in breast cancer treatment.",
+  "publication_date": "2025-06-18",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122634",
+  "entities": {
+    "SYMPTOM": [
+      "breast cancer",
+      "breast cancer treatment",
+      "cancer",
+      "cancer management",
+      "hcc1937 (triple-negative) breast cancer cells",
+      "the most common cancer"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "gallic acid",
+      "luteolin",
+      "molecular docking studies",
+      "myricetin",
+      "quercetin",
+      "the complete molecular mechanism",
+      "the cytotoxic and epitranscriptomic effects"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Secondary metabolites fromPometia pinnataleaves.",
+  "abstract": "A new hederagenin glycoside, named pometin B [3-O-(5'''-O-acetyl-\u03b1-L-arabinofuranosyl)-(1'''\u21923')-[\u03b1-L-rhamnopyranosyl-(1''\u21922')]-\u03b2-L-arabinopyranosyl hederagenin] (1), was isolated fromPometia pinnataleaves along with known compounds, including stigmasterol-3-O-\u03b1-glucoside (2), kaempferol-3-O-\u03b1-rhamnoside (3), quercetin-3-O-\u03b1-rhamnoside (4), and proanthocyanidin A2 (5). The chemical structures of these compounds were confirmed through detailed analysis of 1D and 2D NMR spectra, supported by mass spectrometry data. The identities of known compounds were further verified by comparison with the corresponding data in the literature. Compound1exhibited notable cytotoxic activity against the MCF7 cell line with the IC50value of 3.69\u2009\u03bcg/mL. Compounds3-5showed significant antioxidant and alpha-glucosidase inhibitory activities.",
+  "publication_date": "2025-06-07",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2514736",
+  "entities": {
+    "POLYPHENOL": [
+      "2d nmr spectra",
+      "kaempferol-3-o-\u03b1-rhamnoside",
+      "mass spectrometry data",
+      "quercetin-3"
+    ]
+  }
+}

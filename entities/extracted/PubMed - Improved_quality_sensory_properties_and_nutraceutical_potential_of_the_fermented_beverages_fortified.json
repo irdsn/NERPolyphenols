@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Improved quality, sensory properties and nutraceutical potential of the fermented beverages fortified with freeze-dried berries and acacia honey.",
+  "abstract": "This study evaluates the impact of acacia honey (AH) and freeze-dried berries (raspberry (R) and blackcurrant (B) on yogurt (Y), kefir (K), and buttermilk (BM). The additives (RAH and BAH) were tested for their utility and effects on product formulation, stability, bioactive properties, and immunoreactivity. 0.5-4\u00a0% (w/v) freeze-dried fruits and 5\u00a0% (w/v) honey enhanced the functional properties of beverages by increasing antioxidant activity (10-20 times) without negatively affecting physicochemical properties. K-BAH exhibited an 80\u00a0% higher increase in total polyphenol content compared to K-RAH and other products. Additives also boosted by 1.5 log CFU/mL the growth of specific bacterial and yeast cultures in yogurt and kefir. The products met ISO microbiological standards after 28\u00a0days of storage. Safety tests indicated increased cow's alpha-amylase 2B isoform immunoreactivity starting from 1.5\u00a0% BAH-containing products. Overall, Y-RAH and Y-BAH demonstrated the highest stability, bioactivity, and sensory appeal (p\u00a0<\u00a00.05) what was confirmed through QDA and consumer trials.",
+  "publication_date": "2025-04-29",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144469",
+  "entities": {
+    "FOOD": [
+      "raspberry"
+    ],
+    "POLYPHENOL": [
+      "effects",
+      "specific bacterial and yeast cultures",
+      "total polyphenol content"
+    ]
+  }
+}

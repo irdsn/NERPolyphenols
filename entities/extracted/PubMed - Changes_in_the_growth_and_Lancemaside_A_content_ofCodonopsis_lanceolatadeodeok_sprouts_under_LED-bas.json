@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Changes in the growth and Lancemaside A content ofCodonopsis lanceolata(deodeok) sprouts under LED-based lighting at different red/far-red ratios.",
+  "abstract": "Codonopsis lanceolata(deodeok) is used in traditional medicine because it contains saponins with high medicinal value. While previous studies have explored the general effects of red/far-red (R/FR) ratios on plant morphology and secondary metabolites, the specific impact of FR light on plant growth and bioactive compound accumulation ofC. lanceolatasprouts remains largely unexplored.",
+  "publication_date": "2025-05-28",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2025.1548781",
+  "entities": {
+    "POLYPHENOL": [
+      "secondary metabolites",
+      "the general effects",
+      "the specific impact"
+    ]
+  }
+}

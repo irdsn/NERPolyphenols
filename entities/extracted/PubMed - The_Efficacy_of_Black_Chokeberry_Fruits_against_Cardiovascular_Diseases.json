@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "The Efficacy of Black Chokeberry Fruits against Cardiovascular Diseases.",
+  "abstract": "Epidemiological studies have emphasized the association between a diet rich in fruits and vegetables and a lower frequency of occurrence of inflammatory-related disorders. Black chokeberry (Aronia melanocarpaL.) is a valuable source of biologically active compounds that have been widely investigated for their role in health promotion and cardiovascular disease prevention. Many in vitro and in vivo studies have demonstrated that consumption of these fruits is associated with significant improvements in hypertension, LDL oxidation, lipid peroxidation, total plasma antioxidant capacity and dyslipidemia. The mechanisms for these beneficial effects include upregulation of endothelial nitric oxide synthase, decreased oxidative stress, and inhibition of inflammatory gene expression. Collected findings support the recommendation of such berries as an essential fruit group in a heart-healthy diet. The aim of this review was to summarize the reports on the impact of black chokeberry fruits and extracts against several cardiovascular diseases, e.g., hyperlipidemia, hypercholesterolemia, hypertension, as well as to provide an analysis of the antioxidant and anti-inflammatory effect of these fruits in the abovementioned disorders.",
+  "publication_date": "2021-06-18",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms22126541",
+  "entities": {
+    "SYMPTOM": [
+      "hypertension"
+    ],
+    "POLYPHENOL": [
+      "collected findings",
+      "decreased oxidative stress",
+      "the antioxidant and anti-inflammatory effect",
+      "the mechanisms",
+      "the recommendation",
+      "these beneficial effects"
+    ]
+  }
+}

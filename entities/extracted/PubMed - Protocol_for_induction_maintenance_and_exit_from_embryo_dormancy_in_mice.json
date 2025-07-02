@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Protocol for induction, maintenance, and exit from embryo dormancy in mice.",
+  "abstract": "Embryonic dormancy (diapause) is a reproductive adaptation that allows some mammalian species to prolong pregnancy and delay birth by temporarily suspending embryonic development just before implantation. Here, we present a step-by-step protocol for inducing and maintaining embryonic diapause in mice by tamoxifen administration or ovariectomy. We describe steps for setting up mouse matings, the administration of pharmacological compounds, the surgical procedure for the removal of the ovaries, postoperative care, and the isolation of dormant embryos. We then describe procedures for triggering exit from diapause by administration of \u03b2-estradiol and the subsequent isolation of reactivated embryos. For complete details on the use and execution of this protocol, please refer to Chen et al.1.",
+  "publication_date": "2025-05-06",
+  "journal": "STAR protocols",
+  "doi": "10.1016/j.xpro.2025.103813",
+  "entities": {
+    "POLYPHENOL": [
+      "execution",
+      "ovariectomy",
+      "some mammalian species"
+    ]
+  }
+}

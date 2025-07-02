@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Resveratrol and Its Derivatives in Inflammatory Skin Disorders-Atopic Dermatitis and Psoriasis: A Review.",
+  "abstract": "Atopic dermatitis (AD) and psoriasis are inflammatory skin diseases whose prevalence has increased worldwide in recent decades. These disorders contribute to patients' decreased quality of life (QoL) and constitute a socioeconomic burden. New therapeutic options for AD and psoriasis based on natural compounds are being investigated. These include resveratrol (3,5,40-trihydroxystilbene) and its derivatives, which are produced by many plant species, including grapevines. Resveratrol has gained interest since the term \"French Paradox\", which refers to improved cardiovascular outcomes despite a high-fat diet in the French population, was introduced. Resveratrol and its derivatives have demonstrated various health benefits. In addition to anti-cancer, anti-aging, and antibacterial effects, there are also anti-inflammatory and antioxidant effects that can affect the molecular pathways of inflammatory skin disorders. A comprehensive understanding of these mechanisms may help develop new therapies. Numerous in vivo and in vitro studies have been conducted on the therapeutic properties of natural compounds. However, regarding resveratrol and its derivatives in treating AD and psoriasis, there are still many unexplained mechanisms and a need for clinical trials. Considering this, in this review, we discuss and summarize the most critical research on resveratrol and its derivatives in animal and cell models mimicking AD and psoriasis.",
+  "publication_date": "2023-11-02",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox12111954",
+  "entities": {
+    "POLYPHENOL": [
+      "-inflammatory and antioxidant effects",
+      "a socioeconomic burden",
+      "anti-cancer, anti-aging, and antibacterial effects",
+      "many plant species",
+      "many unexplained mechanisms",
+      "patients' decreased quality",
+      "recent decades",
+      "resveratrol",
+      "the molecular pathways",
+      "these mechanisms"
+    ],
+    "FOOD": [
+      "grapevines"
+    ]
+  }
+}

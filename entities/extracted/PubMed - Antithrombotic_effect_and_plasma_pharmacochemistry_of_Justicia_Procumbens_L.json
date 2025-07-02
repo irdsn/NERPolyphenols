@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Antithrombotic effect and plasma pharmacochemistry of Justicia Procumbens L.",
+  "abstract": "Justicia procumbens L. contains lignans with remarkable antiplatelet aggregation effects. Its ethyl acetate extract has demonstrated the efficacy of inhibiting platelet aggregation in preliminary tests. Identifying key components, elucidating the antithrombotic mechanism, and evaluating its potential for treating thrombotic diseases are of great significance.",
+  "publication_date": "2025-04-30",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0321023",
+  "entities": {
+    "POLYPHENOL": [
+      "remarkable antiplatelet aggregation effects",
+      "the antithrombotic mechanism"
+    ]
+  }
+}

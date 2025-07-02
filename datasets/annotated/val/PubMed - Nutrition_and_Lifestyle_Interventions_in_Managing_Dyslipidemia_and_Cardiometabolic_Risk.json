@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Nutrition and Lifestyle Interventions in Managing Dyslipidemia and Cardiometabolic Risk.",
+  "abstract": "Dyslipidemia, characterized by abnormal blood lipid levels, is a major public health concern due to its association with atherosclerotic cardiovascular disease (ASCVD) and other cardiometabolic disorders. In this context, appropriate nutrition patterns are pivotal as they represent the basic approach for providing a wide range of substantial advantages. The best evidence for dyslipidemia management is offered by the Mediterranean Diet, the Plant-Based Diet, the High-Fiber Diet and the Anti-inflammatory Diet, while the DASH Diet and the Ketogenic Diet have also been shown to target additional pathological features like hypertension and other comorbidities. The bioactive compounds that are enriched in these nutrition patterns and able to manage dyslipidemia include monounsaturated fatty acids such as \u03c9-3, polyphenols such as oleuropein, resveratrol, flavonoids, and catechins, carotenoids, phytosterols and soluble and unsoluble fibers. Diets rich in these compounds can improve lipid profile by mitigating oxidative stress, reducing low-grade chronic inflammation, modulating macronutrient absorption and other mechanisms, thereby supporting cardiovascular health. Additionally, lifestyle interventions such as regular physical activity, weight loss, reduced alcohol consumption and smoking cessation further ameliorate lipid metabolism and manage circulated lipid profile. Furthermore, emerging insights from nutrigenomics underscore the potential for proper diet to address genetic factors and optimize treatment outcomes. The pivotal role of nutrition interventions in the context of dyslipidemia and its cardiometabolic implications is discussed in this review, emphasizing evidence-based and personalized approaches.",
+  "publication_date": "2025-02-23",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17050776",
+  "entities": {
+    "SYMPTOM": [
+      "dyslipidemia",
+      "dyslipidemia management",
+      "hypertension",
+      "low-grade chronic inflammation",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "catechins",
+      "flavonoids",
+      "oleuropein",
+      "other mechanisms",
+      "polyphenols",
+      "resveratrol"
+    ]
+  }
+}

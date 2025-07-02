@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "AIE-based dual-ratiometric chemosensor for detection of sulfur dioxide derivatives and viscosity and its application in food samples and biological imaging.",
+  "abstract": "SO2is an important gas molecular messenger that participates in many physiological activities and helps maintaining the redox homeostasis in biological system. Especially, SO2can effectively regulate oxidative stress and improve mitochondrial morphology. Abnormal mitochondrial viscosity can lead to a variety of diseases. Therefore, it is of great importance to detect SO2derivatives and cell viscosity in biological systems.",
+  "publication_date": "2025-03-17",
+  "journal": "Analytica chimica acta",
+  "doi": "10.1016/j.aca.2025.343949",
+  "entities": {
+    "POLYPHENOL": [
+      "an important gas molecular messenger"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

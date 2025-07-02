@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Evaluation of ethanolic extract of Clinacanthus nutans leaves in C2C12 myotubes: anti-exercise fatigue activity.",
+  "abstract": "Clinacanthus nutans (Burm.f.) Lindau has antioxidant and anti-inflammatory properties due to its enrichment in natural active components. However, it has been unknown whether and how C. nutans affects the anti-exercise fatigue ability of muscles. Thus, we expected that C. nutans could shift skeletal muscle from fast to slow muscle fibers via AMPK signaling and promote mitochondrial biogenesis, thereby enhancing exercise fatigue resistance. This hypothesis was tested in the present study using the C2C12 myotube model. We identified vitexin, isovitexin, orientin, schaftoside, rutin, quercetin, and apigenin in the ethanolic extract of C. nutans leaves (EECN). EECN substantially boosted the protein expression of slow myosin heavy chain (MyHC) and succinate dehydrogenase (SDH) activity, and reduced fast MyHC. EECN significantly increased ATP content and mitochondrial membrane potential in myotubes. EECN activated AMPK signaling, as well as upstream and downstream regulators. Furthermore, Compound C, which inhibited AMPK, significantly inhibited the effects above in C2C12 myotubes. In conclusion, EECN transformed skeletal muscle from fast to slow fibers and improved mitochondrial function via AMPK signaling pathway, and may play an important role in anti-exercise fatigue activity. This finding expanded the potential application of Clinacanthus nutans and provided a theoretical foundation for anti-exercise fatigue research in the future.",
+  "publication_date": "2025-06-02",
+  "journal": "Fitoterapia",
+  "doi": "10.1016/j.fitote.2025.106643",
+  "entities": {
+    "SYMPTOM": [
+      "anti-exercise fatigue activity",
+      "anti-exercise fatigue research",
+      "exercise fatigue resistance",
+      "the anti-exercise fatigue ability"
+    ],
+    "POLYPHENOL": [
+      "apigenin",
+      "eecn",
+      "quercetin",
+      "rutin",
+      "the effects"
+    ]
+  }
+}

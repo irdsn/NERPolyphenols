@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Isolation and Characterization of Microorganisms from Buckwheat Farmland for the Bioconversion of Quercetin.",
+  "abstract": "The usability of flavonoids, which have numerous functional benefits, is limited by their low solubility. In this study, microorganisms were isolated from the soil of a buckwheat farmland located in Pyeongchang, Republic of Korea, to identify potential agents for flavonoid bioconversion. Strain 3P-1, which exhibited 98.9% 16S rRNA gene sequence similarity toBacillus licheniformisstrain IND706, demonstrated the ability to utilize flavonoids during fermentation. During the 7-day fermentation process with strain 3P-1, a significant decrease in quercetin content was observed, accompanied by the generation of an unknown compound. High-performance liquid chromatography coupled with mass spectrometry analysis of the unknown compound revealed its molecular weight. Among the four potential candidates identified, isoquercetin was determined to be the most likely agent for flavonoid bioconversion based on its biosynthetic pathway and substrate specificity, as well as known characteristics of strain 3P-1. These findings suggest that the isolated strain 3P-1 has substantial potential as a bioconversion agent for transforming quercetin to isoquercetin, which enhances its bioavailability.",
+  "publication_date": "2025-05-27",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13061224",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant decrease",
+      "flavonoid bioconversion",
+      "flavonoids",
+      "isoquercetin",
+      "its molecular weight",
+      "mass spectrometry analysis",
+      "quercetin",
+      "quercetin content"
+    ],
+    "FOOD": [
+      "a buckwheat farmland"
+    ]
+  }
+}

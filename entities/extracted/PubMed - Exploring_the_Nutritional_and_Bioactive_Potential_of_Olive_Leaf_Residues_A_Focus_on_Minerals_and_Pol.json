@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Exploring the Nutritional and Bioactive Potential of Olive Leaf Residues: A Focus on Minerals and Polyphenols in the Context of Spain's Olive Oil Production.",
+  "abstract": "Lyophilized plant-origin extracts are rich in highly potent antioxidant polyphenols. In order to incorporate them into food products, it is necessary to protect these phytochemicals from atmospheric factors such as heat, light, moisture, or pH, and to enhance their bioavailability due to their low solubility. To address these challenges, recent studies have focused on the development of encapsulation techniques for antioxidant compounds within polymeric structures. In this study, lyophilized olive leaf extracts were microencapsulated with the aim of overcoming the aforementioned challenges. The method used for the preparation of the studied microparticles involves external ionic gelation carried out within a water-oil (W/O) emulsion at room temperature. HPLC analysis demonstrates a high content of polyphenols, with 90% of the bioactive compounds encapsulated. Meanwhile, quantification by inductively coupled plasma optical emission spectroscopy (ICP-OES) reveals that the dried leaves, lyophilized extract, and microencapsulated form contain satisfactory levels of macro- and micro-minerals (calcium, potassium, sodium). The microencapsulation technique could be a novel strategy to harness the polyphenols and minerals of olive leaves, thus enriching food products and leveraging the antioxidant properties of the polyphenolic compounds found in the lyophilized extract.",
+  "publication_date": "2024-03-28",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13071036",
+  "entities": {
+    "POLYPHENOL": [
+      "encapsulation techniques",
+      "highly potent antioxidant polyphenols",
+      "inductively coupled plasma optical emission spectroscopy",
+      "polyphenols",
+      "recent studies",
+      "the microencapsulation technique",
+      "the polyphenolic compounds",
+      "the polyphenols"
+    ]
+  }
+}

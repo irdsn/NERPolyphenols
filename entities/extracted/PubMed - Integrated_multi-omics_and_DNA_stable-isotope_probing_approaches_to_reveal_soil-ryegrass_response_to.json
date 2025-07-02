@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Integrated multi-omics and DNA stable-isotope probing approaches to reveal soil-ryegrass response to ionic rare earth mineral ammonium-lead contamination.",
+  "abstract": "The extensive use of ammonium (NH4+) sulfate in ionic rare earth mining has resulted in soil contamination with NH4+and lead (Pb), posing significant challenges for ecological restoration. Here, multi-omics and DNA stable-isotope probing (DNA-SIP) approaches were utilized to investigate soil nitrogen cycling and the molecular response of ryegrass (Lolium perenne L.) to NH4+(180-720\u202fmg\u202fkg-1)-Pb2+(207-828\u202fmg\u202fkg-1) co-contamination. A synergistic interaction between NH4+and Pb2+was observed, significantly inhibited ryegrass growth, and induced oxidative stress and mitochondrial swelling. The EC50toxicity thresholds were 383\u202fmg\u202fkg\u207b\u00b9\u202ffor NH4+and 512\u202fmg\u202fkg\u207b\u00b9\u202ffor Pb. The Integrated Biomarker Response (IBRv2) model elucidated the synergistic toxic effects. Transcriptomic and metabolomic analyses indicated that ryegrass roots enhanced carbon metabolism and antioxidant response pathways related to stress tolerance. Galactose metabolism and lysine degradation were identified as key pathways associated with stress response. Co-contamination with NH4+and Pb2+reduced ryegrass root15N-total nitrogen (TN) by 30\u202f% while increasing soil15N-NH4+residue by 95\u202f% and decreasing15N-microbial biomass nitrogen (MBN) by 59\u202f%, compared to NH4+single contamination. DNA-SIP analysis revealed that ryegrass cultivation under NH4+- Pb2+co-contamination increased the abundance of plant growth-promoting rhizobacteria (Dyella), acid-tolerant nitrogen (Acidibacter), and sulfur-cycling taxa (Desulfosporosinus). The presence of raffinose and chlorogenic acid in ryegrass root metabolites was associated with shifts in the structure and composition of using NH4+active microbial taxa. These findings provide valuable insights into plant-soil-microbe interactions under multi-pollutant stress and offer practical strategies for phytoremediation and ecological restoration in areas affected by mining.",
+  "publication_date": "2025-05-18",
+  "journal": "Journal of hazardous materials",
+  "doi": "10.1016/j.jhazmat.2025.138658",
+  "entities": {
+    "POLYPHENOL": [
+      "95\u202f% and decreasing15n-microbial biomass nitrogen",
+      "ecological restoration",
+      "raffinose and chlorogenic acid",
+      "the ec50toxicity thresholds",
+      "the molecular response",
+      "the synergistic toxic effects"
+    ],
+    "SYMPTOM": [
+      "multi-pollutant stress",
+      "oxidative stress",
+      "stress response"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Supplementing with monochromatic blue LED light during the day, rather than at night, increases anthocyanins in the berry skin of grapevine (Vitis vinifera L.).",
+  "abstract": "Supplying monochromatic blue LED light during the day, but not at night, promotes early coloration and improves anthocyanin accumulation in the skin of grape berries. Specific light spectra, such as blue light, are known to promote the biosynthesis and accumulation of anthocyanins in fruit skins. However, research is scarce on whether supplement of blue light during different periods of one day can differ in their effect. Here, we compared the consequences of supplying blue light during the day and night on the accumulation of anthocyanins in pigmented grapevine (Vitis vinifera) berries. Two treatments of supplemented monochromatic blue light were tested, with light emitting diodes (LED) disposed close to the fruit zone, irradiating between 8:00 and 18:00 (Dayblue) or between 20:00 and 6:00 (Nightblue). Under the Dayblue treatment, berry coloration was accelerated and total anthocyanins in berry skins increased faster than the control (CK) and also when compared to the Nightblue condition. In fact, total anthocyanin content was similar between CK and Nightblue. qRT-PCR analysis indicated that Dayblue slightly improved the relative expression of the anthocyanin-structural gene UFGT and its regulator MYBA1. Instead, the expression of the light-reception and -signaling related genes CRY, HY5, HYH, and COP1 rapidly increased under Dayblue. This study provides insights into the effect of supplementing monochromatic LED blue light during the different periods of one day, on anthocyanins accumulation in the berry skin.",
+  "publication_date": "2024-08-10",
+  "journal": "Planta",
+  "doi": "10.1007/s00425-024-04500-4",
+  "entities": {
+    "FOOD": [
+      "grape berries",
+      "pigmented grapevine"
+    ],
+    "POLYPHENOL": [
+      "specific light spectra",
+      "the effect",
+      "the light-reception and -signaling related genes",
+      "their effect"
+    ]
+  }
+}

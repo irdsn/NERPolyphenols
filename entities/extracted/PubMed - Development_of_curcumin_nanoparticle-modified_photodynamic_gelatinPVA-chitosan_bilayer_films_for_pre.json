@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Development of curcumin nanoparticle-modified photodynamic gelatin/PVA-chitosan bilayer films for preserving bigeye tuna.",
+  "abstract": "In this study, a biodegradable bilayer film was developed with polysaccharides chitosan as the outer layer and gelatin/polyvinyl alcohol (PVA) as the inner layer materials, incorporating curcumin-chitosan nanoparticles (CCN) as the photosensitizer. The bilayer film was used to prepare a new type of food packaging combined with photodynamic inactivation technology. The results showed that when the CCN content in the film was 2.5\u00a0%, the film exhibited outstanding performance in terms of mechanical properties, oxygen barrier properties, and antioxidant and antibacterial activities. When the film was used to preserve bigeye tuna, its thiobarbituric acid index, myoglobin content, and total bacterial count significantly improved after the 9\u00a0d of storage. These findings meet the current packaging material demands of the fresh food industry and provide theoretical reference and technical support for the development of new antibacterial packaging materials and their practical applications.",
+  "publication_date": "2025-03-30",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.142299",
+  "entities": {
+    "POLYPHENOL": [
+      "curcumin-chitosan nanoparticles",
+      "mechanical properties",
+      "photodynamic inactivation technology",
+      "technical support"
+    ],
+    "SYMPTOM": [
+      "food packaging",
+      "new antibacterial packaging materials",
+      "the current packaging material demands"
+    ]
+  }
+}

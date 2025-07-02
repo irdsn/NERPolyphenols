@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Electrospun pullulan nanofibers containing pterostilbene-hydroxypropyl-\u03b2-cyclodextrin inclusion complex: Preparation and characterization.",
+  "abstract": "Preservative-free dry masks made from natural active ingredients have attracted much attention in the spirit of safety and environmental protection, which should be in line with the future trend of skin care products. Pterostilbene (PTS) is a natural antioxidant ingredient derived from plants that has received great interest in the field of biomedicine and cosmetics. However, the low water solubility and stability of PTS limiting its wide application. In this study, we first self-assembled Pterostilbene (PTS) and hydroxypropyl-\u03b2-cyclodextrin (HP-\u03b2-CD) into water-soluble inclusion complexes (IC) to solve the solubility problem of Pterostilbene. The dry mask (PUL-PTS-HP-\u03b2-CD-NF) was then successfully produced using electrostatic spinning technology via combining IC with pullulan polysaccharide as co-spinning agents. The PUL-PTS-HP-\u03b2-CD-NF masks were detailedly analyzed using SEM, FTIR, and XRD, and the antioxidant capacity, water retention capacity, in vitro release, and safety were comprehensively assessed at the same time. The results showed that the nanofiber mask (PUL-PTS-HP-\u03b2-CD-NF) was dense, uniform, and well-distributed, which exhibited a higher level of antioxidant activity compared to isolated PTS counterparts. As the IC increases, the water retention capacity of the PUL-PTS-HP-\u03b2-CD-NF mask becomes more evident, and the in vitro dissolving studies further demonstrated that the release of PTS from PUL-PTS-HP-\u03b2-CD-NF was concentration-dependent, which exhibited a direct relationship with time and followed a kinetic model of first-order reaction. In addition, the biosafety of the nanofiber mask was confirmed using red blood cell hemolysis. This work not only provide a very novel approach to prepare dry mask but also offer a sustainable way to create environmentally-friendly chemicals.",
+  "publication_date": "2025-04-08",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.142978",
+  "entities": {
+    "POLYPHENOL": [
+      "a direct relationship",
+      "electrostatic spinning technology",
+      "environmental protection",
+      "first self-assembled pterostilbene",
+      "pterostilbene"
+    ]
+  }
+}

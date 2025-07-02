@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "The Transport and Uptake of Resveratrol Mediated via Glucose Transporter 1 and Its Antioxidant Effect in Caco-2 Cells.",
+  "abstract": "Resveratrol has anti-inflammatory, anti-cancer, and anti-aging pharmacological activities. There is currently a gap in academic research regarding the uptake, transport, and reduction of H2O2-induced oxidative damage of resveratrol in the Caco-2 cell model. This study investigated the role of resveratrol in the uptake, transport, and alleviation of H2O2-induced oxidative damage in Caco-2 cells. In the Caco-2 cell transport model, it was observed that the uptake and transport of resveratrol (10, 20, 40, and 80 μM) were time dependent and concentration dependent. Different temperatures (37 °C vs. 4 °C) could significantly affect the uptake and transportation of resveratrol. The apical to basolateral transport of resveratrol was markedly reduced by STF-31, a GLUT1 inhibitor, and siRNA intervention. Furthermore, resveratrol pretreatment (80 μM) improves the viability of Caco-2 cells induced by H2O2. In a cellular metabolite analysis combined with ultra-high performance liquid chromatography-tandem mass spectrometry, 21 metabolites were identified as differentials. These differential metabolites belong to the urea cycle, arginine and proline metabolism, glycine and serine metabolism, ammonia recycling, aspartate metabolism, glutathione metabolism, and other metabolic pathways. The transport, uptake, and metabolism of resveratrol suggest that oral resveratrol could prevent intestinal diseases caused by oxidative stress.",
+  "publication_date": "2023-06-06",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules28124569"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Indole-3-Acetic Acid: Promising Protective Agent Against Methotrexate-Induced Liver Injury via Modulation of TLR4/NF-κB/Caspase-3 Pathway.",
+  "abstract": "Background and Purpose:Methotrexate (MTX) is a widely used therapeutic agent for inflammatory and malignant diseases; however, its prolonged use is associated with hepatotoxicity through mechanisms that remain inadequately understood. This study aims to elucidate these mechanisms and assess the hepatoprotective potential of indole-3-acetic acid (IAA).Methods:Rats were allocated into five groups: control (group 1), IAA-treated (group 2), MTX-treated (group 3), quercetin (QUR) + MTX (group 4), and IAA + MTX (group 5). Hepatic function was assessed through the evaluation of serum liver enzymes, oxidative stress, and inflammatory and apoptotic markers using biochemical, molecular, histopathological, and immunohistochemical analyses.Results:The MTX-treated group demonstrated a significant increase in hepatic oxidative stress, inflammation, and apoptotic markers. Co-administration of IAA or QUR with MTX markedly reduced malondialdehyde (MDA) levels, while enhancing glutathione (GSH) levels and superoxide dismutase (SOD) activity. Moreover, hepatic inflammatory markers, including TNF-α, IL-6, and IL-1β, were significantly decreased in the IAA- and QUR-treated groups. Immunohistochemical analysis further revealed a reduced expression of NF-κB, TLR4, and caspase-3 in hepatic tissues following QUR-MTX or IAA-MTX treatments.Conclusions:IAA exhibited hepatoprotective effects against MTX-induced liver injury, comparable to QUR, by modulating the TLR4/NF-κB/caspase-3 pathway. These findings highlight its potential clinical application in reducing MTX-associated hepatic complications.",
+  "publication_date": "2025-06-01",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18060828"
+}

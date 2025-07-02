@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Physalis peruwianaFruits and Their Food Products as New Important Components of Functional Foods.",
+  "abstract": "Physalis peruvianais a native evergreen plant from the Andean region. It is also commonly known as goldenberry and gooseberry in English-speaking countries.P. peruvianafruit is a globose berry, yellowish in color, which has a pleasant smell and taste. In addition, fruits of this plant have been identified as a priority part for commercialization (also for their food products: wine, jam, and juice). The health benefits ofP. peruvianaare related to the content of various bioactive chemical compounds, including withanolides, phenolic compounds (especially flavonoids), alkaloids, sucrose ester, and others such as vitamins, especially carotenoids, and physalins. The aim of the present mini-review is to provide an overview of the beneficial potential ofP. peruvianafruits and their food products, especially fruit juice, as important components of functional foods.",
+  "publication_date": "2025-04-08",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26083493",
+  "entities": {
+    "FOOD": [
+      "functional foods",
+      "juice",
+      "wine"
+    ],
+    "POLYPHENOL": [
+      "especially carotenoids",
+      "especially flavonoids",
+      "especially fruit juice",
+      "phenolic compounds"
+    ]
+  }
+}

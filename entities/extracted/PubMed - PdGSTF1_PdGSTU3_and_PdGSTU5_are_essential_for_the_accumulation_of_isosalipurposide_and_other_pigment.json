@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "PdGSTF1, PdGSTU3, and PdGSTU5 are essential for the accumulation of isosalipurposide and other pigments in peonies.",
+  "abstract": "Isosalipurposide (ISP) is a critical substance that gives peony its yellow phenotype; however, studies on its synthesis and transport in petals have not yet been conducted. During plant coloration, the transport of pigments is closely related to glutathione S-transferases (GSTs). To this end, we performed the metabolomic analysis of petals from three different developmental stages of Paeonia delavayi var. lutea and combined it with transcriptomic data to comprehensively characterize the GST gene family. We identified 42 GST genes from P. delavayi var. lutea through transcriptome data mining. Among these, the molecular docking results of PdGSTF1, PdGSTU3, and PdGSTU5 showed that they have the ability to bind multiple flavonoids. Virus-induced gene silencing (VIGS) experiments and overexpression experiments demonstrated that PdGSTF1, PdGSTU3, and PdGSTU5 can not only transport ISP but also transfer various pigments, including flavone glycosides, flavonol glycosides, and anthocyanin glycosides. Additionally, through yeast two-hybrid (Y2H) and bimolecular fluorescence complementation (BiFC) assays, PdMYB2 was identified as a protein interacting with PdGSTF1 and PdGSTU3, co-participating in the transport of flavonoids. Our research findings have elucidated the roles of key candidate PdGSTs in pigment transportation in P. delavayi var. lutea and uncovered their underlying molecular mechanisms.",
+  "publication_date": "2025-04-01",
+  "journal": "The Plant journal : for cell and molecular biology",
+  "doi": "10.1111/tpj.70178",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "multiple flavonoids",
+      "the molecular docking results",
+      "their underlying molecular mechanisms"
+    ]
+  }
+}

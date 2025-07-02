@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Anti-cariogenic activity of mutanocyclin, a secondary metabolite ofStreptococcus mutans, in mono- and multispecies biofilms.",
+  "abstract": "Streptococcus mutans(S. mutans), a principal cariogenic pathogen responsible for dental caries, alters the oral biofilm ecology through the production of various metabolites. One such metabolite, mutanocyclin (MUC), a recently identified secondary metabolite, may have implications for both caries development and oral microbiome interactions. This study aimed to investigate the properties of MUC and its effects onS. mutans, as well as other oral commensal streptococci in mono- and multispecies biofilms. Our findings revealed that MUC significantly inhibitedS. mutansplanktonic growth, biofilm formation, lactic acid production, water-insoluble glucan synthesis, and extracellular polysaccharide production. In contrast, at lower concentrations, MUC stimulated the growth ofStreptococcus gordonii(S. gordonii) andStreptococcus sanguinis(S. sanguinis). Additionally, MUC reduced the abundance ofS. mutansand enhanced the antagonistic activity ofS. gordoniiandS. sanguinisagainstS. mutansin multispecies biofilms by upregulating the expression of the H2O2-related genespxBand stimulating H2O2production. These results suggest that MUC has potential for anti-cariogenic activity againstS. mutansand for modulating oral microbial communities within the cariogenic microenvironment, providing new therapeutic strategies for preventing dental caries.",
+  "publication_date": "2025-06-25",
+  "journal": "Microbiology spectrum",
+  "doi": "10.1128/spectrum.00183-25",
+  "entities": {
+    "POLYPHENOL": [
+      "a recently identified secondary metabolite",
+      "its effects",
+      "mono- and multispecies biofilms",
+      "sanguinisagainsts. mutansin multispecies biofilms",
+      "the oral biofilm ecology"
+    ]
+  }
+}

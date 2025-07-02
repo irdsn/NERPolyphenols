@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Correlation between Antioxidant Capacity and Phenolic Compounds of Korean Red Pine (Pinus densiflora Sieb. et Zucc.) Bark Fractions under In Vitro Gastrointestinal Digestive Conditions.",
+  "abstract": "This study investigated the correlations between phenolic compounds and antioxidant capacities of Korean red pine (Pinus densiflora Sieb. et Zucc.) bark (RPB) fractions after in vitro gastrointestinal digestion. RPB extracts were prepared using 70% (v/v) aqueous ethanol and further fractionated with n-hexane, ethyl acetate, and water. Their antioxidant capacities were evaluated using three assays. Phenolic compounds were quantified using a liquid chromatography system to assess their stability. The antioxidant capacities of RPB extract and its fractions were significantly influenced by the digestive process. Gastric digestion increased the contents of procyanidin B1 and catechin, whereas intestinal digestion degraded most of the phenolic compounds except protocatechuic acid. Principal component analysis revealed that taxifolin had the greatest impact on data variability, indicating that this polyphenol plays an important role in the antioxidant capacity of RPB. This study provides insights into the stability and bioaccessibility of phenolic compounds in RPB under simulated gastrointestinal conditions, supporting its potential use as a source of natural antioxidants in dietary supplements.",
+  "publication_date": "2025-01-06",
+  "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+  "doi": "10.1007/s11130-024-01265-9",
+  "entities": {
+    "POLYPHENOL": [
+      "catechin",
+      "phenolic compounds",
+      "procyanidin b1",
+      "protocatechuic acid",
+      "the phenolic compounds",
+      "this polyphenol"
+    ]
+  }
+}

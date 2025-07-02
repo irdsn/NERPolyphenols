@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Impact of NF-\u03baB and reactive oxygen species on intracellular BAFF/APRIL expression in ANCA-associated vasculitis: focusing on the effect of resveratrol.",
+  "abstract": "Increased expression of B-cell activation factor of the tumor necrosis factor family (BAFF) and a proliferation-inducing ligand (APRIL) expression, which have been observed not only in the active phase of antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV) but also in remission, may cause relapse by activating autoreactive B cells that produce ANCA. It is necessary to identify a therapeutic target related to the production of BAFF and APRIL in immune cells, particularly monocytes which play a crucial role in mediating the pathological processes of AAV. We previously demonstrated the efficacy of resveratrol (RVL) in restoring the function of regulatory T cells in AAV. This study examined the effects of RVL on the expression of BAFF and APRIL in monocytes as well as their related signaling factors in patients with AAV. This study used peripheral blood mononuclear cells (PBMCs) from 35 patients with AAV and 22 healthy controls. After incubating PBMCs with and without RVL or tempol, BAFF, APRIL, reactive oxygen species (ROS), and nuclear factor-\u03baB (NF-\u03baB) in CD14+ cells were analyzed using flow cytometry. Additionally, BAFF and APRIL in CD14+ cells were assessed in PBMCs treated with the NF-\u03baB inhibitor, SN50. Significantly higher BAFF, APRIL, ROS, and NF-\u03baB expression were observed in CD14+ cells in patients with AAV than in healthy controls. In CD14+ cells treated with RVL, patients with AAV exhibited significant increases in BAFF and NF-\u03baB expression but significant decreases in APRIL and ROS expression. In patients with AAV, there was a positive correlation between NF-\u03baB and BAFF in CD14+ cells, regardless of RVL treatment. Patients with AAV showed a significant decrease in APRIL expression without significant changes in BAFF expression in CD14+ cells treated with tempol; whereas there was a significant decrease in BAFF and APRIL expression in CD14+ cells treated with SN50. NF-\u03baB may be a crucial signaling factor in BAFF production. RVL induces BAFF expression in monocytes by stimulating NF-\u03baB in AAV, while its redox reaction reduces APRIL expression.",
+  "publication_date": "2025-06-04",
+  "journal": "Frontiers in immunology",
+  "doi": "10.3389/fimmu.2025.1586158",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant decrease",
+      "reactive oxygen species",
+      "resveratrol",
+      "significant decreases",
+      "the effects",
+      "the tumor necrosis factor family"
+    ]
+  }
+}

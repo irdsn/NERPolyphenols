@@ -1,0 +1,35 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "The Influence of Maceration and Flavoring on the Composition and Health-Promoting Properties of Roasted Coffee.",
+  "abstract": "Over the years, many methods of refining green beans have been developed, including maceration aimed at enriching the coffee aroma and improving the overall quality. This study aimed to evaluate the influence of different methods of maceration (fruit and wine) and the addition of food flavors to coffee beans on antioxidant activity, caffeine, phenolic and organic acid content, as well as health-promoting properties. This research showed that the use of the maceration in melon and apple fruit pulp (100 g of fruit pulp per 100 g of green coffee, incubated for 24 h, coffee roasting at 230 \u00b0C, control trial roasted coffee) ensured the highest polyphenol (hydroxycinnamic acids and their esters-chlorogenic acids) content (in melon pulp-13.56 g/100 g d.b. (dry bean); in apple pulp-13.22 g/100 g d.b.,p< 0.05 (one-way ANOVA)) and antioxidant activity. Melon (92.11%, IC50 = 3.80 mg/mL extract) and apple (84.55%, IC50 = 4.14 mg/mL) showed the highest \u03b1-amylase (enzyme concentration 10 \u03bcmol/mL) inhibition activity (0.5 mg/mL for both fruits). The addition of food flavors reduced the total content of chlorogenic acids to the range of 4.64 to 6.48 g/100 g d.b. and increased the content of acrylamide and 5-HMF, which positively correlated with a low antioxidant potential compared to the macerated samples and the control. Studies have shown that coffee macerated in the pulp of melon and apple fruit, due to its great potential to inhibit \u03b1-amylase in vivo, may have a preventive effect on type II diabetes. This study complements the current knowledge on the potential health-promoting properties of coffee flavored using different methods; further research should include more advanced models for testing these health-promoting properties. Statistical analysis was based on the determination of the average values of six measurements and their standard deviation, as well as on the one-way ANOVA (analysis of variation) and the Pearson correlation coefficient, using Statistic 10.0 software. The significance was defined atp\u2264 0.05.",
+  "publication_date": "2024-08-23",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16172823",
+  "entities": {
+    "FOOD": [
+      "apple",
+      "apple fruit",
+      "apple pulp-13.22 g/100 g d.b",
+      "beans",
+      "coffee",
+      "coffee roasting",
+      "control trial roasted coffee",
+      "green beans",
+      "green coffee",
+      "melon",
+      "melon and apple fruit pulp",
+      "that coffee",
+      "the coffee aroma",
+      "the pearson correlation coefficient",
+      "wine"
+    ],
+    "POLYPHENOL": [
+      "a preventive effect",
+      "chlorogenic acids",
+      "hydroxycinnamic acids",
+      "the highest polyphenol",
+      "their esters-chlorogenic acids) content"
+    ]
+  }
+}

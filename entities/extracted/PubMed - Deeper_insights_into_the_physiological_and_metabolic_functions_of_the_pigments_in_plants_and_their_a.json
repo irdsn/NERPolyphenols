@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Deeper insights into the physiological and metabolic functions of the pigments in plants and their applications: beyond natural colorants.",
+  "abstract": "Plant pigments are the natural source of color perceived by the human senses. They have captivated researchers to explore their structural, physical, and chemical properties, synthesis mode, and physiological significance. They are secondary metabolites in plants metabolism, growth and regulation, photosynthesis, and defense. Chlorophylls, carotenoids, anthocyanins, and betalains are the major classes of natural colors contributing color shades to textiles, foods, and cosmetics. The bioactive properties of these compounds are used to apply the compounds as pharmaceuticals to treat chronic degenerative diseases like hypertension, diabetes, cancer, and cardiovascular disorders. This review discusses classification, biosynthesis, physiological and metabolic activities, commercial applications of plant pigments, and knowledge gaps in pigment identification and application prospects. The review discusses developments in technologies such as non-encapsulation to preserve the unstable properties of pigment extracts for commercial use and transporter genes involved in synthesizing essential pigments. However, additional research is required to gain insight into the candidate gene for orchestrating stress responses and the potential for engineering stress tolerance in various crops.",
+  "publication_date": "2025-05-01",
+  "journal": "Physiologia plantarum",
+  "doi": "10.1111/ppl.70168",
+  "entities": {
+    "POLYPHENOL": [
+      "application prospects",
+      "secondary metabolites",
+      "technologies"
+    ],
+    "SYMPTOM": [
+      "cancer",
+      "hypertension",
+      "stress responses",
+      "stress tolerance"
+    ]
+  }
+}

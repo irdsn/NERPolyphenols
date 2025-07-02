@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Molecular Mechanisms Contributing to the Impairment of Steroid Hormones, Sperm Characteristics, and Testicular Architecture in Male Rabbits After Chronic Exposure to Cadmium: Role of Gallic Acid and Selenium as Antioxidants.",
+  "abstract": "One hazardous material that occurs naturally in the environment and induces oxidative stress is cadmium (Cd). Epidemiological data revealed that exposure to cadmium in the workplace and environment might be linked to many illnesses and serious testicular injuries.",
+  "publication_date": "2025-04-21",
+  "journal": "Toxics",
+  "doi": "10.3390/toxics13040323",
+  "entities": {
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "High Tyrosol and Hydroxytyrosol Intake Reduces Arterial Inflammation and Atherosclerotic Lesion Microcalcification in Healthy Older Populations.",
+  "abstract": "Aging is an important risk factor for cardiovascular diseases and convincing data have shown that chronic low-grade inflammation, which develops with advanced age, contributes significantly to cardiovascular risk. The present study aimed to use18F-FDG/18F-NaF-PET/CT imaging to, respectively, gauge arterial inflammation and microcalcification in a healthy elderly population and to assess the potential benefits of a tyrosol- and hydroxytyrosol-rich diet on these two markers of atherosclerotic plaque fragility. Eleven healthy participants (mean age 75 \u00b1 5.67 years) were supplemented for 6 months with high polyphenol-rich extra virgin olive oil (HP-EVOO), extra virgin olive oil (EVOO), or refined olive oil (ROO). The participants underwent PET/CT imaging with18F-FDG and18F-NaF radiotracers at baseline and after 6 months.18F-FDG and18F-NaF uptakes were quantified using standardized uptake values (SUV) and were categorized based on artery calcification and olive oil type. A total of 324 slices of the aortas of the imaged participants were analyzed for arterial inflammation and 327 slices were analyzed for microcalcification.18F-FDG uptake was significantly higher in the non-calcified segments than in the calcified segments (SUVmax = 2.70 \u00b1 0.62 and SUVmax = 2.54 \u00b1 0.44, respectively,p< 0.042). Conversely, the non-calcified segments displayed significantly lower18F-NaF uptake than the calcified segments (SUVmax = 1.90 \u00b1 0.37 and 2.09 \u00b1 0.24, respectively,p< 0.0001). The 6-month supplementation with HP-EVOO induced a significant reduction in18F-FDG uptake in both the non-calcified (2.93 \u00b1 0.23 to 2.75 \u00b1 0.38,p< 0.004) and calcified segments of the aortas (2.25 \u00b1 0.29 to 2.15 \u00b1 0.19,p< 0.02).18F-NaF uptake was also significantly lower in patients supplemented with HP-EVOO (SUVmax = 1.98 \u00b1 0.33 at baseline compared to 1.85 \u00b1 0.28, after the 6-month supplementation,p< 0.004), whereas no significant effect was observed with EVOO. Conversely, participants supplemented with ROO displayed a significant increase in18F-NaF uptake (SUVmax = 1.78 \u00b1 0.34 to 1.95 \u00b1 0.34,p< 0.0001). The present study confirmed that a phenolic-compound-rich diet reduces both arterial inflammation and atherosclerotic lesion microcalcification and demonstrated that18F-FDG/18F-NaF-PET/CT imaging is a valuable approach for assessing age-related arterial damage.",
+  "publication_date": "2024-01-22",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox13010130",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "arterial inflammation",
+      "both arterial inflammation",
+      "naf-pet/ct imaging",
+      "that chronic low-grade inflammation",
+      "that18f-fdg/18f-naf-pet/ct imaging"
+    ],
+    "POLYPHENOL": [
+      "high polyphenol-rich extra virgin olive oil",
+      "no significant effect"
+    ],
+    "FOOD": [
+      "extra virgin olive oil",
+      "olive oil type",
+      "refined olive oil"
+    ]
+  }
+}

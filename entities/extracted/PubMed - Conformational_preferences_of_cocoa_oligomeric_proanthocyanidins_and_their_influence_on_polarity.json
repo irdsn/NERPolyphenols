@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Conformational preferences of cocoa oligomeric proanthocyanidins and their influence on polarity.",
+  "abstract": "Proanthocyanidins (OPACs) are the second largest class of plant metabolites after lignans. Although knowledge of their 3D conformations would add greatly to our understanding of their biological properties, very little has been published on the conformations of OPACs with a degree of polymerization (DP) above 4. We investigated the conformations of the linear epicatechin oligomers, prominent representatives of OPACs prevalent in apples and cocoa, where the epicatechin units are interconnected through the 4\u03b2-8 bonds. For DP-2 to DP-10 oligomers, conformational preferences reflected in the arrangement of consecutive flavan-3-ol units, are characterized by the \u03c6 torsion. For dimers, there are two energy wells corresponding to two preferred \u03c6 torsions, designated as compact and extended form. This behaviour is preserved in OPACs with higher DPs, but the most energetically favoured conformations are a combination of both, with compact-only or extended-only conformations being very unlikely. Thus, oligomers with DP \u2265 7 tend to assume an overall conformation approximating a spherical shape. This shape has a significant influence on the polarity of the OPAC oligomers expressed as 3D polar surface area, calculated using Spartan software for geometry-optimized 3D models, and possibly on other physicochemical properties. The results of polarity calculations provide a molecular-level rationale for the polarity-based chromatographic separation of the cocoa B-type procyanidins with DP range 4 to 10. In our experiments, using centrifugal partition chromatography (CPC) (a solvent system consisting of EtOAc-EtOH-water (6:1:5) v/v/v with aqueous phase stationary and upper phase mobile) we found that an enriched mixture of proanthocyanidins eluted first DP-1 (epicatechin) followed by consecutive elution of the DP-2 to DP-10 in the linear 4\u03b2-8 form. We demonstrated that such separation would not be possible if compact-only or extended-only conformations were present in solution. However, for the energy-favoured, spherically shaped conformations, the observed CPC elution order is fully justified.",
+  "publication_date": "2024-08-30",
+  "journal": "Journal of chromatography. A",
+  "doi": "10.1016/j.chroma.2024.465294",
+  "entities": {
+    "POLYPHENOL": [
+      "a molecular-level rationale",
+      "consecutive elution",
+      "consecutive flavan-3-ol units",
+      "epicatechin",
+      "proanthocyanidins",
+      "the cocoa b-type procyanidins",
+      "the epicatechin units",
+      "the linear epicatechin oligomers",
+      "the second largest class"
+    ],
+    "FOOD": [
+      "apples",
+      "cocoa"
+    ]
+  }
+}

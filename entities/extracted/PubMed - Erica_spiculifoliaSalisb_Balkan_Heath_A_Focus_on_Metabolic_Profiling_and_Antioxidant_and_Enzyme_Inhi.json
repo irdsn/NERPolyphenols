@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Erica spiculifoliaSalisb. (Balkan Heath): A Focus on Metabolic Profiling and Antioxidant and Enzyme Inhibitory Properties.",
+  "abstract": "Erica spiculifoliaSalisb. (formerlyBruckenthalia spiculifoliaBenth.) (Balkan heath) is renowned for its traditional usage as a diuretic, anti-inflammatory and antioxidant agent. For the first time, acylquinic acids, flavonoids and numerous proanthocyanidin oligomers were annotated/dereplicated by liquid chromatography-high-resolution mass spectrometry in methanol-aqueous extracts fromE.spiculifoliaaerial parts harvested at the early and full flowering stage. Chlorogenic acid and proanthocyanidin tetra- and trimer A, B-type together with quercitrin and (+) catechin were the predominant compounds in the semi-quantitative analysis. Neutral triterpenoids, triterpenoid acids and phytosterols were determined in apolar extracts by gas chromatography-mass spectrometry. Triterpenoid acids accounted for 80% of the total triterpenoid content, dominated by ursolic and oleanolic acid, reaching up to 32.2 and 6.1 mg/g dw, respectively. Ursa/olean-2,12-dien-28-oic acids and 3-keto-derivatives together with \u03b1-amyrin acetate as a chemotaxonomic marker, \u03b1-amyrenone, \u03b1- and \u03b2-amyrin were evaluated. Total phenolic and flavonoid contents were 83.85 \u00b1 0.89 mg gallic acid equivalents/g and 78.91 \u00b1 0.41 mg rutin equivalents/g, respectively. The extract actively scavenged DPPH and ABTS radicals (540.01 and 639.11 mg Trolox equivalents (TE)/g), possessed high potential to reduce copper and iron ions (660.32 and 869.22 mg TE/g, respectively), and demonstrated high metal chelating capacity (15.57 Ethylenediaminetetraacetic acid equivalents/g). It exhibited prominent anti-lipase (18.32 mg orlistat equivalents/g) and anti-tyrosinase (71.90 mg kojic acid equivalents/g) activity. The extract inhibited \u03b1-glucoside (1.35 mmol acarbose equivalents/g) and acetylcholinesterase (2.56 mg galanthamin equivalents/g), and had moderate effects on \u03b1-amylase, elastase, collagenase and hyaluronidase. Balkan heath could be recommended for raw material production with antioxidant and enzyme inhibitory properties.",
+  "publication_date": "2025-05-28",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14111648",
+  "entities": {
+    "FOOD": [
+      "its traditional usage"
+    ],
+    "POLYPHENOL": [
+      "0.41 mg rutin equivalents",
+      "83.85 \u00b1 0.89 mg gallic acid equivalents",
+      "flavonoids",
+      "gas chromatography-mass spectrometry",
+      "liquid chromatography-high-resolution mass spectrometry",
+      "moderate effects",
+      "numerous proanthocyanidin oligomers",
+      "total phenolic and flavonoid contents"
+    ]
+  }
+}

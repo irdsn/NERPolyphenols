@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Self-Assembly Oligomeric Anthocyanin-Based Core-Shell Structure of Nanoparticles Enhances the Delivery and Efficacy of Berberine in Osteoarthritis.",
+  "abstract": "Osteoarthritis (OA) is a degenerative joint disease that significantly contributes to functional disability, primarily due to inflammation and cell apoptosis. Berberine (BBR) has demonstrated notable anti-inflammatory and antiapoptotic effects in the treatment of OA. However, despite its promising pharmacological properties, the naturally occurring hydrophobic properties and limited solubility in water restrict the efficacy of BBR. Therefore, excipients are required to modify BBR. Oligomeric proanthocyanidins (OPAs) are dimers, trimers, and tetramers of proanthocyanidins (PAs). The unique interface properties of the OPAs underscore their potential as drug carriers. OPAs as natural carriers enhance medication effectiveness and significantly reduce the incidence of side effects. Herein, we developed natural self-assembled nanoparticles between BBR and the OPAs (BBR-OPAs NPs). By adopting the unification of medicines and excipients, the OPAs-based drug delivery system serves as an effective carrier and exerts therapeutic effects in OA treatment. The formation of BBR-OPAs NPs has been core-shell structure, as confirmed by transmission electron microscopy (TEM), 2D NOESY spectroscopy, and molecular dynamics (MD) simulation. The BBR-OPAs NPs exhibited good long-acting release capability due to their strong noncovalent interactions, making them competitive candidates for treating OA. Microcomputed tomography (micro-CT) scanning and histological evaluation further confirmed the efficacy of BBR-OPAs NPs in treating OA. In vivo assessments demonstrated that BBR-OPAs NPs inhibited inflammation and apoptosis, thereby preventing the progression of OA. Furthermore, treatment with BBR-OPAs NPs can inhibit synovial inflammation and protect chondrocytes. OPAs show broad prospects as drug delivery carriers and exhibit great potential in the treatment of OA.",
+  "publication_date": "2025-04-22",
+  "journal": "ACS biomaterials science & engineering",
+  "doi": "10.1021/acsbiomaterials.5c00037",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "cell apoptosis",
+      "inflammation",
+      "synovial inflammation"
+    ],
+    "POLYPHENOL": [
+      "an effective carrier",
+      "broad prospects",
+      "medication effectiveness",
+      "molecular dynamics (md) simulation",
+      "notable anti-inflammatory and antiapoptotic effects",
+      "oligomeric proanthocyanidins",
+      "proanthocyanidins",
+      "side effects",
+      "therapeutic effects",
+      "transmission electron microscopy"
+    ]
+  }
+}

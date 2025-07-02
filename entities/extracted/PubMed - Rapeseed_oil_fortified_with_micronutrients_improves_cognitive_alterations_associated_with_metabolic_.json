@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Rapeseed oil fortified with micronutrients improves cognitive alterations associated with metabolic syndrome.",
+  "abstract": "Metabolic syndrome represents a major risk factor for severe comorbidities such as cardiovascular diseases or diabetes. It is also associated with an increased prevalence of emotional and cognitive alterations that in turn aggravate the disease and related outcomes. Identifying therapeutic strategies able to improve those alterations is therefore a major socioeconomical and public health challenge. We previously reported that both hippocampal inflammatory processes and neuronal plasticity contribute to the development of emotional and cognitive alterations in db/db mice, an experimental model of metabolic syndrome that displays most of the classical features of the syndrome. In that context, nutritional interventions with known impact on those neurobiological processes appear as a promising alternative to limit the development of neurobiological comorbidities of metabolic syndrome. We therefore tested here whether n-3 polyunsaturated fatty acids (n-3 PUFAs) associated with a cocktail of antioxidants can protect against the development of behavioral alterations that accompany the metabolic syndrome. Thus, this study aimed: 1) to evaluate if a diet supplemented with the plant-derived n-3 PUFA \u03b1-linolenic acid (ALA) and antioxidants (provided by n-3 PUFAs-rich rapeseed oil fortified with a mix of naturally constituting antioxidant micronutrients, including coenzyme Q10, tocopherol, and the phenolic compound canolol) improved behavioral alterations in db/db mice, and 2) to decipher the biological mechanisms underlying this behavioral effect. Although the supplemented diet did not improve anxiety-like behavior and inflammatory abnormalities, it reversed hippocampus-dependent spatial memory deficits displayed by db/db mice in a water maze task. It concomitantly changed subunit composition of glutamatergic AMPA and NMDA receptors in the hippocampus that has been shown to modulate synaptic function related to spatial memory. These data suggest that changes in local neuronal plasticity may underlie cognitive improvements in db/db mice fed the supplemented diet. The current findings might therefore provide valuable data for introducing new nutritional strategies for the treatment of behavioral complications associated with MetS.",
+  "publication_date": "2019-11-12",
+  "journal": "Brain, behavior, and immunity",
+  "doi": "10.1016/j.bbi.2019.11.002",
+  "entities": {
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "the metabolic syndrome"
+    ],
+    "POLYPHENOL": [
+      "a major socioeconomical and public health challenge",
+      "nmda receptors",
+      "the biological mechanisms",
+      "the phenolic compound canolol",
+      "this behavioral effect"
+    ]
+  }
+}

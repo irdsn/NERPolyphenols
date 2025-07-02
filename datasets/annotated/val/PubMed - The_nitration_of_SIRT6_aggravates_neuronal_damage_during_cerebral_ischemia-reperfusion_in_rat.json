@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "The nitration of SIRT6 aggravates neuronal damage during cerebral ischemia-reperfusion in rat.",
+  "abstract": "Ischemic stroke is a major cause of death and disability. The activation of neuronal nitric oxide synthase (nNOS) and the resulting production of nitric oxide (NO) via NMDA receptor-mediated calcium influx play an exacerbating role in cerebral ischemia reperfusion injury. The NO rapidly reacts with superoxide (O2-) to form peroxynitrite (ONOO-), a toxic molecule may modify proteins through tyrosine residue nitration, ultimately worsening neuronal damage. SIRT6 has been proven to be crucial in regulating cell proliferation, death, and aging in various pathological settings. We have previous reported that human SIRT6 tyrosine nitration decreased its intrinsic catalytic activity in vitro. However, the exact role of SIRT6 function in the process of cerebral ischemia reperfusion injury is not yet fully elucidated. Herein, we demonstrated that an increase in the nitration of SIRT6 led to reduce its enzymatic activity and aggravated hippocampal neuronal damage in a rat model of four-artery cerebral ischemia reperfusion. In addition, reducing SIRT6 nitration resulted in increase the activity of SIRT6, alleviating hippocampal neuronal damage. Moreover, SIRT6 nitration affected its downstream molecule activity such as PARP1 and GCN5, promoting the process of neuronal ischemic injury in rat hippocampus. Additionally, treatment with NMDA receptor antagonist MK801, or nNOS inhibitor 7-NI, and resveratrol (an antioxidant) diminished SIRT6 nitration and the catalytic activity of downstream molecules like PARP1 and GCN5, thereby reducing neuronal damage. Finally, in the biochemical regulation of SIRT6 activity, tyrosine 257 was essential for its activity and susceptibility to nitration. Replacing tyrosine 257 with phenylalanine in rat SIRT6 attenuated the death of SH-SY5Y neurocytes under oxygen-glucose deprivation (OGD) conditions. These results may offer further understanding of SIRT6 function in the pathogenesis of cerebral ischemic diseases.",
+  "publication_date": "2024-10-05",
+  "journal": "Nitric oxide : biology and chemistry",
+  "doi": "10.1016/j.niox.2024.10.004",
+  "entities": {
+    "POLYPHENOL": [
+      "a toxic molecule",
+      "downstream molecules",
+      "its downstream molecule activity",
+      "nmda receptor-mediated calcium influx",
+      "treatment with nmda receptor antagonist mk801"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Investigating the release of the bioactive components of novel nutraceuticals combining potentially probiotic Limosilactobacillus fermentum and freeze-dried jabuticaba peel during gastrointestinal digestion for long-term storage.",
+  "abstract": "This study investigated the release of bioactive components from novel nutraceuticals that combine potentially probiotic Limosilactobacillus fermentum and freeze-dried jabuticaba peel during gastrointestinal digestion for long-term storage. The bioaccessibility of phenolic compounds, antioxidant capacity, cell viability, and physiological status of L. fermentum in two nutraceuticals [mix of potentially probiotic L. fermentum\u2009+\u2009freeze-dried jabuticaba peel (FJP), termed JM); mix of potentially probiotic L. fermentum\u2009+\u2009FJP\u2009+\u2009fructooligosaccharides (FOS), termed JFM)] were assessed when exposed to a standardized simulated gastrointestinal digestion (SGD) during 90\u00a0days of storage (4\u2009\u00b1\u20090.5\u00a0\u00b0C, 11% relative humidity). JFM showed the highest viable cell counts of L. fermentum (3.76\u2009\u00b1\u20090.18-5.12\u2009\u00b1\u20090.12 log CFU/mL) after exposure to SGD during 90\u00a0days of storage. JFM presented the largest subpopulation of L. fermentum live cells (29.1\u2009\u00b1\u20090.66%) and the smallest subpopulation of L. fermentum dead cells (5.8\u2009\u00b1\u20090.48%) during SGD. The bioaccessibility of anthocyanins in JM and JFM was greater after gastric exposure, while the bioaccessibility of ellagic acid was greater after ileal exposure. The antioxidant capacity of JM and JFM was reduced during SGD and storage, likely due to the degradation of bioactive components. JM and JFM released metabolically active L. fermentum cells and bioaccessible phenolic compounds along the SGD. FOS could have led to JFM performing better overall than JM in the measured variables. The results demonstrate the efficacy of JM and JFM in maintaining their bioactive functionalities during gastrointestinal digestion, allowing them to reach the colonic environment, where they can induce changes in the intestinal microbiota and induce systemic beneficial health effects.",
+  "publication_date": "2025-06-03",
+  "journal": "Probiotics and antimicrobial proteins",
+  "doi": "10.1007/s12602-025-10614-2",
+  "entities": {
+    "POLYPHENOL": [
+      "bioaccessible phenolic compounds",
+      "ellagic acid",
+      "phenolic compounds",
+      "systemic beneficial health effects"
+    ]
+  }
+}

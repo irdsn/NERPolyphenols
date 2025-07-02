@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Antilisterial activity of tannin rich preparations isolated from raspberry (Rubus Idaeus L.) and strawberry (Fragaria X Ananassa Duch.) fruit.",
+  "abstract": "The tannin rich preparations isolated from red raspberry (Rubus idaeus L.) and strawberry (Fragaria x ananassa Duch.) fruits were evaluated for their polyphenol composition and antimicrobial activity against six strains of Listeria monocytogenes, sourced from the ATCC collection. The preparations were obtained using solvent extraction with a water-acetone solution, followed by purification using Amberlite XAD 1600 resin. The resulting products, RTRP (raspberry tannin rich preparation) and STRP (strawberry tannin rich preparation), were characterized by their content of ellagitannins, proanthocyanidins, and anthocyanins. Polyphenol content was determined using HPLC-FD and UHPLC-DAD-MS with QExactive mass spectrometer. The antagonistic activity of the preparations against Listeria spp. strains was assessed using the disk diffusion method, and minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) values were determined by dilution techniques. The RTRP and STRP exhibited tannin contents of 74\u00a0g/100\u00a0g and 47\u00a0g/100\u00a0g, respectively. In the raspberry preparation, ellagitannins were dominant, while in the strawberry preparation, ellagitannins and proanthocyanidins were present at similar levels. In the general antagonism test at a concentration of 60\u00a0mg/mL, inhibition zones for L. monocytogenes ranged from 10.0 to 24.5\u00a0mm. The MIC values for the preparations ranged from 1.563 to 25\u00a0mg/mL, varying depending on the tested strains. Based on MIC and MBC, L. monocytogenes ATCC 19,111 was the most sensitive to the preparations, whereas ATCC 15,313 exhibited the greatest resistance. Despite their different tannin profiles, the preparations generally did not show statistically significant differences in their antilisterial activity. The results indicate that the tannin rich preparations from red raspberry and strawberry fruits exhibit moderate antilisterial activity, dependent on the sensitivity of the specific L. monocytogenes strain tested.",
+  "publication_date": "2025-03-25",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-94731-6",
+  "entities": {
+    "POLYPHENOL": [
+      "dilution techniques",
+      "ellagitannins",
+      "polyphenol content",
+      "proanthocyanidins",
+      "qexactive mass spectrometer",
+      "tannin",
+      "tannin contents",
+      "tannin rich preparation",
+      "the atcc collection",
+      "the specific l. monocytogenes",
+      "the tannin rich preparations",
+      "their different tannin profiles",
+      "their polyphenol composition"
+    ],
+    "FOOD": [
+      "red raspberry",
+      "the raspberry preparation",
+      "the strawberry preparation"
+    ]
+  }
+}

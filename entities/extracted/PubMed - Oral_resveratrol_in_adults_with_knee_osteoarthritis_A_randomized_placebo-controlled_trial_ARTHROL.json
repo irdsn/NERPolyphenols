@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Oral resveratrol in adults with knee osteoarthritis: A randomized placebo-controlled trial (ARTHROL).",
+  "abstract": "Resveratrol is a natural compound found in red wine. It has demonstrated anti-inflammatory properties in preclinical models. We compared the effect of oral resveratrol in a new patented formulation to oral placebo for individuals with painful knee osteoarthritis.",
+  "publication_date": "2024-08-13",
+  "journal": "PLoS medicine",
+  "doi": "10.1371/journal.pmed.1004440",
+  "entities": {
+    "POLYPHENOL": [
+      "oral resveratrol",
+      "preclinical models",
+      "resveratrol",
+      "the effect"
+    ],
+    "FOOD": [
+      "red wine"
+    ],
+    "SYMPTOM": [
+      "painful knee osteoarthritis"
+    ]
+  }
+}

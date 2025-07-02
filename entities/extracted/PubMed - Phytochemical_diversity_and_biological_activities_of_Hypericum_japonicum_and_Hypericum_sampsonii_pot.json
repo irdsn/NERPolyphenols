@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Phytochemical diversity and biological activities of Hypericum japonicum and Hypericum sampsonii: potential for natural product-based food applications.",
+  "abstract": "This study characterizes two species of the genus Hypericum to envisage their applicability as effective and versatile functional foods, dietary supplements, and food preservatives. A wide phenolic composition was found in both extracts, highlighting flanovoids for H. japonicum and xanthones for H. sampsonii. Moreover, anthocyanins were analyzed for the first time in the latter plant. Antioxidant capacity was highlighted by oxidative hemolysis inhibition assay (OxHLIA), where H. japonicum was more effective (lower EC50) than antioxidant Trolox (16.3\u00a0<\u00a021.8\u00a0\u03bcg/mL). H. sampsonii extract inhibited lipid peroxidation in the thiobarbituric acid reactive substances (TBARS) method (EC50=\u00a017.05\u00a0\u03bcg/mL) compared to Trolox (EC50=\u00a05.8\u00a0\u03bcg/mL). H. japonicum antibacterial activity showed a minimum inhibitory concentration (MIC) of 0.007\u00a0mg/mL, even lower than the control. These results indicate the bioactive potential of both extracts, as well as the importance of evaluating the food-related bioactive components of medicinal plants and the mechanisms involved in their bioactivities.",
+  "publication_date": "2025-04-15",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144355",
+  "entities": {
+    "POLYPHENOL": [
+      "ec50=\u00a05.8\u00a0\u03bcg/ml",
+      "effective and versatile functional foods",
+      "more effective (lower ec50",
+      "the mechanisms",
+      "two species"
+    ]
+  }
+}

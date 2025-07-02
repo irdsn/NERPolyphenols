@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Encapsulation of Lactiplantibacillus plantarum in a sodium alginate/pectin/tea polyphenol complex: Enhancing stability and bioactivity for fermented milk products.",
+  "abstract": "In this study, Lactiplantibacillus plantarum LPP95, a potential probiotic, was encapsulated in a sodium alginate/pectin/tea polyphenol (SA/PE/TP) complex, and its physicochemical properties, bioactivity, stability, and application potential were investigated. The results showed that tea polyphenol (TP) enriched encapsulated beads (SA/PE/TP/LP) achieved high encapsulation efficiency (96.51\u00a0%) without compromising their mechanical properties and stability. The bioactivity analysis revealed that the SA/PE/TP/LP encapsulated beads, formed through TP hydrogen bonding, exhibited good biosafety and a high DPPH radical scavenging rate. Furthermore, adding TP enhanced the enteric dissolution rate and increased the viable counts of L. plantarum with respect to in vitro digestion conditions, bile salt tolerance and refrigerated storage, compared with free-LP. When applied to fermented yogurt, SA/PE/TP/LP significantly reduced pH changes, and improved the sensory, gel structure, and rheological properties of the dairy product. These findings suggest a promising approach to preserving highly active probiotics by adding polyphenols, potentially improving yogurt quality.",
+  "publication_date": "2025-05-21",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144851",
+  "entities": {
+    "POLYPHENOL": [
+      "a sodium alginate/pectin/tea polyphenol",
+      "polyphenols",
+      "respect",
+      "tea polyphenol",
+      "their mechanical properties"
+    ]
+  }
+}

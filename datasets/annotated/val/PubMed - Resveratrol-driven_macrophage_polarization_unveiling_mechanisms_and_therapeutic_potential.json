@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Resveratrol-driven macrophage polarization: unveiling mechanisms and therapeutic potential.",
+  "abstract": "Resveratrol, a polyphenolic compound known for its diverse biological activities, has demonstrated multiple pharmacological effects, including anti-inflammatory, anti-aging, anti-diabetic, anti-cancer, and cardiovascular protective properties. Recent studies suggest that these effects are partly mediated through the regulation of macrophage polarization, wherein macrophages differentiate into pro-inflammatory M1 or anti-inflammatory M2 phenotypes. Our review highlights how resveratrol modulates macrophage polarization through various signaling pathways to achieve therapeutic effects. For example, resveratrol can activate the senescence-associated secretory phenotype (SASP) pathway and inhibit the signal transducer and activator of transcription (STAT3) and sphingosine-1-phosphate (S1P)-YAP signaling axes, promoting M1 polarization or suppressing M2 polarization, thereby inhibiting tumor growth. Conversely, it can promote M2 polarization or suppress M1 polarization by inhibiting the NF-\u03baB signaling pathway or activating the PI3K/Akt and AMP-activated protein kinase (AMPK) pathways, thus alleviating inflammatory responses. Notably, the effect of resveratrol on macrophage polarization is concentration-dependent; moderate concentrations tend to promote M1 polarization, while higher concentrations may favor M2 polarization. This concentration dependence offers new perspectives for clinical treatment but also underscores the necessity for precise dosage control when using resveratrol. In summary, resveratrol exhibits significant potential in regulating macrophage polarization and treating related diseases.",
+  "publication_date": "2025-01-13",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2024.1516609",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenolic compound",
+      "cardiovascular protective properties",
+      "multiple pharmacological effects",
+      "new perspectives",
+      "precise dosage control",
+      "recent studies",
+      "resveratrol",
+      "the effect",
+      "the necessity",
+      "the senescence-associated secretory phenotype (sasp) pathway",
+      "therapeutic effects",
+      "these effects"
+    ],
+    "SYMPTOM": [
+      "cancer",
+      "tumor growth"
+    ]
+  }
+}

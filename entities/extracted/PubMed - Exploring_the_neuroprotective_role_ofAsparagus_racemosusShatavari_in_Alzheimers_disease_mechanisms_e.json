@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Exploring the neuroprotective role ofAsparagus racemosus(Shatavari) in Alzheimer's disease: mechanisms, evidence, and future directions.",
+  "abstract": "Alzheimer's disease (AD), a progressive neurodegenerative disease, is characterized by cognitive decline, memory loss, and pathological features such as amyloid-beta plaques, tau hyperphosphorylation, oxidative stress, and neuroinflammation. Current therapies do not adequately address the disease's fundamental causes, even while they provide symptomatic relief.Asparagus racemosus(Shatavari), a traditional Ayurvedic medicinal herb, has drawn interest for its neuroprotective potential in the hunt for safer and multi-targeted substitutes. It is abundant with various bioactive components, such as alkaloids, flavonoids, and steroidal saponins (shatavarins);A. racemosushas adaptogenic, anti-inflammatory, and antioxidant properties. By lowering oxidative stress, regulating neuroinflammation, and preventing the development of amyloid-beta, these may mitigate the pathophysiology of AD. In addition, preclinical research indicates that it maintains neuronal integrity, encourages neurogenesis, and increases acetylcholine levels by inhibiting cholinesterase. Moreover, via controlling the hypothalamic-pituitary-adrenal (HPA) axis, its adaptogenic actions may lessen stress-induced neurotoxicity. Preclinical evidence is encouraging, but there are still important limits. There are few human clinical trials available, and there are still unanswered questions about extract standardization, bioavailability, and long-term safety. Moreover, thorough mechanistic research is required to elucidate its therapeutic targets and interactions due to the intricacy of its phytochemical makeup. To improve effectiveness and bioavailability, future studies should focus on creating standardized formulations, including cutting-edge delivery methods like nanoformulations. To confirm its therapeutic potential and safety profile in AD patients, extensive, rigorous clinical studies are necessary. By addressing these issues,Asparagus racemosusmay be positioned as a viable alternative or adjuvant in the treatment of AD.",
+  "publication_date": "2025-05-30",
+  "journal": "3 Biotech",
+  "doi": "10.1007/s13205-025-04355-w",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "neuroinflammation",
+      "oxidative stress",
+      "stress-induced neurotoxicity"
+    ],
+    "POLYPHENOL": [
+      "cognitive decline",
+      "effectiveness",
+      "flavonoids",
+      "its neuroprotective potential",
+      "preclinical evidence",
+      "preclinical research",
+      "thorough mechanistic research"
+    ],
+    "FOOD": [
+      "asparagus racemosus(shatavari",
+      "asparagus racemosusmay"
+    ]
+  }
+}

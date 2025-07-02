@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Effect of Ultra-High Pressure Homogenisation (UHPH) on the Co-Inoculation ofLachancea thermotoleransandMetschnikowia pulcherrimain Tempranillo Must.",
+  "abstract": "The utilisation of non-Saccharomycesyeasts in co-inoculation and non-thermal technologies for must sterilisation is becoming increasingly prevalent due to their notable utility and potential. This new approach optimises the fermentation process and contributes to facilitating the production of wines with distinctive characteristics, improving their stability, and without organoleptic repercussions. Two trials were conducted concurrently, designated as A and B, using the same Tempranillo red must. In each trial, UHPH-treated and untreated must (serving as the control) were compared. The non-Saccharomycesyeasts (Lachancea thermotoleransandMetschnikowia pulcherrima) were identical in both trials, and fermentations were terminated by aSaccharomyces cerevisiaeinoculated after 7 days (ternary fermentation). In Trial A, different percentages of the initial inoculum were employed with respect to the total volume that must be fermented, with the objective of evaluating the influence and competitiveness between yeasts. Trial B was designed to investigate the impact of two nutrients that provide vitamins, energy, and protection from oxidative stress on the development of these yeasts and their metabolic expression. Microbiological analysis and measurements of oenological parameters were carried out, acidification was assessed, volatile compounds were analysed, and the colour spectrum was measured by spectrophotometry. It was observed in both trials that the prevalence ofLachancea thermotolerans(Lt) was longer than that ofMetschnikowia pulcherrima(Mp) and that the use of quercetin + thiamine had a positive effect on yeast growth. Furthermore, the combination of Lt and Mp yeasts demonstrated remarkable synergy, resulting in the production of a substantial quantity of lactic acid (>5 g/L). With regard to aroma compounds, the UHPH must have exhibited a nearly twofold increase in ethyl lactate. Additionally, the total polyphenol index (TPI) was observed to be 8-10% higher in wines derived from UHPH musts, indicating that this technology may potentially safeguard against oxidation.",
+  "publication_date": "2024-11-24",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom14121498",
+  "entities": {
+    "POLYPHENOL": [
+      "a positive effect",
+      "inoculation and non-thermal technologies",
+      "protection",
+      "quercetin",
+      "respect",
+      "spectrophotometry",
+      "the colour spectrum",
+      "the objective",
+      "the total polyphenol index",
+      "this technology"
+    ],
+    "FOOD": [
+      "wines"
+    ],
+    "SYMPTOM": [
+      "oxidative stress"
+    ]
+  }
+}

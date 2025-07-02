@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "The Impact of Cold Plasma and Plasma-Activated Water on Germination of Grains and Legumes for Enhanced Nutritional Value.",
+  "abstract": "Sprouts are valued for their rich nutritional profile, fresh taste, and ease of production. As consumer demand for healthier foods increases, innovative methods are needed to enhance sprout quality. Cold Plasma (CP) and Plasma-Activated Water (PAW) have emerged as promising, sustainable technologies in agriculture, particularly for improving seed germination and plant growth.",
+  "publication_date": "2025-04-08",
+  "journal": "Current nutrition reports",
+  "doi": "10.1007/s13668-025-00643-2",
+  "entities": {
+    "POLYPHENOL": [
+      "promising, sustainable technologies"
+    ]
+  }
+}

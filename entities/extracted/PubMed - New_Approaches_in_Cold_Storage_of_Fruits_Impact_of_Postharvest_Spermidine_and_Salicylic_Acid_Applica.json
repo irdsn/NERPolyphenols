@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "New Approaches in Cold Storage of Fruits: Impact of Postharvest Spermidine and Salicylic Acid Applications on Phenolic Compounds and Quality Characteristics of Raspberry Fruits.",
+  "abstract": "In this study, raspberry fruits were treated with spermidine, salicylic acid, and spermidine + salicylic acid before storage, and the fruits were stored for 5, 10, and 15\u2009days. As a result of the study, increases in weight loss, pH, decay, and respiration rates, and decreases in soluble solid content (SSC) were determined in the control group fruits at different storage periods according to different spermidine and salicylic acid treatments. In terms of TA, significantly lower values (5\u2009days, spermidine: 0.91%, spermidine + salicylic acid: 0.90%; 15\u2009days, spermidine + salicylic acid: 0.68%) were found in fruits in which spermidine was used, and higher TA values (10\u2009days, salicylic acid: 0.85%; 15\u2009days, salicylic acid: 0.78%) were found in fruits in which salicylic acid was used. In terms of biochemical parameters, it was observed that phenolic compounds were more preserved in 1.0\u2009mM spermidine + salicylic acid-treated fruits, and organic acids were more preserved in both 1.0\u2009mM spermidine and spermidine + salicylic acid-treated fruits. Vitamin C was better preserved in all treated fruits compared to control fruits. In addition, the dominant organic acid in raspberry fruits was citric acid, followed by malic acid and vitamin C, respectively (citric acid, malic acid and vitamin C contents at the end of 15\u2009days: 703.45\u2009mg 100\u2009g-1, 134.81\u2009mg 100\u2009g-1and 16.13\u2009mg 100\u2009g-1, respectively). The most abundant phenolic compound in fruits was catechin, followed by rutin and chlorogenic acid (catechin, rutin and chlorogenic acid contents at the end of 15\u2009days: 35.86\u2009mg 100\u2009g-1, 12.34\u2009mg 100\u2009g-1and 4.58\u2009mg 100\u2009g-1, respectively). The study concluded that the exogenous application of 1.0\u2009mM spermidine + salicylic acid can be used as a post-harvest tool to maintain the quality characteristics and storage life of raspberry fruit.",
+  "publication_date": "2025-06-05",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70389",
+  "entities": {
+    "FOOD": [
+      "raspberry fruit",
+      "raspberry fruits"
+    ],
+    "POLYPHENOL": [
+      "1.0\u2009mm spermidine + salicylic acid",
+      "1.0\u2009mm spermidine + salicylic acid-treated fruits",
+      "15\u2009days, spermidine + salicylic acid",
+      "both 1.0\u2009mm spermidine and spermidine + salicylic acid-treated fruits",
+      "catechin, rutin and chlorogenic acid contents",
+      "decay",
+      "decreases",
+      "different spermidine and salicylic acid treatments",
+      "phenolic compounds",
+      "rutin and chlorogenic acid",
+      "salicylic acid",
+      "spermidine + salicylic acid",
+      "the most abundant phenolic compound"
+    ]
+  }
+}

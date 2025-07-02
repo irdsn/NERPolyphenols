@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Intra-nasal Delivery of Quercetin-Loaded Nanostructured Lipid Carriers (NLCs) in the Management of Alzheimer's Disease: Formulation, In Vitro and In Vivo assessment.",
+  "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterised by dementia and neuronal damage. AD is a multifactorial disease, and the established treatments provide symptomatic relief and fail to address the underlying causes. The prior reports suggested that quercetin possesses potent anti-amyloidogenic properties. Quercetin's therapeutic potential is limited by poor solubility, lower bioavailability, and restricted permeation into the brain. In the current investigation, quercetin-loaded nanostructured lipid carriers (QC-NLCs) were prepared using an emulsification method using lecithin, sunflower oil, and cremophor RH 80. The key parameters, such as particle size and zeta potential, which influence the neuronal cell uptake and brain target, were measured, and physicochemical properties were determined. The QC-NLCS exhibited a particle size of\u2009~\u200989.68\u2009\u00b1\u20095.16\u00a0nm, a polydispersity index (PDI) of\u2009~\u20090.313\u2009\u00b1\u20090.01, a zeta potential of\u2009-\u200929.5\u2009\u00b1\u20094.8\u00a0mV, and 91.4\u2009\u00b1\u20092.1% entrapment efficiency. FT-IR, DSC, XRD, and TEM analysis confirmed the successful formation of QC-NLCs. Further, in vitro studies demonstrated the efficacy of QC-NLCS on cellular uptake, inhibition of A\u03b2 accumulation, and BBB permeability. The comparative results of pharmacodynamic analysis involved behavioural assessment, which suggested improved cognition and spatial learning by QC-NLCS on STZ-treated rats. In vivo studies revealed a significant augmentation in SOD, GSH, total antioxidant, and anti-inflammatory cytokine levels, along with significant declination in MDA, AChE, A\u03b2 accumulation, and pro-inflammatory cytokine levels after treatment with QC-NLCs. From the observations of the present study, QC-NLCs may offer an alternative targeted drug delivery system for addressing the pathological hallmarks associated with AD.",
+  "publication_date": "2025-06-10",
+  "journal": "Molecular neurobiology",
+  "doi": "10.1007/s12035-025-05137-4",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "dementia"
+    ],
+    "POLYPHENOL": [
+      "quercetin",
+      "quercetin's therapeutic potential",
+      "quercetin-loaded nanostructured lipid carriers",
+      "significant declination"
+    ],
+    "FOOD": [
+      "sunflower oil"
+    ]
+  }
+}

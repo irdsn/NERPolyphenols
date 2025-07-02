@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Effects of resveratrol on changes in trimethylamine-N-oxide and circulating cardiovascular factors following exercise training among older adults.",
+  "abstract": "Trimethylamine-N-oxide (TMAO) is a gut-derived metabolite associated with cardiovascular disease (CVD). In preclinical and observational studies, resveratrol and exercise training have been suggested as potential strategies to reduce the systemic levels of TMAO. However, evidence from experimental studies in humans remains unknown. This project examined the dose-dependent effects of a combined resveratrol intervention with exercise training on circulating TMAO and other related metabolite signatures in older adults with high CVD risk.",
+  "publication_date": "2024-06-19",
+  "journal": "Experimental gerontology",
+  "doi": "10.1016/j.exger.2024.112479",
+  "entities": {
+    "POLYPHENOL": [
+      "a combined resveratrol intervention",
+      "preclinical and observational studies",
+      "the dose-dependent effects",
+      "this project"
+    ]
+  }
+}

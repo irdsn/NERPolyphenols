@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "[Inhibition Effect of Resveratrol on Spontaneous Senescence of Human Bone Marrow Derived Mesenchymal Stem Cells].",
+  "abstract": "To explore whether Resveratrol (RSV) can inhibit the spontaneous senescence of human bone marrow-derived mesenchymal stem cells (MSC).",
+  "publication_date": "2024-08-01",
+  "journal": "Zhongguo shi yan xue ye xue za zhi",
+  "doi": "10.19746/j.cnki.issn.1009-2137.2024.04.039",
+  "entities": {
+    "POLYPHENOL": [
+      "resveratrol"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "In Vitro Antibacterial Potential of Herbal Beverage Extracts From Cinnamon, Clove, and Thyme and Their Interactive Antimicrobial Profile With Selected Antibiotics Against Drug-Resistant Clinical Pathogens.",
+  "abstract": "The increase in antibiotic resistance has increased the demand for new and safe therapeutic options. Herbal beverages, whether used alone or combined with standard antibiotics, have shown promise in combating drug-resistant bacteria. This study investigated the antibacterial activity and combinatorial efficacy of common herbal beverages prepared from clove, cinnamon, and thyme. The inhibitory and cidal effects were examined using MIC and MBC on a panel of 14 multidrug-resistant strains and clinical isolates (resistant to ciprofloxacin (CIP), tetracycline (TET), and erythromycin (ERY)), includingStaphylococcus aureus,SalmonellaandShigellaspecies,Escherichia coli, andPseudomonas aeruginosa. The combinatorial efficacy was further evaluated using a fractional inhibitory concentration index (FICi). Qualitative phytochemical screening of the plant extracts followed established protocols. The tested botanicals showed inhibitory effects against all 14 tested bacteria, with varying degrees of potency (MICs ranged from 13.33\u2009\u00b1\u20092.67 to 1024\u2009\u00b1\u20090.00\u2009\u03bcg/mL). The aqueous and hydroethanolic extracts of clove demonstrated the highest activity, with most MIC values ranging from 13.33\u2009\u00b1\u20092.67 to 256\u2009\u00b1\u20090.00\u2009\u03bcg/mL, indicating excellent to good efficacy. When combined with TET, CIP, and ERY, clove extracts exhibited significant synergistic and additive interactions, leading to more than a 100-fold reduction in the MICs of the antibiotics in some cases. The most notable synergistic interactions were observed with the combination of clove hydroethanol extract with TET (FICi\u2009=\u20090.078\u2009\u00b1\u20090.016) againstP. aeruginosa. The findings indicate possible optimization of antibiotic treatment strategies using these combinations, which may help mitigate antibiotic resistance and improve patient outcomes. However, an antagonistic effect was observed with the clove aqueous extract and CIP onS. aureus, which may require further evaluation. Phytochemical analysis revealed the presence of several major bioactive secondary metabolites, including phenols, flavonoids, tannins, anthocyanins, saponins, and alkaloids. Overall, the tested botanicals, particularly clove, demonstrate considerable potential in fighting drug-resistant bacteria, either through direct action or by enhancing the effectiveness of existing antibiotics. Further, in vivo testing and investigation of the mechanisms behind the active combinations are recommended to assess their overall efficacy.",
+  "publication_date": "2025-05-20",
+  "journal": "Journal of tropical medicine",
+  "doi": "10.1155/jotm/9916282",
+  "entities": {
+    "FOOD": [
+      "the plant extracts",
+      "thyme"
+    ],
+    "POLYPHENOL": [
+      "an antagonistic effect",
+      "direct action",
+      "flavonoids",
+      "inhibitory effects",
+      "salmonellaandshigellaspecies",
+      "several major bioactive secondary metabolites",
+      "tannins",
+      "the effectiveness",
+      "the inhibitory and cidal effects",
+      "the mechanisms"
+    ]
+  }
+}

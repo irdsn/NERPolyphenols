@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Olive oil consumption and risk of breast cancer: Prospective results from the Moli-sani Study, and a systematic review of observational studies and randomized clinical trials.",
+  "abstract": "Breast cancer (BC) is the leading cause of cancer-related death among women worldwide. Olive oil, rich in monounsaturated fats and polyphenols, has been linked to a reduced BC risk, but epidemiological evidence remains limited. This study examined the association between olive oil consumption and BC risk in a large cohort of adult Italian women and conducted a systematic review on this association.",
+  "publication_date": "2025-05-24",
+  "journal": "European journal of cancer (Oxford, England : 1990)",
+  "doi": "10.1016/j.ejca.2025.115520",
+  "entities": {
+    "SYMPTOM": [
+      "breast cancer",
+      "cancer-related death"
+    ],
+    "FOOD": [
+      "olive oil",
+      "olive oil consumption"
+    ],
+    "POLYPHENOL": [
+      "polyphenols"
+    ]
+  }
+}

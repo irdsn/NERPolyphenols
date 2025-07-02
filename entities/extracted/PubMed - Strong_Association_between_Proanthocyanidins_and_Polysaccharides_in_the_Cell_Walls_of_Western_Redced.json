@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Strong Association between Proanthocyanidins and Polysaccharides in the Cell Walls of Western Redcedar Bark.",
+  "abstract": "The co-occurrence of polysaccharides and proanthocyanidins in the aqueous extracts of western redcedar (Thuja plicataDonn; WRC) bark limits their commercial utilization. To better understand their association, proanthocyanidins and polysaccharides were extracted with cold water (3.4% w/w bark) and isolated as an alcohol-insoluble residue (AIR, 1.0% w/w bark). The polysaccharide content (\u223c30% w/w AIR) was analyzed by acidic and enzymatic depolymerization, revealing the presence of pectins, xyloglucans, and xylans. NMR spectroscopy identified features, such as acetylation and methyl esterification. Thiolysis followed by HPLC-DAD revealed that proanthocyanidins (1.46% w/w AIR) exhibit a mean degree of polymerization of 5.3, acis/transratio of 0.40, and a procyanidin/prodelphinidin ratio of 3.90. This study provides a detailed structural characterization of proanthocyanidins and polysaccharides in the AIR of WRC bark. The findings highlight their strong association, which may contribute to distinctive properties that warrant further exploration, particularly in efforts to valorize bark residues.",
+  "publication_date": "2025-05-06",
+  "journal": "Biomacromolecules",
+  "doi": "10.1021/acs.biomac.5c00271",
+  "entities": {
+    "POLYPHENOL": [
+      "a procyanidin/prodelphinidin ratio",
+      "nmr spectroscopy",
+      "pectins",
+      "proanthocyanidins"
+    ]
+  }
+}

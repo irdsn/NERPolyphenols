@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Phytohormone and Amino Acid Changes in Cherry Radish as Metabolic Adaptive Response to Arsenic Single and Multi-Contamination.",
+  "abstract": "This study investigated the metabolic adaptive responses to As contamination and As co-contamination with cadmium, lead, and zinc in the leaves and tubers of cherry radish (Raphanus sativusvar.sativusPers.). The response was assessed by measuring malondialdehyde levels, total phenolic content (TPC), total anthocyanin pigment (TAC), growth and stress phytohormone concentration, and free amino acid content. The characteristic As accumulation of single contamination resulted in a decrease in tuber growth. However, in the case of co-contamination, As uptake was influenced by the presence of other potentially toxic elements (PTEs), mainly zinc, with no significant effect on growth. Both contaminated treatments exhibited significant differences in metabolite levels among the organs, along with notable changes in their contents. Increases in malondialdehyde, TPC, and TAC indicated induced oxidative stress and an antioxidant response that was more pronounced by As co-contamination. Also, the results for phytohormones, which showed both increases and decreases, along with selected free amino acids (which showed increases), demonstrated a more significant influence of As co-contamination. Based on these findings, it can be concluded that the response of cherry radish to contaminated treatments exhibited significant differences in the studied parameters, along with variability in the results, reflecting the extent of the effects of PTEs that induce oxidative stress.",
+  "publication_date": "2025-03-08",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom15030390",
+  "entities": {
+    "SYMPTOM": [
+      "growth and stress phytohormone concentration",
+      "induced oxidative stress",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "a decrease",
+      "decreases",
+      "no significant effect",
+      "selected free amino acids",
+      "the effects"
+    ],
+    "FOOD": [
+      "cherry"
+    ]
+  }
+}

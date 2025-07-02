@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Polymethoxyflavones extracted fromBauhinia championiialleviate LPS-induced acute lung injury by ameliorating endoplasmic reticulum stress.",
+  "abstract": "Acute lung injury (ALI), a critical respiratory condition, often escalates into acute respiratory distress syndrome, which is associated with significant morbidity and mortality.Bauhinia championii, a botanical drug used in traditional Chinese medicine, is reputed for its antioxidative and anti-hypoxia effects. However, the active metabolites withinB. championiiand their mechanisms of action in alleviating ALI remain to be elucidated.",
+  "publication_date": "2025-06-11",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1544916",
+  "entities": {
+    "SYMPTOM": [
+      "acute respiratory distress syndrome"
+    ],
+    "POLYPHENOL": [
+      "its antioxidative and anti-hypoxia effects",
+      "their mechanisms"
+    ]
+  }
+}

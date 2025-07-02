@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Comprehensive genome-wide analysis and functional characterization of the DIR gene family in Herpetospermum pedunculosum: insights from HpDIR16 and HpDIR17.",
+  "abstract": "Dirigent (DIR) proteins serve as key regulators of lignan biosynthesis in plants and play crucial roles in mediating response to abiotic stresses. Herpetospermum pedunculosum, a herbaceous plant native to high-altitude regions, synthesizes lignans with significant medicinal value, and its mature dried seeds are widely used as a primary source for various therapeutic compounds. Despite its importance, the DIR gene family in H. pedunculosum has not been systematically characterized. In this study, we identified twenty-two HpDIR genes and classified them into three subfamilies (a, b/d, and e). Expression analyses revealed that most HpDIR genes are broadly involved hormonal regulation, stress responses, and developmental processes. Notably, under salt stress conditions, the expression levels of HpDIR16 and HpDIR17 increased progressively to significant levels. To further elucidate their roles in salt stress tolerance, we employed a CGMMV-based virus-induced gene silencing (VIGS) approach, which confirmed that both genes positively contribute to the salt stress response. Moreover, enzymatic assays demonstrated that the HpDIR16 and HpDIR17 proteins catalyze the conversion of coniferyl alcohol to (+)-pinoresinol with marked stereoselectivity. Collectively, these findings not only highlight the pivotal role of DIR proteins in lignans biosynthesis and salt stress response in H. pedunculosum but also provide novel insights into the evolutionary dynamics of the DIR gene family.",
+  "publication_date": "2025-05-24",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.110074",
+  "entities": {
+    "SYMPTOM": [
+      "abiotic stresses",
+      "salt stress conditions",
+      "salt stress tolerance",
+      "stress response",
+      "stress responses",
+      "the salt stress response"
+    ],
+    "POLYPHENOL": [
+      ")-pinoresinol",
+      "marked stereoselectivity"
+    ]
+  }
+}

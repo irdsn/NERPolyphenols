@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Phytosterols: Extraction Methods, Analytical Techniques, and Biological Activity.",
+  "abstract": "Phytosterols, essential components of plant cell membranes, are abundant in fruits, vegetables, nuts, and seeds. Among them, \u03b2-sitosterol, campesterol, and stigmasterol have drawn significant interest for their well-documented biological activities. This review highlights recent advancements in extraction and analytical methods aimed at improving phytosterol yield, maintaining chemical stability, and reducing environmental impact. These innovative, eco-friendly techniques offer promising alternatives to traditional extraction approaches and hold potential for industrial-scale use. Phytosterols possess various bioactive properties, including antioxidant, anti-inflammatory, chemopreventive, cholesterol-lowering, and neuroprotective effects. Through these mechanisms, dietary phytosterols may help prevent cardiovascular and neurodegenerative diseases, type 2 diabetes, and certain cancers. Recent studies have focused on the identification, isolation, purification, and characterization of phytosterols from diverse food matrices, along with assessing their health benefits. However, the specific molecular pathways responsible for their pharmacological actions remain poorly understood, highlighting the need for further research, particularly in human clinical trials. This review provides a comprehensive overview of the extraction strategies, biological functions, and mechanisms of action of phytosterols, offering valuable insights for developing phytosterol-enriched functional foods and nutraceuticals.",
+  "publication_date": "2025-06-06",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30122488",
+  "entities": {
+    "POLYPHENOL": [
+      "mechanisms",
+      "recent advancements",
+      "recent studies",
+      "the specific molecular pathways",
+      "these innovative, eco-friendly techniques",
+      "these mechanisms"
+    ],
+    "FOOD": [
+      "phytosterol-enriched functional foods"
+    ]
+  }
+}

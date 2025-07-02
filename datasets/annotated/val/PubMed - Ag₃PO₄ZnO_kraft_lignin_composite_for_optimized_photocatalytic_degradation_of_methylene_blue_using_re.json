@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Ag\u2083PO\u2084@ZnO kraft lignin composite for optimized photocatalytic degradation of methylene blue using response surface methodology.",
+  "abstract": "This research explores the use of kraft lignin (KL), derived from pulping black liquor waste, as a supportive medium for Ag3PO4@ZnO (AZ-NC) p-n heterojunction and design a new cost-effective ternary KL-Ag3PO4@ZnO nanocomposite (AZKL). The aim is to improve its photocatalytic efficiency in treating textile wastewater while tackling environmental issues such as chemical stability, charge carrier separation, and the production of secondary waste during the photocatalytic process. The response surface methodology (RSM) analysis shows that AZKL is highly effective catalyst for methylene blue (MB: 10 - 25 mg/L) dye mineralization, achieving a rapid decolorization (>\u00a098.2% within 40\u00a0min) under visible light at a near-neutral pH (7.48) with maintained high catalytic activity across four consecutive cycles. This outstanding performance is driven by the synergistic interplay of AZKL-based photocatalysis and advanced oxidation process using 0.03%\u00a0H2O2co-catalyst. Gas chromatography-mass spectrometry analysis reveals that MB dye degrades stepwise into intermediates such as N, N-dimethyl-p-phenylenediamine, hydroquinone, and formic acid, ultimately mineralizing completely into CO\u2082 and H\u2082O. The dominant reactive oxygen species driven this multi-step process are identified as hydroxyl radicals (\u2022OH) and photogenerated holes (h\u207a), with H\u2082O\u2082 and superoxide radicals (\u2022O\u2082\u207b)\u00a0playing secondary roles. The data also highlights the multifunctional role of KL support, which enhances charge carrier separation, captures dye molecules, and prevents Zn2+/Ag+ion leaching (less than 0.2 ppm) into the treated water during photocatalysis. This is facilitated by the electron-donating polyphenolic hydroxyl groups on the KL surface, which reduce Ag\u207a to metallic silver and stabilize AZ-NC heterojunction under light irradiation, creating Schottky junctions that improve charge transfer efficiency while reducing secondary contamination risks. A practical case study further illustrates the effectiveness of AZKL in treating real textile effluents, as evidenced by the improved biodegradability of residual organic matter, indicated by changes in chemical/biological oxygen demands (COD/BOD) ratios from 2.62 to 1.47 and inhibition tests against E. coli, meeting wastewater discharge standards. The findings emphasize that the AZKL composite could serve as an effective and adaptable photocatalyst for breaking down organic pollutants and treating intricate wastewater systems.",
+  "publication_date": "2025-06-20",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-05597-7",
+  "entities": {
+    "POLYPHENOL": [
+      "a new cost-effective ternary kl-ag3po4@zno nanocomposite",
+      "a rapid decolorization",
+      "an effective and adaptable photocatalyst",
+      "dye molecules",
+      "four consecutive cycles",
+      "gas chromatography-mass spectrometry analysis",
+      "highly effective catalyst",
+      "secondary contamination risks",
+      "secondary roles",
+      "secondary waste",
+      "the dominant reactive oxygen species",
+      "the effectiveness",
+      "the electron-donating polyphenolic hydroxyl groups"
+    ]
+  }
+}

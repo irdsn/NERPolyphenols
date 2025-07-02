@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Targeting lactylation reinforces NK cell cytotoxicity within the tumor microenvironment.",
+  "abstract": "Dysfunction of natural killer (NK) cells can be associated with tumor-derived lactate in the tumor microenvironment. Lactate-induced lysine lactylation (Kla) is a posttranslational modification, and strategies aimed at augmenting NK cell resistance to Kla might enhance cytotoxicity. Here we show that increased Kla levels in NK cells are accompanied by impaired nicotinamide adenine dinucleotide metabolism, fragmented mitochondria and reduced cytotoxicity. Supplementation with nicotinamide riboside (a nicotinamide adenine dinucleotide precursor) and honokiol (a SIRT3 activator) enhanced NK cell cytotoxicity by reducing cellular Kla levels. This combination restores antileukemic activity of NK cells in vivo and ex vivo by modulating Kla on ROCK1, thereby inhibiting ROCK1-DRP1 signaling to prevent mitochondrial fragmentation. Altogether, this study shows how lactylation can compromise NK cells and highlights this lactylation as a target for NK cell-based immunotherapy to enhance resilience to lactate in the tumor microenvironment.",
+  "publication_date": "2025-06-10",
+  "journal": "Nature immunology",
+  "doi": "10.1038/s41590-025-02178-8",
+  "entities": {
+    "POLYPHENOL": [
+      "a nicotinamide adenine dinucleotide precursor"
+    ]
+  }
+}

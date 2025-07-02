@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "MOMAST\u00aeDownregulates AQP3 Expression and Function in Human Colon Cells.",
+  "abstract": "The water channel AQP3 is an aquaglyceroporin expressed in villus epithelial cells, and it plays a role in water transport across human colonic surface cells. Beyond water, AQP3 can mediate glycerol and H2O2transport. Abnormal expression and function of AQP3 have been found in various diseases often characterized by altered cell growth and proliferation. Here, the beneficial effects of MOMAST\u00aehave been evaluated. MOMAST\u00aeis an antioxidant-patented natural phenolic complex obtained from olive wastewater (OWW) of the Coratina cultivar. Treatment of human colon HCT8 cells with MOMAST\u00aereduced cell viability. Confocal studies and Western Blotting analysis demonstrated that treatment with MOMAST\u00aesignificantly decreased the staining and the expression of AQP3. Importantly, functional studies revealed that the reduction of AQP3 abundance correlates with a significant decrease in glycerol and H2O2uptake. Indeed, the H2O2transport was partially but significantly reduced in the presence of MOMAST\u00aeor DFP00173, a selective inhibitor of AQP3. In addition, the MOMAST\u00ae-induced AQP3 decrease was associated with reduced epithelial-mesenchymal transition (EMT)-related proteins such as vimentin and \u03b2-catenin. Together, these findings propose MOMAST\u00aeas a potential adjuvant in colon diseases associated with abnormal cell growth by targeting AQP3.",
+  "publication_date": "2024-12-28",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14010026",
+  "entities": {
+    "POLYPHENOL": [
+      "a selective inhibitor",
+      "a significant decrease",
+      "the beneficial effects",
+      "the momast\u00ae-induced aqp3 decrease"
+    ]
+  }
+}

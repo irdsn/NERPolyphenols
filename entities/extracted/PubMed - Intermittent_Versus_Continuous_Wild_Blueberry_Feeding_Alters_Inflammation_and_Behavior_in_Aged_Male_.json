@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Intermittent Versus Continuous Wild Blueberry Feeding Alters Inflammation and Behavior in Aged Male Rats.",
+  "abstract": "Previous studies have shown that continuous daily consumption of polyphenolic-rich blueberries (BB) reduced neuroinflammation and improved age-related declines in motor and cognitive function in rodents and humans, but the optimal intake of BBs is currently unknown. To evaluate the beneficial effects of BBs on neuroinflammation and motor and cognitive function relative to the frequency of consumption, the diets of aged F344 rats (18 months;n= 15/group) were supplemented with either a continuous control diet, a continuous 2% wild BB diet, or an intermittent (3 days on, 4 days off) 2% wild BB diet for 2 months prior to behavioral testing. Because neuroinflammation has been identified as a major contributing factor to the behavioral declines seen in aging and neurodegenerative diseases, serum was collected pre-diet and at the end of the study to assess whether diet-induced changes in serum can alter the production of inflammatory stress signals in activated HAPI rat microglial cellsin vitro. Serum from rats continuously and intermittently fed BBs had beneficial effects by reducing the expression of inflammatory enzymes cyclooxygenase-2 (COX-2) and inducible nitric oxide synthase (iNOS) in microglia, but only continuous feeding attenuated nitrite production. Intermittent BB-fed rats performed better on the rotarod and committed fewer errors in the radial arm water maze on Day 2 compared to control-fed animals. Based on these findings, BBs may not have to be consumed daily to elicit beneficial effects, possibly due to the retention of polyphenols and their metabolites in tissue and circulation.",
+  "publication_date": "2025-04-28",
+  "journal": "Journal of medicinal food",
+  "doi": "10.1089/jmf.2025.0001",
+  "entities": {
+    "POLYPHENOL": [
+      "beneficial effects",
+      "elicit beneficial effects",
+      "improved age-related declines",
+      "polyphenolic-rich blueberries",
+      "polyphenols",
+      "the behavioral declines",
+      "the beneficial effects"
+    ],
+    "SYMPTOM": [
+      "aging and neurodegenerative diseases",
+      "inflammatory stress signals",
+      "neuroinflammation"
+    ]
+  }
+}

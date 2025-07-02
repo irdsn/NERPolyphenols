@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Therapeutic Potential ofLythrum salicariaL. Ethanol Extract in Experimental Rat Models of Streptozotocin-Induced Diabetes Mellitus and Letrozole-Induced Polycystic Ovary Syndrome.",
+  "abstract": "Polycystic ovary syndrome (PCOS) and diabetes mellitus (DM) are prevalent endocrine disorders with overlapping pathophysiological mechanisms. Type 2 diabetes mellitus (T2DM) is commonly associated with PCOS, with both conditions strongly linked to insulin resistance (IR), while recent studies have also reported an increased prevalence of PCOS among women with type 1 diabetes mellitus (T1DM). This study evaluated the potential ofLythrum salicariaL. ethanol extract (LSEE) to mitigate oxidative stress (OS), inflammation, and metabolic and hormonal imbalances in separate experimental models of Streptozotocin (STZ)-induced DM and Letrozole (LET)-induced PCOS. LSEE underwent phytochemical analysis to quantify total phenolic and flavonoid content and HPLC-MS for polyphenols identification. In vitro, antioxidant capacity was investigated through FRAP, DPPH, NO, and H2O2scavenging assays. Subsequently, in vivo, studies utilized STZ-induced DM and LET-induced PCOS rat models, with 10-day treatments of LSEE, metformin, or trolox (TX) administered by gavage. Dysregulation of hormonal profiles, ultrasound, and histological examinations confirmed PCOS development. At the end of the treatment period, serum samples were collected to assess OS markers (TOS, OSI, MDA, AOPP, 8-OHdG, NO, 3-NT, AGEs, TAR, SH) in both models. Inflammatory markers were also measured (IL-1\u03b2, NF-\u03baB, IL-18, and Gasdermin D in DM and IL-1\u03b2, NF-\u03baB, IL-18, and IL-10 in PCOS). Additionally, metabolic markers (glucose, lipids, TG-glucose index, liver enzymes) were assessed in DM rats, and hormones (LH, FSH, estrogen, testosterone, insulin, HOMA-IR) were determined in PCOS rats. LSEE demonstrated a high polyphenolic content and notable in vitro antioxidant activity. In vivo, it effectively reduced OS by lowering oxidant levels and enhancing antioxidant defenses, reduced inflammatory markers and blood glucose levels, and improved lipid profiles along with the TyG index and liver injury markers in diabetic rats. In PCOS rats, LSEE lowered the total oxidants, increased antioxidants, reduced LH, FSH, testosterone, and insulin, and increased estrogen levels. The effects exhibited a dose-dependent pattern, with higher doses producing more pronounced benefits comparable to those observed with metformin and TX. In conclusion, LSEE may be a promising complementary treatment for DM and PCOS.",
+  "publication_date": "2025-05-10",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14050573",
+  "entities": {
+    "POLYPHENOL": [
+      "a high polyphenolic content",
+      "pathophysiological mechanisms",
+      "polyphenols identification",
+      "recent studies",
+      "the effects",
+      "total phenolic and flavonoid content"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "insulin resistance",
+      "liver injury markers",
+      "oxidative stress"
+    ]
+  }
+}

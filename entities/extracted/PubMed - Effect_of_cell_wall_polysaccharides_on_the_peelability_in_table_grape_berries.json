@@ -1,0 +1,37 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Effect of cell wall polysaccharides on the peelability in table grape berries.",
+  "abstract": "Grape peelability varieties meet the demand for convenience and hygiene and are popular Grape varieties with easy peelability meet consumer demands for convenience and hygiene, making them increasingly popular. Differences in grape peelability are likely associated with variations in cell wall polysaccharide composition in the pulp and skin. Twelve table grape varieties ('Zaoheibao', 'Qiuhongbao', 'Summer Black', 'Black Balado', 'Jinghongbao', 'Lihongbao', 'Flame Seedless', 'Crimson Seedless', 'Wanheibao', 'Wuhecuibao', 'Thompson Seedless' and 'Hutai No. 8') were selected to investigate skin-pulp adherence, skin cell morphology, and cell wall polysaccharide content during fruit development. The role of cell wall polysaccharides in peelability was evaluated by assessing skin-pulp adherencce, skin cell morphology, cell wall polysaccharide content, and activities of related degrading enzymes across developmental stages of different grape varieties. Results showed that skin-pulp adherencce decreased by 6.4%~52.4% during fruit development, with significant varietal differences. 'Black Balado' exhibited the highest adhesion, while 'Flame Seedless' had the lowest. Cluster analysis grouped ten Eurasian grape varieties into two categories. The first group, which was easier to skin, included 'Flame Seedless', 'Thompson Seedless', 'Wuhecuibao', 'Zaoheibao', 'Wanheibao', 'Jinghongbao', 'Lihongbao', 'Qiuhongbao' and 'Wuhebai'. The second group, characterized by poor peelability, included 'Black Balado'. Anatomical observations revealed that as fruit development progressed, intercellular adhesion weakened and pulp cell separation became more pronounced. As fruit developed, cell wall polysaccharide content (cell wall material, cellulose, hemicellulose, protopectin, chelator-soluble pectin, water soluble pectin) decreased, while the activities of related degrading enzymes (cellulase, \u03b2-glucosidase, xylanase, xyloglucan endotransglycosylase, \u03b2-mannanase, polygalacturonase, pectate lyase, pectin methyl esterase, \u03b2-galactosidase, \u03b1-L-arabinofuranosidase) gradually increased. Specifically, the cell wall material content of the cell walls decreased by 30.3% to 64.8% in the pulp and by 23.9% to 51.4% in the pericarp across different varieties. protopectin and chelator-soluble pectin showed the most significant declines. In 'Flame Seedless' peel, protopectin content decreased by 97.1%, from 2067 \u00b5g\u2022g-1FW at the expansion stage to 60 \u03bcg\u2022g-1FW at maturity, and by 93.9% in the pulp. Chelator-soluble pectin content decreased by 87.8% to 97.7% in the peel and by 73.7% to 94.6% in the pulp, depending on the variety. The activities of cellulase and \u03b2-glucosidase showed relatively moderate changes during fruit development. From the expansion to the ripening stage, xylanase activity increased by 0.37-2.55 times in the peel and 0.01-1.84 times in the pulp. Similarly, xyloglucan endotransglycosylase activity rose by 0.38-2.37 times in the peel and 0.42-2.33 times in the pulp, while polygalacturonase activity increased by 0.21-2.85 times in the peel and 0.58-2.43 times in the pulp. Pectate lyase activity increased from 16% to 43% before the veraison stage and from 1% to 11% afterward. During both the expansion-to-verasion and verasion-to-ripening stages, pectin methyl esterase activity increased by 0.69-1.07-fold in the peel and 0.29-1.53-fold in the pulp, while \u03b2-galactosidase activity increased by 0.21-0.55-fold in the peel and 0.05-1.02-fold in the pulp. \u03b1-L-arabinofuranosidase activity increased by 1% to 341% in the peel and by 85% to 365% in the pulp. This study found that the peelability of table grapes gradually decreased during fruit ripening and varied significantly among different varieties. Further analysis indicated that peelability was negatively correlated with cell wall polysaccharide content and positively correlated with the activity of related cell wall-degrading enzymes. This study provides a theoretical framework for understanding the physiological mechanisms underlying grape peelability.",
+  "publication_date": "2025-05-21",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2025.1605812",
+  "entities": {
+    "FOOD": [
+      "different grape varieties",
+      "grape peelability",
+      "grape peelability varieties",
+      "popular grape varieties",
+      "table grapes",
+      "ten eurasian grape varieties",
+      "twelve table grape varieties",
+      "underlying grape peelability"
+    ],
+    "POLYPHENOL": [
+      "chelator-soluble pectin",
+      "chelator-soluble pectin content",
+      "pectate lyase",
+      "pectate lyase activity",
+      "pectin methyl esterase",
+      "pectin methyl esterase activity",
+      "protopectin",
+      "protopectin and chelator-soluble pectin",
+      "protopectin content",
+      "the most significant declines",
+      "the physiological mechanisms",
+      "the second group",
+      "water soluble pectin",
+      "wuhecuibao"
+    ]
+  }
+}

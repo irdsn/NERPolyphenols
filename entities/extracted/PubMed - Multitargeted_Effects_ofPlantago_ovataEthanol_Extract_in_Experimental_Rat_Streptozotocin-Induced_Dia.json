@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Multitargeted Effects ofPlantago ovataEthanol Extract in Experimental Rat Streptozotocin-Induced Diabetes Mellitus and Letrozole-Induced Polycystic Ovary Syndrome.",
+  "abstract": "Polycystic ovary syndrome (PCOS), a common and multifactorial endocrine disorder in reproductive-aged women, is strongly associated with insulin resistance (IR) and type 2 diabetes mellitus (T2DM), and also affects up to one in four women with type 1 diabetes mellitus (T1DM). The current study explored the potential ofPlantago ovata(P. ovata) seed ethanol extract (POEE) to modulate oxidative stress (OS), inflammatory responses, metabolic profiles, and hormonal levels in rat Streptozotocin (STZ)-induced DM and Letrozole (LET)-induced PCOS. Phytochemical analysis measured total phenolic content (TPC) and total flavonoid content (TFC) using HPLC-DAD-ESI MS for compound identification. POEE's antioxidant activity was evaluated in vitro through DPPH, H2O2, FRAP, and NO scavenging assays. Rats received POEE, metformin, or Trolox (TX) for 10 days. PCOS confirmation was achieved via ultrasound and histopathology. Serum levels of OS markers (TOS, TAC, OSI, MDA, AOPP, 8-OHdG, NO, 3-NT, AGEs, and SH), inflammatory markers (NF-\u03baB, IL-1\u03b2, IL-18, Gasdermin D, and IL-10), metabolic parameters (fasting blood glucose, lipid profile, and liver enzymes), and hormone levels (LH, FSH, estrogen, testosterone, and insulin) were assessed. Additionally, the Triglyceride-Glucose index (TyG) and HOMA-IR were calculated. POEE had a medium content of polyphenols and a good in vitro antioxidant effect. In vivo, POEE administration in diabetic rats led to a reduction in OS markers and an increase in antioxidant levels, alongside decreases in inflammatory cytokines, blood glucose levels, and transaminase activity and improvements in lipid profile. In the PCOS model, POEE treatment effectively reduced total OS and lowered levels of LH, FSH, and testosterone, while elevating estrogen concentrations and reducing insulin resistance. These therapeutic effects were dose-dependent, with higher doses producing more pronounced outcomes, comparable to those observed with metformin and TX treatment.",
+  "publication_date": "2025-05-14",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26104712",
+  "entities": {
+    "SYMPTOM": [
+      "insulin resistance",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "antioxidant effect",
+      "decreases",
+      "polyphenols",
+      "these therapeutic effects",
+      "total flavonoid content"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "The Alleviative Effect of Naringin Against Cardiovascular Dysfunction and Remodeling in Hypertensive Rats by Suppressing the Angiotensin II Pathway.",
+  "abstract": "Naringin is an essential citrus flavonoid with numerous biological benefits. However, its influence on the heart and aorta during hypertension is poorly understood. This study aimed to determine whether naringin could alleviate left ventricular (LV)-aortic dysfunction and remodeling in hypertensive rats generated usingN\u03c9-Nitro-L-arginine methyl ester hydrochloride (L-NAME). Rats were concurrently administered L-NAME (40\u2009mg/kg body weight (BW)/day), telmisartan (5\u2009mg/kg BW/day), or naringin (20 or 40\u2009mg/kg BW/day) for the 5-week trial. Similar to telmisartan, naringin prevented elevated blood pressure in L-NAME-treated rats (p<\u20090.05). Hypertensive rats showed reductions in LV fraction shortening and ejection fraction, which did not occur in the naringin-treated group. Aortic endothelial function was attenuated in the hypertensive group compared to the naringin-treated group (p<\u20090.0001). L-NAME-treated rats showed alterations in cardiovascular morphology, including LV aortic hypertrophy and fibrosis (p<\u20090.05), whereas the naringin-treated group did not exhibit these changes. Hypertensive rats had greater concentrations of renin-angiotensin system (RAS) markers, oxidants/antioxidant parameters, nitrate/nitrite, and tumor necrosis factor-\u03b1 in circulation than the naringin-treated group (p<\u20090.05). Naringin attenuated the upregulation of angiotensin II receptor type I, protein kinase C, NADPH oxidase 2, Raf-1, and extracellular signal-regulated kinases 1/2 in the LV tissues of L-NAME rats (p<\u20090.002). In conclusion, naringin alleviated LV aortic dysfunction and remodeling by suppressing RAS parameters, oxidative stress, inflammation, and restoring the AT1R/PKC/NOX2/Raf-1/ERK1/2 signaling pathway. These findings suggest that naringin is a promising alternative for the management of hypertension.",
+  "publication_date": "2025-06-19",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70484",
+  "entities": {
+    "POLYPHENOL": [
+      "angiotensin ii receptor type",
+      "lv fraction shortening and ejection fraction",
+      "naringin",
+      "the naringin-treated group",
+      "tumor necrosis factor"
+    ],
+    "SYMPTOM": [
+      "hypertension",
+      "inflammation",
+      "oxidative stress"
+    ]
+  }
+}

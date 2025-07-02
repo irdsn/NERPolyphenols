@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "1,25-dihydroxyvitamin D in the elderly population: Comparison of liquid chromatography tandem mass spectrometry and CLIA immunoassay (LIAISON\u00aeXL) methods.",
+  "abstract": "1\u03b1,25-dihydroxyvitamin D is the biologically active form of vitamin D3(cholecalciferol) and vitamin D2(ergocalciferol). The determination of 1,25(OH)2D is clinically relevant in the diagnostics of vitamin D metabolism disorders, PTH-independent hypercalceamia and hypophosphatemic syndromes. The quantitative assessment of 1,25(OH)2D may be a challenge since it circulates in picomolar concentrations in the blood.",
+  "publication_date": "2025-05-08",
+  "journal": "Practical laboratory medicine",
+  "doi": "10.1016/j.plabm.2025.e00474",
+  "entities": {
+    "POLYPHENOL": [
+      "vitamin d3(cholecalciferol"
+    ]
+  }
+}

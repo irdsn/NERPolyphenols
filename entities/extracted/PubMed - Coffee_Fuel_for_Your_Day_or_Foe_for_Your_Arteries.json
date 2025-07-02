@@ -1,0 +1,36 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Coffee: Fuel for Your Day or Foe for Your Arteries.",
+  "abstract": "Atherosclerosis, a major cause of cardiovascular diseases, is influenced by modifiable factors such as adiposity and blood cholesterol. Diet is crucial in these areas, particularly regarding antioxidant, inflammatory, and obesity effects. Coffee, a globally popular stimulant beverage, has garnered significant attention for its potential impact on cardiovascular diseases. Recent insights reinforce the need to re-examine the relationship between coffee consumption and atherosclerosis progression. Coffee's complex composition includes polyphenols, renowned for their antioxidant and anti-inflammatory properties as well as potential weight-reducing effects. In addition, studies have demonstrated that certain coffee compounds such as chlorogenic acid, caffeic, p-coumaric, and ferulic acid can prevent atherogenesis by preventing the oxidation of low-density lipoproteins. Conversely, diterpenes, found in some coffee brews, can elevate cholesterol levels, posing a risk to coronary health. Notably, coffee intake has been shown to influence gut microbiota diversity, potentially contributing to anti-obesity effects. This review explores the insights from preclinical and clinical studies investigating the potential mechanisms through which coffee consumption may reduce the risk of atherosclerosis-highlighting the potential benefits of moderate filtered coffee consumption and the potential risks associated with excessive coffee consumption. Understanding this relationship is crucial for informing public health recommendations and guiding future research.",
+  "publication_date": "2024-11-27",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox13121455",
+  "entities": {
+    "SYMPTOM": [
+      "atherosclerosis",
+      "atherosclerosis progression"
+    ],
+    "FOOD": [
+      "certain coffee compounds",
+      "coffee",
+      "coffee consumption",
+      "coffee intake",
+      "coffee's complex composition",
+      "excessive coffee consumption",
+      "moderate filtered coffee consumption",
+      "some coffee brews"
+    ],
+    "POLYPHENOL": [
+      "anti-obesity effects",
+      "chlorogenic acid",
+      "ferulic acid",
+      "polyphenols",
+      "potential weight-reducing effects",
+      "preclinical and clinical studies",
+      "public health recommendations",
+      "recent insights",
+      "the potential mechanisms"
+    ]
+  }
+}

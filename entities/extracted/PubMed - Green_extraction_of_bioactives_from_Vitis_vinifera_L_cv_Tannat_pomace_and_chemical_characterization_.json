@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Green extraction of bioactives from Vitis vinifera L. cv. Tannat pomace and chemical characterization by comprehensive two-dimensional liquid chromatography (LC \u00d7 LC).",
+  "abstract": "Grape pomace is an important by-product generated during winemaking that still possesses relevant concentrations of interesting bioactive compounds. As the production of this by-product is very high, developing strategies to produce its valorization in an effort to provide means for the generation of high-added value products is desired. Tannat grapes are particularly rich in phenolic compounds and, consequently, the pomace derived from them may still be rich in those components. The use of compressed fluids-based extraction techniques, such as supercritical fluid extraction (SFE) and pressurized liquids extraction (PLE) retains good potential for the isolation of bioactive compounds from natural matrices. In this work, the use of PLE is explored to obtain bioactive extracts from Tannat grape pomace rich in phenolic compounds presenting high antioxidant and anticholinergic activities. After optimization, the best extraction conditions implied the use of 55 % ethanol as a solvent at 141 \u00b0C for 20 min. Moreover, to correlate the observed bioactivities with the particular chemical composition of the extracts, a new two-dimensional comprehensive liquid chromatography (LC \u00d7 LC) method coupled to mass spectrometry (MS) was developed to separate and identify the components present in the extract. The LC \u00d7 LC analysis of the optimum extract separated >70 different analytes. Among them, proanthocyanidins were the most abundant phenolic compounds, although others such as flavonols and anthocyanins could also be identified. Overall, the obtained results demonstrate the strong potential of Tannat grape pomace to be valorized, retaining excellent possibilities for application in different fields.",
+  "publication_date": "2025-05-08",
+  "journal": "Journal of chromatography. A",
+  "doi": "10.1016/j.chroma.2025.466030",
+  "entities": {
+    "FOOD": [
+      "grape pomace",
+      "tannat grape pomace",
+      "tannat grapes"
+    ],
+    "POLYPHENOL": [
+      "compressed fluids-based extraction techniques",
+      "mass spectrometry",
+      "phenolic compounds",
+      "proanthocyanidins",
+      "the most abundant phenolic compounds"
+    ]
+  }
+}

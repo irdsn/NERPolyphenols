@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Amentoflavone Enhances the Anti-tumor Activity of Regorafenib by Promoting Apoptosis and Inhibiting NF-\u03baB-mediated Metastasis in Hepatocellular Carcinoma.",
+  "abstract": "Regorafenib is approved for advanced hepatocellular carcinoma (HCC), but its limited efficacy and resistance remain challenges. Amentoflavone, a natural biflavonoid, has shown anticancer activity in preclinical studies.",
+  "publication_date": "2025-06-01",
+  "journal": "Anticancer research",
+  "doi": "10.21873/anticanres.17669",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural biflavonoid",
+      "preclinical studies"
+    ],
+    "SYMPTOM": [
+      "anticancer activity"
+    ]
+  }
+}

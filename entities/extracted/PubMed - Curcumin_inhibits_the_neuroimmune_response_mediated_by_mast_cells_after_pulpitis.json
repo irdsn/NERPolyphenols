@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Curcumin inhibits the neuroimmune response mediated by mast cells after pulpitis.",
+  "abstract": "To analyze the effect of mast cells (MCs) in neurogenic inflammation and the neuroimmune response of trigeminal ganglia (TG) due to pulpitis and detect the regulatory effect of curcumin (Cur) on neuroimmune responses induced by pulpitis.",
+  "publication_date": "2024-09-09",
+  "journal": "Journal of applied oral science : revista FOB",
+  "doi": "10.1590/1678-7757-2023-0456",
+  "entities": {
+    "POLYPHENOL": [
+      "curcumin",
+      "the effect",
+      "the regulatory effect"
+    ],
+    "SYMPTOM": [
+      "neurogenic inflammation"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "UHPLC-Q-Orbitrap metabolomics of Syrah red wines during bottle ageing: Molecular markers of evolution and cork permeability.",
+  "abstract": "An experiment involving the ageing of Syrah red wine was conducted over a period of 24\u00a0months, during which the impact of four different micro-agglomerated corks was examined. An untargeted UHPLC-Q-Orbitrap metabolomics analysis was performed and provided valuable insights into the chemical dynamics of red wine evolution. Forty-three specific discriminating compounds were found for non-aged wines, including various CHO and CHON-types molecules. Thirteen specific discriminating compounds were found for 24-months-aged wines including CHO, CHNOS and CHOS compounds. Among them, sulfonated flavanols and pyranoanthocyanins were identified and emerged as key molecular markers of wine ageing. This metabolomics analysis also enabled us to identify specific chemical markers of cork oxygen transfer rate (OTR) influence. Analysis revealed specific molecules linked to corks with low and high OTR such as anthocyanins and proanthocyanins respectively. This research enhances our comprehension of intricate chemical changes during red wine ageing and underscores the potential impact of cork OTR on wine composition.",
+  "publication_date": "2024-10-05",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2024.141517",
+  "entities": {
+    "FOOD": [
+      "24-months-aged wines",
+      "non-aged wines",
+      "red wine ageing",
+      "red wine evolution",
+      "syrah red wine",
+      "wine ageing",
+      "wine composition"
+    ],
+    "POLYPHENOL": [
+      "chon-types molecules",
+      "forty-three specific discriminating compounds",
+      "key molecular markers",
+      "specific chemical markers",
+      "specific molecules",
+      "thirteen specific discriminating compounds"
+    ]
+  }
+}

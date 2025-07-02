@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Inhibition of \u03b1-Amylase and \u03b1-Glucosidase UsingBaccaurea ramiflora.",
+  "abstract": "The hunt for alternative antidiabetic treatments that result in fewer side effects judged against established treatments is being powered by the mounting worldwide pervasiveness of diabetes mellitus. Playing a critical role in many biological processes,Baccaurea ramiflora, a long-established medicinal plant commonly used throughout Southeast Asia, presents abundant health benefits. An assessment of the various ethanol extracts fromB. ramifloradrawn from the leaves, stems, stem bark, peel, and flesh with seed revealed the total phenolic and flavonoid contents in addition to the levels of inhibitory activity against the enzymes \u03b1-amylase and \u03b1-glucosidase. In the case of total phenolic and flavonoids contents, the findings confirmed that the leaves, flesh with seed, and peel extracts were the richest source of phenolics. The leaf extract showed higher flavonoid content than others. The greatest levels of inhibitory activity against the two enzymes of interest were exhibited by the flesh with seed and peel: the respective IC50values associated with \u03b1-amylase and \u03b1-glucosidase were 0.50\u2009\u00b1\u20090.03 and 0.69\u2009\u00b1\u20090.01\u2009mg\u2009mL-1for flesh with seed, and 0.61\u2009\u00b1\u20090.04 and 0.59\u2009\u00b1\u20090.01\u2009mg\u2009mL-1for peel. The various extracts were all capable of inhibiting enzyme activity in a concentration-dependent manner. GC-MS analysis of the flesh with seed extract identified phenol, 3,5-bis(1,1-dimethylethyl)-, dimethylsulfoxonium formylmethylide, methyl salicylate, and other compounds. Additionally, the major compounds present in the peel extract were 2,4-di-tert-butylphenol, dimethyl sulfone, cyclooctasiloxane, hexadecamethyl, and other compounds. From these findings,B. ramifloraoffers potential for use in the field of nutraceuticals and functional foods and might also find application in treating health conditions such as diabetes.",
+  "publication_date": "2025-06-16",
+  "journal": "Scientifica",
+  "doi": "10.1155/sci5/8768659",
+  "entities": {
+    "POLYPHENOL": [
+      "fewer side effects",
+      "hexadecamethyl",
+      "higher flavonoid content",
+      "the respective ic50values",
+      "the total phenolic and flavonoid contents",
+      "total phenolic and flavonoids contents"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

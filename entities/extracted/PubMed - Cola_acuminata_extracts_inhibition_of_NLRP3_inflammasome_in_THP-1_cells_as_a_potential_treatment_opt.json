@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Cola acuminata extract's inhibition of NLRP3 inflammasome in THP-1 cells as a potential treatment option for Parkinson's disease.",
+  "abstract": "Neuroinflammation has been described as one of the multiple clinical manifestations of Parkinson's and Alzheimer's diseases (PD and AD). Moreover, it was reported that amyloid-\u03b2 deposition is associated with cognitive decline in PD. Here, Cola acuminata (CA) extract was used to inhibit NLRP3 inflammasome in THP-1 macrophages in vitro. CA showed significant anti-inflammatory effect by inhibiting nitric oxide (NO) release from cells after stimulation with LPS and Nigericin. Phagocytosis of amyloid-\u03b2 by THP-1 cells showed that at 100\u00a0\u00b5g/ml, CA increases phagocytic activity of macrophages in vitro. Moreover, activation of NLRP3 inflammasome and subsequent treatment with CA showed a reduction of IL1-\u03b2 and IL-18 cytokines release in ELISA assay. Furthermore, NLRP3, caspase-1, IL1-\u03b2 and NF-kB expressions were significantly inhibited at the gene and protein levels as shown by RTqPCR and western blot assays respectively. Interestingly, colocalization analysis of activated inflammasome confirmed our results suggesting that CA disaggregates inflammasome assembly. Mass spectrometry analysis of CA has identified epicatechin, catechin, chlorogenic acid, quercetin and stigmasterol known as inflammasome inhibitors among the extract chemical constituents. Together, our results indicate that CA can inhibit inflammasome activation in macrophage, thereby opening future perspectives for PD treatment.",
+  "publication_date": "2025-06-19",
+  "journal": "Metabolic brain disease",
+  "doi": "10.1007/s11011-025-01628-4",
+  "entities": {
+    "SYMPTOM": [
+      "neuroinflammation",
+      "parkinson's and alzheimer's diseases"
+    ],
+    "POLYPHENOL": [
+      "catechin",
+      "chlorogenic acid",
+      "cognitive decline",
+      "epicatechin",
+      "future perspectives",
+      "mass spectrometry analysis",
+      "quercetin",
+      "significant anti-inflammatory effect"
+    ]
+  }
+}

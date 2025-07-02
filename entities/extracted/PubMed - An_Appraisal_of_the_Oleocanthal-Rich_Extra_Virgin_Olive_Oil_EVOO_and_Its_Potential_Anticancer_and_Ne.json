@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "An Appraisal of the Oleocanthal-Rich Extra Virgin Olive Oil (EVOO) and Its Potential Anticancer and Neuroprotective Properties.",
+  "abstract": "Dietary consumption of olive oil represents a key pillar of the Mediterranean diet, which has been shown to exert beneficial effects on human health, such as the prevention of chronic non-communicable diseases like cancers and neurodegenerative diseases, among others. These health benefits are partly mediated by the high-quality extra virgin olive oil (EVOO), which is produced mostly in Mediterranean countries and is directly made from olives, the fruit of the olive tree (Olea europaeaL.). Preclinical evidence supports the existence of antioxidant and anti-inflammatory properties exerted by the polyphenol oleocanthal, which belongs to the EVOO minor polar compound subclass of secoiridoids (like oleuropein). This narrative review aims to describe the antioxidant and anti-inflammatory properties of oleocanthal, as well as the potential anticancer and neuroprotective actions of this polyphenol. Based on recent evidence, we also discuss the reasons underlying the need to include the concentrations of oleocanthal and other polyphenols in the EVOO's nutrition facts label. Finally, we report our personal experience in the production of a certified organic EVOO with a \"Protected Designation of Origin\" (PDO), which was obtained from olives of three different cultivars (Rotondella,Frantoio,andLeccino) harvested in geographical areas located a short distance from one another (villages' names: Gorga and Camella) within the Southern Italy \"Cilento, Vallo di Diano and Alburni National Park\" of the Campania Region (Province of Salerno, Italy).",
+  "publication_date": "2023-12-10",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms242417323",
+  "entities": {
+    "FOOD": [
+      "olive oil",
+      "the high-quality extra virgin olive oil"
+    ],
+    "POLYPHENOL": [
+      "a \"protected designation",
+      "andleccino",
+      "beneficial effects",
+      "neuroprotective actions",
+      "oleuropein",
+      "other polyphenols",
+      "preclinical evidence",
+      "recent evidence",
+      "secoiridoids",
+      "the polyphenol oleocanthal",
+      "this polyphenol"
+    ],
+    "SYMPTOM": [
+      "cancers",
+      "the potential anticancer"
+    ]
+  }
+}

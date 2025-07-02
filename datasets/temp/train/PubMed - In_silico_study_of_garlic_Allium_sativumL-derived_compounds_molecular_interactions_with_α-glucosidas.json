@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "In silico study of garlic (Allium sativumL.)-derived compounds molecular interactions with α-glucosidase.",
+  "abstract": "Diabetes mellitus is a metabolic syndrome characterized by elevated blood glucose. The α-glucosidase enzyme is responsible for the hydrolysis of carbohydrates. This in silico study aimed to evaluate the inhibitory effects of the isolated compounds fromAllium sativumL. on α-glucosidase. At first, sulfur and phenolic compounds ofA. sativumL. were obtained from PubChem database, and α-glucosidase enzyme structure was obtained from Protein Data Bank. Toxicity class of compounds and the Lipinski parameter were predicted by Toxtree and Protox II and the Swiss ADME tools, respectively. Finally, the molecular interaction analysis between α-glucosidase and compounds fromA. sativumL. was performed by AutoDock 4.2.6. Molecular interactions were investigated using Discovery Studio Visulizer and Ligplot 2.1 program. All of the selected sulfur and phenolic compounds fromA. sativumL. followed the Lipinski's rules, had an acceptable binding energy, and lacked toxicity; therefore, they were appropriate candidates for α-glucosidase inhibition. Among these compounds, methionol and caffeic acid showed the lowest binding energy, and the highest inhibitory effect on α-glucosidase enzyme with - 3.9 and - 4.8 kcal/mol, respectively. These compounds also indicated the lower binding energy than the standard inhibitor (miglitol). Among the sulfur and phenolic compounds inA. sativumL., methionol and caffeic acid were predicted to be the powerful inhibitors, due to having more hydrogen binds and hydrophobic interactions with the active site of α-glucosidase.",
+  "publication_date": "2021-01-07",
+  "journal": "In silico pharmacology",
+  "doi": "10.1007/s40203-020-00072-9"
+}

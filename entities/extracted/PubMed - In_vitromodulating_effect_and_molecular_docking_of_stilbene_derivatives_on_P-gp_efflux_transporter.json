@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "In vitromodulating effect and molecular docking of stilbene derivatives on P-gp efflux transporter.",
+  "abstract": "Highly expressed P-glycoprotein (P-gp) in cancer cells reduces chemotherapeutic effectiveness by transporting drugs out of the cells. This study evaluated the potential of eight phenanthrene-structured stilbenoids isolated from orchids in modulating P-gp activity. Molecular docking studies were conducted to predict the best-fitting stilbenoids for P-gp binding domains, and a substrate uptake assay was used to assess their effects. Our results indicate that the modulating effects were influenced by the number and arrangement of hydroxyl or methoxyl substitutions on the phenanthrene structure. Among the tested compounds, 1-(4-hydroxybenzyl)-4,6-dimethoxy-9,10-dihydrophenanthrene-2,7-diol (compound8) exhibited the highest potency in modulating P-gp activity, with the best alignment to the P-gp binding sites.",
+  "publication_date": "2025-05-10",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2502183",
+  "entities": {
+    "SYMPTOM": [
+      "cancer cells"
+    ],
+    "POLYPHENOL": [
+      "chemotherapeutic effectiveness",
+      "molecular docking studies",
+      "the modulating effects",
+      "their effects"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Microbial Decontamination of Fresh-Cut Carrots via Cold Atmospheric Plasma Treatment: Effect on Physicochemical and Nutritional Properties During Storage.",
+  "abstract": "The extension of shelf-life and enhancement of the safety and quality of fresh-cut ready-to-eat vegetables is an ongoing public health concern. The present study investigated the efficacy of cold atmospheric plasma (CAP) treatment for the decontamination of fresh-cut carrots inoculated withEscherichia coli. An atmospheric plasma jet system operating at 1 kVA was utilized for treatment with varying plasma jet nozzle to sample distances (10-40 mm), exposure times (10-60 s) and either argon or dry air at 3 bar as working gases. It was demonstrated that both working gases achieved more than 4 log reductions inE. coliwithin 60 s of treatment while maintaining carrot surface temperatures below 50 \u00b0C. During 3-week storage at 4 \u00b0C, the immediate effects of plasma treatment on quality parameters were found to be minimal, with no significant changes observed in color (\u0394E< 3.0) parameters, \u03b2-carotene content, ascorbic acid levels, total phenolic content (TPC), or total antioxidant activity (TAA) following either treatment. Additionally, plasma-treated carrots retained their firmness, showing no significant texture loss, whereas untreated controls experienced a firmness decline of approximately 9% by the end of storage. Notably, TPC increased by up to 41%, and TAA increased significantly (p< 0.05) in plasma-treated samples during storage, especially in dry air plasma-treated carrots. These results demonstrated that CAP treatment can be successfully applied for rapid inactivation ofE. colion fresh-cut carrot surfaces while preserving original quality characteristics during refrigerated storage, offering potential as non-thermal preservation technology for fresh produce.",
+  "publication_date": "2025-05-01",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14091599",
+  "entities": {
+    "POLYPHENOL": [
+      "a firmness decline",
+      "non-thermal preservation technology",
+      "the decontamination",
+      "the immediate effects"
+    ],
+    "FOOD": [
+      "carrot surface temperatures",
+      "dry air plasma-treated carrots",
+      "fresh-cut carrots",
+      "plasma-treated carrots",
+      "rapid inactivation ofe. colion fresh-cut carrot surfaces"
+    ]
+  }
+}

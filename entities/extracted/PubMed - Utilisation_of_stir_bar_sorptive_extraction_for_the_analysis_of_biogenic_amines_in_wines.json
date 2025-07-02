@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Utilisation of stir bar sorptive extraction for the analysis of biogenic amines in wines.",
+  "abstract": "Wine intolerance primarily concerns the body's ability to process histamine, sulphites, tannins, and alcohol. Histamine, a biogenic amine, is involved in immune responses and helps regulate stomach acid. The legal limits for histamine in wine range from 2 to 10\u00a0mg/mL. Accurate estimation of histamine requires a sensitive and reliable sample preparation technique. In our study, we applied stir bar sorptive extraction (SBSE) with in situ derivatization using isobutyl chloroformate, followed by gas chromatographic analysis. Under optimal experimental conditions, established through multivariate design of experiments, a limit of detection (LOD) ranging from 5 to 17\u00a0\u03bcg/L was achieved. The developed SBSE method was used to compare the biogenic amine content in botrytized wines from different regions, including Slovakia, Hungary, France, and Austria. Principal component analysis revealed partial segregation of the samples from France and Hungary.",
+  "publication_date": "2025-05-17",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144775",
+  "entities": {
+    "FOOD": [
+      "botrytized wines",
+      "wine intolerance",
+      "wine range"
+    ],
+    "POLYPHENOL": [
+      "a sensitive and reliable sample preparation technique",
+      "detection",
+      "tannins"
+    ]
+  }
+}

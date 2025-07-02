@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Evolution of cocoa flavanol analytics: impact on reporting and cross-study comparison.",
+  "abstract": "Cocoa flavanols (CF) are a group of dietary bioactives that have been studied for their potential health benefits for over two decades. In this time, multiple methods for CF testing have evolved, introducing the potential for differences in reported CF content. The reliable characterization of CF content in food and test materials used in clinical studies is critical to comparisons of research studies over time, as well as critical to enabling the systematic reviews and meta-analyses required to support dietary recommendations of bioactives. In this work, we compared two analytical methods that have been widely applied to characterize materials used in clinical research and a method newly recognized by AOAC as the official method for CF analysis. Differences in accuracy of -36% to +20% were observed when comparing CF contents determined with these methods, supporting the notion that CF values determined across methods are not directly comparable. To address differences, a linear regression model was developed to predict CF values. This approach was cross-validated and directly applied to the conversion of CF values published in key scientific papers on the benefits of CF. This work provides a valid tool to compare CF values reported across these different methods and enables comparisons and interpretation of studies investigating the bioactivity of CF.",
+  "publication_date": "2021-05-01",
+  "journal": "Food & function",
+  "doi": "10.1039/d1fo00215e",
+  "entities": {
+    "FOOD": [
+      "cocoa flavanols"
+    ],
+    "POLYPHENOL": [
+      "dietary recommendations",
+      "over two decades"
+    ]
+  }
+}

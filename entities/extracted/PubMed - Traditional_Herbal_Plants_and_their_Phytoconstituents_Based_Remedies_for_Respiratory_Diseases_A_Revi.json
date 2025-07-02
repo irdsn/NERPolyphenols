@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Traditional Herbal Plants and their Phytoconstituents Based Remedies for Respiratory Diseases: A Review.",
+  "abstract": "Despite medical science advancements in recent years, pulmonary diseases are still hard to control and can be potentially life-threatening. These include asthma, COPD, lung cancer, cystic fibrosis, pneumonia, pleurisy, and sarcoidosis. These illnesses often cause severe breathing problems, which can be fatal if not treated properly. While some chemical drugs are used to treat these conditions, they can cause side effects and are not always effective. Herbal medicine offers an alternative treatment option with fewer side effects and has shown promise in treating respiratory issues. Certain medicinal plants, such as garlic (Allium sativum), hawthorn (Crataegus rhipidophylla), moringa (Moringa oleifera), and ashwagandha (Withania somnifera), may help manage lung diseases. Natural compounds found in plants, like apple polyphenol, ligustrazine, salidroside, resveratrol, and quercetin, can also help reduce symptoms. These plants and compounds work by reducing cell overgrowth, fighting oxidative stress, lowering inflammation, stopping tumor growth, improving blood flow, and relaxing the airways. This review outlines the types of plants and compounds that can be utilized in treating pulmonary conditions, along with their respective mechanisms of action.",
+  "publication_date": "2025-02-12",
+  "journal": "The open respiratory medicine journal",
+  "doi": "10.2174/0118743064341009241210045737",
+  "entities": {
+    "POLYPHENOL": [
+      "apple polyphenol",
+      "fewer side effects",
+      "moringa",
+      "quercetin",
+      "recent years",
+      "resveratrol",
+      "side effects",
+      "their respective mechanisms"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "lung cancer",
+      "oxidative stress",
+      "tumor growth"
+    ],
+    "FOOD": [
+      "garlic"
+    ]
+  }
+}

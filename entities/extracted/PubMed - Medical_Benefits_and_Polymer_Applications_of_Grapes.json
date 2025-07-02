@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Medical Benefits and Polymer Applications of Grapes.",
+  "abstract": "Grapes are a fruit with origins dating back to ancient times. Their first recorded use, as mentioned in the Bible, was in winemaking. The abundance of bioactive compounds in grapes makes them highly valuable. So far, many varieties of cultivated grapes have been developed for table grapes, wine grapes, and raisin production. In addition to these uses, since grapes contain a variety of nutrients, including resveratrol, flavonoids (such as flavonols, anthocyanins, and catechins), melatonin, vitamins, acids, tannins, and other antioxidants, grape extracts have been widely studied for medical applications. This paper reviews the medical effects of these compounds on cancer, cardiovascular disease, brain and neurological disorders, eye diseases, skin disorders, kidney health, diabetes, and gastric diseases, along with the medical applications of grapes in drug delivery, wound dressing, and tissue engineering. In addition, the limitations of the grapes-derived polymers and future research perspectives are discussed. These benefits highlight that the value of grapes extends far beyond their traditional use in wine and raisin production.",
+  "publication_date": "2025-03-12",
+  "journal": "Polymers",
+  "doi": "10.3390/polym17060750",
+  "entities": {
+    "FOOD": [
+      "cultivated grapes",
+      "grape extracts",
+      "grapes",
+      "table grapes",
+      "the grapes-derived polymers",
+      "wine and raisin production",
+      "wine grapes"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "future research perspectives",
+      "resveratrol",
+      "tannins",
+      "the medical effects",
+      "their first recorded use"
+    ],
+    "SYMPTOM": [
+      "cancer"
+    ]
+  }
+}

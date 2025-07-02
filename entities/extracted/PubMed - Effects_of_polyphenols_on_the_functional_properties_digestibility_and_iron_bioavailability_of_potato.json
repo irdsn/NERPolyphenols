@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Effects of polyphenols on the functional properties, digestibility, and iron bioavailability of potato protein-iron complexes.",
+  "abstract": "We hypothesized that polyphenol addition (gallic acid, caffeic acid, quercetin) to potato protein-iron complexes could modulate protein digestibility and iron bioavailability, addressing iron deficiency risks exacerbated by low-bioavailability iron in plant-based diets. Quercetin increased protein digestion in the stomach and small intestine, while gallic and caffeic acids only increased its digestion in the stomach. Quercetin and caffeic promoted nearly iron release at all polyphenol-to-complex levels studied (0.5:1 to 3:1), whereas gallic acid only promoted iron release at higher ratios (3:1). Polyphenol retention after digestion was relatively low (1\u00a0%-7\u00a0%), except for caffeic acid (21.5\u00a0% at 3:1). A Caco-2 cell assay showed that ferritin production was enhanced at high gallic acid levels (3:1), and intermediate quercetin levels (1:1), but not under other conditions. These findings suggest that polyphenol-protein-iron interactions can be modulated to enhance iron bioavailability, which may be important for iron fortification strategies.",
+  "publication_date": "2025-05-28",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144932",
+  "entities": {
+    "POLYPHENOL": [
+      "all polyphenol-to-complex levels",
+      "caffeic acid",
+      "caffeic acid, quercetin",
+      "gallic acid",
+      "high gallic acid levels",
+      "polyphenol addition",
+      "polyphenol retention",
+      "polyphenol-protein-iron interactions",
+      "quercetin"
+    ]
+  }
+}

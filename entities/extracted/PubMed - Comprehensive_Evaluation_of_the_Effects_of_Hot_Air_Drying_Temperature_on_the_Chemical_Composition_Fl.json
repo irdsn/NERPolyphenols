@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Comprehensive Evaluation of the Effects of Hot Air Drying Temperature on the Chemical Composition, Flavor Characteristics and Biological Activity ofHouttuynia cordata Thunb.",
+  "abstract": "This study systematically investigated the drying kinetics and quality characteristics ofHouttuynia cordata Thunb.(HCT) under different processing conditions, evaluating how freeze-drying and hot-air drying (40 \u00b0C, 50 \u00b0C, 60 \u00b0C) affect bioactive compound preservation, antioxidant efficacy, and metabolic profiles to identify the optimal drying method for maximizing its functional benefits. A thin-layer drying model was established to evaluate drying parameters such as effective diffusion coefficient and activation energy. Changes in chemical composition, sensory properties, and antioxidant activity were analyzed using UHPLC-LTQ-Orbitrap-MS, electronic nose/tongue, and HepG2 cell assays. Results showed that the Aghabashlo model was optimal for demonstrating the drying process with the best fit. The 50 \u00b0C heating temperature was shown to yield the highest diffusion coefficient. Hot-air drying at 50 \u00b0C balanced efficiency and sensory quality, whereas 60 \u00b0C significantly altered flavor and metabolite composition. Results of the metabolomic analysis indicated that freeze-drying enhanced the retention of phenolic acids and flavonoids, while hot-air drying led to increased fatty acid metabolites. Freeze-drying preserved the antioxidant activity and natural flavor of HCT. Nevertheless, the metabolic fate of rutin, quercetin, and chlorogenic acid was not significantly affected by the drying method (freeze-drying vs. 50 \u00b0C drying). These findings provide a theoretical foundation for improving HCT's therapeutic and sensory qualities through optimized drying techniques.",
+  "publication_date": "2025-05-30",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14111962",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "effective diffusion coefficient",
+      "flavonoids",
+      "optimized drying techniques",
+      "rutin",
+      "uhplc-ltq-orbitrap-ms, electronic nose/tongue"
+    ]
+  }
+}

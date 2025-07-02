@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Red-Light Triggered CO/ROS Release from Porphyrin-Flavonol Hybrid@PC7A Micelles for Eradicating Escherichia coli.",
+  "abstract": "Photo-triggered carbon monoxide (CO) release, mediated by reactive oxygen species (ROS), shows a significant potential in therapeutic applications. However, the existing photosensitizers predominantly function as type II ROS generators. When ROS are present in excess, they are always wasted due to their short half-lives, which limit their ability to travel significant distances and effectively achieve therapeutic outcomes. In this study, the biological function of a single-component molecule, PdHF, is investigated. This molecule is formed by covalently conjugating 3-hydroxyflavone (3-HF) to a palladium(II) tetraphenyltetrabenzoporphyrin (PdTPTBP) photosensitizer. Subsequently, PdHF is loaded into the 2-hexamethyleneimino ethyl methacrylate (C7A)-modified PEG-b-PCL block copolymer (PC7A) to form a PdHF@PC7A micellar system capable of co-releasing CO and ROS under red-light irradiation. CO/ROS co-release can be attributed to the generation of singlet oxygen species that not only oxidize 3-HF to release CO but are concurrently reduced by the tertiary amine, C7A, to form cytotoxic superoxide anions and hydrogen peroxide. In vitro studies on these positively charged micelles validate a high biosafety and excellent antibacterial effects with competent elimination of Gram-negative bacteria, Escherichia coli. Furthermore, evidence of micelle uptake by bacterial cells supports synergistic photodynamic and gas therapy through intracellular CO/ROS co-release.",
+  "publication_date": "2025-05-12",
+  "journal": "Macromolecular bioscience",
+  "doi": "10.1002/mabi.202500079",
+  "entities": {
+    "POLYPHENOL": [
+      "a single-component molecule",
+      "excellent antibacterial effects",
+      "reactive oxygen species",
+      "singlet oxygen species",
+      "this molecule"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "The Biochemical Effects of Resveratrol Intake on the Neurobehavioral Aspects of Autism Spectrum Disorders: A Systematic Review.",
+  "abstract": "Autism spectrum disorders (ASD) are neurodevelopmental disorders characterized by various neurobehavioral impairments. This study aims to review the preventive and therapeutic effects of Resveratrol (RSV) against ASD during various stages of life, specifically focusing on its influence on behavioral and neurodevelopmental biochemical mechanisms.",
+  "publication_date": "2025-06-16",
+  "journal": "Central nervous system agents in medicinal chemistry",
+  "doi": "10.2174/0118715249387274250521054238",
+  "entities": {
+    "POLYPHENOL": [
+      "autism spectrum disorders",
+      "behavioral and neurodevelopmental biochemical mechanisms",
+      "resveratrol",
+      "the preventive and therapeutic effects"
+    ]
+  }
+}

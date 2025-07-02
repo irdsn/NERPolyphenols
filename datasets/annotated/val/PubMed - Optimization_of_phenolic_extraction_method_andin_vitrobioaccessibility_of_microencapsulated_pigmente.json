@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Optimization of phenolic extraction method andin vitrobioaccessibility of microencapsulated pigmented rice bran extracts and their antioxidant and anticancer properties.",
+  "abstract": "Pigmented paddy rice is rich in a diverse array of phytochemicals that confer notable antioxidant and anticancer properties. However, the stability and bioaccessibility of these bioactive compounds present significant challenges. In this study, 542 brown (including pigmented and non-pigmented) whole grain rice samples were screened for their antioxidant components and capacity, leading to the identification of three superior cultivars: Balatinao variable purple rice, Ketan Hitam variable purple rice, and Kintuman red rice. Using response surface methodology, rice bran extracts from these cultivars were subjected to microencapsulation to stabilize the phytochemicals. Among the microencapsulated rice bran extracts (MRBEs), Ketan Hitam MRBE demonstrated significantly higher total phenolic content (TPC) and antioxidant capacity. This enhancement is likely due to the increased concentrations of isovitexin, luteolin 7-glucoside, and vitexin following microencapsulation. Furthermore, compared to non-encapsulated rice bran extracts, MRBEs exhibited significantly improved anticancer activity against HCT116 (colon) and A549 (lung) cancer cell lines (P< 0.05). Subsequent fractionation of the MRBE allowed for the identification of the most bioactive fractions, which contained metabolites effective against these cancer cell lines. In addition,in vitrobioaccessibility assays revealed a controlled release of 19 targeted phenolic compounds. This release profile was characterized by an initial increase during the gastric digestion phase, followed by a decrease in the intestinal phase. Notably, phenolic compounds such as chlorogenic acid, gallic acid, and vanillin were preserved across the three rice varieties after microencapsulation. These findings underscore the potential of MRBEs as functional food ingredients or supplements, offering improved bioaccessibility of phenolics, enhanced antioxidant properties, and promising anticancer activity. The results support the integration of rice bran extracts into the rice value chain, promoting their use in functional health applications.",
+  "publication_date": "",
+  "journal": "Food hydrocolloids for health",
+  "doi": "10.1016/j.fhfh.2025.100221",
+  "entities": {
+    "SYMPTOM": [
+      "a549 (lung) cancer cell lines",
+      "notable antioxidant and anticancer properties",
+      "promising anticancer activity",
+      "significantly improved anticancer activity",
+      "these cancer cell lines"
+    ],
+    "POLYPHENOL": [
+      "19 targeted phenolic compounds",
+      "a decrease",
+      "chlorogenic acid",
+      "gallic acid",
+      "phenolic compounds"
+    ],
+    "FOOD": [
+      "functional food ingredients"
+    ]
+  }
+}

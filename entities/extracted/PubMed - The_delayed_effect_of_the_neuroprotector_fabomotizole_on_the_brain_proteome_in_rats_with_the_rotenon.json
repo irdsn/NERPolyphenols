@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "The delayed effect of the neuroprotector fabomotizole on the brain proteome in rats with the rotenone model of parkinsonism.",
+  "abstract": "Fabomotizole is an original anxiolytic agent developed at the Federal Research Center for Innovator and Emerging Biomedical and Pharmaceutical Technologies that acts on a number of important receptor systems of the brain. In a model of Parkinson's disease induced in rats by a course of rotenone administration, fabomotizole attenuated manifestations of behavioral impairments and influenced the profile and relative content of brain proteins. Five days after the last administration of rotenone, the fabomotizole effect on the behavioral reactions of rats persisted. According to the proteomic study, the profile of brain proteins and changes in their relative content differed significantly from the results obtained immediately after the last administration of rotenone, as well as rotenone in combination with fabomotizole. Changes in the relative content of almost all proteins detected immediately after the last administration of rotenone or rotenone with fabomotizole were not detectable five days later. However, at this time point, there were changes in the relative content of other proteins associated with neurodegeneration in Parkinson's and Alzheimer's diseases. Such dynamics suggests a wave-like change in the content of pathogenetically important brain proteins involved in the mechanisms of neurodegeneration and neuroprotection.",
+  "publication_date": "2025-06-01",
+  "journal": "Biomeditsinskaia khimiia",
+  "doi": "10.18097/PBMCR1586",
+  "entities": {
+    "POLYPHENOL": [
+      "emerging biomedical and pharmaceutical technologies",
+      "important receptor systems",
+      "neuroprotection",
+      "the fabomotizole effect",
+      "the mechanisms"
+    ],
+    "SYMPTOM": [
+      "neurodegeneration",
+      "parkinson's and alzheimer's diseases",
+      "parkinson's disease"
+    ]
+  }
+}

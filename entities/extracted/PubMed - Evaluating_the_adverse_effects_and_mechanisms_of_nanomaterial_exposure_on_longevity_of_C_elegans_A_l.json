@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Evaluating the adverse effects and mechanisms of nanomaterial exposure on longevity of C. elegans: A literature meta-analysis and bioinformatics analysis of multi-transcriptome data.",
+  "abstract": "Exposure to large-size particulate air pollution (PM2.5 or PM10) has been reported to increase risks of aging-related diseases and human death, indicating the potential pro-aging effects of airborne nanomaterials with ultra-fine particle size (which have been widely applied in various fields). However, this hypothesis remains inconclusive. Here, a meta-analysis of 99 published literatures collected from electronic databases (PubMed, EMBASE and Cochrane Library; from inception to June 2023) was performed to confirm the effects of nanomaterial exposure on aging-related indicators and molecular mechanisms in model animal C. elegans. The pooled analysis by Stata software showed that compared with the control, nanomaterial exposure significantly shortened the mean lifespan [standardized mean difference (SMD)\u00a0=\u00a0-2.30], reduced the survival rate (SMD\u00a0=\u00a0-4.57) and increased the death risk (hazard ratio\u00a0=\u00a01.36) accompanied by upregulation of ced-3, ced-4 and cep-1, while downregulation of ctl-2, ape-1, aak-2 and pmk-1. Furthermore, multi-transcriptome data associated with nanomaterial exposure were retrieved from Gene Expression Omnibus (GSE32521, GSE41486, GSE24847, GSE59470, GSE70509, GSE14932, GSE93187, GSE114881, and GSE122728) and bioinformatics analyses showed that pseudogene prg-2, mRNAs of abu, car-1, gipc-1, gsp-3, kat-1, pod-2, acdh-8, hsp-60 and egrh-2 were downregulated, while R04A9.7 was upregulated after exposure to at least two types of nanomaterials. Resveratrol (abu, hsp-60, pod-2, egrh-2, acdh-8, gsp-3, car-1, kat-1, gipc-1), naringenin (kat-1, egrh-2), coumestrol (egrh-2) or swainsonine/niacin/ferulic acid (R04A9.7) exerted therapeutic effects by reversing the expression levels of target genes. In conclusion, our study demonstrates the necessity to use phytomedicines that target hub genes to delay aging for populations with nanomaterial exposure.",
+  "publication_date": "2024-01-13",
+  "journal": "Environmental research",
+  "doi": "10.1016/j.envres.2024.118106",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "aging-related diseases",
+      "aging-related indicators"
+    ],
+    "POLYPHENOL": [
+      "electronic databases",
+      "molecular mechanisms",
+      "naringenin",
+      "resveratrol",
+      "swainsonine/niacin/ferulic acid",
+      "the effects",
+      "the necessity",
+      "the potential pro-aging effects",
+      "therapeutic effects"
+    ]
+  }
+}

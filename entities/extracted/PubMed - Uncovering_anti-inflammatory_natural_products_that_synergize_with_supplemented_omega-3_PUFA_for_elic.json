@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Uncovering anti-inflammatory natural products that synergize with supplemented omega-3 PUFA for eliciting endogenous inflammation resolution signals.",
+  "abstract": "Inflammation resolution is governed by specialized pro-resolving mediators (SPM), mainly formed from omega-3 polyunsaturated fatty acids (n-3 PUFA) by lipoxygenases (LOX), which terminate inflammatory processes and facilitate healing and tissue repair. Promoting endogenous SPM formation, besides therapeutic SPM application, is an innovative concept for intervention in inflammatory diseases, achievable by allosteric 15-LOX activation. Here, targeted screening of the 29 most frequently applied anti-inflammatory natural products using lipid mediator metabololipidomics uncovered the acylphloroglucinols hyperforin, arzanol, garcinol, Myrtucommulone A and the lignan magnolol as potent 15-LOX activators to elicit robust SPM production in resting human M2-like macrophages. Simultaneous n-3 PUFA supplementation synergistically enhanced SPM formation in these M2-like macrophages, most strikingly with magnolol. Comprehensive targeted metabololipidomics in activated human polymorphonuclear leukocytes, monocytes, and M1-/M2-like macrophages revealed shifts from pro-inflammatory cyclooxygenase (COX) and 5-LOX products to pro-resolving 15-LOX products by magnolol and acylphloroglucinols. Finally, using zymosan-induced peritonitis in mice, application of a magnolol/n-3 PUFA combination confirmed synergistic SPM elevation in vivo. Together, we established an approach based on synergism of natural allosteric 15-LOX activators and supplemented n-3 PUFA to accomplish SPM-based resolution pharmacology.",
+  "publication_date": "2025-05-30",
+  "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "doi": "10.1016/j.biopha.2025.118190",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation resolution"
+    ],
+    "POLYPHENOL": [
+      "specialized pro-resolving mediators"
+    ],
+    "FOOD": [
+      "omega-3 polyunsaturated fatty acids"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Quercetin alleviates diabetic nephropathy by inhibiting M1 macrophage polarization via targeting NLRC5/NLRP3 pathway.",
+  "abstract": "The activation imbalance of M1/M2 macrophage phenotypes is crucial in diabetic nephropathy (DN). This study aimed to explore the molecular mechanisms underlying quercetin's action against DN.",
+  "publication_date": "2025-06-17",
+  "journal": "Cellular immunology",
+  "doi": "10.1016/j.cellimm.2025.104997",
+  "entities": {
+    "POLYPHENOL": [
+      "quercetin's action",
+      "the molecular mechanisms"
+    ]
+  }
+}

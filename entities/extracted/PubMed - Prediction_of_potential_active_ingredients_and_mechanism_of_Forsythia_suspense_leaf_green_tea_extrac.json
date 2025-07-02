@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Prediction of potential active ingredients and mechanism of Forsythia suspense leaf green tea extract in treating COPD mice based on UPLC-MS and network pharmacology.",
+  "abstract": "Chronic obstructive pulmonary disease (COPD) is a common chronic respiratory disease and the third leading cause of death worldwide, with chronic inflammation as its primary pathogenesis. The dried leaves of Forsythia suspensa (Thunb.) have anti-inflammatory pharmacological activity and potential clinical promise for the treatment of COPD; however, its pharmacodynamic activity and mechanism of action remain to be clarified.",
+  "publication_date": "2025-04-02",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.14264",
+  "entities": {
+    "SYMPTOM": [
+      "chronic inflammation"
+    ],
+    "POLYPHENOL": [
+      "mechanism"
+    ]
+  }
+}

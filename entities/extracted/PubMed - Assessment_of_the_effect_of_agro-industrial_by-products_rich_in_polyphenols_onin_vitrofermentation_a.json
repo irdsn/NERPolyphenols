@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Assessment of the effect of agro-industrial by-products rich in polyphenols onin vitrofermentation and methane reduction in sheep.",
+  "abstract": "This study aimed to evaluate, using thein vitrogas production technique, the effect of including eight agro-industrial by-products (carob, grape, two types of olive pomace, citrus pulp, tomato, and hazelnut skin) on fermentation end-products, ruminal degradability, and methane production in sheep diets.",
+  "publication_date": "2025-01-30",
+  "journal": "Frontiers in veterinary science",
+  "doi": "10.3389/fvets.2025.1530419",
+  "entities": {
+    "POLYPHENOL": [
+      "the effect",
+      "thein vitrogas production technique"
+    ],
+    "FOOD": [
+      "grape",
+      "hazelnut skin",
+      "tomato"
+    ]
+  }
+}

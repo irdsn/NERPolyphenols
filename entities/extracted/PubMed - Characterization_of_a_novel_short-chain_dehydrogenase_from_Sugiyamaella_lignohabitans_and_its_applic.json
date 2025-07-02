@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Characterization of a novel short-chain dehydrogenase from Sugiyamaella lignohabitans and its application in the degradation of patulin.",
+  "abstract": "Patulin (PAT) is a widespread and hazardous fungal toxin that is commonly found in fruits and grain crops, threatening global food safety. Increasing attention has been focused on biological approaches for PAT decontamination in recent years. This study successfully identified a short-chain dehydrogenase with PAT-degrading activity derived from Sugiyamaella lignohabitans and made a preliminary characterization of the recombinant enzyme Suli-SDR. The Suli-SDR displayed the optimal activity at pH 7.0 and 80\u202f\u00b0C, indicating a good activity when applied in the pasteurization procedure of the apple juice. Suli-SDR with a final concentration of 1\u202f\u03bcg/mL could degrade 88\u202f% of PAT (50\u202f\u03bcg/mL) within 12\u202fh, revealing its superior degradation performance. After measuring the parameters related to the quality of apple juice, including vitamin C, titratable acids, total phenols, etc., it was found that there was no significant effect on the parameters of apple juice after enzymatic treatment by Suli-SDR. In a short summary, this study evaluated the catalytic ability of Suli-SDR and explored the feasibility of enzyme on PAT control in practical production.",
+  "publication_date": "2025-03-20",
+  "journal": "Enzyme and microbial technology",
+  "doi": "10.1016/j.enzmictec.2025.110630",
+  "entities": {
+    "POLYPHENOL": [
+      "no significant effect",
+      "pat decontamination",
+      "recent years",
+      "the recombinant enzyme suli-sdr"
+    ],
+    "FOOD": [
+      "apple juice",
+      "the apple juice"
+    ]
+  }
+}

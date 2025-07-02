@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Unveiling Flavonoid Reactivity: A High-Resolution Mass Spectrometry Journey Through the Silylation of Quercetin.",
+  "abstract": "Quercetin is an example of a pentahydroxylated flavonol compound studied extensively due to its excellent biological activity (e.g., antioxidant, antiviral, and antimicrobial). The antioxidant properties of flavonoids are influenced by the arrangement of the substituents around the molecule, a phenomenon known as the structure-activity relationship (SAR). SAR studies the relationship between compounds' structural characteristics and their biological activity in drug design.",
+  "publication_date": "",
+  "journal": "Rapid communications in mass spectrometry : RCM",
+  "doi": "10.1002/rcm.10101",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "quercetin",
+      "the molecule"
+    ]
+  }
+}

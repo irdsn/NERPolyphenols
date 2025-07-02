@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "(-)-Epigallocatechin-3-gallate (EGCG) decreases neuronal network excitability and interictal like activity in mouse brain slices.",
+  "abstract": "(-)-Epigallocatechin-3-gallate (EGCG), the main flavonoid in green tea, is best known for its antioxidant and anti-inflammatory effects. EGCG interacts with certain ion channels and modulates ionic currents. However, its acute effect on neuronal activity is not known. In the present study, the effects of acute EGCG application on the excitability of neuronal network and epileptiform discharges were investigated. Acute brain slices were used for electrophysiological recordings. 370 µm thick entorhinal-hippocampal horizontal slices were obtained from 7-8 weeks old C57BL/6 mice. 100 µM 4-Aminopyridine (4AP) was used to induce epileptiform activity. Extracellular recordings of epileptiform activities were evaluated in the entorhinal cortex and hippocampus CA1 region. Additionally, the affinity of EGCG on the GABA-A receptor was evaluated in the central nervous system using the molecular docking method. Bath application of 10 μM and 50 μM EGCG reduced interictal event frequency in both entorhinal cortex and hippocampus. EGCG at 50 μM suppressed the absolute power of neuronal oscillations. To be able to explain these effects, we have analysed docking properties of EGCG to GABA-A receptor. The binding energy between EGCG and the GABA-A receptor was calculated as -7.41 kcal/mol. The affinity of EGCG for the GABA-A receptor is satisfactory compared to the reference molecule Diazepam. Findings showed for the first time that the acute application of EGCG had an inhibitory effect on neuronal excitability and also on synchronized events. EGCG might have a potential as a novel anti-seizure molecule.",
+  "publication_date": "2025-05-26",
+  "journal": "Neuroscience letters",
+  "doi": "10.1016/j.neulet.2025.138274"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Gut microbiota and well-being: A comprehensive summary of the special issue.",
+  "abstract": "Gut microbes play an immense role in digesting ingested food, providing nutrients to the host, and producing several bioactive metabolites that not only help maintain health but can also elicit disease during dysbiotic conditions. The bioactive compounds derived from gut microbiota metabolites include trimethylamine-N-oxide (TMAO), uremic toxins, short chain fatty acids (SCFAs), phytoestrogens, anthocyanins, bile acids, lipopolysaccharide - to name a few. Once these compounds enter the host cells, tissues, and organs they can cause diseases such as epigenetic, metabolic, neurodegenerative, psychiatric, cardiovascular, hypertension, respiratory, gastrointestinal, kidney, bone, cancer, and others. Regulating healthy gut microbiota thus provides a potential option for the prevention, reversal, or even treatment of these diseases. Towards this end, various interventional strategies are postulated in this field of emerged and rapidly expanding health research arena that includes fecal microbiota transplantation, prebiotics, and probiotics, and to introduce the concept that correcting gut dysbiosis can ameliorate disease symptoms, thus offering a new approach towards dysbiosis-related disease mitigation and treatment. In the special issue of Pharmacological Research titled \"Gut Microbiota and Well-Being,\" several outstanding research findings and review articles are published, covering a broad spectrum of topics related to the influence of gut microbiota on health and disease. This editorial summarizes each of these contributions, prioritizing research findings before discussing the review articles. The summaries are restructured abstracts of relevant articles focusing on major findings or thematic topics.",
+  "publication_date": "2025-05-21",
+  "journal": "Pharmacological research",
+  "doi": "10.1016/j.phrs.2025.107791",
+  "entities": {
+    "POLYPHENOL": [
+      "a broad spectrum",
+      "fecal microbiota transplantation",
+      "the special issue"
+    ],
+    "SYMPTOM": [
+      "gut dysbiosis"
+    ]
+  }
+}

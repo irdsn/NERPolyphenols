@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Development and Characterization of Chitosan Nanoparticles Containing Quercetin-\u03b2-Cyclodextrin Inclusion Complex for Improved Solubility, Brain Targeting, and Neuroprotective Potential Against Epilepsy.",
+  "abstract": "The present study focuses on developing and optimising chitosan nanoparticles containing quercetin-\u03b2-cyclodextrin inclusion complex (QNPs) using the nanoprecipitation method to enhance quercetin's solubility, stability, and bioavailability. A comprehensive optimization study revealed that Batch B6, which utilized ethanol as the solvent, poloxamer 188 as the stabilizer, and chitosan at a concentration of 0.2% (w/v), exhibits optimal characteristics required for providing a stable colloidal system. The prepared nanoparticles were characterized for their physicochemical properties using FTIR, DSC, X-ray Diffraction, and SEM, which confirmed the successful inclusion of quercetin within the \u03b2-cyclodextrin complex and the reduction in crystallinity. In-vitro drug release studies demonstrated a controlled release profile for QNPs compared to free quercetin and the inclusion complex. Pharmacokinetic evaluation in mice via oral administration revealed a significant enhancement in systemic circulation and brain uptake, with QNPs showing a peak plasma concentration of 6.5\u00a0\u00b5g/mL at 2\u00a0h and a brain concentration of 3.5\u00a0\u00b5g/g at 4\u00a0h, indicating improved bioavailability and prolonged retention. In the Pentylenetetrazole and Kainic acid-induced epilepsy mice model, QNP significantly reduced seizure duration, frequency of seizures, and severity scores favoured the QNP formulation over free quercetin. QNPs also exhibited a significant neuroprotective effect by enhancing antioxidant enzyme levels such as superoxide dismutase, catalase, and glutathione reductase in brain tissue. Furthermore, Na\u207a/K\u207a-ATPase activity was significantly preserved in QNP-treated groups, indicating membrane stability and reduced neuronal excitability. These findings suggest that QNPs offer a promising strategy for enhancing quercetin's therapeutic efficacy in neurological disorders such as epilepsy.",
+  "publication_date": "2025-05-06",
+  "journal": "AAPS PharmSciTech",
+  "doi": "10.1208/s12249-025-03119-2",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant neuroprotective effect",
+      "free quercetin",
+      "quercetin",
+      "quercetin's solubility",
+      "quercetin's therapeutic efficacy",
+      "the nanoprecipitation method"
+    ]
+  }
+}

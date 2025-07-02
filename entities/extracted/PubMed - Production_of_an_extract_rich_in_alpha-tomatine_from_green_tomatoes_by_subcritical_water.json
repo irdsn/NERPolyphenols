@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Production of an extract rich in alpha-tomatine from green tomatoes by subcritical water.",
+  "abstract": "Green tomatoes, a by-product of agro-food industry, are rich in the glycoalkaloid alpha-tomatine. This compound presents health benefits including anti-inflammatory and fungicide properties. Subcritical water extraction (SWE), a green and sustainable process, was used to obtain a tomatine-rich extract from fresh or frozen tomatoes. SWE extractedca200 mg tomatine/100 g tomato, an amount higher than conventional methods, at a temperature of 190\u00b0C and a residence time of 15 min. Green tomatoes' SWE extracts were characterized in terms of their composition and antioxidant activity. The phenolic content obtained was approximately 200 mg of gallic acid equivalents/100 g tomatoes, and the saponin content was 1000 mg of tomatine equivalents/100 g tomatoes. Total carbohydrate content was different between fresh and frozen tomatoes, 1812 mg of D(+)- glucose equivalents/100 g tomatoes versus 1269 mg/100 g, respectively. In terms of antioxidant activity, a value around 100 mg of Trolox equivalents/100 g of tomatoes was obtained in the 2,2-diphenyl-1-picrylhydrazyl assay, whereas a value of 558 mg of Trolox equivalents/100 mg fresh tomatoes versus 452 mg of Trolox equivalents/100 g frozen tomatoes was obtained by cupric ion reducing antioxidant capacity assay. SWE extraction proved to be a valuable method to extract glycoalkaloids from green tomatoes. The obtained extracts have the potential to be used as ingredients and actives in the cosmetic and pharmaceutical industries.",
+  "publication_date": "2025-06-11",
+  "journal": "Royal Society open science",
+  "doi": "10.1098/rsos.250240",
+  "entities": {
+    "FOOD": [
+      "15 min. green tomatoes' swe extracts",
+      "equivalents/100 mg fresh tomatoes",
+      "extractedca200 mg tomatine/100 g tomato",
+      "fresh and frozen tomatoes",
+      "fresh or frozen tomatoes",
+      "g frozen tomatoes",
+      "g tomatoes",
+      "green tomatoes",
+      "tomatoes"
+    ],
+    "POLYPHENOL": [
+      "gallic acid"
+    ]
+  }
+}

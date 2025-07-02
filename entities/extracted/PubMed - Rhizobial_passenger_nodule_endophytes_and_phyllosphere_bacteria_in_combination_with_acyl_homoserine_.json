@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Rhizobial, passenger nodule endophytes and phyllosphere bacteria in combination with acyl homoserine lactones enhances the growth and yield of groundnut.",
+  "abstract": "Quorum sensing (QS) mechanisms play an essential role in mediating several signals and plant-bacteria interactions, promoting plant growth. This study demonstrated production of multiple Homoserine lactone (HSL) molecules like C6 HSL, C7 HSL, C8 HSL, 3-Hydroxy-C8-HSL and 3-oxo-C14 HSL in rhizobial and passenger endophytes and phyllospheric bacteria which regulated production of plant growth promoting traitsviz.,indole acetic acid and exo-polysaccharide production, biofilm formation, and motility. Quorum quenching (QQ) molecules like salicylic acid, gallic acid, and disalicylic acid impaired these traits, but exogenous addition of QS molecules (C7HSL and 3-oxo-C14 HSL) restored these inhibitory effects of QQ compounds. The pot culture experiment revealed that the treatment involvingMethylobacterium populiTMV7-4 orEnterobacter cloacaeS23 with salicylic acid, C7HSL and 3-oxo-C14 HSL significantly enhanced plant growth including root length, nodulation, pod formation, soil available nutrients and plant nutrients uptake. In future field validation is required for the use of QS molecules in improving groundnut production.",
+  "publication_date": "2025-04-04",
+  "journal": "Biotechnology reports (Amsterdam, Netherlands)",
+  "doi": "10.1016/j.btre.2025.e00893",
+  "entities": {
+    "POLYPHENOL": [
+      "disalicylic acid",
+      "gallic acid",
+      "multiple homoserine lactone (hsl) molecules",
+      "qs molecules",
+      "quorum quenching (qq) molecules",
+      "quorum sensing (qs) mechanisms",
+      "salicylic acid",
+      "these inhibitory effects"
+    ]
+  }
+}

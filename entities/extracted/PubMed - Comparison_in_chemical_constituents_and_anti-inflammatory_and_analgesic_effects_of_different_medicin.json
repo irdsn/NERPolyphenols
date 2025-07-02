@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Comparison in chemical constituents and anti-inflammatory and analgesic effects of different medicinal parts from a Vitex negundo L. var. cannabifolia.",
+  "abstract": "Vitex negundo L. var. cannabifolia (VN) is a traditional Chinese medicine (TCM) and has long been used for rheumatic arthralgia and rheumatoid arthritis. However, pharmacological and mechanistic studies confirming these clinical effects have not yet been published. This study compared the anti-inflammatory and analgesic effects of different medicinal parts of VN. The root, stems and leaves, and fruit of VN were refluxed with 70\u00a0% ethanol to obtain the VNR, VNSL and VNF extract, respectively. Chemical compositions of them were analyzed by UPLC-Q-TOF/MS. Xylene-induced ear edema in mice and complete Freund's adjuvant-induced arthritis (AA) in rats as well as acetic acid-induced pain in mice were used to evaluate the anti-inflammatory and analgesic effects of VNR, VNSL and VNF. UPLC-Q-TOF/MS analysis showed that VNR, VNSL and VNF mainly contained flavonoids, lignans, terpenes, phenylpropanoids, and phenolic acids. In addition, VNR, VNSL, and VNF significantly inhibited ear edema in mice, alleviated paw swelling, decreased the serum levels of IL-1\u03b2, IL-6 and NO, as well as improved synovial tissue inflammation in AA rats. Similarly, VNR, VNSL and VNF also markedly suppressed the number of twists and prolonged writhing reaction time in acetic acid-induced writhing in mice. The results suggested that the anti-inflammatory effects of VNSL and the analgesic effects of VNF are more significant. In sum, replacing VNR with VNSL and VNF can provide scientific basis for the resource utilization and TCM development of VN.",
+  "publication_date": "2025-06-16",
+  "journal": "Fitoterapia",
+  "doi": "10.1016/j.fitote.2025.106693",
+  "entities": {
+    "SYMPTOM": [
+      "acetic acid-induced pain",
+      "improved synovial tissue inflammation",
+      "rheumatoid arthritis"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "pharmacological and mechanistic studies",
+      "the analgesic effects",
+      "the anti-inflammatory and analgesic effects",
+      "the anti-inflammatory effects",
+      "these clinical effects"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Magnolol improves postoperative cognitive dysfunction in aged mice by activating the nuclear factor erythroid 2-related factor 2/antioxidant response element pathway.",
+  "abstract": "The incidence of postoperative cognitive dysfunction (POCD) in elderly patients is high and related to an increased postoperative mortality rate. Magnolol has the potential to improve cognitive function, but its therapeutic effects and mechanisms of action on POCD remain unclear.",
+  "publication_date": "2025-05-30",
+  "journal": "Neuroreport",
+  "doi": "10.1097/WNR.0000000000002177",
+  "entities": {
+    "POLYPHENOL": [
+      "its therapeutic effects",
+      "mechanisms"
+    ]
+  }
+}

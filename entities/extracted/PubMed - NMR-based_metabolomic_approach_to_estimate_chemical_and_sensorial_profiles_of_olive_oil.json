@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "NMR-based metabolomic approach to estimate chemical and sensorial profiles of olive oil.",
+  "abstract": "This study investigates the potential of1H NMR spectroscopy for predicting key chemical and sensory attributes in olive oil. By integrating NMR data with traditional chemical analyses and sensory evaluation, we developed multivariate models to evaluate the predictive power of NMR spectra coupled with machine learning algorithms for 50 distinct olive oil quality parameters, including physicochemical properties, fatty acid composition, total polyphenols, tocopherols, and sensory attributes. We applied Random Forest regression models to correlate NMR spectra with these parameters, achieving promising results, particularly for predicting major fatty acids, total polyphenols, and tocopherols. We have also found the collected data to be highly effective in classifying olive cultivars and the years of harvest. Our findings highlight the potential of NMR spectroscopy as a rapid, non-destructive, and environmentally friendly tool for olive oil quality assessment. This study introduces a novel approach that combines machine learning with1H NMR spectral analysis to correlate analytical data for predicting essential qualitative parameters in olive oil. By leveraging1H NMR spectra as predictive proxies, this methodology offers a promising alternative to traditional assessment techniques, enabling rapid determination of several parameters related to chemical composition, sensory attributes, and geographical origin of olive oil samples.",
+  "publication_date": "2025-03-29",
+  "journal": "Computational and structural biotechnology journal",
+  "doi": "10.1016/j.csbj.2025.03.045",
+  "entities": {
+    "FOOD": [
+      "50 distinct olive oil quality parameters",
+      "olive oil",
+      "olive oil quality assessment",
+      "olive oil samples"
+    ],
+    "POLYPHENOL": [
+      "leveraging1h nmr spectra",
+      "nmr spectra",
+      "the collected data",
+      "total polyphenols",
+      "traditional assessment techniques",
+      "with1h nmr spectral analysis"
+    ]
+  }
+}

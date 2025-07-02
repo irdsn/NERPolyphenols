@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Honokiol in the treatment of triple-negative breast cancer: a network pharmacology approach and experimental validation.",
+  "abstract": "Triple-negative breast cancer (TNBC) is a rare and highly metastatic form of cancer. Honokiol (HNK), a biphenolic compound, has been utilized in TNBC treatment, though its specific targets remain unclear. This study aimed to elucidate the effects of HNK on TNBC by combining network pharmacology predictions and experimental validation to uncover its mechanisms. MDA-MB 231 and MDA-MB 468\u00a0cells were pre-treated with varying doses of HNK for 24\u00a0h. Cell viability, proliferation, and apoptosis were assessed using CCK8 and FACS assays, whereas a wound healing assay was used to evaluate cell migration. A tubule formation assay was used to assess blood vessel formation in HUVECs. Additionally, in vivo activity was confirmed using a zebrafish xenograft model. Network pharmacology and molecular docking predicted active ingredients, key targets, and potential mechanisms of HNK against TNBC. Results indicated that HNK induces apoptosis in MDA-MB 231 and MDA-MB 468\u00a0cells and inhibits their migration and proliferation. Furthermore, HNK suppressed blood vessel formation. Zebrafish xenograft experiments validated HNK's inhibitory effect on TNBC cells in vivo. Network pharmacology identified 36 potential HNK targets against TNBC, including HSP90AA1, AKT1, EGFR, ERBB2, HSP90AB1, PGR, MDM2, HDAC1, NR3C1, and MAPK14. Key signaling pathways such as PI3K-Akt, MAPK, Rap1, Ras, and FoxO were implicated in HNK's anti-TNBC mechanism. Molecular docking demonstrated spontaneous interactions between HNK and the targeted proteins. In conclusion, HNK may reduce angiogenesis by blocking the EGFR and HSP90AB1 pathways thereby decreasing proliferation and increasing apoptosis in TNBC cells.",
+  "publication_date": "2025-05-15",
+  "journal": "Biochemical and biophysical research communications",
+  "doi": "10.1016/j.bbrc.2025.152008",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer",
+      "increasing apoptosis",
+      "triple-negative breast cancer"
+    ],
+    "POLYPHENOL": [
+      "a biphenolic compound",
+      "hnk's anti-tnbc mechanism",
+      "hnk's inhibitory effect",
+      "huvecs",
+      "its mechanisms",
+      "its specific targets",
+      "molecular docking",
+      "potential mechanisms",
+      "the effects"
+    ]
+  }
+}

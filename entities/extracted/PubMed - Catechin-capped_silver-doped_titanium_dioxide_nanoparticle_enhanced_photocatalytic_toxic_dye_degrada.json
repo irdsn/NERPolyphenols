@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Catechin-capped silver-doped titanium dioxide nanoparticle enhanced photocatalytic toxic dye degradation.",
+  "abstract": "Doping-associated surface modification is a powerful strategy to enhance the photocatalytic potential of n-type semiconductor nanomaterials. Silver (Ag) is one of the most effective dopants that can result in the retardation of the electron hole recombination-generating Schottky barrier at the TiO2interface with a simultaneous extension of absorption to the visible region. This work presents a study on the effect of catechin, a bioactive principle polyphenol compound found in various plants, on the synthesis, Ag-doping and stabilization of TiO2nanoparticles (TiO2NPs). The nanoparticles were irregular in shape with sizes ranging from 19 to 30\u00a0nm. Ag-TiO2NPs were fabricated using TiO2as a precursor and 1%, 3%, and 5% AgNO3as a doping agent. The average particle size of 1%Ag-TiO2NPs, 3%Ag-TiO2NPs, and 5%Ag-TiO2NPs was 27.3 \u00b1 7.5\u00a0nm, 29.8 \u00b1 9.6\u00a0nm, and 25.0 \u00b1 9.0\u00a0nm, respectively. High-resolution transmission electron microscopy (HRTEM) showed lattice fringes with an interplanar spacing of 0.23\u00a0nm corresponding to the Ag (111) plane in addition to the presence of the anatase phase of TiO2. Fourier transform infrared (FTIR) spectra exhibited a broad peak around 400-800\u00a0cm-1that was attributed to Ti-O-Ti stretching vibrations which was slightly shifted in Ag-TiO2NPs due to changes in the local bonding environment around Ti atoms caused by interactions with Ag. Catechin loading in the TiO2NPs and Ag-TiO2NPs was between 1.55 and 3.3\u00a0wt. %. TiO2NPs, 1%Ag-TiO2NPs, 3%Ag-TiO2NPs, and 5%Ag-TiO2NPs exhibited superior photocatalytic degradation of methylene blue dye up to 78%, 87%, 91%, and 92%, respectively, and RhB dye up to 92%, 94%, 97% and 99%, respectively, with a pseudo-first-order reaction kinetics. Furthermore, its recyclability was also demonstrated for three cycles. The simplicity of fabrication and superior photocatalytic performance of TiO2demonstrated here make this green route advantageous for environmental applications to treat dye contaminated effluent as well as for numerous other applications.",
+  "publication_date": "2025-04-15",
+  "journal": "Frontiers in chemistry",
+  "doi": "10.3389/fchem.2025.1576504",
+  "entities": {
+    "POLYPHENOL": [
+      "a bioactive principle polyphenol compound",
+      "a precursor",
+      "catechin",
+      "high-resolution transmission electron microscopy",
+      "its recyclability",
+      "the effect",
+      "the electron hole recombination-generating schottky barrier",
+      "the most effective dopants"
+    ]
+  }
+}

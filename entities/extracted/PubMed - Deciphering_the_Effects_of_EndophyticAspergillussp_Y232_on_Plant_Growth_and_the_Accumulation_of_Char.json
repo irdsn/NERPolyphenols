@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Deciphering the Effects of EndophyticAspergillussp. Y232 on Plant Growth and the Accumulation of Characteristic Bioactive Compounds ofEucommia ulmoidesOliver.",
+  "abstract": "Eucommia ulmoidesOliver is a valuable medicinal plant renowned for its diverse, health-promoting compounds. However, its slow growth and low content of bioactive constituents limit its pharmaceutical development. In this study, a novel endophytic fungus exhibiting multiplein vitroplant growth-promoting traits was isolated fromE. ulmoidesleaves and identified asAspergillussp. Y232. We explored the effects of Y232 on plant growth and the accumulation of characteristic bioactive compounds inE. ulmoidesalong with the underlying mechanisms. Results revealed that Y232 significantly enhances seed germination and promotes seedling growth, with increases in the content of characteristic iridoids, phenolics, lignans, and flavonoids ranging from 16.6% to 37.4%. Additionally, Y232 inoculation resulted in elevated activities of antioxidant enzymes (SOD, POD, and CAT) and upregulation of key enzyme genes (PAL,4CL,CHI, andHCT) involved in phenylpropanoid biosynthesis. These findings indicate that Y232 may activate the antioxidant defense system and stimulate phenylpropanoid metabolism, contributing to increased secondary metabolite accumulation. This study underscores the beneficial role ofAspergillussp. Y232 as an eco-friendly alternative to chemical fertilizers, promoting the growth and quality of economically significant medicinal plants.",
+  "publication_date": "2025-06-09",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c12786",
+  "entities": {
+    "POLYPHENOL": [
+      "an eco-friendly alternative",
+      "economically significant medicinal plants",
+      "flavonoids",
+      "increased secondary metabolite accumulation",
+      "the effects",
+      "the underlying mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Morin as a Modulator of Hepatic Glucose Fluxes: A Balance Between Antihyperglycemic Potential and Mitochondrial Toxicity.",
+  "abstract": "This study evaluated the acute effects of morin on gluconeogenesis and glycogenolysis, key metabolic pathways that maintain glycemia, in perfused rat livers. It also assessed the acute effects of morin on mitochondrial energy metabolism and toxicity in hepatic cancer cells (HepG2) and renal epithelial cells (VERO), alongside its impact on the activity of key enzymes. Liver perfusion experiments assessed glucose fluxes, oxygen consumption, adenine nucleotide levels, and enzyme activities. Isolated mitochondria evaluated the effects of morin on oxidative phosphorylation. Enzymatic assays and MTT tests conducted in vitro determined the effects on hepatic enzymes and cell viability. In perfused rat livers, morin generally inhibited gluconeogenesis from various substrates, stimulated glycogenolysis and glycolysis, and altered oxygen consumption. Experiments on morin biotransformation suggested that this process may contribute to the inhibition of gluconeogenesis. Moreover, morin inhibited citric acid cycle activity under gluconeogenic conditions and reduced cellular ATP/ADP and ATP/AMP ratios under both gluconeogenic and glycogenolytic conditions. The elevated activity of cytosolic and mitochondrial enzymes in the effluent from perfused livers indicated impaired membrane integrity. In isolated rat liver mitochondria, morin inhibited the electron transport chain, the ATP/ADP exchange system, and functioned as an uncoupling agent of oxidative phosphorylation, thereby reducing ATP synthesis. Under in vitro conditions, morin inhibited the activity of glucose 6-phosphatase, glucokinase, glucose 6-phosphate dehydrogenase, and pyruvate kinase from rat livers. At the cellular level, morin decreased the viability of HepG2 and VERO cells, indicating its toxicity. The increased glucose release due to heightened glycogenolysis, combined with the suppression of gluconeogenesis, may impact the expected antihyperglycemic effects of morin. These outcomes were partly attributed to mitochondrial bioenergetic disruption, which is an important consideration for the therapeutic use of morin, particularly with prolonged treatment or higher doses. Together, these findings highlight morin's potential as an antihyperglycemic agent but also reveal significant concerns regarding its mitochondrial toxicity.",
+  "publication_date": "2025-06-01",
+  "journal": "Journal of biochemical and molecular toxicology",
+  "doi": "10.1002/jbt.70386",
+  "entities": {
+    "POLYPHENOL": [
+      "morin",
+      "morin biotransformation",
+      "morin's potential",
+      "the acute effects",
+      "the effects",
+      "the electron transport chain",
+      "the expected antihyperglycemic effects"
+    ],
+    "SYMPTOM": [
+      "hepatic cancer cells"
+    ]
+  }
+}

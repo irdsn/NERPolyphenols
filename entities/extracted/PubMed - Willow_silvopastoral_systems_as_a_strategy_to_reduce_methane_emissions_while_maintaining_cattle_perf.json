@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Willow silvopastoral systems as a strategy to reduce methane emissions while maintaining cattle performance.",
+  "abstract": "Willow (Salix sp.) is a common tree used in agroforestry for biofuel production and contains condensed tannins (CTs). This study investigated, for the first time, the feasibility of using willow grazing in a silvopastoral system to improve ruminant productivity while minimizing environmental impact. The specific objectives were to: (a) characterise willow's CTs, and (b) explore their effect on methane emissions and animal performance. Twenty growing castrated beef cattle (steers) were used in a two-treatment study comparing grazing systems: a willow fodder mix with a grass understory (WFG) and perennial ryegrass grazing (PRG). The study was conducted using a two-period Latin square design. Steers grazing on WFG had an average daily CT intake of 617\u00a0g/d. For CTs, the mean degree of polymerisation was 10.6, and the ratio of procyanidin to prodelphinidin was 28.9:71.2. No significant differences were observed between the two treatments in metabolisable energy intake (P\u2009=\u20090.0728), nitrogen intake (P\u2009=\u20090.844), forage dry matter intake (P\u2009=\u20090.100), or total dry matter intake (P\u2009=\u20090.0591). A 27% reduction in methane production was observed for the WFG treatment relative to PRG (P\u2009<\u20090.001; 173 vs. 273\u00a0g/d). This study is the first to provide evidence of the significant potential that willow could have in sustainable livestock production systems worldwide.",
+  "publication_date": "2025-06-02",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-02289-0",
+  "entities": {
+    "POLYPHENOL": [
+      "condensed tannins",
+      "procyanidin",
+      "prodelphinidin",
+      "the specific objectives",
+      "their effect"
+    ]
+  }
+}

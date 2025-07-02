@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Galloflavin mitigates acute kidney injury by suppressing LDHA-dependent macrophage glycolysis.",
+  "abstract": "Macrophage-mediated inflammation is closely linked to the pathogenesis of acute kidney injury (AKI) and the shift of macrophages to a pro-inflammatory phenotype being reliant on glycolytic metabolism. Galloflavin, a polyphenol derived from tea, functions as a lactate dehydrogenase A (LDHA) inhibitor, effectively obstructing glycolytic metabolic pathways. However, the specific immunometabolic regulatory functions of galloflavin in macrophages remain unclear. Here, we observed that galloflavin drives alleviation of glycolytic metabolism levels in lipopolysaccharide (LPS)-induced macrophages (RAW264.7 cells and human peripheral blood mononuclear cells-derived macrophages) through downregulation of LDHA expression, thereby inhibiting macrophage conversion to a pro-inflammatory phenotype and reducing the release of inflammatory cytokines. However, the overexpression of LDHA counteracts the effects of galloflavin in macrophages. In addition, in vivo experiments observed a protective effect of galloflavin against cecal ligation and puncture (CLP) and cisplatin-induced renal injury. The ability of galloflavin to inhibit glycolysis in renal macrophages, thereby regulating their phenotypic transition during AKI was further validated through the isolation of renal primary macrophages. This intervention ultimately ameliorated the inflammatory response and decelerated the progression of AKI. Collectively, galloflavin confers protection against AKI by suppressing glycolysis in macrophages through a LDHA-dependent mechanism, thereby positioning it as a potential therapeutic option for AKI in the future.",
+  "publication_date": "2025-02-16",
+  "journal": "International immunopharmacology",
+  "doi": "10.1016/j.intimp.2025.114265",
+  "entities": {
+    "SYMPTOM": [
+      "macrophage-mediated inflammation"
+    ],
+    "POLYPHENOL": [
+      "a ldha-dependent mechanism",
+      "a polyphenol",
+      "a protective effect",
+      "cecal ligation",
+      "protection",
+      "the effects",
+      "the specific immunometabolic regulatory functions"
+    ]
+  }
+}

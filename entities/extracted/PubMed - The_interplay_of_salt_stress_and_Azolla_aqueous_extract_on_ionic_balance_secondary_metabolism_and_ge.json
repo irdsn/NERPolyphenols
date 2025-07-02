@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "The interplay of salt stress and Azolla aqueous extract on ionic balance, secondary metabolism, and gene expression in wheat seedlings.",
+  "abstract": "The resilience of plants against environmental challenges, particularly salinity and dehydration, is crucial for global food security. This study delves into the intricate interaction between NaCl-induced salinity and Azolla aqueous extract (AAE). In a pot trial, wheat kernels were primed with deionized water or 0.1% AAE for 21\u00a0h. Seedlings underwent various treatments; tap water, 250 mM NaCl, AAE priming and spray, and combined AAE with NaCl treatments. Seedlings were analyzed for ionic balance, secondary metabolism, antioxidant efficacy, and molecular response to experimental treatments.",
+  "publication_date": "2025-05-23",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-025-06688-3",
+  "entities": {
+    "POLYPHENOL": [
+      "global food security",
+      "molecular response",
+      "secondary metabolism"
+    ],
+    "FOOD": [
+      "wheat kernels"
+    ]
+  }
+}

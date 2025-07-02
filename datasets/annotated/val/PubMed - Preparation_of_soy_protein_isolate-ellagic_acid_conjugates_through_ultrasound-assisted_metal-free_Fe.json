@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Preparation of soy protein isolate-ellagic acid conjugates through ultrasound-assisted metal-free Fenton reaction: Synthesis, structure, and functional properties.",
+  "abstract": "The grafting of polyphenols onto proteins possesses the potential to enhance their functional properties. In this study, ultrasound-assisted metal-free Fenton reaction grafting method (UMFM) was developed to efficiently prepare soy protein isolate (SPI)-ellagic acid (EA) conjugates. Under optimized conditions of 380\u00a0W, 50\u00a0\u00b0C, and 75\u00a0min, UMFM significantly improved the grafting degree of SPI with EA by 10.3\u00a0% and reduced the reaction time by 94.8\u00a0% compared to the conventional method. In addition, the results of reactive group content, multi-spectroscopy analysis, and surface hydrophobicity demonstrated the decrease in free amino and sulfhydryl groups contents, alterations in the secondary and tertiary structures of SPI, as well the ultrasonication-induced further unfolding of SPI structure, thereby facilitating the formation of covalent bonds between SPI and EA. Moreover, the functional properties of SPI, including thermal stability, emulsifying activity, and antioxidant properties, were significantly enhanced after conjugation with EA, especially in ultrasound-assisted conditions.",
+  "publication_date": "2025-04-17",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144397",
+  "entities": {
+    "POLYPHENOL": [
+      "multi-spectroscopy analysis",
+      "polyphenols",
+      "spi)-ellagic acid",
+      "the decrease",
+      "the secondary and tertiary structures"
+    ],
+    "FOOD": [
+      "soy protein isolate"
+    ]
+  }
+}

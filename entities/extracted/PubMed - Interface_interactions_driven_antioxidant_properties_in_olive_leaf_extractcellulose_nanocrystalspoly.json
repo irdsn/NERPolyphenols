@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Interface interactions driven antioxidant properties in olive leaf extract/cellulose nanocrystals/poly(butylene adipate-co-terephthalate) biomaterials.",
+  "abstract": "Functional packaging represents a new frontier for research on food packaging materials. In this context, adding antioxidant properties to packaging films is of interest. In this study, poly(butylene adipate-co-terephthalate) (PBAT) and olive leaf extract (OLE) have been melt-compounded to obtain novel biomaterials suitable for applications which would benefit from the antioxidant activity. The effect of cellulose nanocrystals (CNC) on the PBAT/OLE system was investigated, considering the interface interactions between PBAT/OLE and OLE/CNC. The biomaterials' physical and antioxidant properties were characterized. Morphological analysis corroborates the full miscibility between OLE and PBAT and that OLE favours CNC dispersion into the polymer matrix. Tensile tests show a stable plasticizer effect of OLE for a month in line with good interface PBAT/OLE interactions. Simulant food tests indicate a delay of OLE release from the 20\u00a0wt% OLE-based materials. Antioxidant activity tests prove the antioxidant effect of OLE depending on the released polyphenols, prolonged in the system at 20\u00a0wt% of OLE. Fluorescence spectroscopy demonstrates the nature of the non-covalent PBAT/OLE interphase interactions in \u03c0-\u03c0 stacking bonds. The presence of CNC in the biomaterials leads to strong hydrogen bonding interactions between CNC and OLE, accelerating OLE released from the PBAT matrix.",
+  "publication_date": "2024-06-05",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2024.132509",
+  "entities": {
+    "SYMPTOM": [
+      "food packaging materials",
+      "functional packaging",
+      "packaging"
+    ],
+    "POLYPHENOL": [
+      "a stable plasticizer effect",
+      "fluorescence spectroscopy",
+      "the antioxidant effect",
+      "the effect",
+      "the released polyphenols"
+    ]
+  }
+}

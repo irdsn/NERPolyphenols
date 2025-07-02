@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Radiotracer labeled thymohydroquinyl gallate capped gold nanoparticles as a theranostic radiopharmaceutical for targeted antineoplastic and bioimaging.",
+  "abstract": "Thymoquinone (Tq) and gallic acid (GA) are known for counter-tumorigenic characteristics. GA inhibits cancer cell proliferation by interfering with many apoptotic signaling pathways, producing more reactive oxygen species (ROS), focusing on the cell cycle, and suppressing the expression of oncogenes and matrix metalloproteinases (MMPs). In this study, thymoquinone (after reducing to thymohydroquinone) and gallic acid are esterified to form thymohydroquinyl gallate (a prodrug). Thymohydroquinyl gallate (THQG) possesses enhanced antineoplastic efficacy and targeted delivery potential. The chemical and spectroscopic analysis confirms ester synthesis. Gold nanoparticles (AuNPs) are employed as nanocarriers due to their physicochemical and optical characteristics, biocompatibility, and low toxicity. As an efficient drug transporter, gold nanoparticles (AuNPs) shield conjugated drugs from enzymatic digestion. The prodrug acts as a reducing agent for Au metal atoms and is loaded onto it after reduction. The nano drug is radiolabeled with99mTc and131I to monitor the drug biodistribution in animals using a gamma camera and single-photon emission computerized tomography (SPECT).131I is an antineoplastic that helps enhance the drug's efficiency. Chromatographic results reveal promising radiolabeling percentages.In\u00a0vitro,drug release shows sustained release at pH\u20535.8.In\u00a0vitro3-[4,5-dimethylthiazol-2-yl]-2,5 diphenyl tetrazolium bromide (MTT) cytotoxicity assay reveals drug potency on CAL 27 and MCF 7\u202fcell lines.",
+  "publication_date": "2024-03-12",
+  "journal": "Journal of pharmaceutical analysis",
+  "doi": "10.1016/j.jpha.2024.100965",
+  "entities": {
+    "POLYPHENOL": [
+      "gallic acid",
+      "more reactive oxygen species",
+      "spect).131i",
+      "the chemical and spectroscopic analysis"
+    ],
+    "SYMPTOM": [
+      "cancer cell proliferation"
+    ]
+  }
+}

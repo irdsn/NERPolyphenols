@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Development of a novel (poly)phenol-rich diet score and its association with urinary (poly)phenol metabolites.",
+  "abstract": "Background: Estimating (poly)phenol intake is challenging due to inadequate dietary assessment tools and limited food content data. Currently,a prioridiet scores to characterise (poly)phenol-rich diets are lacking. This study aimed to develop a novel (poly)phenol-rich diet score (PPS) and explore its relationship with circulating (poly)phenol metabolites.Methods: A total of 543 healthy free-living participants aged 18-80 years completed a food frequency questionnaire (FFQ) (EPIC-Norfolk) and provided 24 h urine samples. The PPS was developed based on the relative intake (quintiles) of 20 selected (poly)phenol-rich food items abundant in the UK diet, including tea, coffee, red wine, whole grains, chocolate and cocoa products, berries, apples and juice, pears, grapes, plums, citrus fruits and juice, potatoes and carrots, onions, peppers, garlic, green vegetables, pulses, soy and soy products, nuts, and olive oil. Foods included in the PPS were chosen based on their (poly)phenol content, main sources of (poly)phenols, and consumption frequencies in the UK population. Associations between the PPS and urinary phenolic metabolites were investigated using linear models adjusting energy intake and multiple testing (FDR adjustedp< 0.05).Result: The total PPS ranged from 25 to 88, with a mean score of 54. A total of 51 individual urinary metabolites were significantly associated with the PPS, including 39 phenolic acids, 5 flavonoids, 3 lignans, 2 resveratrol and 2 other (poly)phenol metabolites. The total (poly)phenol intake derived from FFQs also showed a positive association with PPS (stdBeta 0.32, 95% CI (0.24, 0.40),p< 0.01). Significant positive associations were observed in 24 of 27 classes and subclasses of estimated (poly)phenol intake and PPS, with stdBeta values ranging from 0.12 (0.04, 0.20) for theaflavins/thearubigins to 0.43 (0.34, 0.51) for flavonols (p< 0.01).Conclusion: High adherence to the PPS diet is associated with (poly)phenol intake and urinary biomarkers, indicating the utility of the PPS to characterise diets rich in (poly)phenols at a population level.",
+  "publication_date": "2023-10-30",
+  "journal": "Food & function",
+  "doi": "10.1039/d3fo01982a",
+  "entities": {
+    "FOOD": [
+      "apples",
+      "carrots",
+      "chocolate and cocoa products",
+      "coffee",
+      "garlic",
+      "grapes",
+      "juice",
+      "olive oil",
+      "onions",
+      "pears",
+      "peppers",
+      "plums",
+      "red wine",
+      "soy",
+      "soy products",
+      "whole grains"
+    ],
+    "POLYPHENOL": [
+      "2 resveratrol",
+      "5 flavonoids"
+    ]
+  }
+}

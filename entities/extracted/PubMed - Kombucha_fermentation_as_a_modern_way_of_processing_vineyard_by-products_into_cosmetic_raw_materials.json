@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Kombucha fermentation as a modern way of processing vineyard by-products into cosmetic raw materials.",
+  "abstract": "The wine industry generates large quantities of by-products presenting a remarkably valuable composition in phytochemicals. The process that can significantly increase the content of bioactive compounds is fermentation by yeast and other microorganisms. The current study presents, for the first time, an evaluation of the potential of grape stems extract and its ferments using the Scoby consortium, as a cosmetic raw material for improving the skin care properties of facial cosmetics.",
+  "publication_date": "2023-09-14",
+  "journal": "International journal of cosmetic science",
+  "doi": "10.1111/ics.12891",
+  "entities": {
+    "FOOD": [
+      "grape",
+      "the wine industry"
+    ]
+  }
+}

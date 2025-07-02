@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Mycotoxins in Ready-to-Eat Foods: Regulatory Challenges and Modern Detection Methods.",
+  "abstract": "Mycotoxins are a large family of secondary metabolites produced by filamentous fungi species that may be present in food following fungal growth. Mycotoxins are found in a variety of crops, including wheat, millet, maize, sorghum, peanut, soybean, and their by-products. In recent years, the consumption of ready-to-eat food (RTE) has increased exponentially. An increasing number of consumers have elected to purchase and consume ready-made meals, a choice that allows for a more expedient and convenient dining experience. The aim of this review was to investigate recent literature to find a link between the consumption of mycotoxin-contaminated RTEs, modern detection methods (artificial intelligence), and potential health risks to consumers. The regular exchange of information between the Member States and the European Community (EU) concerning the monitoring of contaminants and undesirable chemical substances, and the subsequent communication of the findings to the EFSA, provides the foundation for the evolution of the legislative framework with the objective of enhancing food safety and reducing the risks associated with the consumption of food. It is imperative that governments, the food industry, and the scientific community collaborate to reduce this risk and ensure consumer safety.",
+  "publication_date": "2025-06-09",
+  "journal": "Toxics",
+  "doi": "10.3390/toxics13060485",
+  "entities": {
+    "POLYPHENOL": [
+      "filamentous fungi species",
+      "modern detection methods",
+      "recent literature",
+      "recent years",
+      "secondary metabolites",
+      "the objective"
+    ],
+    "FOOD": [
+      "soybean",
+      "wheat"
+    ]
+  }
+}

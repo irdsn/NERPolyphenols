@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Evaluation of Inulin and Polyphenol Content and the Cytotoxicity ofCichorium intybusL. var.foliosumRoot Extracts Obtained by Pectinase- and Pressure-Assisted Extraction.",
+  "abstract": "Cichorium intybusL., a member of the Asteraceae family, has numerous health-promoting properties that categorize its preparations as functional foods and herbal medicines. Most previous research focused on the root ofC. intybusvar. sativum(industrial chicory) as a rich source of inulin, while the witloof variety (C. intybusvar.foliosum) is less explored.",
+  "publication_date": "2025-03-16",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17061040",
+  "entities": {
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

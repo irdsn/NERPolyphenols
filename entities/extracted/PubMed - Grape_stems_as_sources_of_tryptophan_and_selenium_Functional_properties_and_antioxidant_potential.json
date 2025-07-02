@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Grape stems as sources of tryptophan and selenium: Functional properties and antioxidant potential.",
+  "abstract": "The Douro Demarcated Region's winery industry produces million tonnes of by-products annually, making their reuse essential to minimize environmental impact. Grape stems, rich in bioactive compounds and nutrients, have demonstrated potential health benefits. This study analysed four red grape stems from the Douro region to assess their nutritional value and potential health benefit. Tryptophan, selenium, and phenolic compounds, which regulate cognitive functions, protein and enzyme synthesis, and antioxidant processes, were analysed. Among the varieties, Touriga Nacional exhibited the highest levels of selenium, phenolics, and antioxidant capacity. Tinta Amarela and Touriga Nacional exhibited higher tryptophan levels. Moreover, proanthocyanidins, phenolic acids, flavonols, and anthocyanins were identified in all the varieties analysed. These findings highlight grape stems, particularly Touriga Nacional, as valuable sources of amino acids and bioactive compounds, offering potential in mood regulation, protein synthesis, and antioxidant defence. This research emphasizes their value to reduce waste, generating revenue, and promoting environmental sustainability.",
+  "publication_date": "2025-02-04",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102260",
+  "entities": {
+    "FOOD": [
+      "four red grape",
+      "grape",
+      "the douro demarcated region's winery industry"
+    ],
+    "POLYPHENOL": [
+      "phenolic compounds",
+      "proanthocyanidins"
+    ]
+  }
+}

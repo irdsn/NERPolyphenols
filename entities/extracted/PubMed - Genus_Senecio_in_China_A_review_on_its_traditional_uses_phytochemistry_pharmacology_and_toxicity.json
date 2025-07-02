@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Genus Senecio in China: A review on its traditional uses, phytochemistry, pharmacology, and toxicity.",
+  "abstract": "The genus Senecio comprises approximately 1500 species worldwide, with over 60 species distributed throughout China. These plants have been widely used in traditional Chinese medicine to treat various conditions including inflammation, eye diseases, vaginal trichomoniasis, and acute urinary tract infections.",
+  "publication_date": "2025-03-28",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.119651",
+  "entities": {
+    "POLYPHENOL": [
+      "acute urinary tract infections",
+      "approximately 1500 species",
+      "over 60 species",
+      "senecio"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

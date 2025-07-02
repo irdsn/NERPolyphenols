@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Enzymatic resistance of starch-polyphenol inclusion complexes: polyphenol inhibition and structural changes during in vitro digestion.",
+  "abstract": "High amylose corn starch (HACS) forms inclusion complexes with polyphenols, resulting in a significant reduction in starch digestibility. The digestibility of the inclusion complexes is influenced by the inhibitory effects of polyphenols on amylases and/or the structural characteristics of the inclusion complex. Herein, nine distinct polyphenols complexed with HACS through high-temperature water method. Four representative inclusion complexes-HACS-caffeic acid inclusion complex (HACS-CA), HACS-dihydroxybenzoic acid inclusion complex (HACS-DA), HACS-soy isoflavone inclusion complex (HACS-SI), and HACS-naringenin inclusion complex (HACS-NG)-were selected for comparative analysis of the in vitro digestion processes. The results revealed that the HACS-polyphenol inclusion complexes inhibited \u03b1-amylase activity by gradually releasing polyphenols during digestion. The release rates of polyphenols followed the sequence of HACS-DA\u00a0<\u00a0HACS-SI\u00a0<\u00a0HACS-CA\u00a0\u2248\u00a0HACS-NG, and the inhibition of \u03b1-amylase occurred in the opposite sequence. Structural analyses showed an increase in the proportion of super-long amylopectin chains and the degree of order of digested HACS-DA and HACS-SI. The enzymatic resistance of the complexes was related to the super-long amylopectin chains recombined to form a short-range ordered structure. This study broadens the understanding of the enzymatic resistance of starch-polyphenol complexes, offering valuable insights into their potential applications in developing functional foods with health benefits.",
+  "publication_date": "2025-05-25",
+  "journal": "Carbohydrate polymers",
+  "doi": "10.1016/j.carbpol.2025.123811",
+  "entities": {
+    "POLYPHENOL": [
+      "four representative inclusion complexes-hacs-caffeic acid inclusion complex",
+      "hacs-naringenin inclusion complex",
+      "nine distinct polyphenols",
+      "polyphenols",
+      "starch-polyphenol complexes",
+      "super-long amylopectin chains",
+      "the hacs-polyphenol inclusion complexes",
+      "the inhibitory effects",
+      "the super-long amylopectin chains"
+    ],
+    "FOOD": [
+      "functional foods",
+      "hacs-soy isoflavone inclusion complex"
+    ]
+  }
+}

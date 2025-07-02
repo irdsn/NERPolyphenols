@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Isorhapontigenin suppresses inflammation, proliferation and aggressiveness of rheumatoid arthritis fibroblast-like synoviocytes by targeting farnesyl diphosphate synthase.",
+  "abstract": "Isorhapontigenin (ISO) has been reported to exhibit various therapeutic effects including anti-inflammation and anti-cancer. However, it is still unclear whether ISO has therapeutic efficacy on rheumatoid arthritis (RA). This study aimed to determine the effects of ISO on regulating functions of RA fibroblast-like synoviocytes (FLS) and further to explore the underlying mechanisms.",
+  "publication_date": "2025-05-23",
+  "journal": "International immunopharmacology",
+  "doi": "10.1016/j.intimp.2025.114894",
+  "entities": {
+    "POLYPHENOL": [
+      "the effects",
+      "the underlying mechanisms",
+      "various therapeutic effects"
+    ],
+    "SYMPTOM": [
+      "inflammation and anti-cancer",
+      "rheumatoid arthritis"
+    ]
+  }
+}

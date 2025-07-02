@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Antifungal effect and mechanism of 405\u00a0nm light-emitting diodes combined with riboflavin on Penicillium digitatum and Penicillium italicum.",
+  "abstract": "This study was designed to evaluate the antifungal effect of a 405\u00a0nm light-emitting diode (LED) combined with an exogenous photosensitizer against Penicillium digitatum and Penicillium italicum and elucidate the antifungal mechanism.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of applied microbiology",
+  "doi": "10.1093/jambio/lxaf104",
+  "entities": {
+    "POLYPHENOL": [
+      "the antifungal effect",
+      "the antifungal mechanism"
+    ]
+  }
+}

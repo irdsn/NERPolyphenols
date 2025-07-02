@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Curcumin alleviates LPS-induced WI-38 cell inflammation injury by regulating PTGS2 expression.",
+  "abstract": "Infantile pneumonia is a common infectious disease affecting infants and young children, which can lead to severe complications such as heart failure, significantly increasing morbidity and mortality rates among affected populations. Curcumin (CUR), a prominent natural polyphenol found in turmeric and other species of Curcuma, exhibits anti-inflammatory, antioxidant, and anticancer properties. Consequently, CUR has been hoped to be a therapeutic or preventive agent for several main human diseases. This study aims to explore the effects of CUR on lipopolysaccharide (LPS)-treated Wistsar Institute (WI)-38 cells.",
+  "publication_date": "2025-05-16",
+  "journal": "Hereditas",
+  "doi": "10.1186/s41065-025-00441-4",
+  "entities": {
+    "POLYPHENOL": [
+      "a common infectious disease",
+      "a prominent natural polyphenol",
+      "affected populations",
+      "curcumin",
+      "other species",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "anti-inflammatory, antioxidant, and anticancer properties",
+      "heart failure"
+    ],
+    "FOOD": [
+      "turmeric"
+    ]
+  }
+}

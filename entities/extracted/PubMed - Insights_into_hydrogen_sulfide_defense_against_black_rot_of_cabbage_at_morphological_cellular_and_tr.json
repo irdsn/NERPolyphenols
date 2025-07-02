@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Insights into hydrogen sulfide defense against black rot of cabbage at morphological, cellular and transcriptional metabolic levels.",
+  "abstract": "Black rot caused by Xanthomonas campestris pv. campestris (Xcc) has led to severe economic losses in cruciferous crops. Hydrogen sulfide (H2S), an important gaseous signaling molecule, is involved in mediating plant defense responses to various adversities. Therefore, we investigated the mechanism of defense regulation against Xcc in cabbage using exogenous H2S (1\u00a0mmol/L NaHS, H2S donor) and determined that hydrogen sulfide was effective in controlling black rot. The results showed that Xcc inhibited the antioxidant properties and secondary metabolite synthesis of cabbage, leading to significant disruption of cell wall and cell membrane integrity, whereas the use of H2S effectively mitigated this inhibition and the extent of damage. H2S treatment up-regulated the expression levels of genes involved in plant-pathogen interactions, stabilized the osmoregulatory system, improved antioxidant capacity, and promoted the GSH-ASA cycle. Furthermore, H2S significantly protected cellular integrity, reduced morbidity, and increased the rate of substance synthesis. Our results suggest that H2S has great potential in controlling black rot of cabbage.",
+  "publication_date": "2025-06-15",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.110129",
+  "entities": {
+    "POLYPHENOL": [
+      "an important gaseous signaling molecule",
+      "secondary metabolite synthesis",
+      "severe economic losses",
+      "the mechanism"
+    ],
+    "FOOD": [
+      "cabbage"
+    ]
+  }
+}

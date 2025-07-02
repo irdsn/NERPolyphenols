@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Natural Copper Ion Scavenger: Investigation of the Hepatoprotective Effects of Green Tea Extract in Toxic-Milk Mice with Wilson's Disease Model.",
+  "abstract": "Wilson's disease (WD) is an inherited disorder characterized by abnormal copper metabolism with complex pathological features. Currently, the mechanism of copper overload-induced hepatic injury is unclear. Green tea is a natural chelator, and its main ingredients, green tea polyphenol (GTP) and L-theanine (L-TA) are good at binding to heavy metals like iron and copper. There have been no reports on green tea extracts (GTE) for the treatment of Wilson's disease. This study investigated the hepatoprotective effect of GTE on WD model mice. Initially, we examined the impact of green tea extract on copper metabolism, excretion, and hepatoprotective effects in WD model toxic milk mice. Then, Ultra performance liquid chromatography (UPLC-DAD) was established to analyze GTP and L-TA in green tea extract. Further screening of eight active components and copper complex active components in green tea extract was carried out by ion analyzer. Finally, we verified the pharmacodynamic effects of these active ingredients at the animal level. The results showed that GTE improves liver function and attenuates liver injury in TX mice by promoting tissue copper excretion and inhibiting oxidative stress, which provides a theoretical basis for green tea's potential to improve the clinical symptoms of WD.",
+  "publication_date": "2025-02-17",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14040679",
+  "entities": {
+    "POLYPHENOL": [
+      "green tea polyphenol",
+      "hepatoprotective effects",
+      "the hepatoprotective effect",
+      "the mechanism",
+      "the pharmacodynamic effects"
+    ],
+    "FOOD": [
+      "green tea",
+      "green tea extract",
+      "green tea extracts",
+      "green tea's potential"
+    ],
+    "SYMPTOM": [
+      "liver injury",
+      "oxidative stress"
+    ]
+  }
+}

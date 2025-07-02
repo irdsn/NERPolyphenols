@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Recent Advances of Sustainable UV Shielding Materials: Mechanisms and Applications.",
+  "abstract": "The escalating global threat of ultraviolet (UV) radiation is manifested through multifaceted damage pathways including cutaneous carcinogenesis, photodegradation of organic substrates, marine ecosystem destabilization, and infrastructure weathering. These urgent challenges have catalyzed sustained interdisciplinary efforts toward advanced UV-shielding technologies spanning biomedical, environmental, and industrial domains. Current material arsenals include melanin, lignin, tannin, polydopamine, zinc oxide and titanium dioxide, etc. These materials can be applied to diverse fields such as food packaging, sunscreen fabrics, sunscreen creams, eyeglasses, and sunscreen films through tailored processing techniques and employing distinct photoprotective mechanisms. Notwithstanding significant progress, the development of an integrated selection framework that reconciles efficiency, durability, and environmental compatibility persists as a critical knowledge gap. In this context, the main mechanisms of various types of UV shielding materials and their applications in different fields are described systematically. Subsequently, a comparative analysis of the advantages and shortcomings of different materials is presented, focusing on their UV shielding efficiency and stability impact. Moreover, the review delves into their unique value in specific scenarios. Finally, building on these analyses, current challenges and future development prospects of UV shielding materials are further discussed, with emphasis on scalability, eco-friendly alternatives, and multifunctional integration, providing valuable insights and guidance for advancing research and promoting sustainable and functional innovations in this field.",
+  "publication_date": "2025-05-15",
+  "journal": "ACS applied materials & interfaces",
+  "doi": "10.1021/acsami.5c04539",
+  "entities": {
+    "SYMPTOM": [
+      "cutaneous carcinogenesis",
+      "food packaging"
+    ],
+    "POLYPHENOL": [
+      "advanced uv-shielding technologies",
+      "an integrated selection framework",
+      "distinct photoprotective mechanisms",
+      "eco-friendly alternatives",
+      "future development prospects",
+      "marine ecosystem destabilization",
+      "specific scenarios",
+      "tailored processing techniques",
+      "tannin",
+      "the main mechanisms"
+    ]
+  }
+}

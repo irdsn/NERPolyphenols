@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Taxifolin as a Therapeutic Potential for Weight Loss: A Retrospective Longitudinal Study.",
+  "abstract": "The current approach to obesity care, which primarily focuses on weight loss, is often insufficient because of the challenges in maintaining long-term results. Therefore, novel, safe, and sustainable medications for obesity are highly anticipated. Taxifolin, a natural bioactive flavonoid, was found to exert pleiotropic protective effects against various diseases. Our experimentalin vivoandin vitrostudies revealed that taxifolin administration contributes to weight loss. Accordingly, we hypothesized that long-term oral intake of taxifolin was clinically associated with weight loss.",
+  "publication_date": "2025-02-16",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17040706",
+  "entities": {
+    "SYMPTOM": [
+      "obesity",
+      "obesity care"
+    ],
+    "POLYPHENOL": [
+      "a natural bioactive flavonoid",
+      "pleiotropic protective effects"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Quercetin protects red blood cells from aggregation, eryptosis, and delayed hemolysis caused by cell-free histones through sialic acid interaction.",
+  "abstract": "Histones are nuclear proteins and play a vital role in regulating gene expression. Cell free histones in the circulation proved as damage-associated molecular patterns and were positively associated with various inflammatory disease conditions. Also, cell-free histones directly induce toxicity toward blood cells and are implicated in vascular dysfunction. However, cell-free histones are known to induce RBCs dysfunction in several histone-associated disorders, leading to hypoxia conditions. In this study, we aimed to understand the mechanism underlying the dysfunction of RBCs induced by histones and explore the protective effect of quercetin. Histone treatment at lower doses induces RBCs aggregation while at higher doses it induces eryptosis and delayed hemolysis. Surprisingly, the removal of negatively charged sialic acid on the RBC membrane prevents histone-induced toxicity, thereby confirming the significance of the interaction between sialic acid and histone. Quercetin (QUE), a flavonoid, significantly inhibits histone-induced RBCs aggregation, eryptosis, and hemolysis. Most importantly, inhibition against the pro-coagulant phenotype of RBCs induced by histones, emphasizes the therapeutic potential of QUE on blood coagulation. Further, spectral and molecular docking studies confirm the interaction between histones and QUE. Collectively, this study highlights the therapeutic value of QUE in protecting the RBCs functions during histones-associated pathological conditions.",
+  "publication_date": "2025-04-29",
+  "journal": "Biochemical and biophysical research communications",
+  "doi": "10.1016/j.bbrc.2025.151859"
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Lupin as Ingredient in Durum Wheat Breadmaking: Physicochemical Properties of Flour Blends and Bread Quality.",
+  "abstract": "The popularity of adding pulse flours to baked goods is growing rapidly due to their recognised health benefits. In this study, increasing amounts (3, 7, 10, and 15%) of white lupin flour (Lupinus albusL.) and of protein concentrate from narrow-leaved lupin (Lupinus angustifoliusL.) were used as replacements for durum wheat semolina to prepare bread, and their effects on the physicochemical properties of the flour blends, as well as the technological and sensory qualities of bread, were evaluated. The addition of protein concentrate from narrow-leaved lupin and white lupin flour increased the water binding capacity and the leavening rate compared to pure semolina. A farinograph test indicated that the dough development time had a slight but significant tendency to increase with the addition of lupin flour and protein concentrate of narrow-leaved lupin, while had a negative effect on the stability of dough. The alveograph strength decreased (225, 108, and 76 \u00d7 10-4J for dough made with semolina, 15% of protein concentrate from narrow-leaved lupin, and 15% of white lupin flour, respectively), whereas there was an upward trend in the P/L ratio. Compared to re-milled semolina, the samples with lupin flour and protein concentrate from narrow-leaved lupin had low amylase activity, with falling number values ranging from 439 s to 566 s. The addition of the two different lupin flours lowered the specific volumes of the breads (2.85, 2.39, and 1.93 cm3/g for bread made from semolina, from 15% of protein concentrate from narrow-leaved lupin, and from 15% of white lupin flour, respectively) and increased their hardness values (up to 21.34 N in the bread with 15% of protein concentrate from narrow-leaved lupin). The porosity of the loaves was diminished with the addition of the two lupin flours (range of 5-8). The sensory analysis showed that the addition of white lupin flour or protein concentrate from narrow-leaved lupin did not impart any unpleasant flavours or odours to the bread. To conclude, the use of lupin in breadmaking requires adjustments to strengthen the gluten network but does not require a deflavouring process.",
+  "publication_date": "2024-03-06",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods13050807",
+  "entities": {
+    "POLYPHENOL": [
+      "a negative effect",
+      "the specific volumes",
+      "the technological and sensory qualities",
+      "their effects",
+      "their recognised health benefits"
+    ],
+    "FOOD": [
+      "durum wheat semolina"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "From Nature to Nanomedicine: Enhancing the Antitumor Efficacy of Rhein, Curcumin, and Resveratrol.",
+  "abstract": "Natural compounds have garnered increasing interest as potential antitumor agents due to their multifaceted biological activities and relatively low toxicity profiles. This review focuses on three well-studied natural molecules: rhein, curcumin, and resveratrol, analyzing and comparing their antitumor potential across a variety of cancer models. For each compound, we present an integrated perspective encompassing natural sources, physicochemical properties, pharmacological and pharmacokinetic characteristics, and the latest in vitro and in vivo evidence of anticancer activity. Special attention is given to the molecular mechanisms underlying their antitumor effects, including the modulation of cell cycle regulators, induction of apoptosis, inhibition of metastasis and angiogenesis, and regulation of key signaling pathways such as NF-\u03baB, PI3K/Akt/mTOR, STAT3, and MAPKs. Although numerous studies highlighted their therapeutic promise, significant barriers remain-particularly related to poor solubility and limited bioavailability-which have hindered clinical translation, especially in the case of rhein. Advances in nanotechnology-based drug delivery systems offer promising solutions to these limitations, enabling improved targeting and enhanced efficacy. This review underscores the need for continued preclinical and clinical investigations to fully elucidate the therapeutic value of these compounds and support their integration into modern oncological treatment strategies.",
+  "publication_date": "2025-05-26",
+  "journal": "Medicina (Kaunas, Lithuania)",
+  "doi": "10.3390/medicina61060981",
+  "entities": {
+    "POLYPHENOL": [
+      "an integrated perspective",
+      "continued preclinical and clinical investigations",
+      "curcumin",
+      "nanotechnology-based drug delivery systems",
+      "special attention",
+      "the molecular mechanisms",
+      "their antitumor effects",
+      "three well-studied natural molecules"
+    ],
+    "SYMPTOM": [
+      "anticancer activity",
+      "apoptosis",
+      "cancer models"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Bioequivalence of Mulberry Fruit Extract and 1-Deoxynojirimycin for Postprandial Blood Glucose Lowering: A Randomized Trial in Humans.",
+  "abstract": "Mulberry extracts can reduce postprandial blood glucose (PPG) and insulin (PPI) responses by slowing rates of glucose uptake following carbohydrate-rich meals. The presumed mechanism is the inhibition of intestinal alpha-glucosidase, mainly attributed to 1-deoxynojirimycin (DNJ) in the extracts. However, other components including other iminosugars or polyphenols might also contribute to these effects.",
+  "publication_date": "2025-05-24",
+  "journal": "The Journal of nutrition",
+  "doi": "10.1016/j.tjnut.2025.05.037",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols",
+      "the presumed mechanism",
+      "these effects"
+    ]
+  }
+}

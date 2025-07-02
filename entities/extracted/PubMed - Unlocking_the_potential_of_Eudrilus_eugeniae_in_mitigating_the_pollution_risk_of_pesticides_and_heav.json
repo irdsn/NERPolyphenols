@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Unlocking the potential of Eudrilus eugeniae in mitigating the pollution risk of pesticides and heavy metals: Fostering machine learning tactics to optimize environmental health.",
+  "abstract": "Agro-industrial waste management remains a critical challenge in sustainable development, particularly due to contamination with heterogeneous micropollutants such as heavy metals (HMs), pesticides, and polyphenols. This study explores an innovative vermistabilization approach using pineapple pomace (PP) to enhance the bioremediation of paper mill sludge (PMS) facilitated by Eudrilus eugeniae. The research demonstrates that the contrasting pH profiles of PMS (a highly alkaline substrate) and PP (a highly acidic substrate) have significantly contributed to nutrient enhancement and stabilization of end products for the mixed feedstock treatments (PP and PMS-based feedstocks) compared to the feedstock treatments in isolations. Results demonstrated a 2.1 fold increase in earthworm population density, and 4-5 fold reduction in organic carbon content confirming its effectiveness of biostabilization in a heterogeneous feed mixture. Vermicomposting enhanced nutrient availability (N, P, K) and microbial metabolic activity by 3-5 folds. Amongst tested ratios, PP\u00a0+\u00a0PMS\u00a0+\u00a0cowdung (CD) (1:2:1) achieved optimal remediation, reducing HMs (Cd, Pb, Zn, Hg, Ni, Cu, Cr), pesticides (chlorpyrifos, cypermethrin, carbofuran), and polyphenols by 8-9 folds. Integration of Artificial Neural Networks coupled with Sobol sensitivity analysis also identified PP\u00a0+\u00a0PMS\u00a0+\u00a0CD(1:2:1) as the most effective combination in minimizing potential health risks. Furthermore, Taylor plot analysis determined the best-fit model for predicting health risks associated with various PP and PMS-based complex systems. The findings underscored the potential of utilizing PP along with PMS based feedstock for mitigating pollutants whilst simultaneously enhancing nutrient recovery during vermicomposting. Thus, the machine learning techniques could facilitate the optimization of feedstock compositions, advancing large-scale vermistabilization as a sustainable strategy for agro-industrial waste management.",
+  "publication_date": "2025-03-08",
+  "journal": "The Science of the total environment",
+  "doi": "10.1016/j.scitotenv.2025.179039",
+  "entities": {
+    "POLYPHENOL": [
+      "its effectiveness",
+      "nutrient recovery",
+      "polyphenols",
+      "the machine learning techniques",
+      "the most effective combination"
+    ],
+    "FOOD": [
+      "pineapple pomace"
+    ]
+  }
+}

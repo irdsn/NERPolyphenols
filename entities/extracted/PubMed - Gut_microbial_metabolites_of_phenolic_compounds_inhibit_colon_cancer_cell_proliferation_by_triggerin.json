@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Gut microbial metabolites of phenolic compounds inhibit colon cancer cell proliferation by triggering apoptosis and cell cycle arrest.",
+  "abstract": "Growing evidence shows how diet can influence the onset of colon cancer. In this regard, phenolic compounds, and particularly, their metabolites produced by the gut microbiota, may be responsible for this protective effect. Therefore, in this study, some of the main gut microbial metabolites of phenolic compounds were tested for their anti-proliferative activity against two colon adenocarcinoma cell lines (Caco-2 and SW480). Two compounds, 3',4'-dihydroxyphenylacetic acid and 3-(3',4'-dihydroxyphenyl)propanoic acid, showed IC50values towards Caco-2 below the physiological concentrations found in the colon. In addition, other compounds showing low IC50values towards Caco-2 were 2,3,4-trihyroxybenzoic acid (gallic acid), 1,2,3-trihydroxybenzene (pyrogallol), and 5-(3',4'-dihydroxyphenyl)-\u03b3-valerolactone. Whereas three flavanone aglycones (naringenin, eriodictyol, and hesperetin) and, again, 2,3,4-trihyroxybenzoic acid, and 1,2,3-trihydroxybenzene were the most active towards SW480. Some compounds exert an anti-proliferative effect by disrupting the cell cycle, others by inducing apoptosis, and others by promoting reactive oxygen species formation. Thus, this study demonstrates that gut microbial metabolites of phenolic compounds can be held responsible for the protective effect against the onset of colon cancer of a diet rich in fruit and vegetables.",
+  "publication_date": "2025-06-26",
+  "journal": "Food & function",
+  "doi": "10.1039/d5fo02116b",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "colon cancer"
+    ],
+    "POLYPHENOL": [
+      ", phenolic compounds",
+      "an anti-proliferative effect",
+      "gallic acid",
+      "naringenin",
+      "phenolic compounds",
+      "reactive oxygen species formation",
+      "the protective effect",
+      "this protective effect"
+    ]
+  }
+}

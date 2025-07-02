@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Optimization of a novel antimicrobial nanocomposite films based on starch saffron corm incorporating nanoclay/lignin/extract using response surface methodology.",
+  "abstract": "This study aimed to develop and optimize nanocomposite films for food packaging using starch saffron corm starch (SCS) combined with nanoclay and either lignin or saffron corm extract (SCE). Response surface methodology (RSM) with a face-centered central design was used to optimize clay, lignin, and SCE concentrations. The effects of these variables on the films' physical (thickness, water vapor permeability, color, and solubility), mechanical, and phenolic compound migration properties were evaluated. The microstructure and antifungal properties of the optimized films were also analyzed. Results showed that all parameters significantly influenced the films' physical, mechanical, and migration properties, except for thickness. Optimal formulations were determined as 15.6\u00a0% clay with 0.3\u00a0% lignin and 16.9\u00a0% clay with 0.3\u00a0% SCE. FT-IR and SEM analyses confirmed strong compatibility among components and a homogeneous polymer matrix. The films exhibited at least 67\u00a0% biodegradability in \u03b1-amylase enzyme solution. Lignin was more effective than SCE in inhibiting fungal growth against aspergillus parasiticus and aspergillus flavus. These findings highlight the potential of SCS-based nanocomposite films for extending the shelf life of fruits and vegetables while offering sustainable and biodegradable packaging solutions for the food industry.",
+  "publication_date": "2025-03-06",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.141733",
+  "entities": {
+    "SYMPTOM": [
+      "food packaging",
+      "sustainable and biodegradable packaging solutions"
+    ],
+    "POLYPHENOL": [
+      "mechanical, and phenolic compound migration properties",
+      "the effects",
+      "the films' physical, mechanical, and migration properties"
+    ]
+  }
+}

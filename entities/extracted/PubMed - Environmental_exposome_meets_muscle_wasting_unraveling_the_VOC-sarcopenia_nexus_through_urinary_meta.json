@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Environmental exposome meets muscle wasting: unraveling the VOC-sarcopenia nexus through urinary metabolomics, inflammatory mediation, and network pharmacology in the NHANES cohort.",
+  "abstract": "Volatile organic compounds (VOCs) are pervasive environmental pollutants. However, their impact on sarcopenia, a condition characterized by progressive muscle loss and closely linked to numerous adverse health outcomes, remains poorly understood. Using data from the National Health and Nutrition Examination Survey (NHANES, 2011 to 2018), we analyzed 16 urinary metabolites of VOCs, adjusted for creatinine, to explore potential associations between VOC exposure and sarcopenia. Our findings consistently revealed a positive correlation across statistical models, with 2-aminothiazoline-4-carboxylic acid (a cyanide metabolite) contributing the greatest weight to the overall association. Subgroup analyses revealed particularly robust associations among younger women (\u226450\u2009years) and individuals with obesity (BMI \u226530), with inflammatory pathways emerging as key mediators. Through network toxicology, we identified pivotal targets and pathways involved in immune response, infection defense, apoptosis, and metabolic regulation. Notably, natural compounds such as quercetin have emerged as promising candidates for mitigating sarcopenia risk or slowing its progression. Together, these findings not only advance our understanding of the environmental determinants of sarcopenia but also highlight opportunities for targeted interventions.",
+  "publication_date": "2025-05-30",
+  "journal": "Toxicological sciences : an official journal of the Society of Toxicology",
+  "doi": "10.1093/toxsci/kfaf077",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "obesity"
+    ],
+    "POLYPHENOL": [
+      "infection defense",
+      "quercetin"
+    ]
+  }
+}

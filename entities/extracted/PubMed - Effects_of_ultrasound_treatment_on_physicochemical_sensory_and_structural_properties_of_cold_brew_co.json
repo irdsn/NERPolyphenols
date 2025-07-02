@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Effects of ultrasound treatment on physicochemical, sensory, and structural properties of cold brew coffee.",
+  "abstract": "This study investigated the effects of ultrasound treatment (UT) on the physicochemical, sensory, and structural properties of cold brew coffee. Among the examined physicochemical properties, colour changed to a light caramel shade following UT, while pH, total dissolved solids, and extraction yield increased compared to the control group. Total polyphenol content, flavonoid content, antioxidant activity, and lipid content significantly increased (p\u00a0<\u00a00.05) with higher UT amplitudes and longer treatment durations, with the highest values observed after 15\u00a0min of treatment at 90\u00a0% amplitude at 20\u00a0\u00b0C. Analysis of non-volatile compounds revealed that caffeine content increased by up to 54.7\u00a0%, trigonelline by 26.8\u00a0%, and chlorogenic acid by 67.4\u00a0% under UT conditions. Sensory analysis identified a total of 32 volatile compounds, with the highest levels detected in samples treated for 5\u00a0min at 30\u00a0% amplitude at 4\u00a0\u00b0C. Sensory evaluation results indicated that UT samples exhibited decreased sweetness and acidity, while burnt taste and body intensity increased. Structurally, droplet size was reduced by up to 89.4\u00a0% compared to the control group, and scanning electron microscopy images revealed numerous distinct holes and irregular pores formed during UT. These findings suggest that UT has the potential to enhance cold brew coffee manufacturing by improving efficiency in terms of both time and processing conditions.",
+  "publication_date": "2025-05-24",
+  "journal": "Ultrasonics sonochemistry",
+  "doi": "10.1016/j.ultsonch.2025.107401",
+  "entities": {
+    "POLYPHENOL": [
+      "electron microscopy images",
+      "flavonoid content",
+      "the effects",
+      "total polyphenol content"
+    ],
+    "FOOD": [
+      "cold brew coffee",
+      "cold brew coffee manufacturing"
+    ]
+  }
+}

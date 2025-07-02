@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "The role of Maillard reaction in increasing affinity between soybean protein isolate and phloretin and its effects on protein functionality.",
+  "abstract": "This study investigated the effects of the Maillard reaction on the interaction between soybean protein isolate (SPI) and phloretin (PHL), along with its impact on the functional properties of soybean protein isolate. Sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) results showed that sodium alginate (SA) was successfully grafted onto SPI. The fluorescence results indicated that the red shift and fluorescence burst of the ternary complexes were more pronounced, indicating that the proteins in the complexes had a more compact tertiary structure. The molecular docking showed that phloretin formed shorter hydrogen bonds with surrounding active amino acid residues after the Maillard reaction, suggesting that the Maillard reaction enhanced the stability of Phloretin's binding to proteins. The slight blue shifts observed in the amide I and amide II bands suggested hydrogen bonding and electrostatic interactions are also present. A decrease in \u03b1-helix and \u03b2-sheet content, along with an increase in irregular curl content, indicating protein unfolding. Also, the functional properties of SPI were improved due to the unfolding of the protein structure. These findings will provide valuable insights for the subsequent study of Maillard reaction products in the construction of nutrient delivery systems.",
+  "publication_date": "2025-02-20",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.141281",
+  "entities": {
+    "POLYPHENOL": [
+      "a decrease",
+      "electrostatic interactions",
+      "phloretin",
+      "sodium dodecyl sulfate-polyacrylamide gel electrophoresis (sds-page) results",
+      "the effects",
+      "the molecular docking"
+    ],
+    "FOOD": [
+      "soybean protein isolate"
+    ]
+  }
+}

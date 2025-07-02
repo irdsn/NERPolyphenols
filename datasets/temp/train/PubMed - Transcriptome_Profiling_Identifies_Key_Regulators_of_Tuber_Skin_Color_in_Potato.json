@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Transcriptome Profiling Identifies Key Regulators of Tuber Skin Color in Potato.",
+  "abstract": "The color of tuber skin exhibits remarkable diversity in potato (Solanum tuberosumL.) and is intricately associated with variance in anthocyanin accumulation across different varieties. The regulatory mechanisms governing this phenomenon are poorly understood. In this study, we identified a natural, yellow-skinned variant (Z28M) from the red-skinned tetraploid variety, Zhongshu 28 (Z28W), using simple sequence repeat (SSR) molecular marker amplification and trait observation. The transcriptional regulatory mechanisms underlying tuber skin color variation were investigated by analyzing anthocyanin profiles and transcriptomic data at the developmental and maturation stages. Ultra-performance liquid chromatography (UPLC-QTOF-MS) analysis indicated markedly reduced levels of pelargonidin and peonidin in Z28M compared with those in Z28W. Transcriptome profiling identified 1858 differentially expressed genes between Z28W and Z28M, with significant enrichment in the flavonoid and phenylpropanoid biosynthetic pathways. Weighted gene co-expression network analysis indicated a red-skinned associated module, MEred, encompassing key anthocyanin biosynthetic genes co-expressed with the transcription factor,StMYB3, which exhibited substantially higher expression in Z28W than in Z28M. K-means clustering indicated coordinated expression patterns amongStCHS,StDFR, andStMYB3, suggesting transcriptional co-regulation. Collectively, these results highlightStMYB3as a pivotal regulator of anthocyanin biosynthesis and a contributor to the tuber skin color divergence observed between Z28W and Z28M.",
+  "publication_date": "2025-05-20",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14101544"
+}

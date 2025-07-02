@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Designing a Layered MXene-PA-GA Hybrid Composite with Rust Conversion and Extensive Barrier Performance for Corrosion Prevention.",
+  "abstract": "The continuous development of the global marine industry has posed significant challenges to sustainable development due to corrosion in marine engineering structures. While rust converters are regarded as cost-effective solutions for corrosion mitigation, existing technological advancements fail to meet the heightened demands of contemporary marine engineering practices. To address these limitations, an MXene-phytic acid-gallic acid (M-P-G) hybrid composite was synthesized by integrating two-dimensional nanomaterial Ti3C2Txwith organic acids (gallic acid and phytic acid). This composite achieved synergistic enhancement in both rust-conversion capability and corrosion inhibition performance. Experimental results demonstrated that the M-P-G composite with a mass fraction of 1.0 wt % formed a dense rust-conversion layer on substrates, significantly improving protective performance. The M-P-G/epoxy (EP) coating exhibited an impedance modulus of 1.51 \u00d7 109\u03a9 cm2, surpassing conventional coatings by 2 orders of magnitude. Furthermore, through density functional theory calculations combined with scanning electron microscopy, X-ray photoelectron spectroscopy, X-ray diffraction, and Fourier transform infrared analyses, a corrosion protection mechanism was proposed. This mechanism elucidated the differential conversion capacities of the organic acids toward diverse corrosion products, providing critical insights for the rational design and evaluation of next-generation rust-conversion and anticorrosion materials.",
+  "publication_date": "2025-06-01",
+  "journal": "ACS applied materials & interfaces",
+  "doi": "10.1021/acsami.5c04714",
+  "entities": {
+    "POLYPHENOL": [
+      "a corrosion protection mechanism",
+      "an mxene-phytic acid-gallic acid",
+      "cost-effective solutions",
+      "electron microscopy",
+      "existing technological advancements",
+      "gallic acid",
+      "protective performance",
+      "this mechanism",
+      "x-ray photoelectron spectroscopy"
+    ]
+  }
+}

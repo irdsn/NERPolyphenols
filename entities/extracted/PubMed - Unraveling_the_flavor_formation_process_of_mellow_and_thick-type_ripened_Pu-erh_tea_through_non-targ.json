@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "Unraveling the flavor formation process of mellow and thick-type ripened Pu-erh tea through non-targeted metabolomics and metagenomics.",
+  "abstract": "Ripened Pu-erh tea (RPT) is renowned for its distinctive flavor and health benefits. However, its complex fermentation process poses challenges in ensuring consistency in production. This study investigated RPT flavor formation through sensory evaluation, multi-omics analysis, and multivariate statistical approaches. By day 24, the tea exhibited a reddish-brown infusion and a mellow, thick taste (MT_RPT), achieving the highest sensory score (94.0,P<\u00a00.05). Sixteen flavor-related chemical components exhibited significant changes (P<\u00a00.05). The contents of free amino acids,L-theanine, tea polyphenols, flavonoids, catechins, and thearubigins decreased. In contrast, the contents of total soluble sugars, caffeine, theobromine, epicatechin, and theabrownins (TBs) increased, reaching 74.1\u00a0mg/g, 65.38\u00a0mg/g, 3.13\u00a0mg/g, 3.33\u00a0mg/g, and 134.84\u00a0mg/g, respectively. Additionally, 33 nonvolatile metabolites (e.g., pelargonidin 3-O-glucoside, dihydroisorhamnetin, and puerarin) were significantly correlated with MT_RPT flavor (VIP\u00a0>\u00a01, |r|\u00a0\u2265\u00a00.8,P<\u00a00.05) and influenced by key functional microbes, includingPantoea,Aspergillus,Brachybacterium, andStaphylococcus. By day 30, the infusion darkened, and sensory scores declined (81.4,P<\u00a00.05), attributed to the dominance ofBrevibacterium. This microbial shift reduced water-soluble pectin, free amino acids, and 11 metabolites while increasing TBs and theophylline (219.33\u00a0mg/g and 0.09\u00a0mg/g, respectively). Therefore, TBs were identified as a crucial indicator of optimal fermentation. Moreover, redundancy analysis indicated that the tea pile's central temperature, moisture content, and pH were essential fermentation parameters (P<\u00a00.05). These findings deepen our understanding of MT_RPT flavor development mechanisms and provide valuable insights into precise fermentation control.",
+  "publication_date": "2025-03-28",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102424",
+  "entities": {
+    "FOOD": [
+      "a reddish-brown infusion",
+      "ripened pu-erh tea",
+      "the infusion"
+    ],
+    "POLYPHENOL": [
+      "epicatechin",
+      "flavonoids",
+      "mt_rpt flavor development mechanisms",
+      "precise fermentation control",
+      "tea polyphenols",
+      "this microbial shift reduced water-soluble pectin, free amino acids"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Melatonin-Mediated Regulation of Antioxidant Defense Enhances the Resistance of Tea Plants (Camellia sinensisL.) to Lead-Induced Stress.",
+  "abstract": "Lead (Pb) is a toxic heavy metal that severely impairs plant growth and crop quality. Melatonin, a widely present indoleamine compound, enhances plant stress tolerance, yet its role in tea plant resistance to lead stress remains unclear. This study examined two tea genotypes with distinct anthocyanin levels, Longjing43 (LJ43) and Zijuan (ZJ), comparing their phenotype, antioxidant capacity, secondary metabolite synthesis, and lead transport gene expression under lead stress. Excessive Pb exposure caused severe oxidative stress, reducing PSII efficiency, increasing ROS accumulation, and intensifying lipid peroxidation. ZJ, with higher anthocyanin concentration, exhibited stronger lead stress resistance than LJ43. Under lead stress, melatonin promoted phenylalanine accumulation in ZJ, facilitating its conversion into anthocyanins and catechins via key gene regulation (CsC4H,CsLAR, andCsANS). Moreover, exogenous melatonin significantly reduced Pb concentrations in roots, stems, and leaves, with a more pronounced effect in ZJ (reductions of 20.46%, 53.30%, and 38.17%, respectively), which might be associated with the downregulation of Pb transport genes likeCsZIP1(notably showing a 29-fold decrease). While these results suggest that melatonin might enhance Pb stress tolerance by modulating flavonoid metabolism and restricting Pb uptake, the specific roles of anthocyanins and catechins in this process remains to be fully elucidated. Further studies are necessary to clarify the primary bioactive compounds and mechanisms involved in melatonin-mediated heavy metal stress mitigation.",
+  "publication_date": "2025-05-09",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14101417",
+  "entities": {
+    "SYMPTOM": [
+      "lead stress",
+      "melatonin-mediated heavy metal stress mitigation",
+      "pb stress tolerance",
+      "plant stress tolerance",
+      "severe oxidative stress",
+      "stress",
+      "stronger lead stress resistance"
+    ],
+    "POLYPHENOL": [
+      "a 29-fold decrease",
+      "a more pronounced effect",
+      "catechins",
+      "flavonoid metabolism",
+      "mechanisms",
+      "secondary metabolite synthesis",
+      "the specific roles"
+    ]
+  }
+}

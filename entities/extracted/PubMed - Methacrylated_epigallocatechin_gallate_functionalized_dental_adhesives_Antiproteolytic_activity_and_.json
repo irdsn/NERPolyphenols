@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Methacrylated epigallocatechin gallate functionalized dental adhesives: Antiproteolytic activity and dentin bonding studies.",
+  "abstract": "To assess the antiproteolytic effect of EGCG-methacrylate monomers and its inhibitory effect on gelatinolytic activity in the hybrid layer. Also, to investigate the effect of an adhesive material functionalized with EGCG-methacrylate monomers on immediate and long-term dentin-resin bond strength.",
+  "publication_date": "2025-06-03",
+  "journal": "Dental materials : official publication of the Academy of Dental Materials",
+  "doi": "10.1016/j.dental.2025.05.006",
+  "entities": {
+    "POLYPHENOL": [
+      "egcg-methacrylate monomers",
+      "its inhibitory effect",
+      "the antiproteolytic effect",
+      "the effect"
+    ]
+  }
+}

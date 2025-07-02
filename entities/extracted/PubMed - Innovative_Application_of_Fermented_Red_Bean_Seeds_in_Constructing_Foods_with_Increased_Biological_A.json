@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Innovative Application of Fermented Red Bean Seeds in Constructing Foods with Increased Biological Activity.",
+  "abstract": "Legumes are an interesting matrix for food production. The aim of this study was to develop functional plant-based snacks using fermented red bean (RBB) seeds enriched with the following additives: marjoram-RBM (2%); carrot-RBC (30%); and red beetroot-RBRB (15%). In the process of constructing the snacks, the focus was on the maximum use of the raw material, including aquafaba, to improve nutritional properties, sensory acceptability, and biological activity. The chemical composition, protein digestibility, antioxidant activity, and phenolic content were analyzed. In addition, the effect of the in vitro digestion process on biologically active compounds and their interactions with intestinal microflora was analyzed. Sensory analysis and consumer evaluation were performed. It was found that fermentation with lactic acid bacteria increased the content of total protein (by 2%), reducing the presence of substances (by 8%) and phenolic compounds (by 13%) in red bean seeds. Snacks with marjoram (RBM) showed the highest antioxidant activity (increase by 42%) and content of polyphenolic compounds (increase by 25%) compared to the basic variant (RBB). During digestion, the content of phenolic compounds and antioxidant activity reached the highest values in the last section of the digestive tract, i.e., in the large intestine, with RBM achieving the best results (5.61 mg GAE/g and 28.82 mg TE/g). The snack variants with red beetroot (RBRB) and marjoram (RBM) were rated the best by consumers. The results obtained confirm that the obtained snacks can be innovative products with health-promoting properties, and marjoram turned out to improve their properties, including antibacterial ones.",
+  "publication_date": "2025-01-01",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14010088",
+  "entities": {
+    "FOOD": [
+      "carrot-rbc",
+      "red beetroot",
+      "red beetroot-rbrb"
+    ],
+    "POLYPHENOL": [
+      "phenolic compounds",
+      "polyphenolic compounds",
+      "the effect",
+      "the last section"
+    ]
+  }
+}

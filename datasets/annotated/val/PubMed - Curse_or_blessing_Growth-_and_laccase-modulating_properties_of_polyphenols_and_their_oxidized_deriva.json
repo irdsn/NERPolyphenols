@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Curse or blessing: Growth- and laccase-modulating properties of polyphenols and their oxidized derivatives on Botrytis cinerea.",
+  "abstract": "Infection of grapevines with the grey mold pathogen Botrytis cinerea results in severe problems for winemakers worldwide. Browning of wine is caused by the laccase-mediated oxidation of polyphenols. In the last decades, Botrytis management has become increasingly difficult due to the rising number of resistances and the genetic variety of Botrytis strains. During the search for sustainable fungicides, polyphenols showed great potential to inhibit fungal growth. The present study revealed two important aspects regarding the effects of grape-specific polyphenols and their polymerized oxidation products on Botrytis wild strains. On the one hand, laccase-mediated oxidized polyphenols, which resemble the products found in infected grapes, showed the same potential for inhibition of growth and laccase activity, but differed from their native forms. On the other hand, the impact of phenolic compounds on mycelial growth is not correlated to the effect on laccase activity. Instead, mycelial growth and relative specific laccase activity appear to be modulated independently. All phenolic compounds showed not only inhibitory but also inductive effects on fungal growth and/or laccase activity, an observation which is reported for the first time. The simultaneous inhibition of growth and laccase activity demonstrated may serve as a basis for the development of a natural botryticide. Yet, the results showed considerable differences between genetically distinguishable strains, impeding the use of a specific phenolic compound against the genetic variety of wild strains. The present findings might have important implications for future understanding of Botrytis cinerea infections and sustainable Botrytis management including the role of polyphenols.",
+  "publication_date": "2024-07-20",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2024.114782",
+  "entities": {
+    "POLYPHENOL": [
+      "a specific phenolic compound",
+      "all phenolic compounds",
+      "botrytis cinerea infections",
+      "grape-specific polyphenols",
+      "inductive effects",
+      "infected grapes",
+      "infection",
+      "laccase-mediated oxidized polyphenols",
+      "phenolic compounds",
+      "polyphenols",
+      "relative specific laccase activity",
+      "the effect",
+      "the effects",
+      "the last decades",
+      "two important aspects"
+    ],
+    "FOOD": [
+      "grapevines",
+      "wine",
+      "winemakers"
+    ]
+  }
+}

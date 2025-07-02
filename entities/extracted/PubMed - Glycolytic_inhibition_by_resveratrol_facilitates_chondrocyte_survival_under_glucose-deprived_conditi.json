@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Glycolytic inhibition by resveratrol facilitates chondrocyte survival under glucose-deprived conditions and improves the viability of 3D-cultured cartilage tissue.",
+  "abstract": "Decreased cell viability resulting from severe nutrient deprivation is a major obstacle in three-dimensional (3D) tissue construction. Therefore, technical improvements that prevent cell death in the core region of cell aggregates are desired for the development of large, thick tissues. We focused on the anti-glycolytic effects of resveratrol (RSV), a polyphenol known as a caloric restriction mimetic, and investigated its cytoprotective effects under glucose-deprived conditions in two-dimensional (2D) and 3D-cell culture systems using rat chondrocytes. In 2D culture, the low-glucose (LG, 0.5 mg/mL) condition caused time- and dose-dependent cell death in chondrocytes, whereas co-treatment with 50 \u03bcM RSV significantly restored cell viability under glucose deprivation. In RSV-treated cells, the expression levels of glycolytic genes (GLUT1, PKM, and LDHA) and glucose uptake were significantly downregulated, and phospho-AMPK levels were upregulated, indicating energy stress. RSV treatment restored the expression of extracellular matrix genes (COL1A1 and COL2A1), which were downregulated under the LG condition, and augmented the pro-chondrogenic effect of TGF-\u03b21 and ascorbic acid. In a 3D-culture model, spheroids constructed with RSV-pretreated chondrocytes had a more viable core region than dimethyl-sulfoxide-treated control spheroids. TGF-\u03b2-induced cartilage maturation led these spheroids to develop larger and more viable tissues than control spheroids. These results suggested that glycolytic inhibition by RSV decreased chondrocyte glucose usage, thereby preventing cell death caused by glucose deprivation. Our findings provide useful information for improving cell viability under hyponutrition conditions and can be applied to 3D tissue construction.",
+  "publication_date": "2025-05-23",
+  "journal": "Journal of bioscience and bioengineering",
+  "doi": "10.1016/j.jbiosc.2025.05.001",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol",
+      "decreased cell viability",
+      "its cytoprotective effects",
+      "resveratrol",
+      "technical improvements",
+      "the anti-glycolytic effects",
+      "the pro-chondrogenic effect"
+    ],
+    "SYMPTOM": [
+      "cell death",
+      "energy stress",
+      "time- and dose-dependent cell death"
+    ],
+    "FOOD": [
+      "chondrocyte glucose usage"
+    ]
+  }
+}

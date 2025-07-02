@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Effects of tannic acid on growth performance, intestinal health, and tolerance in broiler chickens.",
+  "abstract": "This study investigated the optimal tannic acid dosage and assessed tolerance levels in broiler chickens. In experiment 1, 525 broilers were randomly divided into 5 treatment groups, the control group (CON group) and groups TA1 to TA4, corresponding to treatments of 0.025, 0.05, 0.075, and 0.1 % tannic acid, respectively, to determine the effect of tannic acid on broiler growth performance and gut health. Experiment 2 was performed to evaluate the tolerance of tannic acid; 416 broilers were randomly divided into control (CTR), 0.075 % tannic acid (TA), 0.375 % tannic acid (5TA), and 0.75 % tannic acid (10TA) groups. In the first experiment, compared with that in the CON group, the growth performance and the ileal intestinal villi height to crypt depth ratio showed a quadratic curve increase with tannic acid supplementation (P < 0.05). Adding 0.05 % to 0.075 % tannic acid significantly improved the growth performance, intestinal morphology, and intestinal barrier function (P < 0.05). Tannic acid concentrations of 0.075 % significantly increased the abundance of Firmicutes and Lactobacillaceae in the ileum and decreased the abundance of Vibrionaceae and Yersiniaceae (P < 0.05). In experiment 2, the growth performance of the TA group significantly improved compared with that of the CTR group (P < 0.05). The F/G was significantly higher in the 5TA and 10TA groups than in the CTR group (P < 0.05), and the 10TA group had significantly reduced body weight on d 21 (P < 0.05). The addition of tannic acid resulted in significant glomerular and glandular hyperplasia, as well as muscularis thickening of the gizzard mucosa. However, broilers could not tolerate tannic acid doses of 0.375 % and above. Tannic acid supplementation may protect the proventriculus mucosal layer, reduce villi atrophy, and enhance growth performance by positively influencing the intestinal microbiota, villus morphology, and intestinal barrier function.",
+  "publication_date": "2024-12-28",
+  "journal": "Poultry science",
+  "doi": "10.1016/j.psj.2024.104676",
+  "entities": {
+    "FOOD": [
+      "the optimal tannic acid dosage"
+    ],
+    "POLYPHENOL": [
+      "the effect"
+    ]
+  }
+}

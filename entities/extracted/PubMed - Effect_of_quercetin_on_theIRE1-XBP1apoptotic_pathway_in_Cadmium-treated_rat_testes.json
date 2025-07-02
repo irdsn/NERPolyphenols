@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Effect of quercetin on theIRE1-XBP1apoptotic pathway in Cadmium-treated rat testes.",
+  "abstract": "Cadmium (Cd) is a recognized toxic metal with serious reproductive toxicity in both animals and humans, while quercetin (Que) is considered the potent antioxidant among flavonoid compounds. However, little is known about the alleviating effect of Que on Cd-induced testicular cell apoptosis. This experiment aims to investigate the alleviating effect of Que on Cd-induced testicular cell apoptosis in rats.",
+  "publication_date": "2025-03-30",
+  "journal": "Revista internacional de andrologia",
+  "doi": "10.22514/j.androl.2025.009",
+  "entities": {
+    "POLYPHENOL": [
+      "a recognized toxic metal",
+      "flavonoid compounds",
+      "quercetin",
+      "the alleviating effect"
+    ],
+    "SYMPTOM": [
+      "cd-induced testicular cell apoptosis"
+    ]
+  }
+}

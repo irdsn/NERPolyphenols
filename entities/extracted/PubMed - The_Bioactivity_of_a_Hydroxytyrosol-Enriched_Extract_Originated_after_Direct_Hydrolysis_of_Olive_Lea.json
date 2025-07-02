@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "The Bioactivity of a Hydroxytyrosol-Enriched Extract Originated after Direct Hydrolysis of Olive Leaves from Greek Cultivars.",
+  "abstract": "Nowadays, olive leaf polyphenols have been at the center of scientific interest due to their beneficial effects on human health. The most abundant polyphenol in olive leaves is oleuropein. The biological properties of oleuropein are mainly due to the hydroxytyrosol moiety, a drastic catechol group, whose biological activity has been mentioned many times in the literature. Hence, in recent years, many nutritional supplements, food products, and cosmetics enriched in hydroxytyrosol have been developed and marketed, with unexpectedly positive results. However, the concentration levels of hydroxytyrosol in olive leaves are low, as it depends on several agricultural factors. In this study, a rapid and easy methodology for the production of hydroxytyrosol-enriched extracts from olive leaves was described. The proposed method is based on the direct acidic hydrolysis of olive leaves, where the extraction procedure and the hydrolysis of oleuropein are carried out in one step. Furthermore, we tested the in vitro bioactivity of this extract using cell-free and cell-based methods, evaluating its antioxidant and DNA-protective properties. Our results showed that the hydroxytyrosol-enriched extract produced after direct hydrolysis of olive leaves exerted significant in vitro antioxidant and geno-protective activity, and potentially these extracts could have various applications in the pharmaceutical, food, and cosmetic industries.",
+  "publication_date": "2024-01-06",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29020299",
+  "entities": {
+    "POLYPHENOL": [
+      "a drastic catechol group",
+      "direct hydrolysis",
+      "its antioxidant and dna-protective properties",
+      "oleuropein",
+      "olive leaf polyphenols",
+      "recent years",
+      "the direct acidic hydrolysis",
+      "the most abundant polyphenol",
+      "their beneficial effects",
+      "unexpectedly positive results",
+      "vitro antioxidant and geno-protective activity"
+    ]
+  }
+}

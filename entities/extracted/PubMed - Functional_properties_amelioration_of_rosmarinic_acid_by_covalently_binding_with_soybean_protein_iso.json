@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Functional properties amelioration of rosmarinic acid by covalently binding with soybean protein isolate.",
+  "abstract": "In this study, rosmarinic acid (RA) was covalently bound to soy protein isolate (SPI), and the changes in protein structure were characterized by multispectral analysis. The oil-water partition coefficient, bio-accessibility and adenosine deaminase (ADA) inhibitory activity of the complex were determined, and the effect of covalent binding on RA function was characterized. The possible mechanisms are revealed by molecular dynamics. The results show that new bands are generated on SDS-PAGE, which indicates that the two form a complex. FTIR results showed that the \u03b1-helix content of SPI decreased slightly after binding with RA, and the \u03b2-sheet content increased by 9.61%, indicating that polyphenols may bind to the hydrophobic pockets of proteins. The results of fluorescence and UV spectroscopy showed that the tertiary structure of the protein was unfolded and the fluorescence quenching mechanism was static quenching. The results of molecular dynamics show that the conformation is stable. After compounding with SPI, the lipid solubility of RA increased by 23.75-fold, the bio-accessibility increased by 41.55%, and the ADA inhibitory activity increased by 21.04%.",
+  "publication_date": "2025-03-03",
+  "journal": "Food & function",
+  "doi": "10.1039/d4fo05528d",
+  "entities": {
+    "POLYPHENOL": [
+      "molecular dynamics",
+      "multispectral analysis",
+      "polyphenols",
+      "rosmarinic acid",
+      "the effect",
+      "the fluorescence quenching mechanism",
+      "the possible mechanisms",
+      "uv spectroscopy"
+    ],
+    "FOOD": [
+      "soy protein isolate"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Mechanisms Underlying the Anti-Atherosclerotic Effects of EGCG.",
+  "abstract": "Atherosclerosis (AS) is a chronic inflammatory vascular disease and the primary pathological basis of cardiovascular diseases. Epigallocatechin-3-gallate (EGCG), the most abundant polyphenol compound in green tea, has garnered significant attention in recent years for its protective effects against AS. EGCG possesses properties that lower lipid levels, exhibit antioxidant and anti-inflammatory activities, enhance plaque stability, and promote the recovery of endothelial function. The regulatory mechanisms of EGCG in AS primarily involve inhibiting apoptosis, modulating autophagy, improving gut microbiota, and regulating the Nrf2 and inflammatory signaling pathways. This review summarizes the role of EGCG in the prevention and treatment of AS and its potential mechanisms, providing a scientific basis for future research directions and therapeutic applications.",
+  "publication_date": "2025-01-09",
+  "journal": "Current molecular medicine",
+  "doi": "10.2174/0115665240354839241113044604",
+  "entities": {
+    "SYMPTOM": [
+      "atherosclerosis",
+      "inhibiting apoptosis"
+    ],
+    "POLYPHENOL": [
+      "(egcg",
+      "egcg",
+      "epigallocatechin-3-gallate",
+      "future research directions",
+      "its potential mechanisms",
+      "its protective effects",
+      "recent years",
+      "the most abundant polyphenol compound",
+      "the recovery",
+      "the regulatory mechanisms"
+    ],
+    "FOOD": [
+      "green tea"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Hickory nut polyphenols enhance oxidative stress resilience and improve the longevity of Caenorhabditis elegans through modulating DAF-16/DAF-2 insulin/IGF-1 signaling.",
+  "abstract": "Hickory (Carya cathayensis) nuts, renowned for their health benefits and delightful taste, contain abundant bioactive compounds, particularly polyphenols. However, the specific mechanisms underlying their antioxidant properties and anti-aging effects remain elusive.",
+  "publication_date": "2025-05-27",
+  "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "doi": "10.1016/j.phymed.2025.156918",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-aging effects",
+      "particularly polyphenols",
+      "the specific mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Development of intelligent packaging films utilising chitosan derived from black soldier fly exuviae and anthocyanin from red dragon fruit peel for monitoring banana ripeness.",
+  "abstract": "Bananas are often harvested in an underripe stage, making it crucial to identify the ideal time for consumption. Banana ripeness is generally determined by observing the skin colour and fruit firmness, which is subjective and may cause mechanical damage to the fruit. Chitosan is commonly found in insect exoskeletons, including black soldier fly (BSF) exuviae. This study aimed to develop and characterise indicator films with BSF exuviae chitosan substitution to monitor banana ripeness. BSF exuviae chitosan was extracted via microwave-assisted extraction method, and its physicochemical properties were analysed. The indicator films were produced using the solvent casting method with the addition of red dragon fruit peel anthocyanin as a colour indicator. Then, their physicochemical properties and application on bananas were characterised. The results indicated that the film with BSF exuviae chitosan substitution at a 50:50 (v/v) ratio produced structural and physicochemical properties extremely similar to those of the control film. This was evidenced by X-ray diffraction (XRD), Attenuated Total Reflectance-Fourier Transform Infrared Spectroscopy (ATR-FTIR), along with a tensile strength of 1.21\u202f\u00b1\u202f0.14\u202fMPa, elongation at break of 1.78\u202f\u00b1\u202f0.19\u202f%, moisture content of 31.82\u202f\u00b1\u202f0.49\u202f%, and film solubility of 38.37\u202f\u00b1\u202f2.03\u202f%. The application of indicator films on bananas induced colour changes from red to yellowish-red on the third day of storage. Thus, it can be concluded that BSF exuviae chitosan has the potential to substitute for commercial chitosan in film production for monitoring banana ripeness.",
+  "publication_date": "2025-06-27",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145610",
+  "entities": {
+    "FOOD": [
+      "banana ripeness",
+      "bananas"
+    ],
+    "POLYPHENOL": [
+      "attenuated total reflectance-fourier transform infrared spectroscopy",
+      "insect exoskeletons",
+      "mechanical damage"
+    ]
+  }
+}

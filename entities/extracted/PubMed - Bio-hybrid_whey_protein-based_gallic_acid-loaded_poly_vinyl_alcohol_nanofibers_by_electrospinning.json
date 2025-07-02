@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Bio-hybrid whey protein-based gallic acid-loaded poly (vinyl alcohol) nanofibers by electrospinning.",
+  "abstract": "Electrospinning is a promising technique for fabricating nanofibers with tailored functionalities by blending diverse biomaterials. In this study, poly (vinyl alcohol) (PVA) nanofibers incorporating whey protein isolate (WPI) and gallic acid (GA, 2.5\u202f% w/w) were developed via electrospinning. Varying the PVA:WPI ratio allowed systematic evaluation of fiber morphology, wettability, thermal properties, antioxidant capacity, and antibacterial activity. The fibers exhibited smooth, bead-free morphologies, with average diameters decreasing from 205 to 129\u202fnm as WPI content increased. Incorporation of GA significantly improved hydrophilicity and thermal stability. Antioxidant assays demonstrated up to 87\u202f% DPPH radical scavenging, while antibacterial tests showed effective inhibition of Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus). Among all formulations, PVA-WPI-20-GA displayed the most favorable characteristics in terms of thermal resilience, antioxidant efficiency, and microbial reduction, indicating its strong potential for biomedical and active packaging applications.",
+  "publication_date": "2025-06-23",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145502",
+  "entities": {
+    "POLYPHENOL": [
+      "a promising technique",
+      "effective inhibition",
+      "gallic acid"
+    ],
+    "SYMPTOM": [
+      "biomedical and active packaging applications"
+    ]
+  }
+}

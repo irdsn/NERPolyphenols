@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Exploring the Cardiovascular Benefits of Extra Virgin Olive Oil: Insights into Mechanisms and Therapeutic Potential.",
+  "abstract": "Cardiovascular diseases (CVDs) are the leading cause of mortality worldwide, driven by complex interactions among genetic, environmental, and lifestyle factors, with diet playing a pivotal role. Extra Virgin Olive Oil (EVOO), a cornerstone of the Mediterranean diet (MedDiet), is a plant-based fat that has garnered attention for its robust cardiovascular benefits, which are attributed to its unique composition of monounsaturated fatty acids (MUFAs), particularly oleic acid (OA); and bioactive polyphenols, such as Hydroxytyrosol (HT) and oleocanthal. These compounds collectively exert antioxidant, anti-inflammatory, vasodilatory, and lipid-modulating effects. Numerous clinical and preclinical studies have demonstrated that EVOO's properties reduce major modifiable cardiovascular risk factors, including hypertension, dyslipidemia, obesity, and type 2 diabetes. EVOO also promotes endothelial function by increasing nitric oxide (NO) bioavailability, thus favoring vasodilation, lowering blood pressure (BP), and supporting vascular integrity. Furthermore, it modulates biomarkers of cardiovascular health, such as C-reactive protein, low-density lipoprotein (LDL) cholesterol, and NT-proBNP, aligning with improved hemostatic balance and reduced arterial vulnerability. Emerging evidence highlights its interaction with gut microbiota, further augmenting its cardioprotective effects. This review synthesizes current evidence, elucidating EVOO's multifaceted mechanisms of action and therapeutic potential. Future directions emphasize the need for advanced extraction techniques, nutraceutical formulations, and personalized dietary recommendations to maximize its health benefits. EVOO represents a valuable addition to dietary strategies aimed at reducing the global burden of cardiovascular diseases.",
+  "publication_date": "2025-02-14",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom15020284",
+  "entities": {
+    "FOOD": [
+      "extra virgin olive oil"
+    ],
+    "POLYPHENOL": [
+      "advanced extraction techniques",
+      "bioactive polyphenols",
+      "dietary recommendations",
+      "evoo's multifaceted mechanisms",
+      "future directions",
+      "its cardioprotective effects",
+      "lipid-modulating effects",
+      "numerous clinical and preclinical studies"
+    ],
+    "SYMPTOM": [
+      "hypertension"
+    ]
+  }
+}

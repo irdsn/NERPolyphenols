@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "[A new flavan-3-ol from Sargentodoxae Caulis].",
+  "abstract": "Sargentodoxae Caulis was extracted with 80% ethanol and separated by macroporous resin, MCI, and ODS column chromatography and semi-preparative high performance liquid chromatography. The structures of the compounds were identified based on the NMR and MS data. A total of 19 compounds were identified as parabaroside D(1),(R)-2-(3,4-dihydroxyphenyl)-2-hydroxyethyl-O-\u03b2-D-glucopyranoside(2),(S)-2-(3,4-dihydroxyphenyl)-2-hydroxyethyl-O-\u03b2-D-glucopyranoside(3), protocatechin-3-O-\u03b2-D-glucoside(4), p-hydroxybenzoate-\u03b2-D-glucopyranoside(5), gentisic-5-O-\u03b2-D-glucopyranoside(6), vanillic acid 4-O-\u03b2-D-glucoside(7), syringic acid glucoside(8), uracil(9), uridine(10), neochlorogenic acid(11), chlorogenic acid(12), cryptochlorogenic acid(13), 3,4-dihydroxyphenylethanol glucoside(14), cuneataside A(15), cuneataside C(16), 4-hydroxy-3-methoxyacetophenone-4-O-\u03b2-D-apiose-(1\u21926)-\u03b2-D-glucopyranoside(17), proanthocyanidin B2(18), and baimantuoluoamide B(19). Compound 1 was a new flavan-3-ol, and compounds 2, 3, 5, 6, 9, and 19 were isolated from this plant for the first time. Compounds 2 and 3 were a pair of epimers. Compound 14 had the highest anti-inflammatory activity.",
+  "publication_date": "2024-12-01",
+  "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+  "doi": "10.19540/j.cnki.cjcmm.20240713.202",
+  "entities": {
+    "POLYPHENOL": [
+      "cryptochlorogenic acid(13",
+      "protocatechin-3-o-\u03b2-d-glucoside(4",
+      "syringic acid glucoside(8"
+    ]
+  }
+}

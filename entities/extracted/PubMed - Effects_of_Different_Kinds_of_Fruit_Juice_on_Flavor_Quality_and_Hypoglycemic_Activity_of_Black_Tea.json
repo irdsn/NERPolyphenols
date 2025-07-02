@@ -1,0 +1,40 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Effects of Different Kinds of Fruit Juice on Flavor Quality and Hypoglycemic Activity of Black Tea.",
+  "abstract": "At present, the heavy bitter taste, poor flavor quality and low functional activity of summer and autumn tea are the bottleneck problems restricting the low utilization rate of summer and autumn tea resources. The research and development of new products of fruit-flavored black tea is conducive to expanding the utilization of summer and autumn tea resources. Different kinds of fruit juice were added during the fermentation and processing of classic black tea, such as bananas, apples, fragrant pear and Sydney pear, in this study. The effects of fruit juice on the flavor quality and amylase inhibitory activity of fruity black tea were researched. The sensory quality, flavor chemicals and \u03b1-amylase inhibitory activity were evaluated. The results showed that the sensory evaluation scores of black tea treated with fruit juice were significantly higher than those of black tea treated without fruit juice, especially the crown pear juice. The amylase inhibition rate of black tea treated with fruit juice was significantly higher than the control treated without fruit juice (p< 0.05). The sensory evaluation scores, polyphenol oxidase activity, water extract content, soluble sugar content, free amino acid content, theaflavin content, thearubigin content and inhibition rate of amylase activity of black tea treated with pear juice were significantly higher than those of the apple and banana juices (p< 0.05), especially crown pear juice. Tea polyphenol content and theaflavin content of black tea treated with added pear juice were significantly lower (p< 0.05) than the black tea control treated with added apple juice and banana juice, especially crown pear juice. The fruity black tea treated with crown pear juice had a redder broth, more pronounced sweet fruit aroma, sweet and mellow taste and reduced astringency. Therefore, the black tea treated with crown pear juice was preferred. The research hopes to provide a theoretical basis for the research of black tea quality control and the research of summer and autumn tea resources utilization technology.",
+  "publication_date": "2025-02-10",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14040588",
+  "entities": {
+    "POLYPHENOL": [
+      "especially crown pear juice",
+      "especially the crown pear juice",
+      "polyphenol oxidase activity",
+      "summer and autumn tea resources utilization technology",
+      "tea polyphenol content",
+      "the bottleneck problems",
+      "the effects"
+    ],
+    "FOOD": [
+      "added apple juice",
+      "added pear juice",
+      "apples",
+      "banana juice",
+      "bananas",
+      "black tea",
+      "black tea quality control",
+      "classic black tea",
+      "crown pear juice",
+      "fragrant pear",
+      "fruit juice",
+      "fruit-flavored black tea",
+      "fruity black tea",
+      "pear juice",
+      "the apple and banana juices",
+      "the black tea",
+      "the black tea control",
+      "the fruity black tea"
+    ]
+  }
+}

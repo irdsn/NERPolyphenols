@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Therapeutic potential ofCoprinus comatusnanogels: Antiarthritic and anti-inflammatory effects in rheumatoid arthritis models.",
+  "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disorder characterized by persistent joint inflammation and systemic immune dysregulation. The current pharmacological treatments, primarily synthetic drugs, often present adverse effects and long-term toxicity. This study explores the therapeutic potential ofCoprinus comatusnanogels as a novel herbal formulation with antiarthritic and anti-inflammatory properties in a Complete Freund's Adjuvant (CFA)-induced rat model of RA. The study aims to evaluate the efficacy ofC. comatusnanogels in reducing pro-inflammatory cytokine levels, antibody production, paw edema, and arthritis indices and to assess their potential as a safer alternative to conventional RA therapies.",
+  "publication_date": "2025-03-09",
+  "journal": "Veterinary world",
+  "doi": "10.14202/vetworld.2025.582-597",
+  "entities": {
+    "SYMPTOM": [
+      "persistent joint inflammation",
+      "rheumatoid arthritis"
+    ],
+    "POLYPHENOL": [
+      "often present adverse effects"
+    ]
+  }
+}

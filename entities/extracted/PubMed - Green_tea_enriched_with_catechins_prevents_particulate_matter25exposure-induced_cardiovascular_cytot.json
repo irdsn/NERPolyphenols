@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Green tea enriched with catechins prevents particulate matter2.5exposure-induced cardiovascular cytotoxicity via regulation of ferroptosis in BALB/c mice.",
+  "abstract": "This study was conducted to assess the protective effects of the aqueous green tea extract (GTE) against particulate matter (PM)2.5-induced cardiac dysfunction in BALB/c mice. The GTE treatment ameliorated PM2.5-induced ferroptosis and vascular smooth muscle cells (VSMC) switching in cardiovascular A7r5 cells. The administration of GTE regulated the body weight change, heart index, serum biomarkers, and cardiac antioxidant system. GTE downregulated the inflammatory reaction by inhibiting the protein expression levels of TLR2, TLR4, NOX4, p-Akt, p-JNK, p-I\u03baB-\u03b1, Cas-1, iNOS, Ptgs2, HO-1, TNF-\u03b1, and IL-1\u03b2. In addition, the supplement of GTE ameliorated cardiac damage by regulating the ferroptotic biomarkers such as p53, xCT, GPX4, TFR, and FtH, and mitochondrial apoptosis indicators such as Cas-3, BCl-2, and BAX. It also protected VSMC phenotype levels of SM22\u03b1, \u03b1SMA, and calponin. This study suggests that GTE might be a potential material to protect PM2.5-induced cardiac damage via ferroptosis and inflammation pathway.",
+  "publication_date": "2025-02-27",
+  "journal": "Food science and biotechnology",
+  "doi": "10.1007/s10068-025-01831-0",
+  "entities": {
+    "POLYPHENOL": [
+      "the protective effects"
+    ],
+    "FOOD": [
+      "the aqueous green tea extract"
+    ],
+    "SYMPTOM": [
+      "ferroptosis and inflammation pathway",
+      "mitochondrial apoptosis indicators"
+    ]
+  }
+}

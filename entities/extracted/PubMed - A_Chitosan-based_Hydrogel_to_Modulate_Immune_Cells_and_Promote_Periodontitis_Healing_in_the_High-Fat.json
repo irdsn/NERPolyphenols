@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "A Chitosan-based Hydrogel to Modulate Immune Cells and Promote Periodontitis Healing in the High-Fat Diet-induced Periodontitis Rat Model.",
+  "abstract": "Periodontitis is a multifactorial inflammatory disease driven by prolonged, dysregulated inflammation between dysbiotic microbiota and the host immune system. Risk factors such as metabolic syndrome exacerbate periodontitis progression through systemic inflammation. Current treatments primarily focus on removing pathogenic dental plaque, but subsequent healing relies mainly on the host immune response. Modulating the local immune environment, particularly dendritic cells (DCs) and T-cells, in periodontitis complicated by metabolic syndrome could enhance the healing process. The objective of this study is to develop a biomaterial-based adjuvant therapy to immunomodulate DCs and T-cells and promote healing in periodontitis complicated by metabolic syndrome. We developed and characterized a chitosan-based thermosensitive injectable self-assembled hydrogel (TISH), which exhibited an interconnected porous structure conducive to cell migration and adhesion. TISH was loaded with granulocyte-macrophage colony-stimulating factor (GM-CSF) and resveratrol (TISH(GR)), enabling sustained release over time. Mechanistically, TISH(GR) suppressed inflammatory signalling pathways (MAPKs and NF-\u03baB) downstream of Toll-like receptor-4 in DCs. In a high-fat diet-induced periodontitis rat model, TISH(GR) administered as an adjuvant to SRP significantly alleviated periodontal inflammation and tissue destruction compared to SRP alone. TISH(GR) treatment was associated with decreased TH17 cell infiltration and elevated expression of the Tregs-associated cytokine IL-10 in the periodontium. In conclusion, TISH(GR) was developed and optimized as an injectable immunomodulatory hydrogel targeting DCs and T-cells. It demonstrated promising potential to attenuate inflammation and enhance periodontal healing, particularly in immunocompromised patients with metabolic syndrome. STATEMENT OF SIGNIFICANCE: Current treatments for periodontitis primarily focus on dental plaque removal, with healing heavily dependent on the host immune system. However, metabolic diseases can dysregulate the local immune response, exacerbating periodontal inflammation and impairing post-treatment healing. In this study, we developed a chitosan-based hydrogel designed to immunomodulate dendritic cells and T-cells, polarizing them toward an anti-inflammatory phenotype that promotes tissue repair. When administered as an adjuvant to scaling and root planing, this combination therapy significantly enhanced periodontal healing and reduced tissue damage in a high-fat diet complicated periodontitis model. These findings highlight the clinical potential of this hydrogel formulation to improve treatment outcomes, particularly in challenging clinical cases involving metabolic comorbidities.",
+  "publication_date": "2025-05-14",
+  "journal": "Acta biomaterialia",
+  "doi": "10.1016/j.actbio.2025.05.034",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "metabolic syndrome",
+      "periodontal inflammation",
+      "significantly alleviated periodontal inflammation",
+      "systemic inflammation"
+    ],
+    "POLYPHENOL": [
+      "a chitosan-based thermosensitive injectable self-assembled hydrogel",
+      "an injectable immunomodulatory hydrogel",
+      "an interconnected porous structure",
+      "decreased th17 cell infiltration",
+      "the objective"
+    ]
+  }
+}

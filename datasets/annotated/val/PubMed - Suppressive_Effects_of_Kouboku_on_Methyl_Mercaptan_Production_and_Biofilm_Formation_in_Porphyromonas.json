@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Suppressive Effects of Kouboku on Methyl Mercaptan Production and Biofilm Formation in Porphyromonas gingivalis.",
+  "abstract": "Porphyromonas gingivalis, the bacterium responsible for periodontitis, produces several pathogenic factors, including methyl mercaptan, which contribute to the disease. Kouboku (Magnoliaceae), a Chinese herbal medicine, has been shown to suppress methyl mercaptan production from P. gingivalis. In this study, we investigated the inhibitory effect of Kouboku on methyl mercaptan production, biofilm formation, P. gingivalis-host cell interactions, and its potential synergistic antibacterial effect with antibiotics. Five standard and five clinically isolated P. gingivalis strains were evaluated. Methyl mercaptan production was measured using OralChroma. The mRNA expression of mgl and fimA, which are involved in methyl mercaptan synthesis and adhesion molecules, was assessed using quantitative PCR. Biofilm formation by P. gingivalis and epithelial cell adhesion were analyzed following treatment with or without Kouboku. Furthermore, the effects of the active ingredients of Kouboku, honokiol, and magnolol, on the minimum inhibitory concentrations (MICs) of antibiotics against P. gingivalis were determined. No significant differences were observed in the suppression of methyl mercaptan production among P. gingivalis strains with different FimA genotypes treated with Kouboku. Moreover, Kouboku inhibited biofilm formation in co-cultures of P. gingivalis and Fusobacterium nucleatum, as well as the adhesion of P. gingivalis to gingival epithelial cells through the downregulation of fimA. Treatment with honokiol and magnolol reduced the MICs of ampicillin, gentamicin, erythromycin, and tetracycline against P. gingivalis. These findings demonstrate that Kouboku affects P. gingivalis by modulating its adhesion to other bacteria and host cells, and enhances the antibacterial activity of certain antibiotics.",
+  "publication_date": "2025-02-27",
+  "journal": "Molecular oral microbiology",
+  "doi": "10.1111/omi.12493",
+  "entities": {
+    "POLYPHENOL": [
+      "its potential synergistic antibacterial effect",
+      "methyl mercaptan synthesis and adhesion molecules",
+      "the effects",
+      "the inhibitory effect"
+    ]
+  }
+}

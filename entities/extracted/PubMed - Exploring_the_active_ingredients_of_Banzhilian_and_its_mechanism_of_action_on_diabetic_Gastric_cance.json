@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Exploring the active ingredients of Banzhilian and its mechanism of action on diabetic Gastric cancer based on network pharmacology.",
+  "abstract": "The incidence of Gastric cancer (GC) has shown a sharp upward trend, and patients with GC complicated by diabetes exhibit significantly worse clinical outcomes and prognosis compared to those without diabetes. Traditional Chinese medicine has played a crucial role in the treatment of both GC and diabetes. Currently, Banzhilian(Scutellaria barbata D. Don) is utilized in the treatment of GC; however, the specific small-molecule monomers it contains and their mechanisms of action have not yet been fully elucidated. This study aims to explore the mechanism of quercetin, a key component of Banzhilian, through network pharmacology, molecular docking, molecular dynamics (MD) simulation, bioinformatics, and in vitro and in vivo experiments. Initially, core targets and key pathways involved in the treatment of diabetes-associated GC (GC-diabetes) were identified using public databases. Subsequently, molecular docking, MD simulation, and survival analysis were performed. Experimental validation included CCK-8 assays, colony formation assays, apoptosis detection, cell cycle analysis, wound healing assays, Transwell migration assays, Western blotting, and mouse subcutaneous tumor formation experiments to evaluate the effects of quercetin, as an active monomer in Banzhilian, on Gastric cancer cells (HGC-27-HG cells) under high-glucose conditions. In this study, quercetin was identified as the key active component, with AKT1, TP53, JUN, MYC, and CCND1 recognized as the target genes, and the PI3K/AKT signaling pathway as the primary regulatory pathway. The results of the study indicate that the proliferation, migration, and invasion capabilities of HGC-27-HG cells are significantly higher than those of HGC-27 cells. However, quercetin inhibited the growth of HGC-27-HG cells, promoted apoptosis, induced cell cycle arrest at the G0/G1 phase, and reduced the cells' migration and invasion abilities. Furthermore, it downregulated the expression of target genes and their phosphorylation levels. The experimental findings confirmed that quercetin, as an active monomer in Banzhilian, suppresses the proliferation of HGC-27-HG cells by inhibiting the PI3K/AKT/MYC pathway, promoting apoptosis, blocking cell cycle progression, and inhibiting cell migration and invasion.",
+  "publication_date": "2025-04-28",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-98214-6",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "gastric cancer",
+      "gastric cancer cells"
+    ],
+    "POLYPHENOL": [
+      "apoptosis detection",
+      "molecular docking",
+      "molecular dynamics (md) simulation",
+      "quercetin",
+      "the effects",
+      "the mechanism",
+      "the specific small-molecule monomers",
+      "their mechanisms"
+    ]
+  }
+}

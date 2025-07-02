@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Development of a microarray microfluidic chip mass spectrometry platform based on UV curable 3D hepatocellular sphere bio-ink for rapid screening inhibitors of advanced glycosylation end products from natural compounds.",
+  "abstract": "Advanced glycation end products (AGEs) are the unwanted by-products of excessive sugar intake, and their generation and accumulation promote aging and disease occurrence. However, the lack of robust biology model and platform for fast evaluating AGE generation and accumulation under intervention of drugs hampers AGEs-targeted therapeutic development. This work described a novel biological high AGEs recombinant extracellular matrix 3D human hepatocellular spheres model was built, under the same cell numbers, this 3D hepatocellular spheres expressed more AGEs over an order of magnitude than monolayer culture cells. Combined with UV curable gelatin methacryloyl (GelMA), biological 3D human hepatocellular sphere were made into a extruded type bio-ink with high AGEs, simply encapsulated in a hepatic lobule shaped micro array polymethyl methacrylate (PMMA) microfluidic chip successfully. Due to this biomimetic fluid microreactor environment, our biological microfluidic chip enables effectively determine the inhibition capacity of compounds on endogenous AGE accumulation with a high sensitivity and in a short time, total determination workflow less than 2.5\u00a0h, it takes 1/200 of the time required by mainstream methods. The evaluation results showed that alisol B 23-monoacetate and chlorogenic acid were potential natural AGEs inhibitors. Moreover, the integration of high AGEs bio-ink and microfluidic chip provides a promising tool for AGE-related drug discovery and liver disease research.",
+  "publication_date": "2025-04-22",
+  "journal": "Biosensors & bioelectronics",
+  "doi": "10.1016/j.bios.2025.117499",
+  "entities": {
+    "SYMPTOM": [
+      "aging and disease occurrence"
+    ],
+    "POLYPHENOL": [
+      "a novel biological high ages recombinant extracellular matrix 3d human hepatocellular spheres model",
+      "alisol b 23-monoacetate and chlorogenic acid"
+    ]
+  }
+}

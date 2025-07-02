@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Treatment with senolytic drugs ameliorates steroid-induced osteonecrosis of the femoral head by inhibiting osteoclastogenesis.",
+  "abstract": "Osteonecrosis of the femoral head (ONFH) is a disabling orthopedic disease characterized by hyperactivation of osteoclasts and impairment of osteogenesis. However, the underlying mechanism by which osteoclastogenesis is driven in ONFH remains unclear. Although cellular senescence is hypothesized to contribute to the development of multiple comorbidities, the role of cellular senescence in ONFH remains underexplored. In this study, we explored whether clearing senescent cells ameliorates ONFH. Analyses of single-cell sequencing data revealed that the population of osteoclasts increased in ONFH, and the expression of senescence-related genes (CDKN1A and CDKN2A) in macrophages was elevated in ONFH patients. Additionally, we found that senescent macrophages in ONFH mice were significantly increased, as evidenced by an increased population of SA-\u03b2-gal positive cells and F4/80+p21+cells in the femoral head. Tartrate-resistant acid phosphatase (TRAP) staining results further revealed that osteoclasts in ONFH mice increased. In the in vitro experiments of bone marrow-derived macrophages (BMDMs), treatment with low-dose tert-butyl hydroperoxide (t-BHP) increased the number of senescent macrophages, thereby promoting their osteoclastogenesis, while inhibiting their osteogenic/angiogenic abilities. Administration of senolytic drugs (Dasatinib and Quercetin, D\u00a0+\u00a0Q) diminished t-BHP-induced cellular senescence and osteoclastogenesis in BMDMs. Moreover, clearing senescent BMDMs rescued their anti-inflammatory phenotype and osteogenic/angiogenic abilities. In the in vivo experiments, treatment with D\u00a0+\u00a0Q relieved the methylprednisolone (MPS)-induced hyperactivation of osteoclasts. Additionally, these senolytic drugs enhanced the processes of angiogenesis and osteogenesis in ONFH mice. Collectively, these findings suggest that cellular senescence in macrophages facilitates the hyperactivation of osteoclasts and the progression of ONFH, indicating that clearing senescent cells holds significant therapeutic potential in the treatment of ONFH.",
+  "publication_date": "2025-06-05",
+  "journal": "International immunopharmacology",
+  "doi": "10.1016/j.intimp.2025.114963",
+  "entities": {
+    "POLYPHENOL": [
+      "osteonecrosis",
+      "quercetin",
+      "the underlying mechanism"
+    ]
+  }
+}

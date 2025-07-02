@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Cerium-Organic Framework and Resveratrol Composite Hydrogel Scaffold with Dual Antioxidant Activity for Enhanced Bone Regeneration.",
+  "abstract": "The repair of large bone defects remains a significant challenge in the field of orthopedics, as traditional bone substitutes face issues such as limited supply and structural incompatibility. Therefore, the development of novel biomaterials to promote bone repair is of great significance. This study proposes a composite material based on a gelatin/alginate dual-network hydrogel scaffold (Gel/AlgMA), which regulates oxidative stress in the local microenvironment of bone defects by loading cerium metal-organic frameworks (Ce-UiO-66) and resveratrol (Res). The cerium ions in Ce-UiO-66 exhibit excellent antioxidant properties in their multivalent states, capable of scavenging excess reactive oxygen species (ROS), improving mitochondrial function, and enhancing stability through a polydopamine (PDA) coating. The Gel/Alg@Ce-Res/PDA composite scaffold was prepared via photopolymerization and its in vitro biocompatibility, antioxidant properties, and osteogenic potential were evaluated. The results indicated that the composite scaffold effectively scavenged ROS, alleviated oxidative stress, and promoted the proliferation and differentiation of osteoblasts. Moreover, in vivo experiments further confirmed the favorable effects of the Gel/Alg@Ce-Res/PDA scaffold in bone defect repair. This study provides an innovative biomaterial design for bone defect treatment, with promising clinical application prospects.",
+  "publication_date": "2025-05-22",
+  "journal": "ACS applied materials & interfaces",
+  "doi": "10.1021/acsami.5c01679",
+  "entities": {
+    "POLYPHENOL": [
+      "bone defect repair",
+      "bone defect treatment",
+      "bone defects",
+      "clinical application prospects",
+      "excess reactive oxygen species",
+      "large bone defects",
+      "the favorable effects"
+    ],
+    "SYMPTOM": [
+      "alleviated oxidative stress",
+      "oxidative stress"
+    ]
+  }
+}

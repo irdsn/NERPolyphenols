@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Vineyard pruning-wood waste valorisation: sustainable extraction of bioactive compounds.",
+  "abstract": "The annual production of waste is expected to increase over the next forty years, representing one of the main challenges associated with the global rise in population. Consequently, the transition towards more sustainable development and circular economy constitutes one of the most pressing challenges in the coming decades. Vineyard management generates several thousand tons of waste each year, including wood from pruning. This waste material is particularly rich in secondary metabolites, such as(E)-resveratrol and(E)-\u03b5-viniferin. Accordingly, it represents a valuable source of biologically active phytochemicals with potential industrial outcomes.",
+  "publication_date": "2025-06-05",
+  "journal": "Frontiers in chemistry",
+  "doi": "10.3389/fchem.2025.1597833",
+  "entities": {
+    "POLYPHENOL": [
+      "circular economy",
+      "secondary metabolites",
+      "the coming decades"
+    ]
+  }
+}

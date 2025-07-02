@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Cytotoxic Potential and Metabolomic Profiling ofSolanum lycopersicumRoots Extract and Their Nanocrystals: AnIn SilicoApproach.",
+  "abstract": "Solanum lycopersicumL. Moench (Tomato) is a rich source of bioactive compounds. This study investigated the anticancer potential ofS. lycopersicumroots methanol extract (TMESLR) and their nanocrystals (TMESLR-NCs) against breast (MCF-7), hepatocellular (HepG2), and colon (Caco-2) cancer cell lines, for the first time. TMESLR exhibited significant cytotoxicity against all 3 cell lines, with the nanocrystals demonstrating enhanced activity, Caco-2, MCF-7, and HepG2 cells with IC50values of 9.69\u2009\u00b1\u20090.6, 12.52\u2009\u00b1\u20090.58, and 14.34\u2009\u00b1\u20090.62\u2009\u00b5g/mL, respectively. Whereas, the prepared TMESLR-NCs displayed significantly the highest cytostatic potential against Caco-2 with IC50value of 5.733\u2009\u00b1\u20090.29\u2009\u00b5g/mL. Metabolomic profiling revealed17secondary metabolites, including flavonoids, phenolic acids, and terpenoids.In silicoanalyses, including PPI network construction, GO enrichment, and KEGG pathway analysis, highlighted the involvement of apoptotic pathways, p53 signaling, and TNF signaling in the anticancer effects of TMESLR. Molecular docking studies identified chlorogenic acid and inosine as potential inhibitors of Histone Deacetylase 2 (HDAC2). Inosine (6) displayed a superior docking score of -7.86\u2009kcal/mol, interacting with critical residues GLY154, ASP269, and HIS146. On the other hand, chlorogenic acid (12) achieved a docking score of -7.32\u2009kcal/mol, forming stable interactions with TYR308, PHE210, and LEU276 residues. These findings suggest that TMESLR and TMESLR-NCs possess promising anticancer activity and warrant further investigation as potential therapeutic agents.",
+  "publication_date": "2025-05-09",
+  "journal": "Integrative cancer therapies",
+  "doi": "10.1177/15347354251335599",
+  "entities": {
+    "FOOD": [
+      "tomato"
+    ],
+    "SYMPTOM": [
+      "colon (caco-2) cancer cell lines",
+      "promising anticancer activity",
+      "the anticancer potential"
+    ],
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "flavonoids",
+      "molecular docking studies",
+      "the anticancer effects"
+    ]
+  }
+}

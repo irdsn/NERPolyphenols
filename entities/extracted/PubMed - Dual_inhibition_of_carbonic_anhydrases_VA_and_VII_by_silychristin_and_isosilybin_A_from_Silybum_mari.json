@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Dual inhibition of carbonic anhydrases VA and VII by silychristin and isosilybin A from Silybum marianum: A potential antiobesity strategy.",
+  "abstract": "Obesity is a global health crisis linked to chronic diseases like cardiovascular disease and type 2 diabetes. Its prevalence, even in low-income countries, highlights the failure of traditional interventions. Safer pharmacological treatments are urgently needed, as many existing antiobesity drugs have been withdrawn due to severe side effects, leaving a critical therapeutic gap. A promising target in this context is human carbonic anhydrase V (hCA V), a mitochondrial enzyme that plays a key role in glucose homeostasis. Inhibiting hCA V has been shown to reduce lipogenesis and improve metabolic conditions. Natural plant extracts, such as silymarin from milk thistle, have demonstrated potential in managing obesity-related metabolic syndromes by lowering triglycerides, reducing cholesterol levels, and improving liver function. Our computational studies have identified active compounds in silymarin that effectively inhibit hCA V, shedding light on a potential mechanism for its antiobesity effects. Building on these findings, our research further reveals that these compounds also inhibit carbonic anhydrase VII (hCA VII), enhancing their therapeutic potential. This dual inhibitory action addresses both metabolic dysregulation and oxidative stress. Notably, the antioxidant properties of hCA VII provide additional protection against obesity-related complications by mitigating oxidative stress, a key contributor to the development of metabolic syndrome.",
+  "publication_date": "2025-05-01",
+  "journal": "Archiv der Pharmazie",
+  "doi": "10.1002/ardp.202400966",
+  "entities": {
+    "SYMPTOM": [
+      "many existing antiobesity drugs",
+      "metabolic syndrome",
+      "obesity",
+      "obesity-related complications",
+      "obesity-related metabolic syndromes",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "a potential mechanism",
+      "additional protection",
+      "its antiobesity effects",
+      "severe side effects",
+      "silymarin"
+    ],
+    "FOOD": [
+      "natural plant extracts"
+    ]
+  }
+}

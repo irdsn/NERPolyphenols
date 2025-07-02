@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Functional and Therapeutic Roles of Plant-Derived Antioxidants in Type 2 Diabetes Mellitus: Mechanisms, Challenges, and Considerations for Special Populations.",
+  "abstract": "Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder characterized by persistent hyperglycemia, oxidative stress, and inflammation, contributing to insulin resistance and long-term complications. Dietary antioxidants from plant sources, such as polyphenols, flavonoids, carotenoids, and phenolic acids, have been increasingly studied for their potential to modulate these pathophysiological mechanisms.",
+  "publication_date": "2025-06-13",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060725",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "insulin resistance",
+      "oxidative stress",
+      "persistent hyperglycemia"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "polyphenols",
+      "these pathophysiological mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Deactivating mutations in the catalytic site of a companion serine carboxypeptidase-like acyltransferase enhance catechin galloylation inCamelliaplants.",
+  "abstract": "Galloylated flavan-3-ols are key quality and health-related compounds in tea plants ofCamelliasectionThea.Camellia ptilophyllaandCamellia sinensisare two representative species known for their high levels of galloylated flavan-3-ols. Building on our knowledge of galloyl catechin biosynthesis inC. sinensis, we now focus on the biosynthesis of galloylated phenolics inC. ptilophylla, aiming to elucidate the mechanisms underlying the high accumulation of these compounds inCamelliaspecies. The phenolic compounds inC. ptilophyllawere identified and quantified using chromatographic and colorimetric methods. Genes involved in polyphenol galloylation were identified by correlating gene expression with the accumulation of galloylated phenolics across 18 additionalCamelliaspecies and one related species using Weighted Gene Coexpression Network Analysis. Key findings include the coexpression of SCPL4/2 and SCPL5 subgroup enzymes as crucial for galloylation of catechins, while SCPL3 and SCPL8 showed enzymatic activity related to hydrolyzable tannin synthesis. Variations in the amino acid sequences of SCPL5, particularly in the catalytic triad (T-D-Y vs S-D-H) observed inC. ptilophyllaandC. sinensis, were found to significantly affect enzymatic activity and epigallocatechin gallate (EGCG) production. In conclusion, this research provides important insights into the metabolic pathways ofC. ptilophylla, emphasizing the critical role of SCPL enzymes in shaping the phenolic profile within the sectionThea. The findings have significant implications for the cultivation and breeding of tea plants with optimized phenolic characteristics.",
+  "publication_date": "2024-12-06",
+  "journal": "Horticulture research",
+  "doi": "10.1093/hr/uhae343",
+  "entities": {
+    "POLYPHENOL": [
+      "18 additionalcamelliaspecies",
+      "catechins",
+      "egcg",
+      "galloyl catechin",
+      "galloylated flavan-3",
+      "galloylated flavan-3-ols",
+      "galloylated phenolics",
+      "galloylated phenolics inc. ptilophylla",
+      "galloylation",
+      "hydrolyzable tannin synthesis",
+      "ofcamelliasectionthea",
+      "one related species",
+      "polyphenol galloylation",
+      "the mechanisms",
+      "the sectionthea",
+      "two representative species"
+    ]
+  }
+}

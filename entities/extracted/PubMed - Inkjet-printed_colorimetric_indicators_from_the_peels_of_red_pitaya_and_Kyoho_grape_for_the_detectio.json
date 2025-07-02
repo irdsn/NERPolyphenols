@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Inkjet-printed colorimetric indicators from the peels of red pitaya and Kyoho grape for the detection of food spoilage gases.",
+  "abstract": "The development of intelligent packaging materials can be alternative means to monitor food freshness and showcase real-time quality decline during storage. Colorimetric indicators are commonly employed as such examples due to their capability to exhibit chemically-responsive color changes triggered by the in-package headspace change during food deterioration. Different food-grade indicator dyes or pigments were investigated in literature, but one challenge was to incorporate the colorant into packaging materials with easy manipulation of indicator compositions. In this study, betanin extracted from red pitaya peel and anthocyanin extracted from Kyoho grape peel were developed into inks and subsequently printed as colorimetric indicators through piezoelectric inkjet printing. The formulated ink solution containing indicator compounds exhibited Newtonian fluid characteristic and was confirmed as printable fluid. The developed indicators showed detectable color responses upon the exposure of increasing levels of different food volatile gases including acetic acid, butyric acid, trimethylamine, ammonia and hexanoic acid. For each gas analyte present at low and high doses, the indicator's color responses can be differentiated by conducting the principal component analysis and hierarchical cluster analysis, with high sensitivity. A preliminary study on seafood freshness monitoring was conducted and visible color changes were observed during shrimp deterioration.",
+  "publication_date": "2025-04-30",
+  "journal": "Current research in food science",
+  "doi": "10.1016/j.crfs.2025.101064",
+  "entities": {
+    "SYMPTOM": [
+      "intelligent packaging materials",
+      "packaging materials"
+    ],
+    "POLYPHENOL": [
+      "detectable color responses",
+      "piezoelectric inkjet printing",
+      "real-time quality decline"
+    ],
+    "FOOD": [
+      "kyoho grape peel"
+    ]
+  }
+}

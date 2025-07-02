@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Targeting lipid metabolism to overcome tamoxifen resistance in breast cancer: Evaluating the synergistic therapeutic potential of quercetin.",
+  "abstract": "Breast cancer remains the most prevalent malignancy among women globally, with hormone receptor-positive subtypes representing the majority of cases. Despite significant advances in treatment, resistance to Tamoxifen, a cornerstone therapy for estrogen receptor-positive (ER+) breast cancer, poses a critical challenge, affecting up to 50 % of patients. Emerging evidence suggests that dysregulated lipid metabolism plays a pivotal role in breast cancer progression and therapy resistance. This systematic review aims to explore the intricate relationship between lipid metabolism and Tamoxifen resistance, with a particular focus on the potential therapeutic synergy of combining Tamoxifen with lipid metabolism modulators, such as Quercetin. We systematically searched PubMed, Scopus, Web of Science, and the Cochrane Library for studies published between 2000 and 2023, examining the role of lipid metabolic pathways in breast cancer and the impact of Quercetin on enhancing Tamoxifen efficacy. The findings suggest that targeting key enzymes involved in lipid metabolism, including fatty acid synthase (FASN) and acetyl-CoA carboxylase (ACC), may impair cancer cell survival mechanisms and sensitize tumors to Tamoxifen. The combination of Tamoxifen and Quercetin appears to exhibit synergistic effects, enhancing apoptosis and reducing cell proliferation more effectively than either agent alone. This review highlights the potential of combining Tamoxifen with Quercetin as a therapeutic strategy to overcome Tamoxifen resistance, providing a rationale for further clinical trials to investigate this combination therapy.",
+  "publication_date": "2025-06-10",
+  "journal": "Cancer treatment and research communications",
+  "doi": "10.1016/j.ctarc.2025.100953",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "breast cancer",
+      "breast cancer progression"
+    ],
+    "POLYPHENOL": [
+      "cancer cell survival mechanisms",
+      "estrogen receptor-positive (er+) breast cancer",
+      "hormone receptor-positive subtypes",
+      "quercetin",
+      "synergistic effects"
+    ]
+  }
+}

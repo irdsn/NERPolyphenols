@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Radiosynthesis of [131I]I-Hesperidin: Optimization, physicochemical profiling, and computational insights for targeted radiopharmaceuticals.",
+  "abstract": "Hesperidin, a citrus flavonoid, has been investigated for its potential health benefits, including anticancer. However, the study of hesperidin as a theranostic agent and its cancer cellular uptake is still lacking. Therefore, in this research, we developed radiolabeling methods of hesperidin with Iodine-131 (131I) for radiotracing and investigating its potential theranostic application. Here, we showed that the radiochemical purity of [131I]I-hesperidin prepared with chloramine-T in methanol or DMSO, iodogen, and iodobeads as a catalyst were 97.75, 79.08, 78.13, and 49.91\u00a0%, respectively. The LogP and plasma protein-binding after 24\u00a0h of [131I]I-hesperidin prepared by chloramine-T in methanol were 0.54\u00a0\u00b1\u00a00.02 and 51.01\u00a0%, respectively. It was also stable in PBS for up to two days (RCP>90\u00a0%). The cellular uptake assay demonstrated the high and rapid uptake of [131I]I- hesperidin in A549\u00a0cells (92.03\u00a0% in 30\u00a0min), relatively low uptake in MCF-7 (21.30\u00a0% in 1\u00a0h), and deficient uptake in MDA-MB-231 (3.64\u00a0%). Interaction and binding energies of [131I]I-hesperidin-b toward EGFR, HER2, ER\u03b1, and ER\u03b2, were -169.910; -131.574; -152.623, and -184.844\u00a0kJ/mol, respectively. Considering that the cellular uptake was the highest in A549\u00a0cells among the tested cells, the cellular uptake may be related to both EGFR and HER2 receptors. In addition, the interaction and binding energy of [131I]I-hesperidin-b toward AKT1 was -150.939\u00a0kJ/mol, indicating the potential [131I]I-hesperidin-b intervention in EGFR/HER2 signaling. Our data suggest that [131I]I-hesperidin-b is a potential radiopharmaceutical, especially for lung cancers with EGFR and HER2 expression. However, further studies are still needed to evaluate the uptake mechanism of [131I]I-hesperidin at the molecular level. Hopefully, [131I]I-hesperidin will provide an opportunity to investigate the biodistribution, pharmacokinetics, and its potential as a targeted therapeutic-diagnostic agent supported with beta decay for cancer cell eradication.",
+  "publication_date": "2025-06-09",
+  "journal": "Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine",
+  "doi": "10.1016/j.apradiso.2025.111977",
+  "entities": {
+    "POLYPHENOL": [
+      "a citrus flavonoid",
+      "beta decay",
+      "her2 receptors",
+      "the molecular level",
+      "the uptake mechanism"
+    ],
+    "SYMPTOM": [
+      "anticancer",
+      "cancer cell eradication",
+      "its cancer cellular uptake",
+      "lung cancers"
+    ]
+  }
+}

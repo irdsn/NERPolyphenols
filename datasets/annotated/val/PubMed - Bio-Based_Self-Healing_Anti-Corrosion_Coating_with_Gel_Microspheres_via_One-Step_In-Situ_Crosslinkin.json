@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Bio-Based Self-Healing Anti-Corrosion Coating with Gel Microspheres via One-Step In-Situ Crosslinking.",
+  "abstract": "In this study, a sustainable and scalable self-healing anti-corrosion coating was developed via a one-step in-situ fabrication strategy. Tea polyphenol@graphene oxide@polyvinyl alcohol (TGPG) hydrogel microspheres were incorporated into a polyaspartic ester (PAE) matrix through a blend-cryogenic-in-situ crosslinking method, achieving uniform dispersion and strong interfacial bonding. The TGPG microspheres exhibited superior functionality due to multiple synergistic mechanisms, including dense hydrogen bonding among hydroxyl groups of PVA, TP, and GO, dynamic chelation of tea polyphenols with iron ions forming protective passivation layers, and the physical barrier and photothermal enhancement provided by GO nanosheets. The resulting TGPG/PAE composite coating showed a significant improvement in corrosion resistance, with the low-frequency impedance modulus (|Z|0.01Hz) increasing from 9.3\u00a0\u00d7\u00a0108to 5\u00a0\u00d7\u00a0109\u03a9\u00b7cm2, and stable performance maintained after 28\u00a0days of immersion. The coating also withstood 1000\u00a0h of salt spray testing without observable defects. Moreover, the system demonstrated efficient light-moisture-triggered self-healing, rapidly restoring surface integrity and anticorrosive performance without external heating. After self-healing, the impedance modulus recovered to over 1\u00a0\u00d7\u00a0109\u03a9\u00b7cm2and remained stable at approximately 8\u00a0\u00d7\u00a0109\u03a9\u00b7cm2. This work provides an eco-friendly, multifunctional platform for intelligent protective coatings with promising applications in marine infrastructure, industrial facilities, and flexible electronics.",
+  "publication_date": "2025-05-08",
+  "journal": "Journal of colloid and interface science",
+  "doi": "10.1016/j.jcis.2025.137795",
+  "entities": {
+    "POLYPHENOL": [
+      "an eco-friendly, multifunctional platform",
+      "flexible electronics",
+      "intelligent protective coatings",
+      "multiple synergistic mechanisms",
+      "observable defects",
+      "protective passivation layers",
+      "tea polyphenol@graphene oxide@polyvinyl alcohol (tgpg) hydrogel microspheres",
+      "tea polyphenols"
+    ]
+  }
+}

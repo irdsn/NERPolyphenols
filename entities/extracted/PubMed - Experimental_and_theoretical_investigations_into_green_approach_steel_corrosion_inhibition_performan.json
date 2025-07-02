@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Experimental and theoretical investigations into green approach steel corrosion inhibition performance of an aqueous mixture ofOlea europaeaandFicus caricaleaves extract in acid medium.",
+  "abstract": "The leaves ofFicus caricaandOlea europaeaL., by-products of tree pruning, are rich sources of bioactive compounds. Recycling this biomass is a significant step toward developing a circular economy model and promoting sustainability. In this study, steel corrosion inhibition was achieved using an aqueous 1\u2009:\u20091 mixture of olive and fig leaf extracts in 1 M hydrochloric acid at various temperatures. Electrochemical impedance spectroscopy (EIS), potentiodynamic polarization, and gravimetric measurements were employed to evaluate the inhibitory efficacy, adsorption mechanism, and action mode of this green inhibitor. Thermodynamic analysis and adsorption isotherms provided insights into the adsorption mechanism. The formation of an anti-corrosion layer on the steel surface was confirmed using UV-visible spectroscopy, FTIR, and FTIR second derivative spectra. Additionally, XRD and SEM techniques were utilized to examine the steel surface morphology. To further understand the adsorption capacity and behavior of active phytochemicals in the olive and fig leaf extract mixture on the mild steel surface, density functional theory (DFT) calculations and molecular dynamics (MD) simulations were performed. The findings indicate that the aqueous blend of fig and olive leaf extracts holds great promise as a sustainable alternative to synthetic corrosion inhibitors in industrial applications.",
+  "publication_date": "2025-06-16",
+  "journal": "RSC advances",
+  "doi": "10.1039/d5ra02786a",
+  "entities": {
+    "POLYPHENOL": [
+      "a circular economy model",
+      "adsorption mechanism",
+      "electrochemical impedance",
+      "molecular dynamics",
+      "second derivative spectra",
+      "the adsorption mechanism",
+      "uv-visible spectroscopy",
+      "xrd and sem techniques"
+    ],
+    "FOOD": [
+      "fig",
+      "olive and fig leaf extracts",
+      "the olive and fig leaf extract mixture"
+    ]
+  }
+}

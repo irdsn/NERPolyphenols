@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Co-assembly of abietic acid and oleanolic acid into nanoparticles encapsulating proanthocyanidin B2 to improve Pac B2 bioavailability and thermal stability.",
+  "abstract": "Proanthocyanidin B2 (Pac B2) exhibits potent antioxidant properties but suffers from poor stability in vivo, limiting its applications in food and medicine. This study developed composite nanoparticles (NPs) utilizing abietic acid (AA) and oleanolic acid (OA) as carriers, significantly enhancing Pac B2's stability. The OA/AA-Pac B2 NPs, prepared via solvent co-precipitation, were spherical with an average diameter of 164.18\u00a0nm and an encapsulation efficiency of 43.21\u00a0%, demonstrating improved thermal stability. Analytical techniques such as infrared spectroscopy, ultraviolet spectroscopy, and molecular dynamics revealed interactions such as hydrogen bonding and hydrophobicity between AA and Pac B2. The NPs facilitated sustained release of Pac B2 in simulated gastric and intestinal fluids over 2\u00a0h at 37\u00a0\u00b0C. In vitro tests demonstrated enhanced bioavailability and absorption efficiency of OA/AA-Pac B2 NPs compared with free Pac B2, validating the effectiveness of the co-assembly strategy in improving polyphenols' stability and bioavailability.",
+  "publication_date": "2025-04-24",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144512",
+  "entities": {
+    "POLYPHENOL": [
+      "analytical techniques",
+      "infrared spectroscopy",
+      "molecular dynamics",
+      "polyphenols' stability",
+      "precipitation",
+      "proanthocyanidin b2",
+      "the effectiveness",
+      "ultraviolet spectroscopy"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "An efficient method for maintaining clarity and forming tight and low amount of sediment in pomegranate juice during storage: Enzymatic hydrolysis with \"tannase\u00a0+\u00a0lactonase\u00a0+\u00a0papain\".",
+  "abstract": "Turbidity and sediment formation in pomegranate juice (PJ) is a consequence of the interaction between tannins and proteins. The aim of this study was to disrupt this interaction by enzymatic hydrolysis of tannins [\"tannase,\" \"lactonase (R-PON-1)\"] and proteins (papain). The effect of enzymatic treatments on sediment/turbidity was studied throughout storage (20\u00a0\u00b0C). Low and tight sediment formation was only possible when protein and tannins were hydrolysed together. In \"tannase\u00a0+\u00a0R-PON-1\u00a0+\u00a0papain\" treated PJ, turbidity decreased after storage and the lowest and tightest sediment was also detected (p\u00a0<\u00a00.05). The strongest correlations were found between the \"prolamin/punicalagin-2\" ratio and turbidity (r\u00a0=\u00a00.997) and tight sediment formation (r\u00a0=\u00a0-0.964). This ratio should be 4.38\u00a0\u00b1\u00a00.07 to completely eliminate sediment formation in PJ. To achieve this ratio, punicalagin-2 should be added to PJ. This study is the first to show that punicalagin-2 should be added to PJ to produce a clear and sediment-free PJ, contrary to previous clarification methods.",
+  "publication_date": "2025-03-19",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.143941",
+  "entities": {
+    "FOOD": [
+      "pomegranate juice"
+    ],
+    "POLYPHENOL": [
+      "tannins",
+      "the effect"
+    ],
+    "SYMPTOM": [
+      "\"tannase\u00a0+\u00a0r-pon-1\u00a0+\u00a0papain"
+    ]
+  }
+}

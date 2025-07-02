@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Chemometrically assisted differential pulse voltammetry for simultaneous and interference-free quantification of gallic and caffeic acids.",
+  "abstract": "This article explores the application of chemometric tools including multivariate curve resolution with alternating least squares for the simultaneous determination of gallic and caffeic acids on the surface of a glassy carbon electrode without additional modification. Gallic and caffeic acids are primary polyphenols, the most abundant in red wines produced in Argentina, and are often used as quality markers for them. These polyphenols significantly contribute to the organoleptic properties of wines from this origin, but their electrochemical signals overlap significantly, making simultaneous quantification challenging without additional experiments such as electrode modification or alternative analytical techniques beyond differential pulse voltammetry. This study successfully quantified these compounds in complex mixtures by generating second-order data from differential pulse voltammetry experiments conducted at various potential steps and subsequently applying multivariate curve resolution with alternating least squares. The use of constraints during optimization prevented rotational ambiguities common in this modeling, leading to unique results in validation samples. The limits of detection (LOD) found for gallic and caffeic acids were 1.6 and 7.6 mg L-1, which are in excellent agreement with the expected concentrations of these compounds in red wines. The concentration ranges analyzed showed a linear dependency (between the LOD and 300 mg L-1) with the signals estimated by the model for both analytes. Advantages such as simplicity, low cost, and high speed, as well as not requiring electrode modification, combined with excellent results obtained for real samples, make it a promising alternative for polyphenol analysis in the wine industry.",
+  "publication_date": "2024-06-13",
+  "journal": "Analytical methods : advancing methods and applications",
+  "doi": "10.1039/d4ay00536h",
+  "entities": {
+    "POLYPHENOL": [
+      "alternative analytical techniques",
+      "detection",
+      "electrode modification",
+      "gallic and caffeic acids",
+      "polyphenol analysis",
+      "primary polyphenols",
+      "second-order data",
+      "the expected concentrations",
+      "their electrochemical signals",
+      "these polyphenols"
+    ],
+    "FOOD": [
+      "red wines",
+      "the wine industry",
+      "wines"
+    ]
+  }
+}

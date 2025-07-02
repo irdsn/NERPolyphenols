@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Improving the stability of myofibrillar proteins undergoing hemoglobin-mediated oxidation by rosmarinic acid or chlorogenic acid: Insights into the underlying mechanisms.",
+  "abstract": "In this study, rosmarinic acid (RA) and chlorogenic acid (CGA) were used to improve the stability of myofibrillar protein (MP) undergoing hemoglobin (Hb)-mediated oxidation. Hb-mediated oxidation caused changes in MP's secondary and tertiary structures. RA or CGA suppressed effectively Hb-induced MP oxidation, and maintained MP's spatial conformational stability through interacting with MP's amino acid side chains to form phenolic-protein complexes. Further investigations by multi-spectroscopic techniques, isothermal titration calorimetry, and molecular docking and dynamics simulation revealed the interaction of RA or CGA with Hb through binding to Hb's central hydrophobic cavity via one binding site. The RA/CGA-Hb binding was an enthalpy-driven spontaneous and exothermic process, involving hydrogen bonds and van der Waals forces as the main interactive forces. The Hb-CGA binding might be more stable than Hb-RA binding. This study provides a theoretical basis for the application of RA and CGA in improving meat products quality by regulating Hb-mediated protein oxidation.",
+  "publication_date": "2025-04-09",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144259",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "molecular docking and dynamics simulation",
+      "mp's secondary and tertiary structures",
+      "multi-spectroscopic techniques",
+      "rosmarinic acid"
+    ]
+  }
+}

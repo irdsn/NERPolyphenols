@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Effects of different concentrations of a white grape marc extract on broiler performance, apparent ileal digestibility, antioxidant capacity, intestinal barrier function and nutrient transport markers.",
+  "abstract": "The current study evaluated the effect of a white grape marc extract (GME) on growth performance, gut health, and intestinal function in broiler chickens at different dosages to determine a dose-related efficacy of the extract without inducing any adverse effects. Four hundred male broiler chickens received a basal diet without (CON) or with the GME at different levels, based on its polyphenolic concentration: 200 (LPP), 750 (MPP), and 1,500 (HPP) mg/kg, respectively. Growth performance parameters were recorded during the whole trial. At 35 days, apparent ileal digestibility (AID) of several nutrients was determined. Additionally, jejunal and cecal tissues were collected to assess tissue morphology. Jejunal tissue was also gathered for gene expression and Ussing chamber studies. Finally, breast muscle was collected for lipid oxidation assessment. Dietary supplementation of the GME did not significantly impact the growth performance of broiler chickens with the exception of the FCR that seemed to be increased by the GME supplementation (P = 0.083). The AID of most of the analyzed nutrients was also unaffected with the exception of the amino acid aspartic acid, which was higher in MPP and HPP compared to LPP (P = 0.006). No significant differences (P > 0.05) were found in villus length (VL), crypt depth (CD), villus-to-crypt ratio (V/C) in the jejunum, or in cecal CD. The number of goblet cells in jejunal villi and crypts was higher in MPP and HPP than in CON (P < 0.001). There were no effects on the mRNA abundance of some pro-inflammatory cytokines, mucins, or tight junction proteins measured in jejunal tissue nor on antioxidant capacity measured in breast muscle. In the Ussing chamber experiment, the GME decreased jejunal tissue conductance after glucose addition in MPP and HPP groups (P = 0.033). In conclusion, although the inclusion of a white GME in the diet of broiler chickens did not significantly enhance growth performance or nutrient absorption, it was confirmed that none of the tested concentrations induced adverse effects.",
+  "publication_date": "2025-05-30",
+  "journal": "Poultry science",
+  "doi": "10.1016/j.psj.2025.105366",
+  "entities": {
+    "POLYPHENOL": [
+      "adverse effects",
+      "any adverse effects",
+      "cecal cd",
+      "its polyphenolic concentration",
+      "jejunal and cecal tissues",
+      "no effects",
+      "the effect"
+    ],
+    "FOOD": [
+      "a white grape",
+      "different dosages"
+    ]
+  }
+}

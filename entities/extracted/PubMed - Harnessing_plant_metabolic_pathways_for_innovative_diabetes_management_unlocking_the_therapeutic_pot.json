@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Harnessing plant metabolic pathways for innovative diabetes management: unlocking the therapeutic potential of medicinal plants.",
+  "abstract": "The exploration of plant signaling pathways is transforming the way diabetes is managed, providing new, multi-target strategies for controlling this complex metabolic disorder. Medicinal plants are rich in bioactive compounds like phytohormones, flavonoids and polyphenols, which regulate key pathways including oxidative stress, inflammation, insulin resistance, and gut microbiota modulation. Research is emerging on the therapeutic potential of Momordica charantia, Cinnamomum verum and Trigonella foenum-graecum, which enhance insulin secretion, sensitivity and glucose homeostasis. These plant derived compounds, resveratrol and plant based insulin mimetics, not only address metabolic dysfunction but also offer holistic treatment for long term complications such as neuropathy and retinopathy. The development of precision medicine advances the tailoring of plant based therapies to individual metabolic responses, increasing efficacy and decreasing reliance on synthetic drugs with adverse side effects. Despite challenges of standardization, regulatory barriers, and limited clinical trials, incorporating medicinal plants into national diabetes management guidelines represents a cost effective and accessible option, particularly in resource limited settings. In this review, we highlight the importance of collaborative work across disciplines and the use of technologies such as artificial intelligence to speed research and optimize patient specific applications. The therapeutic power of plant signaling pathways is harnessed to develop sustainable, inclusive, and effective diabetes management strategies.",
+  "publication_date": "2025-04-07",
+  "journal": "Plant signaling & behavior",
+  "doi": "10.1080/15592324.2025.2486076",
+  "entities": {
+    "POLYPHENOL": [
+      "a cost effective and accessible option",
+      "adverse side effects",
+      "decreasing reliance",
+      "flavonoids",
+      "insulin secretion",
+      "patient specific applications",
+      "polyphenols",
+      "precision medicine",
+      "resveratrol",
+      "sustainable, inclusive, and effective diabetes management strategies",
+      "technologies"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "insulin resistance",
+      "oxidative stress"
+    ]
+  }
+}

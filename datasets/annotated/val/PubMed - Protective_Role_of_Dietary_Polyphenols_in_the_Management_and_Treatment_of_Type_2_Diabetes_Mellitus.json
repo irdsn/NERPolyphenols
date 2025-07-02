@@ -1,0 +1,41 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Protective Role of Dietary Polyphenols in the Management and Treatment of Type 2 Diabetes Mellitus.",
+  "abstract": "Type 2 diabetes mellitus (T2DM), a serious metabolic disorder, is a worldwide health problem due to the alarming rise in prevalence and elevated morbidity and mortality. Chronic hyperglycemia, insulin resistance, and ineffective insulin effect and secretion are hallmarks of T2DM, leading to many serious secondary complications. These include, in particular, cardiovascular disorders, diabetic neuropathy, nephropathy and retinopathy, diabetic foot, osteoporosis, liver damage, susceptibility to infections and some cancers. Polyphenols such as flavonoids, phenolic acids, stilbenes, tannins, and lignans constitute an extensive and heterogeneous group of phytochemicals in fresh fruits, vegetables and their products. Various in vitro studies, animal model studies and available clinical trials revealed that flavonoids (e.g., quercetin, kaempferol, rutin, epicatechin, genistein, daidzein, anthocyanins), phenolic acids (e.g., chlorogenic, caffeic, ellagic, gallic acids, curcumin), stilbenes (e.g., resveratrol), tannins (e.g., procyanidin B2, seaweed phlorotannins), lignans (e.g., pinoresinol) have the ability to lower hyperglycemia, enhance insulin sensitivity and improve insulin secretion, scavenge reactive oxygen species, reduce chronic inflammation, modulate gut microbiota, and alleviate secondary complications of T2DM. The interaction between polyphenols and conventional antidiabetic drugs offers a promising strategy in the management and treatment of T2DM, especially in advanced disease stages. Synergistic effects of polyphenols with antidiabetic drugs have been documented, but also antagonistic interactions that may impair drug efficacy. Therefore, additional research is required to clarify mutual interactions in order to use the knowledge in clinical applications. Nevertheless, dietary polyphenols can be successfully applied as part of supportive treatment for T2DM, as they reduce both obvious clinical symptoms and secondary complications.",
+  "publication_date": "2025-01-13",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17020275",
+  "entities": {
+    "SYMPTOM": [
+      "chronic hyperglycemia",
+      "chronic inflammation",
+      "hyperglycemia",
+      "insulin resistance",
+      "liver damage",
+      "osteoporosis",
+      "some cancers"
+    ],
+    "POLYPHENOL": [
+      "(e.g., quercetin",
+      "dietary polyphenols",
+      "e.g., pinoresinol",
+      "e.g., resveratrol",
+      "epicatechin, genistein, daidzein, anthocyanins",
+      "flavonoids",
+      "ineffective insulin effect",
+      "infections",
+      "insulin secretion",
+      "kaempferol",
+      "many serious secondary complications",
+      "polyphenols",
+      "rutin",
+      "scavenge reactive oxygen species",
+      "seaweed phlorotannins",
+      "secondary complications",
+      "secretion",
+      "synergistic effects",
+      "tannins"
+    ]
+  }
+}

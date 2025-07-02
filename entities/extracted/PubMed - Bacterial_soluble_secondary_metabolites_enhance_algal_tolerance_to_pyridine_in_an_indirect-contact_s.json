@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Bacterial soluble secondary metabolites enhance algal tolerance to pyridine in an indirect-contact symbiotic system.",
+  "abstract": "Bacterial soluble secondary metabolites are key regulators of interspecies interactions in algae-bacteria symbiotic systems (ABSS), but their in situ roles under toxic environmental conditions remain poorly understood. This study employed an indirect-contact system to investigate their contribution to the tolerance of Chlorella sorokiniana under pyridine stress. Bacterial degradation reduced pyridine concentrations by 23.1\u202f% and generated 5.24\u202f\u202fmg\u202fL-1of NH4+-N, alleviating algal oxidative stress. Diffusible bacterial secondary metabolites, including N-acyl homoserine lactones (1.2-fold increased), indole-3-acetic acid (1.1-fold increased), and humic-like substances, accumulated in the algal compartment. These metabolites activated algal antioxidant defenses, promoted photosystem repair, and supported algal growth. Compared with monoculture, algal biomass increased by 2.2-fold, and carbohydrate content rose by 21.9\u202f%, alongside the activation of SOD-glutathione detoxification pathways. Transcriptomic analysis revealed significant upregulation of genes related to photosynthesis, DNA repair, and protein refolding. These findings uncover an indirect-contact regulatory mechanism that enhances algal resilience. They also support a modular strategy that combines functional bacterial consortia with spatially structured systems to improve ABSS performance in treating nitrogen-containing heterocyclic pollutants.",
+  "publication_date": "2025-06-25",
+  "journal": "Bioresource technology",
+  "doi": "10.1016/j.biortech.2025.132890",
+  "entities": {
+    "POLYPHENOL": [
+      "an indirect-contact regulatory mechanism",
+      "an indirect-contact system",
+      "bacterial soluble secondary metabolites",
+      "diffusible bacterial secondary metabolites",
+      "interspecies interactions"
+    ],
+    "SYMPTOM": [
+      "algal oxidative stress",
+      "pyridine stress"
+    ]
+  }
+}

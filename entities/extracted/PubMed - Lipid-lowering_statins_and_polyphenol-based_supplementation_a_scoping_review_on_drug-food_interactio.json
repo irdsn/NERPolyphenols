@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Lipid-lowering statins and polyphenol-based supplementation: a scoping review on drug-food interaction potential.",
+  "abstract": "Lifestyle modifications, particularly the adoption of healthy dietary patterns such as the Mediterranean Diet (MedDiet), are foundational in any treatment plan, including for patients prescribed first-line statin therapy for hypercholesterolemia. However, the rising popularity of MedDiet-associated foods and nutraceuticals among health-conscious consumers has raised concerns about their potential interactions with statins, potentially leading to adverse effects. One notable example involves polyphenol supplements, a class of anti-dyslipidemic phytochemicals known to influence statins' pharmacokinetics. Still, whether chronic polyphenol exposure achieves plasma concentrations sufficient to alter statin pharmacokinetics in clinical settings is controverse. Moreover, it remains unclear which key biological targets are shared by both classes of molecules and how they mediate potential pharmacokinetic and pharmacodynamic interactions. This study aims to systematically map reported statin-polyphenol interactions and identify the principal biological targets involved, elucidating their impact on statin pharmacokinetics, efficacy, and toxicity.",
+  "publication_date": "2025-05-30",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1541871",
+  "entities": {
+    "POLYPHENOL": [
+      "adverse effects",
+      "chronic polyphenol exposure",
+      "molecules",
+      "polyphenol supplements",
+      "statin-polyphenol interactions"
+    ]
+  }
+}

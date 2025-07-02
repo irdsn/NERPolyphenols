@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Effect of Selected Antioxidants on the In Vitro Aging of Human Fibroblasts.",
+  "abstract": "The modification of the replicative lifespan (RLS) of fibroblasts is of interest both from a knowledge point of view and for the attenuation of skin aging. The effect of six antioxidants at a concentration of 1 \u03bcM on the replicative lifespan of human dermal fibroblasts was studied. The nitroxide 4-hydroxy-TEMPO (TEMPOL), ergothioneine, and Trolox extended the replicative lifespan (RLS) (40 \u00b1 1 population doublings (PD)) by 7 \u00b1 2, 4 \u00b1 1, and 3 \u00b1 1 PD and lowered the expression of p21 at late passages. Coumaric acid, curcumin and resveratrol did not affect the RLS . The level of reactive oxygen species (ROS) was decreased or not affected by the antioxidants although TEMPOL and coumaric acid decreased the level of glutathione. Only ergothioneine and resveratrol decreased the level of protein carbonylation. The antioxidants that could prolong the RLS elevated the mitochondrial membrane potential. Protecting the activity of mitochondria seems to be important for maintaining the replicative capacity of fibroblasts.",
+  "publication_date": "2024-01-26",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms25031529",
+  "entities": {
+    "POLYPHENOL": [
+      "curcumin",
+      "reactive oxygen species",
+      "resveratrol",
+      "the effect"
+    ],
+    "FOOD": [
+      "late passages"
+    ]
+  }
+}

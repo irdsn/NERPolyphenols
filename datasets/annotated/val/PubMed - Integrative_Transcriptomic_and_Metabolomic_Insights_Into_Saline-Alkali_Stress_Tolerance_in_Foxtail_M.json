@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Integrative Transcriptomic and Metabolomic Insights Into Saline-Alkali Stress Tolerance in Foxtail Millet.",
+  "abstract": "Foxtail millet (Setaria italica), a cereal crop in China, is renowned for its resilience to abiotic stresses, including saline-alkali conditions. This study examined the transcriptomic and metabolomic responses of two contrasting foxtail millet varieties, B103 (tolerant) and B323 (sensitive), under saline-alkali stress. Physiological analysis showed that B103 exhibited higher growth parameters and chlorophyll content than B323, highlighting its enhanced tolerance. Transcriptomic analysis identified differentially expressed genes (DEGs) enriched in stress-response pathways such as phenylpropanoid biosynthesis, flavonoid metabolism and calcium signaling. Metabolomic profiling revealed differentially accumulated metabolites (DMs) involved in energy and secondary metabolism, including citrate, fumarate and flavonoids. Integration of DEGs and DMs revealed key gene-metabolite interactions, particularly those involving the nicotinamide compound and three candidate genesSi9g20070,Si7g22360andSi5g39810, for future functional validation, which may contribute to stress adaptation. Dynamic clustering of gene expression trends highlighted the importance of rapid stress responses. These findings establish a molecular framework for understanding saline-alkali stress tolerance and provide genetic resources for developing stress-resilient foxtail millet varieties.",
+  "publication_date": "2025-05-24",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14111602",
+  "entities": {
+    "SYMPTOM": [
+      "abiotic stresses",
+      "rapid stress responses",
+      "saline-alkali stress",
+      "saline-alkali stress tolerance",
+      "stress adaptation",
+      "stress-resilient foxtail millet varieties",
+      "stress-response pathways"
+    ],
+    "POLYPHENOL": [
+      "a molecular framework",
+      "flavonoid metabolism",
+      "flavonoids",
+      "secondary metabolism"
+    ]
+  }
+}

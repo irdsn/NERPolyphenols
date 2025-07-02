@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Linking Cardiovascular Disease and Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD): The Role of Cardiometabolic Drugs in MASLD Treatment.",
+  "abstract": "The link between cardiovascular disease (CVD) and metabolic dysfunction-associated steatotic liver disease (MASLD) is well-established at both the epidemiological and pathophysiological levels. Among the common pathophysiological mechanisms involved in the development and progression of both diseases, oxidative stress and inflammation, insulin resistance, lipid metabolism deterioration, hepatokines, and gut dysbiosis along with genetic factors have been recognized to play a pivotal role. Pharmacologic interventions with drugs targeting common modifiable cardiometabolic risk factors, such as T2DM, dyslipidemia, and hypertension, are a reasonable strategy to prevent CVD development and progression of MASLD. Recently, a novel drug for metabolic dysfunction-associated steatohepatitis (MASH), resmetirom, has shown positive effects regarding CVD risk, opening new opportunities for the therapeutic approach of MASLD and CVD. This review provides current knowledge on the epidemiologic association of MASLD to CVD morbidity and mortality and enlightens the possible underlying pathophysiologic mechanisms linking MASLD with CVD. The role of cardiometabolic drugs such as anti-hypertensive drugs, hypolipidemic agents, glucose-lowering medications, acetylsalicylic acid, and the thyroid hormone receptor-beta agonist in the progression of MASLD is also discussed. Metformin failed to prove beneficial effects in MASLD progression. Studies on the administration of thiazolinediones in MASLD suggest effectiveness in improving steatosis, steatohepatitis, and fibrosis, while newer categories of glucose-lowering agents such as GLP-1Ra and SGLT-2i are currently being tested for their efficacy across the whole spectrum of MASLD. Statins alone or in combination with ezetimibe have yielded promising results. The conduction of long-duration, large, high-quality, randomized-controlled trials aiming to assess by biopsy the efficacy of cardiometabolic drugs to reverse MASLD progression is of great importance.",
+  "publication_date": "2025-02-23",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom15030324",
+  "entities": {
+    "POLYPHENOL": [
+      "acetylsalicylic acid",
+      "beneficial effects",
+      "effectiveness",
+      "positive effects",
+      "the common pathophysiological mechanisms",
+      "the possible underlying pathophysiologic mechanisms",
+      "the thyroid hormone receptor-beta agonist",
+      "the whole spectrum"
+    ],
+    "SYMPTOM": [
+      "hypertension",
+      "inflammation",
+      "insulin resistance",
+      "oxidative stress",
+      "steatosis"
+    ]
+  }
+}

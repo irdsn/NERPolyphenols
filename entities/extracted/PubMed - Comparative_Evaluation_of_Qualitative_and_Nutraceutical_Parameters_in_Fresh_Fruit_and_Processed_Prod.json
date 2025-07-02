@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Comparative Evaluation of Qualitative and Nutraceutical Parameters in Fresh Fruit and Processed Products of 'Lady Cot' and Vesuvian 'Pellecchiella' Apricot Cultivars.",
+  "abstract": "Apricot cultivation plays a significant role in Italy's agricultural landscape, with the country hosting a wide variety of traditional and international cultivars, and their cultivation, processing and transformation offer a wide margin for market expansion. Jam preparation is an ideal method to preserve apricots, and understanding their functional properties is crucial for achieving high-quality products. Vesuvian autochthonous cultivars, in particular, stand out for their unique organoleptic and nutraceutical traits, which are closely linked to the region's pedo-climatic conditions. This study investigated two apricot cultivars, the Vesuvian 'Pellecchiella' and the international 'Lady Cot', to assess their physicochemical properties and evaluate the variation in bioactive components during the transformation process from fresh fruit to puree and jam. The two cultivars exhibited distinct phenotypic differences. The 'Lady Cot' produced larger fruits (61.04 g vs. 45.68 g for the 'Pellecchiella') with a redder epicarp coloration, making it more visually appealing for commercial purposes. Conversely, the 'Pellecchiella' showed higher total soluble solids (TSS) and lower titratable acidity (TA), resulting in a sweeter flavor profile that may be preferred by consumers. Specifically, the 'Pellecchiella' exhibited a significantly higher polyphenol content, with catechin and epicatechin levels higher by 338% and 167%, respectively. The study further analyzed the variation in nutraceutical components in the puree and jam (carotenoids, total polyphenols, and antioxidant activity by ABTS, DPPH and FRAP), throughout the processing stages. Both cultivars showed a reduction in these parameters during the transformation process. For instance, the total polyphenol content exhibited a similar reduction of approximately 61% in both cultivars. However, the 'Pellecchiella' retained higher values in the jam, reflecting its naturally higher initial levels in the fresh fruit, and showed higher Redness Index. Overall, the results highlight 'Pellecchiella' as a cultivar having superior nutraceutical properties and good bioactive compound retention during processing, making it a valuable choice for both fresh consumption and processed products. These findings have significant implications for the functional food sector, as they underscore the importance of cultivar selection and processing strategies to preserve valuable bioactive compounds. By leveraging the natural advantages of local cultivars like 'Pellecchiella', producers could develop premium jams or puree-based functional products aimed at health-conscious consumers.",
+  "publication_date": "2025-03-10",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14060945",
+  "entities": {
+    "FOOD": [
+      "apricot cultivation",
+      "apricots",
+      "two apricot cultivars"
+    ],
+    "POLYPHENOL": [
+      "a significantly higher polyphenol content",
+      "catechin and epicatechin levels",
+      "cultivar selection",
+      "pellecchiella",
+      "the 'pellecchiella",
+      "the functional food sector",
+      "the total polyphenol content",
+      "the vesuvian 'pellecchiella",
+      "total polyphenols"
+    ]
+  }
+}

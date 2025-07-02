@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Occurrence, Pharmacological Properties, Toxic Effects, and Possibilities of Using Berries from Selected Invasive Plants.",
+  "abstract": "Invasive alien plants are typically associated with negative impacts on ecosystems and sometimes on health, but studies also describe their ethnomedicinal usage, particularly by indigenous communities. Given the existing limitations regarding a critical study on the berry-producing invasive plants, this study aims to provide scientific evidence and much-needed updated knowledge on the pharmacologically significant fruits of several berry-producing invasive alien plants. A list of 35 species from 16 families is provided, along with their characteristics, historical medicinal uses, updated biological activities, and available toxicity data. The definitions, terminology, and classification criteria used to describe alien species, specifically the invasive types, are also provided. Most of the berries of the described species exhibit remarkable antioxidant properties due to their abundance of highly reactive molecules, mainly polyphenols and carotenoids. Other biological activities, ranging from antimicrobial, anti-inflammatory, and anti-diabetic to anticancer and neuroprotective activities, have been identified. In contrast, quantitative toxicity issues have been poorly studied for berries from invasive plants. Hopefully, this work will serve as a starting point for further exploration of the molecules from berries of these plants in terms of drug discovery to advance various therapies or other applications.",
+  "publication_date": "2025-03-27",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14040399",
+  "entities": {
+    "POLYPHENOL": [
+      "35 species",
+      "alien species",
+      "ecosystems",
+      "highly reactive molecules",
+      "mainly polyphenols",
+      "specifically the invasive types",
+      "the described species",
+      "the molecules"
+    ],
+    "FOOD": [
+      "their ethnomedicinal usage"
+    ]
+  }
+}

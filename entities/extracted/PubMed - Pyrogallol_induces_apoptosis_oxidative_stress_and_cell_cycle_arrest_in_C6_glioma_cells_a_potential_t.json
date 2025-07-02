@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Pyrogallol induces apoptosis, oxidative stress and cell cycle arrest in C6 glioma cells: a potential therapeutic agent.",
+  "abstract": "Gliomas represent one of the most aggressive and treatment-resistant brain tumors, necessitating novel therapeutic strategies. Pyrogallol, a naturally occurring polyphenol, has been reported to exhibit anticancer properties, but its effects on glioma cells remain underexplored. This study investigates the cytotoxic, apoptotic and oxidative stress-inducing effects of pyrogallol on C6 glioma cells. Using MTT assays, pyrogallol demonstrated a significant dose and time dependent cytotoxicity in C6 cells, with IC50 values decreasing from 40\u00a0\u00b5M at 24\u00a0h to 15\u00a0\u00b5M at 72\u00a0h. Morphological analyses through AO/EtBr and DAPI staining confirmed apoptosis induction, showing nuclear fragmentation and membrane blebbing in treated cells. Pyrogallol also increased intracellular reactive oxygen species (ROS) and disrupted mitochondrial membrane potential (MMP), indicating oxidative stress and mitochondrial dysfunction. Flow cytometry with Annexin V-FITC/PI staining revealed a dose-dependent increase in early and late apoptotic populations, accompanied by a significant G0/G1 phase cell cycle arrest. Biochemical assays showed elevated lipid peroxidation and reduced antioxidant enzyme activities (SOD and catalase), further supporting oxidative stress involvement. At the molecular level, qRT-PCR and ELISA analyses demonstrated upregulation of pro-apoptotic genes and proteins Bax and cytochrome c, with downregulation of the antiapoptotic marker Bcl-2, confirming pyrogallol role in promoting apoptotic pathways. These findings highlight pyrogallol's potent anticancer effects on C6 glioma cells via apoptosis induction, oxidative stress, and cell cycle arrest, suggesting its potential as a therapeutic candidate against glioma.",
+  "publication_date": "2025-06-27",
+  "journal": "Medical oncology (Northwood, London, England)",
+  "doi": "10.1007/s12032-025-02835-w",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring polyphenol",
+      "intracellular reactive oxygen species",
+      "its effects",
+      "pyrogallol's potent anticancer effects",
+      "the cytotoxic, apoptotic and oxidative stress-inducing effects",
+      "the molecular level"
+    ],
+    "SYMPTOM": [
+      "anticancer properties",
+      "apoptosis induction",
+      "confirmed apoptosis induction",
+      "mitochondrial dysfunction",
+      "oxidative stress",
+      "oxidative stress involvement"
+    ]
+  }
+}

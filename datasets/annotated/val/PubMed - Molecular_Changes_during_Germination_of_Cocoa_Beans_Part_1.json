@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Molecular Changes during Germination of Cocoa Beans, Part 1.",
+  "abstract": "Some germination is known to occur during the process of fermentation in cocoa beans. The impact of this biological process on the course of cocoa fermentation is not known and was thus investigated. In order to determine the impact of germination at the molecular level as well as on flavor, an untargeted metabolomics approach using Ultra Performance Liquid Chromatography-Electrospray Ionization-Time of Flight-Mass Spectrometry (UPLC-ESI-ToF-MS) with simultaneous acquisition of low- and high-collision energy mass spectra (MSe) was performed. Extracts of raw and germinated cocoa beans of the same origin were measured and compared for characteristic differences by unsupervised principal component analysis. OPLS-DA revealed 12-hydroxyjasmonic acid (HOJA) sulfate, (+)-catechin and (-)-epicatechin as most down-regulated compounds as well as two hydroxymethylglutaryl (HMG) glucosides A and B among others as decisive up-regulated compounds in the germinated material. Additionally, further HMG glucosides and 12-hydroxyjasmonic acid could be identified in cocoa for the first time by coelution with isolated and synthesized reference compounds. HOJA sulfate, which has been postulated in cocoa, and HOJA were revealed to impart bitter and astringent taste qualities.",
+  "publication_date": "2024-08-07",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c03523",
+  "entities": {
+    "FOOD": [
+      "cocoa",
+      "cocoa beans",
+      "cocoa fermentation"
+    ],
+    "POLYPHENOL": [
+      "(-)-epicatechin as most down-regulated compounds",
+      ")-catechin",
+      "decisive up-regulated compounds",
+      "flight-mass spectrometry",
+      "low- and high-collision energy mass spectra",
+      "the molecular level",
+      "ultra performance liquid chromatography-electrospray ionization-time"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Extraction Processes, Bioaccessibility, Antioxidant Capacity, and Potential Prebiotic Effect of Co-Product Extracts From Fruits of the Spondias Genus.",
+  "abstract": "This study evaluated which extraction methods among agitation (ethanol and water, 60\u00a0min), ultrasonic bath-assisted (ethanol and water, 15\u00a0min), and supercritical fluid extraction (CO\u2082 and ethanol, 40\u00b0C, 15 Mpa) would be superior for producing co-product extracts from seriguela (Spondias purpurea), caja (Spondias mombin), and umbu-caja (Spondias spp.). The bioaccessibility of phenolic compounds and potential prebiotic effects were also investigated. The in vitro prebiotic effect of the extracts was tested using Lactobacillus acidophilus (La-3), Bifidobacterium animalis subsp. lactis (BB-12), and Lactiplantibacillus plantarum (CNPC004) through cell viability and pH monitoring over 48 h, along with their prebiotic score against an enteric mixture (Escherichia coli). Ultrasonic bath-assisted extraction achieved the highest antioxidant capacity and total phenolic content across all extracts; in contrast, supercritical fluid extraction exhibited the lowest results, primarily for the seriguela extract (32.09 \u00b1 0.89\u00a0mg GAE/100\u00a0g). Although the bioaccessibility of total phenolics and antioxidant capacity decreases after in vitro digestion, some individual phenolics exhibited high bioaccessibility levels, such as epicatechin gallate (135.5%) in caja extract and 125.3% in seriguela; catechin (106.6%) in seriguela; and gallic acid (108.5%) in umbu-caja. All extracts positively influenced probiotic viability, with a 2-log CFU/mL growth in all strains by the end of incubation. Seriguela extract showed the best results, with a final pH of 3.57 and higher cell counts, particularly for CNPC004 (9 log CFU/mL), and the highest prebiotic score among the co-products. These findings indicate that ultrasound-assisted extraction effectively captures phenolic compounds from Spondias co-products, suggesting promising biological applications due to the bioaccessibility and prebiotic activity of the phenolic compounds. Practical Application: Extracts from Spondias fruit co-products offer innovative applications, combining antioxidant properties with potential prebiotic effects. These extracts can be utilized as functional ingredients in food products and nutraceuticals, highlighting their value in promoting health and well-being.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70260",
+  "entities": {
+    "POLYPHENOL": [
+      "catechin",
+      "epicatechin gallate",
+      "gallic acid",
+      "phenolic compounds",
+      "potential prebiotic effects",
+      "the in vitro prebiotic effect",
+      "the phenolic compounds"
+    ]
+  }
+}

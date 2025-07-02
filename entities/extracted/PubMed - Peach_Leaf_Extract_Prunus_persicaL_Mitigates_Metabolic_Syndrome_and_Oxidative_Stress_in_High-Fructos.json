@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Peach Leaf Extract (Prunus persicaL.) Mitigates Metabolic Syndrome and Oxidative Stress in High-Fructose Diet Rats.",
+  "abstract": "This study aimed to evaluate the protective effects of peach leaf extract (Prunus persicaL.) against metabolic syndrome and oxidative stress inWistarrats subjected to a high-fructose diet. TheWistarrats were divided into groups and fed a high-fructose diet, with or without supplementation of peach leaf extract. The extract was characterized by its bioactive compounds, including an organic acid yield of 53.8%, total phenolic content (TPC) of 273.36 \u00b1 1.929 mg GAE/g DW, flavonoid content (TFC) at 149.02 \u00b1 57.47 mg QE/g DW, condensed tannins (TCT) at 2.34 \u00b1 0.171 mg CE/g DW, and flavonols at 81.67 \u00b1 0.497 mg DE/g DW. In vitro tests showed significant antioxidant potential, with a total antioxidant capacity (TAC) of 44.11 \u00b1 6.328 mg AAE/g DW, DPPH radical scavenging activity (IC50= 4.89 mg/mL), and reducing power assay (FRAP, IC50= 0.525 mg/mL). The results indicated that the extract significantly reduced body weight gain, plasma insulin levels (0.30 \u00b1 0.00 U(IU)/mL), glycemia (0.955 \u00b1 0.068 g/L), total cholesterol (0.555 \u00b1 0.177 g/L), and triglycerides (0.720 \u00b1 0.141 g/L). Regarding oxidative stress markers, the extract decreased levels of malondialdehyde (MDA, 4567 \u00b1 121 \u03bcmol/L), hydroperoxides (1304 \u00b1 288 \u03bcmol/L), and carbonylated proteins (0.029 \u00b1 0.020 \u03bcmol/L), while increasing levels of vitamin C (25.84 \u00b1 3.00 mg AAE/L), Oxygen Radical Absorbance Capacity (ORAC, 6.043 \u00b1 0.345 UA), and catalase activity (0.0052 \u00b1 0.00008 \u03bcL/mL). These findings suggest thatP. persicaL. may alleviate impairments related to metabolic syndrome by improving metabolic profiles and reducing oxidative stress in rats fed a high-fructose diet, making it a potential dietary supplement for managing metabolic syndrome.",
+  "publication_date": "2025-04-28",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14091332",
+  "entities": {
+    "POLYPHENOL": [
+      "condensed tannins",
+      "flavonoid content",
+      "the protective effects"
+    ],
+    "FOOD": [
+      "peach leaf extract"
+    ],
+    "SYMPTOM": [
+      "metabolic syndrome",
+      "oxidative stress",
+      "oxidative stress markers"
+    ]
+  }
+}

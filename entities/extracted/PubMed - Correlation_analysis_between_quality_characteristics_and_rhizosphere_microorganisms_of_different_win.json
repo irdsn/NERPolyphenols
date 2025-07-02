@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Correlation analysis between quality characteristics and rhizosphere microorganisms of different wine grape varieties during their ripening phase.",
+  "abstract": "Wine grapes are the raw material used in wine brewing. The soil microenvironment is regulated by plant rhizosphere microorganisms, which can have a direct or indirect impact on plant growth and development. The population distribution of rhizosphere soil and endophytic microorganisms of Cabernet Sauvignon, Merlot, and Pinot Noir was investigated in this study utilizing high-throughput sequencing technology in relation to the characteristics of wine quality during the ripening phase. The results showed that the community composition of dominant fungi and bacteria in the rhizospheric soil of the three wine grapes varieties was similar at the phylum level. The microbial richness of Cabernet Sauvignon rhizosphere soil was higher than that of Merlot and Pinot Noir, and the bacterial community structure of various wine grape rhizosphere soil varied at the genus level. There were more differential microorganisms in rhizosphere soil than endophytic microorganisms. At the phylum level, malic acid correlated favorably with Mortierellomycota, while flavonol in the fruit peel and flesh of wine grapes correlated favorably with Aphelidiomyceta and Calcarisporiellomycota in rhizosphere soil fungi; The fruit peel's malic acid showed a negative correlation with the soil bacterial community's verrucomicrobiota, while the fruit flesh's succinic and oxalate acids showed a favorable correlation. Proanthocyanidin in wine grape fruit flesh positively correlated with several fungal genera in rhizosphere soil at the genus level, includingHydnocystis,Schizothecium. Additionally, there was more negative correlation than positive correlation between wine grape quality and soil bacterial community. Several endophytic fungal communities showed good correlations with the proanthocyanidin in wine grapefruit flesh. The fruit peel's ascorbic acid, phenolics, and tannins showed a favorable correlation with rhizosphere endophytic bacteria that were highly abundant at the genus level. However, some endophytic bacteria negatively correlated with malic acid in the fruit flesh. This study provides new ideas and theoretical support for improving the quality of grapes for winemaking.",
+  "publication_date": "2025-03-26",
+  "journal": "Frontiers in microbiology",
+  "doi": "10.3389/fmicb.2025.1546323",
+  "entities": {
+    "FOOD": [
+      "grapes",
+      "three wine",
+      "various wine grape",
+      "wine brewing",
+      "wine grape fruit flesh",
+      "wine grape quality",
+      "wine grapefruit flesh",
+      "wine grapes",
+      "wine quality"
+    ],
+    "POLYPHENOL": [
+      "a direct or indirect impact",
+      "high-throughput sequencing technology",
+      "schizothecium",
+      "tannins",
+      "the proanthocyanidin"
+    ]
+  }
+}

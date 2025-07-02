@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Differential Impact of SiO2Foliar Application on Lettuce Response to Temperature, Salinity, and Drought Stress.",
+  "abstract": "Silicon dioxide (SiO2) foliar application offers a promising strategy for enhancing lettuce (Lactuca sativaL.) resilience under temperature extremes, salinity, and drought stress. This study investigated the effects of SiO2treatment on three lettuce cultivars exposed to varying temperature, salinity, and drought conditions in a controlled growth chamber environment. Silicon treatment (3.66 mM) significantly enhanced plant biomass under suboptimal (15 \u00b0C), optimal (20 \u00b0C), and salinity stress conditions. Notably, the SiO2effect was most positive under severe salinity stress (100 mM NaCl), where its application increased plant weight together with chlorophyll and anthocyanin content. When increasing SiO2concentrations from 0 to 29.30 mM were tested, optimal results to alleviate severe salinity stress were consistently observed at 3.66 mM, with peak performance in fresh weight, plant diameter, chlorophyll, and anthocyanin content. Higher SiO2concentrations progressively diminished these beneficial effects, with 29.30 mM treatment leading to reduced growth and increased leaf chlorosis. Comprehensive mineral composition analysis revealed complex interactions between silicon treatment and elemental profiles at 100 mM salinity stress. At 3.66 mM SiO2, plants accumulated the highest levels of both K (20,406 mg/kg dry weight, DW) and Na (16,185 mg/kg DW) while maintaining the highest K/Na ratio (1.26). This suggests that Si enhances cellular ion compartmentalization rather than exclusion mechanisms, allowing plants to manage higher total ion content better while minimizing cytoplasmic damage. Drought stress conditions unexpectedly revealed negative impacts from 3.66 mM SiO2application, with decreased plant fresh weight at moderate (50% soil water content, SWC) and severe (30% SWC) water limitations, though results were statistically significant only under severe drought stress. The study highlights silicon's potential as a stress mitigation agent, particularly under salinity stress, while emphasizing the need for concentration-specific and stress-specific approaches. These findings suggest that foliar SiO2application could be a valuable tool for enhancing lettuce crop productivity under both optimal and challenging environmental conditions, with future research warranting field validation and full market maturity assessments.",
+  "publication_date": "2025-06-16",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14121845",
+  "entities": {
+    "FOOD": [
+      "lettuce",
+      "lettuce crop productivity",
+      "three lettuce cultivars"
+    ],
+    "SYMPTOM": [
+      "100 mm salinity stress",
+      "a stress mitigation agent",
+      "drought stress",
+      "drought stress conditions",
+      "salinity stress",
+      "salinity stress conditions",
+      "severe drought stress",
+      "severe salinity stress"
+    ],
+    "POLYPHENOL": [
+      "concentration-specific and stress-specific approaches",
+      "decreased plant fresh weight",
+      "exclusion mechanisms",
+      "the effects",
+      "the sio2effect",
+      "these beneficial effects"
+    ]
+  }
+}

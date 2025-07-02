@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Phenolic Compounds in Mesoamerican Fruits-Characterization, Health Potential and Processing with Innovative Technologies.",
+  "abstract": "Diets rich in phenolic compounds have been associated to reducing the risk of metabolic syndrome and its derived disorders. Fruits are healthy components of the human diet because of their vitamin, mineral, fiber and phenolic profile. However, they have a short shelf-life which is limited by microbiological growth and enzymatic activity. Innovative preservation methods such as high hydrostatic pressure, pulsed electric fields, ultrasound, microwave, cold plasma and ultraviolet light have become popular for the processing of fruits because they can preserve nutritional quality. In this review, the phenolic profile and health potential of 38 Mesoamerican fruits were assessed. Phenolic compounds were classified based on their contribution to the diet as flavonoids, phenolic acids, tannin, lignins and stilbenoids. Due to this composition, fruits showed a wide range of bioactivities which included anti-inflammatory, anti-diabetic, anti-hypertensive and anti-obesity activities, among others. Phenolic content in fruits submitted to innovative food processing technologies depended on parameters such as enzymatic activity, antioxidant capacity, microstructure integrity and cell viability. Innovative technologies could increase phenolic content while assuring microbiological safety by (i) promoting the release of bound phenolic compounds during processing and (ii) inducing the synthesis of phenolic compounds by activation of phenylpropanoid pathway during storage.",
+  "publication_date": "2020-11-07",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms21218357",
+  "entities": {
+    "POLYPHENOL": [
+      "bound phenolic compounds",
+      "electric fields",
+      "flavonoids",
+      "innovative food processing technologies",
+      "innovative technologies",
+      "phenolic compounds",
+      "tannin"
+    ],
+    "SYMPTOM": [
+      "anti-inflammatory, anti-diabetic, anti-hypertensive and anti-obesity activities",
+      "metabolic syndrome"
+    ]
+  }
+}

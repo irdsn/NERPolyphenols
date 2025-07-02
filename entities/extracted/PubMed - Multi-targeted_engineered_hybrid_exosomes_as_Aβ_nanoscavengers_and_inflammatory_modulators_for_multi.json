@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Multi-targeted engineered hybrid exosomes as A\u03b2 nanoscavengers and inflammatory modulators for multi-pathway intervention in Alzheimer's disease.",
+  "abstract": "The pathogenesis of Alzheimer's disease (AD) was complex, including excessive deposition of \u03b2-amyloid (A\u03b2), microglia dysfunction, and neuroinflammation. Therefore, single-pathway treatment was not sufficient to ameliorate the multifaceted pathological changes associated with AD. Moreover, the low permeability of blood-brain barrier (BBB) and the lack of AD locus selectivity further limited the intervention efficacy of current AD drugs. In this study, a novel nanoparticle coating was designed by hybridizing the membrane from brain microvascular endothelial cell exosomes and macrophage exosomes, and combining polydopamine nanoparticles, resveratrol and A\u03b2-targeting aptamers to construct engineered exosomes (RPDA@Rb-A) with multiple targeting capabilities to intervene in A\u03b2 clearance and regulate microglial dysfunction. Based on the homing effect of brain microvascular endothelial cell exosomes and the natural inflammation targeting ability of macrophage exosomes, RPDA@Rb-A can easily penetrate the blood brain barrier and accumulate in the brain inflammation site after capturing A\u03b2 aggregates. RPDA@Rb-A can effectively intervene in AD through multi-pathway, including degraded toxic A\u03b2 aggregates through local heating induced by near-infrared laser irradiation and alleviated neurotoxicity, promoted microglial clearance of A\u03b2 by capturing A\u03b2, and modulated microglia-induced neuroinflammation by efficient delivery of small molecule drugs. In AD mouse model, the administration of RPDA@Rb-A resulted in a significant reduction in amyloid plaque deposition, neuroinflammation, and cognitive impairments. The engineered exosomes based on membrane hybridization overcome the shortcomings of traditional drug carriers in poor penetration and insufficient targeting to the central nervous system, and provide a potential platform for multi pathways intervention in AD.",
+  "publication_date": "2025-05-08",
+  "journal": "Biomaterials",
+  "doi": "10.1016/j.biomaterials.2025.123403",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "microglia-induced neuroinflammation",
+      "neuroinflammation",
+      "the brain inflammation site",
+      "the natural inflammation"
+    ],
+    "POLYPHENOL": [
+      "ad locus selectivity",
+      "resveratrol",
+      "small molecule drugs",
+      "the homing effect"
+    ]
+  }
+}

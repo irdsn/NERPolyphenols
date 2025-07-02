@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Flavor Characteristics of Sun-Dried Green Tea in Different Regions of Yunnan: Metabolite Basis and Soil Influencing Factors.",
+  "abstract": "To elucidate the regional flavor characteristics of sun-dried green tea (SDT) and their underlying influencing factors, a comprehensive analysis was conducted using metabolomics and flavoromics approaches. This study systematically examined SDT samples and their corresponding tea garden soils from 13 distinct regions in Yunnan Province. The results revealed that the SDT samples could be classified into two distinct groups based on their flavor profiles. Compared to the regions of Pa Sha (PS), Bang Dong (BD), Dong Ban Shan (DBS), Dong Guo (DG), Su Hu (SH), Gua Feng Zhai (GFZ), and Wu Liang Shan (WLS), the regions of Xin Nong (XN), Ba Ka Nuan (BKN), Mang Ang (MA), Man Nuan (MN), Bing Dao (BDao), and Bin Shan (BS) exhibited a significant upregulation of the tea polyphenols (TP)/free amino acids (FAA) ratio. The former group was characterized by a sweet mellow taste, while the latter displayed a stronger taste profile. Furthermore, the analysis of volatile compounds demonstrated that geraniol and linalool were significantly upregulated in the PS, BD, DBS, DG, BS, and BDao regions, which were associated with tender and floral aromas. In contrast, isophorone, 2-pentyl furan, 1-octanol, D-limonene, and benzaldehyde were markedly enriched in the XN, BKN, MA, MN, SH, GFZ, and WLS regions, contributing to sweet and honey-like aromatic profiles. Altitude and mineral element phosphorus are potential key factors affecting the regional flavor differences in SDT. Specifically, SDT cultivated at higher altitudes and in soils with elevated available phosphorus content exhibited a greater likelihood of accumulating sweet mellow and floral compounds. This study provides scientific evidence for understanding the characteristic flavor profiles of SDT across different regions, offering valuable insights into the factors contributing to regional flavor differentiation in tea production.",
+  "publication_date": "2025-04-07",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14071280",
+  "entities": {
+    "FOOD": [
+      "sun-dried green tea"
+    ],
+    "POLYPHENOL": [
+      "the tea polyphenols (tp)/free amino acids (faa) ratio"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Role of Endocrine-Disrupting Chemicals in the Pathogenesis of Non-Alcoholic Fatty Liver Disease: A Comprehensive Review.",
+  "abstract": "Non-alcoholic fatty liver disease (NAFLD) is considered the most common liver disorder, affecting around 25% of the population worldwide. It is a complex disease spectrum, closely linked with other conditions such as obesity, insulin resistance, type 2 diabetes mellitus, and metabolic syndrome, which may increase liver-related mortality. In light of this, numerous efforts have been carried out in recent years in order to clarify its pathogenesis and create new prevention strategies. Currently, the essential role of environmental pollutants in NAFLD development is recognized. Particularly, endocrine-disrupting chemicals (EDCs) have a notable influence. EDCs can be classified as natural (phytoestrogens, genistein, and coumestrol) or synthetic, and the latter ones can be further subdivided into industrial (dioxins, polychlorinated biphenyls, and alkylphenols), agricultural (pesticides, insecticides, herbicides, and fungicides), residential (phthalates, polybrominated biphenyls, and bisphenol A), and pharmaceutical (parabens). Several experimental models have proposed a mechanism involving this group of substances with the disruption of hepatic metabolism, which promotes NAFLD. These include an imbalance between lipid influx/efflux in the liver, mitochondrial dysfunction, liver inflammation, and epigenetic reprogramming. It can be concluded that exposure to EDCs might play a crucial role in NAFLD initiation and evolution. However, further investigations supporting these effects in humans are required.",
+  "publication_date": "2021-05-01",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms22094807",
+  "entities": {
+    "POLYPHENOL": [
+      "a complex disease spectrum",
+      "a mechanism",
+      "recent years",
+      "these effects"
+    ],
+    "SYMPTOM": [
+      "insulin resistance",
+      "liver inflammation",
+      "metabolic syndrome",
+      "mitochondrial dysfunction",
+      "obesity"
+    ]
+  }
+}

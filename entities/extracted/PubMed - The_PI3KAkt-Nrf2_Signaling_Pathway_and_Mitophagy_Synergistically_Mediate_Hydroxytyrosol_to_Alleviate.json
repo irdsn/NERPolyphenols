@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "The PI3K/Akt-Nrf2 Signaling Pathway and Mitophagy Synergistically Mediate Hydroxytyrosol to Alleviate Intestinal Oxidative Damage.",
+  "abstract": "Oxidative stress is a major pathogenic factor in many intestinal diseases, such as inflammatory bowel disease (IBD) and colorectal cancer (CRC). The Nrf2 signaling pathway and mitophagy can reduce reactive oxygen species (ROS) and alleviate oxidative stress, but their relationship is unclear. Hydroxytyrosol (HT), a polyphenolic compound abundant in olive oil, has strong antioxidant activity and may help treat these diseases. We used pigs as a model to investigate HT's effect on intestinal oxidative damage and its mechanisms. Diquat (DQ) induced oxidative stress and impaired intestinal barrier function, which HT mitigated. Mechanistic studies in IPEC-J2 cells showed that HT protected against oxidative damage by activating the PI3K/Akt-Nrf2 signaling pathway and promoting mitophagy. Our study highlighted the synergistic relationship between Nrf2 and mitophagy in mediating HT's antioxidant effects. Inhibition studies confirmed that disrupting either pathway compromised HT's protective effects. Maintaining redox balance through Nrf2 and mitophagy is important for eliminating excess ROS. Nrf2 increases antioxidant enzymes to clear existing ROS, while mitophagy removes damaged mitochondria and reduces ROS generation. This study demonstrates that these pathways collaboratively modulate the antioxidant effects of HT, with neither being dispensable. Targeting Nrf2 and mitophagy could be a promising strategy for treating oxidative stress-related intestinal diseases, with HT as a potential treatment.",
+  "publication_date": "2024-08-06",
+  "journal": "International journal of biological sciences",
+  "doi": "10.7150/ijbs.97263",
+  "entities": {
+    "SYMPTOM": [
+      "inflammatory bowel disease",
+      "intestinal oxidative damage",
+      "oxidative damage",
+      "oxidative stress",
+      "oxidative stress-related intestinal diseases"
+    ],
+    "POLYPHENOL": [
+      "a polyphenolic compound",
+      "colorectal cancer",
+      "ht's antioxidant effects",
+      "ht's effect",
+      "ht's protective effects",
+      "ipec-j2 cells",
+      "its mechanisms",
+      "mechanistic studies",
+      "reactive oxygen species",
+      "the antioxidant effects"
+    ],
+    "FOOD": [
+      "olive oil"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Effects of Methyl Farnesoate on the Growth and Antioxidant Capacity ofNeocaridina denticulata.",
+  "abstract": "Sesquiterpenoid hormones are widely present in arthropods and play crucial roles in growth, molting and reproduction. Methyl farnesoate (MF) functions similarly to juvenile hormone (JH) in crustaceans, playing a broad regulatory role in their growth and development. However, compared to insects, systematic studies on the mechanisms of sesquiterpenoid hormones in crustaceans are still lacking.Neocaridina denticulata, a small freshwater shrimp known for its fast growth, high reproductive capacity and ease of maintenance, is an ideal model organism for crustacean research. To investigate the effects of MF on the growth and development of juvenileN. denticulata, MF feeding experiments were conducted and the changes at the phenotypic and molecular levels were examined. In this experiment, the basal diet was used as a control, with 40 \u03bcg/kg, 4 \u03bcg/kg and 0.4 \u03bcg/kg of MF added to the feed. The MF-enriched diets were fed to juvenileN. denticulataand the growth in body length was measured every 10 days. After 40 days of feeding experiment, the activities of amylase (AMS), lipase (LPS), trypsin (Try), superoxide dismutase (SOD), malondialdehyde (MDA) and glutathione peroxidase (GSH-PX) were assessed, and transcriptome analysis was performed. We found that MF showed an initial inhibitory effect on body length (day 30), but by day 40, the low-concentration group exhibited significantly enhanced growth compared to the control, indicating a dose- and time-dependent effect. Activities of AMS, LPS, Try and SOD generally decreased, whereas MDA levels and GSH-PX activity increased after 40 days of MF exposure. Moreover, transcriptomic analysis revealed that MF regulated various biological processes including growth, metabolism and immune responses. High concentration group appeared to restrict growth via modulation of exoskeleton-related and cellular stress genes. Medium concentration group enhanced growth by optimizing metabolic and signaling pathways. Low concentration group preferentially up-regulated genes related to muscle function, potentially supporting locomotion and competitive ability. This study provides new insights into the regulatory mechanism of sesquiterpenoid hormones in crustaceans and their potential applications in aquaculture in the future.",
+  "publication_date": "2025-05-25",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060635",
+  "entities": {
+    "POLYPHENOL": [
+      "a dose- and time-dependent effect",
+      "an initial inhibitory effect",
+      "insects",
+      "the effects",
+      "the mechanisms",
+      "the phenotypic and molecular levels",
+      "the regulatory mechanism"
+    ],
+    "SYMPTOM": [
+      "exoskeleton-related and cellular stress genes"
+    ]
+  }
+}

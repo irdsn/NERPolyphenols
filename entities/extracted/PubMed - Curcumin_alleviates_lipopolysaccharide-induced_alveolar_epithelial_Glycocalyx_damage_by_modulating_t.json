@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Curcumin alleviates lipopolysaccharide-induced alveolar epithelial Glycocalyx damage by modulating the Rac1/NF-\u03baB/HPSE pathway.",
+  "abstract": "The glycocalyx, a cell surface component implicated in various diseases, has recently been recognized for its role in acute lung injury (ALI). Also known as the alveolar epithelial polysaccharide coat, it is vital for maintaining lung barrier integrity, fluid homeostasis, and defense against pathogens. This study investigated the protective effects and mechanisms of curcumin, a natural polyphenol, against lipopolysaccharide (LPS) -induced alveolar epithelial glycocalyx damage. Key findings include: in vitro pretreatment with 20\u202f\u03bcM curcumin for 2\u202fh before a 24-h exposure to 10\u202f\u03bcg/mL LPS markedly reduced heparan sulfate (HS) degradation by regulating heparanase (HPSE) expression. Mechanistic studies demonstrated that curcumin suppressed LPS-induced Ras-related C3 botulinum toxin substrate 1 (Rac1) expression and downstream nuclear factor kappa B (NF-\u03baB) pathway activation, while upregulation of Rac1 protein abolished its protective effects. Furthermore, in vivo, administration of 200\u202fmg/kg curcumin significantly reduced lung inflammation induced by 5\u202fmg/kg LPS in mice. This treatment enhanced alveolar-capillary barrier function, evidenced by reduced levels of interleukin-6 (IL-6), IL-8, tumor necrosis factor-alpha (TNF-\u03b1), and HPSE. Curcumin also reduced damage to HS and syndecan-1 (SDC-1), a crucial component of the glycocalyx. This study is the first to indicate that curcumin protects against LPS-induced lung injury by reducing damage to the alveolar epithelial glycocalyx by inhibiting the Rac1/NF-\u03baB/HPSE pathway.",
+  "publication_date": "2025-05-27",
+  "journal": "Cellular signalling",
+  "doi": "10.1016/j.cellsig.2025.111909",
+  "entities": {
+    "POLYPHENOL": [
+      "200\u202fmg/kg curcumin",
+      "20\u202f\u03bcm curcumin",
+      "a natural polyphenol",
+      "curcumin",
+      "its protective effects",
+      "mechanisms",
+      "mechanistic studies",
+      "that curcumin protects",
+      "the protective effects"
+    ],
+    "SYMPTOM": [
+      "significantly reduced lung inflammation"
+    ]
+  }
+}

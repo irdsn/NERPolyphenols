@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Optimizing wound healing: insights from phytochemicals and advanced therapies.",
+  "abstract": "Wound healing is a complex process with various dimensions, often presenting as a growing concern that prompts the quest for advancements. This review emphasizes the therapeutic potential of medicinal plants rich in flavonoids, terpenoids, polyphenols, alkaloids, and steroids and discusses their valuable antibacterial, antioxidant, and anti-inflammatory properties in wound management. Cross talk of the phytochemicals with the intricate phases of wound healing, encompassing hemostasis, inflammation, proliferation, and remodeling is detailed, highlighting essential cellular and molecular mechanisms crucial for effective tissue repair. Chronic wounds, a significant global health concern, underscore the importance of advancing wound care therapies. Various treatment modalities, from platelet-rich plasma (PRP) and stem cell therapy to gene therapy, offer diverse mechanisms to promote wound closure and tissue regeneration and mitigate infection risk. Challenges such as variable efficacy, cost, and limited availability necessitate ongoing research for optimal wound management strategies. Wound dressings play a pivotal role in wound care by providing protective barriers against microbial invasion, facilitating tissue regeneration, and maintaining a moist wound environment conducive to healing. The review outlines various types of dressings, including hydrocolloid, foam, alginate, hydrogel, collagen, silver, transparent film, and composite dressings, each offering specific functions and limitations. Appropriate dressing selection depends on wound type, exudate level, and desired therapeutic outcomes. This review offers valuable insights into the complex landscape of wound-healing research and treatment. Synthesizing recent advancements in natural compounds, therapeutic interventions, and wound dressing technologies provides a comprehensive overview of current understanding and future directions in wound care.",
+  "publication_date": "2025-06-20",
+  "journal": "Inflammopharmacology",
+  "doi": "10.1007/s10787-025-01806-x",
+  "entities": {
+    "POLYPHENOL": [
+      "appropriate dressing selection",
+      "diverse mechanisms",
+      "effective tissue repair",
+      "essential cellular and molecular mechanisms",
+      "flavonoids",
+      "future directions",
+      "infection risk",
+      "necessitate ongoing research",
+      "polyphenols",
+      "protective barriers",
+      "recent advancements",
+      "specific functions",
+      "wound dressing technologies"
+    ],
+    "SYMPTOM": [
+      "inflammation"
+    ]
+  }
+}

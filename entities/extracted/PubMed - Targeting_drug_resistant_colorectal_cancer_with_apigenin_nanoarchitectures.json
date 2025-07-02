@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Targeting drug resistant colorectal cancer with apigenin nanoarchitectures.",
+  "abstract": "Drug resistance remains a critical obstacle in the treatment of colorectal cancer (CRC), contributing to high mortality rates, particularly in advanced stages. Conventional therapies, including surgery, chemotherapy, and targeted drugs, often face limitations such as systemic toxicity, poor drug selectivity and the development of multi-drug resistance (MDR). Recent studies have explored the use of apigenin, a naturally occurring flavonoid, as a promising therapeutic agent against drug-resistant CRC. This review aims to summarize and critically evaluate current research on the use of apigenin-loaded nanoarchitectures in overcoming drug resistance mechanisms in CRC. Specifically, it examines the efficacy of apigenin when delivered via various nanocarriers, including PLGA nanoparticles, lipid-polymer hybrid nanoparticles and liposomal formulations. These nanoarchitectures enhance the bioavailability, targeted delivery and sustained release of apigenin, improving its therapeutic efficacy. Apigenin-loaded nanoparticles effectively increase cellular uptake, circumvent drug efflux pumps and induce apoptosis in drug-resistant CRC cells. They also inhibit cancer cell proliferation by arresting the cell cycle and suppressing oncogenic pathways, such as PI3K/Akt/mTOR. Furthermore, apigenin disrupts angiogenesis and inflammation, thereby weakening the tumor microenvironment. Synergistic effects with conventional chemotherapy further underscore apigenin's potential as a chemo-sensitizer and in combination therapy, offering a promising avenue for reducing drug resistance in CRC. The findings suggest that apigenin nanoarchitectures could be a powerful strategy for enhancing CRC treatment outcomes, providing a foundation for further clinical development.",
+  "publication_date": "2025-06-24",
+  "journal": "Translational oncology",
+  "doi": "10.1016/j.tranon.2025.102455",
+  "entities": {
+    "POLYPHENOL": [
+      "a naturally occurring flavonoid",
+      "apigenin",
+      "apigenin disrupts angiogenesis",
+      "apigenin nanoarchitectures",
+      "apigenin's potential",
+      "apigenin-loaded nanoarchitectures",
+      "apigenin-loaded nanoparticles",
+      "colorectal cancer",
+      "drug resistance mechanisms",
+      "poor drug selectivity",
+      "recent studies",
+      "synergistic effects",
+      "these nanoarchitectures"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer cell proliferation",
+      "inflammation"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Neurotrophic and Neurotoxic Effects of A\u03b242 and Its Oligomers on Neuronal Survival: Revealed by Their Opposite Influence on the Potency of Extracellular BDNF.",
+  "abstract": "Brain-derived neurotrophic factor (BDNF) is critical for neuronal survival. Amyloid-\u03b2 monomers (A\u03b242M) and oligomers (A\u03b242O) have trophic and toxic effects on neuronal survival, respectively. Branched oligosaccharides (BOs) and catechins (CAs) can specifically bind to A\u03b242M/A\u03b242O, influencing both effects. However, whether and how A\u03b242M/A\u03b242O influences BDNF remains unknown. This study investigated the interaction between A\u03b242M/A\u03b242O and BDNF, the effects of A\u03b242M and A\u03b242O on BDNF binding to the TrkB/p75 receptor and their impact on BDNF-supported cell survival, and the roles of BOs and CAs in these processes. BDNF exhibited stronger binding affinity for A\u03b242M and A\u03b242O than BOs/CAs. A\u03b242M increased neuronal viability by synergistically enhancing BDNF binding to TrkB and p75, whereas A\u03b242O decreased neuronal viability by inactivating/consuming BDNF, thereby reducing its binding to these receptors. BDNF-A\u03b242O binding appeared to mutually neutralize/counteract each other's biological effects; therefore, increasing BDNF levels might reduce A\u03b242O's neurotoxicity. By competitively targeting A\u03b242M/A\u03b242O rather than BDNF or its receptors, BOs and CAs enhanced these effects. These findings suggest that A\u03b242M's neurotrophicity was directly linked to its synergistic enhancement of BDNF activity, whereas A\u03b242O's neurotoxicity was primarily due to its inactivation or consumption of BDNF. This study provided valuable insights for developing BOs/CAs-based neuroprotective therapeutics or nanomaterials against AD.",
+  "publication_date": "2025-05-08",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26104501",
+  "entities": {
+    "POLYPHENOL": [
+      "bos/cas-based neuroprotective therapeutics",
+      "both effects",
+      "each other's biological effects",
+      "its receptors",
+      "the effects",
+      "the trkb/p75 receptor",
+      "these effects",
+      "these receptors",
+      "trophic and toxic effects"
+    ]
+  }
+}

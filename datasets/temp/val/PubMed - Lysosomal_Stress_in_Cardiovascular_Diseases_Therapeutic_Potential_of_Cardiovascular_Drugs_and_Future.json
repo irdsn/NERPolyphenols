@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Lysosomal Stress in Cardiovascular Diseases: Therapeutic Potential of Cardiovascular Drugs and Future Directions.",
+  "abstract": "Lysosomal dysfunction has emerged as a central contributor to the pathogenesis of cardiovascular diseases (CVDs), particularly due to its involvement in chronic inflammation, lipid dysregulation, and oxidative stress. This review highlights the multifaceted roles of lysosomes in CVD pathophysiology, focusing on key mechanisms such as NLRP3 inflammasome activation, TFEB-mediated autophagy regulation, ferroptosis, and the role of apolipoprotein M (ApoM) in preserving lysosomal integrity. Additionally, we discuss how impaired lysosomal acidification, mediated by V-ATPase, contributes to lipid-induced cardiac dysfunction. Therapeutically, several pharmacological agents, such as statins, SGLT2 inhibitors, TRPML1 agonists, resveratrol, curcumin, and ferroptosis modulators (e.g., GLS1 activators and icariin), have demonstrated promise in restoring lysosomal function, enhancing autophagic flux, and reducing inflammatory and oxidative injury in both experimental models and early clinical settings. However, key challenges remain, including limitations in drug delivery systems, the absence of lysosome-specific biomarkers, and insufficient clinical validation of these strategies. Future research should prioritize the development of reliable diagnostic tools for lysosomal dysfunction, the optimization of targeted drug delivery, and large-scale clinical trials to validate therapeutic efficacy. Incorporating lysosome-modulating approaches into standard cardiovascular care may offer a new precision medicine paradigm for managing CVD progression.",
+  "publication_date": "2025-04-27",
+  "journal": "Biomedicines",
+  "doi": "10.3390/biomedicines13051053"
+}

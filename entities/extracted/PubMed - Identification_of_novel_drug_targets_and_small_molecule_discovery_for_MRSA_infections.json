@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Identification of novel drug targets and small molecule discovery for MRSA infections.",
+  "abstract": "The topmost deadliest microorganism, namely, methicillin-resistantStaphylococcus aureus(MRSA), causes dreadful infections like bacteremia, pneumonia, endocarditis, and systemic inflammations. The virulence factors associated with MRSA exhibit multidrug-resistant characteristics, complicating treatment choices. So, the primary objective of this study is to identify the MRSA virulence factors and inhibiting its activity utilizing bioinformatic approaches.",
+  "publication_date": "2025-04-15",
+  "journal": "Frontiers in bioinformatics",
+  "doi": "10.3389/fbinf.2025.1562596",
+  "entities": {
+    "POLYPHENOL": [
+      "dreadful infections",
+      "the primary objective"
+    ],
+    "SYMPTOM": [
+      "systemic inflammations"
+    ]
+  }
+}

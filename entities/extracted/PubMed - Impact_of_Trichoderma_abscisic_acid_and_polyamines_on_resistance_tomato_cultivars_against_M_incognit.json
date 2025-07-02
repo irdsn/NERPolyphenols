@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Impact of Trichoderma, abscisic acid and polyamines on resistance tomato cultivars against M. incognita infection.",
+  "abstract": "The interaction of various treatments such as abscisic acid (ABA), polyamines (PS), and biological control with Trichoderma against Meloidogyne incognita was evaluated to assess their impact on pathological indices, growth metrics, and defense mechanisms in tomato cultivars.",
+  "publication_date": "2025-06-23",
+  "journal": "Molecular biology reports",
+  "doi": "10.1007/s11033-025-10728-4",
+  "entities": {
+    "POLYPHENOL": [
+      "defense mechanisms"
+    ],
+    "FOOD": [
+      "tomato cultivars"
+    ]
+  }
+}

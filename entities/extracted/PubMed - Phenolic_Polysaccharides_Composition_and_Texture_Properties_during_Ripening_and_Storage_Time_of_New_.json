@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Phenolic, Polysaccharides Composition, and Texture Properties during Ripening and Storage Time of New Table Grape Cultivars in Chile.",
+  "abstract": "The aim of this study is to determine the phenolic and polysaccharidic composition, texture properties, and gene expression of new seedless table grape cultivars Timco\u2122 and Krissy\u2122 and compare them to the traditional table grape variety Crimson Seedless (Vitis viniferaL.), during ripening and in commercial postharvest conditions. According to the results, phenolic compounds were present in very different proportions. The total anthocyanins responsible for skin color increased during maturation and the majority anthocyanin in the three cultivars was peonidin-3-glucoside, followed by malvidin-3-glucoside. The phenolic compounds presented a different behavior (decreasing or increasing) during postharvest. The total skin soluble polysaccharides decreased during ripening and postharvest in Crimson Seedless and Krissy\u2122 and remained constant from technological maturity to postharvest storage in Timco\u2122. In all cultivars, the majority soluble polysaccharide fraction was that with a molecular mass between 500 and 35 KDa. The skin mechanical properties of table grapes were good parameters for differentiating varieties, with better results for the new cultivars, compared to the traditional Crimson Seedless, especially in postharvest. Genes involved in the flavonoid pathway and cell wall metabolism in skins exhibited an increase in expression from veraison to remaining constant at the end of the berry ripening.",
+  "publication_date": "2023-06-29",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants12132488",
+  "entities": {
+    "FOOD": [
+      "new seedless table grape cultivars",
+      "table grapes",
+      "the traditional table grape variety"
+    ],
+    "POLYPHENOL": [
+      "a molecular mass",
+      "malvidin-3-glucoside",
+      "phenolic compounds",
+      "technological maturity",
+      "the flavonoid pathway and cell wall metabolism",
+      "the phenolic compounds",
+      "the skin mechanical properties"
+    ]
+  }
+}

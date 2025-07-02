@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Effect of high hydrostatic pressure on physicochemical and digestive properties of catechin-chestnut starch complexes.",
+  "abstract": "Chinese chestnuts are high in starch, and becomes rapidly digestible after cooking, which increases the risk of blood glucose level disorders. In this study, a catechin-chestnut starch complex (CC-CS) was prepared using high hydrostatic pressure (HHP). The findings revealed that the complexation rate of complex prepared using HHP was 68.83\u00a0%. Compared with that of chestnut starch (CS), the solubility and swelling power of 600\u00a0MPa-6\u00a0% complex increased by 18.13\u00a0% and 4.14\u00a0%, respectively. Conversely, the freeze-thaw stability showed a decline of 16.48\u00a0%, whereas the resistant starch exhibited an increase of 39.93\u00a0%; consequently, HHP treatment reduced the digestibility of complex. The long-range ordered structure was disrupted, and the relative crystallinity diminished. The enthalpy change (\u0394H) decreased, and complex showed typical weak gel behavior. In conclusion, HHP facilitates the formation of complex and enhances the physicochemical properties and anti-digestibility of chestnut products, thus aiding in the development of high-quality, low-digestibility starch-based foods.",
+  "publication_date": "2025-04-23",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144501",
+  "entities": {
+    "POLYPHENOL": [
+      "a catechin-chestnut starch complex",
+      "a decline"
+    ]
+  }
+}

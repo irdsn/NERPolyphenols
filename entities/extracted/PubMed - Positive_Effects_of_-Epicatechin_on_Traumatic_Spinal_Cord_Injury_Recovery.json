@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Positive Effects of (+)-Epicatechin on Traumatic Spinal Cord Injury Recovery.",
+  "abstract": "Neurological damage from traumatic spinal cord injury (SCI) results in a grade of disability ranging from mild to severe motor and sensory dysfunction. It occurs more frequently in men of productive age. Treatment essentially consists of anti-inflammatories and rehabilitation. Other treatments are only partially effective, and inadequate treatment and secondary conditions often cause premature mortality. The search for pharmacological approaches is a continuous effort. This study aimed to assess the effects of a natural compound on spinal cord injury (SCI) as an alternative damage prevention maneuver. We evaluated the protective effects of the flavanol (+)-epicatechin (EC) in a rat model of moderate trauma-induced SCI on protein markers of damage events. The results showed that EC induced significant protection against SCI. No changes were found in angiopoietin-1, beclin-1, myelin basic protein, glial fibrillary acidic protein, neurofilament heavy polypeptide, and neuronal nuclear antigen after the injury, suggesting that damage progression was impeded. The reduction in damage translates into better movement. The results suggest that (+)-epicatechin may be a suitable alternative for treating SCI.",
+  "publication_date": "2025-06-14",
+  "journal": "Biomolecules",
+  "doi": "10.3390/biom15060869",
+  "entities": {
+    "POLYPHENOL": [
+      "(+)-epicatechin",
+      "ec",
+      "secondary conditions",
+      "significant protection",
+      "the effects",
+      "the protective effects"
+    ]
+  }
+}

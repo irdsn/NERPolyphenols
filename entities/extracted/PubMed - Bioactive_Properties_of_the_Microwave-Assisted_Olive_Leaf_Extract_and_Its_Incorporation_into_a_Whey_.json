@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Bioactive Properties of the Microwave-Assisted Olive Leaf Extract and Its Incorporation into a Whey Protein Isolate Coating of Semi-Hard Cheese.",
+  "abstract": "The food industry generates large quantities of biowaste, including olive (Olea europaeaL.) leaves, which are rich in phenolic compounds with proven antioxidant and antimicrobial activity. In this study, a microwave-assisted olive leaf extract was produced and evaluated. Antioxidant potential (20.23 \u00b1 0.31 \u00b5mol TE g-1), antimicrobial activity againstStaphylococcus aureus(MIC 17.62 mg GAE g-1), and cytotoxic effects in breast (MDA-MB-231 (IC50= 38.9 \u00b1 1.8 \u00b5g mL-1), MCF-7 (IC50= 58.9 \u00b1 5.4 \u00b5g mL-1) and prostate cancer PC-3 (IC50= 69.2 \u00b1 7.6 \u00b5g mL-1) cell models were confirmed. Further, the extract was incorporated into a whey protein isolate (WPI) edible coating mixture and applied to semi-hard cheese over a 60-day ripening period. When applied to cheese, WPI-based coatings enriched with OLE contributed to an improved antioxidant potential (289.79 \u00b1 16.16 \u00b5mol TE L-1), elevated retention of total phenols and flavonoids, and slightly reduced microbial growth without compromising cheese safety. Compared to the uncoated control, coated samples showed higher total solids (up to 62.87 \u00b1 0.13%, CWPIM) and fat contents (up to 26.59 \u00b1 0.17%, CWPIM), moderated proteolysis (WSN in CWPIM: 3.15 \u00b1 0.09% vs. 4.48 \u00b1 0.02% in C0), maintained cohesiveness and resilience compared to the control, and exhibited less pronounced color deviation (\u0394E) in some coated samples during ripening. These results highlight the potential of olive leaf extract as a bioactive, sustainable ingredient for functional edible coatings that improve the nutritional, technological, and microbiological quality of ripened cheese.",
+  "publication_date": "2025-04-25",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14091496",
+  "entities": {
+    "POLYPHENOL": [
+      "cytotoxic effects",
+      "flavonoids",
+      "phenolic compounds",
+      "the nutritional, technological, and microbiological quality"
+    ],
+    "SYMPTOM": [
+      "cancer pc-3"
+    ]
+  }
+}

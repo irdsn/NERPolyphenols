@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Simultaneous determination of nine compounds from the roots ofEuphorbia fischeriana,Euphorbia ebracteolataandStellera chamaejasmeand their anti-tumor activities.",
+  "abstract": "Langdu is generally considered as the roots ofEuphorbia fischeriana,Euphorbia ebracteolataandStellera chamaejasme. However, whether these three plants can substitute for one another has always been a concern. This article aims to clarify the differences among the three Langdu species in chemical constituents\u00a0and anti-tumor effects. This study provides a qualitative and quantitative analysis of eight diterpenoids and one flavonoid in Langdu samples and IC50curves for these compounds, which can serve as a basis for identification and usage.",
+  "publication_date": "2024-12-30",
+  "journal": "Journal of Asian natural products research",
+  "doi": "10.1080/10286020.2024.2442444",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-tumor effects",
+      "one flavonoid",
+      "the three langdu species"
+    ],
+    "FOOD": [
+      "usage"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Microwave-Assisted Extraction of Bioactive Compounds from Mandarin Peel: A Comprehensive Biorefinery Strategy.",
+  "abstract": "Mandarin peel is a valuable but underutilized source of numerous bioactive compounds. The main focus of this work was to develop an integrated two-step process for the subsequent extraction of polyphenols and carotenoids (step 1) and pectin (step 2) from mandarin peel by microwave-assisted extraction (MAE), using only green solvents. This represents a novel, scale-up-suitable approach that might contribute to the improved revalorization of mandarin peel. Response surface methodology was used to maximize the yields of polyphenols, flavonoids, and carotenoids, as well as antioxidative activity (DPPH- and ABTS-radical scavenging capacity). The sample-to-solvent ratio and solvent type significantly influenced extractability of polyphenols and carotenoids, while extraction time and power were the key variables influencing pectin yield. Optimal extracts contained 21.76 \u00b1 0.46 mg GAE/g of polyphenols (with 139.7 \u00b1 2.28 mg/g and 703.62 \u00b1 51.72 \u00b5g/g of tangeretin and nobiletin, respectively); 352.3 \u00b1 17.4 \u00b5g/g of \u03b2-carotene and 273 \u00b1 23 mg/g of pectin. MAE resulted in either higher yields, reduced extraction times or both, compared to conventional solvent extraction (CSE), depending on the target compound. The energy consumption of MAE was considerably lower, compared to CSE, in four out of five developed extraction procedures. Pectin obtained in the integrated two-step process had higher purity compared to pectin extracted from intact mandarin peel.",
+  "publication_date": "2025-06-12",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060722",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "pectin",
+      "pectin yield",
+      "polyphenols"
+    ]
+  }
+}

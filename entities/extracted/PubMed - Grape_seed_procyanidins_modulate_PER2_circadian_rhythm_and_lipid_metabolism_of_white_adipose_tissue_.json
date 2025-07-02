@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Grape seed procyanidins modulate PER2 circadian rhythm and lipid metabolism of white adipose tissue explants in a time-dependent manner.",
+  "abstract": "The consumption of grape seed procyanidin extract (GSPE) may improve metabolic alterations and molecular clock desynchrony in white adipose tissue (WAT), depending on administration timing and metabolic status. To test this hypothesis, inguinal WAT explants from lean and obese PERIOD2::LUCIFERASE (PER2::LUC) circadian reporter mice were treated at the peak or trough of the PER2 luminescence rhythm with metabolites present in the serum of GSPE-administered rats (GSPM). PER2::LUC rhythms of explants from obese animals presented a lower amplitude, longer period and a phase delay. GSPM treatment increased luminescence amplitude and period compared to untreated explants, but only when it was given at the trough of PER2::LUC luminescence. GSPM upregulated lipogenesis and lipolysis genes in explants from lean mice, mostly when given at the luminescence peak. This study provides a valuable platform for testing the effects of natural productsex vivoand warrants further investigation into the chrono-utilisation of plant bioactive compounds.",
+  "publication_date": "2025-04-29",
+  "journal": "International journal of food sciences and nutrition",
+  "doi": "10.1080/09637486.2025.2494151",
+  "entities": {
+    "FOOD": [
+      "grape seed"
+    ],
+    "POLYPHENOL": [
+      "molecular clock desynchrony",
+      "procyanidin extract",
+      "the effects"
+    ]
+  }
+}

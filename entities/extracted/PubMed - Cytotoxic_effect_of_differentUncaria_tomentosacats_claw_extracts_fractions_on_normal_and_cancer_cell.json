@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Cytotoxic effect of differentUncaria tomentosa(cat's claw) extracts, fractions on normal and cancer cells: a systematic review.",
+  "abstract": "Uncaria tomentosa(cat's claw) is a medicinal plant with documented immunomodulatory and anti-inflammatory properties. Recent studies suggest potential anticancer effects, but evidence remains fragmented.",
+  "publication_date": "2025-05-14",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1584840",
+  "entities": {
+    "POLYPHENOL": [
+      "potential anticancer effects",
+      "recent studies"
+    ]
+  }
+}

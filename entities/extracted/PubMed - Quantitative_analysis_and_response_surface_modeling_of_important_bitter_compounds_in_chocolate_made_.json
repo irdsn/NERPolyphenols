@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Quantitative analysis and response surface modeling of important bitter compounds in chocolate made from cocoa beans with eight roast profiles across three origins.",
+  "abstract": "Eight different roast profiles for each of the three origins of cacao were prepared and made into unsweetened chocolate based upon an I-Optimal response-surface design for minimizing prediction variance. Quantitative chemical analysis of all chocolate treatments was performed with HPLC-DAD on six important bitter compounds (i.e., theobromine, caffeine, epicatechin, catechin, procyanidin B2, and cyclo(Proline-Valine)). Least-squares linear modeling was then performed. Using derived linear models, response-surface contour plots were produced to show predicted changes in the six bitter compounds over the entire experimental region. Significant and large decreases in concentration of epicatechin and procyanidin B2 were observed as roasting progressed, whereas for catechin and cyclo(Proline-Valine), significant increases were observed. Small yet significant theobromine and caffeine concentration increases were also observed with roasting, likely due to moisture loss. Some significant differences were also found between the cacao origins for all bitter compound concentrations except for cyclo(Proline-Valine), suggesting the importance of a survey encompassing a greater number of cacao origins in the future to obtain a more complete picture of the variation in bitter compounds in cacao due to origin. PRACTICAL APPLICATION: This research describes how roasting can be used to alter the concentration of bitter and sometimes astringent chemicals for several origins of cacao, which may be used to improve the sensory characteristics of dark chocolate.",
+  "publication_date": "2021-10-11",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.15924",
+  "entities": {
+    "FOOD": [
+      "all chocolate treatments",
+      "dark chocolate",
+      "unsweetened chocolate"
+    ],
+    "POLYPHENOL": [
+      "catechin",
+      "catechin and cyclo(proline-valine",
+      "epicatechin",
+      "procyanidin b2",
+      "significant and large decreases"
+    ]
+  }
+}

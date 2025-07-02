@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Puerarin Inhibits the Development of Thyroid Cancer Through KLF2/NOTCH1 Signaling.",
+  "abstract": "Puerarin is the major bioactive ingredient extracted from Pueraria lobata. Puerarin has an antitumor effect on many kinds of cancer. Accordingly, the aim of this study was to investigate the effect and mechanism of puerarin on thyroid cancer (TC) proliferation and apoptosis.",
+  "publication_date": "2025-05-01",
+  "journal": "Discovery medicine..",
+  "doi": "10.24976/Discov.Med.202537196.79",
+  "entities": {
+    "POLYPHENOL": [
+      "an antitumor effect",
+      "mechanism",
+      "the effect"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer",
+      "thyroid cancer"
+    ]
+  }
+}

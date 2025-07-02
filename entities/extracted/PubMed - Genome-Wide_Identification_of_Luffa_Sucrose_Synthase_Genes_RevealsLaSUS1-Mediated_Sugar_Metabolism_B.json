@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Genome-Wide Identification of Luffa Sucrose Synthase Genes RevealsLaSUS1-Mediated Sugar Metabolism Boosting Drought Tolerance.",
+  "abstract": "Luffa (Luffa acutangula) serves as an important edible, medicinal, and industrial crop. Sucrose synthase (SUS, EC 2.4.1.13) catalyzes sucrose metabolism and facilitates the entry of photosynthetically derived sucrose into metabolic pathways, playing crucial roles in plant growth, development, and stress responses. However, systematic investigations on theSUSgene family in luffa remain relatively scarce. In this study, we identified nineLaSUSfamily members distributed unevenly across six chromosomes. Their physicochemical properties and evolutionary relationships were systematically elucidated using bioinformatics tools. RNA-seq analysis revealed distinct expression patterns ofLaSUSgenes during luffa fruit aging, with most genes showing significant down-regulation during this process. Notably, several genes exhibited significant correlations with sucrose content during fruit aging. RT-qPCR analysis demonstrated the drought stress responsiveness ofLaSUSgenes, withLaSUS1showing marked up-regulation under drought conditions. Furthermore, overexpression experiments in tobacco confirmed thatLaSUS1contributed to sugar accumulation, increased antioxidant enzyme activities, and positively regulated drought tolerance in luffa. This comprehensive study not only characterizes theLaSUSgene family and bridges the research gap ofSUSgenes in luffa but also provides theoretical support for investigating the roles ofSUSgenes in fruit ripening and abiotic stress responses in luffa.",
+  "publication_date": "2025-06-13",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26125675",
+  "entities": {
+    "SYMPTOM": [
+      "fruit aging",
+      "fruit ripening and abiotic stress responses",
+      "luffa fruit aging",
+      "stress responses",
+      "the drought stress responsiveness"
+    ]
+  }
+}

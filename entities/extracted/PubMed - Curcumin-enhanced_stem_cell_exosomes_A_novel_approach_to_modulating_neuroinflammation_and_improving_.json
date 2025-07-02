@@ -1,0 +1,41 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Curcumin-enhanced stem cell exosomes: A novel approach to modulating neuroinflammation and improving cognitive function in a rat model of Alzheimer's disease.",
+  "abstract": "The effect of Curcumin-enhanced stem cell exosomes on the learning and memory impairment induced by streptozotocin (STZ) and neuro-inflammation in rats was evaluated. An animal model of Alzheimer's disease (AD) was established by intracerebroventricular (ICV) injection of STZ (3\u00a0mg/kg) in male Wistar rats (250\u00a0\u00b1\u00a050\u00a0g). ICV STZ injections chronically reduce cerebral glucose uptake and produce other effects similar to pathological, molecular and behavioral features of AD. Numerous studies confirmed the anti-inflammatory and antioxidant properties of curcumin (a natural polyphenol) against free radicals, as well as its ability to inhibit the aggregation of proteins such as beta-amyloid and alpha-synuclein in disorders such as AD and Parkinson's disease. The use of extracellular vesicles has garnered a lot of interest in research studies because of the important roles that mesenchymal stem cell-derived exosomes play in permeability, retention, and drug delivery as well as their ability to reduce inflammatory cytokines (TNF-\u03b1, IL-1\u03b2, and IL-6). Furthermore, researches highlighted the positive effect of curcumin on neuronal differentiation of stem cells in vivo and in vitro. Since studies emphasized the ameliorating effect of curcumin-treated macrophage-exosomes on symptoms of Alzheimer's disease by inhibiting tau protein phosphorylation, we proposed that Curcumin-primed MSC exosomes may offer greater efficacy to alleviate AD compared to na\u00efve MSC exosomes. In this study, we investigated the effect of curcumin in stimulating the anti-inflammatory potential of exosome-derived stem cells. We evaluated the effect of MSC-EXO and pre-treated MSC-EXO with curcumin (CUR-MSC-EXO) on inhibiting inflammation and memory and learning impairments. Following four intraperitoneal injections of MSC-EXO and CUR-MSC-EXO at a dosage of 30\u03bcg/body over 30 days, we found that MSC-EXO and CUR-MSC-EXO elevated anti-inflammatory cytokines (IL10, TGF-\u03b2) and reduced pro-inflammatory cytokines (IL1, TNF-\u03b1) in peripheral blood compared to the AD group. The elevated level of M2 anti-inflammatory microglia markers (Arg1, CD206) and decreased level expression of M1 pro-inflammatory markers (iNOS, CD86) indicated that the CUR-MSC-EXO effect was more significant in the polarization of microglia into the M2 phenotype in the rat hippocampus. Both treatment groups demonstrated improvements in memory and learning skills. The results of the passive avoidance learning in the rats with STZ-induced memory impairment, however, were better in the CUR-MSC-EXO. Additionally, after therapy, a decrease in degenerative neurons was seen. Therefore, using curcumin may stimulate the anti-inflammatory and neuroprotective potential of exosome-derived stem cells which could provide hope for Alzheimer's disease treatment in the future.",
+  "publication_date": "2025-04-30",
+  "journal": "European journal of pharmacology",
+  "doi": "10.1016/j.ejphar.2025.177695",
+  "entities": {
+    "POLYPHENOL": [
+      "a decrease",
+      "a natural polyphenol",
+      "curcumin",
+      "curcumin-enhanced stem cell exosomes",
+      "curcumin-primed msc exosomes",
+      "curcumin-treated macrophage-exosomes",
+      "four intraperitoneal injections",
+      "icv stz injections",
+      "intracerebroventricular (icv) injection",
+      "other effects",
+      "pathological, molecular and behavioral features",
+      "the ameliorating effect",
+      "the anti-inflammatory and neuroprotective potential",
+      "the cur-msc-exo effect",
+      "the effect",
+      "the positive effect"
+    ],
+    "SYMPTOM": [
+      "ad and parkinson's disease",
+      "alzheimer's disease",
+      "alzheimer's disease treatment",
+      "inflammation",
+      "neuro-inflammation",
+      "stz-induced memory impairment",
+      "the learning and memory impairment"
+    ],
+    "FOOD": [
+      "a dosage"
+    ]
+  }
+}

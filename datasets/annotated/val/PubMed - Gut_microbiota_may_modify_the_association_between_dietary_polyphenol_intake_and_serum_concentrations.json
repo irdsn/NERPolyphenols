@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Gut microbiota may modify the association between dietary polyphenol intake and serum concentrations of hippuric acid: results from a 1-year longitudinal study in China.",
+  "abstract": "Hippuric acid (HA), a host-microbe cometabolite, normally derives from gut microbial catabolism of dietary polyphenols.",
+  "publication_date": "2025-01-19",
+  "journal": "The American journal of clinical nutrition",
+  "doi": "10.1016/j.ajcnut.2025.01.018",
+  "entities": {
+    "POLYPHENOL": [
+      "dietary polyphenols"
+    ]
+  }
+}

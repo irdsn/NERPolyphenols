@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "The Effect of Germination on Antinutritional Components, In\u00a0Vitro Starch and Protein Digestibility, Content, and Bioaccessibility of Phenolics and Antioxidants of Some Pulses.",
+  "abstract": "The objective of this study was to investigate the impact of 24- and 48-h germination on antinutrient levels (phytic acid, trypsin inhibitors, saponins, and tannins), in\u00a0vitro starch and protein digestibility, and the content and bioaccessibility of phenolic compounds and antioxidants in chickpeas, peas, mung beans, and lentils. Germination resulted in reductions of phytic acid by up to 75.65% and trypsin inhibitor activity by up to 39.20% in the pulses studied. In contrast, saponin levels showed a significant increase, rising nearly threefold with germination, while mung beans exhibited an exceptional 27-fold increase. Tannins decreased in lentils (2.6-fold) and mung beans (5.8-fold), increased in peas (1.6-fold), and remained unchanged in chickpeas following germination. In\u00a0vitro protein digestibility generally increased with germination, reaching up to 4.40%, except in peas, where a decline was observed. Germination significantly enhanced total digestible starch content while reducing resistant starch in all pulses except chickpeas. Mung beans exhibited the highest total phenolic content and antioxidant capacity, followed by lentils. Although germination significantly elevated total phenolic content in all pulses, this increase did not always align with antioxidant capacity outcomes. Additionally, germination led to a decline in the bioaccessibility of phenolics. However, the amount of phenolic compounds progressively increased during gastric and intestinal digestion, with intestinal digestion further enhancing the total antioxidant capacity of the pulses.",
+  "publication_date": "2025-05-08",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70103",
+  "entities": {
+    "POLYPHENOL": [
+      "a decline",
+      "phenolic compounds",
+      "tannins",
+      "the objective"
+    ],
+    "FOOD": [
+      "chickpeas",
+      "lentils",
+      "mung beans",
+      "peas"
+    ]
+  }
+}

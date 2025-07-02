@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Flavoromics analysis and sensory evaluation of wines produced from nine red grape cultivars in Manas region, Xinjiang, China: Implications for terroir adaptation.",
+  "abstract": "The synergistic interaction between grape cultivars and terroir fundamentally shapes wine quality and regional typicity. This three-year (2021-2023) study investigated the flavor profiles of wines produced from Cabernet Sauvignon, Cabernet Franc, Marselan, Merlot, Malbec, Syrah, Petit Verdot, Dornfelder, and Pinot Noir grown in Manas, Xinjiang, China, combining HPLC-MS, GC-MS, sensory evaluation, and multivariate analyses. Dornfelder, Marselan, and Petit Verdot exhibited better color due to their highest concentrations of monomeric anthocyanins, flavonols, and anthocyanin derivatives, respectively. Pinot Noir wines showed the lowest monomeric anthocyanin levels, resulting in the palest color. Aroma varied significantly, with Marselan, Malbec, Syrah, Cabernet Franc, and Dornfelder showing elevated terpenes and norisoprenoids linked to their higher OAVs of fruity, floral and sweet. The PCA indicates cultivar as the primary driver of wine flavonoid profiles. This study provides critical insights for optimizing grape cultivar selection in the Manas region to enhance wine typicity and sustainability.",
+  "publication_date": "2025-06-13",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145096",
+  "entities": {
+    "FOOD": [
+      "grape cultivars",
+      "pinot noir wines",
+      "wine quality",
+      "wine typicity",
+      "wines"
+    ],
+    "POLYPHENOL": [
+      "grape cultivar selection",
+      "malbec",
+      "wine flavonoid profiles"
+    ]
+  }
+}

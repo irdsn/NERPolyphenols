@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "NMR-based Lavado cocoa chemical characterization and comparison with fermented cocoa varieties: Insights on cocoa's anti-amyloidogenic activity.",
+  "abstract": "The metabolic profile of Lavado cocoa was characterized for the first time by NMR spectroscopy, then compared with the profiles of fermented and processed varieties, Natural and commercial cocoa. The significant difference in the contents of theobromine and flavanols prompted us to examine the cocoa varieties to seek correlations between these metabolite concentrations and the anti-amyloidogenic activity reported for cocoa in the literature. We combined NMR spectroscopy, preparative reversed-phase (RP) chromatography, atomic force microscopy, in vitro biochemical and cell assays, to investigate and compare the anti-amyloidogenic properties of extracts and fractions enriched in different metabolite classes. Lavado variety was the most active and the catechins and theobromine were the chemical components of cocoa hindering A\u03b2 peptide on-pathway aggregation and toxicity in a human neuroblastoma SH-SY5Y cell line.",
+  "publication_date": "2020-10-01",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2020.128249",
+  "entities": {
+    "FOOD": [
+      "cocoa",
+      "lavado cocoa",
+      "natural and commercial cocoa",
+      "the cocoa varieties"
+    ],
+    "POLYPHENOL": [
+      "nmr spectroscopy",
+      "the catechins"
+    ]
+  }
+}

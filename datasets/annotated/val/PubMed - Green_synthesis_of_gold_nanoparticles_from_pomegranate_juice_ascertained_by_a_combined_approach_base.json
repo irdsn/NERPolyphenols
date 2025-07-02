@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Green synthesis of gold nanoparticles from pomegranate juice ascertained by a combined approach based on MALDI FT-ICR MS and LC-ESI-MS/MS.",
+  "abstract": "This research employs advanced analytical techniques to explore the specific roles of Pomegranate Juice (PJ) phytochemicals in both the reduction and stabilization of gold nanoparticles (AuNPs) obtained by means of juice from wasted fruits. A level 3 for classes annotation, used for MALDI FT ICR-MS data, was useful to provide an immediate visualization of the main involved metabolites in AuNPs synthesis, through van Krevelen diagrams. More than 25 elemental formulae containing at least one Au atom were assigned to AuNPs sample, confirming the formation of organogold complexes. LC-MS/MS analysis allowed a level 2 annotation of polyphenols and carbohydrates involved in metal reduction and AuNPs surface coating. This work highlights the potential of PJ in green nanoparticles synthesis, providing insights into the bioactive compounds responsible for the tunable characteristics of AuNPs.",
+  "publication_date": "2025-02-15",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.143427",
+  "entities": {
+    "POLYPHENOL": [
+      "advanced analytical techniques",
+      "polyphenols",
+      "the specific roles"
+    ],
+    "FOOD": [
+      "juice"
+    ]
+  }
+}

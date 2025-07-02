@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Integrative CYP450 and network pharmacology approach for the assessment of Corilagin's influence on Sitagliptin pharmacokinetics.",
+  "abstract": "Type 2 diabetes (T2D) is a complex metabolic disorder marked by elevated blood glucose levels and a high risk of cardiovascular complications. Sitagliptin (SIT), a widely prescribed Dipeptidyl Peptidase-4 (DPP-4) inhibitor, is commonly used for T2D and undergoes extensive metabolism primarily via CYP3A4. Corilagin (COR), a bioactive ellagitannin known for its antioxidant, anti-inflammatory, and anti-diabetic properties, is frequently used in traditional medicine but is not well-studied for its CYP450 metabolism. This study employed a network pharmacology and pharmacokinetics approach to evaluate COR's influence on SIT. A total of 45 overlapping anti-diabetic gene targets were identified, and pathway enrichment analysis highlighted insulin resistance, lipid metabolism, and HIF-1 signalling, among others, as potential therapeutic intersections. CYP3A4 and CYP2C8 inhibition assays showed IC50values of 2.815\u00a0\u00b5M and 0.645\u00a0\u00b5M for SIT, 4.277\u00a0\u00b5M and 0.470\u00a0\u00b5M for COR, and 3.999\u00a0\u00b5M and 0.389\u00a0\u00b5M for their combination, respectively. CYP3A4 inhibition assays showed IC50values of 2.815\u00a0\u00b5M for SIT, 4.277\u00a0\u00b5M for COR, and 3.999\u00a0\u00b5M for their combination, indicating COR's influence on SIT metabolism. These findings suggest that COR may alter SIT's pharmacokinetic profile via CYP3A4 modulation, warranting caution in their combined use to maintain therapeutic efficacy. A sensitive LC-MS-QTOF method was developed to quantify SIT and COR in rat plasma concurrently. Pharmacokinetic analysis revealed that COR co-administration significantly reduced SIT's bioavailability, decreasing Cmaxby 5.8-fold and AUC by 14.96-fold and prolonging t1/2by increasing 1.52-fold. This integrated approach provides insight into herb-drug interactions in diabetes treatment, emphasizing the need for tailored dosing strategies in clinical applications.",
+  "publication_date": "2025-04-24",
+  "journal": "Biochemical pharmacology",
+  "doi": "10.1016/j.bcp.2025.116960",
+  "entities": {
+    "SYMPTOM": [
+      "pathway enrichment analysis highlighted insulin resistance",
+      "type 2 diabetes"
+    ],
+    "POLYPHENOL": [
+      "potential therapeutic intersections"
+    ]
+  }
+}

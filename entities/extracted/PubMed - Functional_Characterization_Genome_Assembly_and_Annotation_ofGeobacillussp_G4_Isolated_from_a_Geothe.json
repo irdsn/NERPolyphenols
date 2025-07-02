@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Functional Characterization, Genome Assembly, and Annotation ofGeobacillussp. G4 Isolated from a Geothermal Field in Tacna, Peru.",
+  "abstract": "The genome ofGeobacillussp. G4, a thermophilic bacterium isolated from a geothermal field in Peru, was sequenced and analyzed to evaluate its taxonomic and biotechnological potential. This strain exhibits optimal growth at temperatures between 50 and 70 \u00b0C and at a pH range of 6.0-7.5. Phenotypic assays demonstrated extracellular enzymatic activities, including amylases, cellulases, pectinases, and xylanases, highlighting its potential for efficient polysaccharide degradation. The assembled genome comprises approximately 3.4 Mb with a G+C content of 52.59%, containing 3,490 genes, including coding sequences, rRNAs, and tRNAs. Functional annotation revealed genes associated with key metabolic pathways such as glycogen and trehalose biosynthesis, indicating adaptation to carbohydrate-rich environments. Phylogenetic analyses based on ANI and dDDH values identifiedGeobacillus thermoleovoransKCTC3570 as its closest relative, suggesting a strong evolutionary relationship. Additionally, the genome harbors gene clusters for secondary metabolites such as betalactone and fengycin, suggesting potential industrial and pharmaceutical applications, including bioremediation. The identification of antibiotic resistance genes, specifically those conferring glycopeptide resistance, underscores their relevance for antimicrobial resistance studies. The presence of enzymes like amylases and pullulanase further emphasizes its biotechnological potential, particularly in starch hydrolysis and biofuel production. Overall, this research highlights the significant potential ofGeobacillusspecies as valuable sources of thermostable enzymes and biosynthetic pathways for industrial applications.",
+  "publication_date": "2025-06-13",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13061374",
+  "entities": {
+    "POLYPHENOL": [
+      "its biotechnological potential",
+      "its taxonomic and biotechnological potential",
+      "pectinases",
+      "secondary metabolites",
+      "specifically those conferring glycopeptide resistance",
+      "the significant potential ofgeobacillusspecies"
+    ]
+  }
+}

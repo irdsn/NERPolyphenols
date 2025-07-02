@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Study on the synergistical effects of characteristic compounds in Osmanthus black tea against xanthine oxidase based on multispectral analysis combined with in silico studies.",
+  "abstract": "With the worldwide prevalence of hyperuricemia (HUA), safe and effective natural xanthine oxidase (XOD) inhibitors are in need. This research was aimed to reveal the promising XOD inhibitors in Osmanthus black tea. Here, the combination index (CI) values for TF3 and acteoside were below 0.9, confirming the synergistic inhibitory effects on XOD. Further research confirmed that TF3-acteoside was stronger in inducing static quenching of XOD fluorescence than TF3 or acteoside. Besides, the secondary structure of XOD was significant changed by TF3-acteoside, specifically a decrease in the content of \u03b1-Helix and random coil, accompanied by an increase in \u03b2-Sheet and \u03b2-Turn contents, ultimately its structural stability and rigidity was enhanced. Molecular docking and molecular dynamics simulation analysis verified that TF3-acteoside stably bound to XOD by multiple hydrogen bonds. This study will lay important theoretical basis for the advancement of novel XOD inhibitors and the application of osmanthus black tea in lowering uric acid (UA).",
+  "publication_date": "2025-03-26",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.142479",
+  "entities": {
+    "FOOD": [
+      "osmanthus black tea"
+    ],
+    "POLYPHENOL": [
+      "molecular docking",
+      "molecular dynamics simulation analysis",
+      "the secondary structure",
+      "the synergistic inhibitory effects"
+    ]
+  }
+}

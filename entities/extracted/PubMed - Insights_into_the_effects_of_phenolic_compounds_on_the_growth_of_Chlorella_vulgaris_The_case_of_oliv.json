@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Insights into the effects of phenolic compounds on the growth of Chlorella vulgaris: The case of olive mill wastewater.",
+  "abstract": "Olive mill wastewaters (OMWW) are characterized by a large concentration of pollutants, among which polyphenols represent a large part. This study investigated the effect of different dilutions of a culture medium enriched with olive-derived phenolic compounds on Chlorella vulgaris growth and its ability to degrade each one of them. In particular, polyphenols were precisely identified and quantified by HPLC-DAD analysis, showing high removal efficiency by C. vulgaris cells. Notably, in a 20\u00a0% (v/v) medium simulating OMWW, polyphenol reduction reached 83\u00a0%, and COD reduction was as high as 98\u00a0%, without compromising microalgae growth or biomass productivity. To further assess the scalability of this bioremediation strategy, the study also examined the performance of C. vulgaris cultivated in an unsterilized OMWW medium at the optimal concentration of 20\u00a0% (v/v). The results confirmed that the proposed process could be successfully implemented under non-sterile conditions, a crucial factor for transitioning to pilot and large-scale industrial applications, with the system maintaining a polyphenol degradation efficiency of over 75\u00a0% within 14\u00a0days. Overall, the proposed green and potentially cost-effective process is a sustainable solution for the degradation of phenolic compounds from OMWW and the management of such high-polluting waste.",
+  "publication_date": "2024-12-13",
+  "journal": "The Science of the total environment",
+  "doi": "10.1016/j.scitotenv.2024.177944",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenol degradation efficiency",
+      "olive-derived phenolic compounds",
+      "phenolic compounds",
+      "polyphenol reduction",
+      "polyphenols",
+      "the effect",
+      "the proposed green and potentially cost-effective process"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "A Review on Phytochemistry and Recent Pharmacology of Dragon's Blood (Croton lechleri), a Multifunctional Ethnomedicinal Resource from the Amazon Forest.",
+  "abstract": "Croton lechleri, commonly known as \"Sangre de Drago\", is a widely utilized ethnomedicinal resource in the Amazon region, known for its diverse bioactive properties. These include wound-healing activity, anti-inflammatory effects, antitumor activity, and other therapeutic benefits. Despite its extensive traditional use, a comprehensive review of the scientific studies conducted over the past two decades is lacking, which hinders a thorough understanding of the chemical and pharmacological characteristics of this species. Hence, this review is essential to inform researchers and readers about the current state of knowledge in this field. A systematic search was conducted using databases such as Scopus and Google Scholar, yielding 33 relevant articles focusing on the phytochemistry and recent pharmacological investigations ofC. lechleri. These studies identify proanthocyanidins as the predominant phytochemical group in terms of relative quantity. Additionally, other significant phytochemical groups include alkaloids, diterpenoids, phytosteroids, saponins, phenolics, and polyphenolics. The pharmacological studies reviewed highlight several potential therapeutic effects ofC. lechleri, particularly those associated with its resin. These effects include wound-healing, antitumor, anti-inflammatory, and gastrointestinal benefits, among others. The findings underscore the remarkable medicinal importance of this species, supporting its continued investigation and potential therapeutic applications.",
+  "publication_date": "2025-03-20",
+  "journal": "Planta medica",
+  "doi": "10.1055/a-2551-5681",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory effects",
+      "croton lechleri",
+      "ofc. lechleri",
+      "polyphenolics",
+      "proanthocyanidins",
+      "recent pharmacological investigations",
+      "several potential therapeutic effects",
+      "the past two decades",
+      "these effects",
+      "this species"
+    ]
+  }
+}

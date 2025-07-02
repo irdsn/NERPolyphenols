@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "A nanozyme colorimetric sensor combined with cloud-based machine learning algorithm-assisted WeChat mini program for intelligent identification of Chinese green tea.",
+  "abstract": "Green tea has become increasingly renowned among consumers by virtue of its exceptional flavor and high nutritional value. There is often a strong correlation between the varieties of green tea, quality and corresponding price. In this work, a simple and smart colorimetric sensor of peroxidase-like activity of AuNPs and cloud-based machine learning algorithm-assisted phone app was developed to rapidly identify Chinese green tea. A well-designed colorimetric sensor was proposed based on the tea component contents differences, and achieved 100\u00a0% combined with PLS-DA model in identification of Chinese green tea. The sensor exhibited a linear detection range of 0.01-0.3\u00a0mg/mL for tea polyphenols (TP) with a limit of detection (LOD) of 0.0076\u00a0mg/mL, demonstrating high sensitivity. Finally, cloud-based machine learning algorithm-assisted phone app was designed to intelligent identification of Chinese green tea. The smartphone app was capable of promptly and accurately recognizing Chinese green tea, achieving an accuracy rate of 97.9\u00a0%. This study lays the groundwork for a quick and dependable method to authenticate Chinese green tea, empowering the industry to counteract fraudulent activities more efficiently.",
+  "publication_date": "2025-05-18",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116668",
+  "entities": {
+    "FOOD": [
+      "chinese green tea",
+      "green tea"
+    ],
+    "POLYPHENOL": [
+      "a linear detection range",
+      "detection",
+      "tea polyphenols"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Anticancer efficacy of dual-loaded SLNs with Doxorubicin (DOX) and Pterostilbene (PTS): formulation, characterization, and evaluation for breast cancer.",
+  "abstract": "This study aimed to develop optimized doxorubicin (DOX) and pterostilbene (PTS) co-loaded solid lipid nanoparticles (SLNs) for synergistic triple-negative breast cancer (TNBC) therapy, enhancing drug stability, tumor targeting, and therapeutic efficacy.",
+  "publication_date": "2025-05-06",
+  "journal": "Nanomedicine (London, England)",
+  "doi": "10.1080/17435889.2025.2501526",
+  "entities": {
+    "POLYPHENOL": [
+      "pterostilbene"
+    ],
+    "SYMPTOM": [
+      "synergistic triple-negative breast cancer"
+    ]
+  }
+}

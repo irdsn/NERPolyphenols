@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Multi-Omics and Experimental Validation Reveal Anti-HCC Mechanisms of Tibetan Liuwei Muxiang Pill and Quercetin.",
+  "abstract": "Background: Hepatocellular carcinoma (HCC) remains a significant therapeutic challenge due to its complex molecular mechanisms and limited effective treatments. Although the Tibetan medicine Liuwei Muxiang Pill (LWMX) has shown efficacy in gastric and colorectal cancer, no study has yet demonstrated its potential anti-HCC activity. Objective: To evaluate the therapeutic effects of LWMX on HCC.Methods: Integrating network pharmacology, high-resolution mass spectrometry, machine learning, and molecular dynamics simulations, combined with in vitro experiments for mechanism validation. Results: The study identified (Checkpoint kinase 1) CHK1 as a key target of LWMX in HCC regulation and confirmed that quercetin can form a stable complex with CHK1. In vitro experiments demonstrated that LWMX and its active component quercetin significantly inhibit the proliferation and migration of HCC cells.Conclusions: The study establishes CHK1 as a key therapeutic target, confirming the potential of LWMX and its core component quercetin in the treatment of HCC.",
+  "publication_date": "2025-06-16",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18060900"
+}

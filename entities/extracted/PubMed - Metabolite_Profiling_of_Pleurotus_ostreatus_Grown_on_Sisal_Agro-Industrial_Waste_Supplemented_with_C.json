@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Metabolite Profiling of Pleurotus ostreatus Grown on Sisal Agro-Industrial Waste Supplemented with Cocoa Almond Tegument and Wheat Bran.",
+  "abstract": "Pleurotus ostreatus is an edible fungus with high nutritional value that uses industrial and agricultural lignocellulosic residues as substrates for growth and reproduction. Understanding their growth metabolic dynamics on agro-industrial wastes would help to develop economically viable and eco-friendly biotechnological strategies for food production. Thus, we used UHPLC/MS/MS and GNPS as an innovative approach to investigate the chemical composition of two strains of P. ostreatus, coded as BH (Black Hirataki) and WH (White Hirataki), grown on sisal waste mixture (SW) supplemented with 20\u2009% cocoa almond tegument (CAT) or 20\u2009% of wheat bran (WB). Metabolite dereplication allowed the identification of 53 metabolites, which included glycerophospholipids, fatty acids, monoacylglycerols, steroids, carbohydrates, amino acids, and flavonoids. This is the first report of the identification of these compounds in P. ostreatus, except for the steroid ergosterol. Most of the metabolites described in this work possess potential biological activities, which support the nutraceutical properties of P. ostreatus. Thus, the results of this study provide essential leads to the understanding of white-rot fungi chemical plasticity aiming at developing alternative biotechnologies strategies for waste recycling.",
+  "publication_date": "2023-08-14",
+  "journal": "Chemistry & biodiversity",
+  "doi": "10.1002/cbdv.202300346",
+  "entities": {
+    "POLYPHENOL": [
+      "alternative biotechnologies strategies",
+      "economically viable and eco-friendly biotechnological strategies",
+      "flavonoids",
+      "waste recycling"
+    ],
+    "FOOD": [
+      "20\u2009% cocoa almond tegument",
+      "wheat bran"
+    ]
+  }
+}

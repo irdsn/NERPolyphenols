@@ -1,0 +1,35 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Comparative Evaluation of Secondary Metabolite Chemodiversity ofCitrusGenebank Collection in Greece: Can the Peel be More than Waste?",
+  "abstract": "Citrusfruits are among the most economically important crops in the world. In the global market, the Citrus peel is often considered a byproduct but substitutes an important phenotypic characteristic of the fruit and a valuable source of essential oils, flavonoids, carotenoids, and phenolic acids with variable concentrations. The Mediterranean basin is a particularly dense area of autochthonous genotypes ofCitrusthat are known for being a source of healthy foods, which can be repertoires of valuable genes for molecular breeding with the focus on plant resistance and quality improvement. The scope of this study was to characterize and compare the main phenotypic parameters (i.e., peel thickness, fruit volume, and area) and levels of bioactive compounds in the peel of fruits from the local germplasm ofCitrusin Greece, to assess their chemodiversity regarding their polyphenolic, volatile, and carotenoid profiles. A targeted liquid chromatographic approach revealed hesperidin, tangeretin, narirutin, eriocitrin, and quercetin glycosides as the major polyphenolic compounds identified in orange, lemon, and mandarin peels. The content of tangeretin and narirutin followed the tendency mandarin > orange > lemon. Eriocitrin was a predominant metabolite of lemon peel, following its identification in lower amounts in mandarin and at least in the orange peel. For these citrus-specific metabolites, high intra- but also interspecies chemodiversity was monitored. Significant diversity was found in the essential oil content, which varied between 1.2 and 3% in orange, 0.2 and 1.4% in mandarin, and 0.9 and 1.9% in lemon peel. Limonene was the predominant compound in allCitrusspecies peel essential oils, ranging between 88 and 93% among the orange, 64 and 93% in mandarin, and 55 and 63% in lemon cultivars. Carotenoid analysis revealed different compositions among theCitrusspecies and accessions studied, with \u03b2-cryptoxanthin being the most predominant metabolite. This large-scale metabolic investigation will enhance the knowledge ofCitruspeel secondary metabolite chemodiversity supported by the ample availability ofCitrusgenetic resources to further expand their exploitation in future breeding programs and potential applications in the global functional food and pharmaceutical industries.",
+  "publication_date": "2024-04-13",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c00486",
+  "entities": {
+    "POLYPHENOL": [
+      "allcitrusspecies peel essential oils",
+      "flavonoids",
+      "interspecies chemodiversity",
+      "molecular breeding",
+      "narirutin",
+      "quercetin glycosides",
+      "secondary metabolite chemodiversity",
+      "the local germplasm ofcitrusin greece",
+      "the major polyphenolic compounds",
+      "the most economically important crops",
+      "thecitrusspecies",
+      "their polyphenolic, volatile, and carotenoid profiles",
+      "these citrus-specific metabolites"
+    ],
+    "FOOD": [
+      "lemon",
+      "lemon cultivars",
+      "lemon peel",
+      "orange",
+      "the global functional food and pharmaceutical industries",
+      "the orange",
+      "the orange peel"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Therapeutic potential of fisetin in hepatic steatosis: Insights into autophagy pathway regulation and endoplasmic reticulum stress alleviation in high-fat diet-fed mice.",
+  "abstract": "Non-alcoholic fatty liver disease (NAFLD) is a common condition with limited FDA-approved treatments due to its complex pathogenesis. Metabolic stress-induced lipotoxicity triggers the unfolded protein response, leading to the development of NAFLD through inflammation and apoptosis. Moreover, metabolic dysregulation compromises autophagic capacity, impairing effective ERphagy and lipophagy in the liver. Fisetin (FSN), a flavonoid present in various fruits and vegetables, has demonstrated the ability to regulate the processes mentioned above and possesses a range of biological properties. In this study using a high-fat diet-induced NAFLD mouse model, treatment with FSN at a dosage of 80 mg/kg per day for eight weeks resulted in reduced hepatic lipid accumulation. This effect was mediated by modulating ER stress through enhancing autophagic activity, as indicated by decreased expression of GRP78, elf2a, ATF4, and CHOP genes, along with increased AMPK phosphorylation, decreased mTOR expression, and elevated levels of ULK1, ATG5, and Beclin1. Additionally, there was an increase in the LCII/LC3I ratio and a reduction in p62 levels in hepatic tissue. Our findings suggest that FSN exerts its effects by activating the AMPK/mTOR signaling pathway and its downstream targets, underscoring its potential therapeutic advantages in managing NAFLD by targeting autophagy and ER stress pathways.",
+  "publication_date": "2025-05-22",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0322335"
+}

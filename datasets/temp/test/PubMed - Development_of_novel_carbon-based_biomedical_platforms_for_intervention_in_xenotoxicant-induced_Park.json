@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Development of novel carbon-based biomedical platforms for intervention in xenotoxicant-induced Parkinson's disease onset.",
+  "abstract": "Chronic exposure to herbicides, weedicides, and pesticides is associated with the onset and progress of neurodegenerative disorders such as Parkinson's disease (PD), Alzheimer's disease (AD), and Amyotrophic Lateral Sclerosis (ALS). Here, we have investigated whether quinic- and chlorogenic-acid-derived Carbon Quantum Dots (QACQDs and ChACQDs, respectively) protect against a (pesticide) paraquat-insult model of PD. Our results indicated that both types of CQDs intervened in the soluble-to-toxic transformation of the amyloid-forming model protein Hen Egg White Lysozyme (HEWL). Furthermore, QACQDs and ChACQDs demonstrated antioxidant activity while remaining biocompatible in a human neuroblastoma-derived cell line (SH-SY5Y) up to 5 mg/ml and protected the cell line from the environmental neurotoxicant (paraquat). Importantly, both CQDs were found to protect dopaminergic neuronal ablation in a paraquat model of Parkinson's disease using the nematodeC.elegans. Our results are significant because both plant-derived organic acids cross the blood-brain barrier, making them attractive for developing CQD architectures. Furthermore, since the synthesis of these CQDs was performed using green chemistry methods from precursor acids that cross the BBB, these engineered bionanomaterial platforms are tantalizing candidates for preventing neurodegenerative disorders associated with exposure to environmental neurotoxicants.",
+  "publication_date": "2024-01-27",
+  "journal": "BMEmat",
+  "doi": "10.1002/bmm2.12072"
+}

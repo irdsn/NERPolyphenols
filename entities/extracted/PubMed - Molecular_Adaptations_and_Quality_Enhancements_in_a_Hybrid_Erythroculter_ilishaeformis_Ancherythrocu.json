@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Molecular Adaptations and Quality Enhancements in a Hybrid (Erythroculter ilishaeformis\u2640 \u00d7Ancherythroculter nigrocauda\u2642) Cultured in Saline-Alkali Water.",
+  "abstract": "Declining freshwater resources have spurred interest in saline-alkali (SA) water aquaculture, with species like tilapia and rainbow trout demonstrating ecological plasticity in such environments. However, the molecular mechanisms underlying fish adaptation and quality impacts remain unclear. This study investigated the hybrid fish \"Xianfeng No. 1\" (Erythroculter ilishaeformis\u00d7Ancherythroculter nigrocauda), a key aquaculture species in China, under 60-day SA exposure. The results showed increased levels of oxidative stress markers (MDA) and antioxidant enzymes (SOD, CAT, GSH-Px), alongside improved quality traits. Transcriptomics revealed differentially expressed genes (DEGs) in muscle tissue associated with oxidative stress (UQCRFS1,UQCR10,CYC1), ion transport (COX5A,COX7C,COX7B), and the immune response (ATG9A,ATG2B,ATG2A,ULK1,ULK2,CFI, CFH). Metabolomics identified increased non-volatile flavors (e.g., glycine, proline) and collagen-related compounds. Integrated analysis highlighted the upregulation ofGSRandGGT, and the downregulation ofCHDHandGBSA, potentially driving glycine accumulation. These findings suggest that SA stress enhances antioxidant capacity, activates immune pathways, and modulates ion transport, enabling adaptation while improving meat quality. This study elucidates molecular mechanisms of fish acclimation to SA environments, providing insights for sustainable aquaculture development and breeding of stress-tolerant species in SA regions.",
+  "publication_date": "2025-06-18",
+  "journal": "Biology",
+  "doi": "10.3390/biology14060718",
+  "entities": {
+    "POLYPHENOL": [
+      "a key aquaculture species",
+      "declining freshwater resources",
+      "ecological plasticity",
+      "molecular mechanisms",
+      "species",
+      "stress-tolerant species",
+      "the molecular mechanisms"
+    ],
+    "SYMPTOM": [
+      "oxidative stress",
+      "oxidative stress markers",
+      "sa stress"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Study of red vine phenotypic plasticity across central-southern Italy sites: an integrated analysis of the transcriptome and weather indices through WGCNA.",
+  "abstract": "The grapevine (Vitisspp., familyVitaceae) is characterized by marked phenotypic plasticity. Its ability to withstand specific environmental conditions depends on the activation of highly coordinated responses resulting from interactions among genotypes (G) and environmental factors (E). In this study, the transcriptomes of commercially ripe berries of the Cabernet Sauvignon and Aglianico genotypes grown in open fields at three different sites in central-southern Italy (Campania, Molise and Sicily) were analyzed with RNA sequencing. These transcriptomic data were integrated with a comprehensive set of weather course indices through weighted gene co-expression network analysis (WGCNA). A total of 11,887 differentially expressed genes (DEGs) were retrieved, most of which were associated with the Aglianico genotype. The plants from the Sicilian site presented the greatest number of DEGs for both genotypes. Most of the weather course data (daily maximum air temperature, relative humidity, air pressure, dew point, and hours of sun radiation) were significantly correlated with the \"lightcyan1\" module, confirming WGCNA as a powerful method for identifying genes of high biological interest. Within this module, the gene encoding the ACA10 cation transporter was highly expressed in plants of both genotypes from Campania, where the lowest anthocyanin content was recorded. The transcriptome was also correlated with quality traits, such as total soluble solids and polyphenol content. This approach could lead to the identification of a transcriptomic profile that may specifically identify a genotype and its growing site and to the discovery of hub genes that might function as markers of wine quality.",
+  "publication_date": "2024-11-11",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2024.1498649",
+  "entities": {
+    "FOOD": [
+      "the grapevine",
+      "wine quality"
+    ],
+    "POLYPHENOL": [
+      "polyphenol content",
+      "specific environmental conditions"
+    ]
+  }
+}

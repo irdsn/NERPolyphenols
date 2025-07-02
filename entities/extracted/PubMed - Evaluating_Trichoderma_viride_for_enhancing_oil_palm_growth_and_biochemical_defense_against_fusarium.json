@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Evaluating Trichoderma viride for enhancing oil palm growth and biochemical defense against fusarium wilt caused by Fusarium oxysporum f. sp. elaeidis.",
+  "abstract": "This work aimed to evaluate the antagonist effect of Trichoderma viride against Fusarium oxysporum and its ability to promote growth and resistance defence of oil palm. The antagonistic effect of T. viride was tested by paired culture, cellophane plate, and micro-atmosphere methods. In the nursery, 30-day-old oil palm plants were inoculated with T. viride, and 30\u00a0days after growing, the roots of plants were infected with the spores of Fusarium oxysporum. Ninety days after infection, plants were harvested, and a series of morphological (height, fresh root and shoot) and biochemical changes (total chlorophyll, phenol compounds, soluble proteins and oxidative enzymes), which are considered to be part of the plant defence response, were evaluated. Results showed that, in dual culture, T. viride significantly reduced mycelial growth of Fusarium oxysporum and released non-volatile and volatile compounds that inhibited the pathogen. In the nursery, there was a significant reduction in disease impact (severity index and incidence) in oil palm inoculated with T. viride and infected with Fusarium oxysporum. A significant increase in plant root and shoot fresh weights, as well as chlorophyll, soluble proteins, and phenol content, was noticed in comparison with non-inoculated control plants. A significant increase in peroxidase, polyphenol oxidase, and phenylalanine ammonia lyase activities was recorded in inoculated and infected plants, compared to control. There was a significant and positive correlation between disease incidence and the activity of these oxidative enzymes. These findings suggest that these compounds play a vital role in plant defence. T. viride could serve as a biological agent to manage vascular wilt in oil palm. However, analysis of its effects on mass production and field application is needed.",
+  "publication_date": "2025-05-27",
+  "journal": "Folia microbiologica",
+  "doi": "10.1007/s12223-025-01273-5",
+  "entities": {
+    "POLYPHENOL": [
+      "infection",
+      "inoculated and infected plants",
+      "its effects",
+      "polyphenol oxidase",
+      "the antagonist effect",
+      "the antagonistic effect"
+    ]
+  }
+}

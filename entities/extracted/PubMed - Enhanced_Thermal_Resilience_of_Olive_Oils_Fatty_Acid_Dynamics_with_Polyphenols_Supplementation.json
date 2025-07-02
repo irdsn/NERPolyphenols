@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Enhanced Thermal Resilience of Olive Oils: Fatty Acid Dynamics with Polyphenols Supplementation.",
+  "abstract": "This study investigates the impact of hydroxytyrosol (HTyr) supplementation on the fatty acid profiles and oxidative stability of various extra virgin olive oil (EVOO) cultivars and other edible oils during prolonged deep-frying. EVOO cultivars including Picual, Cornicabra, Empeltre, Arbequina, Hojiblanca, Manzanilla, Royuela, Koroneiki, and Arbosana were analyzed alongside two sunflower oils and three refined olive oils under thermal stress at 170-210 \u00b0C for 3-6 h. HTyr consistently preserved monounsaturated fatty acids (MUFAs), particularly oleic acid (C18:1), while significantly reducing the degradation of polyunsaturated (PUFAs) and saturated fatty acids (SFAs) (p< 0.05) in many oil samples; for example, in olive oil \u00b01, TMUFAs in Exp 1 revealed 7.28%, while in Exp 5 (with HTyr), TMUFAs increased to 7.47%. In olive oil \u00b00.4, TMUFAs increased from 8.52% in Exp 1 to 9.17% in Exp 5. Additionally, In EVOO cv. Picual, total SFAs increased slightly, from 16.58% in Exp 1 to 16.96%, in Exp 5. Notably, total MUFA content (TMUFAs) was best preserved in Manzanilla (81.92%), followed by Hojiblanca (78.52%), Empeltre (78.09%), olive oil 1\u00b0 (78.20%), Koroneiki (77.60%), and Arbosana (77.01%) (p< 0.05), indicating strong oxidative resistance. In Arbequina and Royuela oils, oleic acid retention also exceeded 76% after deep-frying. HTyr helped maintain fatty acid profiles within EU regulatory limits across most cultivars, despite minor exceedances in specific SFAs, such as lignoceric acid (C24:0), likely due to varietal traits or harvest timing. Principal component analysis (PCA) revealed distinct clustering patterns: sunflower oils grouped around linoleic acid (C18:2), reflecting high PUFA content, while olive oils clustered near oleic and palmitic acids. Cultivars such as Picual, Empeltre, Manzanilla, and Royuela showed unique associations with lignoceric acid, supporting the use of fatty acid profiles as cultivar-specific markers. HTyr supplementation enhanced oxidative stability and quality retention across oil types in terms of fatty acids profile, corroborating previous findings on the resilience of polyphenol-rich EVOOs under thermal stress. Furthermore, fatty acid composition varied significantly according to cultivar, HTyr, and deep-frying (p< 0.05), highlighting the complexity of oil quality determinants. This study supports the application of HTyr as a natural antioxidant to improve thermal stability and nutritional quality, not only in olive oils but also in other edible oils. These findings promote sustainable practices aligned with circular economy principles and advance the understanding of fatty acid dynamics during deep-frying. HTyr-enriched oils present promising potential in both culinary and industrial contexts.",
+  "publication_date": "2025-06-13",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14122085",
+  "entities": {
+    "FOOD": [
+      "olive oil",
+      "olive oils",
+      "sunflower oils",
+      "three refined olive oils",
+      "two sunflower oils"
+    ],
+    "SYMPTOM": [
+      "thermal stress"
+    ],
+    "POLYPHENOL": [
+      "circular economy principles",
+      "cultivar-specific markers",
+      "polyphenol-rich evoos",
+      "specific sfas"
+    ]
+  }
+}

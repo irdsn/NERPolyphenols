@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Synthetic and Natural Red Food Dyes Affect Oxidative Metabolism and the Redox State in the Nauplii of Brine ShrimpArtemia franciscana.",
+  "abstract": "The food industry widely uses dyes from animal and plant sources, but their discharge into water bodies can harm aquatic animals. Red food dyes increase reactive oxygen species (ROS) production, disrupting redox homeostasis inArtemia franciscananauplii, although the underlying mechanisms are unclear. In this study, we exposedArtemia franciscanacysts for 48 h to three different red dyes: E124 (synthetic), E120 (animal-based) or Vegan red (plant-based) and evaluated the oxidative metabolism and redox status in the hatched nauplii. Only E120 and VEG increased oxygen consumption. E124 and VEG increased mitochondrial Complex I activity, while all dyes enhanced the activity of Complex III. The levels of reactive oxygen species (ROS) and NADPH oxidase activity were increased by all red dyes. E120 and E124 increased antioxidant enzyme activity to a greater extent than VEG. Additionally, only E120 and E124 increased total antioxidant capacity. Nevertheless, E124 exposure induced redox imbalance (increased lipid and protein oxidative damage). Our data, as a whole, allow us to conclude that red dyes can influence the oxidative capacity and redox state ofArtemia franciscananauplii with more harmful effects in the presence of E124, thus drawing attention to their potentially severe influence on aquatic life.",
+  "publication_date": "2025-05-25",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060634",
+  "entities": {
+    "POLYPHENOL": [
+      "more harmful effects",
+      "reactive oxygen species",
+      "reactive oxygen species (ros) production",
+      "the underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "protein oxidative damage"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Effect of oral treatment with quercetin on inflammatory and oxidative stress markers in patients with chronic obstructive pulmonary disease.",
+  "abstract": "Airway inflammation plays a major role in the development and progression of chronic obstructive pulmonary disease (COPD). Quercetin, which has potent antioxidant and anti-inflammatory properties reduces lung inflammation in mice displaying COPD-like lung disease. Previously we showed that quercetin was safely tolerated up to 2000 mg/day. We conducted a pilot Phase II clinical trial to examine the effects of quercetin on inflammation in COPD patients.",
+  "publication_date": "2025-05-05",
+  "journal": "Pharmacological research. Natural products",
+  "doi": "10.1016/j.prenap.2025.100252",
+  "entities": {
+    "SYMPTOM": [
+      "airway inflammation",
+      "inflammation",
+      "lung inflammation"
+    ],
+    "POLYPHENOL": [
+      "quercetin",
+      "the effects"
+    ]
+  }
+}

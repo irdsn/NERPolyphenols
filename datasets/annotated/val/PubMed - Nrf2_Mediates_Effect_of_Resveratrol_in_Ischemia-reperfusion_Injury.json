@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Nrf2 Mediates Effect of Resveratrol in Ischemia-reperfusion Injury.",
+  "abstract": "Ischemia-Reperfusion Injury (IRI) is a paradoxical phenomenon where removing the source of injury can cause additional damage. Ischemia reduces ATP production and intracellular pH, reducing oxidative reactions, increasing lactic acid release, and activating anaerobic metabolism. Reperfusion restores aerobic respiration and increases ROS production, leading to malfunction of transmembrane transport, activation of proteases, DNA dissolution, and protein denaturation, leading to apoptotic cell death. Nrf2 is a transcription factor that regulates cellular inflammation and oxidative responses. It is activated by oxidants and electrophiles and enhances detoxifying enzyme expression, maintaining redox homeostasis. It also activates ARE, which activates several ARE-regulated genes that favor cell survival by exhibiting resistance to oxidants and electrophiles. Nrf2 regulates the antioxidant defense system by producing phase II and antioxidant defense enzymes, including HO-1, NQO-1, gglutamylcysteine synthetase, and rate-limiting enzymes for glutathione synthesis. Nrf2 protects mitochondria from damage and supports mitochondrial function in stress conditions. Resveratrol is a stilbene-based compound with a wide variety of health benefits for humans, including antioxidant, anticarcinogenic, antitumor, and estrogenic/antiestrogenic. Resveratrol protects against IRI through several signaling pathways, including the Nrf2/ARE pathway. Here, we review the studies that investigated the mechanisms of resveratrol protection against IRI through modulation of the Nrf2 signaling pathway.",
+  "publication_date": "2024-02-01",
+  "journal": "Current molecular pharmacology",
+  "doi": "10.2174/0118761429246578231130064830",
+  "entities": {
+    "SYMPTOM": [
+      "apoptotic cell death",
+      "cellular inflammation",
+      "stress conditions"
+    ],
+    "POLYPHENOL": [
+      "electrophiles",
+      "resveratrol",
+      "resveratrol protection",
+      "the mechanisms"
+    ]
+  }
+}

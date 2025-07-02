@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "UVC-Intense Exoplanets May Not Be Uninhabitable: Evidence from a Desert Lichen.",
+  "abstract": "Many of the recently discovered Earth-like exoplanets are hosted by M and F stars, stars that emit intense UVC, especially during a flare. We studied whether such planets are nevertheless habitable by irradiating a desert lichen,Clavascidium lacinulatum,with 254-nm 55 W/m2UVC nonstop for 3 months in the laboratory. Only 50% of its algal photobiont cells were inactivated. To put this in perspective, we used the same setup to challenge the photobiont cells but grown in pure culture, andDeinococcus radiodurans, the most radiation-resistant bacterium on Earth. Entire monolayers of hundreds of cells were inactivated in just 60 s. Further studies indicated that the cortex of the lichen was rendered UVC-opaque by deposits of phenolic secondary metabolites in its interstices. The lichen was injured only because, while most photochemical reactive oxygen species were quenched, photochemical ozone was not. We conclude that UVC-intense exoplanets are not necessarily uninhabitable to photosynthetic organisms.",
+  "publication_date": "2025-06-01",
+  "journal": "Astrobiology",
+  "doi": "10.1089/ast.2024.0137",
+  "entities": {
+    "POLYPHENOL": [
+      "most photochemical reactive oxygen species",
+      "perspective",
+      "phenolic secondary metabolites",
+      "the recently discovered earth-like exoplanets"
+    ]
+  }
+}

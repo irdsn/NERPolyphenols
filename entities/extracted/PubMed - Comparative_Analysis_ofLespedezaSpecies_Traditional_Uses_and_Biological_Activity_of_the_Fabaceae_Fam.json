@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Comparative Analysis ofLespedezaSpecies: Traditional Uses and Biological Activity of the Fabaceae Family.",
+  "abstract": "With around 40 species spread throughout temperate and subtropical environments, mostly in East Asia and North America, the genusLespedeza(Fabaceae) includes a variety of species that have been used in traditional folk medicine for centuries. Particularly in antioxidant, anti-inflammatory, anticancer, and antidiabetic applications,Lespedezaspecies show notable pharmacological promise, due in large part to their high polyphenolic content. With a 2,2-diphenyl-1-picrylhydrazyl (DPPH) IC50 of 20-25 \u00b5g/mL and a ferric ion reducing antioxidant power (FRAP) value of 819.5 \u00b5mol Fe2+/g,L. cuneatademonstrated the highest antioxidant activity among the threeLespedezaspecies. The rich polyphenolic profile includes quercetin, catechin, rutin, and special substances like lespeflorin B/C and lespecunioside A/B, which explain its efficacy. Its broad-spectrum action across DPPH, 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) (ABTS), and nitric oxide (NO) tests points to its importance for neuroprotective and anti-aging uses. Anti-inflammatory studies support its capacity to downregulate tumor necrosis factor (TNF-\u03b1) and interleukin 6 (IL-6) via nuclear factor kappa-light-chain-enhancer of activated B cells (NF-\u03baB) suppression.L. bicolorhas shown excellent promise, owing to its high total flavonoid content (109.2 mg QE/g) and presence of bioactives including kaempferol-3-O-rutinoside and xanthoangelol, albeit displaying somewhat lower antioxidant capacity (FRAP: 912.3 \u00b5mol Fe2+/g). In macrophage models it showed clear anti-inflammatory action. Its capacity to prevent advanced glycation end products' (AGEs) generation ties it to possible antidiabetic and antiaging effects. Although it showed the worst antioxidant profile (IC50: 40-60 \u00b5g/mL; FRAP: 743.2 \u00b5mol Fe2+/g),L. capitatanonetheless had useful components like quercetin, chlorogenic acid, and lespedecapitoside (syn. isoorientin). Though little researched, they have modest antioxidant, nephroprotective, and anti-inflammatory action.",
+  "publication_date": "2025-04-30",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30092013",
+  "entities": {
+    "POLYPHENOL": [
+      "around 40 species",
+      "catechin",
+      "chlorogenic acid",
+      "its broad-spectrum action",
+      "its high total flavonoid content",
+      "kaempferol-3",
+      "lespecunioside a/b",
+      "lespedecapitoside",
+      "lespedezaspecies",
+      "modest antioxidant, nephroprotective, and anti-inflammatory action",
+      "neuroprotective and anti-aging uses",
+      "possible antidiabetic and antiaging effects",
+      "quercetin",
+      "rutin",
+      "special substances",
+      "species",
+      "the rich polyphenolic profile",
+      "the threelespedezaspecies",
+      "their high polyphenolic content",
+      "tumor necrosis factor"
+    ]
+  }
+}

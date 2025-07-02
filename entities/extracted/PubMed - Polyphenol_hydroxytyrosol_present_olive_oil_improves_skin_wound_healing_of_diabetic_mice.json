@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Polyphenol hydroxytyrosol present olive oil improves skin wound healing of diabetic mice.",
+  "abstract": "The imbalance in oxidant production and chronic inflammation are the main mechanisms that lead to the detrimental effects of diabetes on skin wound healing. Thus, administration of antioxidants could improve diabetic wound healing. This study aimed to understand the effects of extra virgin olive oil (EVOO) or hydroxytyrosol (HT) in skin wound healing under diabetic conditions. Skin wounds in streptozotocin-induced diabetic mice were topically treated with HT. Some diabetic animals were fed with a diet rich in EVOO. Wounds were harvested 7\u2009days later. In in vitro assays, fibroblasts and macrophages were treated with high levels of glucose and HT. The EVOO or HT promoted wound closure and collagen deposition in diabetic mouse wounds. The EVOO or HT reduced the number of infiltrated neutrophils, tumour necrosis factor-\u03b1, lipid peroxidation, and nuclear factor erythroid 2-related factor 2 in diabetic mouse wounds. The EVOO or HT also increased the number of macrophages with anti-inflammatory phenotype and interleukin-10 in diabetic mouse wounds. In the in vitro assays, HT promoted the fibroblast migration, collagen gel contraction, and switched macrophages to an anti-inflammatory phenotype under high glucose conditions. In conclusion, the diet supplementation with EVOO or topical application of HT promotes skin wound healing under diabetic conditions and can be a possible therapeutic tool for the treatment of those lesions.",
+  "publication_date": "2024-09-03",
+  "journal": "Wound repair and regeneration : official publication of the Wound Healing Society [and] the European Tissue Repair Society",
+  "doi": "10.1111/wrr.13217",
+  "entities": {
+    "SYMPTOM": [
+      "chronic inflammation"
+    ],
+    "POLYPHENOL": [
+      "the detrimental effects",
+      "the effects",
+      "the main mechanisms",
+      "tumour necrosis factor"
+    ],
+    "FOOD": [
+      "extra virgin olive oil"
+    ]
+  }
+}

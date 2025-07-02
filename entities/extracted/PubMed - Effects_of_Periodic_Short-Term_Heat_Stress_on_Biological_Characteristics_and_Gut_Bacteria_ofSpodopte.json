@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Effects of Periodic Short-Term Heat Stress on Biological Characteristics and Gut Bacteria ofSpodoptera frugiperda.",
+  "abstract": "In this study, the migratory agricultural pestSpodoptera frugiperdawas exposed to three periodic short-term heat stress regimes at 37 \u00b0C, 40 \u00b0C, and 43 \u00b0C (2 h daily), with a constant 26 \u00b0C control. We systematically evaluated the effects of periodic thermal stress on developmental traits across all life stages. Combined with 16S rRNA high-throughput sequencing, we analyzed the structural and functional characteristics of the gut bacterial community in adults under heat stress. The results demonstrated that 37 \u00b0C exposure accelerated egg-to-adult development, whereas 43 \u00b0C markedly extended it. Additionally, 43 \u00b0C heat stress suppressed pupation and eclosion rates. Increasing stress temperatures were negatively correlated with pupal weight and body size in both sexes. Notably, 43 \u00b0C heat stress caused complete loss of hatching ability in offspring eggs, thereby rendering population reproduction unattainable. 16S rRNA sequencing revealed that Proteobacteria (>90%) dominated the gut bacterial community at the phylum level across all treatments. Under 43 \u00b0C heat stress, although female and male adults exhibited an increase in specific bacterial species within their gut bacteria, Alpha diversity analysis revealed no significant differences in the diversity (Shannon index) and richness (Chao index) of gut bacterial communities between sexes under temperature treatments. PICRUSt2 functional prediction indicated that metabolic pathways, biosynthesis of secondary metabolites, and microbial metabolism in diverse environments constituted the dominant functions of gut bacteria in both sexes, while heat stress exerted minimal effects on the functional profiles of gut bacteria inS. frugiperda. These findings not only provide a theoretical basis for predicting summer population dynamics and formulating ecological control strategies forS. frugiperdabut also offer critical insights into the adaptive interactions between this pest and its gut bacterial community under heat stress. The results lay a foundation for further exploring the interactions between insect environmental adaptability and bacterial symbiosis.",
+  "publication_date": "2025-06-01",
+  "journal": "Insects",
+  "doi": "10.3390/insects16060584",
+  "entities": {
+    "SYMPTOM": [
+      "43 \u00b0c heat stress",
+      "heat stress",
+      "increasing stress temperatures",
+      "periodic thermal stress",
+      "three periodic short-term heat stress regimes"
+    ],
+    "POLYPHENOL": [
+      "formulating ecological control strategies",
+      "insect environmental adaptability",
+      "minimal effects",
+      "pupation and eclosion rates",
+      "secondary metabolites",
+      "specific bacterial species",
+      "the effects"
+    ]
+  }
+}

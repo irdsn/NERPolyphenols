@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Exploring the Characterization, Physicochemical Properties, and Antioxidant Activities of Chitosan-Encapsulated Green Tea Extract Microsphere Resin.",
+  "abstract": "Chitosan, a naturally occurring alkaline polysaccharide with excellent biocompatibility, non-toxicity, and renewability, has the ability to undergo cross-linking reactions with polyphenolic compounds. In this study, chitosan-encapsulated green tea extract microsphere resin (CS-GTEMR) was successfully prepared using chitosan and green tea extract via reversed-phase suspension cross-linking polymerization. The structural characterization of CS-GTEMR was conducted using Fourier Transform Infrared Spectroscopy (FTIR) and Differential Scanning Calorimetry (DSC). Additionally, its physical properties, swelling behavior, polyphenol content, and antioxidant activities were investigated. The results indicate that CS-GTEMR consists of reddish-brown microspheres with a smooth surface and dense pores. The study found that the total content of polyphenolic compounds encapsulated in CS-GTEMR was 50.485 \u00b1 0.840 \u03bcg/g. The characteristic absorption peak of phenolic hydroxyl groups appeared in the FTIR spectrum, suggesting that the polyphenolic compounds had been successfully encapsulated within the CS-GTEMR. The equilibrium swelling ratio of CS-GTEMR was determined to be 229.7%, indicating their suitability for use in solutions with a pH range of 1-13. In simulated gastric and intestinal fluids, the release rates of polyphenolic compounds from CS-GTEMR were 24.934% and 3.375%, respectively, indicating that CS-GTEMR can exert a sustained-release effect on polyphenolic compounds. CS-GTEMR demonstrated antioxidant activities such as scavenging DPPH radicals, superoxide anion radicals, hydroxyl radicals, and hydrogen peroxide, as well as exhibiting iron-reducing and molybdenum-reducing powers. With its high mechanical strength, acid resistance, and organic solvent resistance, CS-GTEMR can protect polyphenolic compounds from damage. Therefore, CS-GTEMR can be utilized as a natural antioxidant or preventive agent in food, expanding the application scope of green tea extracts.",
+  "publication_date": "2025-06-12",
+  "journal": "Polymers",
+  "doi": "10.3390/polym17121633",
+  "entities": {
+    "POLYPHENOL": [
+      "a sustained-release effect",
+      "fourier transform infrared spectroscopy",
+      "its high mechanical strength",
+      "polyphenol content",
+      "polyphenolic compounds",
+      "the ftir spectrum",
+      "the polyphenolic compounds"
+    ],
+    "FOOD": [
+      "chitosan-encapsulated green tea extract",
+      "green tea extract",
+      "green tea extracts"
+    ]
+  }
+}

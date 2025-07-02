@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "A Fragment Insertion ofAgDFRResults in a White Flower Phenotype inArundina graminifolia(Orchidaceae).",
+  "abstract": "Bamboo orchid (Arundina graminifolia), a fast-growing evergreen terrestrial orchid with year-round flowering capacity, exhibits limited germplasm resources for white floral variants despite its ornamental significance. This study investigates the molecular basis of natural white flower formation through comparative analysis of purple- and white-flowered variants across bud, post-bud, and blooming stages. Histological examination revealed anthocyanin accumulation restricted to two to three upper epidermal cell layers in purple petals, while white petals showed complete pigment absence. Transcriptome profiling coupled with RT-qPCR validation identified eleven differentially expressed structural genes in anthocyanin biosynthesis. Notably,AgDFRexpression remained undetectable across all white-flower developmental stages. Sequence analysis demonstrated identical 3030 bp promoter regions ofAgDFRbetween two variants, while white-flowerAgDFRcoding sequences contained over 107 bp insertion after the 330th nucleotide, causing premature translation termination. Molecular marker validation confirmed the presence of a diagnostic 472 bp fragment in all colored variants (13 purple/pink lines) and its absence in white phenotypes. This study establishes that insertional mutagenesis inAgDFR's coding region underlies natural white flower inA. graminifolia. The developed molecular marker enables reliable differentiation of white-flowered variants from pigmented counterparts, providing valuable tools for germplasm management and breeding programs.",
+  "publication_date": "2025-05-31",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14111680",
+  "entities": {
+    "POLYPHENOL": [
+      "molecular marker validation",
+      "the developed molecular marker",
+      "the molecular basis"
+    ]
+  }
+}

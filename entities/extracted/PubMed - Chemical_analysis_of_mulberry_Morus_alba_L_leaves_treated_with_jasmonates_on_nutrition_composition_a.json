@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Chemical analysis of mulberry (Morus alba L.) leaves treated with jasmonates on nutrition composition and biological activity.",
+  "abstract": "To sustainably obtain bioactive substances in functional foods, immune plant hormones can enhance the nutrient content in edible mulberry leaves. Different concentrations of methyl jasmonate and coronatine influenced the bioactive compounds of mulberry leaf powder. Metabolomics analysis identified differences that affected the differential metabolites and related pathways, while molecular docking revealed the key metabolites regulating antidiabetic activity. The results demonstrated that treatment with 10\u00a0\u03bcM methyl jasmonate or 10-3\u03bcM coronatine significantly enhanced the levels of polyphenols (max to 68.9\u00a0%), flavonoids (26.7\u00a0%), and total soluble protein (69.2\u00a0%), improving DPPH (55.8\u00a0%) and \u03b1-glucosidase (22.3\u00a0%) inhibition (p\u00a0<\u00a00.05). Coronatine outperformed methyl jasmonate in regulating polyphenols and enriching secondary metabolites. Metabolomics revealed enhanced tyrosine metabolism, cAMP signaling, and flavonoid biosynthesis pathways. Key upregulated metabolites under coronatine showed stronger \u03b1-glucosidase binding via molecular docking. Findings demonstrated immune hormones' potential to optimize mulberry leaf nutrient profiles and antidiabetic activity, supporting their application in nutrient-enriched functional foods.",
+  "publication_date": "2025-05-26",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144929",
+  "entities": {
+    "FOOD": [
+      "functional foods",
+      "nutrient-enriched functional foods"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "molecular docking",
+      "polyphenols",
+      "secondary metabolites"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Different Forms of Manganese Provide Distinctive Metabolomics Signatures and Bioactive Profiles in Artemisia annua.",
+  "abstract": "Natural products are among the main ingredients of medicinal plants, and strategies that enhance their bioactive profile by elemental supplementation have emerged recently. Manganese is involved in various plant secondary metabolism pathways among different micronutrients.",
+  "publication_date": "2025-05-16",
+  "journal": "Phytochemical analysis : PCA",
+  "doi": "10.1002/pca.3538",
+  "entities": {
+    "POLYPHENOL": [
+      "various plant secondary metabolism pathways"
+    ]
+  }
+}

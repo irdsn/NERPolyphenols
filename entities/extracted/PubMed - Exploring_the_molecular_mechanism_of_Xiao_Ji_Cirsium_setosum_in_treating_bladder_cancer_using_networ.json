@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Exploring the molecular mechanism of Xiao Ji (Cirsium setosum) in treating bladder cancer using network pharmacology and molecular docking.",
+  "abstract": "In China, Xiao Ji decoction has been used to treat hematuria. However, pharmacological studies on its effects against bladder cancer (BC) remain limited.",
+  "publication_date": "2025-04-30",
+  "journal": "Asian biomedicine :, research, reviews and news..",
+  "doi": "10.2478/abm-2025-0012",
+  "entities": {
+    "POLYPHENOL": [
+      "its effects",
+      "xiao ji decoction"
+    ],
+    "SYMPTOM": [
+      "bladder cancer"
+    ]
+  }
+}

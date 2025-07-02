@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Coordinated modulation of glucose metabolism and immunity via metal-drug nanovesicles for hepatocellular carcinoma therapy.",
+  "abstract": "A highly immunosuppressive microenvironment, along with disordered glucose metabolism, promotes immune evasion and compromises the effectiveness of cancer immunotherapy. To address these challenges, we developed a multifunctional C-B-M-Mn nanovesicle platform to disrupt tumor metabolism and enhance antitumor immunity. This system encapsulated BAY-876 (a Glut1 inhibitor) and MSA-2 (a STING agonist) in the nanovesicle membrane and incorporated Mn2+through chelation with gallic acid-modified chitosan oligomers within the nanovesicle core. Under acidic tumor conditions, the surface potential of the nanovesicles shifted to positive charge, facilitating cellular uptake. Once internalized by tumor cells, C-B-M-Mn released its cargo in response to acidic pH and high esterase activity. BAY-876-mediated glycolysis inhibition increased reactive oxygen species (ROS) production and triggered the release of mitochondrial DNA, thereby priming the cGAS-STING signaling pathway. Mn2+enhanced cGAS sensitivity, while MSA-2 further activated STING, promoting dendritic cell (DC) maturation and CD8+T and natural killer (NK) cell recruitment. In addition, this metabolic blockade reduced PD-L1 expression levels and mitigated immune evasion. Additionally, Mn2+provided MRI contrast enhancement, enabling simultaneous imaging and treatment. Collectively, these findings highlight the C-B-M-Mn platform as a promising strategy for integrated glucose metabolic inhibition and immunotherapeutic intervention to improve hepatocellular carcinoma (HCC) treatment.",
+  "publication_date": "2025-06-16",
+  "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+  "doi": "10.1016/j.jconrel.2025.113957"
+}

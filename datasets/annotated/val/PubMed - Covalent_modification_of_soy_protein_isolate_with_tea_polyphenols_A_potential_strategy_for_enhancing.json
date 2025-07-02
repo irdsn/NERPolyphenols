@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Covalent modification of soy protein isolate with tea polyphenols: A potential strategy for enhancing flaxseed oil emulsion stability and sustained delivery of \u03b1-linolenic acid.",
+  "abstract": "The adaptability of soybean protein isolate (SPI) modified with tea polyphenols (TP) for emulsion delivery systems was investigated. This study fabricated the SPI-TP non-covalent complex (NC) and covalent complex (C) and flaxseed oil emulsions stabilized by NC (NC-E) and C (C-E). The differences in the solubility, antioxidant activity, and particle size of NC and C were discussed first. And the emulsions' resistance to storage, pH, temperature, and ionic strength was further evaluated. The C-E exhibited superior antioxidant capacity and environmental stability compared to the NC-E. This might be attributed to TP conjugation differences in NC and C and SPI property changes modified via two approaches. Moreover, the bioaccessibility of \u03b1-linolenic acid (ALA) in flaxseed oil emulsions stabilized by SPI, NC, and C was 58.38\u00a0\u00b1\u00a00.13\u00a0%, 42.84\u00a0\u00b1\u00a00.03\u00a0%, and 45.89\u00a0\u00b1\u00a00.03\u00a0% as evidenced by INFOGEST 2.0, indicating covalent modification would be a promising strategy for delivering functional lipids.",
+  "publication_date": "2025-05-21",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144868",
+  "entities": {
+    "FOOD": [
+      "soybean protein isolate"
+    ],
+    "POLYPHENOL": [
+      "tea polyphenols"
+    ]
+  }
+}

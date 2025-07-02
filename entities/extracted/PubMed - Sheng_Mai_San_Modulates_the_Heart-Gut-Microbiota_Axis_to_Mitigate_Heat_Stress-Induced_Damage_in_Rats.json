@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Sheng Mai San Modulates the Heart-Gut-Microbiota Axis to Mitigate Heat Stress-Induced Damage in Rats.",
+  "abstract": "Heat stress has become a significant challenge in animal husbandry and human health, posing significant threats to both livestock and human health and profoundly impacting agricultural productivity. Sheng Mai San has been shown to effectively alleviate heat stress, yet the underlying mechanisms remain unclear. Therefore, this study established a heat stress model and employed Sheng Mai San as an intervention, with NAC as the positive control. Using histopathological analysis, Western blotting, ELISA, and 16S rDNA sequencing, we investigated the protective effects of Sheng Mai San against heat-stress-induced cardiac and intestinal injuries, as well as gut microbiota dysbiosis. The results demonstrated that heat stress-induced cardiac injury primarily occurred within 6-12 h of the cessation of heat stress. This injury was manifested by a significant elevation in the cardiac index, accompanied by attenuated expression of cardiac antioxidants (GSH, SOD, CAT, and T-AOC) and increased MDA content. Following Sheng Mai San intervention, the cardiac index was reduced, antioxidant indices (GSH, SOD, and CAT) were significantly elevated, and MDA and inflammatory markers (IL-1\u03b2, IL-6, and TNF-\u03b1) were markedly decreased. Additionally, Sheng Mai San was found to activate the Keap1-Nrf2 signaling pathway in the heart. Sheng Mai San demonstrated significant protective effects on small intestinal morphology, attenuating pathological alterations while promoting goblet cell proliferation. Analysis of the gut microbiota revealed that Sheng Mai San increased the Chao1, ACE, Shannon, and Simpson indices while reducing the abundance of harmful bacteria, such asg_Globicatella,g_Thermoactinomyces,g_Staphylococcus,g_Gemella, andg_Veillonella. Additionally, it promoted the expression of beneficial bacteria, includingg_Lactobacillusandg_Ruminococcaceae. In summary, Sheng Mai San alleviates heat stress-induced cardiac hypertrophy and restores the oxidative stress balance in the heart. It also mitigates pathological damage in the small intestine, enhances the diversity and richness of the gut microbiota, and ameliorates gut microbiota dysbiosis. These findings highlight the significance of the heart-small intestine-gut microbiota axis in the protective effects of Sheng Mai San against heat stress injury. This study provides a potential therapeutic approach for heat-stress-related diseases and offers insights into the development of anti-heat-stress drugs.",
+  "publication_date": "2025-05-23",
+  "journal": "Life (Basel, Switzerland)",
+  "doi": "10.3390/life15060841",
+  "entities": {
+    "SYMPTOM": [
+      "a heat stress model",
+      "anti-heat-stress drugs",
+      "heat stress",
+      "heat stress injury",
+      "heat stress-induced cardiac hypertrophy",
+      "heat stress-induced cardiac injury",
+      "heat-stress-induced cardiac and intestinal injuries",
+      "heat-stress-related diseases",
+      "the oxidative stress balance"
+    ],
+    "POLYPHENOL": [
+      "significant protective effects",
+      "the protective effects",
+      "the underlying mechanisms"
+    ]
+  }
+}

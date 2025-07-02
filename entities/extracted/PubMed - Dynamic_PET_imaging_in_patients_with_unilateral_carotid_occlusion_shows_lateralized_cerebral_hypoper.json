@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Dynamic PET imaging in patients with unilateral carotid occlusion shows lateralized cerebral hypoperfusion, but no amyloid binding.",
+  "abstract": "BackgroundCarotid occlusive disease is a risk factor for cognitive decline. A possible underlying etiology is that hemodynamic impairment results in decreased cerebral perfusion, exacerbated amyloid-\u03b2 accumulation (A\u03b2) and poorer cognitive performance.ObjectiveWe aimed to determine whether patients with unilateral internal carotid artery (ICA) occlusion have less cerebral perfusion and more A\u03b2 in the ipsilateral than in the contralateral hemisphere, and whether perfusion and A\u03b2 are associated with cognitive functioning.MethodsWe included 20 patients (age 67.2\u2009\u00b1\u20097.0 years, 8 females, MMSE 29 [27-29]) with unilateral ICA occlusion, which underwent neuropsychological assessment and dynamic18F-Florbetaben positron emission tomography (PET). Global and regional relative perfusion (R1) and binding potential (BPND) were obtained from the PET-images using a simplified reference tissue model. We performed Wilcoxon signed-rank tests to examine differences between hemispheres within subjects and linear regression to investigate associations with cognitive functioning.ResultsMedian global R1was 0.911 (0.883-0.950) and global BPNDwas 0.172 (0.129-0.187). R1was lower in the hemisphere ipsilateral to the ICA occlusion than in the contralateral hemisphere (0.899 [0.876-0.921] versus 0.935 [0.889-0.970]). BPNDdid not differ significantly between hemispheres (ipsilateral 0.172 [0.124-0.181] versus contralateral 0.168 [0.137-0.191]). Neither cerebral perfusion nor A\u03b2 burden were associated with cognitive functioning.ConclusionsPatients with unilateral ICA occlusion did not have more A\u03b2 in the ipsilateral hemisphere than in the contralateral hemisphere despite ipsilateral hypoperfusion. Perfusion and A\u03b2 were unrelated to cognitive functioning. This indicates that cognitive impairment in patients with ICA occlusion is not due to exacerbated A\u03b2 accumulation.",
+  "publication_date": "2025-04-17",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "doi": "10.1177/13872877251329593",
+  "entities": {
+    "POLYPHENOL": [
+      "cognitive decline",
+      "decreased cerebral perfusion",
+      "objectivewe",
+      "subjects"
+    ]
+  }
+}

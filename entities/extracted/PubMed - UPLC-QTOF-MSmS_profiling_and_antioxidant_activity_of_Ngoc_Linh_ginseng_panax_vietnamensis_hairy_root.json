@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "UPLC-QTOF-MS/mS profiling and antioxidant activity of Ngoc Linh ginseng (panax vietnamensis) hairy root extract from zebrafish: insights into Keap1/Nrf2-dependent mechanisms.",
+  "abstract": "Panax vietnamensis(Ngoc Linh ginseng) hairy root extract (PV-HRE) was comprehensively analysedviaUPLC-QTOF-MS/MS. The analysis revealed 41 phytochemical constituents, predominantly saponins, with the major bioactive compounds identified as 23,27-dihydroxypennogenin, decumbesterone A, phytolaccagenin, trillin, and nigakilactone H. By employing a zebrafish model under hydrogen peroxide-induced oxidative stress, we demonstrated that PV-HRE pre-treatment significantly enhanced larval survival. Molecular investigations revealed Keap1/Nrf2 pathway-dependent mechanisms characterised by substantial upregulation of the antioxidant genes glutathione S-transferase pi 1 (gstp1) and peroxiredoxin 1 (prdx1). Comparative experiments with Nrf2-deficient zebrafish (nfe2l2adl703)confirmed the critical role of the pathway in mediating protective cellular responses. These findings substantiate the therapeutic potential ofPanax vietnamensishairy root extract as a sophisticated natural intervention for oxidative stress-related pathological conditions.",
+  "publication_date": "2025-06-04",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2512563",
+  "entities": {
+    "POLYPHENOL": [
+      "decumbesterone a",
+      "keap1/nrf2 pathway-dependent mechanisms",
+      "molecular investigations",
+      "protective cellular responses"
+    ],
+    "SYMPTOM": [
+      "hydrogen peroxide-induced oxidative stress",
+      "oxidative stress-related pathological conditions"
+    ]
+  }
+}

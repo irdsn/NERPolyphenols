@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Resveratrol ameliorates high\u2011fat diet\u2011induced insulin resistance via the DDIT4/mTOR pathway in skeletal muscle.",
+  "abstract": "Resveratrol (RSV) is a natural ingredient used in the treatment of diabetes mellitus. However, the antidiabetic mechanism of RSV is not clear. In the present study the antidiabetic mechanism of RSV was investigated using mice with high-fat diet (HFD)-induced insulin resistance (IR). C57BL/6J mice were divided into the following three groups: Control (CON), HFD, and HFD + RSV (RSV, 100 mg/kg body weight/day). Mice were administered RSV for 6 weeks; then biochemical and histological parameters, as well as gene and protein expression were detected. Compared with the CON group, the circulating levels of blood glucose, insulin, triglycerides, total cholesterol and high-density lipoprotein cholesterol, and area under the glucose curve were increased (P<0.05), the quantitative insulin sensitivity check index was decreased (P<0.05), and lipid accumulation in skeletal muscle was increased in the HFD group. RSV treatment was able to reverse this process and promote the IRS-1/PI3K/AKT/GLUT4 signaling pathway. Moreover, DNA damage-inducible transcript 4 (DDIT4) expression was upregulated, while the expression levels of mammalian target of rapamycin (mTOR) and p70 ribosomal protein S6 kinase were downregulated in the HFD + RSV group compared with the HFD group (P<0.05). Cell experiments inhibiting DDIT4 or activating mTOR also confirmed the role of these pathways. In summary, RSV ameliorated IR and glucose as well as lipid metabolism, and promoted the IRS-1/PI3K/AKT/GLUT4 signaling pathway through the DDIT4/mTOR signaling pathway in mice with HFD-induced IR.",
+  "publication_date": "2025-04-14",
+  "journal": "Biomedical reports",
+  "doi": "10.3892/br.2025.1977",
+  "entities": {
+    "POLYPHENOL": [
+      "resveratrol",
+      "the antidiabetic mechanism",
+      "the quantitative insulin sensitivity check index"
+    ],
+    "SYMPTOM": [
+      "dna damage-inducible transcript 4 (ddit4) expression",
+      "hfd)-induced insulin resistance"
+    ]
+  }
+}

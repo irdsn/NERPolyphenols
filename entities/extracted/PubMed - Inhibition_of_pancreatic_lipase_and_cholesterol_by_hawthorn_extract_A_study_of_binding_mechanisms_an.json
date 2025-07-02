@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Inhibition of pancreatic lipase and cholesterol by hawthorn extract: A study of binding mechanisms and inhibitor screening.",
+  "abstract": "Inhibiting the activity of pancreatic lipase and reducing intestinal cholesterol absorption are potential strategies to combat obesity. This study investigated the mechanisms by which hawthorn (Crataegus pinnatifida) extract affects pancreatic lipase (PL) and disrupts cholesterol micelle formation. Enriched with bioactive compounds, hawthorn extract (HE) inhibited PL activity through reversible mixed inhibition, with a half-maximal inhibitory concentration (IC50) of 2.92\u00a0mg/mL. Infrared spectroscopy, circular dichroism and fluorescence quenching experiments demonstrated that HE binding to PL induces conformational changes in both tertiary and secondary structures. This interaction facilitated the transformation of \u03b2-turns to random coils and quenched the fluorescence of the protein through a static quenching mechanism. HPLC, immobilized enzymes and molecular docking studies collectively revealed that rutin, chlorogenic acid, and isoquercitrin in HE exhibited strong binding affinity with PL, serving as key components in inhibiting PL activity. Furthermore, HE increased the particle size of cholesterol micelles while decreasing their solubility, which makes it more difficult for lipases to function in the intestine. Overall, our study suggests that HE may serve as an effective pancreatic lipase inhibitor, presenting potential applications in the development of functional foods for obesity reduction and lipid-lowering.",
+  "publication_date": "2025-04-30",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.143680",
+  "entities": {
+    "SYMPTOM": [
+      "obesity",
+      "obesity reduction"
+    ],
+    "POLYPHENOL": [
+      "2.92\u00a0mg/ml. infrared spectroscopy",
+      "a static quenching mechanism",
+      "an effective pancreatic lipase inhibitor",
+      "chlorogenic acid",
+      "molecular docking studies",
+      "rutin",
+      "secondary structures",
+      "the mechanisms"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

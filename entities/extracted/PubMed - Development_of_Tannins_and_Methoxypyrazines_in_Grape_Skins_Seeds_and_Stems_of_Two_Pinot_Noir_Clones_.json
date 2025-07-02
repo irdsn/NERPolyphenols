@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Development of Tannins and Methoxypyrazines in Grape Skins, Seeds, and Stems of Two Pinot Noir Clones during Ripening.",
+  "abstract": "Two Pinot noir clones (AM10/5 and UCD5) were analyzed for tannin and methoxypyrazines (MPs) in different grape tissues during berry development using liquid chromatography and two-dimensional gas chromatography-mass spectrometry. On a per berry basis, skin tannins reached the maximum level about 2-3 weeks after v\u00e9raison, seed tannins at around v\u00e9raison, and stem tannins 4 weeks before v\u00e9raison. Clone AM10/5 showed significantly higher levels of seed and stem tannins on a per berry basis at harvest. Tannin concentration and composition varied among the different tissues. On a per berry basis, stem tannin levels were comparable to skin tannins but were 3 to 4 times lower than seed tannins, while stem tannins had an intermediate galloylation (5-7%) between seed tannins (12-18%) and skin tannins (2%) and lower prodelphinidin (4-7%) than skin tannins (31-36%). The mean degree of polymerization of stem tannins was similar to seed tannins but lower than skin tannins. MPs, including 3-isopropyl-2-methoxypyrazine (IPMP), 3-s-isobutyl-2-methoxypyrazine (SBMP), and 3-isobutyl-2-methoxypyrazine (IBMP), showed significantly higher concentrations than their sensory thresholds in grape stems but not in skins. The MPs development in stems showed an increasing trend toward v\u00e9raison and then a decreasing trend toward harvest. Compared to AM 10/5, UCD5 stems showed a higher level of MPs, especially significantly higher concentrations of IPMP and IBMP at harvest. The extraction of MPs from grape stems could contribute negative green and vegetative characters to Pinot noir wines.",
+  "publication_date": "2023-10-09",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.3c04864",
+  "entities": {
+    "POLYPHENOL": [
+      "an intermediate galloylation",
+      "especially significantly higher concentrations",
+      "lower prodelphinidin",
+      "seed tannins",
+      "skin tannins",
+      "stem tannin levels",
+      "stem tannins",
+      "tannin",
+      "tannin concentration",
+      "tannins",
+      "then a decreasing trend",
+      "two-dimensional gas chromatography-mass spectrometry"
+    ],
+    "FOOD": [
+      "different grape tissues",
+      "grape stems",
+      "pinot noir wines"
+    ]
+  }
+}

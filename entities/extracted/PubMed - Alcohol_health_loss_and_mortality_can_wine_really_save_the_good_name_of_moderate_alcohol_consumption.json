@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Alcohol, health loss, and mortality: can wine really save the good name of moderate alcohol consumption?",
+  "abstract": "It is estimated that one\u2011third of the world's population consumes alcohol. At the same time, it is well\u2011known that excessive alcohol consumption in one of the leading causes of premature mortality. The history of production of alcoholic beverages, especially wine, dates back as long as 8000 years. However, people soon realized adverse effects of alcohol abuse and tried to limit its consumption. Higher alcohol consumption is associated with health loss and increased risk of all\u2011cause mortality. It is linearly associated with a greater risk of many types of cancers, liver disease, incidence of atrial fibrillation, hemorrhagic stroke, or heart failure. Although many scientific societies recommend reduction of alcohol intake and specify the recommended limits of consumption, there is no proven safe amount of alcohol for the general population. There are conflicting data on the effect of low\u2011to\u2011moderate alcohol consumption on mortality, with most of the studies indicating a J\u2011shaped curve related mostly to a reduction of coronary artery disease complications, including cardiovascular death. Among different types of alcohol, red wine consumption may have different health effects, due to its high content of antioxidative polyphenols. Wine, together with abundance of plant\u2011based foods, olive oil, and fish, is an important part of the Mediterranean diet. There are both observational and randomized studies documenting a wide spectrum of health\u2011promoting effects of such a diet, especially a reduction in major adverse cardiovascular events. People who want to drink alcohol should be advised to limit their consumption to a minimum, and should consider choosing red wine.",
+  "publication_date": "2024-03-20",
+  "journal": "Polish archives of internal medicine",
+  "doi": "10.20452/pamw.16708",
+  "entities": {
+    "POLYPHENOL": [
+      "a wide spectrum",
+      "adverse effects",
+      "antioxidative polyphenols",
+      "different health effects",
+      "especially a reduction",
+      "especially wine",
+      "health\u2011promoting effects",
+      "the effect",
+      "the recommended limits"
+    ],
+    "SYMPTOM": [
+      "cancers",
+      "heart failure"
+    ],
+    "FOOD": [
+      "olive oil",
+      "red wine",
+      "red wine consumption",
+      "wine"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Advancing cancer therapy: Nanomaterial-based encapsulation strategies for enhanced delivery and efficacy of curcumin.",
+  "abstract": "Curcumin, a polyphenolic compound derived fromCurcuma longa, has gained significant attention as a potential anticancer agent due to its anti-inflammatory, antioxidant, and antitumor properties. Despite its therapeutic potential, the clinical application of curcumin is limited by its poor aqueous solubility, rapid metabolism, and limited bioavailability. To address these limitations, various nanomaterial-based encapsulation strategies have been developed, including polymeric nanoparticles, liposomes, solid lipid nanoparticles, micelles, dendrimers, and hybrid nanomaterials. These formulations aim to improve curcumin's solubility, stability, cellular uptake, and controlled release, thereby enhancing its targeted delivery to tumor sites. Such approaches not only reduce systemic toxicity but also improve therapeutic efficacy. Recent studies demonstrate that curcumin-loaded nanocarriers exhibit enhanced antitumor effects, selective cytotoxicity toward cancer cells, and minimized side effects. However, challenges such as achieving tissue specificity, evaluating potential toxicity, and the need for thorough clinical validation persist. Future research should prioritize the development of tissue-specific delivery systems, assess safety profiles, and ensure biocompatibility to optimize curcumin's clinical efficacy. This review provides an overview of the latest advancements in curcumin nanocapsules, critically comparing their advantages and limitations in cancer therapy.",
+  "publication_date": "2025-06-09",
+  "journal": "Materials today. Bio",
+  "doi": "10.1016/j.mtbio.2025.101963"
+}

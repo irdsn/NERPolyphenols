@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Cell-based evaluation of anti-inflammatory activity from the combination of natural compounds in LPS-stimulated U937 monocytes.",
+  "abstract": "The present study aims to examine the potential effects of a novel coupling of natural-derived compounds modulating inflammatory responses. Their effects were assessed in LPS-inflamed U937 pro-monocytes. Monocytes were exposed to incremental concentrations of citric acid (2-hydroxy-1, 2, 3-propanetricarboxylic acid) and quercetin (3, 3', 4', 5, 7-pentahydroxyflavone), administered individually and in combination. Evaluation of cell viability was conducted via the MTT assay; nitric oxide (NO) production was assessed using the Griess assay; the expression levels of key pro-inflammatory markers (IL-1\u03b2, IL-6, TNF-\u03b1, and COX-2) were determined through quantitative real-time PCR (qRT-PCR). The results indicate that the two combined substances modulate the pathways of anti-inflammatory cytokines in pro-monocytic cells. Collectively, our data indicated that the synergistic activity of quercetin and citric acid has the potential to be developed as a novel therapeutic agent for inflammatory-related diseases, also opening new avenues for developing natural strategies in pathologies related to inflammatory processes treatment.",
+  "publication_date": "2025-06-07",
+  "journal": "Cytotechnology",
+  "doi": "10.1007/s10616-025-00788-6",
+  "entities": {
+    "POLYPHENOL": [
+      "quercetin",
+      "the potential effects",
+      "their effects"
+    ]
+  }
+}

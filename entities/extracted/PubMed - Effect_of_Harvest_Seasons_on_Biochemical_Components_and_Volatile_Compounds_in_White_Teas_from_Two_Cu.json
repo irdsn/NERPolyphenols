@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Effect of Harvest Seasons on Biochemical Components and Volatile Compounds in White Teas from Two Cultivars.",
+  "abstract": "The flavor profile of white tea emerges from the natural biochemical composition of its tender leaves, a delicate balance profoundly shaped by seasonal growing conditions and tea cultivars. However, the effects of harvest seasons on biochemical and volatile compounds in white teas in southwestern China have not been fully analyzed at present. This study investigated the sensory characteristics, biochemical components, and volatile compounds of 'Sanhua1951' spring white tea (SH-S), 'Sanhua1951' autumn white tea (SH-A), 'Fudingdabai' spring white tea (FD-S), and 'Fudingdabai' autumn white tea (FD-A). The results showed that the sensory quality (appearance, taste, and aroma) scores of spring tea were higher than those of autumn tea. Spring teas exhibited significantly higher epigallocatechin, soluble sugar, and amino acid levels than autumn teas (p< 0.05), whereas autumn teas contained greater contents of epicatechin gallate, catechin, caffeine, and polyphenols (p< 0.05), which were responsible for the differences in taste quality observed between samples with different harvest seasons. A total of 90 volatile compounds in four groups were identified through HS-SPME-GC-MS analysis, and spring white teas contained higher contents of and variability in volatile compounds than autumn white teas. According to the OPLS-DA model, 52 and 57 differential volatile compounds (VIP > 1,p< 0.05, and fold change \u2265 2 or \u22640.5) were identified in SH-S vs. SH-A and FD-S vs. FD-A, including (Z)-linalool oxide, (E)-linalool oxide, styrene, phenylethyl alcohol, (Z)-citral, etc. The odor active value (OAV) results indicated that 30 key differential volatile compounds (OAV > 1) were determined in four groups, among which \u03b2-ionone, 5,6-epoxy-\u03b2-ionone, linalool, and (E)-linalool oxide exhibited particularly high OAVs and contributed more pekoe aroma and floral sensory characteristics. Notably, (E)-linalool oxide, (Z)-jasmone, and \u03b4-cadinene were identified in each cultivar. These findings suggest their potential as seasonal markers, paving the way for the development of white tea 'Sanhua1951' and 'Fudingdabai'.",
+  "publication_date": "2025-05-18",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14101795",
+  "entities": {
+    "FOOD": [
+      "'fudingdabai' autumn white tea",
+      "appearance",
+      "autumn white teas",
+      "fudingdabai' spring white tea",
+      "sanhua1951' autumn white tea",
+      "spring white tea",
+      "spring white teas",
+      "white tea",
+      "white tea 'sanhua1951",
+      "white teas"
+    ],
+    "POLYPHENOL": [
+      "catechin",
+      "epicatechin gallate",
+      "polyphenols",
+      "the effects"
+    ]
+  }
+}

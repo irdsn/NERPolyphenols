@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "The Impact of Plant-Derived Polyphenols on Combating Efflux-Mediated Antibiotic Resistance.",
+  "abstract": "The global healthcare system is increasingly challenged by the rising prevalence of multidrug-resistant bacteria and the limited therapeutic options for related infections. Efflux-mediated antibiotic resistance represents a significant obstacle, primarily due to the absence of drugs specifically designed to target bacterial efflux pumps. Recent research has identified polyphenols, a broad class of plant-derived organic compounds, as potential inhibitors of efflux pump activity. This review consolidates data on the inhibitory properties of eight widely distributed polyphenols: curcumin, quercetin, luteolin, tannic acid, naringenin, epigallocatechin-3-gallate, ellagic acid, and resveratrol. These compounds have demonstrated the capacity to inhibit efflux pumps, either through direct interference with bacterial protein function or by downregulating the expression of genes encoding pump subunits. Importantly, several polyphenols exhibit synergistic interactions with antibiotics, including colistin, ciprofloxacin, and tetracycline. For instance, quercetin has shown inhibitory potency comparable to that of established efflux pump inhibitors such as verapamil and reserpine. These findings suggest that polyphenols represent promising candidates for the development of novel efflux pump inhibitors. However, further research is required to validate their efficacy and safety and facilitate their translation into clinical applications for combating antibiotic resistance.",
+  "publication_date": "2025-04-24",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26094030",
+  "entities": {
+    "POLYPHENOL": [
+      "direct interference",
+      "eight widely distributed polyphenols",
+      "ellagic acid",
+      "epigallocatechin-3",
+      "polyphenols",
+      "quercetin",
+      "recent research",
+      "related infections",
+      "several polyphenols"
+    ]
+  }
+}

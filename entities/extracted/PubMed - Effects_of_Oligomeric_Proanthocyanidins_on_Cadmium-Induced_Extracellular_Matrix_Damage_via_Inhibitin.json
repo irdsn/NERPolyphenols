@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Effects of Oligomeric Proanthocyanidins on Cadmium-Induced Extracellular Matrix Damage via Inhibiting the ERK1/2 Signaling Pathway in Chicken Chondrocytes.",
+  "abstract": "Cadmium (Cd) is a toxic, non-essential metal that primarily enters animal bodies through the digestive and respiratory systems, leading to damage to multiple organs and tissues. Cd can accumulate in cartilage and induce damage to chondrocytes. Procyanidins (PAs), also known as concentrated tannic acid or oligomeric proanthocyanidins (OPCs), exhibit diverse biological and pharmacological activities. However, the mechanism of OPCs alleviates Cd-induced damage to chondrocytes in chickens remains to be further explored in vitro. Chondrocytes were isolated from both ends of the tibia of 17-day-old SPF chicken embryos, and then subsequently treated with various concentrations of Cd (0, 1, 2.5, 5, and 10 \u03bcmol/L) or OPCs (0, 5, 10, 20, and 40 \u03bcmol/L) to investigate the mechanism underlying extracellular matrix (ECM) degradation and damage. Cd reduced cell viability, glycosaminoglycan (GAG) secretion, and ECM degradation in chondrocytes by decreasing the expression of type II collagen alpha 1 (COL2A1) and aggrecan (ACAN) while increasing the release of cartilage oligomeric matrix protein (COMP), along with elevated levels of matrix-degrading enzymes, such as matrix metalloproteinases 1 (MMP1), MMP10, and MMP13, and a disintegrin and metalloproteinase with thrombospondin motifs 4 (ADAMTS4) and ADAMTS5. Cd induced phosphorylation of extracellular signal-regulated kinases 1/2 (ERK1/2) and the expression of matrix-degrading enzymes, impairing ECM synthesis, an effect that could be alleviated by ERK1/2 inhibitor U0126. Chondrocytes were treated with 5 \u03bcmol/L Cd and 10 \u03bcmol/L OPCs, and it was found that OPCs inhibited the activation of the ERK1/2 signaling pathway and the expression of matrix-degrading enzymes, while promoting ECM synthesis and alleviating Cd-induced ECM damage in chickens. This study provides a theoretical basis for clinical research on OPCs with respect to the prevention and treatment of Cd-induced chondrogenic diseases in poultry.",
+  "publication_date": "2025-03-31",
+  "journal": "Veterinary sciences",
+  "doi": "10.3390/vetsci12040317",
+  "entities": {
+    "POLYPHENOL": [
+      "aggrecan",
+      "an effect",
+      "cd-induced ecm damage",
+      "ecm degradation",
+      "ecm synthesis",
+      "ecm) degradation",
+      "glycosaminoglycan (gag) secretion",
+      "impairing ecm synthesis",
+      "oligomeric proanthocyanidins",
+      "procyanidins",
+      "respect",
+      "the mechanism"
+    ]
+  }
+}

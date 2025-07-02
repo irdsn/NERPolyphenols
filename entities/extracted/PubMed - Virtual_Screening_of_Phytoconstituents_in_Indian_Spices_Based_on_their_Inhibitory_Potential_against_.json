@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Virtual Screening of Phytoconstituents in Indian Spices Based on their Inhibitory Potential against SARS-CoV-2.",
+  "abstract": "COVID-19 is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a highly pathogenic human coronavirus (CoV). For the treatment of COVID-19, various drugs, ayurvedic formulations, used for other diseases, were repurposed. Ayurveda and yoga exhibited a pivotal role in the treatment of COVID-19. Various medicinal plants, including garlic, tulsi, clove, cinnamon, ginger, black pepper, and turmeric, are recommended for the prevention of COVID-19 as immunity boosters along with their antiviral property.",
+  "publication_date": "2025-05-08",
+  "journal": "Protein and peptide letters",
+  "doi": "10.2174/0109298665366911250416113831",
+  "entities": {
+    "FOOD": [
+      "black pepper",
+      "cinnamon",
+      "garlic",
+      "ginger",
+      "turmeric"
+    ]
+  }
+}

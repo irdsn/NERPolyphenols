@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Molecular signatures of premature aging in Major Depression and Substance Use Disorders.",
+  "abstract": "Major depressive disorder (MDD) and substance-use disorders (SUDs) often lead to premature aging, increasing vulnerability to cognitive decline and other forms of dementia. This study utilized advanced systems bioinformatics to identify aging \"signatures\" in MDD and SUDs and evaluated the potential for known lifespan-extending drugs to target and reverse these signatures. The results suggest that inhibiting the transcriptional activation of FOS gene family members holds promise in mitigating premature aging in MDD and SUDs. Conversely, antidepressant drugs activating the PI3K/Akt/mTOR pathway, a common mechanism in rapid-acting antidepressants, may accelerate aging in MDD patients, making them unsuitable for those with comorbid aging-related conditions like dementia and Alzheimer's disease. Additionally, this innovative approach identifies potential anti-aging interventions for MDD patients, such as Deferoxamine, Resveratrol, Estradiol valerate, and natural compounds like zinc acetate, genistein, and ascorbic acid, regardless of comorbid anxiety disorders. These findings illuminate the premature aging effects of MDD and SUDs and offer insights into treatment strategies for patients with comorbid aging-related conditions, including dementia and Alzheimer's disease.",
+  "publication_date": "2024-06-26",
+  "journal": "Scientific data",
+  "doi": "10.1038/s41597-024-03538-z",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "aging \"signatures",
+      "alzheimer's disease",
+      "comorbid aging-related conditions",
+      "dementia",
+      "potential anti-aging interventions",
+      "premature aging"
+    ],
+    "POLYPHENOL": [
+      "a common mechanism",
+      "cognitive decline",
+      "genistein",
+      "resveratrol",
+      "the premature aging effects"
+    ]
+  }
+}

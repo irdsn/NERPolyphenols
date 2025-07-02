@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Gas chromatography-mass spectrometry bioactive compounds profiling, potential of microbial resistance, anti-inflammatory, and cytotoxic of leaf extracts fromCeltis tetrandraRoxb.",
+  "abstract": "The rapid increase in incidences of antibiotic resistance, as well as the severity of side effects associated with the synthetic drugs, have directed the researchers to focus on the natural reservoirs as an alternative to the available drugs. The aim of this study was to evaluate the antimicrobial, anti-inflammatory, cytotoxicity assay, and gas chromatography-mass spectrometry (GC-MS) profiling potential ofC. tetrandraleaf extracts. Aqueous and ethanolic extract of the leaf was prepared by the maceration process. The anti-microbial potential by disc diffusion method was estimated againstB. subtilis,S. aureus,E. coli, andS. typhi.Ethanolic extract was more effective with the zone of inhibition of 18.32\u2009\u00b1\u20090.012 mm and 12.97\u2009\u00b1\u20090.02 mm againstS. aureusandE. coli, respectively. Aqueous extract did not show any results againstS. typhiandB. subtilis. Cytotoxicity assay on Vero cells assured the safety of the extract with IC50920.45\u2005\u03bcg/mL. In vivo anti-inflammatory potential was evaluated by the carrageenan-induced rat paw edema. Edema size was measured by digital Vernier caliper. The maximum paw inhibition (40.4%) was observed in the group treated with 500\u2005mg/kg of ethanolic extract. There was a significant decrease in the level of inflammatory biomarkers such as C-reactive protein and interleukin-6, and hematological parameters. GC-MS of ethanolic extract identified the six major bioactive compound classes, including phytol, aliphatic alcohol, flavonol, sterols, and triterpenes.",
+  "publication_date": "2025-06-03",
+  "journal": "European journal of mass spectrometry (Chichester, England)",
+  "doi": "10.1177/14690667251346782",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant decrease",
+      "gas chromatography-mass spectrometry",
+      "side effects"
+    ]
+  }
+}

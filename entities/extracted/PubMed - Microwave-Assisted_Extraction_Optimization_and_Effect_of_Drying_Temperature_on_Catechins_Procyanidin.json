@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Microwave-Assisted Extraction Optimization and Effect of Drying Temperature on Catechins, Procyanidins and Theobromine in Cocoa Beans.",
+  "abstract": "Cocoa beans (Theobroma cacaoL.) are an important source of polyphenols. Nevertheless, the content of these compounds is influenced by post-harvest processes. In this sense, the concentration of polyphenols can decrease by more than 50% during drying. In this study, the process of procyanidins extraction was optimized and the stability of catechins, procyanidins, and theobromine to different drying temperatures was evaluated. First, the effectiveness of methanol, ethanol, acetone, and water as extract solvents was determined. A Box-Behnken design and response surface methodology were used to optimize the Microwave-Assisted Extraction (MAE) process. The ratios of methanol-water, time, and temperature of extraction were selected as independent variables, whereas the concentration of procyanidins was used as a response variable. Concerning the drying, the samples were dried using five temperatures, and a sample freeze-dried was used as a control. The quantitative analyses were carried out by HPLC-DAD-ESI-IT-MS. The optimal MAE conditions were 67 \u00b0C, 56 min, and 73% methanol. Regarding the drying, the maximum contents of procyanidins were obtained at 40 \u00b0C. To our knowledge, this is the first time that the stability of dimers, trimers, and tetramers of procyanidins on drying temperature was evaluated. In conclusion, drying at 40 \u00b0C presented better results than the freeze-drying method.",
+  "publication_date": "2023-04-27",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules28093755",
+  "entities": {
+    "FOOD": [
+      "cocoa beans"
+    ],
+    "POLYPHENOL": [
+      "catechins",
+      "first, the effectiveness",
+      "polyphenols",
+      "procyanidins",
+      "procyanidins extraction"
+    ]
+  }
+}

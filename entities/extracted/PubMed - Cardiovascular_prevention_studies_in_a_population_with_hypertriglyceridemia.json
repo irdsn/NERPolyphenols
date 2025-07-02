@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Cardiovascular prevention studies in a population with hypertriglyceridemia.",
+  "abstract": "Although hypertriglyceridemia (>150mg/dl) has been considered a risk factor for the development of atherosclerotic vascular disease, this relationship is not as linear or robust as that for LDL cholesterol, and the reduction of plasma triglyceride levels has not been consistently related to the reduction of this complication. Thus, in general terms and in the absence of a conclusive clinical benefit, current evidence does not support treatment with fibrates, niacin or omega-3 fatty acids routinely to reduce cardiovascular risk. The recommendation, especially the former, is limited to some subjects already treated with statins and with optimal LDL cholesterol levels in whom elevated triglyceride levels persist. As an exception, only purified icosapent ethyl at a high dose (4g daily) has demonstrated a reduction in cardiovascular morbidity and mortality and has been authorized for this indication, following the results of the REDUCE-IT trial.",
+  "publication_date": "2025-06-02",
+  "journal": "Clinica e investigacion en arteriosclerosis : publicacion oficial de la Sociedad Espanola de Arteriosclerosis",
+  "doi": "10.1016/j.arteri.2025.500819",
+  "entities": {
+    "FOOD": [
+      "omega-3 fatty acids"
+    ],
+    "POLYPHENOL": [
+      "some subjects",
+      "the recommendation"
+    ]
+  }
+}

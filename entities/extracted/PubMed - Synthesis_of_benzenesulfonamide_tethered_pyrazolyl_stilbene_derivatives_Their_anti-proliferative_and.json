@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Synthesis of benzenesulfonamide tethered pyrazolyl stilbene derivatives: Their anti-proliferative and carbonic anhydrase inhibitory potentials.",
+  "abstract": "A series of twelve benzenesulfonamide tethered pyrazolyl stilbene derivatives (13a- l) were prepared by a two-step synthetic strategy involving the synthesis of dibenzalacetone via Claisen-Schmidt condensation, followed by the tandem one-pot reaction between dibenzalacetone and 4-hydrazine benzene sulphonamide in presence of catalytic iodine. All the synthesized compounds were evaluated for their antiproliferative activity against the NCI panel of 60 human cancer cell lines at a single dose of 10\u00a0\u03bcM. Among the synthesized compounds, compounds 13e and 13j have demonstrated promising anti-proliferative activity and were further subjected to a comprehensive five-dose assay across an NCI panel of 60 cancer cell lines. Compound 13e has demonstrated excellent anti-proliferative activity against HL-60, SR, HCT-116, IGROV1, RXF 393, SN12C, PC-3, MCF7, and T-47D cancer cell lines with GI50values of 3.09, 2.56, 3.12, 2.83, 2.75, 2.32, 3.25, 2.99, and 3.66\u00a0\u03bcM, respectively. Similarly, Compound 13j has demonstrated excellent anti-proliferative activity against RXF 393(Renal Cancer) cancer cell lines with GI50value of 1.78\u00a0\u03bcM. Among the cell lines; Leukemia, Colon Cancer, Renal, Prostate, ovarian, and breast cancer cell lines were found to be more susceptible to these compounds. Compounds 13a, 13b, 13d, 13i, and 13\u00a0k demonstrated good to moderate antiproliferative activity against leukemia K562 and CCRF- CEM cell lines. The most active compounds were further evaluated for their mechanistic studies. The studies revealed that both compounds induced apoptosis in HCT-116 cells, evidenced by increased ROS production and disruption of mitochondrial membrane potential. Compound 13e caused cell cycle arrest at the G0/G1 phase, while compound 13j induced arrest at the G1 phase. The most active compounds 13e and 13j were further evaluated for their carbonic anhydrase (CA) inhibitory activities and were found to be selective inhibitors of CA IX & XII with Ki values of 15.3\u00a0nM & 29.5\u00a0nM against CA IX and 31.6\u00a0nM & 22.4\u00a0nM against CA XII, respectively. Compound 13e has demonstrated better inhibition against CA IX compared to the standard drug acetazolamide (Ki value 25.0\u00a0nM). In silico docking studies represented that 13e and 13j bound tightly in the active site of Human Carbonic Anhydrase IX and XII.",
+  "publication_date": "2025-06-09",
+  "journal": "Bioorganic chemistry",
+  "doi": "10.1016/j.bioorg.2025.108662",
+  "entities": {
+    "SYMPTOM": [
+      "60 cancer cell lines",
+      "60 human cancer cell lines",
+      "apoptosis",
+      "colon cancer",
+      "leukemia",
+      "renal, prostate, ovarian, and breast cancer cell lines",
+      "rxf 393(renal cancer) cancer cell lines",
+      "t-47d cancer cell lines"
+    ],
+    "POLYPHENOL": [
+      "selective inhibitors",
+      "their mechanistic studies"
+    ]
+  }
+}

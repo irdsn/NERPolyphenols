@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Unveiling roles of beneficial gut bacteria and optimal diets for health.",
+  "abstract": "The gut microbiome plays a pivotal role in human health, influencing digestion, immunity, and disease prevention. Beneficial gut bacteria such asAkkermansia muciniphila,Adlercreutzia equolifaciens, andChristensenella minutacontribute to metabolic regulation and immune support through bioactive metabolites like short-chain fatty acids (SCFAs). Dietary patterns rich in prebiotics, fermented foods, and plant-based bioactive compounds, including polyphenols and flavonoids, promote microbiome diversity and stability. However, challenges such as individual variability, bioavailability, dietary adherence, and the dynamic nature of the gut microbiota remain significant. This review synthesizes current insights into gut bacteria's role in health, emphasizing the mechanisms by which dietary interventions modulate microbiota. Additionally, it highlights advancements in microbiome-targeted therapies and the transformative potential of personalized nutrition, leveraging microbiota profiling and artificial intelligence (AI) to develop tailored dietary strategies for optimizing gut health and mitigating chronic inflammatory disorders. Addressing these challenges requires a multidisciplinary approach that integrates scientific innovation, ethical frameworks, and practical implementation strategies.",
+  "publication_date": "2025-02-18",
+  "journal": "Frontiers in microbiology",
+  "doi": "10.3389/fmicb.2025.1527755",
+  "entities": {
+    "FOOD": [
+      "fermented foods"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "polyphenols",
+      "the mechanisms"
+    ]
+  }
+}

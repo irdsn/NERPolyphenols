@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Metabolomic profiling of colostrum bar for identification of functional compounds using high resolution mass spectroscopy.",
+  "abstract": "In this era of hectic lifestyle no one have ample time to take care of their health and generally people miss some nutrients daily. This study has shown that, how to use low price ingredients such as colostrum (unutilized part of dairy farm), flax seed, moringa leaves powder, fresh dates, and gram flour to formulate functional colostrum bar to tackle nutrients deficiency. Optimization process was performed on the basis of sensory attributes, and further functional compounds profiling was done by High Resolution Accurate Mass Spectroscopy, which identified about 980 compounds in total, 60 of which could be positively identified. Phenolic substances, including chlorogenic acid as well as caffeic acid, which have anti-inflammatory and antioxidant effects, were prominent. The optimized sample (E4) also contained flavonoids with different classes which includes, N-acetyl-\u03b1-D-glucosamine (Flavonoid glycosides), Aspalathin, Quercetin 3-O-rhamnoside (flavonoid-3-o-glycosides), glucosiduronic acid, Quercetin (Flavanols), Kaempferol (Flavonols), Luteolin (flavones), Kaempferol 3-O-glucoside-7-O-rhamnoside, Rutin (flavonoid glycoside), Apigenin 6-C-alpha-L-arabinopyranosyl-8-C-beta-D-xylopyranoside (flavanone) and Myricetin 3-O-\u03b2-D-Galactopyranoside (glycosyloxyflavone). By increasing the utilization of colostrum, possibly improving the socio-economic status of farmers, and providing a health-promoting product that fits with consumer trends towards more sustainable and healthier food options.",
+  "publication_date": "2024-09-25",
+  "journal": "Journal of food science and technology",
+  "doi": "10.1007/s13197-024-06097-8",
+  "entities": {
+    "POLYPHENOL": [
+      "(flavonoid glycosides",
+      "anti-inflammatory and antioxidant effects",
+      "apigenin",
+      "caffeic acid",
+      "chlorogenic acid",
+      "flavonoids",
+      "hectic lifestyle",
+      "high resolution accurate mass spectroscopy",
+      "kaempferol",
+      "luteolin",
+      "moringa leaves powder",
+      "myricetin",
+      "quercetin",
+      "rutin",
+      "the socio-economic status"
+    ]
+  }
+}

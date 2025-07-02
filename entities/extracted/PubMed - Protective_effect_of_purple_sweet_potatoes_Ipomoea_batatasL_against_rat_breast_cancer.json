@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Protective effect of purple sweet potatoes (Ipomoea batatasL.) against rat breast cancer.",
+  "abstract": "Breast cancer is one of the most prevalent and lethal malignancies affecting women worldwide. Given the limitations of conventional treatments, there is an increasing interest in exploring naturally derived compounds with chemoprotective properties. Purple sweet potatoes (Ipomoea batatasL.) are rich in anthocyanins and have been reported to possess antioxidant, anti-inflammatory, and anticancer activities. This study aimed to evaluate the chemopreventive potential of ethanolic extracts from purple sweet potato peels in a rat model of 7,12-dimethylbenz(a)anthracene (DMBA)-induced breast cancer.",
+  "publication_date": "2025-05-13",
+  "journal": "Veterinary world",
+  "doi": "10.14202/vetworld.2025.1137-1146",
+  "entities": {
+    "SYMPTOM": [
+      "7,12-dimethylbenz(a)anthracene (dmba)-induced breast cancer",
+      "antioxidant, anti-inflammatory, and anticancer activities",
+      "breast cancer"
+    ],
+    "POLYPHENOL": [
+      "chemoprotective properties"
+    ]
+  }
+}

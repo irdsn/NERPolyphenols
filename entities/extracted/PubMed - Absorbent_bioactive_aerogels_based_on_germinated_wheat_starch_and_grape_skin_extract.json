@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Absorbent bioactive aerogels based on germinated wheat starch and grape skin extract.",
+  "abstract": "This study aimed to produce water-absorbent bioactive aerogels using biodegradable raw materials, wheat starch and poly ethylene oxide (PEO), and derived from agro-industrial residues (grape skin) obtained in the wine industry. The aerogels were produced using germinated wheat starch (GWS), with and without PEO, and incorporating grape skin extract (GSE) at concentrations of 5 and 10\u00a0% (w/w). The GSE was evaluated for total and individual phenolic compounds, anthocyanins, and antioxidant activity. The starch aerogels were characterized for morphology, density, porosity, functional groups by FT-IR, relative crystallinity and diffraction pattern, water absorption capacity, antioxidant activity, and in vitro release profile of phenolic compounds in food simulant medium. The total phenolic compounds in GSE was 226.25\u00a0\u00b1\u00a00.01\u00a0mg equivalent of gallic acid/g GSE. The aerogels showed low density and high porosity. All aerogels demonstrated high water absorption capacity (581.4 to 997.5\u00a0%). The antioxidant activity of the aerogels increased with increasing GSE concentration and the addition of PEO. The aerogels could release GSE gradually for up to 120\u00a0days in the hydrophilic simulant medium and 240\u00a0h for the hydrophobic medium. Starch-based aerogels with GSE showed potential to be applied as exudate absorbers with antioxidant activity to develop active food packaging.",
+  "publication_date": "2023-08-02",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2023.126108",
+  "entities": {
+    "FOOD": [
+      "germinated wheat starch",
+      "grape skin",
+      "incorporating grape skin extract",
+      "the wine industry",
+      "wheat starch"
+    ],
+    "POLYPHENOL": [
+      "gallic acid",
+      "phenolic compounds",
+      "the total phenolic compounds",
+      "total and individual phenolic compounds"
+    ],
+    "SYMPTOM": [
+      "active food packaging"
+    ]
+  }
+}

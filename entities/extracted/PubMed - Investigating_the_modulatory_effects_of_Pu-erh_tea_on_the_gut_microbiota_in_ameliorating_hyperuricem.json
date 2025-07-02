@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Investigating the modulatory effects of Pu-erh tea on the gut microbiota in ameliorating hyperuricemia induced by circadian rhythm disruption.",
+  "abstract": "Circadian rhythm disruption (CRD) can induce a variety of metabolic disorders. Our previous laboratory studies have shown that Pu-erh tea could alleviate CRD-induced syndromes, including obesity, intestinal dysfunction, and tryptophan metabolism disorders. However, its potential protective mechanism against CRD-induced hyperuricaemia remains unclear. In this work, we found that polyphenols of Pu-erh tea were significantly released in the stage of intestinal digestion, which might promote their interaction with gut microbes. Through animal experiments, C57BL6/J mice were given water or different doses of Pu-erh tea for 60 days, followed by a 90-day CRD, the lifestyle of modern individuals who frequently stay up late. Our results indicated that CRD mice exhibited high serum uric acid levels and gut microbiota disorders. Pu-erh tea intake significantly reshaped the gut microbiome, especially increasing the abundance ofBifidobacterium,AkkermansiaandFaecalibaculum, and increased the production of short-chain fatty acids (SCFAs), especially acetic acid, which restored the function of the intestinal barrier. This improvement further regulated oxidative stress pathways (NRF2/HO-1), reduced systemic inflammatory response (IL-6, IL-1\u03b2, and TNF-\u03b1), restored hepatic function (SOD, MOD, CAT, and GSH) and modulated the activity of enzymes related to UA metabolism in the liver (XOD and ADA). Finally, Pu-erh tea intake promoted the excretion of UA and reduced the levels of UA and xanthine in the serum. Moreover, the results of antibiotic experiments showed that the UA improvement effect of Pu-erh tea depended on the existence of the gut microbiota. Collectively, Pu-erh tea intake has the potential to prevent CRD-induced hyperuricaemia by reshaping the gut microbiota.",
+  "publication_date": "2025-03-31",
+  "journal": "Food & function",
+  "doi": "10.1039/d4fo05659k",
+  "entities": {
+    "FOOD": [
+      "pu-erh tea",
+      "pu-erh tea intake"
+    ],
+    "SYMPTOM": [
+      "obesity"
+    ],
+    "POLYPHENOL": [
+      "akkermansiaandfaecalibaculum",
+      "especially acetic acid",
+      "its potential protective mechanism",
+      "polyphenols",
+      "the ua improvement effect"
+    ]
+  }
+}

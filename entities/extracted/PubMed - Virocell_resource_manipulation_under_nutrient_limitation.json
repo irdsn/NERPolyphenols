@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Virocell resource manipulation under nutrient limitation.",
+  "abstract": "Virus-infected cells, called virocells, impact host metabolic functions, resources, and ecosystem processes, but the effects of nutrient limitation remain less well understood. Here, we leverage transcriptomic, proteomic, and endo- and exo-metabolomic data from twoPseudoalteromonasvirocells independently infected by unrelated dsDNA viruses, PSA-HS2 (HS2-virocells) and PSA-HP1 (HP1-virocells), to examine how phosphate limitation affects virocell resource manipulation intra- and extracellularly. Intracellularly, we find that (i) HP1-virocells boost amino acid production toward the end of the infection cycle but deplete amino acid pools relative to HS2-virocells; (ii) both virocells dampen the production ofde novonucleotide synthesis proteins; (iii) HS2-virocells switch fromde novosynthesis to recycling of phospholipids, whereas HP1-virocells decrease both activities; (iv) all cells (virocells and uninfected cells), but HP1-virocells especially, increase membrane fluidity; and (v) both virocells increase iron storage. Extracellularly, (i) polyphenols, a stress marker, increased in all cells, particularly in HP1-virocells, and (ii) only HP1-virocells showed elevated unsaturated hydrocarbons and oxygen-rich metabolites, which are likely byproducts of intracellular metabolic activity. These findings advance our understanding of how environmental conditions shape virocell activities in ecologically relevant nutrient-limited conditions and reveal distinct responses of virocells to infection by unrelated viruses.IMPORTANCEThis study addresses a knowledge gap in understanding how nutrient limitation shapes virus-infected bacterial cell (virocell) metabolism and its ecosystem footprints. Using multi-omics approaches, we examined how two different viruses (PSA-HP1 and PSA-HS2) independently infecting the same marine heterotrophic bacterium (Pseudoalteromonas) respond to phosphorus limitation. Building upon our previous work, we show how virocell metabolic reprogramming manipulates cellular resources and alters the extracellular environment. Intracellularly, while both virocells reprogram similar metabolic pathways, they manipulate key resources (nucleotides, amino acids, lipids, and iron) distinctly under nutrient limitation. Extracellularly, each virocell generates unique dissolved organic matter metabolites, with a differential expression of stress markers under phosphorus limitation, indicating environment-specific ecosystem footprints. These results provide fundamental insights into how virocell metabolic reprogramming and resource manipulation combine to produce ecosystem-scale metabolic outputs.",
+  "publication_date": "2025-06-24",
+  "journal": "mSystems",
+  "doi": "10.1128/msystems.00521-25",
+  "entities": {
+    "POLYPHENOL": [
+      "ecologically relevant nutrient-limited conditions",
+      "ecosystem processes",
+      "ecosystem-scale metabolic outputs",
+      "environment-specific ecosystem footprints",
+      "extracellularly, (i) polyphenols",
+      "infection",
+      "its ecosystem footprints",
+      "recycling",
+      "the effects",
+      "the infection cycle",
+      "uninfected cells",
+      "virus-infected cells"
+    ],
+    "SYMPTOM": [
+      "a stress marker",
+      "stress markers"
+    ]
+  }
+}

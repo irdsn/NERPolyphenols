@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Structural characterization and physicochemical properties of wine and yeast mannans and evaluation of their interactions with catechin and epicatechin.",
+  "abstract": "Wines are primarily composed of water, ethanol, glycerol, polysaccharides, organic acids, polyphenols, minerals, and volatile compounds. Polysaccharides derived from grape cell walls and yeast play a significant role in wine texture and flavor modulation, notably modulating astringency through interactions with tannins. Mannans, obtained from both wine and yeast, share a similar structure - a main chain of \u03b1-D-Manp linked (1\u00a0\u2192\u00a06) with branching at position 2-O by \u03b1-D-Manp units or oligosaccharides linked (1\u00a0\u2192\u00a02). However, wine mannan has a lower estimated molecular weight (50.88\u00a0kDa) than yeast-derived mannan (62.27\u00a0kDa). Wine mannan exhibits a more linear structure, as indicated by its higher radius of gyration (RG). In contrast, the yeast mannan exhibited a smaller RG, suggesting a more globular conformation due to branching. Additionally, mannans adopt a helical conformation. Epitope mapping reveals that the aromatic ring of catechin and epicatechin is crucial for their interaction with mannan, suggesting a hydrophobic interaction. Based on the obtained dissociation constant (KD) values, it is suggested that mannans with lower molecular weights (MW) are more viable for neutralizing the astringency caused by catechin and epicatechin in white wines.",
+  "publication_date": "2025-03-05",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.141798",
+  "entities": {
+    "FOOD": [
+      "both wine",
+      "grape cell walls",
+      "white wines",
+      "wine",
+      "wine mannan",
+      "wine texture",
+      "wines"
+    ],
+    "POLYPHENOL": [
+      "a lower estimated molecular weight",
+      "catechin",
+      "epicatechin",
+      "lower molecular weights",
+      "polyphenols",
+      "tannins"
+    ]
+  }
+}

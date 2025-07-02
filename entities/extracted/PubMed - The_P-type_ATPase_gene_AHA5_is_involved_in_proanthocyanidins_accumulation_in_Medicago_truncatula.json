@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "The P-type ATPase gene AHA5 is involved in proanthocyanidins accumulation in Medicago truncatula.",
+  "abstract": "Proanthocyanidins (PAs) are the second most abundant plant phenolic natural products. The proton membrane H+-ATPase (AHA) is required for PA transportation in vacuoles, but it remains unclear which AHA gene(s) encode tonoplast proton pump in M. truncatula. Here, we identified three Tnt1 mutant lines of MtAHA5, resulting in PAs deficit in seeds. MtAHA5 was preferentially expressed in developing seeds, exhibiting its highest transcript levels at early stages. Although MtAHA3, MtAHA4, and MtAHA9 shared similar transcript patterns with MtAHA5 and other structural genes involved in PA biosynthesis, their mutant lines did not exhibit any PA-deficit phenotypes. Subcellular localization analysis demonstrated that MtAHA5 is targeted to the tonoplast in tobacco leaves; conversely, MtAHA3 and MtAHA9 are localized to the cytoplasm, suggesting that MtAHA5 acts as a tonoplast proton pump but not MtAHA3 or MtAHA9. Further genetic analyses revealed that MtAHA5 could complement the PA-deficit phenotype in mtaha5 mutants and ataha10 mutants. Transient transcription assays indicated that MtAHA5 is activated by the MBW complex to regulate the PA accumulation. Collectively, our findings suggest that MtAHA5 serves as a tonoplast proton pump to generate the driving force for MATE1-mediated transport of PA precursors into vacuoles.",
+  "publication_date": "2025-01-04",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.139508",
+  "entities": {
+    "POLYPHENOL": [
+      "pa precursors",
+      "proanthocyanidins",
+      "the second most abundant plant phenolic natural products"
+    ]
+  }
+}

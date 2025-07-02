@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Comprehensive analysis of phytochemicals inAporosa cardiosperma (Gaertn.) Merrroot: chromatographic techniques and experimental insights.",
+  "abstract": "This novel study investigates the bioactive compounds in the roots ofAporosa cardiosperma (Gaertn.) MerrA. cardiosperma, a tree with significant use in traditional Asian medicine. Through a comprehensive chromatographic approach, including TLC, HPTLC, GC-MS, and LC-MS, this research offers new insights into the plant's bioactive profile. Sequential extraction with solvents of varying polarity was followed by phytochemical screening and quantification of flavonoids and phenolic compounds. The results revealed a diverse range of bioactive components, including flavonoids, terpenoids, phenols, and steroids, with the highest concentrations found in methanolic and ethanolic extracts. Notably, the ethanolic extract contained 7.0\u2009\u00b1\u20090.03\u2009mg of phenolics and 30.1\u2009\u00b1\u20090.04\u2009mg of flavonoids. The GC-MS identified 31 compounds, and LC-MS detected 15, including phyllanthacidoid methyl ester, beta-sitosterol, gallic acid, rutin, ellagic acid, and chlorogenic acid. This groundbreaking research highlightsA. cardiosperma'stherapeutic potential and paves the way for its future application in modern medicine.",
+  "publication_date": "2025-05-28",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2511157",
+  "entities": {
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "ellagic acid",
+      "flavonoids",
+      "gallic acid",
+      "phenolic compounds",
+      "rutin"
+    ]
+  }
+}

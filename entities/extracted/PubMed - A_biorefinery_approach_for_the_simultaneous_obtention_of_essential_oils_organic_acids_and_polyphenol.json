@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "A biorefinery approach for the simultaneous obtention of essential oils, organic acids and polyphenols from citrus peels: Phytochemical characterization and bioactive potential.",
+  "abstract": "This investigation evaluates the valorization of citrus peels (lemon, tangerine, and orange) to recover both on-polar and polar fractions simultaneously. Citrus essential oils, abundant in limonene (74.4-33.7\u00a0%), exhibited great antioxidant activity (IC50=\u00a02.002\u00a0mg/mL) and Campylobacter jejuni halo inhibition (2.9\u00a0cm), particularly in tangerine and orange essential oils. The aqueous extracts were rich in quinic and malic acid (10-78.8\u00a0g/100\u00a0g), along with polyphenols (22.7-5.2\u00a0mg/g), such as diosmetin, luteolin, and eriodictyol glycosides. Tangerine's aqueous fraction showed the highest inhibition of oxidative hemolysis (IC50=\u00a0102\u00a0\u03bcg/mL) and Staphylococcus aureus (MIC\u00a0=\u00a02.5\u00a0mg/mL). Whereas lemon was most effective against lipid peroxidation (IC50=\u00a01.33\u00a0mg/mL) and gastric adenocarcinoma proliferation (IG50=\u00a083\u00a0\u03bcg/mL). Principal component analysis correlated the in vitro bioactivities with each compound and citrus type, underscoring the potential of citrus peels as a cost-effective, sustainable source of value-added compounds with tailored commercial applications.",
+  "publication_date": "2025-05-06",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144641",
+  "entities": {
+    "FOOD": [
+      "lemon",
+      "tangerine and orange essential oils"
+    ],
+    "POLYPHENOL": [
+      "a cost-effective, sustainable source",
+      "eriodictyol glycosides",
+      "luteolin",
+      "polyphenols"
+    ]
+  }
+}

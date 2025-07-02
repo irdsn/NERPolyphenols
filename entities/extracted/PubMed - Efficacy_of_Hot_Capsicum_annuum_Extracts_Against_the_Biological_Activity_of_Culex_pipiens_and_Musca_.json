@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Efficacy of Hot Capsicum annuum Extracts Against the Biological Activity of Culex pipiens and Musca domestica Larvae with their Phytochemical Profiles.",
+  "abstract": "The extensive use of chemical pesticides poses risks to the environment and human health due to the toxicity and poor biodegradability. Alternative natural practices, including the use of natural molecules, are needed to achieve more sustainable production methods to meet consumer and societal expectations. Plants contain a wide range of potential phytochemicals that target a specific target, are rapidly biodegradable, are environmentally friendly, and have a variety of therapeutic effects, making them a treasure trove of biological materials.",
+  "publication_date": "2025-06-09",
+  "journal": "Acta parasitologica",
+  "doi": "10.1007/s11686-025-01066-3",
+  "entities": {
+    "POLYPHENOL": [
+      "a specific target",
+      "consumer and societal expectations",
+      "natural molecules",
+      "therapeutic effects"
+    ]
+  }
+}

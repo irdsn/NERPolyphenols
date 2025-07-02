@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Direct assembly of tannic acid-based metal-phenolic networks at the oil-water Interface for emulsion stabilization.",
+  "abstract": "Metal-phenolic networks (MPNs) combine the specific functionalities of metal ions with the high affinity of phenolic compounds, making them promising candidates for food emulsion engineering. Current research has primarily focused on using MPNs to modify exogenous stabilizers for enhanced emulsion stabilization, while the emulsifying properties and direct interfacial behavior of MPNs themselves have not been sufficiently elucidated. We employed a stepwise interfacial assembly strategy for MPNs-based emulsion stabilization: initial emulsion formation using tannic acid (TA), a common natural polyphenol, followed by in-situ formation of MPNs through metal coordination (FeIII, CuII, AlIII, and ZnII). The changes of the CO group in the FT-IR and XPS spectra confirmed the charge migration from TA to metal ions and the formation of coordination bonds, demonstrating the successful formation of MPNs. A higher TA concentration (2.0\u00a0%) is conducive to forming larger MPNs structures, with the corresponding TA2.0/Fe-MPNs stabilized emulsions exhibited the best stability (from 231.30\u00a0nm to 275.54\u00a0nm after 21-day storage). The MPNs formed by TA and four selected metal ions were all successfully localized at the interface for emulsion stabilization, with superior stability during the 21-day storage period. Comparing MPNs constructed with different metal ions, TA/Zn-MPNs could form the densest interfacial adsorption layer up to 384.74\u00a0ng/cm2, approximately 2.33 times than that of TA/Fe-MPNs, suggesting their superior potential as effective emulsion stabilizers. This study provides foundational insights into the interfacial behavior and stabilization mechanisms of MPNs stabilized emulsions, offering guidance for the design of multifunctional food emulsion systems and expanding the application of MPNs in food industry.",
+  "publication_date": "2025-05-13",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116625",
+  "entities": {
+    "POLYPHENOL": [
+      "a common natural polyphenol",
+      "direct interfacial behavior",
+      "effective emulsion stabilizers",
+      "four selected metal ions",
+      "phenolic compounds",
+      "the interfacial behavior and stabilization mechanisms",
+      "the specific functionalities",
+      "xps spectra"
+    ],
+    "FOOD": [
+      "multifunctional food emulsion systems"
+    ]
+  }
+}

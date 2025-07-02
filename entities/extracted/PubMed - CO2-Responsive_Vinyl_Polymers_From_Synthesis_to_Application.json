@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "CO2-Responsive Vinyl Polymers: From Synthesis to Application.",
+  "abstract": "CO2-responsive polymers have emerged as a significant class of smart materials, distinguished by their ability to reversibly alter their properties upon exposure to CO2. Due to CO2's abundant availability, low cost, non-toxicity, energy efficiency, and excellent biocompatibility, these polymers offer remarkable environmental and practical advantages. This review succinctly explores recent advancements in the synthesis, mechanisms, and applications of CO2-responsive polymers, emphasizing the pivotal roles of specific acidic and basic functional groups such as carboxylic acids, phenolic groups, amines, amidines, guanidines, and imidazoles. Advanced polymerization techniques including free radical polymerization (FRP), atom transfer radical polymerization (ATRP), reversible addition-fragmentation chain transfer (RAFT), and nitroxide-mediated polymerization (NMP) are critically evaluated for their precision and flexibility in polymer design. Significant applications in smart separation, carbon capture, drug delivery, desalination, emulsions, tissue engineering, and sensing technologies are discussed comprehensively. Although substantial progress has been made, ongoing challenges include enhancing response speed, durability, sustainability, and economic viability. Future research is recommended to focus on innovative polymer structures, computational modeling, hybrid materials, and greener synthesis methods. This review aims to inspire continued exploration and practical utilization of CO2-responsive polymers to address pressing environmental and technological needs.",
+  "publication_date": "2025-05-28",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112350",
+  "entities": {
+    "POLYPHENOL": [
+      "advanced polymerization techniques",
+      "economic viability",
+      "environmental and technological needs",
+      "mechanisms",
+      "recent advancements",
+      "sensing technologies",
+      "specific acidic and basic functional groups",
+      "their precision"
+    ]
+  }
+}

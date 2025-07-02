@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "A bacterial cellulose-based multifunctional conductive hydrogel for flexible strain sensors and supercapacitors.",
+  "abstract": "With the accelerated integration of flexible electronic technology and modern information technology, the demand for multifunctional flexible devices is becoming increasingly urgent. Hydrogel, as an excellent flexible material, is receiving widespread attention and in-depth research from researchers. In this study, a multifunctional ionic hydrogel was successfully prepared by introducing bacterial cellulose (BC), tannic acid (TA), and LiCl into the P(AM-co-AA) polymer network. This hydrogel exhibits excellent mechanical properties (3208.3\u00a0%), good conductivity (4.15\u00a0S/m), and outstanding self-adhesiveness. Flexible strain sensors and flexible supercapacitors based on PBTL hydrogel were fabricated, exhibiting advantages such as a wide detection range (0-3000\u00a0%), high sensitivity (GF\u00a0=\u00a06.93), high areal capacitance (133.6 mF/cm2), and good stability. It demonstrates excellent application potential in wearable motion detection and energy storage fields. Furthermore, a smart glove was developed using a 5-unit PBTL sensor, which, combined with VR technology, enables wireless gesture control of a hexapod robot. This system provides a high-quality solution for achieving more advanced interactive tasks in complex environments.",
+  "publication_date": "2025-04-11",
+  "journal": "Carbohydrate polymers",
+  "doi": "10.1016/j.carbpol.2025.123601",
+  "entities": {
+    "POLYPHENOL": [
+      "a wide detection range",
+      "excellent mechanical properties",
+      "flexible electronic technology",
+      "modern information technology",
+      "vr technology",
+      "wearable motion detection and energy storage fields"
+    ]
+  }
+}

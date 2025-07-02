@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Totum-070, a Polyphenol-Rich Plant Extract, Prevents Hypercholesterolemia in High-Fat Diet-Fed Hamsters by Inhibiting Intestinal Cholesterol Absorption.",
+  "abstract": "Atherosclerotic cardiovascular disease is the leading cause of mortality worldwide, and hypercholesterolemia is a central risk factor for atherosclerosis. This study evaluated the effects of Totum-070, a plant-based polyphenol-rich supplement, in hamsters with high-fat diet (HFD)-induced dyslipidemia. The molecular mechanisms of action were explored using human Caco2 enterocytes. Totum-070 supplementation reduced the total cholesterol (-41%), non-HDL cholesterol (-47%), and triglycerides (-46%) in a dose-dependent manner, compared with HFD. HFD-induced hepatic steatosis was also significantly decreased by Totum-070, an effect associated with the reduction in various lipid and inflammatory gene expression. Upon challenging with olive oil gavage, the post-prandial triglyceride levels were strongly reduced. The sterol excretion in the feces was increased in the HFD-Totum-070 groups compared with the HFD group and associated with reduction of intestinal cholesterol absorption. These effects were confirmed in the Caco2 cells, where incubation with Totum-070 inhibited cholesterol uptake and apolipoprotein B secretion. Furthermore, a microbiota composition analysis revealed a strong effect of Totum-070 on the alpha and beta diversity of bacterial species and a significant decrease in the Firmicutes to Bacteroidetes ratio. Altogether, our findings indicate that Totum-070 lowers hypercholesterolemia by reducing intestinal cholesterol absorption, suggesting that its use as dietary supplement may be explored as a new preventive strategy for cardiovascular diseases.",
+  "publication_date": "2023-12-09",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu15245056",
+  "entities": {
+    "SYMPTOM": [
+      "atherosclerosis",
+      "hfd-induced hepatic steatosis"
+    ],
+    "POLYPHENOL": [
+      "a plant-based polyphenol-rich supplement",
+      "a significant decrease",
+      "a strong effect",
+      "an effect",
+      "apolipoprotein b secretion",
+      "bacterial species",
+      "the effects",
+      "the feces",
+      "the molecular mechanisms",
+      "these effects"
+    ],
+    "FOOD": [
+      "olive oil gavage"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Suitable Planting Area Prediction for TwoArnebiaSpecies: An Analysis Based on Habitat and Phytochemical Suitability.",
+  "abstract": "The distribution of suitable habitats for medicinal plants is affected by climate, soil, land use, and other factors.Arnebiae Radix, an important traditional Chinese medicinal resource in Xinjiang, includesArnebia euchroma(Royle) I. M. Johnst. andArnebia guttataBunge and is at risk of over-exploitation. This study predicted suitable planting areas by integrating habitat and phytochemical suitability using the MaxEnt model and ArcGIS. The AUC values forA. euchromaandA. guttatawere 0.977 and 0.952, with TSS values of 0.829 and 0.725, respectively, validating the high accuracy of the prediction model. Under the current scenario, the areas of suitable habitats forA. euchromaandA. guttatawere 108,914 and 176,445 km2, mainly distributed along the main mountains in Xinjiang. Under future climate scenarios, the suitable habitat area ofA. euchromaincreased by 11-18%, except in the ssp126-2090s scenario, while the suitable habitat area ofA. guttataarea decreased by 3-18%. Both species were influenced by land use/land cover and soil available nitrogen content; additionally,A. euchromawas affected by the precipitation in the driest month, andA. guttataby the mean diurnal range. The content of secondary metabolites was positively correlated with habitat suitability, with soil factors contributing 35.25% to the total secondary metabolite content. Their suitable habitats predominantly occur in grasslands (42-82%). As habitat and phytochemical suitability distributions aligned, the eastern and western sides of the northern Kunlun Mountain Pass emerged as key areas for cultivation. This research can provide a scientific foundation for selecting optimal planting regions for the twoArnebiaspecies.",
+  "publication_date": "2025-05-30",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14111669",
+  "entities": {
+    "POLYPHENOL": [
+      "both species",
+      "secondary metabolites",
+      "the precipitation",
+      "the total secondary metabolite content",
+      "the twoarnebiaspecies"
+    ]
+  }
+}

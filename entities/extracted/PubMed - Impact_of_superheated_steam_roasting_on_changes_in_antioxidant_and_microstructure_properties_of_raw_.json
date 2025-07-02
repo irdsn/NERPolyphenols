@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Impact of superheated steam roasting on changes in antioxidant and microstructure properties of raw and processed cocoa cotyledon.",
+  "abstract": "This research focused on the roasting of cocoa beans at 184\u00a0\u00b0C for 16\u00a0min duration in a superheated steam oven using two separate modes of heating: convection mode and superheated steam mode. After roasting, the antioxidant properties of the cooked cocoa were assessed as ferric reducing antioxidant power activity (FRAP), DPPH radical scavenging activity, total flavonoid content (TFC) and total phenol content (TPC). The micro structural properties of raw and processed cocoa beans were observed using scanning electron microscopy (SEM). As discovered in the scan, conventional roasting showed a nearly complete rapture of the cytoplasmic network system and the destruction of the organelles, whereas superheated steam mode showed satisfactory images. Studies indicated that superheated steam roasting preserved significantly (p\u00a0<\u00a00.05) greater antioxidant properties as opposed to conventional method of roasting.",
+  "publication_date": "2023-01-13",
+  "journal": "Saudi journal of biological sciences",
+  "doi": "10.1016/j.sjbs.2023.103562",
+  "entities": {
+    "FOOD": [
+      "cocoa beans",
+      "raw and processed cocoa beans",
+      "the cooked cocoa"
+    ],
+    "POLYPHENOL": [
+      "convection mode",
+      "electron microscopy"
+    ]
+  }
+}

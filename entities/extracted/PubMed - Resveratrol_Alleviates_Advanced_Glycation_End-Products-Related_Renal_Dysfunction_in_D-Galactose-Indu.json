@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Resveratrol Alleviates Advanced Glycation End-Products-Related Renal Dysfunction in D-Galactose-Induced Aging Mice.",
+  "abstract": "The elderly have higher concentrations of advanced glycation end-products (AGEs). AGEs are considered risk factors that accelerate aging and cause diabetic nephropathy. The effects of AGEs on renal function in the elderly remain to be clarified. This study aimed to explore the role of AGEs in renal function decline in the elderly and the protective effect of resveratrol, a stilbenoid polyphenol, comparing it with aminoguanidine (an AGEs inhibitor). A D-galactose-induced aging mouse model was used to explore the role of AGEs in the process of renal aging. The mice were administered D-galactose subcutaneously for eight weeks in the presence or absence of orally administered aminoguanidine or resveratrol. The results showed that the serum levels of AGEs and renal function markers BUN, creatinine, and cystatin C in the mice significantly increased after the administration of D-galactose, and this outcome could be significantly reversed by treatment with aminoguanidine or resveratrol. The protein expression levels for apoptosis, fibrosis, and aging-related indicators in the kidneys were significantly increased, which could also be reversed by treatment with aminoguanidine or resveratrol. These findings suggest that resveratrol could alleviate AGEs-related renal dysfunction through the improvement of renal cellular senescence, apoptosis, and fibrosis in D-galactose-induced aging in mice.",
+  "publication_date": "2023-05-13",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo13050655",
+  "entities": {
+    "SYMPTOM": [
+      "a d-galactose-induced aging mouse model",
+      "aging",
+      "aging-related indicators",
+      "apoptosis",
+      "d-galactose-induced aging",
+      "renal aging"
+    ],
+    "POLYPHENOL": [
+      "a stilbenoid polyphenol",
+      "renal function decline",
+      "resveratrol",
+      "the effects",
+      "the protective effect"
+    ]
+  }
+}

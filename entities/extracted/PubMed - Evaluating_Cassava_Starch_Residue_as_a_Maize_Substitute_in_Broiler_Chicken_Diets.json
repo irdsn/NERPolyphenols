@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Evaluating Cassava Starch Residue as a Maize Substitute in Broiler Chicken Diets.",
+  "abstract": "A total of 360 1-week-old broiler chicks were utilized in a 6-week experimental study designed to evaluate the effects of varying levels of cassava starch residue (CSR) on growth performance, hematological profiles, nutrient digestibility, and carcass quality in broiler chickens. The chicks were raised in floor pens and divided into six dietary treatments, each comprising 60 birds, with five replicates in a completely randomized design. CSR was incorporated into the diet at inclusion levels of 0%, 20%, 30%, 40%, 50%, and 60%, replacing maize. CSR contains lower quantities of anti-nutrients such as phytates, oxalates, tannins, saponins, cyanide, and alkaloids, making it more beneficial for farmers to use it in broiler diets without adverse effects. By Day 49, all CSR treatment groups had significantly lower average daily weight gain and final body weight (p<\u20090.05) compared to the control group. The feed conversion ratio (FCR) was significantly improved (p<\u20090.05) in the control, 20%, and 30% CSR groups compared to the 40%, 50%, and 60% CSR groups. Additionally, crude fiber retention was significantly higher (p<\u20090.05) in the CSR treatment diets than in the control diet. Thus, it is suggested that CSR can replace maize up to a 30% inclusion level to optimize feed efficiency and improve carcass yield in broiler chickens.",
+  "publication_date": "2025-06-07",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70360",
+  "entities": {
+    "POLYPHENOL": [
+      "adverse effects",
+      "tannins",
+      "the effects"
+    ]
+  }
+}

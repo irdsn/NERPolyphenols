@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Micro- and Nanoengineered Devices for Rapid Chemotaxonomic Profiling of Medicinal Plants.",
+  "abstract": "Chemotaxonomic profiling based on secondary metabolites offers a reliable approach for identifying and authenticating medicinal plants, addressing limitations associated with traditional morphological and genetic methods. Recent advances in microfluidics and nanoengineered technologies-including lab-on-a-chip systems as well as nano-enabled optical and electrochemical sensors-enable the rapid, accurate, and portable detection of key metabolites, such as alkaloids, flavonoids, terpenoids, and phenolics. Integrating artificial intelligence and machine learning techniques further enhances the analytical capabilities of these technologies, enabling automated, precise plant identification in field-based applications. Therefore, this review aims to highlight the potential applications of micro- and nanoengineered devices in herbal medicine markets, medicinal plant authentication, and biodiversity conservation. We discuss strategies to address current challenges, such as biocompatibility and material toxicity, technical limitations in device miniaturization, and regulatory and standardization requirements. Furthermore, we outline future trends and innovations necessary to fully realize the transformative potential of these technologies in real-world chemotaxonomic applications.",
+  "publication_date": "2025-06-10",
+  "journal": "Nanomaterials (Basel, Switzerland)",
+  "doi": "10.3390/nano15120899",
+  "entities": {
+    "POLYPHENOL": [
+      "automated, precise plant identification",
+      "flavonoids",
+      "microfluidics and nanoengineered technologies",
+      "optical and electrochemical sensors",
+      "recent advances",
+      "secondary metabolites",
+      "technical limitations",
+      "techniques",
+      "the rapid, accurate, and portable detection",
+      "these technologies"
+    ]
+  }
+}

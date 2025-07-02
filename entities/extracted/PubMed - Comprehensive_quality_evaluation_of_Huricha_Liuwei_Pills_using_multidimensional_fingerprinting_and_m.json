@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Comprehensive quality evaluation of Huricha Liuwei Pills using multidimensional fingerprinting and multicomponent quantification.",
+  "abstract": "In recent years, the application of traditional Chinese medicine (TCM) has gradually increased in the world, the study of quality control has become more and more important. As a branch of TCM, Mongolian medicine has complex compositions and lacks research on the overall quality. Therefore, in this paper, three fingerprints, high performance liquid chromatography (HPLC), differential scanning calorimetry (DSC) and electrochemical (EC), were established using Huricha Liuwei pills (HLP) as an example, and the quality of the three fingerprints was evaluated by the comprehensive ratio quantitative fingerprint method (CRQFM). To ensure the accuracy of the quantitative analysis, the purity of the fingerprint peaks was verified using the dual-wavelength absorption coefficient ratio (DWACR). And four components were quantified by the multi-markers assay by monolinear method (MAML): gallic acid (GA), chlorogenic acid (CA), hydroxysafflor yellow A (HSYA) and ellagic acid (EA). Based on the EC redox characteristics, the fingerprint efficacy relationship between two fingerprints (HPLC and DSC) and EC activity was established. The results showed that after CRQFM evaluation, 16 batches of samples were categorized into different quality grades. Subsequently, the evaluation results were integrated using the equal weighing method, and the 16 batches of samples had quality grades ranging from 1 to 3. The fingerprint efficacy relationship indicated that more than half of the fingerprint peaks showed good antioxidant activity, including GA, CA and EA. This paper established an effective quality control method for HLP and provided new ideas for the quality evaluation of other TCM.",
+  "publication_date": "2025-04-25",
+  "journal": "Journal of pharmaceutical and biomedical analysis",
+  "doi": "10.1016/j.jpba.2025.116925",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective quality control method",
+      "chlorogenic acid",
+      "ec activity",
+      "electrochemical (ec",
+      "gallic acid",
+      "recent years",
+      "the ec redox characteristics"
+    ]
+  }
+}

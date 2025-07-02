@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Antitumor Effects of Epigallocatechin-3-Gallate on Colorectal Cancer: AnIn VitroandIn VivoStudy.",
+  "abstract": "Tea consumption is widely reported to have beneficial effects on cancer prevention. Epigallocatechin-3-gallate (EGCG), a major bioactive component of green tea, has demonstrated anti-proliferative effects against various cancer cell types. This study aimed to evaluate the antitumor effects of EGCG on human colon and colorectal cancer cells bothin vitroandin vivoand to identify microRNAs (miRNAs) associated with its antitumor activity.",
+  "publication_date": "2025-06-01",
+  "journal": "Anticancer research",
+  "doi": "10.21873/anticanres.17661",
+  "entities": {
+    "POLYPHENOL": [
+      "(egcg",
+      "anti-proliferative effects",
+      "beneficial effects",
+      "egcg",
+      "epigallocatechin-3-gallate",
+      "human colon and colorectal cancer cells",
+      "the antitumor effects"
+    ],
+    "SYMPTOM": [
+      "cancer prevention",
+      "various cancer cell types"
+    ],
+    "FOOD": [
+      "green tea"
+    ]
+  }
+}

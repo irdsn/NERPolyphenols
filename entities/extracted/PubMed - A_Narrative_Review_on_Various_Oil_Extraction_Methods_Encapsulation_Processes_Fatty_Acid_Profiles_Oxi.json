@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "A Narrative Review on Various Oil Extraction Methods, Encapsulation Processes, Fatty Acid Profiles, Oxidative Stability, and Medicinal Properties of Black Seed (Nigella sativa).",
+  "abstract": "The current review investigates the effects of black seed (Nigella sativa) on human health, which is also used to encapsulate and oxidative stable in different food products. In recent decades, many extraction methods, such as cold pressing, supercritical fluid extraction, Soxhlet extraction, hydro distillation (HD) method, microwave-assisted extraction (MAE), ultrasound-assisted extraction, steam distillation, and accelerated solvent extraction (ASE) have been used to extract the oils from black seeds under optimal conditions. Black seed oil contains essential fatty acids, in which the major fatty acids are linoleic, oleic, and palmitic acids. The oxidative stability of black seed oil is very low, due to various environmental conditions or factors (temperature and light) affecting the stability. The oxidative stability of black seed oil has been increased by using encapsulation methods, including nanoprecipitation, ultra-sonication, spray-drying, nanoprecipitation, electrohydrodynamic, atomization, freeze-drying, a electrospray technique, and coaxial electrospraying. Black seed, oil, microcapsules, and their components have been used in various food processing, pharmaceutical, nutraceutical, and cosmetics industries as functional ingredients for multiple purposes. Black seed and oil contain thymoquinone as a major component, which has anti-oxidant, -diabetic, -inflammatory, -cancer, -viral, and -microbial properties, due to its phenolic compounds. Many clinical and experimental studies have indicated that the black seed and their by-products can be used to reduce the risk of cardiovascular diseases, chronic cancer, diabetes, oxidative stress, polycystic ovary syndrome, metabolic disorders, hypertension, asthma, and skin disorders. In this review, we are focusing on black seed oil composition and increasing the stability using different encapsulation methods. It is used in various food products to increase the human nutrition and health properties.",
+  "publication_date": "2022-09-13",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods11182826",
+  "entities": {
+    "POLYPHENOL": [
+      "a electrospray technique",
+      "coaxial electrospraying",
+      "electrohydrodynamic",
+      "its phenolic compounds",
+      "nanoprecipitation",
+      "recent decades",
+      "the effects",
+      "ultra-sonication, spray-drying, nanoprecipitation"
+    ],
+    "SYMPTOM": [
+      "anti-oxidant, -diabetic, -inflammatory, -cancer, -viral, and -microbial properties",
+      "chronic cancer",
+      "hypertension",
+      "oxidative stress"
+    ]
+  }
+}

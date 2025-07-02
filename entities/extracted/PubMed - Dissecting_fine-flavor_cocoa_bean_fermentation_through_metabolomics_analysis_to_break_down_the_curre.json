@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Dissecting fine-flavor cocoa bean fermentation through metabolomics analysis to break down the current metabolic paradigm.",
+  "abstract": "Cocoa fermentation plays a crucial role in producing flavor and bioactive compounds of high demand for food and nutraceutical industries. Such fermentations are frequently described as a succession of three main groups of microorganisms (i.e., yeast, lactic acid, and acetic acid bacteria), each producing a relevant metabolite (i.e., ethanol, lactic acid, and acetic acid). Nevertheless, this view of fermentation overlooks two critical observations: the role of minor groups of microorganisms to produce valuable compounds and the influence of environmental factors (other than oxygen availability) on their biosynthesis. Dissecting the metabolome during spontaneous cocoa fermentation is a current challenge for the rational design of controlled fermentations. This study evaluates variations in the metabolic fingerprint during spontaneous fermentation of fine flavor cocoa through a multiplatform metabolomics approach. Our data suggested the presence of two phases of differential metabolic activity that correlate with the observed variations on temperature over fermentations: an exothermic and an isothermic phase. We observed a continuous increase in temperature from day 0 to day 4 of fermentation and a significant variation in flavonoids and peptides between phases. While the second phase, from day four on, was characterized for lower metabolic activity, concomitant with small upward and downward fluctuations in temperature. Our work is the first to reveal two phases of metabolic activity concomitant with two temperature phases during spontaneous cocoa fermentation. Here, we proposed a new paradigm of cocoa fermentation that considers the changes in the global metabolic activity over fermentation, thus changing the current paradigm based only on three main groups of microorganism and their primary metabolic products.",
+  "publication_date": "2021-11-09",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-021-01427-8",
+  "entities": {
+    "FOOD": [
+      "cocoa fermentation",
+      "fine flavor cocoa",
+      "spontaneous cocoa fermentation"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "the second phase"
+    ]
+  }
+}

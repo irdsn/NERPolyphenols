@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Fisetin, a Promising Anti-Cancer Flavonoid: A Brief Review of Its Biological Effects and Molecular Mechanisms in Lung Cancer Prevention and Therapy.",
+  "abstract": "Experimental evidence has demonstrated that compounds of natural origin possess adjuvant anti-cancer properties, and their combination with anti-cancer drugs has the potential to reduce drug resistance in cancer treatment exhibiting chemoprotective effects.",
+  "publication_date": "2025-04-04",
+  "journal": "Current reviews in clinical and experimental pharmacology",
+  "doi": "10.2174/0127724328344902250324062309",
+  "entities": {
+    "SYMPTOM": [
+      "adjuvant anti-cancer properties",
+      "anti-cancer drugs",
+      "cancer treatment"
+    ],
+    "POLYPHENOL": [
+      "chemoprotective effects"
+    ]
+  }
+}

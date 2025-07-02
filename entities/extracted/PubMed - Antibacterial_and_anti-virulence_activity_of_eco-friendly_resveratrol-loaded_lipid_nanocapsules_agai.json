@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Antibacterial and anti-virulence activity of eco-friendly resveratrol-loaded lipid nanocapsules against methicillin-resistant staphylococcus aureus.",
+  "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA) is challenging modern antimicrobial therapy due to its high antimicrobial resistance. Nutraceuticals have gained a lot of interest and their incorporation into nanoparticles further improves their efficacy. This study aimed to evaluate the antibacterial activity of linalool-based lipid nanocapsules loaded with resveratrol (LIN-LNC-RES) as a synergistic strategy against MRSA. LIN-LNC-RES were prepared by the phase inversion temperature method and characterized for their colloidal properties, in vitro release, and stability. The antibacterial and antibiofilm activity against S. aureus and different MRSA clinical isolates were investigated. Furthermore, scanning electron microscopy (SEM) imaging for visualization of biofilm formation and bacterial membrane integrity as well as mechanistic investigation using quantitative real-time polymerase chain reaction (qRT-PCR) analysis were performed. LIN-LNCs-RES demonstrated favorable properties with a size of 35.19\u2009\u00b1\u20090.72\u00a0nm, PDI of 0.09\u2009\u00b1\u20090.02 and a zeta potential of -2.53\u2009\u00b1\u20090.07 mV with RES 98% EE. They showed a controlled release of RES over 24\u00a0h and were stable at 4\u00a0\u00b0C for 3 months. Compared to free drug, LIN-LNC-RES showed a 4-fold decrease in MIC values and 10-fold decrease in half maximal biofilm inhibitory concentration value. Biofilm eradication assay showed superiority of LIN-LNC-RES over RES against all isolates with disrupted bacterial membranes as revealed by SEM. Mechanistically, qRT-PCR showed that LIN-LNC-RES significantly reduced RNAIII gene expression as well as the expression of SaeRS two component system, potentially affecting quorum sensing and virulence factors expression. RES-loaded LIN-based nanosystem offers a great potential for combating MRSA infections, neutralizing its virulence activity hence, overcoming antimicrobial resistance.",
+  "publication_date": "2025-04-26",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-95343-w",
+  "entities": {
+    "POLYPHENOL": [
+      "10-fold decrease",
+      "a 4-fold decrease",
+      "electron microscopy",
+      "mechanistic investigation",
+      "mrsa infections",
+      "resveratrol"
+    ],
+    "SYMPTOM": [
+      "imaging"
+    ]
+  }
+}

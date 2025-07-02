@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Crosstalk between short- and long-term calorie restriction transcriptomic signatures with anxiety-like behavior, aging, and neurodegeneration: implications for drug repurposing.",
+  "abstract": "Calorie restriction (CR) is considered an effective intervention for anxiety, aging, and obesity. We investigated the effects of short- and long-term CR on behavior as well as transcriptome profiles in the hypothalamus, amygdala, prefrontal cortex, pituitary, and adrenal glands of Hooded Wistar and Long Evans male rats. A reduction in anxiety-like behavior, as assessed via the elevated plus maze, was observed in both short- and long-term CR. Despite this, short- and long-term CR regulated different sets of genes, leading to distinct transcriptomic signatures. The employed models were able to simultaneously analyze categorical and numerical variables, evaluating the effect of tissue type along with expression data. In all tissues, transcription factors, zinc finger protein 45-like and zinc finger BTB domain-containing two, were the top selected genes by the models in short and long-term CR treatments, respectively. Text mining identified associations between genes of the short-term CR signature and neurodegeneration, stress, and obesity and between genes of the long-term signature and the nervous system. Literature mining-based drug repurposing showed that alongside known CR mimetics such as resveratrol and rapamycin, candidates not typically associated with CR mimetics may be repurposed based on their interaction with transcriptomic signatures of CR. This study goes some way to unravelling the global effects of CR and opens new avenues for treatment for emotional disorders, neurodegeneration, and obesity.",
+  "publication_date": "2023-11-29",
+  "journal": "Frontiers in behavioral neuroscience",
+  "doi": "10.3389/fnbeh.2023.1257881"
+}

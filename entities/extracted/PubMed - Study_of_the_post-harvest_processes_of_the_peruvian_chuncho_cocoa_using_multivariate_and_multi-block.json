@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Study of the post-harvest processes of the peruvian chuncho cocoa using multivariate and multi-block analysis.",
+  "abstract": "A screening of 24 Chuncho cacao postharvest processes was carried out and three treatments were identified with the best levels of functional non-volatile metabolites and the best profile of volatile metabolites. The relationship between the sensory profile of flavor and aroma, volatile and non-volatile metabolites was investigated by multiblock analysis. The most prominent volatile metabolites were benzaldehyde (Bz), 2,3,5-trimethylpyrazine (TriMP), 2,3,5,6-tetramethylpyrazine (TetraMP), myrcene (Myr), limonene (LM), ethylphenyl acetate (EpHAc) and 2-phenylethyl acetate (pHEthAc), and functional nonvolatile metabolites were total flavonoids (Tflav), total polyphenols (TppH), catechins (Cat), epicatechin (EpCat), caffeine (Caf), and theobromine (TeoB). Sensory analysis by MFA (multiple factorial analysis) allowed checking the substrates of the metabolites and highlighting correlated flavor and aroma descriptors. Based on multiblock analysis, four new descriptors were identified for Bz, Myr, and LM, such as nut, astringent, bitter, and crude. For TetraMP the fruity flavor was identified and for TriMP it was identified as Malt flavor. For Cat, EpCat, Caf, TeoB, Tflav, and TppH, the descriptors bitter, astringent, floral, and fruity were identified. This study will allow Chuncho cocoa farmers and producers to have a cocoa paste production scheme with a high value of functional metabolites and sensory profile, and value this Peruvian accession.",
+  "publication_date": "2023-08-11",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2023.137123",
+  "entities": {
+    "POLYPHENOL": [
+      "epicatechin",
+      "total flavonoids",
+      "total polyphenols"
+    ],
+    "FOOD": [
+      "a cocoa paste production scheme",
+      "chuncho cocoa farmers"
+    ]
+  }
+}

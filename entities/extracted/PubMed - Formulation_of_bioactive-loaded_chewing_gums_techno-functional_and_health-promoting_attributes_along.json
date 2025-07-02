@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Formulation of bioactive-loaded chewing gums; techno-functional and health-promoting attributes along with in-vitro and in-vivo release studies.",
+  "abstract": "The approved health and functional influences of the bioactive compounds has caused the development of many products delivering them to human body. Chewing gum (CWG) matrix could be one of the best novel delivering systems, as (i) it is a pleasant product for consumers, especially children, (ii) primarily protects the sensitive bioactives, (iii) originally provides positive effects on the memory, alertness, weight and stress, (iv) its application is easily possible at any time and place, (v) is commonly remained within oral cavity and chewed for a varied duration before throwing out, and (vi) it is possible to design a broad range of delivery profiles by controlling the type and content of the other ingredients, encapsulation of bioactives, and changing the production procedure. Therefore, this review is aimed to focus on the practical applications of the bioactive-containing CWG in improving our health (e.g., saliva stimulation, supplying mineral, vitamin, and antioxidant, improved cognitive function, smoking cessation, and preventing diseases e.g., oral infections, dental caries, enamel demineralization, formation of calculus, extrinsic tooth stain and plaque, gastrointestinal (GI) problems, cancer, Covid-19, etc.). The relevant studies confirmed that due to compliance with pharmaceutical standards, spontaneously providing both systemic and local delivery, fast onset of action, limited first pass metabolism, resistance to enzymes and acids, adequate stability, enhancing cognitive function and alertness and a lot more, it can be imagined for CWG to be much more popular to the market and patients in the near future. Nevertheless, more in-vivo and clinical studies should be established to monitor the release behavior of different bioactives from CWG into the biological media as affected by various factors. Finally, well-designed/documented studies for the optimized functional/medicinal CWG are commercially available, providing the desired health effects besides considering the consumer concerns, namely well organoleptic characteristics, practical efficiency, reasonable price and application of eco-friendly ingredients, especially gum base, as possible.",
+  "publication_date": "2025-06-14",
+  "journal": "Advances in colloid and interface science",
+  "doi": "10.1016/j.cis.2025.103583",
+  "entities": {
+    "POLYPHENOL": [
+      "e.g., oral infections",
+      "eco-friendly ingredients",
+      "especially children",
+      "especially gum base",
+      "positive effects",
+      "the desired health effects"
+    ],
+    "SYMPTOM": [
+      "cancer",
+      "stress"
+    ]
+  }
+}

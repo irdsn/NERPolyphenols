@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "Pharmacological and Molecular Docking Investigation of Leaves ofEriobotrya japonica: Antioxidant, Enzyme Inhibition, and Anti-Inflammatory Effects.",
+  "abstract": "Leaves ofEriobotrya japonicahave long been utilized in traditional Chinese medicine (TCM) for treating pulmonary inflammation and stomach disorders. This study extends their pharmacological applications by evaluating the antioxidant, anti-\u03b1-glucosidase, anti-acetylcholinesterase (AChE), and anti-inflammatory activities of solvent extracts and isolated bioactive components through an integrative approach combining extraction, bioassays, and molecular docking. Solvent extracts prepared with varying polarities exhibited distinct bioactivities, with the 100 \u00b0C water and methanol extracts displaying the strongest antioxidant potential. The ethyl acetate extract exhibited potent \u03b1-glucosidase inhibition, whereas then-hexane extract demonstrated significant AChE inhibitory activity. Among the isolated compounds, epicatechin (5) (SC50= 7.83 \u00b1 0.34 \u03bcM) and rutin (6) (SC50= 6.69 \u00b1 0.25 \u03bcM) showed superior ABTS and superoxide scavenging activities, respectively, compared to the positive controls (BHT and cynaroside). Ursolic acid (2) exhibited stronger \u03b1-glucosidase inhibition (IC50= 10.68 \u00b1 0.76 \u03bcM) than acarbose (IC50= 419.93 \u00b1 29.15 \u03bcM), while tormentic acid (4) demonstrated superior AChE inhibition compared to chlorogenic acid. Ursolic acid (2) also displayed NO inhibition (IC50= 20.18 \u00b1 1.46 \u03bcM) comparable to quercetin (IC50= 17.05 \u00b1 1.63 \u03bcM), with Western blot analysis confirming its potent iNOS inhibitory activity. Molecular docking further supported these findings, revealing that ursolic acid (2) exhibited stronger binding affinity to \u03b1-glucosidase (-8.7 kcal/mol) than acarbose (-5.1 kcal/mol), tormentic acid (4) displayed higher binding energy to AChE (-8.8 kcal/mol) compared to chlorogenic acid (-7.8 kcal/mol), and ursolic acid (2) (-7.5 kcal/mol) showed a binding affinity to iNOS similar to that of quercetin (-7.7 kcal/mol). These results highlight the strong potential ofE. japonicaleaf extracts and bioactive compounds as natural antioxidants, enzyme inhibitors, and anti-inflammatory agents, supporting their development as dietary supplements or therapeutic candidates for managing oxidative stress, hyperglycemia, neurodegenerative diseases, and inflammatory disorders.",
+  "publication_date": "2025-03-29",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14040413",
+  "entities": {
+    "SYMPTOM": [
+      "hyperglycemia",
+      "oxidative stress",
+      "pulmonary inflammation"
+    ],
+    "POLYPHENOL": [
+      "chlorogenic acid",
+      "epicatechin",
+      "molecular docking",
+      "quercetin",
+      "rutin"
+    ]
+  }
+}

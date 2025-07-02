@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Metabolite Profile and Metabolic Network Analysis of Walnuts (Juglans regiaL.) in Response to Chilling Stress.",
+  "abstract": "Walnut (Juglans regiaL.) is a species of considerable ecological, social, and economic importance. However, comprehensive metabolomic investigations into walnut cultivars under chilling stress remain scarce.",
+  "publication_date": "2025-06-12",
+  "journal": "Metabolites",
+  "doi": "10.3390/metabo15060394",
+  "entities": {
+    "FOOD": [
+      "walnut",
+      "walnut cultivars"
+    ],
+    "POLYPHENOL": [
+      "a species",
+      "considerable ecological, social, and economic importance"
+    ],
+    "SYMPTOM": [
+      "chilling stress"
+    ]
+  }
+}

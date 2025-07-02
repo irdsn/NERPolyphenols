@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Identification of key anti-glycation polyphenols in Sakura through metabolic profiling andin vitroassessments.",
+  "abstract": "Sakura, a traditional edible flower, has been investigated for its anti-glycation potential; however, the bioactive components remain unclear. Polyphenols are recognized for their exceptional anti-glycation properties. In this study, main polyphenols were identified from seven varieties through metabolomics. 5-O-caffeoylquinic acid (5-OCA), 3-O-caffeoylquinic acid (3-OCA), and caffeic acid were confirmed as key agents through multivariate analysis, which was further validated by anti-glycation assessments. The concentrations of these polyphenols inCerasus serrulata 'Kanzan'(CK) were 2.52\u00a0\u00b1\u00a00.08, 3.31\u00a0\u00b1\u00a00.18 and 2.38\u00a0\u00b1\u00a00.15\u00a0mg/g, respectively, contributing to its superior AGEs inhibition ratio (100\u00a0\u03bcg/mL) of 76.11\u00a0\u00b1\u00a00.40\u00a0%. Simulated digestion revealed that isomerization between 5-OCA and 3-OCA occurred during the gastric phase. Both compounds were metabolized to caffeic acid in the intestinal phase, contributing to a sustained anti-glycation activity of 64.74\u00a0\u00b1\u00a01.11\u00a0%. Overall, our study provides a theoretical basis for the development of Sakura-based functional foods targeting anti-glycation.",
+  "publication_date": "2025-03-25",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102416",
+  "entities": {
+    "POLYPHENOL": [
+      "caffeic acid",
+      "main polyphenols",
+      "polyphenols",
+      "these polyphenols"
+    ],
+    "FOOD": [
+      "sakura-based functional foods"
+    ]
+  }
+}

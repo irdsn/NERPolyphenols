@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Comprehensive analysis on the regulatory mechanism of active ingredient accumulation during fermentation process of Massa Medicata Fermentata: microbe and metabolic profiles.",
+  "abstract": "Massa Medicata Fermentata (MMF) is a traditional medicinal/edible fermented product; however, comprehensive research on the fermentation process from a microscopic perspective remains limited. In this study, we aimed to investigate the dynamic changes and correlations of physicochemical properties, microbial communities, and metabolite profiles in different fermentation stages (0, 48, 72, and 96\u202fh) of MMF.",
+  "publication_date": "2025-03-12",
+  "journal": "Frontiers in microbiology",
+  "doi": "10.3389/fmicb.2025.1548427",
+  "entities": {
+    "POLYPHENOL": [
+      "a microscopic perspective"
+    ]
+  }
+}

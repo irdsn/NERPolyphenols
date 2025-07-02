@@ -1,0 +1,35 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Unlocking the healing power of Jinhua white tea fermented by Eurotium cristatum using the unique \"flowering\" technology: A promising ally against inflammatory bowel disease.",
+  "abstract": "White tea (WT) has been reported to confer various health benefits, but its role in inflammatory bowel disease (IBD) has not been fully investigated. Jinhua white tea (JWT), produced using the unique \"flowering\" technology by Eurotium cristatum, enhancing the flavor and quality of WT. Whether this new technology provides better bioactive benefits also worth further exploring. The present study investigated the protective effects of WT and JWT against dextran sodium sulfate (DSS)-induced IBD. The results showed WT and JWT mitigated oxidative stress and colonic inflammation via NF-\u03baB and MAPK signaling pathways, upregulating intestinal tight junction protein expression and immune cell counts. These effects were evidenced by improvements in pathological phenotypes, disease activity index, and colon length in IBD mice, with JWT showing superior results. Both WT and JWT restored microbial diversity and improved gut microbiota composition in IBD mice. JWT showed a more pronounced effect on correcting microbial imbalances and abnormal host metabolism by stimulating metabolic pathways associated with amino acid metabolism, energy metabolism, and secondary metabolite biosynthesis. Therefore, WT, particularly JWT, shows potential for adjuvant treatment of colitis, which might be attributed to the enrichments in oxidation products of catechins such as theabrownins and some secondary metabolites including alkaloids, flavonoids and gallic acid obtained through the \"flowering\" technology. Further identifying and isolating key compounds and clinical trials are required to assess the therapeutic effects and mechanisms of JWT on IBD in humans.",
+  "publication_date": "2025-05-05",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116555",
+  "entities": {
+    "FOOD": [
+      "jinhua white tea",
+      "white tea"
+    ],
+    "SYMPTOM": [
+      "colonic inflammation",
+      "inflammatory bowel disease",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "a more pronounced effect",
+      "catechins",
+      "flavonoids",
+      "gallic acid",
+      "mechanisms",
+      "secondary metabolite biosynthesis",
+      "some secondary metabolites",
+      "the \"flowering\" technology",
+      "the protective effects",
+      "the therapeutic effects",
+      "the unique \"flowering\" technology",
+      "these effects",
+      "this new technology"
+    ]
+  }
+}

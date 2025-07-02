@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Therapeutic potential of natural arginase modulators: mechanisms, challenges, and future directions.",
+  "abstract": "Arginase (Arg) plays a pivotal role in numerous pathological processes, with its dysregulated expression being intricately associated with tumor progression and immune evasion. This review comprehensively examines the diversity, mechanisms, and clinical potential of natural Arg modulators, encompassing polyphenols, flavonoids, and terpenoids. These bioactive compounds exert their modulatory effects on Arg activity through multiple mechanisms, including direct enzyme interaction, regulation of signaling pathways, and modulation of cellular metabolism. The therapeutic potential of these metabolites spans across various medical domains, notably in cardiovascular diseases, oncology, neurological disorders, and inflammatory conditions. Specifically, polyphenol metabolites such as resveratrol and curcumin have demonstrated significant benefits in cardiovascular health and neuroprotection, while flavonoids including rutin and quercetin have shown promising effects on intracellular inflammatory factors and tumor cell proliferation. Similarly, terpenoids like perillyl alcohol and triptolide have been found to influence cell polarization processes. However, despite their substantial therapeutic potential demonstrated in experimental studies, the development of natural Arg modulators faces several significant challenges. These include complexities in drug design attributed to the intricate structure and multiple isoforms of Arg, difficulties in elucidating precise mechanisms due to Arg's multifaceted roles in various metabolic pathways, and limitations in current drug delivery systems. To overcome these challenges, future research should focus on continuous optimization of experimental design paradigms, enhancement of experimental models and data quality, thorough evaluation of therapeutic efficacy, and strategic integration of natural Arg modulators with precision medicine approaches.",
+  "publication_date": "2025-04-22",
+  "journal": "Frontiers in pharmacology",
+  "doi": "10.3389/fphar.2025.1514400",
+  "entities": {
+    "SYMPTOM": [
+      "tumor progression"
+    ],
+    "POLYPHENOL": [
+      "curcumin",
+      "direct enzyme interaction",
+      "flavonoids",
+      "mechanisms",
+      "multiple mechanisms",
+      "neuroprotection",
+      "polyphenol",
+      "polyphenols",
+      "precise mechanisms",
+      "precision medicine approaches",
+      "promising effects",
+      "quercetin",
+      "resveratrol",
+      "rutin",
+      "their modulatory effects"
+    ]
+  }
+}

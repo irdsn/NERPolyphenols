@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "From Nutrition to Energy: Evaluating the Role of Rye (Secale cerealeL.) Grain in Sustainable Food Systems and Biofuel Applications.",
+  "abstract": "Rye (Secale cerealeL.), a cereal with valuable agronomic and nutritional benefits, contributes to sustainable agriculture, especially in areas where more demanding crops cannot be cultivated due to the poor agronomic value of soil. This review explores rye grain quality optimization strategies through production techniques. The quality and yield of grain are under the significant impact of agronomic factors, such as variety selection, crop rotation, soil tillage, fertilization, sowing practices, chemical protection, and harvest timing. It is also under the strong influence of the chosen farm's management strategy, like organic or conventional farming system. This review emphasizes its diverse potential utilization routes, and the importance of bioactive compounds, dietary fibers, phenolic acids, phytoestrogens, and benzoxazinoids that enhance its value as a functional food. Cereal grain with quality issues cannot be used as food for humans, however, it can still be utilized alternatively as a renewable biofuel. This review showed rye grain to have a potential to contribute to sustainable agriculture and at the same time build farms' resilience through possible alternative utilization strategies. It can serve as both a food source and a sustainable biofuel, offering a dual-purpose solution within the circular bioeconomy.",
+  "publication_date": "2025-06-01",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14111971",
+  "entities": {
+    "POLYPHENOL": [
+      "chemical protection",
+      "production techniques",
+      "the circular bioeconomy",
+      "variety selection"
+    ],
+    "FOOD": [
+      "a functional food"
+    ]
+  }
+}

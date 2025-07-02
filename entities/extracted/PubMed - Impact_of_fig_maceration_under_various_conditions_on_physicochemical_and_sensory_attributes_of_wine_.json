@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Impact of fig maceration under various conditions on physicochemical and sensory attributes of wine vinegar: A comprehensive characterization study.",
+  "abstract": "In this work, wine vinegars macerated with figs under different conditions have been characterized for the first time. Samples were analyzed by solid phase microextraction and gas chromatography coupled to mass spectrometry, sensory and physicochemical analysis. The results revealed that fig maceration of wine vinegars influenced the physicochemical, sensory, and volatile profiles of the final product, which were mainly affected by the fig amount (10, 20 or 30%), the fig type (fresh or dry) and the base wine vinegar (young or aged) used, and to a lesser extent the way the fig was added (crushed or chopped). The maceration, regardless the conditions used, increased the fruity notes, overall taste and visual impression, the tonality, total polyphenols and sugar content, and the presence of some volatile compounds, mainly terpenes and ketones, such as (Z)-p-mentha-2,8-dien-1-ol, or \u03b2-damascenone. Therefore, maceration increased the organoleptic complexity, which could enhance the acceptability of consumers towards these products. PRACTICAL APPLICATION: This research studied how wine vinegars macerated with figs affect in different ways their taste, smell, and chemical properties. Thus, the results showed that these wine vinegars made with fig maceration by using different amounts and types of figs, as well as the type of vinegar used, changed their characteristics, making them smell and taste fruitier and more pleasant. This could be useful for making better-tasting and more appealing vinegars for consumers who enjoy unique and enhanced flavors in their food.",
+  "publication_date": "2024-10-29",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.17485",
+  "entities": {
+    "FOOD": [
+      "better-tasting and more appealing vinegars",
+      "fig maceration",
+      "figs",
+      "the base wine vinegar",
+      "the fig",
+      "the fig amount",
+      "the fig type",
+      "these wine",
+      "vinegar",
+      "wine",
+      "wine vinegars"
+    ],
+    "POLYPHENOL": [
+      "mass spectrometry, sensory and physicochemical analysis",
+      "total polyphenols and sugar content"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Enantiocomplementary Gut Bacterial Enzymes Metabolize Dietary Polyphenols.",
+  "abstract": "Molybdenum-dependent catechol dehydroxylases in gut Actinobacteria catalyze the removal ofpara-hydroxyl groups from catechols, a central reaction in the microbial metabolism of polyphenol compounds. However, the substrates of most putative catechol dehydroxylases remain unidentified due to the challenges of obtaining these enzymes from standard heterologous expression systems. In this work, we establishGordonibacter urolithinfaciensas a versatile bacterial host to express active catechol dehydroxylases. Using this system, we rapidly deorphanize eight previously uncharacterized gut bacterial catechol dehydroxylases that selectively dehydroxylate intermediates in the gut bacterial metabolism of plant-derived catechins and lignans. Unexpectedly, we discover multiple instances of distinct catechol dehydroxylases that have evolved to selectively metabolize individual substrate enantiomers, setting the stage for future efforts to elucidate their mechanisms and evolution. Altogether, these findings greatly increase our knowledge of these metalloenzymes, illustrating the power of bacterial genetics to accelerate enzyme discovery and providing a more complete understanding of transformations relevant to the health benefits of phytochemicals.",
+  "publication_date": "2025-02-24",
+  "journal": "Journal of the American Chemical Society",
+  "doi": "10.1021/jacs.4c09892",
+  "entities": {
+    "POLYPHENOL": [
+      "active catechol dehydroxylases",
+      "catechols",
+      "distinct catechol dehydroxylases",
+      "eight previously uncharacterized gut bacterial catechol dehydroxylases",
+      "molybdenum-dependent catechol dehydroxylases",
+      "most putative catechol dehydroxylases",
+      "plant-derived catechins",
+      "polyphenol compounds",
+      "their mechanisms"
+    ]
+  }
+}

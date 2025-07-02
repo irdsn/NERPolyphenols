@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "The Roles of Dietary Bioactive Compounds in Alleviating Inflammatory Bowel Disease-Associated Colorectal Cancer.",
+  "abstract": "Inflammatory bowel disease (IBD)-associated colorectal cancer (CRC) is a serious global health issue. Owing to the successful mimicking of the entire process of CRC induced by IBD, azoxymethane (AOM) and dextran sulfate sodium (DSS)-induced colitis-associated cancer (CAC) animal models have been widely used to study the carcinogenic mechanisms of IBD-associated CRC and aid in the discovery of new candidate target drugs for CRC treatment. This article summarizes the molecular characteristics and mechanisms of the AOM/DSS-induced CAC animal model and reports the effects and mechanisms of dietary active ingredients such as phenolics, flavonoids, terpenes, polysaccharides, alkaloids, and other food extracts in the prevention and treatment of AOM/DSS-induced CAC in preclinical trials. Further research and application of dietary active ingredients against AOM/DSS-induced CAC are needed in the future. In conclusion, this study may provide insights into the potential application of active dietary ingredients in the treatment of CAC.",
+  "publication_date": "2025-06-20",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70432",
+  "entities": {
+    "SYMPTOM": [
+      "dss)-induced colitis-associated cancer",
+      "inflammatory bowel disease"
+    ],
+    "POLYPHENOL": [
+      "colorectal cancer",
+      "flavonoids",
+      "mechanisms",
+      "preclinical trials",
+      "the carcinogenic mechanisms",
+      "the effects",
+      "the molecular characteristics"
+    ]
+  }
+}

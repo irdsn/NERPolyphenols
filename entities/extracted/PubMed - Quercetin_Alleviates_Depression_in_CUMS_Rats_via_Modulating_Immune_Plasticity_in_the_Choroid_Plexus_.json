@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Quercetin Alleviates Depression in CUMS Rats via Modulating Immune Plasticity in the Choroid Plexus to Inhibit Hippocampal Microglial Activation.",
+  "abstract": "To elucidate the antidepressant effects of Quercetin in a rat model of Chronic Unpredictable Mild Stress (CUMS), explore the underlying mechanisms of Quercetin, and offer novel insights into developing antidepressant agents derived from substances with both medicinal and nutritional applications.",
+  "publication_date": "2025-06-26",
+  "journal": "European journal of pharmacology",
+  "doi": "10.1016/j.ejphar.2025.177860",
+  "entities": {
+    "POLYPHENOL": [
+      "quercetin",
+      "the antidepressant effects",
+      "the underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "chronic unpredictable mild stress"
+    ]
+  }
+}

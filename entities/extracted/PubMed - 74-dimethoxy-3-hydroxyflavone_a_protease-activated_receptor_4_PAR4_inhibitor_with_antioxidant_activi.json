@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "7,4'-dimethoxy-3-hydroxyflavone, a protease-activated receptor 4 (PAR4) inhibitor with antioxidant activity, ameliorates diabetic endothelial dysfunction.",
+  "abstract": "Hyperglycaemia-induced protease-activated receptor 4 (PAR4) has been suggested to be linked with vascular complications in patients with diabetes mellitus. In the present study, we investigated if 7,4'-dimethoxy-3-hydroxyflavone (DMF-OH), a flavonoid-derived PAR4 antagonist, can ameliorate hyperglycaemia-associated endothelial dysfunction, which is a key early event in the pathogenesis of diabetic vasculopathy.",
+  "publication_date": "2025-06-12",
+  "journal": "British journal of pharmacology",
+  "doi": "10.1111/bph.70105",
+  "entities": {
+    "POLYPHENOL": [
+      ", a flavonoid-derived par4 antagonist",
+      "hyperglycaemia-induced protease-activated receptor"
+    ],
+    "SYMPTOM": [
+      "hyperglycaemia-associated endothelial dysfunction"
+    ]
+  }
+}

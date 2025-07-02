@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Unlocking Rhizosphere Dynamics: Exploring Mechanisms of Plant-Microbe Interactions for Enhanced Tea (Camellia sinensis (L.) O. Kuntze) Productivity.",
+  "abstract": "The rhizosphere, the interface between plant roots and soil, refers to the contact zone where plants and soil microbes engage in beneficial and parasitic interactions. The significant interactions and their importance form a dynamic interface between the roots of plants and the soil. Beneficial ones, especially plant growth-promoting bacteria (PGPB) and arbuscular mycorrhizal fungi (AMF), improve plant development and enhance stress resistance due to microbial secretions, exudates from roots, and edaphic factors. All these are very important in cultivating tea (Camellia sinensis (L.) O Kuntze) plants, boosting growth, yield, and leaf content of amino acids, proteins, caffeine, and polyphenols. Yet, the molecular mechanisms of such interactions necessitate high-end technologies like genome editing and proteomics to fine-tune rhizosphere dynamics for greater plant health and productivity. The root exudates, rich in nutrients, serve as a source of food for the soil microbes while facilitating communication and colonisation by beneficial organisms, such as AMF and bacteria, thus significantly impacting the performance of a tea plant. High nitrogen fertilisers are readily applied in tea farming, although environmental risks include soil acidification and increased emissions of nitrous oxide (N2O), a potent greenhouse gas. Understanding and manipulating plant root-soil microbe interactions are critical for developing sustainable farming systems that enhance productivity without causing environmental damage. This review describes the mechanisms by which beneficial microbes function in the rhizosphere, strategies for modifying root exudates to improve tea production, and the tea microbiome's underexplored potential in contributing towards sustainability. This review thus emerges as one that presents knowledge gaps and possible future directions in tea microbiome science predicated on the amelioration of tea farming by enhancing productivity and ensuring environmental sustainability.",
+  "publication_date": "2025-04-22",
+  "journal": "Current microbiology",
+  "doi": "10.1007/s00284-025-04235-9",
+  "entities": {
+    "POLYPHENOL": [
+      "especially plant",
+      "microbial secretions",
+      "necessitate high-end technologies",
+      "polyphenols",
+      "possible future directions",
+      "the mechanisms",
+      "yet, the molecular mechanisms"
+    ],
+    "SYMPTOM": [
+      "stress resistance"
+    ]
+  }
+}

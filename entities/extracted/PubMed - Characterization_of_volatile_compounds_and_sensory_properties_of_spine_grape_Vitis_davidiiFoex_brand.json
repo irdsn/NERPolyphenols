@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Characterization of volatile compounds and sensory properties of spine grape (Vitis davidiiFoex) brandies aged with different toasted wood chips.",
+  "abstract": "Aging is an important process for improving wine and brandy quality. In this study, the chemical characterization and sensory properties of spine grape brandies were compared after aging with various species of wood chips, including French oak (FO), American oak (AO), Mongolian oak (MO), Japanese blue oak (JO), chestnut, catalpa, and cherry. The results showed that high color intensity and significant concentrations of tannins and polyphenols were observed in the brandies aged with FO, AO, and chestnut chips. The volatile compounds, such as ethyl decanoate, ethyl 2-methylbutanoate, ethyl octanoate, methyl salicylate, (Z)-2-hexenol, and furfural, contributed to the floral, fruity, and roasted/smoky attributes of the brandies aged with FO, AO, and chestnut chips. The 1-butanol, 1-propanol, phenylethanol, phenylethyl acetate, isoamyl acetate, and linalool contributed to the fruity, honey, and floral attributes of the brandies aged with JO and cherry chips. These findings are extremely useful for the production of differentiated and high-quality spine grape brandies.",
+  "publication_date": "2024-08-26",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2024.101777",
+  "entities": {
+    "SYMPTOM": [
+      "aging"
+    ],
+    "FOOD": [
+      "cherry",
+      "differentiated and high-quality spine grape brandies",
+      "jo and cherry chips",
+      "spine grape brandies",
+      "wine"
+    ],
+    "POLYPHENOL": [
+      "polyphenols",
+      "tannins",
+      "various species"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Carvacrol and Streptomycin in Combination Weaken Streptomycin Resistance inPectobacterium carotovorumsubsp.carotovorum.",
+  "abstract": "Pectobacterium carotovorumsubsp.carotovorum(Pcc) is a major phytopathogen responsible for soft rot in vegetables, affecting various staple crops such as carrots and potatoes. However, the recent emergence of streptomycin-resistant strains ofPcchas compromised the effectiveness of streptomycin for treating disease in agriculture. This study aimed to evaluate the effects of the phenolic compounds carvacrol, streptomycin, and a combination of both on the antibacterial activity, cell membrane integrity, and virulence factors of a streptomycin-resistant strain ofPcc(SP). The results revealed that the minimum inhibitory concentrations (MIC) of carvacrol and streptomycin against the SP strain were 200 \u03bcL/L and 50 g/L, respectively. In particular, their combined application had an additive effect on SP (fractional inhibitory concentration index, FICI = 0.625), leading to 2-fold and 8-fold reductions in the concentrations of the combined use of carvacrol and streptomycin, respectively, compared to when used alone. Follow-up control tests using detached Chinese cabbage, potato, and carrot samples showed that the combined treatment significantly alleviates the severity of soft rot disease and inhibits the relative conductivity, motility, and extracellular hydrolase secretion of SP. The scanning electron microscopy and confocal laser scanning microscopy observations further confirmed the disruption of SP's cell membrane permeability and cell wall integrity after treatment with both carvacrol and streptomycin. Additionally, the transcriptome analysis indicated that their combined use enhanced the suppression of SP by regulating genes associated with its membrane integrity, virulence factors, and resistance mechanisms. In conclusion, applying the phenol-antibiotic combination of carvacrol and streptomycin significantly reduces the streptomycin dose needed against SP and can effectively control soft rot in vegetables prone to it, offering a potential management strategy for controlling SP-induced soft rot during postharvest storage.",
+  "publication_date": "2025-03-14",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants14060908",
+  "entities": {
+    "POLYPHENOL": [
+      "an additive effect",
+      "pectobacterium",
+      "resistance mechanisms",
+      "the effectiveness",
+      "the effects",
+      "the phenolic compounds carvacrol",
+      "the recent emergence",
+      "the relative conductivity, motility, and extracellular hydrolase secretion",
+      "the scanning electron"
+    ],
+    "FOOD": [
+      "carrot samples",
+      "carrots",
+      "detached chinese cabbage"
+    ]
+  }
+}

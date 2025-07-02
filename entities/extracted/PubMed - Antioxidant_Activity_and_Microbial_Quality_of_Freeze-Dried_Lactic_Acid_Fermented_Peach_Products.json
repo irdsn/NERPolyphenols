@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Antioxidant Activity and Microbial Quality of Freeze-Dried, Lactic Acid Fermented Peach Products.",
+  "abstract": "Lactic acid fermentation has emerged as a promising strategy to enhance the functional and health-promoting qualities of plant-based foods. This study evaluates the impact of lactic acid fermentation on the antioxidant capacity, microbial viability, and chemical stability of freeze-dried peaches, aiming to develop a functional food with probiotic potential. Two bacterial strains-Fructilactobacillus fructivorans(P_FF) andLactiplantibacillus plantarum(P_LP)-were used to assess strain-dependent effects on microbial and bioactive compound profiles. Microbiological analyses included total viable count (TVC), fungal count (TFC), and total lactic acid bacteria (TCLAB). Chemical analyses comprised polyphenol, flavonoid, anthocyanin, carotenoid, sugar, and vitamin C content, as well as antioxidant activity (DPPH, ABTS, reducing power). Thermal and structural stability were examined via thermogravimetric analysis (TGA) and Fourier-transform infrared spectroscopy (FTIR). Fermentation significantly increased the counts of lactic acid bacteria, achieving 8.38 and 7.86 log CFU/g after freeze-drying, respectively. While total polyphenols slightly decreased (by 9.5% and 1.1% forL. plantarumandF. fructivorans, respectively), flavonoid content increased notably by 16.1% inF. fructivorans-fermented samples. Antioxidant activities, assessed by ABTS and DPPH assays, were largely maintained, although a reduction in reducing power was observed. Additionally, fermentation led to sucrose hydrolysis, resulting in higher glucose and fructose contents, and increased water content in the final products. Minor increases in total fungal counts were noted after freeze-drying but remained within acceptable limits. Overall, the combination of fermentation and freeze-drying processes preserved key antioxidant properties, enhanced microbial safety, and produced functional peach-based products with improved bioactivity and extended shelf life. These findings highlight the potential of fermented freeze-dried peaches as innovative, health-oriented alternatives to traditional fruit snacks.",
+  "publication_date": "2025-05-29",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112360",
+  "entities": {
+    "FOOD": [
+      "a functional food",
+      "fermented freeze-dried peaches",
+      "freeze-dried peaches",
+      "functional peach-based products",
+      "plant-based foods"
+    ],
+    "POLYPHENOL": [
+      "comprised polyphenol, flavonoid, anthocyanin, carotenoid, sugar, and vitamin c content, as well as antioxidant activity",
+      "flavonoid content",
+      "fourier-transform infrared spectroscopy",
+      "strain-dependent effects",
+      "total polyphenols"
+    ]
+  }
+}

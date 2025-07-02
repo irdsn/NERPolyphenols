@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "An Innovative Strategy for Untargeted Mass Spectrometry Data Analysis: Rapid Chemical Profiling of the Medicinal PlantTerminalia chebulaUsing Ultra-High-Performance Liquid Chromatography Coupled with Q/TOF Mass Spectrometry-Key Ion Diagnostics-Neutral Loss Filtering.",
+  "abstract": "Structural characterization of natural products in complex herbal extracts remains a major challenge in phytochemical analysis. In this study, we present a novel post-acquisition data-processing strategy-key ion diagnostics-neutral loss filtering (KID-NLF)-combined with ultra-high-performance liquid chromatography-quadrupole time-of-flight mass spectrometry (UPLC-Q/TOF-MS) for systematic profiling of the medicinal plantTerminalia chebula. The strategy consists of four main steps. First, untargeted data are acquired in negative electrospray ionization (ESI-) mode. Second, a genus-specific diagnostic ion database is constructed by leveraging characteristic fragment ions (e.g., gallic acid, chebuloyl, and HHDP groups) and conserved substructures. Third, MS/MS data are high-resolution filtered using key ion diagnostics and neutral loss patterns (302 Da for HHDP; 320 Da for chebuloyl). Finally, structures are elucidated via detailed spectral analysis. The methanol extract ofT. chebulawas separated on a C18 column using a gradient of acetonitrile and 0.1% aqueous formic acid within 33 min. This separation enabled detection of 164 compounds, of which 47 were reported for the first time. Based on fragmentation pathways and diagnostic ions (e.g.,m/z169 for gallic acid,m/z301 for ellagic acid, and neutral losses of 152, 302, and 320 Da), the compounds were classified into three major groups: gallic acid derivatives, ellagitannins (containing HHDP, chebuloyl, or neochebuloyl moieties), and triterpenoid glycosides. KID-NLF overcomes key limitations of conventional workflows-namely, isomer discrimination and detection of low-abundance compounds-by exploiting genus-specific structural signatures. This strategy demonstrates high efficiency in resolving complex polyphenolic and triterpenoid profiles and enables rapid annotation of both known and novel metabolites. This study highlights KID-NLF as a robust framework for phytochemical analysis in species with high chemical complexity. It also paves the way for applications in quality control, drug discovery, and mechanistic studies of medicinal plants.",
+  "publication_date": "2025-06-03",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112451",
+  "entities": {
+    "POLYPHENOL": [
+      "a genus-specific diagnostic ion database",
+      "complex polyphenolic and triterpenoid profiles",
+      "detailed spectral analysis",
+      "detection",
+      "ellagic acid",
+      "ellagitannins",
+      "gallic acid",
+      "gallic acid derivatives",
+      "genus-specific structural signatures",
+      "mechanistic studies",
+      "negative electrospray ionization (esi-) mode",
+      "species"
+    ]
+  }
+}

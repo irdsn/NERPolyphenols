@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Early embryonic thermal programming and post-hatch flavonoid (Scutellaria baicalensis) supplementation enhanced immune response markers in broiler chickens.",
+  "abstract": "Genetic selection in broiler chickens has led to increased muscle mass without comparable respiratory and cardiovascular system development, limiting the birds' capacity to withstand high ambient temperatures and making them vulnerable to heat stress (HS). Early embryonic Thermal Manipulation (TM) has been suggested as an effective and sustainable way to mitigate the adverse effects of HS. This study investigated how these interventions influenced the immune status of broiler chickens exposed to HS.",
+  "publication_date": "2025-01-28",
+  "journal": "Frontiers in veterinary science",
+  "doi": "10.3389/fvets.2025.1537116",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective and sustainable way",
+      "genetic selection",
+      "the adverse effects"
+    ],
+    "SYMPTOM": [
+      "heat stress"
+    ]
+  }
+}

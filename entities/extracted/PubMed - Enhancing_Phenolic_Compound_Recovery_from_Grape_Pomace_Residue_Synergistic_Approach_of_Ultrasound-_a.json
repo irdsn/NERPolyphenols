@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Enhancing Phenolic Compound Recovery from Grape Pomace Residue: Synergistic Approach of Ultrasound- and Enzyme-Assisted Extraction.",
+  "abstract": "The objective of this study was to develop and optimize a novel ultrasound- and enzyme-assisted extraction (UEAE) method for isolating phenolic compounds, both free and cell-wall-bound, from red (RGP) and white (WGP) grape pomace. The research focused on evaluating the effects of key process parameters, including the composition and concentration of the enzyme mixture (pectinase, cellulase, and hemicellulase), pH, hydrolysis time, and sonication duration, on extraction efficiency and the chemical profile of the recovered phenolics. A specific aim was to compare the performance of the optimized UEAE method with solid-liquid extraction (SLE), ultrasound-assisted extraction (UAE), and enzyme-assisted extraction (EAE) in terms of both the quantity and diversity of phenolic compounds extracted. The results demonstrated that applying ultrasound after enzymatic hydrolysis significantly enhanced the release of the phenolic compounds. The UEAE method proved especially effective in extracting phenolic acids, such as gallic, caffeic, ferulic, andp-coumaric acids, with gallic acid content in red grape pomace reaching 431 mg/100 g and that inp-coumaric acid reaching 138 mg/100 g. Additionally, flavonoids, including quercetin, kaempferol, luteolin, vanillin, andtrans-resveratrol as well as anthocyanins such as malvidin-3-glucoside and cyanidin chloride, were recovered in higher concentrations using the combined method, indicating its broad extraction capability. The highest total phenolic content (TPC) and antioxidant activity (measured via DPPH and ABTS assays) were observed when ultrasound treatment followed 60 min of enzymatic hydrolysis. This enhancement is attributed to the mechanical disruption of plant structures by ultrasound, which promotes the release of phenolics still bound within the cellular matrix. Overall, the optimized UEAE method proved to be an efficient and versatile approach for maximizing the recovery of bioactive compounds from grape pomace.",
+  "publication_date": "2025-05-30",
+  "journal": "ACS omega",
+  "doi": "10.1021/acsomega.5c01321",
+  "entities": {
+    "POLYPHENOL": [
+      "a specific aim",
+      "cyanidin chloride",
+      "flavonoids",
+      "gallic acid content",
+      "inp-coumaric acid",
+      "kaempferol",
+      "luteolin",
+      "pectinase",
+      "phenolic compounds",
+      "resveratrol",
+      "the effects",
+      "the mechanical disruption",
+      "the objective",
+      "the phenolic compounds",
+      "the recovered phenolics",
+      "the recovery"
+    ],
+    "FOOD": [
+      "grape pomace",
+      "red grape pomace",
+      "white (wgp) grape pomace"
+    ]
+  }
+}

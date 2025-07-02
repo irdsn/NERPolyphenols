@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "functional foods polyphenols",
+  "title": "Optimizing the Methodology for Antioxidant Activity Analysis of Manuka Honey.",
+  "abstract": "Manuka honey (MH) is increasingly recognized for its potent antioxidant properties, making it a promising functional food ingredient. However, discrepancies in assessment methods have impeded the standardization of its antioxidant capacity. This study compared DPPH, ABTS, and cellular antioxidant activity (CAA) assays under varying conditions to identify the most reliable approach for assessing MH's antioxidant properties. The results showed that the reaction temperature for the chemical method, setting it at 37 \u00b0C, enhanced the antioxidant capacity of MH. For the cellular assay, we optimized honey concentration, injury duration, damage model, and cell model. The result showed that sugar-reduced MH achieved the same high efficiency as the chemical method. A stable cellular assay method was established in HepG2 cells, offering superior reproducibility with an intra-RSD of 4.83% (<5%) and an inter-RSD of 7.51% (<10%). Additionally, studies have found that methyl syringate (MSY), a key polyphenolic compound in Manuka honey (MH), exhibits extremely high antioxidant activity. However, due to its low concentration, its overall contribution to the honey's antioxidant activity is limited. This optimized CAA-based approach provides reliable technical support for the accurate evaluation of the antioxidant activity of MH.",
+  "publication_date": "2025-04-14",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods14081341",
+  "entities": {
+    "POLYPHENOL": [
+      "a key polyphenolic compound",
+      "reliable technical support"
+    ]
+  }
+}

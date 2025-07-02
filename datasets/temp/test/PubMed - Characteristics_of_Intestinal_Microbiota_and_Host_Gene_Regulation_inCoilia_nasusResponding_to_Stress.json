@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Characteristics of Intestinal Microbiota and Host Gene Regulation inCoilia nasusResponding to Stress.",
+  "abstract": "Transport stress in aquaculture poses significant challenges to fish health by inducing oxidative stress and intestinal damage. This study investigated the effects of transport stress on intestinal microbiota, host gene regulation, and metabolic responses inCoilia nasus. The fish were subjected to simulated transport conditions, followed by an analysis of their intestinal antioxidant capacity, inflammatory factors, transcriptome sequencing, metagenomic profiling, and metabolomic assays. The results revealed that transport stress significantly suppressed antioxidant enzyme activities (e.g., catalase, superoxide dismutase, glutathione peroxidase) and elevated oxidative damage (malondialdehyde, lipid peroxidation) alongside upregulating pro-inflammatory cytokines. The transcriptomic analysis identified differentially expressed genes enriched in the lipid metabolism and ferroptosis pathways, with the increased lipid peroxidation and iron overload activating ferroptosis. The metagenomic data showed an altered gut microbiota composition, including increasedAeromonasand reduced beneficial metabolites (e.g., propionic acid, bile acids). Correlation analyses linked the microbial shifts and metabolite changes to ferroptosis and barrier dysfunction. These findings demonstrate that transport stress disrupts intestinal redox balance, induces ferroptosis, and reshapes gut microbiota, collectively compromising intestinal integrity and health inC. nasus.",
+  "publication_date": "2025-05-23",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060626"
+}

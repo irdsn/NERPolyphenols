@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Efficacy of Black Mulberry Mouthwash for Prevention of Chemotherapy-Induced Oral Mucositis: A Double-Blind Randomized Clinical Trial.",
+  "abstract": "Objectives:Oral mucositis is a common side effect of cancer chemotherapy. Traditionally, black mulberry orMorus nigraL. (M. nigra) fruit is used for treatment of oral inflammatory conditions. The aim of the present study was to evaluate the efficacy of black mulberry mouthwash for prevention of oral mucositis caused by 5-fluorouracil.Materials and Methods:This double-blind clinical trial was performed on 62 patients with colon adenocarcinoma undergoing chemotherapy with 5-fluorouracil. The patients were randomly divided into two groups (n=31) to receive 10mL of 1% black mulberry juice (BMJ) or the placebo mouthwash, 3 times a day for 2 weeks. The patients were followed up for 7 and 14 days after the treatment onset to record the degree of mucositis according to the World Health Organization (WHO) criteria. Spectrophotometric assays were conducted for quantitative analysis of the bioactive compounds in the composition of BMJ. Data were analyzed with the Chi-square and Fisher's exact tests (alpha=0.05).Results:The severity of oral mucositis was slightly, but not significantly, lower in the follow-up sessions in the BMJ mouthwash group (P>0.05). The total anthocyanin content of the BMJ was calculated to be 506.5\u00b13.51 and 476.2\u00b17.99mg cyanidin 3-glucoside equivalent per 100g of dried juice, before and after the sterilization process, respectively.Conclusion:The present results showed that the BMJ mouthwash can be effective as an adjunct treatment to reduce the incidence and severity of mucositis in patients undergoing chemotherapy. Anthocyanins appear to be mainly involved in the observed effect.",
+  "publication_date": "2025-03-07",
+  "journal": "Frontiers in dentistry",
+  "doi": "10.18502/fid.v22i10.18214",
+  "entities": {
+    "POLYPHENOL": [
+      "a common side effect",
+      "objectives",
+      "spectrophotometric assays",
+      "the observed effect"
+    ],
+    "SYMPTOM": [
+      "cancer chemotherapy"
+    ],
+    "FOOD": [
+      "10ml of 1% black mulberry juice",
+      "dried juice"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Effect ofFusarium proliferatuminfection on physiological, phytochemical, and nutrient responses in garlic.",
+  "abstract": "Fusariumspecies are significant pathogens in many crops, including garlic (Allium sativum), threatening yield and food safety through mycotoxin production. This study investigates the physiological, phytochemical, and nutrient responses of garlic genotypes (Local-Konya, Babaeski-K\u0131rklareli, and Iranian-Bal\u0131kesir) toFusarium proliferatuminfection. Phenolic compounds, antioxidant activity, protein content, and macro- and microelement levels were assessed in healthy and infected garlic genotypes. Infection byF. proliferatumled to a significant increase in phenolic compounds, especially resveratrol and catechin. The Iranian-Bal\u0131kesir genotype exhibited the highest response, showing a 110.9% rise in total phenolic content. Regarding antioxidant activity, 2,2-Diphenyl-1-picrylhydrazy (DPPH) inhibition also rose in all genotypes with the rate of 41.57-55.5% in diseased groups in comparison with healthy groups. However, the protein content of garlic was declined by infection ofF. proliferatumin all genotypes. Elemental analysis revealed that there were notable drops in potassium and calcium levels, particularly in Local-Konya genotype, but the other elements in plants either increased or decreased accordingly. It was observed that garlic genotypes responded differently toF.\u00a0proliferatuminfection in organic acid components. These findings highlighted thatF. proliferatuminfestation in garlic enhanced phenolic production and antioxidant activities as a defense mechanism, but the amount of nutrient content of plants according to fertilization will also affect developing resistance to disease physiologically.",
+  "publication_date": "2025-06-20",
+  "journal": "PeerJ",
+  "doi": "10.7717/peerj.19601",
+  "entities": {
+    "POLYPHENOL": [
+      "a defense mechanism",
+      "differently tof.\u00a0proliferatuminfection",
+      "fusariumspecies",
+      "healthy and infected garlic genotypes",
+      "infection",
+      "infection off. proliferatumin",
+      "phenolic compounds",
+      "tofusarium proliferatuminfection"
+    ],
+    "FOOD": [
+      "garlic",
+      "garlic genotypes"
+    ]
+  }
+}

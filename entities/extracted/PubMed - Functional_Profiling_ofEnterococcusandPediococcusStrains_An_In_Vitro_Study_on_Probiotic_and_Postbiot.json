@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Functional Profiling ofEnterococcusandPediococcusStrains: An In Vitro Study on Probiotic and Postbiotic Properties.",
+  "abstract": "The rising threat of antimicrobial resistance (AMR) has driven the search for safe and effective alternatives to conventional antibiotics. This study investigated the probiotic potential and postbiotic properties ofEnterococcus faecium(one strain),Pediococcus acidilactici(five strains), andPediococcus pentosaceus(five strains), identified by 16S rRNA sequencing. Among the strains,Pediococcus pentosaceusMI124 andPediococcus acidilacticiMI129demonstrated robust survival under simulated gastrointestinal conditions. Cell surface analyses revealed strong auto-aggregation and hydrophobicity in selected strains, notablyP. pentosaceusMI124 andP. acidilacticiMI127. Enzymatic profiling revealed potential complex metabolic capabilities across different strains. Safety assessments confirmed the absence of hemolytic and gelatinase activities across all strains. Antibiotic susceptibility testing showed resistance to certain \u03b2-lactams, while susceptibility to chloramphenicol and tetracycline varied. All LAB strains demonstrated high freeze-drying survivability, exceeding 78.69%. The antibacterial activity of CFSs was confirmed against 14 Gram-positive and Gram-negative pathogens, with results supporting their potential as antimicrobial agents. The CFSs demonstrated a higher total phenolic content (TPC) and displayed significant antioxidant activity, while the total flavonoid content (TFC) remained consistent across most strains. An FTIR spectral analysis confirmed the presence of key functional groups associated with phenolics, organic acids, and peptides, indicating a complex biochemical profile. Probiotics and their postbiotic derivatives offer promising health benefits, including pathogen inhibition and immune modulation. These findings highlight several LAB strains with promising probiotic traits and postbiotic efficacy, supporting their potential use in functional foods and therapeutic applications.",
+  "publication_date": "2025-06-10",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13061348",
+  "entities": {
+    "POLYPHENOL": [
+      "an ftir spectral analysis",
+      "ofenterococcus faecium(one strain),pediococcus acidilactici(five strains",
+      "safe and effective alternatives",
+      "selected strains",
+      "the total flavonoid content"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

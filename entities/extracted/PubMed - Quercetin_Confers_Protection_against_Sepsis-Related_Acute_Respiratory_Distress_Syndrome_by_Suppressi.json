@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Quercetin Confers Protection against Sepsis-Related Acute Respiratory Distress Syndrome by Suppressing ROS/p38 MAPK Pathway.",
+  "abstract": "To identify the underlying mechanism by which quercetin (Que) alleviates sepsis-related acute respiratory distress syndrome (ARDS).",
+  "publication_date": "2025-06-24",
+  "journal": "Chinese journal of integrative medicine",
+  "doi": "10.1007/s11655-025-3927-5",
+  "entities": {
+    "POLYPHENOL": [
+      "quercetin",
+      "the underlying mechanism"
+    ],
+    "SYMPTOM": [
+      "sepsis-related acute respiratory distress syndrome"
+    ]
+  }
+}

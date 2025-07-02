@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Morphology-engineered alleviation of mycelial aggregation inStreptomyceschassis for potentiated production of secondary metabolites.",
+  "abstract": "The genusStreptomycesexhibits a complex life cycle of morphological differentiation and an extraordinary capacity to produce numerous bioactive secondary metabolites. In submerged cultures,Streptomycesspecies usually grow in the form of mycelial networks and aggregate into large pellets or clumps, which is generally unfavorable for industrial production. This study aimed to construct efficient microbial cell factories by manipulating morphology-related genes. We herein employed a morphology engineering approach to generate eight engineered derivatives (MECS01\u223cMECS08) ofStreptomyces coelicolorM1146, a versatile chassis widely used for the heterologous production of various secondary metabolites. We found that genetic manipulation of morphology-related genes exerted a substantial influence on the growth and mycelial characteristics of the engineered strains. Once the native actinorhodin gene cluster was introduced into these strains, antibiotic production increased in all engineered strains compared to the parental strain. Notably, a significant elevation of actinorhodin production was observed in three of the engineered strains, MECS01, MECS03 and MECS05. Similar scenarios occurred when expressing the staurosporine gene cluster and the carotenoid gene cluster in these three engineered derivatives, respectively. Our study demonstrates that morphology engineering represents an effective strategy for alleviating mycelial aggregation. It has also expanded the toolkit ofStreptomyceschassis available for the heterologous expression of gene clusters encoding a variety of secondary metabolites.",
+  "publication_date": "2025-05-26",
+  "journal": "Synthetic and systems biotechnology",
+  "doi": "10.1016/j.synbio.2025.05.010",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective strategy",
+      "mecs03",
+      "mecs05",
+      "numerous bioactive secondary metabolites",
+      "secondary metabolites",
+      "streptomycesspecies",
+      "various secondary metabolites"
+    ]
+  }
+}

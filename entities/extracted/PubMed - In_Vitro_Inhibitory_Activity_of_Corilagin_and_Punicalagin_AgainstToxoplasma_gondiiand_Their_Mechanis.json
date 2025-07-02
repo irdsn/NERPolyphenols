@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "In Vitro Inhibitory Activity of Corilagin and Punicalagin AgainstToxoplasma gondiiand Their Mechanism(s) of Action.",
+  "abstract": "Background/Objectives:Toxoplasmosis is a zoonotic disease caused byToxoplasma gondii. The parasite infection in humans continues to rise due to an increasing seroprevalence rate in domestic and wild warm-blooded animals that serve as a major reservoir of the parasite. There are fewer drugs available for the treatment of toxoplasmosis. However, these drugs are limited in efficacy against tachyzoites and bradyzoites. Also, there are clinical side effects and geographical barriers to their use, especially in immunocompromised patients, children, and pregnant women. Tannins, a class of natural products, are known to have antimicrobial properties. However, little is known about the effects of Corilagin (CG) and Punicalagin (PU), which are classified as tannins, onT. gondiigrowth and their possible mechanism of action in vitro. We hypothesize that CG and PU could inhibitT. gondiigrowth in vitro and cause mitochondria membrane disruption via oxidative stress.Methods:Here, we investigated the anti-T. gondiiactivity of the two named tannins using a fluorescent-based reporter assay.Results:The 50% effective concentrations (EC50s) values for CG and PU that inhibitedT. gondiiparasites growth in vitro were determined to be 3.09 and 19.33 \u00b5M, respectively. Pyrimethamine (PY) was used as a standard control which gave an EC50value of 0.25 \u00b5M. Interestingly, CG and PU were observed to cause high reactive oxygen species (ROS) and mitochondrial superoxide (MitoSOX) production in tachyzoites. This resulted in a strong mitochondria membrane potential (MMP) disruption inT. gondiitachyzoites.Conclusions:Therefore, the possible mechanism(s) of action of CG and PU againstT. gondiiis associated with the disruption of the mitochondria redox biology. Thus, the high ROS and MitoSOX produced as a result of these compounds created high oxidative stress, leading to mitochondrial dysfunction.",
+  "publication_date": "2025-03-24",
+  "journal": "Antibiotics (Basel, Switzerland)",
+  "doi": "10.3390/antibiotics14040336",
+  "entities": {
+    "POLYPHENOL": [
+      "an ec50value",
+      "clinical side effects",
+      "ec50s) values",
+      "high reactive oxygen species",
+      "tannins",
+      "the 50% effective concentrations",
+      "the effects",
+      "the parasite infection",
+      "the two named tannins",
+      "their possible mechanism",
+      "therefore, the possible mechanism(s"
+    ],
+    "SYMPTOM": [
+      "high oxidative stress",
+      "mitochondrial dysfunction",
+      "oxidative stress"
+    ]
+  }
+}

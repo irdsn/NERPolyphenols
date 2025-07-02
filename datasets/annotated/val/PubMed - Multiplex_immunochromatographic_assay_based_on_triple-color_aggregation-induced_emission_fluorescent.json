@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Multiplex immunochromatographic assay based on triple-color aggregation-induced emission fluorescent microspheres with good biocompatibility for the simultaneous detection of veterinary drugs in aquatic products.",
+  "abstract": "The simultaneous presence of multiple veterinary drug residues in a single sample poses a significant challenge for food safety analysis. Compared with traditional single-target detection, multiplex detection can not only provide richer sample information to raise the detection efficiency and reduce the possibility of false positives and omissions, but also decrease sample volume, shorten detection time, and lower costs. The luminance of aggregation-induced emission fluorescent microspheres (AIEFMs) can be enhanced by loading more fluorophores. The AIEFMs exhibit more advantages such as bright colors, excellent monodispersity, and high photostability, making them widely applicable in food safety.",
+  "publication_date": "2025-01-23",
+  "journal": "Analytica chimica acta",
+  "doi": "10.1016/j.aca.2025.343700",
+  "entities": {
+    "POLYPHENOL": [
+      "multiplex detection",
+      "shorten detection time",
+      "the detection efficiency",
+      "traditional single-target detection"
+    ]
+  }
+}

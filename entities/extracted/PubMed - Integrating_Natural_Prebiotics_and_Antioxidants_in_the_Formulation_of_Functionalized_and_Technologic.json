@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Integrating Natural Prebiotics and Antioxidants in the Formulation of Functionalized and Technologically Optimized Quinoa (Chenopodium quinoa) Snack.",
+  "abstract": "This study aims to formulate a novel snack based on highly nutritional ingredients: quinoa (Chenopodium quinoa), orange, and prebiotic compounds [fructo and galactooligosaccharides (FOS and GOS, respectively)]. To achieve this goal, five formulations were proposed, incorporating quinoa grains and flour, orange (pulp and peel), and GOS and FOS syrups as sweeteners, compared to sucrose as the control. The final product was evaluated regarding moisture content, water activity, texture, color and antioxidant activity (in vitro and ex vivo). The process uses relatively short baking times and incorporates whole fruit, considering all the nutritional benefits of orange peel contributing to reducing agro-industrial waste. The obtained snack presented a soft, humid texture (soft hardness, cohesiveness, and adhesiveness), and the superficial color was not affected by the incorporation of prebiotics. Prebiotic syrups could replace traditional sweeteners (sucrose), reducing overall calorie intake without compromising physical quality. The values of the antioxidant compounds (polyphenols' content) determined in the snack were comparable to those of similar products (78-95\u00a0mg GAE/100\u00a0g). The thermal process probably affected this nutritional aspect, but the addition of the orange pulp facilitated the maintenance of the phenolic content like fresh quinoa, the main ingredient. However, the ability to inhibit lipoperoxidation was minimal, underscoring the importance of evaluating antioxidant activity in relevant biological media. The quinoa-based snack is versatile; it could be considered a product suitable for celiacs, it incorporates prebiotic compounds and whole fruits, has a reduced caloric content, does not require additives, and meets the sustainability demands of today's consumers. PRACTICAL APPLICATION: A thermal process was designed to produce a cereal snack with high nutritional value ingredients such as quinoa, orange, and fiber, recognized for their prebiotic effect, as sweeteners. The information provided in this work can contribute to the design of more efficient food manufacturing processes that produce novel and healthier snack foods.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70236",
+  "entities": {
+    "FOOD": [
+      "chenopodium quinoa",
+      "fresh quinoa",
+      "orange",
+      "orange peel",
+      "quinoa",
+      "quinoa grains",
+      "the orange pulp",
+      "the quinoa-based snack"
+    ],
+    "POLYPHENOL": [
+      "polyphenols' content",
+      "their prebiotic effect",
+      "this nutritional aspect"
+    ]
+  }
+}

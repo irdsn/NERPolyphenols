@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Assessing the imazethapyr herbicide-induced physio-biochemical consequences and phenol and glutathione-associated detoxification in lentil seedlings.",
+  "abstract": "Lentil is an essential edible legume crop, especially for developing countries, due to the presence of high-quality proteins, fibers, essential vitamins, and mineral nutrients. The short height of this crop is often linked with a slow pace of growth, favoring the suitable space and time for weed incursion. Consequently, the developmental period during the crop growth cycle is shortened, leading to a decline in crop productivity. To control the menace of weeds and sustain the yield potential of lentils, we have evaluated the impact of imazethapyr spray on the osmotic behavior of lentil crops. Further, we have investigated the kinetics of PAL (phenylalanine ammonia lyase) and GST (glutathione-s-transferase) to elucidate the process of imazethapyr detoxification by lentil crop at the seedling stage. The results of the present study demonstrated that imazethapyr spray reduced the RWC (relative water content) in the range of 3.10-40.48% across the applied doses of 0.5 RFD (recommended field dose), 1 RFD, 1.25 RFD, 1.5 RFD, and 2 RFD, during different sampling periods from 0 HBT (hours before treatment) to 120 HAT (hours after treatment). On the other hand, proline content increased across different doses of imazethapyr and sampling hours. Proline content was highest at 2 RFD and varied in the 112.12-309.49% range during different sampling hours. Similarly, total soluble sugar content increased (18.15-151.66%) in response to varying imazethapyr doses across different sampling hours. The kinetic study of PAL and GST indicated progressive increases in the Vmax (maximum velocity) and Km (Michelis-Menten constant) of both enzymes. Vmax of PAL varied from 1.09-2.31\u2009\u03bcmol of t-cinnamic acid produced (h-1\u2009mg-1 protein), whereas that of GST varied from 35.59-83.33\u2009\u03bcmol of CDNB (1-chloro-2,4-dinitrobenzene) across the imazethapyr doses.",
+  "publication_date": "2025-05-01",
+  "journal": "Physiologia plantarum",
+  "doi": "10.1111/ppl.70131",
+  "entities": {
+    "POLYPHENOL": [
+      "a decline",
+      "t-cinnamic acid"
+    ],
+    "FOOD": [
+      "lentils"
+    ]
+  }
+}

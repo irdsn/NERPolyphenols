@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Two new dibenzyl-\u03b3-butyrolactone lignans with cytotoxic activity fromHimalaiella heteromalla, an Indian Himalayan plant.",
+  "abstract": "Two new (-)-parairesinol (3), lappaol G (5), and three known (1,2, and4) dibenzyl-\u03b3-butyrolactone lignans were isolated from the Indian Himalayan herbHimalaiella heteromalla. Their structures were characterised by NMR and mass data analysis.In vitrocytotoxic study revealed that arctiin (4) showed promising growth inhibition across seven human cancer cells, with potent activity against Mia-PaCa-2 cells. Notably, compounds3and5did not demonstrate significant cytotoxicity up to 80\u2009\u03bcM concentrations.",
+  "publication_date": "2025-04-17",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2491122",
+  "entities": {
+    "SYMPTOM": [
+      "seven human cancer cells"
+    ]
+  }
+}

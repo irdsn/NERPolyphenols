@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Immunostimulatory effects of dietary verjuice (Vitis vinifera) on immune response and transcription of immune-related genes in juvenile rainbow trout (Oncorhynchusmykiss).",
+  "abstract": "The development of green aquaculture practices has led to the supplementation of fish diets with natural immunostimulants such as organic acids. This study aimed to assess the dietary effects of verjuice (VJ; unfermented unripe grapes; Vitis vinifera) on hematological parameters, skin mucosal immunity, transcriptional immune responses, and antibacterial serum activity against Aeromonas hydrophila in rainbow trout. The fish (51.0\u00a0\u00b1\u00a02.4\u00a0g) were randomly distributed into 15 tanks and fed ad-libitum thrice daily with diets containing different levels of VJ including 0 (control; VJ-0), 3 (VJ-3), 6 (VJ-6), 9 (VJ-9), and 12 (VJ-12) mL/kg VJ for 56\u00a0d. Results showed that immuno-hematological parameters (total white blood cells, neutrophils, and monocytes) were improved in VJ-added groups (P < 0.05). In addition, dietary VJ (9\u00a0mL/kg) modulated serum immunological parameters. Skin mucus immunology exhibited a notable increase in alkaline phosphatase, lysozyme activity, alkaline protease, total protein, total immunoglobulin, and esterase levels in VJ-9 group compared with those in the control group (P\u00a0<\u00a00.05). The mRNA expression of interleukin-1\u03b2, interleukin-6, interleukin-8, and immunoglobulin M were significantly higher in VJ-9 group than in the control (P < 0.05). Furthermore, the results of the antibacterial evaluation showed that A. hydrophila growth was significantly inhibited in the serum samples from VJ-3 to VJ-9 groups after the 56th day and in all VJ-treated groups after the 70th (P < 0.05). In conclusion, dietary VJ is a novel immunostimulant and the optimal dietary supplementation level of 6.65-7.46\u00a0mL/kg can effectively improve immune responses in rainbow trout.",
+  "publication_date": "2024-06-19",
+  "journal": "Fish & shellfish immunology",
+  "doi": "10.1016/j.fsi.2024.109714",
+  "entities": {
+    "POLYPHENOL": [
+      "the dietary effects"
+    ],
+    "FOOD": [
+      "; unfermented unripe grapes",
+      "verjuice"
+    ]
+  }
+}

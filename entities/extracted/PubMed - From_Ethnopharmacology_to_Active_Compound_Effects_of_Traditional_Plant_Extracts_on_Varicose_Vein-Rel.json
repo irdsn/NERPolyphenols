@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "From Ethnopharmacology to Active Compound: Effects of Traditional Plant Extracts on Varicose Vein-Related Enzymes and Isolation of Active Flavonoids fromHelichrysum plicatumDC. subsp.plicatum.",
+  "abstract": "Background:Varicose veins and chronic venous insufficiency are chronic venous disorders involving abnormalities in the venous system. Inflammation, an increase in proteolytic enzymes, and free radicals are important factors that play a role in the varicose vein pathology.Methods:In this study, the antioxidant properties and inhibitor activities of 17 plant extracts used to treat varicose veins in traditional medicine were evaluated against varicose veins-related enzymes (hyaluronidase, elastase, collagenase, lipooxygenase, prolylendopeptidase, and xanthine oxidase). The most effective compounds responsible for the activity of theHelichrysum plicatumsubsp.plicatumextract were isolated by open column chromatography techniques. The active compounds were determined to be naringenin, apigenin, and luteolin by spectroscopic methods. In the activity-guided isolation study, the xanthine oxidase enzyme inhibition method was used.Results:The fractions containing naringenin and apigenin (IC50= 0.269 \u00b1 0.009 \u00b5g/mL) and apigenin and luteolin (IC50= 0.285 \u00b1 0.019 \u00b5g/mL) compounds showed synergistic and strong effects against xanthine oxidase and were found to be as active as the positive control allopurinol (IC50= 0.250 \u00b1 0.006 \u00b5g/mL). In the LC-MS/MS analysis of theHelichrysum plicatumextract, quinic acid (22.649 mg compound/g extract), chlorogenic acid (14.573 mg/g extract), isoquercitrin (14.371 mg/g extract), cosmosin (9.885 mg/g extract), and astragalin (11.506 mg/g extract) were detected as the major components. Naringenin, apigenin, and luteolin were detected at concentrations of 1.457, 2.518, and 1.368 mg/g in the extract, respectively.Conclusions:In conclusion, it is predicted that the combination of naringenin, apigenin, and luteolin has a promising use as a conservative treatment option for diseases associated with varicose veins due to their synergistic effects with each other.",
+  "publication_date": "2025-06-19",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18060926",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation"
+    ],
+    "FOOD": [
+      "17 plant extracts"
+    ],
+    "POLYPHENOL": [
+      "apigenin",
+      "chlorogenic acid",
+      "luteolin",
+      "naringenin",
+      "open column chromatography techniques",
+      "spectroscopic methods",
+      "synergistic and strong effects",
+      "the most effective compounds",
+      "their synergistic effects"
+    ]
+  }
+}

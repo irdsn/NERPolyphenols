@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "The antibacterial activity of Cornus mas L. against uropathogenic Escherichia coli strains producing extended-spectrum \u03b2-lactamase.",
+  "abstract": "The emergence of uropathogenic Escherichia coli strains that produce ESBLs is a major global health issue. The purpose of this work is to examine the fruit pulp extract from Cornus mas L.'s in vitro antibacterial efficacy against uropathogenic E. coli strains that produce ESBLs. In this study, the antibacterial activity of C. mas extract against E. coli isolates that produced ESBLs was evaluated using the microdilution method. The MIC value of C. mas against sensitive E.coli strains was reported to be 62.5\u00a0\u03bcg/mL. The MIC values for E. coli strains with \u03b2-lactamase resistance genes were 62.5\u00a0\u03bcg/mL (35\u00a0%) and 125\u00a0\u03bcg/mL (65\u00a0%). As a result, C. mas can be used to prevent UTIs and may help limit the spread of resistant uropathogenic bacterial strains. High concentrations of rutin (1.0249\u00a0\u00b1\u00a00.0081\u00a0mg/g) and gallic acid (1.0582\u00a0\u00b1\u00a00.0003\u00a0mg/g) were found in the HPLC analysis research conducted on the methanol extract of C. mas fruit pulp. The binding potential of the major phytocomponents of C. mas extract, gallic acid, and rutin, to form a stable complex with CTX-M-15 was explored through molecular docking and molecular dynamics (MD) simulation. The docking study showed that rutin had the highest binding potential to bind to the protein relative to gallic acid as well as the co-crystallized ligand. According to the MD analysis results, the stability of the protein-rutin complex procured from the docking was found to be stable. Furthermore, rutin is anticipated to remain inside the binding region of the target protein during the simulation period.",
+  "publication_date": "2025-05-06",
+  "journal": "Microbial pathogenesis",
+  "doi": "10.1016/j.micpath.2025.107677",
+  "entities": {
+    "POLYPHENOL": [
+      "gallic acid",
+      "molecular docking",
+      "molecular dynamics (md) simulation",
+      "rutin",
+      "the protein-rutin complex"
+    ]
+  }
+}

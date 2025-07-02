@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Acacetin reverses hypoxic pulmonary hypertension by inhibiting hypoxia-induced proliferation of pulmonary artery smooth muscle cells via SIRT1-HMGB1 pathway.",
+  "abstract": "Hypoxic pulmonary hypertension (HPH) is characterized by sustained elevation of pulmonary arterial pressure and vascular remodeling. The present study is to investigate the efficacy of acacetin on HPH and its potential molecular mechanism. C57/BL6 mice were exposed to hypobaric hypoxia for six weeks. At 4th week of hypoxia exposure, mice were administrated with the water-soluble prodrug of acacetin (5, 10, 20\u00a0mg/kg) or equivalent normal saline for another two weeks. The haemodynamic and pathohistological assessment were performed. Primary pulmonary artery smooth muscle cells (PASMCs) were cultured to examine the anti-proliferation efficacy of acacetin (0.3-3\u00a0\u03bcM). The activity and expression of sirtuin1 (SIRT1) acetylation and distribution of high-mobility group box 1 (HMGB1) were determined in lungs and/or cultured PASMCs with or without RNA interference of SIRT1. Macromolecular docking and molecular dynamics simulation were done to explore the potential binding between acacetin and SIRT1. Results showed that acacetin prodrug significantly reversed the increased pulmonary pressure and vascular remodeling in HPH mice, which is associated with inhibiting the reduction in SIRT1 and the increase in HMGB1, and inhibiting the nucleocytoplasmic translocation of HMGB1. In cultured PASMCs, acacetin inhibited the hyper-proliferation induced by hypoxia, reversed the SIRT1 reduction and inhibited the nucleocytoplasmic translocation of HMGB1 and HMGB1 increase. Silencing SIRT1 abolished all the beneficial effects of acacetin. These results demonstrate that acacetin is very effective in reversing HPH by inhibiting PASMC hyper-proliferation via regulating SIRT1-HMGB1 signaling, suggesting that acacetin is likely a promising drug candidate for treating patients with HPH.",
+  "publication_date": "2025-04-19",
+  "journal": "European journal of pharmacology",
+  "doi": "10.1016/j.ejphar.2025.177650",
+  "entities": {
+    "SYMPTOM": [
+      "hypoxic pulmonary hypertension"
+    ],
+    "POLYPHENOL": [
+      "all the beneficial effects",
+      "its potential molecular mechanism",
+      "macromolecular docking",
+      "molecular dynamics simulation"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Wine metabolome and sensory analyses demonstrate the oenological potential of novel grapevine genotypes for sustainable viticulture in warm climates.",
+  "abstract": "Genetic breeding is essential to develop grapevine genotypes adapted to warm climates and resistant to pathogens. Traditionally cultivated Vitis vinifera is susceptible to biotic and abiotic stresses. Winemakers and consumers, however, perceive wines from non-vinifera or hybrid cultivars as inferior. In this study, sensory analyses and comprehensive metabolite profiling by targeted and untargeted approaches were used to investigate the oenological potential of wines from grapes of genotypes developed throughout four breeding cycles to improve climate adaptation, sugar contents and berry color.",
+  "publication_date": "2024-08-22",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.13832",
+  "entities": {
+    "FOOD": [
+      "grapes",
+      "grapevine genotypes",
+      "winemakers",
+      "wines"
+    ],
+    "SYMPTOM": [
+      "biotic and abiotic stresses"
+    ]
+  }
+}

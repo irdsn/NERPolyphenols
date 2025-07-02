@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Oxidative stress and cumulative exposure to environmental pollutants in lactating mothers living in the Valencian Region (Spain).",
+  "abstract": "To widen our understanding of internal exposure to multiple chemicals and extract exposure-response associations from human biomonitoring (HBM) studies, the Exposure Load (EL) approach was used on data from the BETTERMILK project. Urinary levels of biomarkers of exposure to several contaminant groups -polycyclic aromatic hydrocarbons (PAHs), pesticides, bisphenols, phthalates, parabens, acrylamide, and metals - were analyzed, together with urinary concentrations of 8-oxo-7,8-dihydro-2'-deoxyguanosine (8OHdG) as a biomarker of oxidative stress-induced DNA damage. Potential determinants of exposure, obtained through questionnaires, were cross-sectionally evaluated in Valencian breastfeeding mothers (year 2015, Spain). The 50th, 70th, 90th and 95th percentiles (P50, P70, P90 and P95, respectively) of each of the 41 selected biomarker groups were used as thresholds for EL calculations for 93 study participants who provided complete data for cumulative exposure assessment. Approximately 20\u00a0% of the mothers were exposed to \u226524 of the selected biomarker groups above the P50 and to \u22653 of these biomarkers above the P95 level. Concentrations exceeding health-based guidance values were observed for two phthalates, total As and acrylamide. A multiple linear regression model, with 8OHdG as the dependent variable and adjusted for potential confounders, revealed that an increased vegetable consumption (g\u00b7month-1) was associated with reduced urinary 8OHdG concentrations (-0.302; 95\u00a0% CI: -0.301, -0.303, p\u00a0=\u00a00.006). Bivariate analysis showed that PAHs, pesticides, parabens, and Cd were strongly correlated to higher urinary 8OHdG levels. These findings could be a starting point for designing larger longitudinal studies that consider toxicity, chemical residence time in the body, and a broader range of matrices and compound classes to which the target population might be exposed. These studies could further explore cause-effect relationships and inform preventive public health policies.",
+  "publication_date": "2025-04-29",
+  "journal": "Environmental pollution (Barking, Essex : 1987)",
+  "doi": "10.1016/j.envpol.2025.126308",
+  "entities": {
+    "POLYPHENOL": [
+      "cause-effect relationships",
+      "the 41 selected biomarker groups",
+      "the bettermilk project",
+      "the selected biomarker groups"
+    ],
+    "SYMPTOM": [
+      "oxidative stress-induced dna damage",
+      "spain"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Higher dietary flavonol and isoflavonoid intakes are associated with lower incidence of type 2 diabetes.",
+  "abstract": "Background:Adequate evidence supports beneficial effects of plant-derived phytochemicals against type 2 diabetes (T2D). Among phytochemicals, dietary flavonoids is one of the superb candidates. The whole studies are carried out in Western populations, so it is needed to investigate the risk of T2D by dietary flavonoid intakes in ethnic origins and other regions to confirm these relations. This study was conducted to investigate whether the daily consumption of total flavonoid and its subclasses can affect the incidence of type 2 diabetes (T2D) in the Iranian population.Methods:Eligible adults (n=6547) were selected from among participants of the Tehran lipid and glucose study with an average follow-up of 3.0 years. Dietary intakes were assessed using a valid and reliable 168-item semi-quantitative food frequency questionnaire. Multivariate Cox proportional hazard regression models were used to estimate the development of T2D in relation to total intake of flavonoids.Results:This study was conducted on 2882 men and 3665 women, aged 41.3\u00b114.6 and 39.0\u00b113.4 years, respectively. After adjustment for several potential confounders (age, sex, diabetes risk score, physical activity, energy, fiber and total fat intakes), risk of T2D decreased from tertiles 1 to 3 for flavonols (HR (95% CI): 1.00, 0.86 (0.64-1.16), 0.87 (0.63-0.93), Ptrend=0.01) and isoflavonoids (HR (95% CI): 1.00, 0.84 (0.62-1.13), 0.64 (0.46-0.88), Ptrend=0.02), whereas non-significant results were found for total flavonoid and other subclasses of flavonoid.Conclusion:These results emphasize the potential protective role of flavonols and isoflavonoids rich food (e.g. apple, tea, soy, and dark chocolate) in the prevention of T2D.",
+  "publication_date": "2023-04-12",
+  "journal": "International journal for vitamin and nutrition research. Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Journal international de vitaminologie et de nutrition",
+  "doi": "10.1024/0300-9831/a000782",
+  "entities": {
+    "POLYPHENOL": [
+      "beneficial effects",
+      "dietary flavonoid intakes",
+      "dietary flavonoids",
+      "flavonoid",
+      "flavonoids",
+      "isoflavonoids",
+      "the potential protective role",
+      "total flavonoid"
+    ],
+    "SYMPTOM": [
+      "type 2 diabetes"
+    ],
+    "FOOD": [
+      "dark chocolate",
+      "e.g. apple",
+      "soy"
+    ]
+  }
+}

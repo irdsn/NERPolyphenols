@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "tea polyphenols",
+  "title": "Efficacy of trehalose, tea polyphenol and their combinaton-loaded sodium alginate coating pretreatments on microstructure, flavor and quality of heat pump dried scallop adductors.",
+  "abstract": "Protein denaturation/oxidation and lipid oxidation critically affect quality of dried aquatic products. Measures to maintain protein structure and reduce oxidation are assumed beneficial to maintain quality of dried products. Herein, scallop adductors without pretreatment (CK) and with different pretreatments including trehalose (TR), tea polyphenol (TP), their combinations (TR-TP), and TR-TP-loaded sodium alginate coating (TR-TP-SA) were performed to reveal their effects on microstructure, flavor, and quality of heat pump dried scallop adductors.",
+  "publication_date": "2025-03-31",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.14254",
+  "entities": {
+    "POLYPHENOL": [
+      "tea polyphenol",
+      "their effects"
+    ]
+  }
+}

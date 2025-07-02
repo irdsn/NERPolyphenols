@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Integration of lipidomics and widely targeted metabolomics provides a comprehensive metabolic landscape of Poa pratensis under cadmium stress.",
+  "abstract": "Soil cadmium (Cd) contamination poses significant environmental challenges globally. Kentucky bluegrass is considered a viable plant for remediating Cd-contaminated soils due to its high tolerance to Cd and accumulation capacity. Yet, the complete metabolic landscape underlying Cd detoxification mechanisms of Kentucky bluegrass remains incompletely understood.",
+  "publication_date": "2025-05-20",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-025-06709-1",
+  "entities": {
+    "POLYPHENOL": [
+      "underlying cd detoxification mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Insight into the population dynamics of pathogenic bacteria causing grapevine crown gall in snowfall areas: snow cover protects the proliferation of pathogenic bacteria.",
+  "abstract": "Grapevine crown gall (GCG) is a significant bacterial disease caused by tumorigenicAllorhizobium vitis(TAV) and is prevalent worldwide. TAV infects grapevines through wounds such as freezing injuries. Although grapevines typically avoid being wounded under snow cover, GCG occurs in many commercial vineyards in snowy regions. This study investigated the TAV population in GCG gall tissues, grapevine skins, and snow on grapevine skins from six infected vineyards located in Hokkaido, Japan, an area known for heavy snowfall. TAV was isolated not only from gall tissues but also from skins and snow on skins throughout the year. Hierarchical Bayesian model (HBM) analysis revealed that the number of TAV cells in gall tissues was affected by cultivar and low temperature, while those in skins were affected by location and low temperature. Additionally, Bayesian changepoint detection (BCD) showed that the number of TAV cells in gall and skin tissues increased during winter, including the snowfall season. Furthermore, the TAV population in grapevine skins under the snow was significantly higher than those above the snow, indicating that TAV under the snow is protected by the snow and can survive well during the snowfall season. This study highlights the ability of TAV to overwinter on/in galls and skins under the snow and act as inoculum for the next season.",
+  "publication_date": "2023-06-12",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2023.1198710"
+}

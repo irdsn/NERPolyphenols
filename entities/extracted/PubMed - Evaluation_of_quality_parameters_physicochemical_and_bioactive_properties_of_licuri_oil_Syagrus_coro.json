@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Evaluation of quality parameters, physicochemical and bioactive properties of licuri oil (Syagrus coronata).",
+  "abstract": "This study aimed to conduct a comprehensive analysis of licuri (Syagrus coronata) oil, exploring its composition, quality parameters, bioactive profile, and physicochemical properties. Licuri oil was extracted by cold pressing from mature fruits and subjected to extensive chemical characterization, including lipid, protein, water content, peroxide value, acidity, trace metals, carboxylic acid, total polyphenol, carotenoids and tocols. The oil's lipid profile, including fatty acid, and triacylglycerol profile was also determined. Antioxidant capacity was determined by DPPH radical scavenging assay (IC50), melting and crystallization behaviors were examined via differential scanning calorimetry (DSC), complete rheological profile was assessed through stress - strain curves, and oil's oxidative stability determined by Rancimat apparatus. The analysis revealed that licuri oil has favorable characteristics, such as low water content (0.54\u00a0%), peroxide value within regulatory limits (5.83\u00a0mEq/kg), and low free fatty acid content (0.09\u00a0%). It is a rich source of lauric acid (45.01\u00a0%), with significant amounts of myristic (13.2\u00a0%), caprylic (12.34\u00a0%), and oleic acid (10.79\u00a0%), similar to coconut or palm kernel oils, largely applied in industry. The predominance of triglycerides derived from lauric acid contributes to its functionality, including an interesting melting and rheological profile, making it suitable for various food and cosmetic applications. Additionally, licuri oil exhibits a significant content of phenolic compounds (196.73\u00a0\u03bcg CAE/g) and tocols (7.79\u00a0\u03bcg/g), leading to improved oxidative stability (30.09\u00a0h at 110\u00a0\u00b0C), and antioxidant capacity, thus making licuri oil a healthier alternative to conventional oils.",
+  "publication_date": "2025-03-13",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116157",
+  "entities": {
+    "POLYPHENOL": [
+      "phenolic compounds",
+      "total polyphenol"
+    ],
+    "SYMPTOM": [
+      "stress - strain curves"
+    ]
+  }
+}

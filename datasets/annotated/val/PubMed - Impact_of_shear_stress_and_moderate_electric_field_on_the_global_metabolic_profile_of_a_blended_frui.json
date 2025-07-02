@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Impact of shear stress and moderate electric field on the global metabolic profile of a blended fruit and vegetable juice.",
+  "abstract": "This study investigated the impact of moderate electric field (MEF) and shear stress (SS) on the chemical profile of a blended fruit and vegetable juice using untargeted metabolomics. Samples underwent mild thermal treatment, MEF, and a combination of MEF and SS, with subsequent chemical changes analyzed through liquid chromatography-mass spectrometry (LC-MS). Principal component analysis revealed distinct clustering based on treatment type, indicating that processing with MEF and MEF\u00a0+\u00a0SS altered the juice metabolite composition compared to both fresh juice and sample subjected to mild thermal treatment. Notably, anthocyanins underwent degradation, with MEF and MEF\u00a0+\u00a0SS treatments resulting in increased rates of compound breakdown and/or oxidation. Furthermore, MEF and MEF\u00a0+\u00a0SS treated samples had higher levels of some phenolic acids, such as gallic acid and caffeic acid, suggesting enhanced bioaccessibility and bioavailability. These findings suggest that MEF, both with and without SS, induces significant non-thermal effects, contributing to the degradation or release of key metabolites. This work underscores the potential of MEF and MEF\u00a0+\u00a0SS technologies to modify food composition during processing, offering new opportunities for optimizing food quality.",
+  "publication_date": "2025-03-18",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116299",
+  "entities": {
+    "POLYPHENOL": [
+      "caffeic acid",
+      "gallic acid",
+      "liquid chromatography-mass spectrometry",
+      "mef\u00a0+\u00a0ss technologies",
+      "moderate electric field",
+      "significant non-thermal effects"
+    ],
+    "SYMPTOM": [
+      "shear stress"
+    ],
+    "FOOD": [
+      "a blended fruit and vegetable juice",
+      "both fresh juice",
+      "the juice metabolite composition"
+    ]
+  }
+}

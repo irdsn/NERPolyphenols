@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Pterostilbene, a Dimethyl Derivative of Resveratrol, Exerts Cytotoxic Effects on Melanin-Producing Cells through Metabolic Activation by Tyrosinase.",
+  "abstract": "Pterostilbene (PTS), which is abundant in blueberries, is a dimethyl derivative of the natural polyphenol resveratrol (RES). Several plant species, including peanuts and grapes, also produce PTS. Although RES has a wide range of health benefits, including anti-cancer properties, PTS has a robust pharmacological profile that includes a better intestinal absorption and an increased hepatic stability compared to RES. Indeed, PTS has a higher bioavailability and a lower toxicity compared to other stilbenes, making it an attractive drug candidate for the treatment of various diseases, including diabetes, cancer, cardiovascular disease, neurodegenerative disorders, and aging. We previously reported that RES serves as a substrate for tyrosinase, producing ano-quinone metabolite that is highly cytotoxic to melanocytes. The present study investigated whether PTS may also be metabolized by tyrosinase, similarly to RES. PTS was oxidized as a substrate by tyrosinase to form ano-quinone, which reacted with thiols, such asN-acetyl-L-cysteine, to form di- and tri-adducts. We also confirmed that PTS was taken up and metabolized by human tyrosinase-expressing 293T cells in amounts several times greater than RES. In addition, PTS showed a tyrosinase-dependent cytotoxicity against B16BL6 melanoma cells that was stronger than RES and also inhibited the formation of melanin in B16BL6 melanoma cells and in the culture medium. These results suggest that the two methyl groups of PTS, which are lipophilic, increase its membrane permeability, making it easier to bind to intracellular proteins, and may therefore be more cytotoxic to melanin-producing cells.",
+  "publication_date": "2024-09-17",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms25189990",
+  "entities": {
+    "POLYPHENOL": [
+      "pterostilbene",
+      "several plant species",
+      "the natural polyphenol resveratrol"
+    ],
+    "FOOD": [
+      "blueberries",
+      "grapes",
+      "peanuts"
+    ],
+    "SYMPTOM": [
+      "aging",
+      "anti-cancer properties",
+      "cancer"
+    ]
+  }
+}

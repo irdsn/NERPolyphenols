@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Polyphenols: Natural compounds with promising potential in treating polycystic ovary syndrome.",
+  "abstract": "Polyphenols are natural compounds used by plants as a defense system against various stresses. In recent years, the importance of these polyhydroxyphenols has extensively increased due to their potent cardioprotection, anti-carcinogenic, anti-oxidant, anti-apoptotic, and anti-inflammatory properties. Therefore, various studies have reported promising results from the studies investigating their efficacy as a therapeutic strategy in various disorders such as human malignancies, cardiovascular diseases, nervous system impairments, diabetes, metabolic syndrome, aging, and inflammation-associated disorders, as well as a polycystic ovarian syndrome (PCOS). Since oxidative stress, hormonal, metabolic, and endocrine disturbances have been shown to play a crucial role in the initiation/progression of PCOS, polyphenols are suggested to be an effective treatment for this disorder. Therefore, this study aimed to discuss the therapeutic potential of multiple polyphenols in PCOS.",
+  "publication_date": "2021-04-18",
+  "journal": "Reproductive biology",
+  "doi": "10.1016/j.repbio.2021.100500",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective treatment",
+      "multiple polyphenols",
+      "polyphenols",
+      "recent years",
+      "their potent cardioprotection"
+    ],
+    "SYMPTOM": [
+      "aging",
+      "inflammation-associated disorders",
+      "metabolic syndrome",
+      "oxidative stress",
+      "various stresses"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Theragenerative injectable bone-adhesive hydrogels for combined photothermal osteosarcoma therapy and bone repair.",
+  "abstract": "Injectable hydrogels with self-healing properties, tissue adhesion, biocompatibility, and cancer therapeutic capabilities offer a promising solution for addressing bone loss and residual tumor cells following surgical resection of osteosarcoma. In this study, injectable adhesive hybrid hydrogels were developed using natural silk-derived proteins, silk fibroin (SF), and silk sericin (SS). The sericin was surface functionalized with dopamine (DOPA) forming SSDOPA, while the silk fibroin was enzymatically oxidized (forming SFO) to introduce abundant catechol moieties on the polymer chains. These modifications enabled hydrogelation and self-assembly in the presence of copper ions (Cu2+) and tannic acid (TA), creating an SFO-SSDopa-Cu2+-TA hydrogel inspired by the mussel adhesion mechanism. The dynamic metal-catechol coordination bonds, along with other covalent and non-covalent interactions in the gel network, imparted excellent shear-thinning properties with 3D printability, injectability, self-healing (72.27 \u00b1 9.35% after 6 cyclic), making it suitable for minimally invasive surgeries and targeted delivery applications. Additionally, the developed adhesive hydrogel demonstrated strong adhesiveness (664.03 \u00b1 15.87 kPa and 854.15 \u00b1 12.90 kPa on Gel- and Hap-based substrates respectively), showing excellent bonding performance to natural bone and tissue. Its black coloration enabled efficient absorption of near-infrared (NIR) light (reach 45-48 \u00b0C), facilitating the eradication of almost 60% osteosarcoma cells through photothermal therapy within 20 minutes of hydrogel irradiation with laser. Moreover, the developed SFO-SSDopa-Cu2+-TA hydrogels promoted the proliferation and migration of pre-osteoblast cells, confirming their excellent biocompatibility. Coupled with good biodegradability, these hydrogels demonstrate significant potential as theragenerative materials for minimally invasive osteosarcoma treatment, providing a clinically translatable solution for repairing bone affected by the disease.",
+  "publication_date": "2025-06-25",
+  "journal": "Biomaterials science",
+  "doi": "10.1039/d5bm00559k",
+  "entities": {
+    "POLYPHENOL": [
+      "abundant catechol moieties",
+      "injectability",
+      "injectable adhesive hybrid hydrogels",
+      "injectable hydrogels",
+      "surgical resection",
+      "the dynamic metal-catechol coordination bonds",
+      "the mussel adhesion mechanism"
+    ],
+    "SYMPTOM": [
+      "bone loss",
+      "cancer therapeutic capabilities"
+    ]
+  }
+}

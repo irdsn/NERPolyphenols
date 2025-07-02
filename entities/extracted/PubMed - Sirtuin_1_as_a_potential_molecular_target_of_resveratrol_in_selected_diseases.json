@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "[Sirtuin 1 as a potential molecular target of resveratrol in selected diseases].",
+  "abstract": "Cancer, type 2 diabetes, cardiovascular and neurological diseases are disorders commonly classified as diseases that have a significant impact on the length and quality of human life. Sirtuins play an important role in their pathogenesis and complications. Numerous studies indicate that modulation of the expression of these proteins can slow down the processes of aging and cell death, prevent inflammation, and regulate metabolic processes, and consequently modify the progression of the disease. One of the best-known sirtuins is sirtuin 1, whose strongest natural activator is resveratrol. The development of alternative therapies involving natural compounds such as resveratrol is highly desirable due to the significantly lower number of side effects compared to conventional therapies. Therefore, this review summarizes the possible benefits of resveratrol as a sirtuin 1 activator in the prevention and treatment of human diseases based on the results of the studies conducted so far.",
+  "publication_date": "2024-01-30",
+  "journal": "Postepy biochemii",
+  "doi": "10.18388/pb.2021_499",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "cancer",
+      "cell death",
+      "inflammation",
+      "type 2 diabetes"
+    ],
+    "POLYPHENOL": [
+      "resveratrol",
+      "side effects"
+    ]
+  }
+}

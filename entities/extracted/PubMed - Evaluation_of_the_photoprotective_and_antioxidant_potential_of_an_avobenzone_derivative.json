@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Evaluation of the photoprotective and antioxidant potential of an avobenzone derivative.",
+  "abstract": "Solar radiation can cause damage to the skin, and the use of sunscreens is one of the main protective measures. However, photounstable ultraviolet (UV) filters can generate photoproducts and reactive oxygen species (ROS). Adding antioxidants, such as resveratrol, to enhance the action of UV filters in sunscreens is an interesting strategy for reducing the damage caused by UV radiation exposure. However, new compounds must have their stability, safety and efficacy guaranteed. Avobenzone, a commonly used UV filter, stands out as a promising candidate for structural modification to enhance its stability. Its molecular hybridization with other UV filters and antioxidants can lead to safer and more effective compounds. In this study, the photoprotective and antioxidant potential of a derivative of avobenzone, hybridized with resveratrol's molecule, was evaluated usingin vitromodels of cells in monolayer and reconstructed human skin (RHS). Phototoxic potential was assessed using fibroblasts, while the antioxidant activity was measured using the DCFH2-DA probe in HaCaT keratinocytes and in-house RHS. The derivative exhibited UV absorption and demonstrated photostability. It did not exhibit any phototoxic nor photoreactivity potential. Additionally, it was able to photo stabilize a combination of photounstable UV filters, avobenzone and octyl methoxycinnamate, and to reduce their phototoxic potential. In terms of antioxidant activity, the derivative successfully protected against UVA-induced ROS production in the HaCaT keratinocytes model, showing statistical equivalence to the antioxidant control, quercetin (10\u00a0\u03bcg/mL). Furthermore, experiments conducted in the RHS model demonstrated a significant reduction of 30.7% in ROS generation compared to the irradiated control. This study demonstrated that structural modifications of avobenzone can lead to the development of a broad spectrum (absorbing UVB and UVA II radiation, as well as a portion of the UVA I radiation), non-phototoxic, non-photoreactive and photostable derivative for sunscreen and anti-aging formulations. This derivative enhances protection against oxidative stress induced by UV radiation and improves the effectiveness of sun protection. In addition to the monolayer model, the use of a standardized in-house RHS model was highly relevant for evaluating the effects of UV radiation and skin aging. This model closely mimics human physiological conditions and enables the testing of new compounds and the investigation of protective mechanisms against skin damage.",
+  "publication_date": "2024-02-29",
+  "journal": "Frontiers in physiology",
+  "doi": "10.3389/fphys.2024.1347414",
+  "entities": {
+    "POLYPHENOL": [
+      "a broad spectrum",
+      "its molecular hybridization",
+      "protection",
+      "protective mechanisms",
+      "quercetin",
+      "reactive oxygen species",
+      "resveratrol",
+      "resveratrol's molecule",
+      "safer and more effective compounds",
+      "sun protection",
+      "the effectiveness",
+      "the effects",
+      "the main protective measures",
+      "the photoprotective and antioxidant potential"
+    ],
+    "SYMPTOM": [
+      "oxidative stress",
+      "sunscreen and anti-aging formulations"
+    ]
+  }
+}

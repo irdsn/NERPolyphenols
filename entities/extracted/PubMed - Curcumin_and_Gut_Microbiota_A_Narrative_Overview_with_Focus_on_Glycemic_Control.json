@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Curcumin and Gut Microbiota: A Narrative Overview with Focus on Glycemic Control.",
+  "abstract": "Turmeric is a spice widely used in China, Southeast Asia, and in traditional Ayurvedic medicine. Its safety profile and efficacy as an antioxidant, anti-inflammatory, antimicrobial, antitumor, antidiabetic, and anti-obesity agent have led to extensive research into its potential role in preventing and treating metabolic diseases. The active compound in turmeric is curcumin, which exhibits low systemic bioavailability after oral administration. However, it is detectable in the gut, where it bidirectionally interacts with the gut microbiota (GM), which plays a crucial role in maintaining host health. The favorable effects of curcumin, particularly its hypoglycemic properties, are linked to alteration in intestinal dysbiosis observed in type 2 diabetes mellitus and metabolic syndrome patients. Restoration of the eubiotic GM may contribute to glycemic homeostasis. Preclinical and clinical studies have demonstrated the involvement of the GM in the regulation of glucose and lipid metabolism. Although the underlying mechanism remains incompletely understood, intestinal dysbiosis is associated with insulin resistance, hyperglycemia, and low-grade inflammation. In the present overview, we summarize the biological properties of curcumin, focusing on its link with GM and, therefore, on its potential role in metabolic diseases.",
+  "publication_date": "2024-07-14",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms25147710",
+  "entities": {
+    "FOOD": [
+      "turmeric"
+    ],
+    "POLYPHENOL": [
+      "curcumin",
+      "preclinical and clinical studies",
+      "the favorable effects",
+      "the underlying mechanism"
+    ],
+    "SYMPTOM": [
+      "hyperglycemia",
+      "insulin resistance",
+      "low-grade inflammation",
+      "metabolic syndrome patients"
+    ]
+  }
+}

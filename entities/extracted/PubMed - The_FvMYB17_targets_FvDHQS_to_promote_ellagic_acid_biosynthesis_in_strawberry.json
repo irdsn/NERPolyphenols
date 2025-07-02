@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "The FvMYB17 targets FvDHQS to promote ellagic acid biosynthesis in strawberry.",
+  "abstract": "Subgroup 4 R2R3-MYB factors are known to act as MYB repressors of phenylpropanoid metabolism in most plant species. However, whether these MYB repressors regulate other plant secondary metabolisms, such as ellagic acid, remains unclear. Additionally, the mechanism by which some MYB repressors function as activators remains unknown. MYB repressors typically contain conserved repression motifs, including the C2 motif (pdLNLD/ELxiG/S) and the C5 motif (TLLLFR), which recruit corepressors via the LXLXLXcore motif. In this study, we identified FvMYB17, a subgroup 4 R2R3-MYB repressor in woodland strawberry (Fragaria vesca). The stable overexpression of FvMYB17 in strawberry fruits led to a significant increase in ellagic acid content. Amino acid sequence analysis revealed a single residue substitution within the C2 motif of FvMYB17, which impaired its interaction with the corepressor FvTPR2, potentially explaining its conversion into a transcriptional activator. Furthermore, mutating the C5 motif restored the lack of interaction between FvMYB17 and FvTPR2, even when the histidine in the C2 motif was mutated. Additionally, FvMYB17 is directly bound to the promoter of 3-dehydroquinate synthase (FvDHQS), a key gene in the gallic acid biosynthesis pathway, and activated its expression. Gallic acid serves as a precursor for ellagic acid biosynthesis, and stable silencing of FvDHQS in transgenic strawberry plants significantly reduced ellagic acid accumulation. These findings expand our understanding of MYB17 functionality in plants and provide insights for improving strawberry fruit quality through metabolic engineering.",
+  "publication_date": "2025-05-01",
+  "journal": "The Plant journal : for cell and molecular biology",
+  "doi": "10.1111/tpj.70224",
+  "entities": {
+    "POLYPHENOL": [
+      "a precursor",
+      "additionally, the mechanism",
+      "ellagic acid",
+      "ellagic acid accumulation",
+      "ellagic acid biosynthesis",
+      "ellagic acid content",
+      "gallic acid",
+      "most plant species",
+      "other plant secondary metabolisms",
+      "the gallic acid"
+    ],
+    "FOOD": [
+      "strawberry fruit quality",
+      "strawberry fruits",
+      "transgenic strawberry plants",
+      "woodland strawberry"
+    ]
+  }
+}

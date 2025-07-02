@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Antitumor and immunomodulatory activities of diphyllin and its derivatives.",
+  "abstract": "Immune surveillance plays a key role in controlling tumor formation and development, and immune cell-based therapies, such as chimeric antigen receptor (CAR)-T cells and CAR-natural killer (NK) cells, have become important for the treatment of cancer. The proton pump (PP), vacuolar H+-ATPase (V-ATPase), acidifies intracellular organelles, pumps protons across the cell plasma membranes, and regulates the activity of various signaling pathways, and thus has been regarded as a potential target for cancer treatment. In addition, V-ATPase plays an important role in cytotoxic T lymphocytes, extracellular vesicle (EV) endocytosis, innate immune responses (IIR), and phagocytosis and hence has the potential to function as a target for the enhancement of immunotherapy. As potent V-ATPase inhibitors, the arylnaphthalene lignans, diphyllin and its derivatives, have exhibited potent antitumor and immunomodulatory activities. The structurally related aryltetralin lignan, podophyllotoxin, has served as a lead compound for both etoposide and teniposide, which have been developed as effective anticancer agents. In the present review, the role of V-ATPase in cancer immunotherapy and the structure-activity relationships (SARs) of diphyllin and its cytotoxic and V-ATPase inhibitory activities and the mechanisms of action are discussed. Also, the promise of diphyllin and its derivatives in the development of new adjuvants for cancer immunotherapies has been proposed.",
+  "publication_date": "2025-04-14",
+  "journal": "Bioorganic & medicinal chemistry",
+  "doi": "10.1016/j.bmc.2025.118197",
+  "entities": {
+    "POLYPHENOL": [
+      "chimeric antigen receptor",
+      "effective anticancer agents",
+      "the mechanisms"
+    ],
+    "SYMPTOM": [
+      "cancer",
+      "cancer immunotherapies",
+      "cancer immunotherapy",
+      "cancer treatment"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "The Potential Role of Polyphenols in Modulating Mitochondrial Bioenergetics within the Skeletal Muscle: A Systematic Review of Preclinical Models.",
+  "abstract": "Polyphenols are naturally derived compounds that are increasingly being explored for their various health benefits. In fact, foods that are rich in polyphenols have become an attractive source of nutrition and a potential therapeutic strategy to alleviate the untoward effects of metabolic disorders. The last decade has seen a rapid increase in studies reporting on the bioactive properties of polyphenols against metabolic complications, especially in preclinical models. Various experimental models involving cell cultures exposed to lipid overload and rodents on high fat diet have been used to investigate the ameliorative effects of various polyphenols against metabolic anomalies. Here, we systematically searched and included literature reporting on the impact of polyphenols against metabolic function, particularly through the modulation of mitochondrial bioenergetics within the skeletal muscle. This is of interest since the skeletal muscle is rich in mitochondria and remains one of the main sites of energy homeostasis. Notably, increased substrate availability is consistent with impaired mitochondrial function and enhanced oxidative stress in preclinical models of metabolic disease. This explains the general interest in exploring the antioxidant properties of polyphenols and their ability to improve mitochondrial function. The current review aimed at understanding how these compounds modulate mitochondrial bioenergetics to improve metabolic function in preclinical models on metabolic disease.",
+  "publication_date": "2021-05-10",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules26092791",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols",
+      "preclinical models",
+      "the ameliorative effects",
+      "the last decade",
+      "the untoward effects",
+      "various polyphenols"
+    ],
+    "SYMPTOM": [
+      "enhanced oxidative stress"
+    ]
+  }
+}

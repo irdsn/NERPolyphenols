@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Plant-based flavonoids and their nanoparticles: Latest arsenal against Alzheimer's disease.",
+  "abstract": "Alzheimer's disease (AD) is the most prevalent and emerging neurodegenerative disease and serves as the seventh biggest cause of mortality across the globe. The pathogenesis of AD is linked with multiple hallmarks. The applications of anti-AD therapeutics approved by the FDA have been restricted because of the least permeability, bioavailability, negative effects, and huge cost. Various flavonoids have attenuated the potential pathogenic biomarkers of Alzheimer's disease (AD) and reduced disease progression. However, the presence of the blood-brain barrier (BBB), limited permeability, bioavailability, and low stability are chief concerns associated with their delivery against AD. Therefore, they have been loaded into various nanoformulations, including PLGA nanoparticles, gold nanoparticles, NLCs, exosomes, cell membrane-coated nanocarriers, and microneedles, to improve brain targeting and enhance therapeutic effects at the site of action.\u00a0This review focuses on the flavonoid as a potential natural therapeutics against AD. Diverse flavonoids explored to manage AD are discussed with their multiple anti-AD mechanisms. AD pathophysiology, current treatment strategies and its challenges, and the significance of using flavonoids against AD are explained. Moreover, role of NSCs in AD and potential of flavonoids in targeting NSCs is briefed. Challenges in the delivery of flavonoids against AD and diverse ground-breaking nanotechnological strategies employed to deliver these flavonoid-based therapeutics are discussed with manifold case studies. Also, the mechanisms of transport of NCs are explained. Further, flavonoids in clinical trials are briefed with conclusions and future concerns. In conclusion, flavonoid-based therapeutics and their delivery using breakthrough nanotechnological approaches hold promise for successfully managing AD.",
+  "publication_date": "2025-06-30",
+  "journal": "Drug delivery and translational research",
+  "doi": "10.1007/s13346-025-01906-9",
+  "entities": {
+    "SYMPTOM": [
+      "alzheimer's disease",
+      "successfully managing ad"
+    ],
+    "POLYPHENOL": [
+      "ad and diverse ground-breaking nanotechnological strategies",
+      "breakthrough nanotechnological approaches",
+      "diverse flavonoids",
+      "flavonoid-based therapeutics",
+      "flavonoids",
+      "negative effects",
+      "the flavonoid",
+      "the mechanisms",
+      "their multiple anti-ad mechanisms",
+      "therapeutic effects",
+      "these flavonoid-based therapeutics",
+      "various flavonoids"
+    ]
+  }
+}

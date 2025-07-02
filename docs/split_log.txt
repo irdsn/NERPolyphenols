@@ -1,0 +1,224 @@
+Total documents: 5983
+Saved to:
+  Train: /Users/inigo/Repositorios/NERPolyphenols/datasets/temp/train (3871 files)
+  Val:   /Users/inigo/Repositorios/NERPolyphenols/datasets/temp/val (1191 files)
+  Test:  /Users/inigo/Repositorios/NERPolyphenols/datasets/temp/test (921 files)
+  >>> Total after split: 5983
+
+Details by query:
+
+Query: anthocyanins
+  Total: 200
+  Train: 130
+  Val:   40
+  Test:  30
+
+Query: bioactive phytochemicals
+  Total: 115
+  Train: 74
+  Val:   23
+  Test:  18
+
+Query: catechins
+  Total: 189
+  Train: 122
+  Val:   38
+  Test:  29
+
+Query: chlorogenic acid
+  Total: 170
+  Train: 110
+  Val:   34
+  Test:  26
+
+Query: cocoa flavonoids
+  Total: 233
+  Train: 151
+  Val:   46
+  Test:  36
+
+Query: dietary polyphenols
+  Total: 138
+  Train: 89
+  Val:   28
+  Test:  21
+
+Query: epicatechin
+  Total: 36
+  Train: 23
+  Val:   7
+  Test:  6
+
+Query: flavonoids
+  Total: 211
+  Train: 137
+  Val:   42
+  Test:  32
+
+Query: flavonoids cancer
+  Total: 129
+  Train: 83
+  Val:   26
+  Test:  20
+
+Query: flavonoids cardiovascular
+  Total: 188
+  Train: 122
+  Val:   37
+  Test:  29
+
+Query: flavonols
+  Total: 227
+  Train: 147
+  Val:   45
+  Test:  35
+
+Query: fruit polyphenols
+  Total: 131
+  Train: 85
+  Val:   26
+  Test:  20
+
+Query: functional foods polyphenols
+  Total: 46
+  Train: 29
+  Val:   9
+  Test:  8
+
+Query: gallic acid
+  Total: 155
+  Train: 100
+  Val:   31
+  Test:  24
+
+Query: grape skin
+  Total: 222
+  Train: 144
+  Val:   44
+  Test:  34
+
+Query: lignans
+  Total: 233
+  Train: 151
+  Val:   46
+  Test:  36
+
+Query: natural antioxidants
+  Total: 168
+  Train: 109
+  Val:   33
+  Test:  26
+
+Query: olive polyphenols
+  Total: 218
+  Train: 141
+  Val:   44
+  Test:  33
+
+Query: phenolic acids
+  Total: 193
+  Train: 125
+  Val:   38
+  Test:  30
+
+Query: phenolic compounds
+  Total: 97
+  Train: 63
+  Val:   19
+  Test:  15
+
+Query: phenolic compounds metabolic syndrome
+  Total: 235
+  Train: 152
+  Val:   47
+  Test:  36
+
+Query: plant polyphenols
+  Total: 106
+  Train: 68
+  Val:   21
+  Test:  17
+
+Query: polyphenols
+  Total: 250
+  Train: 162
+  Val:   50
+  Test:  38
+
+Query: polyphenols antioxidant
+  Total: 18
+  Train: 11
+  Val:   4
+  Test:  3
+
+Query: polyphenols gut microbiota
+  Total: 130
+  Train: 84
+  Val:   26
+  Test:  20
+
+Query: polyphenols inflammation
+  Total: 64
+  Train: 41
+  Val:   13
+  Test:  10
+
+Query: proanthocyanidins
+  Total: 208
+  Train: 135
+  Val:   41
+  Test:  32
+
+Query: quercetin
+  Total: 143
+  Train: 92
+  Val:   29
+  Test:  22
+
+Query: resveratrol
+  Total: 145
+  Train: 94
+  Val:   29
+  Test:  22
+
+Query: resveratrol aging
+  Total: 211
+  Train: 137
+  Val:   42
+  Test:  32
+
+Query: secondary metabolites
+  Total: 176
+  Train: 114
+  Val:   35
+  Test:  27
+
+Query: stilbenes
+  Total: 225
+  Train: 146
+  Val:   45
+  Test:  34
+
+Query: tannins
+  Total: 213
+  Train: 138
+  Val:   42
+  Test:  33
+
+Query: tea polyphenols
+  Total: 172
+  Train: 111
+  Val:   34
+  Test:  27
+
+Query: vegetable phenolics
+  Total: 176
+  Train: 114
+  Val:   35
+  Test:  27
+
+Query: wine polyphenols
+  Total: 212
+  Train: 137
+  Val:   42
+  Test:  33

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Bioprospecting of novel silica solubilizing bacteria as bioinoculants for sustainable silica management.",
+  "abstract": "Silicon (Si) is important quasi-essential element, important for growth and productivity in plants by abetting abiotic and biotic stresses. In the recent times intensive cultivation in India has led to depletion of available Si in soils leads stagnation in the crop productivity. In this study, out of 88 rhizobacterial isolates, 24 potential isolates having significant silica solubilizing capability and exhibited plant growth-promoting characteristics were characterized at biochemical and molecular level and further to study their effect on plant growth stimulation and augment the absorption and accumulation of active silica in plants. In qualitative method, all 24 SiS-RB isolates were able to form clear zone of silica solubilization with the solubilizing index (SSI) in the range of 1.05-3.40 cm, whereas in quantitative silica solubilization the solubilized silica was observed in a range of 1.29-43.29 ppm. The 24 SiS-RB isolates further demonstrated plant growth promoting activities. Subsequently, these isolates were evaluated for their capacity to solubilize various minerals, including biotite, calc silicate, feldspar, muscovite, orthoclase, and quartzite, revealing that only six isolates had significant solubilization ability. The six potent isolatesviz.SSB-2, SSB-8, SSB-11, SSB-12, SSB-21, and SSB-24 showed a considerable enhancement in maize plant development underin vitroconditions, including improved antioxidant properties such as catalase (CAT), superoxide dismutase (SOD), peroxidase (POD), polyphenol oxidase (PPO), and phenylalanine ammonia lyase (PAL) activities. All 24 SiS-RB were subsequently analyzed for genetic diversity using amplified ribosomal DNA restriction analysis (ARDRA) analysis, and findings revealed that considerable higher genetic diversity exists among SiS-RB isolates. The integrated dendrogram exhibited similarity indices between 0.11 and 0.90, with a mean of 0.51. All potent silica-solubilizing plant growth-promoting rhizobacterial isolates were identified using 16S rDNA sequencing and belongs toEnterobactersp.,Serratia surfactantfaciens, andKlebsiellasp. These influential isolates would significantly enhance silicate management through Si based biofertilizer development for plant growth promotion under Si deficient soils.",
+  "publication_date": "2025-06-09",
+  "journal": "Frontiers in microbiology",
+  "doi": "10.3389/fmicb.2025.1556406",
+  "entities": {
+    "SYMPTOM": [
+      "abiotic and biotic stresses"
+    ],
+    "POLYPHENOL": [
+      "biochemical and molecular level",
+      "polyphenol oxidase",
+      "the recent times intensive cultivation",
+      "their effect"
+    ]
+  }
+}

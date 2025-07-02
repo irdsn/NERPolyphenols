@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Ultra-sensitive and real-time detection of quercetin in food samples using nanozyme 2D CuO nanosheet printed flexible electrode.",
+  "abstract": "The accurate detection of quercetin (QR), a bioactive flavonoid present in nutritional supplements, fruits, vegetables, and pharmaceutical products, requires cost-effective, rapid, and portable sensors. This study introduces a flexible 2D CuO nanozyme printed electrode for non-enzymatic, highly sensitive, and selective QR detection, addressing key method validation parameters as recommended by international guidelines. Compared to commercial, homemade printed 2D CuO nanozyme electrode significantly enhanced the electrocatalytic activity, enabling rapid QR detection (within 2\u00a0s) linearity (R2=\u00a00.99) was established over the range of 0.001-100\u00a0\u03bcM, with a limit of detection (LOD) of 1.6\u00a0nM and limit of quantification (LOQ) of 5.3\u00a0nM, sensor demonstrated exceptional selectivity, reproducibility and excellent long-term stability. A further comparison with a standard LC-MS method revealed congruent results for QR in spiked red wine, coffee, and onion samples with recoveries between 99.4 and 101.5\u00a0%. The newly introduced method thus meets international analytical standards, ensuring reliable quantification of QR in food and pharmaceutical matrices.",
+  "publication_date": "2025-06-15",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.145157",
+  "entities": {
+    "POLYPHENOL": [
+      "commercial, homemade printed 2d cuo nanozyme electrode",
+      "detection",
+      "exceptional selectivity",
+      "non-enzymatic, highly sensitive, and selective qr detection",
+      "quercetin",
+      "rapid qr detection",
+      "recoveries",
+      "the accurate detection",
+      "the electrocatalytic activity"
+    ],
+    "FOOD": [
+      "coffee",
+      "onion samples",
+      "spiked red wine"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Therapeutic Potential of Cranberry Proanthocyanidins in Addressing the Pathophysiology of Metabolic Syndrome: A Scrutiny of Select Mechanisms of Action.",
+  "abstract": "Metabolic syndrome (MetS) constitutes a spectrum of interconnected conditions comprising obesity, dyslipidemia, hypertension, and insulin resistance (IR). While a singular, all-encompassing treatment for MetS remains elusive, an integrative approach involving tailored lifestyle modifications and emerging functional food therapies holds promise in preventing its multifaceted manifestations. Our main objective was to scrutinize the efficacy of cranberry proanthocyanidins (PAC, 200 mg/kg/day for 12 weeks) in mitigating MetS pathophysiology in male mice subjected to standard Chow or high-fat/high-fructose (HFHF) diets while unravelling intricate mechanisms. The administration of PAC, in conjunction with an HFHF diet, significantly averted obesity, evidenced by reductions in body weight, adiposity across various fat depots, and adipocyte hypertrophy. Similarly, PAC prevented HFHF-induced hyperglycemia and hyperinsulinemia while also lessening IR. Furthermore, PAC proved effective in alleviating key risk factors associated with cardiovascular diseases by diminishing plasma saturated fatty acids, as well as levels of triglycerides, cholesterol, and non-HDL-C levels. The rise in adiponectin and drop in circulating levels of inflammatory markers showcased PAC's protective role against inflammation. To better clarify the mechanisms behind PAC actions, gut-liver axis parameters were examined, showing significant enhancements in gut microbiota composition, microbiota-derived metabolites, and marked reductions in intestinal and hepatic inflammation, liver steatosis, and key biomarkers associated with endoplasmic reticulum (ER) stress and lipid metabolism. This study enhances our understanding of the complex mechanisms underlying the development of MetS and provides valuable insights into how PAC may alleviate cardiometabolic dysfunction in HFHF mice.",
+  "publication_date": "2025-02-26",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14030268",
+  "entities": {
+    "SYMPTOM": [
+      "endoplasmic reticulum (er) stress",
+      "hfhf-induced hyperglycemia",
+      "hypertension",
+      "inflammation",
+      "insulin resistance",
+      "intestinal and hepatic inflammation",
+      "liver steatosis",
+      "metabolic syndrome",
+      "obesity",
+      "significantly averted obesity"
+    ],
+    "POLYPHENOL": [
+      "a spectrum",
+      "adiponectin",
+      "cranberry proanthocyanidins",
+      "interconnected conditions",
+      "intricate mechanisms",
+      "our main objective",
+      "pac's protective role",
+      "the complex mechanisms",
+      "the mechanisms"
+    ],
+    "FOOD": [
+      "emerging functional food therapies"
+    ]
+  }
+}

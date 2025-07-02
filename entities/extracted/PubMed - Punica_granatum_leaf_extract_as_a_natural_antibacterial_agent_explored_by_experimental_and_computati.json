@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Punica granatum leaf extract as a natural antibacterial agent explored by experimental and computational methods.",
+  "abstract": "The rise of multidrug-resistant (MDR) microorganisms, particularly Escherichia coli, poses a significant threat to global public health, necessitating the development of alternative treatments. This study investigates the antibacterial properties of methanolic Punica granatum (pomegranate) leaf extract (MPGL) against MDR E. coli and explores its potential as a source of natural inhibitors for the CTX-M-9 beta-lactamase enzyme, a key contributor to antibiotic resistance. The disc diffusion assay revealed that MPGL exhibited significant antibacterial activity, with the highest inhibition zone of 16.67\u2009\u00b1\u20090.29\u00a0mm at 100\u00a0\u00b5g/disc. Additionally, an in silico approach was employed to identify potential inhibitors from P. granatum phytochemicals. Molecular docking studies demonstrated strong binding affinities of Epicatechin, Kaempferol, and Apigenin to the CTX-M-9 beta-lactamase protein (PDB ID: 1YLY), with binding energies of -6.25, -5.23, and -\u20095.21\u00a0kcal/mol, respectively. These compounds also showed favorable pharmacokinetic and toxicity profiles in ADMET analysis, indicating their potential as safe and effective therapeutic agents. Molecular dynamics simulations further confirmed the stability of these compounds in complex with the target protein over a 100 ns trajectory, with Epicatechin showing the most stable interactions. The study highlights the promising antibacterial activity of P. granatum leaf extract and identifies Epicatechin, Kaempferol, and Apigenin as potential lead compounds for developing novel therapies against MDR E. coli. These findings underscore the potential of plant-based compounds in combating antibiotic resistance and provide a foundation for further research into phytopharmaceuticals as alternative treatments for bacterial infections.",
+  "publication_date": "2025-05-20",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-02065-0",
+  "entities": {
+    "FOOD": [
+      "methanolic punica granatum (pomegranate) leaf extract"
+    ],
+    "POLYPHENOL": [
+      "a 100 ns trajectory",
+      "apigenin",
+      "bacterial infections",
+      "epicatechin",
+      "kaempferol",
+      "molecular docking studies",
+      "molecular dynamics simulations",
+      "safe and effective therapeutic agents"
+    ]
+  }
+}

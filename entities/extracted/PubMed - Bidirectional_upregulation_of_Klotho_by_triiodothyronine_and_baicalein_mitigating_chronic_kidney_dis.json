@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Bidirectional upregulation of Klotho by triiodothyronine and baicalein: mitigating chronic kidney disease and associated complications in aged BALB/c mice.",
+  "abstract": "Chronic kidney disease (CKD) is a global health challenge marked by progressive renal decline and increased mortality. The interplay between CKD and hypothyroidism, particularly nonthyroidal low-triiodothyronine (T3) syndrome, exacerbates disease progression, driven by HPT axis dysfunction and reduced Klotho levels due to the Wnt/\u03b2-catenin pathway activation. This study explored Klotho as a link between CKD and hypothyroidism using an adenine-induced CKD aged mouse model. Exogenous T3 and baicalein (BAI), targeting the Wnt pathway, were used to upregulate Klotho expression. Combined T3 and BAI treatment significantly increased Klotho levels, surpassing individual effects, and suppressed key signaling molecules (TGF, NF\u03baB, GSK3), mitigating renal fibrosis and CKD complications, including cardiovascular disorders and dyslipidemia. This bidirectional approach, enhancing Klotho via T3 and sustained Wnt pathway inhibition, offers a novel and effective strategy for CKD management, particularly in elderly patients with hypothyroidism.",
+  "publication_date": "2025-05-26",
+  "journal": "Biogerontology",
+  "doi": "10.1007/s10522-025-10257-4",
+  "entities": {
+    "POLYPHENOL": [
+      "a novel and effective strategy",
+      "baicalein",
+      "individual effects",
+      "key signaling molecules",
+      "progressive renal decline",
+      "this bidirectional approach"
+    ]
+  }
+}

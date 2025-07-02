@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Honokiol ameliorates pyroptosis in intestinal ischemia\u2011reperfusion injury by regulating the SIRT3\u2011mediated NLRP3 inflammasome.",
+  "abstract": "Intestinal ischemia\u2011reperfusion (IIR) injury is caused by the restoration of blood supply after a period of ischemia. It occurs in numerous clinical pathologies, such as intestinal obstruction, incarcerated hernia and septic shock, with mortality rates of 50\u201180%. Honokiol (HKL), isolated from the herbMagnolia officinalis, is a biphenolic natural product with antioxidative, antibacterial, antitumor and anti\u2011inflammatory properties. Additionally, HKL has protective effects in ischemia\u2011reperfusion injuries, but its role and specific mechanisms in IIR injury are yet to be elucidated. In the present study, the superior mesenteric artery was ligated in rats to establish an IIR model. Hematoxylin and eosin staining and ELISA revealed that HKL administration ameliorated IIR\u2011induced injury in rats, which was demonstrated by a reduced destruction to the intestinal mucosa, as well as a reduced serum intestinal fatty acid\u2011binding protein concentration and Chiu's score in 10 mg/kg HKL treated IIR\u2011induced rats compared with those without HKL treatment. Additionally, immunohistochemical (IHC) staining and western blotting revealed that the occludin and tight junction protein 1 protein levels were increased in the 10 mg/kg HKL treated IIR\u2011induced rats compared with those without HKL treatment. Furthermore, an in vitro hypoxia/reoxygenation (H/R) cell model was established using IEC\u20116 cells. Cell Counting Kit\u20118 and lactate dehydrogenase (LDH) assays indicated that HKL mitigated the H/R\u2011inhibited cell viability and decreased the LDH levels in cell supernatants. Mechanistically, immunofluorescent (IF) staining and western blotting revealed that HKL inhibited H/R\u2011triggered pyroptosis. Furthermore, Mito\u2011Tracker, mitochondrial membrane potential and MitoSOX staining as well as western blotting revealed that reducing mitochondrial reactive oxygen species (ROS) inhibited the H/R\u2011induced pyroptosis by mitigating mitochondrial dysfunction. In the present H/R cell model, HKL improved the mitochondrial function by increasing the expression of sirtuin 3 (SIRT3), while IF staining and western blotting indicated that silencing SIRT3 notably reduced the beneficial effect of HKL on pyroptosis. In addition, IHC staining and western blotting revealed that HKL treatment mitigated the IIR\u2011induced pyroptosis in rats. Therefore, HKL treatment may mitigate IIR\u2011induced mitochondrial dysfunction and reduce mitochondrial ROS production by increasing the expression of SIRT3 protein, potentially resulting in an inhibition of pyroptosis during IIR.",
+  "publication_date": "2025-04-26",
+  "journal": "International journal of molecular medicine",
+  "doi": "10.3892/ijmm.2025.5537",
+  "entities": {
+    "POLYPHENOL": [
+      "iec\u20116 cells",
+      "mitochondrial reactive oxygen species",
+      "protective effects",
+      "specific mechanisms",
+      "the beneficial effect"
+    ],
+    "SYMPTOM": [
+      "iir\u2011induced mitochondrial dysfunction",
+      "mitochondrial dysfunction"
+    ]
+  }
+}

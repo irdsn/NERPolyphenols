@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "A systematic approach to analyzing catechins and catechin derivatives in Ceylon black tea using liquid chromatography coupled with triple quadrupole mass spectrometry.",
+  "abstract": "The structural complexity and limited standards for catechin derivatives in black tea present significant analytical challenges in tea research. This study aimed to develop a systematic approach to extract and analyze catechins and derivatives in Ceylon black tea from four Sri Lankan regions (Dimbula, Nuwara Eliya, Uva, Ruhuna) using optimized extraction conditions, LC-QQQ/MS, and antioxidant assays. A design of experiment (DoE) optimized solvent (0-100\u00a0% acetone-water), temperature (30-60\u00a0\u00b0C), and time (0-150\u00a0min), identifying 49.8\u00a0% acetone, 123.6\u00a0min with sonication, and 49.8\u00a0\u00b0C as optimal (desirability 0.743). Twelve catechin-related compounds were identified by LC-QQQ/MS, including theaflavins and tentatively annotated derivatives. TPC, TFC, DPPH, and ABTS assays showed Nuwara Eliya tea had the highest antioxidant capacity, linked to elevated polyphenols and flavonoids. This workflow offers a robust framework for studying catechin derivatives with limited standards, offering a practical solution for black tea research and quality assessment.",
+  "publication_date": "2025-06-04",
+  "journal": "Food chemistry: X",
+  "doi": "10.1016/j.fochx.2025.102621",
+  "entities": {
+    "POLYPHENOL": [
+      "catechin derivatives",
+      "catechins",
+      "elevated polyphenols",
+      "flavonoids",
+      "twelve catechin-related compounds"
+    ],
+    "FOOD": [
+      "black tea",
+      "black tea research and quality assessment",
+      "ceylon black tea"
+    ]
+  }
+}

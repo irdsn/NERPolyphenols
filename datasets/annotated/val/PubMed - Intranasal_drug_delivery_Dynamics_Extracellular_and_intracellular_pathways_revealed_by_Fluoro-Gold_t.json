@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Intranasal drug delivery Dynamics: Extracellular and intracellular pathways revealed by Fluoro-Gold tracer in a mouse model.",
+  "abstract": "To address the challenge of drug delivery to the brain, nasal administration was introduced as a non-invasive approach to bypass the blood-brain-barrier. Intranasal (IN)-delivery routes primarily rely on the olfactory nerve and trigeminal nerve. Recent evidence of glymphatic system suggests that the perivascular space (PVS) plays a role in facilitating the rapid distribution of drugs throughout the brain. While several studies have investigated IN-delivery to the brain and have shown the presence of tracers in PVS, none have visualized PVS or trigeminal nerve in different timing or utilized Fluoro-Gold (FG) as a tracer to demonstrate associated pathways. In this study, we utilized retrograde tracer FG to illustrate the intracellular and extracellular pathways to the brain by IN-delivery and transcranial olfactory bulb (OB) injection at different time points in a mouse model. We found FG reached the outermost layer of the cerebral cortex within 30 minutes and penetrated through PVS deep into the brain over time after IN administration, possibly through extracellular pathway; similarly, FG rapidly reached the trigeminal nerve and exhibited a gradual increase in fluorescence signal at the perineural space over time. Immunofluorescence staining confirmed FG and astrocyte co-localized at the cerebral cortex and along the PVS entering the brain parenchyma. The intracellular delivery after transcranial OB injection also revealed a slow velocity of FG projection. We concluded rapid IN delivery of FG relied on the extracellular pathway, penetrating deep into the brain through glymphatic system over time. FG proved to be an excellent tool for evaluating the IN-delivery animal model, providing insights into extracellular transport via olfactory and trigeminal nerves.",
+  "publication_date": "2025-04-14",
+  "journal": "Brain research",
+  "doi": "10.1016/j.brainres.2025.149644",
+  "entities": {
+    "POLYPHENOL": [
+      "fg projection",
+      "in-delivery and transcranial olfactory bulb (ob) injection",
+      "recent evidence",
+      "transcranial ob injection"
+    ]
+  }
+}

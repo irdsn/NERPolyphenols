@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Assessment of lycopene, polyphenols, antioxidant compounds, and activities in colored cherry tomato cultivars harvested in Korea.",
+  "abstract": "Recently, there has been increased interest in colored foods because their unique pigments in fruits and vegetables originate from phytochemicals with antioxidant, anticancer, and antibacterial properties. Consequently, various colored cherry tomatoes have been developed. This study analyzed the lycopene, ascorbic acid, polyphenol, and antioxidant content and activity of 12 cultivars of colored cherry tomatoes harvested in Korea. The red colored cherry tomato cultivars 'DOTORI RED TY', 'KT RED TY', and 'BLACK JOY200' showed significantly higher levels of lycopene, a major antioxidant compound in tomato. Total flavonoid analysis showed that 'DOTORI RED TY', 'TY Item', and 'TY Sispen' had significantly higher concentrations, and a similar trend was observed in total phenolics. The major polyphenols in cherry tomatoes were identified as chlorogenic acid, rutin, and (-)-epigallocatechin gallate, with 'TY Sispen' showing significantly higher contents of chlorogenic acid and rutin, while 'DOTORI RED TY' exhibited higher levels of (-)-epigallocatechin gallate.",
+  "publication_date": "2024-09-09",
+  "journal": "Food science and biotechnology",
+  "doi": "10.1007/s10068-024-01691-0",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer"
+    ],
+    "FOOD": [
+      "cherry tomatoes",
+      "colored cherry tomatoes",
+      "the red colored cherry tomato cultivars",
+      "tomato",
+      "various colored cherry tomatoes"
+    ],
+    "POLYPHENOL": [
+      "(-)-epigallocatechin gallate",
+      "-)-epigallocatechin gallate",
+      "chlorogenic acid",
+      "polyphenol",
+      "rutin",
+      "the major polyphenols",
+      "total flavonoid analysis"
+    ]
+  }
+}

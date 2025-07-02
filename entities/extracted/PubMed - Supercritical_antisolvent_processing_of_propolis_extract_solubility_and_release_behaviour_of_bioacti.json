@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Supercritical antisolvent processing of propolis extract: solubility and release behaviour of bioactive compounds in different food simulants.",
+  "abstract": "Propolis is rich in phenolic compounds, but its low stability during gastrointestinal digestion necessitates encapsulation. This study aimed to optimize the process parameters for supercritical antisolvent precipitation (SAS) through characterization methods and by evaluating the bioaccessibility and bioavailability of phenolics in microparticles via in vitro gastrointestinal digestion/Caco-2 cell culture model using lipophilic, hydrophilic, and acidic food simulants. The highest encapsulation efficiency (75\u00a0%) was achieved with Eudragit/propolis (10:1) at 40\u00a0\u00b0C and 150\u00a0bar. Before the digestion of microparticles, total phenolic content, total flavonoid content, and antioxidant activity (CUPRAC and DPPH) results were found to be 456.13\u00a0mg GAE/100\u00a0g, 8199.02\u00a0mg QE/100\u00a0g, 2408.94\u00a0mg TE/100\u00a0g and 1185.89\u00a0mg TE/100\u00a0g powders, respectively. In general, both the bioaccessibility and bioavailability were highest in lipophilic simulants, followed by hydrophilic and acidic ones. These findings highlight that encapsulated propolis is more effectively transported in the presence of lipophilic foods.",
+  "publication_date": "2025-05-13",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144742",
+  "entities": {
+    "POLYPHENOL": [
+      "gastrointestinal digestion necessitates encapsulation",
+      "phenolic compounds",
+      "supercritical antisolvent precipitation"
+    ]
+  }
+}

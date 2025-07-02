@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "epicatechin",
+  "title": "Evaluation of quality and authenticity of raspberry ketone supplements by a multianalytical approach.",
+  "abstract": "Food supplements, particularly for overweight control, are becoming increasingly popular due to rising obesity rates. Raspberry ketone (RK), naturally found in raspberries and other berries, is commonly consumed as food supplement for its potential weight loss benefits. However, fraudulent practices like mislabelling or adulteration are a concern for consumers and, therefore, comprehensive analytical approaches are demanded to ensure the quality of these products. This study presents, for the first time, a novel multi-analytical strategy combining GC-MS and LC-MS to detect potential composition frauds in raspberry ketone supplements (RKSs). Whereas the optimized LC-MS method allowed the precise (RSD < 3 %) and sensitive (LOD 150ng mL-1) determination of RK and other phenolic compounds, the developed GC-MS methodology provided the efficient separation of carbohydrates. Among supplements declaring RK content, 60 % showed discrepancies between the labelled and measured values, with most containing less concentrations than expected. Multicomponent characterization of reference raspberry extracts allowed the proposal of myo-inositol and phenolic compounds (e.g. ellagic acid and epicatechin) as markers of natural origin, as well as the detection of frauds involving the addition of synthetic RK. The multianalytical approach here developed is shown as an effective tool for the reliable assessment of the quality and authenticity of RKSs, as it contributes to the better identification of the type of fraud affecting RK supplements.",
+  "publication_date": "2025-06-08",
+  "journal": "Journal of chromatography. A",
+  "doi": "10.1016/j.chroma.2025.466131",
+  "entities": {
+    "SYMPTOM": [
+      "rising obesity rates"
+    ],
+    "FOOD": [
+      "raspberries",
+      "raspberry ketone",
+      "raspberry ketone supplements",
+      "reference raspberry extracts"
+    ],
+    "POLYPHENOL": [
+      "(e.g. ellagic acid",
+      "an effective tool",
+      "epicatechin",
+      "myo-inositol and phenolic compounds",
+      "other phenolic compounds",
+      "the detection"
+    ]
+  }
+}

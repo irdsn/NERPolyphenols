@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Neuroprotective efficacy of Talinum triangulare in Cadmium-induced neurotoxicity: involvement of antioxidant defense, anti-inflammatory, dopaminergic, and cholinergic systems.",
+  "abstract": "The incidence of neurotoxicity has been rising recently due to increase exposure to toxic compounds such as Cadmium (Cd). Aqueous leaf extract of Talinum triangulare (AETT) is used in traditional medicine in the treatment of various kinds of diseases. This study sought to examine neuroprotective potential of AETT on cadmium-induced neurotoxicity in rats. Neurotoxicity was induced in rats via oral administration of 5\u00a0mg/kg body weight CdCl2and treated with either 200\u00a0mg/kg of AETT or vitamin E for 14 consecutive days. Results revealed that Cd induced behavioural incompetence with marked decrease in motor skills, muscle strength, exploratory activities, and anxiogenic-like phenotype which are vital psychomotor coordination tools. Cd intoxication caused a marked increase in neuronal expression of inflammatory biomarkers (TNF-\u03b1, MPO and NO), hydrogen peroxide generation, and lipid peroxidation; with associated decrease in both enzymatic antioxidants (GST, SOD, CAT) and non-enzymatic antioxidants (reduced glutathione). Similarly, decreased in dopamine with concomitant increased in the activity of acetylcholinesterase were observed in Cd-induced rats. Nevertheless, AETT or vitamin E markedly restored behavioural competence, mitigated neuroinflammation, lipid peroxidation and oxidative stress. AETT modulated cholinergic and dopaminergic pathways which improved bioavailability of acetylcholine and dopamine in the brain. Furthermore, AETT displayed better protective effects than vitamin E, this could be because of antioxidant phytochemicals in AETT as showed in the GCMS result. Overall, this study suggested AETT as a potential therapeutic agent in the treatment of neurotoxicity mediated by toxic metals.",
+  "publication_date": "2025-06-30",
+  "journal": "Metabolic brain disease",
+  "doi": "10.1007/s11011-025-01655-1",
+  "entities": {
+    "POLYPHENOL": [
+      "14 consecutive days",
+      "associated decrease",
+      "better protective effects",
+      "marked decrease",
+      "neuroprotective potential"
+    ],
+    "SYMPTOM": [
+      "mitigated neuroinflammation",
+      "oxidative stress"
+    ]
+  }
+}

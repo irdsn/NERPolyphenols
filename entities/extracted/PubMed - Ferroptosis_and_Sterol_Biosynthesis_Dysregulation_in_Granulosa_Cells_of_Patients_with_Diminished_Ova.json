@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Ferroptosis and Sterol Biosynthesis Dysregulation in Granulosa Cells of Patients with Diminished Ovarian Reserve.",
+  "abstract": "Granulosa cell (GC) dysfunction contributes to diminished ovarian reserve (DOR). We collected GC and follicular fluid samples from the patients of normal ovarian reserve (NOR) and DOR. RNA-seq of GCs showed that cholesterol/sterol metabolism and biosynthesis and extracellular matrix organization were enriched in the DOR group. Metabolomics of follicular fluid revealed enrichment in steroid hormone biosynthesis, tryptophan metabolism, and fatty acid \u03b2-oxidation in DOR. The apoptosis rate was increased, whereas the proliferative rate was decreased in GCs of DOR. The Prussian blue staining rate was increased whilst GPX4 and SLC7A11 expression were downregulated in GCs of DOR. Mitochondrial morphology displayed the features of ferroptosis in GCs of DOR. FSHR, CYP19A1, NR5A1, and phosphorylated CREB levels were substantially downregulated in GCs, accompanied by increased androgen levels in follicular fluids in DOR. The key factors linked to the mevalonate pathway, HMGCR, SQLE, and SREBF2, were robustly increased in DOR. FSHR and NR5A1 levels were correlated with CYP19A1 levels, whilst CYP19A1 levels were positively correlated with GPX4 and SLC7A11 levels. Our findings indicate ferroptosis and dysregulation of cholesterol/sterol metabolism and biosynthesis occurrence in GCs of DOR, which might be associated with reduced FSHR signaling and decreased conversion of androgen to estrogen.",
+  "publication_date": "2025-06-17",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060749",
+  "entities": {
+    "SYMPTOM": [
+      "the apoptosis rate"
+    ],
+    "POLYPHENOL": [
+      "reduced fshr signaling and decreased conversion"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Proanthocyanidins delaying the premature ovarian insufficiency through regulatory sirt1-p53-p21 signaling pathway in female germline stem cells.",
+  "abstract": "As women age, their ovarian follicle pool naturally declines. However, female germline stem cells (FGSCs) possess a unique ability to differentiate into oocytes and continuously self-renew, providing an effective means of delaying ovarian aging by replenishing the primordial follicle pool. Therefore, activating FGSCs is critical in reshaping and safeguarding ovarian function.",
+  "publication_date": "2025-05-10",
+  "journal": "Journal of ovarian research",
+  "doi": "10.1186/s13048-025-01661-y",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective means"
+    ],
+    "SYMPTOM": [
+      "ovarian aging"
+    ]
+  }
+}

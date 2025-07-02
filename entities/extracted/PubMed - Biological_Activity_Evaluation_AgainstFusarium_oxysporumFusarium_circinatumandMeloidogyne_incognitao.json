@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Biological Activity Evaluation AgainstFusarium oxysporum,Fusarium circinatum,andMeloidogyne incognitaof Bioactives-Enriched Extracts ofRuta graveolensL.",
+  "abstract": "Ruta graveolensL. has been described as possessing antifungal and nematicidal activity. Among the bioactive compounds present in this plant, alkaloids and furanocoumarins have attracted considerable attention. The aim of this study was to evaluate the in vitro biological activity of extracts from rue enriched in bioactive compounds againstFusarium oxysporum,F. circinatum,andMeloidogyne incognita, and to correlate the chemical profile of the extracts with their biological activities. Six extracts with contrasting chemical profiles, obtained by pressurized liquid extraction and supercritical fluid extraction using green solvents, were selected for biological evaluation. The highestF. oxysporumgrowth inhibition was achieved with the extracts enriched in fatty acids and furanocoumarins at concentrations of 4, 8, and 16 mg/mL, while forF. circinatum, the highest growth inhibition was obtained using the extract enriched in terpenes at 16 mg/mL; moreover, the six extracts evaluated caused mortality inM. incognita. Therefore, enriched extracts ofR. graveolensmight be considered as an alternative for pathogen control on economically important crops such as potatoes, tomatoes, and onions, among others. Correlations between biological activities and chemical compositions suggest the importance of fatty acids againstF. oxysporum, fatty acids and terpenes againstF. circinatum,and alkaloids, coumarins, and furanocoumarins forM. incognita.",
+  "publication_date": "2025-05-21",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30102240",
+  "entities": {
+    "POLYPHENOL": [
+      "economically important crops"
+    ],
+    "FOOD": [
+      "onions",
+      "tomatoes"
+    ]
+  }
+}

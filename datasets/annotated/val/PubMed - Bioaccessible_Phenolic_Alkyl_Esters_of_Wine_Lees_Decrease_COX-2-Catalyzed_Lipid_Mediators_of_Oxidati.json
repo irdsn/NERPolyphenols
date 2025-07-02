@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Bioaccessible Phenolic Alkyl Esters of Wine Lees Decrease COX-2-Catalyzed Lipid Mediators of Oxidative Stress and Inflammation in a Time-Dependent Manner.",
+  "abstract": "Lipophenols, phenolic compounds esterified with fatty alcohols or fatty acids, provide greater health benefits upon dietary ingestion of plant-based foods than unesterified (poly)phenols. Based on this premise, the present study aimed to demonstrate the role of gastrointestinal enzymes (pepsin, pancreatin, and pancreatic lipase) in releasing alkyl gallates andtrans-caffeates from wine lees, providing bioactive compounds with enhanced capacities against oxidative stress (OS) and para-inflammation. The UHPLC-ESI-QqQ-MS/MS-based analysis revealed ethyl gallate and ethyltrans-caffeate as the most prominent compounds (1.675 and 0.872 \u03bcg/g dw, respectively), while the bioaccessibility of the derivatives of gallic and caffeic acids was dependent on the alkyl chain properties. Thede novoformation of alkyl gallates during gastric and intestinal digestion resulted from intestinal enzyme activity. Moreover, thein vitrocapacity of bioaccessible alkyl esters of gallic andtrans-caffeic acids to reduce cyclooxygenase-2 concentration and modulate oxilipins related to OS (8-iso-PGF2\u03b1) and inflammation (PGF2\u03b1and PGE2) was demonstrated in a time-dependent manner. In conclusion, the presence of alkyl esters of gallic andtrans-caffeic acids in wine lees and their subsequent formation during digestion of this byproduct emphasize their value as a source of antioxidant and anti-inflammatory compounds, encouraging the consideration of wine lees as a valuable ingredient for health-promoting coproducts.",
+  "publication_date": "2024-08-15",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.4c05086",
+  "entities": {
+    "POLYPHENOL": [
+      "gallic andtrans-caffeic acids",
+      "phenolic compounds"
+    ],
+    "FOOD": [
+      "plant-based foods",
+      "wine lees"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "oxidative stress",
+      "para-inflammation"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Recent advances in chemistry, biochemistry, and nutrition of dates palm fruit (Phoenix dactylifera L.) cultivars.",
+  "abstract": "Date palm trees, fruits and leaves have historic life changes with human beings, and their utilizations started by using them as foods and remedy, especially against the resulting bruises of consecutive wars involving wounds, burnes and invasive diseases such as Malaria, Cholera and recently against the emergence of Covid-19 disease symptoms. The richness of palm date- fruits with reducing sugars, polyphenolic acids, flavonoid compounds, hydrosoluble and liposoluble vitamins makes them as versatile food and feed products. In part, minerals remain as the catalyst elements for these golden fruits. In other part, the distribution of essential oils at the mesocarps of date fruits and into date pits constitutes other integral part with substantial therapeutic and nutrigenomic contributions. Polyphenol oxidase (PPO) is a bound enzyme involved in the ripening of the date fruits. The aim of this book chapter is devoted in exploring the recent advances in date palm fruit cultivars as natural bioresources and the key elements beyond to their chemistry, biochemistry, and nutrition aspects, shedding lights on their important metabolites in enhancing food nutritional values, and human health attributes.",
+  "publication_date": "2024-12-05",
+  "journal": "Advances in food and nutrition research",
+  "doi": "10.1016/bs.afnr.2024.11.001",
+  "entities": {
+    "POLYPHENOL": [
+      "consecutive wars",
+      "flavonoid compounds",
+      "nutrition aspects",
+      "polyphenol oxidase",
+      "polyphenolic acids",
+      "the recent advances"
+    ]
+  }
+}

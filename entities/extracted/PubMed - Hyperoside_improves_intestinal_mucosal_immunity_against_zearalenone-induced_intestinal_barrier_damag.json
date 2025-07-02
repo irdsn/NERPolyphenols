@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Hyperoside improves intestinal mucosal immunity against zearalenone-induced intestinal barrier damage by regulating intestinal flora.",
+  "abstract": "Zearalenone (ZEA) is a mycotoxin that is immunotoxic and causes intestinal damage. Hyperoside (HYP) is a natural flavonol side with a wide range of sources and has a variety of pharmacological effects. The aim of this study is to investigate the effect and mechanism of HYP on \u0396\u0395\u0391-induced intestinal immunosuppression and intestinal injury in piglets. Histological and ultrastructural changes in the ileum of piglets were observed by H&E staining and transmission electron microscopy. The changes of intestinal microorganisms in the ileum of piglets were detected by 16S rRNA technology. Intestinal chemical barriers (MUC-1 and MUC-2), and physical barriers (\u03b2-Catenin, TJ-3, TJ-2, MYLK, Claudin2, and Claudin3) were measured by qRT-PCR. The intestinal immune barrier (sIg A) was detected by Elisa. Immune-related cytokines (TLR-4, IL-1\u03b2, IFN-\u03b3, IL-18, IL-6, IL-17, IL-8, IL-25, and TNF-\u03b1) were detected by qRT-PCR. The content of ZEA in serum and ileum tissue was detected by Elisa. WB and qRT-PCR were used to detect ferroptosis related indicators (SLC7A11, Gpx4, FTH1, PTGS2, and ACSL4). Our results showed that HYP attenuated ZEA-induced tissue and ultrastructure damage and restored the richness and diversity of intestinal flora in the ileum of piglets. In addition, HYP also alleviated the accumulation of ZEA in the intestine and serum by restoring the chemical, physical and immunological barriers of the ileum. Moreover, HYP was found to attenuate ZEA-induced intestinal ferroptosis. Taken together, our study suggests that HYP can be used as an effective strategy to mitigate ZEA exposure-induced intestinal barrier damage and immune suppression in piglets.",
+  "publication_date": "2025-05-20",
+  "journal": "Veterinary immunology and immunopathology",
+  "doi": "10.1016/j.vetimm.2025.110949",
+  "entities": {
+    "POLYPHENOL": [
+      "16s rrna technology",
+      "an effective strategy",
+      "h&e staining and transmission electron microscopy",
+      "mechanism",
+      "pharmacological effects",
+      "the effect"
+    ]
+  }
+}

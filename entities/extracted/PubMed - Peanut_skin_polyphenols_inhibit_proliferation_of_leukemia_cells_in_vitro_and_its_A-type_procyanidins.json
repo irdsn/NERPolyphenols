@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Peanut skin polyphenols inhibit proliferation of leukemia cells in vitro, and its A-type procyanidins selectively pass through a Caco-2 intestinal barrier.",
+  "abstract": "Increased consumption of nuts is associated with reduced risk of some forms of cancer, including leukemia. Peanut skins are not typically retained during food processing but are a potential source of anticarcinogenic polyphenols. There are limited data about the antileukemic activity and bioavailability of peanut skin polyphenols. This study determined the polyphenol profile of raw peanut skin extract (PSE), its antiproliferative activity toward Jurkat cells, and intestinal bioavailability and metabolism using a Caco-2 intestinal monolayer model. High-resolution mass spectrometry (UHPLC-Q-Orbitrap) was used to analyze PSE and extracts of PSE-treated Jurkat cells to determine PSE polyphenols associated with antiproliferative activity. PSE reduced Jurkat cell viability, indicating its antiproliferative activity. PSE contained at least 63 polyphenols, including phenolic acids, proanthocyanidins, and prenylated flavonoids, among others. Multiple PSE polyphenols, particularly proanthocyanidins with A-type bonds, interacted with Jurkat cells. In Caco-2 cells, PSE intestinal bioavailability was limited to (+)-catechin, quercetin, procyanidin A2, and tentatively procyanidin A1. Caco-2 cells metabolized PSE polyphenols, including the methylation of A-type procyanidin dimer. Thus, these cell-based studies demonstrate that raw peanut skins contain intestinal bioavailable polyphenols with potential antileukemic properties. PSE polyphenols, including A-type proanthocyanidins, were metabolized by intestinal cells. Thus, the antileukemic activity of PSE polyphenols is modulated by the bioavailability and metabolism of A-type proanthocyanidins. PRACTICAL APPLICATION: Raw peanut skins are rich in polyphenols, including A-type proanthocyanidins. Extracts of peanut skins inhibit the growth of cultured leukemia cells, and peanut A-type proanthocyanidins are associated with this effect. Peanut skins are not typically retained in food processing, so further research and development are needed to recover or retain these compounds and document their health-promoting activities in human research studies.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70018",
+  "entities": {
+    "SYMPTOM": [
+      "cancer",
+      "cultured leukemia cells",
+      "leukemia"
+    ],
+    "POLYPHENOL": [
+      "+)-catechin",
+      "a-type proanthocyanidins",
+      "a-type procyanidin dimer",
+      "anticarcinogenic polyphenols",
+      "at least 63 polyphenols",
+      "high-resolution mass spectrometry",
+      "intestinal bioavailable polyphenols",
+      "multiple pse polyphenols",
+      "peanut skin polyphenols",
+      "polyphenols",
+      "prenylated flavonoids",
+      "proanthocyanidins",
+      "procyanidin a2",
+      "pse polyphenols",
+      "the polyphenol profile",
+      "this effect"
+    ]
+  }
+}

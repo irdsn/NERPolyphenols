@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Stability of anthocyanins from fruits associated with microencapsulation: A 21st-century bibliometric approach.",
+  "abstract": "A 21st-century bibliometric analysis was carried out to reflect on the effects of microencapsulation technology on the anthocyanin stability. From 172 articles retrieved, there was an increase in the number of articles published from 2012 to 2021 and in the number of patents during the 22\u00a0years. Brazil (n\u00a0=\u00a052, 30\u00a0%) and Mexico (n\u00a0=\u00a016, 10\u00a0%) were the countries with the highest number of publications, followed by United States, China, Colombia, Romania, Poland, Italy, and Iran. Thirteen clusters were established, with 2-7 authors related to each other. Nineteen recent articles were for analysis of the anthocyanin sources, microencapsulation process (technique and wall material), pH values and water activity (aw), and effects or applications in model systems. Among the trends, tests on the use of autochthonous wall material stand out, that is, one that has a composition in biopolymers originating from the original source of anthocyanin extraction (core material), such as pectin, starches, proteins, and lipids.",
+  "publication_date": "2025-05-16",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116621",
+  "entities": {
+    "POLYPHENOL": [
+      "effects",
+      "microencapsulation technology",
+      "nineteen recent articles",
+      "pectin",
+      "technique",
+      "the effects"
+    ]
+  }
+}

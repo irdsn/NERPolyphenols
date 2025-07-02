@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds",
+  "title": "Humic Acid and Cellulose Nanocrystal-Based Antifreeze Nanocomposite Hydrogel Flexible Sensor.",
+  "abstract": "Humic acid (HA), a natural organic compound rich in carboxyl, phenolic hydroxyl, and quinone groups, was incorporated into hydrogels to enhance mechanical strength, antifreeze performance, UV resistance, and adhesion. Cellulose nanocrystals (CNCs), extracted using phytic acid (PA), were co-introduced with HA into a polyvinyl alcohol (PVA)/\u03b2-glycerophosphate (\u03b2-GP) network. The abundant functional groups in HA provided additional cross-linking sites, forming a robust three-dimensional structure. After freeze-thaw treatment, the hydrogel exhibited a tensile strength of 4.4 MPa and UV transmittance as low as 0.0027% in the 200-400 nm range. Furthermore, \u03b2-GP modulated hydrogen bonding among water molecules, significantly improving antifreeze capability and enabling stable, sensitive detection of human motion and signal transmission at -20 \u00b0C. These results demonstrate the potential of HA-functionalized hydrogels as flexible sensors for operation in complex and low-temperature environments, broadening their applicability in wearable and bioelectronic systems.",
+  "publication_date": "2025-06-26",
+  "journal": "Biomacromolecules",
+  "doi": "10.1021/acs.biomac.5c00624",
+  "entities": {
+    "POLYPHENOL": [
+      "mechanical strength",
+      "stable, sensitive detection",
+      "water molecules",
+      "wearable and bioelectronic systems"
+    ]
+  }
+}

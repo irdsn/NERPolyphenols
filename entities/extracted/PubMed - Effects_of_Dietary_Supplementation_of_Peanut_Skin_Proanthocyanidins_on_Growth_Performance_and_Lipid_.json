@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Effects of Dietary Supplementation of Peanut Skin Proanthocyanidins on Growth Performance and Lipid Metabolism of the Juvenile American Eel (Anguilla rostrata).",
+  "abstract": "As a functional feed additive, grape seed proanthocyanidin extract has received a lot of attention due to its biological activity in the health of aquatic animals, but its high cost limits the application of this feed additive in the diet of many fish species. It is thus urgent to develop a new resource of proanthocyanidin extract. We aimed to investigate the effects of dietary supplementation with peanut skin proanthocyanidins (PSPc) on growth parameters and lipid metabolism of juvenile American eel (Anguilla rostrata). Four hundred and fifty juvenile eels were randomly divided into five groups fed diets with five PSPc supplementation levels. The trial lasted for 8 weeks. Dietary PSPc supplementation significantly improved weight gain and feed utilization, and the best growth performance was found in the group fed with 900 mg/kg PSPc. PSPc supplementation significantly affected the crude protein level of whole fish and serum lipid parameters, and the best lipid-lowering effect was found in the fish fed with 900 mg/kg PSPc. Dietary PSPc supplementation increased lipolytic enzyme activities and decrease lipid synthase levels in the liver. The lipid metabolites affected by 900 mg/kg PSPc in the liver were mainly upregulated phosphatidylethanolamine in autophagy, downregulated ceramides in sphingolipid metabolism, upregulated phosphatidylcholine and phosphatidylethanolamine, downregulated 2-lysophosphatidylcholine in glycerophospholipid metabolism, and upregulated phosphatidylcholine in linoleic acid metabolism. In conclusion, an appropriate level of PSPc might effectively improve growth performance and regulate the lipid metabolism of the juvenile American eel, and 900 mg/kg PSPc is recommended in the diet of this fish species.",
+  "publication_date": "2022-09-12",
+  "journal": "Animals : an open access journal from MDPI",
+  "doi": "10.3390/ani12182375",
+  "entities": {
+    "FOOD": [
+      "a functional feed additive, grape seed"
+    ],
+    "POLYPHENOL": [
+      "many fish species",
+      "peanut skin proanthocyanidins",
+      "proanthocyanidin extract",
+      "the best lipid-lowering effect",
+      "the effects",
+      "this fish species"
+    ]
+  }
+}

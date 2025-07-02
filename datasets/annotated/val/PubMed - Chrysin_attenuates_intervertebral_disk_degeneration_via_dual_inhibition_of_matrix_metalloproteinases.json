@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Chrysin attenuates intervertebral disk degeneration via dual inhibition of matrix metalloproteinases and senescence: integrated network pharmacology, molecular docking, and experimental validation.",
+  "abstract": "Intervertebral disk degeneration (DDD) caused by nucleus pulposus cell (NPCs) senescence, oxidative stress, and extracellular matrix (ECM) degradation is one of the leading causes of chronic low back pain, yet effective treatments remain elusive. This study investigated the potential of chrysin, a natural flavonoid with antioxidant and anti-inflammatory properties, to alleviate NPCs aging and ECM dysregulation. Through network pharmacology, researchers identified 89 overlapping targets between chrysin and DDD, including MMP2, MMP9, and TGFB1. Enrichment analyses revealed key pathways in cancer, such as JAK-STAT signaling, efflux cells, and central carbon metabolism. Molecular docking showed that chrysin has a strong binding affinity for MMP2 (-8.4 kcal/mol) and MMP9 (-8.2 kcal/mol), key enzymes for ECM degradation. Molecular dynamics simulations demonstrated that the Chrysin-MMP-9 and Chrysin-MMP-2 complexes exhibited favorable dynamic properties. Experimental validation in H2O2-induced senescent NPCs confirmed the protective effects of chrysin: pretreatment with chrysin (1 \u03bcM) significantly reduced senescence-associated \u03b2-galactosidase activity and inhibited MMP2/9 mRNA expression while restoring collagen II and aggrecan levels. In addition, Chrysin attenuated oxidative stress-mediated ECM damage, which was consistent with network predictions. These findings highlight the dual ability of Chrysin to inhibit MMP activity and combat aging, making it a promising multi-targeted therapeutic candidate for the treatment of DDD. This study combines bioinformatics with experimental modeling to mechanistically reveal the anti-aging mechanism of Chrysin.",
+  "publication_date": "2025-05-12",
+  "journal": "Frontiers in medicine",
+  "doi": "10.3389/fmed.2025.1593317",
+  "entities": {
+    "SYMPTOM": [
+      "cancer",
+      "chronic low back pain",
+      "combat aging",
+      "npcs aging",
+      "oxidative stress"
+    ],
+    "POLYPHENOL": [
+      "a natural flavonoid",
+      "chrysin",
+      "collagen ii and aggrecan levels",
+      "ecm",
+      "ecm degradation",
+      "ecm dysregulation",
+      "effective treatments",
+      "molecular docking",
+      "molecular dynamics simulations",
+      "oxidative stress-mediated ecm damage",
+      "the anti-aging mechanism",
+      "the chrysin-mmp-9 and chrysin-mmp-2 complexes",
+      "the protective effects"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Improving plant adaptation to soil antimony contamination: the synergistic contribution of arbuscular mycorrhizal fungus and olive mill waste.",
+  "abstract": "This study aimed to investigate the alterations in biochemical and physiological responses of oat plants exposed to antimony (Sb) contamination in soil. Specifically, we evaluated the effectiveness of an arbuscular mycorrhizal fungus (AMF) and olive mill waste (OMW) in mitigating the effects of Sb contamination. The soil was treated with a commercial strain of AMF (Rhizophagus irregularis) and OMW (4% w/w) under two different levels of Sb (0 and 1500\u00a0mg\u00a0kg-1soil).",
+  "publication_date": "2024-05-04",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-024-05044-1",
+  "entities": {
+    "POLYPHENOL": [
+      "the effectiveness",
+      "the effects"
+    ]
+  }
+}

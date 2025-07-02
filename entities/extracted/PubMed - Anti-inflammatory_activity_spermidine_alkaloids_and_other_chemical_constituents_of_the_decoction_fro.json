@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Anti-inflammatory activity, spermidine alkaloids, and other chemical constituents of the decoction from Tarenaya aculeata stems.",
+  "abstract": "Tarenaya aculeata is traditionally used in Brazil to treat inflammation and pain-related conditions.",
+  "publication_date": "2025-06-04",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.120097",
+  "entities": {
+    "SYMPTOM": [
+      "inflammation",
+      "pain-related conditions"
+    ]
+  }
+}

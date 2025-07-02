@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Green Extraction of Wheat Phenolic Acids Using Microwave-Assisted Extraction.",
+  "abstract": "Phenolic acids are important secondary metabolites in wheat, existing in free, conjugated, and bound forms. Traditional extraction methods use organic solvents like ethanol and acetone and are labor-intensive procedures. This study examined the extraction of phenolic acids from wheat using microwave-assisted extraction (MAE) with water as the green extractant. The extraction of phenolic acids was performed on whole grain flour and on wheat kernels. MAE conditions were solvent type (water vs. 80% (v/v) ethanol), temperature (140, 160, 170, and 180\u00b0C), and extraction time (2, 5, 10, and 15\u00a0min). MAE with 80% (v/v) ethanol effectively extracted phenolic acids directly from wheat kernels, although the amount (0.96\u00a0\u00b1\u00a00.03\u00a0mg/g DW) was much lower than that obtained from the flour (3.52\u00a0\u00b1\u00a00.24\u00a0mg/g DW). Water, however, proved to be the most efficient solvent for extracting phenolic compounds (5.41\u00a0\u00b1\u00a00.25\u00a0mg/g flour DW) compared with 80% (v/v) ethanol (3.52\u00a0\u00b1\u00a00.24\u00a0mg/g flour DW) at 170\u00b0C for 10\u00a0min. Kernel extracts extracted with water or 80% (v/v) ethanol at 170\u00b0C for 15\u00a0min yielded 2.21\u00a0\u00b1\u00a00.22\u00a0mg/g DW and 0.96\u00a0\u00b1\u00a00.03\u00a0mg/g DW, respectively. The analysis of the phenolic acids revealed that gallic acid was the most abundant acid, ranging from 1802.56 to 92.02\u00a0\u00b5g/g DW, depending on the extraction conditions. Overall, an efficient extraction of the phenolic acids, even from wheat kernels, was achieved using MAE with water as the green extractant.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70225",
+  "entities": {
+    "POLYPHENOL": [
+      "gallic acid",
+      "important secondary metabolites",
+      "phenolic compounds"
+    ],
+    "FOOD": [
+      "wheat",
+      "wheat kernels"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "The Key Nutrients in the Mediterranean Diet and Their Effects in Inflammatory Bowel Disease: A Narrative Review.",
+  "abstract": "The gut microbiome, a collection of gut microorganisms, is crucial in the development and progression of inflammatory bowel diseases (IBD). Therefore, diet and dietary interventions are promising strategies to shape the gut microbiota for IBD management. Of all the diets studied in the IBD field, the Mediterranean diet has the least restrictive nature, promoting long-term adherence. The Mediterranean diet is rich in plants, with a high daily intake of fruits and vegetables (high in fiber, antioxidants, and vitamins), olive oil, whole grains, legumes, and nuts. It includes the moderate consumption of animal products such as oily fish (rich in mono- and polyunsaturated fatty acids), dairy products, and poultry, with a limited intake of red meat and processed foods. This diet is associated with a decreased risk of chronic diseases, including IBD. However, the mechanisms of specific nutrients behind these effects in the Mediterranean diet remain under investigation. Therefore, in this review, we aim to provide an overview of the nutrients that are abundant in the Mediterranean diet and their effects on IBD, with a main focus on preclinical evidence. While several nutrients like fructo-oligosaccharide, chitosan, plant-derived protein, polyphenols, omega-3 polyunsaturated fatty acids, and resveratrol have shown potential beneficial effects in preclinical models, clinical evidence is often limited. However, understanding the complex interactions between specific nutrients and IBD is essential to developing a tailored, multidisciplinary, and personalized approach for disease management; therefore, further research is required.",
+  "publication_date": "2024-12-05",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16234201",
+  "entities": {
+    "POLYPHENOL": [
+      "a collection",
+      "a decreased risk",
+      "polyphenols",
+      "potential beneficial effects",
+      "preclinical evidence",
+      "preclinical models",
+      "resveratrol",
+      "specific nutrients",
+      "the mechanisms",
+      "their effects",
+      "these effects"
+    ],
+    "SYMPTOM": [
+      "inflammatory bowel diseases"
+    ],
+    "FOOD": [
+      "olive oil",
+      "whole grains"
+    ]
+  }
+}

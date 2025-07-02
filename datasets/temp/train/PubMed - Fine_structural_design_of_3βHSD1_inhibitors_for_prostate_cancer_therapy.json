@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Fine structural design of 3βHSD1 inhibitors for prostate cancer therapy.",
+  "abstract": "Prostate cancer is a global health challenge, particularly for patients resistant to the second-generation anti-androgen receptor pathway inhibitors. The steroidogenic enzyme 3β-hydroxysteroid dehydrogenase type 1 (3βHSD1) has emerged as a promising therapeutic target and the corresponding inhibitors, biochanin-A (BCA) and its derivatives, suppress tumor growth in preclinical models and patients. However, the poor oral bioavailability of BCA hinders its clinical application. Here, we employed a sophisticated computational approach to refine the structural design of 3βHSD1 inhibitors. AlphaFold2 was utilized to construct detailed models of 3βHSD1 binding to various substrates. These models, in conjunction with the elucidated enzymatic mechanism of 3βHSD1, guided the optimization of a series of BCA-related compounds. Our structure-activity relationship studies identified HEAL-116 as a potent 3βHSD1 inhibitor. HEAL-116 exhibited enhanced binding specificity to the substrate-binding pocket of 3βHSD1 and effectively neutralized the local charge environment. The incorporation of hydrophilic groups in its structure also markedly enhanced its oral bioavailability. HEAL-116 robustly inhibited 3βHSD1 activity and exerted pronounced antitumor effect in biochemical, cellular, and mouse models. Our findings lay the foundation for the clinical translation of 3βHSD1 inhibitors, offering a promising therapeutic strategy for the management of prostate cancer and potentially other diseases.",
+  "publication_date": "2025-06-25",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "doi": "10.1073/pnas.2422267122"
+}

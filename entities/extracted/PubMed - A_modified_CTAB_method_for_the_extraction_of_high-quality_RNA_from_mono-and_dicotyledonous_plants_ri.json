@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "A modified CTAB method for the extraction of high-quality RNA from mono-and dicotyledonous plants rich in secondary metabolites.",
+  "abstract": "High-quality RNA extraction from woody plants is difficult because of the presence of polysaccharides and polyphenolics that bind or co-precipitate with the RNA. The CTAB (cetyl trimethylammonium bromide) based method is widely used for the isolation of nucleic acids from polysaccharide-rich plants. Despite the widespread use of the CTAB method, it is necessary to adapt it to particular plant species, tissues and organs. Here we described a simple and generalized method for RNA isolation from mature leaf tissues of several economically important woody (17) and herbaceous plants (2) rich in secondary metabolites. High yields were achieved from small amount (up to 50\u00a0mg) of plant material. Two main modifications were applied to the basic protocol: an increase in \u03b2-mercaptoethanol concentration (to 10%v/v) and the use of an effective DNase treatment. As opposed to similar studies, we tried to describe a more detailed protocol for isolating RNA, including the exact quantity and concentration of the reagents were used.",
+  "publication_date": "2024-05-04",
+  "journal": "Plant methods",
+  "doi": "10.1186/s13007-024-01198-z",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective dnase treatment",
+      "particular plant species",
+      "polyphenolics",
+      "secondary metabolites",
+      "several economically important woody"
+    ]
+  }
+}

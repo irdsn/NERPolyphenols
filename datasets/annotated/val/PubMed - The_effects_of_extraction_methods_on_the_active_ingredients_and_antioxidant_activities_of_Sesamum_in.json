@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "The effects of extraction methods on the active ingredients and antioxidant activities of Sesamum indicum L. oils.",
+  "abstract": "As a premium-grade oil, Sesamum indicum L. oil is characterized by polyphenols and lignans. However, the influence of oil extraction methods (OEMs) on sesame oil's active ingredients and antioxidant activities lacks sufficient research. Herein, sesame oils were prepared with five OEMs, and their active ingredients and antioxidant activities were systematically investigated. The results demonstrated that the antioxidant activities of sesame oil extracts varied significantly among OEMs, and the ethanol extract of solvent extraction-ethanol (SEE) sesame oils possessed the highest inhibition rates of DPPH-(2,2'-diphenyl-1-picrylhydrazyl radical; 67.07\u00a0\u00b1\u00a00.78%) and ABTS+(2,2'-azinobis(3-ethylbenzothiazoline-6-sulfonic acid) diammonium salt; 18.64\u00a0\u00b1\u00a01.34%), and the highest antioxidant ability to H2O2-induced HepG2 cells. Meanwhile, the highest total phenolic content (TPC) was found in SEE oil (152.96\u00a0\u00b1\u00a05.35\u00a0mg/kg). UPLC-QTOF-MS/MS illustrated that 52 ingredients were verified in sesame oils, including nine lignans, 33 phenols, and 10 non-phenols. Furthermore, high performance liquid chromatography (HPLC) presented that the content of phenol and lignan profiles varied significantly among OEMs, while the compositions remained unchanged. Besides, the correlation analysis revealed that 14 active ingredients exhibited a positive correlation with antioxidant activities. Among them, ethyl vanillate, (+)-justiciresinol, pinoresinol, kaempferol 3-O-[2-O-(trans-p-coumaroyl)-3-O-\u03b1-L-rhamnopyranosyl]-\u03b2-D-glucopyranoside (KTCRG), cistanoside F, and sesamolinol showed significant positive correlation with antioxidant activities (p\u00a0<\u00a00.05). It was believed that KTCRG, a glycosylated kaempferol, was responsible for the high antioxidant activities of sesame oils. Our results provided a viewpoint on OEMs for the quality of sesame oils. PRACTICAL APPLICATION: In the subsequent extraction of sesame oil, specific ingredients can be more selectively retained and enriched to improve the acquisition of high-quality sesame oil and promote the quality grading of sesame oil. Meanwhile, the results of this study also have certain research value for the high-quality extraction of other vegetable oils.",
+  "publication_date": "2025-05-01",
+  "journal": "Journal of food science",
+  "doi": "10.1111/1750-3841.70166",
+  "entities": {
+    "POLYPHENOL": [
+      "a glycosylated kaempferol",
+      "kaempferol",
+      "pinoresinol",
+      "polyphenols",
+      "specific ingredients"
+    ]
+  }
+}

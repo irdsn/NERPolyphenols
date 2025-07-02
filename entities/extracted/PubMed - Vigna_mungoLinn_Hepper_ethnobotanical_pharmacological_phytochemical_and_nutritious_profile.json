@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Vigna mungo(Linn.) Hepper: ethnobotanical, pharmacological, phytochemical, and nutritious profile.",
+  "abstract": "Vigna mungois a member of the familyFabaceaeand important medicinal plant that is widely consumed as food in South Asia. It is commonly referred as Black Gram, Urad daal and Maash. It is traditionally used for strangulated bowel syndrome, dyspepsia, constipation, neuropathy, hepatopathy, gastritis, diarrhea, rheumatism, diabetes, etc. This review article provides up-to-date information onV. mungo,including its reported ethnopharmacology, pharmacological activities, phytochemistry and nutritious composition. Articles were screened from databases such as Web of Science, SpringerLink, Google Scholar, PubMed, Medline Plus, Elsevier, and Science Direct.V. mungocontains phytochemical including alkaloids, flavonoids, saponins, steroids, tannins, phenolic compounds, fatty acids, carbohydrates, amino acids, vitamins, and carotenoids. These compounds exert pharmacological activities both in-vitro and in-vivo including antioxidant, antidiabetic, anti-hyperlipidemic, immunostimulatory, hepatoprotective, nephroprotective, antibacterial, anthelmintic, thrombolytic, anti-inflammatory, analgesic, ulcerogenic, anticonvulsant, nootropic, anti-osteoarthritic, aphrodisiac, spermatogenic and anticancer activities. Currently, scientific data in supports of the biological activities are scarce. We suggest more in-depth to determine its clinical efficacy.",
+  "publication_date": "2024-05-23",
+  "journal": "Phytochemistry reviews : proceedings of the Phytochemical Society of Europe",
+  "doi": "10.1007/s11101-024-09972-6",
+  "entities": {
+    "POLYPHENOL": [
+      "antioxidant, antidiabetic, anti-hyperlipidemic, immunostimulatory, hepatoprotective, nephroprotective, antibacterial, anthelmintic, thrombolytic, anti-inflammatory, analgesic, ulcerogenic, anticonvulsant, nootropic, anti-osteoarthritic, aphrodisiac, spermatogenic and anticancer activities",
+      "flavonoids",
+      "phenolic compounds",
+      "science direct",
+      "tannins"
+    ]
+  }
+}

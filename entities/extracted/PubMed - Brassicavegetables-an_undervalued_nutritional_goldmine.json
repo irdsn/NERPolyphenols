@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Brassicavegetables-an undervalued nutritional goldmine.",
+  "abstract": "The genusBrassicaincludes six species and over 15 types of vegetables that are widely cultivated and consumed globally. This group of vegetables is rich in bioactive compounds, including glucosinolates, vitamins (such as vitamin C, folate, tocopherol, and phylloquinone), carotenoids, phenols, and minerals, which are crucial for enriching diets and maintaining human health. However, the full extent of these phytonutrients and their significant health benefits remain to be fully elucidated. This review highlights the nutrient compositions and health advantages ofBrassicavegetables and discusses the impacts of various processing methods on their nutritional value. Additionally, we discuss potential strategies for enhancing the nutrition ofBrassicacrops through agronomic biofortification, conventional breeding, and biotechnological or metabolic engineering approaches. This review lays the foundation for the nutritional improvement ofBrassicacrops.",
+  "publication_date": "2024-10-30",
+  "journal": "Horticulture research",
+  "doi": "10.1093/hr/uhae302",
+  "entities": {
+    "POLYPHENOL": [
+      "biotechnological or metabolic engineering approaches",
+      "six species"
+    ]
+  }
+}

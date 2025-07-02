@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Study on molecular mechanism and functional properties of non-covalently binding between whey protein and chlorogenic acid.",
+  "abstract": "This study investigated non-covalent conjugation of chlorogenic acid (CGA) with three whey proteins. Structural modifications were characterized through spectroscopic analyses, while functional properties were assessed by evaluating antioxidant capacity, bio-accessibility, and taste profiles. Molecular dynamics simulations elucidated interaction mechanisms. FTIR analysis revealed CGA-induced secondary structure alterations: α-lactalbumin (α-La) exhibited increased β-sheet content (10.64 %) with decreased β-turn (8.41 %), indicating structural compaction. Conversely, β-lactoglobulin (β-Lg) showed reduced α-helix (8.54 %) and β-sheet (10.61 %) contents but increased β-turn (10.09 %) and random coil (7.55 %), suggesting structural destabilization. Glycomacropeptide (GMP) demonstrated the most pronounced structural disorder. Fluorescence and UV spectra indicated stronger static quenching of β-Lg by CGA compared to α-La. Molecular dynamics confirmed stable CGA binding to all three proteins. CGA conjugation significantly enhanced the proteins' antioxidant activities. Notably, CGA bioaccessibility improved by 29.72 %, 30.43 %, and 16.81 % when complexed with α-La, β-Lg, and GMP, respectively. Additionally, astringency was reduced through competitive inhibition of CGA-salivary protein interactions.",
+  "publication_date": "2025-05-28",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144768"
+}

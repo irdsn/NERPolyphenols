@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Phytochemical composition, antioxidant potential, and insecticidal activity of Moringa oleifera extracts against Tribolium castaneum: a sustainable approach to pest management.",
+  "abstract": "Moringa oleifera's rich phytochemical profile positions it as a promising natural alternative for sustainable pest management. This study characterizes the phytochemical composition and antioxidant activity of M. oleifera extracts and, for the first time, evaluates their insecticidal potential against Tribolium castaneum (red flour beetle). Extracts from leaves, stems, roots, and seeds were prepared using ethanol, methanol, acetone, and distilled water. Phytochemical analysis identified high levels of total phenolics (7.18\u00a0\u00b5g GAE/mg DW, ethanol leaf extract), flavonoids (23.52\u00a0\u00b5g QE/mg DW, ethanol leaf extract), tannins (245.4\u00a0mg CE/g DW, acetone seed extract), saponins (13.7%, methanol leaf extract), and alkaloids (30.06\u00a0mg atropine/100 mL, water stem extract). HPLC quantification revealed abundant bioactive compounds, including phenolic acids (gallic, caffeic, chlorogenic, and ferulic acids), flavonoids (apigenin, quercetin, kaempferol), flavanols (catechin, epicatechin, procyanidin dimers), and iridoids (oleuroside), with gallic acid, quercetin-3-O-rhamnoside, and kaempferol as dominant constituents. Antioxidant assays demonstrated significant activity, with methanol root extract showing 71% DPPH inhibition and methanol stem extract exhibiting the highest total antioxidant capacity (36.12\u00a0mg GAE/g DW). Insecticidal bioassays revealed ethanol root extracts induced 90% mortality in T. castaneum within 24\u00a0h at 30% concentration, outperforming other extracts. These findings underscore M. oleifera's dual functionality as a potent bioinsecticide and antioxidant, advocating for its integration into sustainable pest management. Further research should optimize extraction protocols and field-scale formulations to enhance practical applications.",
+  "publication_date": "2025-05-02",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-025-06626-3",
+  "entities": {
+    "POLYPHENOL": [
+      "a potent bioinsecticide",
+      "apigenin, quercetin, kaempferol",
+      "catechin",
+      "epicatechin",
+      "flavonoids",
+      "gallic acid",
+      "insecticidal bioassays",
+      "kaempferol",
+      "moringa oleifera's rich phytochemical profile",
+      "procyanidin dimers",
+      "tannins",
+      "their insecticidal potential"
+    ],
+    "FOOD": [
+      "red flour beetle"
+    ]
+  }
+}

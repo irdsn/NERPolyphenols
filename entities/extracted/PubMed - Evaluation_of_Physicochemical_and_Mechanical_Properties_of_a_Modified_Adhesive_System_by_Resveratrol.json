@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "Evaluation of Physicochemical and Mechanical Properties of a Modified Adhesive System by Resveratrol Incorporation.",
+  "abstract": "This study aimed to evaluate the physicochemical and mechanical properties of a modified adhesive system containing resveratrol by assessing its microtensile bond strength (\u00b5TBS), degree of conversion (DC), mini-flexural strength (MFS), and antibacterial activity. The modified etch-and-rinse adhesive system was prepared by resveratrol (RES) incorporation in different concentrations: adhesive with 0.5% RES (RES0.5), adhesive with 1% RES (RES1), adhesive with 2% RES (RES2), and adhesive with no RES incorporation (RES0-control group). The \u00b5TBS test was conducted on 40 human molars with dentin exposure, which were etched, bonded with the adhesives (n= 10), and restored with resin composite. Fourier Transform Infrared Spectroscopy (FTIR) measured the DC for the MFS; ten adhesive sticks were made for each group. Antibacterial activity was assessed using colony-forming unit (CFU) counts. For \u00b5TBS, no difference between the groups was found (mean \u00b1 SD): RES0.5-42.93 \u00b1 15.49A; RES1-42.61 \u00b1 13.97Aand RES2-39.43 \u00b1 9.14A; RES0-41.01 \u00b1 2.64A. The DC (% \u00b1 SD) of the experimental groups was similar: RES0.5-81.02 \u00b1 1.95A; RES1-76.02 \u00b1 9.00A; RES2-58.86 \u00b1 15.94A; RES0-77.75 \u00b1 3.22A. For MFS (mean \u00b1 SD): RES0.5-33.14 \u00b1 13.83A; RES1-31.1 \u00b1 12.21A; RES2-19.72 \u00b1 5.43B; RES0-29.72 \u00b1 11.95A. For CFU (mean \u00b1 SD): RES0.5-0.67 \u00d7 107\u00b1 0.37B; RES1-0.68 \u00d7 107\u00b1 0.34B; RES2-0.60 \u00d7 107\u00b1 0.02C; RES0-0.75 \u00d7 107\u00b1 0.03A. The incorporation of resveratrol into the adhesive system at low concentrations (0.5 and 1%) does not alter the bond strength of the adhesive interface, the degree of conversion, or the flexural strength. Additionally, both concentrations exhibited antibacterial properties by reducing the colony-forming units ofS. mutans.",
+  "publication_date": "2025-05-14",
+  "journal": "Journal of functional biomaterials",
+  "doi": "10.3390/jfb16050178",
+  "entities": {
+    "POLYPHENOL": [
+      "fourier transform infrared spectroscopy",
+      "resveratrol",
+      "the physicochemical and mechanical properties"
+    ]
+  }
+}

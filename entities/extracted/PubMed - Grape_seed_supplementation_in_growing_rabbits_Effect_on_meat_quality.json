@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "Grape seed supplementation in growing rabbits: Effect on meat quality.",
+  "abstract": "Grape seed supplementation in rabbit diet on meat quality and performance was investigated. The experiment lasted 57\u00a0days and was conducted with forty Hycole rabbits 35\u00a0days-old (bodyweight: 802.6\u00a0\u00b1\u00a02.69\u00a0g) that were randomly divided into two groups and fed either a control diet (Control group) or the same diet of the control group in which 5\u00a0% of barley and 5\u00a0% of maize were replaced with 10\u00a0% of grape seed (GS group). The dietary treatment influenced final body weight, average daily gain and dry matter intake which were higher (P\u00a0<\u00a00.05) in the GS group than in the control group. The addition of 10\u00a0% grape seed in rabbit diet increased the accumulation of intramuscular fat (P\u00a0<\u00a00.05), the levels of C18:1 cis-9 (P\u00a0<\u00a00.01) and of the total monounsaturated fatty acids (P\u00a0<\u00a00.01), and tended to increase (P\u00a0=\u00a00.061) the sum of n-6 PUFA in meat, whereas reduced the sum of n-3 PUFA (P\u00a0<\u00a00.05), the levels of C22:5 n-3 (P\u00a0<\u00a00.05) and C22:6 n-3 (P\u00a0<\u00a00.05), leading to an increase (P\u00a0<\u00a00.01) in the n-6 to n-3 ratio in GS group than in control group. Grape seed supplementation reduced TBARS values (P\u00a0<\u00a00.01) and protected meat from lipid oxidation over time (P\u00a0<\u00a00.01), demonstrating that supplementation of 10\u00a0% grape seeds in the rabbit diet could improve shelf-life in meat.",
+  "publication_date": "2025-05-02",
+  "journal": "Meat science",
+  "doi": "10.1016/j.meatsci.2025.109843",
+  "entities": {
+    "FOOD": [
+      "10\u00a0% grape seed",
+      "10\u00a0% grape seeds",
+      "barley",
+      "grape seed",
+      "grape seed supplementation"
+    ]
+  }
+}

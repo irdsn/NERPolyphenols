@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "Pharmacotechnical, Physico-Chemical, and Antioxidant Evaluation of Newly Developed Capsule Formulations.",
+  "abstract": "The excess of free radicals causes numerous imbalances in the body that lead to premature aging, the degradation of internal structures, and the appearance of numerous pathologies responsible for the increased risk of premature death. The present work aims to evaluate the physical, chemical, pharmacotechnical, and antioxidant activity of newly achieved capsule formulations. These two formulations wereF1a.i., which contains melatonin:biotin:coenzyme Q10 (weight ratio of 1:2:60), andF2a.i.,which contains quercetin:resveratrol:biotin:coenzyme Q10 (weight ratio of 10:10:1:10). The adequate selection of the excipient types and amounts for final capsule formulations (F1c.c.,F2c.c.) was based on preformulation studies performed on the powders containing active ingredients. The antioxidant activity assessed using three methods (ABTS, DPPH, and FRAP) compared with acid ascorbic as a positive control demonstrated that theF2c.c.formulation possesses the strongest antioxidant capacity. The results confirmed the suitable formulation and the accurate selection of the types and amounts of active ingredients, as well as the auxiliary excipients used in newly developed capsule formulations as supplements with an excellent antioxidant effect on the human body.",
+  "publication_date": "2023-07-13",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms241411426",
+  "entities": {
+    "SYMPTOM": [
+      "premature aging"
+    ],
+    "FOOD": [
+      "the appearance"
+    ],
+    "POLYPHENOL": [
+      "an excellent antioxidant effect",
+      "quercetin",
+      "resveratrol",
+      "the accurate selection",
+      "the adequate selection",
+      "the physical, chemical, pharmacotechnical, and antioxidant activity"
+    ]
+  }
+}

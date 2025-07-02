@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Identification of potential natural compounds to relieve deoxynivalenol-induced intestinal damage based on bioinformatics and reverse network pharmacology.",
+  "abstract": "Deoxynivalenol (DON) is one of the most prevalent mycotoxins globally, causing a variety of toxic effects in both humans and animals. Numerous studies have demonstrated the considerable efficacy of natural medicines in treating and preventing DON-induced damage. Therefore, it is crucial to predict and screen highly efficient natural medicines and further investigate their mechanisms. In this study, we employed bioinformatics approaches to explore DON's pathogenic mechanism and targets. Utilizing drug prediction and screening databases, we conducted reverse prediction and screening of differentially expressed genes (DEGs) and key targets to obtain optimal natural medicines, ultimately identifying quercetin as the most promising candidate. Subsequently, network pharmacology analyses revealed that quercetin alleviated DON-induced intestinal damage by modulating inflammatory targets and the TNF/NF-κB pathways. Our experiments demonstrated that quercetin treatment improved DON-induced growth inhibition and intestinal damage in mice, while successfully reversing the abnormal expression of key target genes. Furthermore, quercetin restored the intestinal microbial imbalance induced by DON. Overall, these findings suggest that quercetin is a promising natural medicine capable of alleviating DON-induced intestinal dysfunction by regulating inflammation-related factor levels and gut microbiota, thereby providing new insights for the future prevention and treatment of mycotoxins.",
+  "publication_date": "2025-05-14",
+  "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+  "doi": "10.1016/j.fct.2025.115551"
+}

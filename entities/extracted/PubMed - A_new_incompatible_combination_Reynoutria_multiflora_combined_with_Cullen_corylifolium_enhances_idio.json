@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "A new incompatible combination: Reynoutria multiflora combined with Cullen corylifolium enhances idiosyncratic hepatotoxicity under immunological stress.",
+  "abstract": "Compound preparations of traditional Chinese medicines (TCMs) have gained considerable interest. However, ensuring their safety is difficult because of ingredient complexity. Reynoutria multiflora (Thunb.) Moldenke (PM), commonly used in tonic preparations for clinical use, has been frequently reported to cause drug-induced liver injury (DILI). Liver injury caused by PM is idiosyncratic and its underlying mechanisms have been elucidated. However, a systematic evaluation of the safety of PM compound formulations is lacking. Our preliminary research predicted a potential compatibility risk between PM and Cullen corylifolium (Linnaeus) Medikus (PF); however, the specific effects and mechanisms of their combined action on the liver have not been fully studied.",
+  "publication_date": "2025-05-16",
+  "journal": "Journal of ethnopharmacology",
+  "doi": "10.1016/j.jep.2025.119986",
+  "entities": {
+    "SYMPTOM": [
+      "drug-induced liver injury",
+      "liver injury"
+    ],
+    "POLYPHENOL": [
+      "its underlying mechanisms",
+      "mechanisms",
+      "the specific effects"
+    ]
+  }
+}

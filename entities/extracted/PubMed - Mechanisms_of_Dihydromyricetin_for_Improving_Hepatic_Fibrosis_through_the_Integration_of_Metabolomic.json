@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Mechanisms of Dihydromyricetin for Improving Hepatic Fibrosis through the Integration of Metabolomics and Gut Microbiota.",
+  "abstract": "It is crucial to prevent and treat liver fibrosis in patients with chronic liver disease. Dihydromyricetin (DMY) is a natural flavonoid compound from traditional Chinese medicine, known to alleviate chronic liver injury. However, its role in regulating inflammatory responses through gut microbiota and metabolic changes remains unclear. In this study, a mouse model of liver fibrosis was induced with carbon tetrachloride (CCl4), and DMY was administered via gavage. Histopathology, immunohistochemistry, Reverse Transcription Polymerase Chain Reaction (RT-PCR), 16S rRNA sequencing, and untargeted metabolomics were employed to evaluate DMY's pharmacological effects on CCl4-induced liver fibrosis and explore its underlying mechanisms. Our results show that DMY reduced the aspartate transaminase (AST) and alanine transaminase (ALT) serum levels in liver fibrosis model mice, and lowered the mRNA expression of pro-inflammatory cytokines and fibrosis markers. Additionally, DMY restored the richness and diversity of the gut microbiota, with several microbiota taxa significantly correlating with inflammatory markers. Metabolomic analysis of serum and liver tissue revealed that DMY significantly altered the liver metabolite disturbances induced by CCl4. Pearson correlation analysis demonstrated a strong relationship between microbial composition and liver metabolites. These results suggest that DMY alleviates liver fibrosis in mice by reshaping the gut microbiota and host metabolism, thereby improving the inflammatory response.",
+  "publication_date": "2025-05-01",
+  "journal": "The American journal of Chinese medicine",
+  "doi": "10.1142/S0192415X25500338",
+  "entities": {
+    "SYMPTOM": [
+      "ccl4-induced liver fibrosis",
+      "chronic liver injury",
+      "liver fibrosis",
+      "liver fibrosis model mice"
+    ],
+    "POLYPHENOL": [
+      "a natural flavonoid compound",
+      "dihydromyricetin",
+      "dmy's pharmacological effects",
+      "its underlying mechanisms"
+    ],
+    "FOOD": [
+      "pearson correlation analysis"
+    ]
+  }
+}

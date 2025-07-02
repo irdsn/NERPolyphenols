@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Extra Virgin Olive Oil Polyphenol-Enriched Extracts Exert Antioxidant and Anti-Inflammatory Effects on Peripheral Blood Mononuclear Cells from Rheumatoid Arthritis Patients.",
+  "abstract": "Rheumatoid arthritis (RA) is a long-term systemic autoimmune disorder that causes joint inflammation, swelling, pain, bone erosion, and deformities. Recent findings emphasize the anti-inflammatory and antioxidant properties of bioactive natural compounds, such as polyphenols extracted from plants and fruits, and their possible synergistic effect when used in combination with current therapies to improve the prognosis and symptoms of inflammatory rheumatic diseases. Here, we report that Sicilian extra virgin olive oil polyphenol-enriched extracts (PE-EVOOs) reduce intracellular reactive oxygen species (ROS) and pro-inflammatory cytokines, such as tumor necrosis factor-\u03b1 (TNF-\u03b1) and interleukin-1 \u03b2 (IL-1\u03b2), in peripheral mononuclear cells (PBMCs) obtained from both RA patients and healthy subjects (HSs) treated with lipopolysaccharides (LPS) as a control. HPLC-ESI-MS analysis highlighted that PE-EVOOs are rich in different polyphenolic compounds responsible for many of the observed biological effects. At molecular levels, Western blotting analyses revealed that PE-EVOO treatment is associated with the downregulation of the phosphorylated and active form of the inflammatory transcription factor NF-\u03baB and the pro-inflammatory enzyme cyclooxygenase 2 (COX2). In addition, PE-EVOOs upregulated the transcription factor Nrf2 and its target antioxidant enzyme catalase and manganese superoxide dismutase (MnSOD). Collectively, these results suggest a possible use of PE-EVOOs as potential adjuvants for the treatment of RA.",
+  "publication_date": "2025-01-31",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14020171",
+  "entities": {
+    "SYMPTOM": [
+      "joint inflammation",
+      "pain",
+      "rheumatoid arthritis"
+    ],
+    "POLYPHENOL": [
+      "different polyphenolic compounds",
+      "healthy subjects",
+      "intracellular reactive oxygen species",
+      "molecular levels",
+      "polyphenols",
+      "recent findings",
+      "the observed biological effects",
+      "their possible synergistic effect",
+      "tumor necrosis factor"
+    ],
+    "FOOD": [
+      "olive oil"
+    ]
+  }
+}

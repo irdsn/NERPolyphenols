@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Deep-eutectic-solvent modulation of self-assembled multi-responsive films based on polyvinyl alcohol/cellulose nanocrystal and grape skin red for highly sensitive food monitoring.",
+  "abstract": "To enhance the mechanics performance, sensitivity and response range of multi-responsive photonic films, herein, a facile method for fabricating multi-responsive films is demonstrated using the evaporative self-assembly of a mixture of grape skin red (GSR), cellulose nanocrystal (CNC), polyvinyl alcohol (PVA) and deep eutectic solvent (DES). The prepared materials exhibited excellent thermal stability, strain properties, solvent resistance, ultraviolet (UV) resistance and antioxidant activity. Compared to a pure PVA film, the presence of GSR strengthened the antioxidant property of the film by 240.1\u00a0% and provided excellent UV barrier capability. The additional cross-linking of DES and CNC promoted more efficient phase fusion, yielding a film strain of 41.5\u00a0%. The addition of hydrophilic compound GSR, wetting and swelling due to the DES and the surface inhomogeneity of the films rendered the multi-responsive films high sensitivity, wide response range and multi-cyclic stability in environments with varying pH and humidity. A sample application showed that a PVA/CNC/DES film has the potential to differentiate between fresh, sub-fresh and fully spoiled shrimps. The above results help in designing intelligent thin film materials that integrate antioxidant properties, which help in monitoring the changes in food freshness and food packaging.",
+  "publication_date": "2024-05-22",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2024.132005",
+  "entities": {
+    "POLYPHENOL": [
+      "deep eutectic solvent",
+      "the mechanics performance"
+    ],
+    "FOOD": [
+      "grape skin red"
+    ],
+    "SYMPTOM": [
+      "food packaging"
+    ]
+  }
+}

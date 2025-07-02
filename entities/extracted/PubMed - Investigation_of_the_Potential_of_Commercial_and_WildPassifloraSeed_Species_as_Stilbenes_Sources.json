@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Investigation of the Potential of Commercial and WildPassifloraSeed Species as Stilbenes Sources.",
+  "abstract": "Passion fruit seeds, a byproduct of juice processing, are rich in bioactive stilbenes with health-promoting properties. This study investigated piceatannol and resveratrol in seeds from four commercial and sixteen wildPassifloraspecies using the \u03bc-QuEChERS method combined with UHPLC-MS/MS analysis. The method showed good analytical performance, with linearity (R2\u2265 0.991), LOQ \u2264 20 \u03bcg kg-1, and RSD < 11%. Piceatannol and resveratrol were found in 70 and 60% of the analyzed species, respectively. Piceatannol was found in significantly higher amounts (0.6-55.2 mg kg-1) in 95% of these species, with values up to 56 times greater than resveratrol (0.3-7.5 mg kg-1). The highest piceatannol amounts were observed in the wild speciesP. longifilamentosa(55.2 mg kg-1) andP. edulis x P. caerulea(44.7 mg kg-1). These findings highlightPassifloraseeds as a valuable natural source of piceatannol, supporting their potential applications in functional foods, cosmetics, and pharmaceutical products.",
+  "publication_date": "2025-06-06",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c00440",
+  "entities": {
+    "FOOD": [
+      "functional foods",
+      "juice processing"
+    ],
+    "POLYPHENOL": [
+      "four commercial and sixteen wildpassifloraspecies",
+      "piceatannol",
+      "resveratrol",
+      "the analyzed species",
+      "the highest piceatannol amounts",
+      "the wild speciesp.",
+      "the \u03bc-quechers method",
+      "these species"
+    ]
+  }
+}

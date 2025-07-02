@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Critical Review on Anti-Obesity Effects of Anthocyanins Through PI3K/Akt Signaling Pathways.",
+  "abstract": "Obesity is a global health crisis and is one of the major reasons for the rising prevalence of metabolic disorders such as type 2 diabetes, cardiovascular diseases, and certain cancers. There has been growing interest in the search for natural molecules with potential anti-obesity effects; among the phytochemicals of interest are anthocyanins, which are flavonoid pigments present in many fruits and vegetables. Anthocyanins influence obesity via several signaling pathways. The PI3K/Akt signaling pathway plays a major role with a focus on downstream targets such as GLUT4, FOXO, GSK3\u03b2, and mTOR, which play a central role in the regulation of glucose metabolism, lipid storage, and adipogenesis. The influence of critical factors such as oxidative stress and inflammation also affect the pathophysiology of obesity. However, the studies reviewed have certain limitations, including variations in experimental models, bioavailability challenges, and a lack of extensive clinical validation. While anthocyanin shows tremendous potential, challenges such as poor bioavailability, stability, and regulatory matters must be overcome for successful functional food inclusion of anthocyanins. The future of anthocyanin-derived functional foods lies in their ability to overcome hurdles. Therefore, this review highlights the molecular mechanisms of obesity through the PI3K/Akt signaling pathways and explores how anthocyanins can modulate these signaling pathways to address obesity and related metabolic disorders. It also addresses some ways to solve the challenges, like bioavailability and stability, while emphasizing future possibilities for anthocyanin-based functional foods in obesity management.",
+  "publication_date": "2025-03-24",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17071126",
+  "entities": {
+    "SYMPTOM": [
+      "certain cancers",
+      "inflammation",
+      "obesity",
+      "obesity management",
+      "oxidative stress",
+      "type 2 diabetes"
+    ],
+    "POLYPHENOL": [
+      "flavonoid pigments",
+      "natural molecules",
+      "potential anti-obesity effects",
+      "the molecular mechanisms"
+    ],
+    "FOOD": [
+      "anthocyanin-based functional foods",
+      "anthocyanin-derived functional foods",
+      "successful functional food inclusion"
+    ]
+  }
+}

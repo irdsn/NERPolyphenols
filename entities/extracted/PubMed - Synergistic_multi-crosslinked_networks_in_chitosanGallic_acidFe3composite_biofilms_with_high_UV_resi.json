@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Synergistic multi-crosslinked networks in chitosan/Gallic acid/Fe3+composite biofilms with high UV resistance and antioxidant properties.",
+  "abstract": "Food spoilage leads to plenty of food being wasted every year. Safe and multifunctional food preservation packaging is urgently required to prevent food from contamination. Chitosan/gallic acid/Fe3+(CSGA-Fe3+) composite films were synthesized by incorporating gallic acid (GA) and Fe3+into a chitosan solution. The integration of GA forms covalent and hydrogen bonds with chitosan, whereas Fe3+addition establishes metal-ligand interactions with both chitosan and GA, resulting in a film characterized by a multi-crosslinked network structure. This multi-crosslinked system substantially enhanced the material's mechanical properties and increased resistance to oxidation and ultraviolet degradation. The data indicate that the mechanical strength of chitosan/gallic acid (CSGA) films, with an inclusion of 0.3\u00a0mmol of GA, improved by 37.5\u00a0% over pure chitosan (CS) films. Moreover, the mechanical strength of the CSGA-Fe3+films saw a significant increase of 124.2\u00a0%, escalating from 1.32\u00a0MPa to 17.72\u00a0MPa. Additionally, the free radical scavenging capacities of the CSGA and CSGA-Fe3+films rose by 279.4\u00a0% and 255.0\u00a0%, respectively, compared to the pure CS film. The UV-blocking efficacy of the CSGA-Fe3+films, evaluated at 365\u00a0nm, reached 84.9\u00a0%. The water contact angle of the CSGA-1.5Fe3+film increased by 18.08\u00a0% compared to the CS film. This study provides innovative ideas to promote the broader application of safe and multifunctional chitosan-based composite films in food preservation packaging.",
+  "publication_date": "2025-05-28",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144686",
+  "entities": {
+    "FOOD": [
+      "safe and multifunctional food preservation packaging"
+    ],
+    "POLYPHENOL": [
+      "chitosan/gallic acid/fe3+(csga-fe3+) composite films",
+      "incorporating gallic acid",
+      "the material's mechanical properties",
+      "the mechanical strength"
+    ],
+    "SYMPTOM": [
+      "food preservation packaging"
+    ]
+  }
+}

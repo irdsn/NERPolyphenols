@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "Investigation of the Preventive Effect of Quercetin on 5-Fluorouracil Toxicity.",
+  "abstract": "This study aimed to investigate the preventive effect of quercetin on 5-fluorouracil toxicity.",
+  "publication_date": "2025-06-16",
+  "journal": "The Journal of craniofacial surgery",
+  "doi": "10.1097/SCS.0000000000011545",
+  "entities": {
+    "POLYPHENOL": [
+      "quercetin",
+      "the preventive effect"
+    ]
+  }
+}

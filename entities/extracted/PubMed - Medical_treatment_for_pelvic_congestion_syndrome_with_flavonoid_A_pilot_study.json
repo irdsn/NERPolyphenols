@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Medical treatment for pelvic congestion syndrome with flavonoid: A\u00a0pilot study.",
+  "abstract": "To investigate the efficacy of medical management by flavonoid in women with pelvic congestion syndrome (PCS) by comparison of the changes in venous size and quality of life (QoL) before and after treatment.",
+  "publication_date": "2025-05-01",
+  "journal": "Taiwanese journal of obstetrics & gynecology",
+  "doi": "10.1016/j.tjog.2024.12.008",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoid"
+    ]
+  }
+}

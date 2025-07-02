@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Proteotranscriptomics Analysis Reveals the Key Pathways and Genes Involved in Apigenin's Anti-Liver Fibrosis Effects.",
+  "abstract": "Liver fibrosis is a global health issue with limited treatments. While apigenin has demonstrated potential in alleviating liver fibrosis, its mechanisms remain unclear. This study employed an integrated proteotranscriptomic approach to elucidate the molecular mechanisms underlying apigenin's protective effects against CCl4-induced liver fibrosis. Liver tissues from mice with CCl4-induced fibrosis treated with different doses of apigenin (10, 20, and 40 mg/kg) were analyzed using transcriptomics and proteomics. Results demonstrated dose-dependent antifibrotic effects of apigenin. Notably, numerous genes and proteins were inversely regulated by CCl4 and apigenin, with generally low and variable mRNA-protein abundance correlations. We identified 82 biological processes or molecular functions that were inversely regulated by CCl4 and high-dose apigenin at both mRNA and protein levels. Among the 48 key proteins (KPs) involved, 11 and 14 KPs correlated with liver fibrosis in mouse and human data sets, respectively. Six KPs maintained consistent correlations with fibrosis severity across both species, highlighting their potential as both biomarkers for fibrosis progression and translational targets. These findings underscore apigenin's therapeutic potential and emphasize the importance of multiomics approaches in understanding complex diseases like liver fibrosis. This study also provides valuable insights for developing improved therapeutic strategies and diagnostic tools for liver fibrosis.",
+  "publication_date": "2025-05-21",
+  "journal": "Journal of proteome research",
+  "doi": "10.1021/acs.jproteome.5c00087",
+  "entities": {
+    "SYMPTOM": [
+      "ccl4-induced liver fibrosis",
+      "liver fibrosis"
+    ],
+    "POLYPHENOL": [
+      "apigenin",
+      "apigenin's protective effects",
+      "apigenin's therapeutic potential",
+      "both species",
+      "dose-dependent antifibrotic effects",
+      "high-dose apigenin",
+      "its mechanisms",
+      "molecular functions",
+      "the molecular mechanisms"
+    ]
+  }
+}

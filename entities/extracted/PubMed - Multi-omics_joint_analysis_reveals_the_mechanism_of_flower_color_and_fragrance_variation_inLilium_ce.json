@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Multi-omics joint analysis reveals the mechanism of flower color and fragrance variation inLilium cernuum.",
+  "abstract": "Lilium cernuum, a fragrant purple-red wild lily endemic to Northeast Asia, represents both ecological significance (as a key protected species) and horticultural value. While its white variant (L. cernuumvar.album) exhibits distinct flower color and fragrance traits, the molecular mechanisms underlying these variations remain poorly understood. Previous studies attributed the low anthocyanin content in the white variant to LcMYB12 downregulation, yet comprehensive analyses of associated genes and metabolic pathways are lacking.",
+  "publication_date": "2025-04-28",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2025.1489918",
+  "entities": {
+    "POLYPHENOL": [
+      "a key protected species",
+      "both ecological significance",
+      "the molecular mechanisms"
+    ]
+  }
+}

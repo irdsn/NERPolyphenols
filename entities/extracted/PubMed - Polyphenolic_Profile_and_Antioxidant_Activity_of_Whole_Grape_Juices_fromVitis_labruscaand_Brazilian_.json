@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Polyphenolic Profile and Antioxidant Activity of Whole Grape Juices fromVitis labruscaand Brazilian Hybrid Grapes in Two Training Systems.",
+  "abstract": "The phenolic profile and antioxidant activity of whole grape juices fromVitis labruscaand Brazilian hybrids in two training systems were analyzed. Genotypes ofV. labrusca('Bord\u00f4' and 'Isabel') and Brazilian hybrids ('IAC 138-22 M\u00e1ximo' and 'BRS Violeta') were grafted onto the rootstock 'IAC 766 Campinas' (106-8 'Mgt' \u00d7Vitis caribaea) and trained on low and high trellis. After harvest, the grapes were destemmed and the berries macerated in a roller crusher. Following hot extraction without pressurization of the pomace and gentle pressing of the blend (skins, must, and seeds), the juices were bottled in amber glass bottles and pasteurized. The physicochemical and colorimetric parameters of the juices, as well as the levels of flavonoids, phenolic compounds, total monomeric anthocyanins, antioxidant activity, and polyphenolic profile, were evaluated. The juices were also subjected to sensory analysis (CAAE: 65549817.7.0000.5411). There was broad variation in all assessed characteristics. The results obtained demonstrate that the training system and grape genotype used in juice production are highly related to the presence of sugars, acidity, and bioactive compounds. Juices made from 'Bord\u00f4', 'IAC 138-22 M\u00e1ximo' and 'BRS Violeta' grapes stood out from 'Isabel' juices, the main grape variety used in Brazilian juice and wine production. All juices contain bioactive compounds in considerable concentrations, indicating beverages with high antioxidant activity and, consequently, high biological potential, with the use of high trellis in vine cultivation potentially increasing concentrations.",
+  "publication_date": "2024-09-19",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox13091132",
+  "entities": {
+    "FOOD": [
+      "'iac 138-22 m\u00e1ximo' and 'brs violeta' grapes",
+      "'isabel' juices",
+      "all juices",
+      "brazilian juice",
+      "grape genotype",
+      "juice production",
+      "juices",
+      "the grapes",
+      "the juices",
+      "the main grape variety",
+      "wine production"
+    ],
+    "POLYPHENOL": [
+      "flavonoids",
+      "phenolic compounds",
+      "polyphenolic profile"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Targeted deletion of grape retrotransposon associated with fruit skin color via CRISPR/Cas9 in Vitis labrascana 'Shine Muscat'.",
+  "abstract": "Transposition of transposable elements affect expression levels, splicing and epigenetic status, and function of genes located in, or near, the inserted/excised locus. For example, in grape, presence of the Gret1 retrotransposon in the promoter region of the VvMYBA1a allele at the VvMYBA1 locus suppress the expression of the VvMYBA1 transcription factor gene for the anthocyanin biosynthesis and this transposon insertion is responsible for the green berry skin color of Vitis labrascana, 'Shine Muscat', a major grape cultivar in Japan. To prove that transposons in grape genome can be removed by genome editing, we focused on Gret1 in the VvMYBA1a allele as a target of CRISPR/Cas9 mediated transposon removal. PCR amplification and sequencing detected Gret1 eliminated cells in 19 of 45 transgenic plants. Although we have not yet confirmed any effects on grape berry skin color, we were successful in demonstrating that cleaving the long terminal repeat (LTR) present at both ends of Gret1 can efficiently eliminate the transposon.",
+  "publication_date": "2023-06-08",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0286698",
+  "entities": {
+    "FOOD": [
+      "a major grape cultivar",
+      "grape",
+      "grape berry skin color",
+      "grape genome"
+    ],
+    "POLYPHENOL": [
+      "any effects",
+      "detected gret1 eliminated cells"
+    ]
+  }
+}

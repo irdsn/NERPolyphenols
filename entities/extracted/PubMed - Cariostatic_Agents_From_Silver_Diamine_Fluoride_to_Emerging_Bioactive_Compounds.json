@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "bioactive phytochemicals",
+  "title": "Cariostatic Agents: From Silver Diamine Fluoride to Emerging Bioactive Compounds.",
+  "abstract": "Cariostatic agents are bioactive compounds that inhibit the progression of dental caries by promoting enamel and dentin remineralization while mitigating dentin hypersensitivity. This review conducted an extensive bibliographic search across specialized databases, including Web of Science, PubMed, Cochrane Library, and Scopus, to present a comprehensive and up-to-date analysis of the clinical applications of cariostatic agents. A critical appraisal of the available scientific evidence was performed to evaluate their efficacy and potential as adjunctive therapeutic strategies in caries management. Among the most well-documented agents, silver diamine fluoride (SDF) demonstrates superior efficacy in arresting active carious lesions and preventing lesion progression. Furthermore, emerging bioactive compounds, such as remineralizing peptides and phytochemicals, have exhibited promising anticariogenic properties, though their long-term clinical effectiveness remains under investigation. This review synthesizes key findings from recent research, underscoring the pivotal role of cariostatic agents in evidence-based caries prevention and management. The results highlight the necessity of integrating these agents into a minimally invasive and patient-centered approach, particularly for high-risk populations, to optimize long-term oral health outcomes.",
+  "publication_date": "2025-06-03",
+  "journal": "Clinical, cosmetic and investigational dentistry",
+  "doi": "10.2147/CCIDE.S502433",
+  "entities": {
+    "POLYPHENOL": [
+      "recent research",
+      "specialized databases",
+      "the necessity",
+      "their long-term clinical effectiveness"
+    ]
+  }
+}

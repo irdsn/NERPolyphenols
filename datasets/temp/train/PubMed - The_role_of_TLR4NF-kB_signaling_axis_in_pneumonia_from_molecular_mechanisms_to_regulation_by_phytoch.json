@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol",
+  "title": "The role of TLR4/NF-kB signaling axis in pneumonia: from molecular mechanisms to regulation by phytochemicals.",
+  "abstract": "Pneumonia, a leading global health challenge, is characterized by inflammation driven by dysregulated immune responses. Central to its pathogenesis is the Toll-like receptor 4 (TLR4)/nuclear factor-κB (NF-κB) signaling axis, which orchestrates the recognition of pathogen-associated molecular patterns (PAMPs) and initiates cascades that mediate innate immunity. While this pathway is essential for bacterial clearance, its overactivation can lead to excessive inflammation, tissue damage, and severe complications, including acute respiratory distress syndrome (ARDS) and sepsis. This review examines the role of the TLR4/NF-κB axis in pneumonia caused by various pathogens, including Streptococcus pneumoniae, Staphylococcus aureus, and SARS-CoV- 2, and highlights its dual role in immune defense and pathological inflammation. Furthermore, we explore molecular regulators and phytochemicals that modulate this axis, including baicalin, resveratrol, and sodium houttuyfonate, which exhibit promising therapeutic potential. By elucidating these mechanisms, this study provides insights into targeted interventions to balance immune responses and mitigate inflammation, paving the way for innovative treatments in pneumonia management.",
+  "publication_date": "2025-05-16",
+  "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+  "doi": "10.1007/s00210-025-04130-x"
+}

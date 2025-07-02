@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Determination of pentacyclic triterpenes and polyphenols from table olives in colon and plasma and their chemopreventive effects on 1,2-dimethylhydrazine-induced preneoplastic lesions in rat colon.",
+  "abstract": "Table olives are a rich dietary source of pentacyclic triterpenes (PT) and polyphenols (P), many of which have demonstrated significant antiproliferative and proapoptotic activities. This study aimed to evaluate the effect of this food on the early stages of colon carcinogenesis induced by 1,2-dimethylhydrazine (DMH) at 20 mg kg-1. Male Sprague-Dawley rats were administered either water or a suspension of Arbequina table olives (OA; 3.85 g kg-1) by gavage at 10 mL kg-1for 49 days. Each group was then divided into two subgroups that received subcutaneous injections of the carcinogen (DMH+/Olives- and DMH+/Olives+) or the solvent (DMH-/Olives- and DMH-/Olives+) on days 8, 15, and 22. Analysis by LC-MS of AO enabled us to calculate the administered doses of PT (12.38 mg kg-1) and P (4.02 g kg-1) as well as the colon content of these compounds. At the end of the intervention, we found 5.1% of PT and 0.2% of P of the administered dose in the colonic content of the DMH+/Olives+ group. The highest concentrations were for maslinic and oleanolic acids (321 \u00b1 67 and 84.8 \u00b1 14.3 nmol g-1, respectively) followed by hydroxytyrosol (3.31 \u00b1 0.24 nmol g-1). The supplementation with AO reduced aberrant crypt foci by 54.1%, and mucin depleted foci by 35.7% compared to the control group. The daily consumption of table olives exerts chemopreventive activities by reducing preneoplastic intestinal lesions, which might be explained, at least in part, by the significant concentrations of PT and P remaining in the colon.",
+  "publication_date": "2025-02-17",
+  "journal": "Food & function",
+  "doi": "10.1039/d4fo04313h",
+  "entities": {
+    "POLYPHENOL": [
+      "polyphenols",
+      "subcutaneous injections",
+      "the effect"
+    ],
+    "SYMPTOM": [
+      "colon carcinogenesis"
+    ]
+  }
+}

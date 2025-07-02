@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "Optimization of phenolic compound extraction from Tunisian squash by-products: A sustainable approach for antioxidant and antibacterial applications.",
+  "abstract": "The valorization of agricultural by-products is a key strategy for environmental sustainability. This study focuses on optimizing the extraction of phenolic compounds from by-products (peels, fibrous strands, and seeds) of two Tunisian squash landraces (e.g. Bejaoui and Karkoubi) using the response surface methodology to enhance their antioxidant and antibacterial properties. Ethanol concentration, extraction time, and temperature were the key parameters evaluated for their impact on phenolic compounds yield and bioactivity. High-performance liquid chromatography identified the major bioactive phenolic compounds, including vanillic acid, catechin gallate, hydroxytyrosol, and chlorogenic acid. The optimal extraction conditions for each by-product were defined as follows: Bejaoui peels (51.5% ethanol, 40.8\u00b0C, 50.5 min), fibrous strands (50.4% ethanol, 37.1\u00b0C, 36.3 min), and seeds (30% ethanol, 36.4\u00b0C, 8 min); Karkoubi peels (13.2% ethanol, 43.4\u00b0C, 47.2 min), fibrous strands (33.4% ethanol, 46.6\u00b0C, 10.8 min), and seeds (10.65% ethanol, 55.34\u00b0C, 23.16 min). The results demonstrated that optimizing extraction conditions may lead to significant enhancement of the total phenolic content and antiradical activity, with experimental values closely matching predictive models. Furthermore, the bioactive properties of these by-products, particularly their antibacterial activity, highlight their potential application as novel eco-friendly matrices for natural antioxidant and antimicrobial agents. This study underscores the importance of optimizing sustainable extraction techniques to maximize the valorization of agricultural waste, contributing to both environmental protection and the development of innovative natural products within the circular economy concept.",
+  "publication_date": "2025-04-28",
+  "journal": "Open life sciences",
+  "doi": "10.1515/biol-2025-1096",
+  "entities": {
+    "POLYPHENOL": [
+      "both environmental protection",
+      "catechin gallate",
+      "chlorogenic acid",
+      "novel eco-friendly matrices",
+      "phenolic compounds",
+      "phenolic compounds yield",
+      "sustainable extraction techniques",
+      "the circular economy concept",
+      "the major bioactive phenolic compounds",
+      "vanillic acid"
+    ]
+  }
+}

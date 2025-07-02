@@ -1,0 +1,32 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Co-delivery of Exemestane and Genistein via Chitosan Coated Liposomes for Enhanced Antitumor Effect and Bone Loss Prevention in Breast Cancer Therapy: In Vivo Evaluation.",
+  "abstract": "Breast cancer (BC) is the most prevalent form of cancer among women worldwide, accounting for approximately 36% of cancer cases. Due to its inimitable pathological expression and restricted success of accessible therapeutic modalities, fanatical research in this area is essential. Our group has developed a nanovesicular lipid carrier system consisting of Exemestane (EXM) and Genistein (GNS), which have been successfully incorporated into both uncoated and chitosan-coated liposomes. This combination aims to enhance anticancer efficacy. EXM is known to cause bone loss, while GNS, a natural isoflavone, has been shown in research to possess bone-protective effects. Therefore, we combined these two compounds to mitigate the side effects of EXM. Our previous publication details the formulation development of uncoated EXM-GNS liposomes (EXM-GNS-LPS) and chitosan-coated EXM-GNS liposomes (CH-EXM-GNS-LPS), where we addressed the pharmacotechnical challenges of combining a synthetic drug with herbal drug. Both uncoated and coated liposomes were tested for their budding effects on bone loss induced by hormonal therapy. Pharmacokinetic and pharmacodynamic studies were conducted on rat models with breast cancer, treated with different formulations. Biochemical investigations revealed significant changes in biomarker levels, indicating effects on bone development and resorption. Improvements in bone health and anticancer efficacy were observed to be statistically significant (p\u2009<\u20090.05). Micro-CT analysis of bone samples showed that the chitosan-coated EXM-GNS liposome treatment group yielded the best results when evaluate against other treatment groups. Additionally, histological examination of the bone treated with CH-EXM-GNS-LPS demonstrated a marked restoration of trabecular bone architecture, characterized by a well-connected bone matrix and narrower inter-trabecular spaces compared to the toxic control group. The synergistic effect of EXM and GNS, encapsulated in liposomes, offers an innovative solution to the challenges of breast cancer treatment. The chitosan coating not only improved the stability and controlled release of the drugs but also provided additional benefits in terms of biocompatibility and targeting potential. Overall, the results of this study indicate that the CH-EXM-GNS-LPS formulation holds significant promise as a therapeutic and preventive strategy for bone loss associated with hormonal therapy in breast cancer patients. This work lays the foundation for future clinical applications, highlighting the potential for combining synthetic and natural compounds in advanced drug delivery systems to address complex, multifactorial health issues.",
+  "publication_date": "2025-06-27",
+  "journal": "AAPS PharmSciTech",
+  "doi": "10.1208/s12249-025-03163-y",
+  "entities": {
+    "SYMPTOM": [
+      "anticancer efficacy",
+      "bone loss",
+      "breast cancer",
+      "breast cancer patients",
+      "breast cancer treatment",
+      "cancer",
+      "cancer cases"
+    ],
+    "POLYPHENOL": [
+      "a well-connected bone matrix",
+      "bone-protective effects",
+      "effects",
+      "genistein",
+      "narrower inter-trabecular spaces",
+      "the pharmacotechnical challenges",
+      "the side effects",
+      "the synergistic effect",
+      "their budding effects",
+      "trabecular bone architecture"
+    ]
+  }
+}

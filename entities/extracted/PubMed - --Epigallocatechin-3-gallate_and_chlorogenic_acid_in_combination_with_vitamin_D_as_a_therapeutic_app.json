@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "catechins",
+  "title": "(-)-Epigallocatechin-3-gallate and chlorogenic acid in combination with vitamin D as a therapeutic approach for letrozole-induced polycystic ovary syndrome (PCOS) rats: Biochemical and hormonal modulation.",
+  "abstract": "Treatment with phytochemicals have shown promising results in managing various diseases including Polycystic ovary syndrome (PCOS) which is an endocrine gynecological disorder affecting reproductive aged women. This study has demonstrated that Epigallocatechin-3-gallate (EGCG) and chlorogenic acid (CGA) in combination with vitamin D can significantly reduce PCOS like characteristics including ovarian cysts, hyperandrogenism, fasting blood glucose level, insulin resistance, hyperlipidaemia, ROS formation, oxidative stress, DNA damage, and ovarian histomorphology in letrozole induced PCOS rats. PCOS was induced in female Wistar rats by giving 1\u202fmg/kg/day letrozole for 21 days through oral gavage. EGCG (100\u202fmg/kg/day) and CGA (120\u202fmg/kg/day) in combination with vitamin D (25\u202fmcg/kg/day) was given orally for 15 days, from day 21-35. Metformin treatment was used as a positive control. Histological, microscopic analysis, and chemiluminescent immunoassays were performed to evaluate decrement in PCOS like symptoms. Nitric oxide (RNS) production, antioxidant status, and the generation of reactive oxygen species (ROS) were also assessed. Ovary homogenates and plasma samples of rats were also examined for markers of protein, lipid, and DNA oxidation. Activities of enzymatic antioxidants (superoxide dismutase, catalase, glutathione reductase, Paraoxonase-1 status) were also evaluated. EGCG +\u202fvitamin D and CGA +\u202fvitamin D has been found to restore hormonal balance by modulating steroidogenic enzymes, they also improved antioxidant enzyme activity including SOD, catalase, glutathione reductase, PON-1 arylesterase, PON-1 CMPAase, etc. Similarly, EGCG +\u202fvitamin D and CGA +\u202fvitamin D treatment have shown efficacy in normalizing the estrus cycle, reducing ovarian cysts, and improving ovarian histomorphology. They also assisted in alleviating triglycerides and cholesterol levels and maintained liver function enzymes level. However, EGCG +\u202fvitamin D proves to have better therapeutic potential modulates glucose metabolic pathways, by reducing blood glucose levels, advanced glycation end product formation, decreasing ROS generation and oxidative stress; consequently, lowers hyperandrogenism and insulin resistance. Overall, EGCG +\u202fvitamin D treatment offers a comprehensive approach in managing PCOS by targeting multiple pathways associated with this disorder, making it a potential alternative to conventional therapies.",
+  "publication_date": "2025-05-10",
+  "journal": "The Journal of steroid biochemistry and molecular biology",
+  "doi": "10.1016/j.jsbmb.2025.106772",
+  "entities": {
+    "POLYPHENOL": [
+      "(egcg",
+      "an endocrine gynecological disorder",
+      "chlorogenic acid",
+      "egcg",
+      "egcg +\u202fvitamin d",
+      "egcg +\u202fvitamin d treatment",
+      "epigallocatechin-3-gallate",
+      "reactive oxygen species"
+    ],
+    "SYMPTOM": [
+      "dna damage",
+      "insulin resistance",
+      "oxidative stress"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "UHPLC-MS Phenolic Fingerprinting, Aorta Endothelium Relaxation Effect, Antioxidant, and Enzyme Inhibition Activities ofAzara dentata Ruiz & PavBerries.",
+  "abstract": "Azara dentata Ruiz & Pav.is a small Chilean native plant from Patagonia, a producer of small white reddish berries. For the first time, the proximal analysis of the fruits, phenolic fingerprinting, the antioxidant activity, and the enzymatic inhibition and relaxation effects in rat aorta induced by the ethanolic extract of these fruits were investigated. The proximal composition and the mineral (Ca: 2434 \u00b1 40 mg/kg; Mg: 702 \u00b1 13 mg/kg; Fe: 117.1 \u00b1 1.6 mg/kg; Zn: 16.1 \u00b1 0.4 mg/kg) and heavy metal (As: 121 \u00b1 11 \u00b5g/kg; Cd: 152 \u00b1 5 \u00b5g/kg; Hg: 7.7 \u00b1 1.3 \u00b5g/kg; Pb 294 \u00b1 4 \u00b5g/kg) contents were analyzed. Anthocyanins, flavonoids, phenolic acids, and coumarins were identified using UHPLC-PDA-QTOF-MS. The ethanolic extracts showed a total phenolic content of 23.50 \u00b1 0.93 mg GAE/g extract. In addition, the antioxidant activity was assessed using both DPPH and TEAC (28.64 \u00b1 1.87 and 34.72 \u00b1 2.33 mg Trolox/g of dry fruit, respectively), FRAP (25.32 \u00b1 0.23 mg Trolox equivalent/g dry fruit), and ORAC (64.95 \u00b1 1.23 mg Trolox equivalents/g dry fruit). The inhibition of enzymatic activities (acetylcholinesterase IC50: 2.87 + 0.23 \u00b5g extract/mL, butyrylcholinesterase IC50: 6.73 + 0.07 \u00b5g extract/mL, amylase IC50: 5.6 \u00b1 0.0 \u00b5g extract/mL, lipase IC50: 30.8 \u00b1 0.0 \u00b5g extract/mL, and tyrosinase IC50: 9.25 \u00b1 0.15 \u00b5g extract/mL) was also assessed. The extract showed 50-60% relaxation in rat aorta (intact), mediated thorough the release of endothelial nitric oxide. Our results suggest thatA. dentatais a good source of compounds with the capacity to inhibit important enzymes, can be hypotensive, and can thus have good potentiality as supplements in the amelioration of neurodegenerative diseases and could also have potential to be used to develop new functional foods. The study highlights the benefits of these neglected small fruits and could boost their consumption.",
+  "publication_date": "2023-02-02",
+  "journal": "Foods (Basel, Switzerland)",
+  "doi": "10.3390/foods12030643",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "relaxation effects",
+      "these neglected small fruits"
+    ],
+    "FOOD": [
+      "new functional foods"
+    ]
+  }
+}

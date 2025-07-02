@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Exploring pharmacological potential ofAegle marmelos: integrating traditional knowledge with modern physiology and molecular biology.",
+  "abstract": "Aegle marmelosis a plant that holds considerable medicinal value. It is indigenous to India, Iran, Myanmar, Pakistan, Bangladesh, and various Southeast Asian countries. The sacred tree, which has its historical roots in the Vedic era dating back to 2000 B.C., holds a significant place in various traditional systems of medicine due to its extensive therapeutic properties that have been recognized over time. The plant exhibits a diverse array of bioactive compounds, namely flavonoids, alkaloids, polyphenols, terpenoids, carotenoids, and coumarins, which are present in various parts of the plant, including leaves, flowers, bark, and fruit. These compounds are responsible for the plant's extensive range of medicinal properties. It has been observed thatA. marmelosdemonstrates various biological activities including anti-proliferative, anti-pyretic, anti-inflammatory, anti-fungal, anti-diarrhoeal, and antimicrobial properties. Recent scientific investigations have provided confirmation regarding the effectiveness of the substance under investigation against a wide range of disease-causing microorganisms. These microorganisms include bacteria such asMicrococcus luteusandStreptococcus faecalis, as well as fungi likeAspergillus fumigatusandCandida albicans. The phytochemical profile ofA. marmelosincludes the presence of marmenol, marmin, marmelosin, and several other compounds that are known to contribute to its medicinal properties. The present review aims to comprehensively synthesize the existing body of research onAegle marmelos,focusing on its botanical characteristics, phytochemical composition, and wide-ranging medicinal applications.",
+  "publication_date": "2025-05-22",
+  "journal": "Physiology and molecular biology of plants : an international journal of functional plant biology",
+  "doi": "10.1007/s12298-025-01586-2",
+  "entities": {
+    "POLYPHENOL": [
+      "namely flavonoids",
+      "polyphenols",
+      "recent scientific investigations",
+      "such asmicrococcus luteusandstreptococcus faecalis",
+      "the effectiveness"
+    ]
+  }
+}

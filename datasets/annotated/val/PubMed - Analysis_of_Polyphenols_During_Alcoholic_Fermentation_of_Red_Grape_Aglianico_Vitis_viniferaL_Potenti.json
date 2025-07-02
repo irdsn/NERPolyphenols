@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Analysis of Polyphenols During Alcoholic Fermentation of Red Grape Aglianico (Vitis viniferaL.): Potential Winemaking Optimization and Pomace Valorization.",
+  "abstract": "The polyphenol extraction and evolution during a traditional 14-day fermentation of the Aglianico red grape, a variety widely cultivated across Southern Italy, was for the first time investigated, with the purpose of optimizing the phenolic profile in finished wines. Anthocyanins, BSA-reactive tannins, iron-reactive phenols, and vanillin-reactive flavans (VRFs) were analyzed in the free-run must, pressed pomace liquid, and in pomace extracts at different maceration times. Experimental evidence suggested that, instead of the typical 14-day maceration of Aglianico grapes, it is recommendable to choose an 11-day maceration in order to prevent the over-extraction of polyphenols that may detrimentally affect the sensory characteristics of wines. In fact, Aglianico wines, if not properly produced, can be affected by excessive astringency due to its high tannin contents. The findings of the present study can provide insightful knowledge to all the winemakers dealing with grape varieties characterized by high quantities of tannins. Also, an earlier racking would supply grape pomaces extremely rich in valuable phenolic compounds to be extracted and reused in several industrial segments in the frame of circular bioeconomy.",
+  "publication_date": "2024-12-18",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules29245962",
+  "entities": {
+    "POLYPHENOL": [
+      "bsa-reactive tannins",
+      "circular bioeconomy",
+      "its high tannin contents",
+      "polyphenols",
+      "tannins",
+      "the polyphenol extraction",
+      "valuable phenolic compounds"
+    ],
+    "FOOD": [
+      "aglianico wines",
+      "all the winemakers",
+      "finished wines",
+      "grape pomaces",
+      "grape varieties",
+      "the aglianico red grape",
+      "wines"
+    ]
+  }
+}

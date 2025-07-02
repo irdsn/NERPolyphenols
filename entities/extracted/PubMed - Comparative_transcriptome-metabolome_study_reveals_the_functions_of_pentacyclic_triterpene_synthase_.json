@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "secondary metabolites",
+  "title": "Comparative transcriptome-metabolome study reveals the functions of pentacyclic triterpene synthase and flavonoid glycosyltransferases in Entada phaseoloides.",
+  "abstract": "Entada phaseoloides, a traditional herbal remedy in Chinese Dai medicine, is renowned for its therapeutic applications, including the treatment of hematochezia, bruises, rheumatoid arthritis, lower back and leg pain and limb paralysis. Despite the availability of its sequenced genome, the biosynthetic pathways of its medicinally active compounds remain largely unexplored. In this study, we integrated metabolomic and transcriptomic data from multiple tissues to classify a total of 812 metabolites and 15,686 genes into seven distinct clusters, each characterized by specific tissue expression patterns. These clusters revealed uniform abundance profiles, with metabolites and genes distributed distinctly across particular tissues. We conducted a targeted screening of tissue-specific genes within E. phaseoloides, functionally validating them in relation to the pentacyclic triterpene and flavonoid biosynthesis pathways. Our analysis elucidated the oleanolic acid synthesis pathway and detailed the functions of two flavonoid glycosyltransferases. Further investigations into EpUGT95, a di-glycosyltransferase, highlighted the critical role of its key amino acid residues in determining the biological activity of the protein. This study underscores the efficacy of employing transcriptome-metabolome associations in dissecting secondary metabolite biosynthesis, not only in E. phaseoloides but potentially across the broader spectrum of medicinal plants.",
+  "publication_date": "2025-06-14",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.145278",
+  "entities": {
+    "POLYPHENOL": [
+      "secondary metabolite biosynthesis",
+      "specific tissue expression patterns",
+      "the broader spectrum",
+      "tissue-specific genes",
+      "two flavonoid glycosyltransferases"
+    ]
+  }
+}

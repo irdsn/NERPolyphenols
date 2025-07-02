@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Transcriptomic Response Pathways of Yeast to Crucial Polyphenolic Acids in Rosmarinus Acid Biosynthesis.",
+  "abstract": "Rosmarinic acid (RA) is a natural polyphenolic compound with various biological and pharmaceutical activities. Due to the limited availability in plant sources and the complexity of its chemical synthesis, the biosynthesis of RA shows great potential. However, few studies have investigated RA biosynthesis in S. cerevisiae, and inhibitory effects from its biosynthesis on intrinsic metabolic pathways remain unclear. In this study, RNA-seq technology was employed to investigate the stress response of S. cerevisiae to RA and its precursors (caffeic acid, CA and salvianic acid, SAA). The results revealed an increased inhibitory effect with a variation number of differentially expressed genes (DEGs): 338 for 200-mg/L SAA, 510 for 200-mg/L CA, and 934 for 200-mg/L RA. Furthermore, trends analysis of DEGs expression level uncovered similar stress response patterns of S. cerevisiae under RA and SAA, indicating a shared inhibition mechanism. Common response pathways, including ribosome biogenesis, RNA polymerase biosynthesis, and purine and pyrimidine metabolism, were elucidated. Additionally, common regulated genes (HSP12, PAU4, TIR3) and different regulated genes (UTP6, NAN1, IMP4) in aforementioned pathways were identified. Unique genes and pathways were also mapped to reveal the special response mechanism to different polyphenolic acids, such as oxidative phosphorylation for RA and amino acid metabolism for CA. Overall, this work provides a foundation for understanding transcriptomic response of yeast to RA and RA biosynthesis.",
+  "publication_date": "2025-05-30",
+  "journal": "Current microbiology",
+  "doi": "10.1007/s00284-025-04286-y",
+  "entities": {
+    "POLYPHENOL": [
+      "a natural polyphenolic compound",
+      "a shared inhibition mechanism",
+      "an increased inhibitory effect",
+      "caffeic acid",
+      "different polyphenolic acids",
+      "inhibitory effects",
+      "its precursors",
+      "rna-seq technology",
+      "rosmarinic acid",
+      "the special response mechanism"
+    ],
+    "SYMPTOM": [
+      "similar stress response patterns",
+      "the stress response"
+    ]
+  }
+}

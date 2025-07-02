@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Seedless black Vitis vinifera polyphenols suppress hepatocellular carcinoma in vitro and in vivo by targeting apoptosis, cancer stem cells, and proliferation.",
+  "abstract": "Hepatocellular carcinoma (HCC) is an aggressive tumor and one of the most challenging cancers to treat. Here, we evaluated the in vitro and in vivo ameliorating impacts of seedless black Vitis vinifera (VV) polyphenols on HCC. Following the preparation of the VV crude extract (VVCE) from seedless VV (pulp and skin), three fractions (VVF1, VVF2, and VVF3) were prepared. The anticancer potencies of the prepared fractions, compared to 5-FU, were assessed against HepG2 and Huh7 cells. In addition, the effects of these fractions on p-dimethylaminoazobenzene-induced HCC in mice were evaluated. The predicted impacts of selected phenolic constituents of VV fractions on the activity of essential HCC-associated enzymes (NADPH oxidase \"NADPH-NOX2\", histone deacetylase 1 \"HDAC1\", and sepiapterin reductase \"SepR\") were analyzed using molecular docking. The results showed that VVCE and its fractions induced apoptosis and collapsed CD133+stem cells in the studied cancer cell lines with an efficiency greater than 5-FU. VVF1 and VVF2 exhibited the most effective anticancer fractions in vitro; therefore, we evaluated their influences in mice. VVF1 and VVF2 improved liver morphology and function, induced apoptosis, and lowered the fold expression of various crucial genes that regulate cancer stem cells and other vital pathways for HCC progression. For most of the examined parameters, VVF1 and VVF2 had higher potency than 5-FU, and VVF1 showed more efficiency than VVF2. The selected phenolic compounds displayed competitive inhibitory action on NADPH-NOX2, HDAC1, and SepR. In conclusion, these findings declare that VV polyphenolic fractions, particularly VVF1, could be promising safe anti-HCC agents.",
+  "publication_date": "2024-04-29",
+  "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "doi": "10.1016/j.biopha.2024.116638",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer stem cells",
+      "induced apoptosis",
+      "the anticancer potencies",
+      "the most challenging cancers",
+      "the studied cancer cell lines"
+    ],
+    "POLYPHENOL": [
+      "(vv) polyphenols",
+      "molecular docking",
+      "selected phenolic constituents",
+      "the effects",
+      "the most effective anticancer fractions",
+      "the selected phenolic compounds",
+      "vv polyphenolic fractions"
+    ]
+  }
+}

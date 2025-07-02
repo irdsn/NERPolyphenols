@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Chemical properties, antioxidant activities and metabolic profile of mixed blackjack and jute vegetables.",
+  "abstract": "The study assessed the secondary metabolite profile and antioxidant capacities of two Indigenous leafy vegetables: blackjack (Bidens pilosa) and jute (Corchorus olitorius). These vegetables were sun-dried and mixed in different ratios (30:70, 50:50, 70:30), with unblended samples as controls. Standard methods determined their total phenolic content, antioxidant capacities, total carotenoid, and beta-carotene. Results indicated that combining blackjack with jute improved their chemical properties and reduced antinutritional activities. The vitamin C content of mixed vegetables reached 51.96\u00a0mg/100\u00a0g, while total phenolic content was 1.75\u00a0\u03bcg/mL GAE. Metabolic profiling showed both vegetables shared some secondary metabolites, but certain flavonoids were unique to blackjack. This suggests that consuming these vegetables mixed could enhance health benefits by providing a wider range of nutrients and bioactive compounds compared to individual consumption.",
+  "publication_date": "2025-05-23",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144885",
+  "entities": {
+    "POLYPHENOL": [
+      "certain flavonoids",
+      "some secondary metabolites",
+      "the secondary metabolite profile"
+    ]
+  }
+}

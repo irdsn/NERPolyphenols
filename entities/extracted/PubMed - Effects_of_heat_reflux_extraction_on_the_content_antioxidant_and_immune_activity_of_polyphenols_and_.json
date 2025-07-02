@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "Effects of heat reflux extraction on the content, antioxidant, and immune activity of polyphenols and flavonoids from hempseed threshing residues.",
+  "abstract": "Hempseed threshing residues are rich in phytochemicals such as polyphenols and flavonoids. Phenolic and flavonoid compounds have been associated with antioxidant, antibacterial and anticancer activities. The re-use of the hempseed threshing residues as value-added materials is, not only cost-saving, but also environmentally beneficial. It is therefore important to develop an effective method for extraction of phenolic compounds and flavonoids from hempseed threshing residues.",
+  "publication_date": "2025-05-07",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0322134",
+  "entities": {
+    "POLYPHENOL": [
+      "an effective method",
+      "flavonoids",
+      "phenolic and flavonoid compounds",
+      "phenolic compounds",
+      "polyphenols"
+    ],
+    "SYMPTOM": [
+      "antioxidant, antibacterial and anticancer activities"
+    ]
+  }
+}

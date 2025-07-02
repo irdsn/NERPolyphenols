@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "A Novel Aptamer-Based Fluorescent Biosensor for Imaging SIRT2 in Live Cells and Screening Its Modulators.",
+  "abstract": "Sirtuin 2 (SIRT2) is involved in the pathological processes of many diseases and is especially regarded as a potential therapeutic target for diabetes and neurodegenerative diseases. Imaging SIRT2 protein in live cells has important value for rapidly detecting SIRT2 and high-throughput screening SIRT2 modulators. As far as we know, there has been no method for imaging SIRT2 in live cells up to now. Here, we present a novel aptamer (Apt)-based \"turn-on\" fluorescent biosensor for imaging SIRT2 in live cells. To develop the recognition element of the biosensor, our work first discovered 12 aptamers (Apt) with high affinity to SIRT2 (Kd= 123.3-154.5 nM) using the magnetic beads-based systemic evolution of ligands by exponential enrichment (MB-SELEX) and selected Apt 45 (Kd= 123.3 nM) to fabricate the \"turn-on\" fluorescent biosensor, FAM-Apt 45/Black Hole Quencher1 (BHQ1)-cDNA/Au nanospheres, which had excellent specificity and low cytotoxicity. The experiment results demonstrated that the biosensor could image SIRT2 in three different cell lines, including Schwann, H9c2, and HUVECs cells. Further, we established a platform for screening SIRT2 modulators with the biosensor and discovered three SIRT2 modulators (astragaloside II, chlorogenic acid, and tanshinone IIA) that could increase SIRT2 levels in Schwann cells damaged by high glucose and lipid. This work provides an aptamer-based fluorescent biosensor for high-throughput screening of protein modulators at the cellular level, which could be a universal approach to screening aimed protein modulators by replacing the corresponding aptamer.",
+  "publication_date": "2025-04-08",
+  "journal": "Analytical chemistry",
+  "doi": "10.1021/acs.analchem.5c00066"
+}

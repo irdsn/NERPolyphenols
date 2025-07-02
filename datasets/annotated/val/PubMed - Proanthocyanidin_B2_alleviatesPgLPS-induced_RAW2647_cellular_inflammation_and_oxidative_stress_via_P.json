@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Proanthocyanidin B2 alleviatesPg.LPS-induced RAW264.7 cellular inflammation and oxidative stress via PI3K/Akt/NFkB pathway.",
+  "abstract": "Periodontitis is a multifactorial chronic inflammatory infectious disease associated with systemic diseases. Proanthocyanidin B2 (PB2), a polyphenol, has been investigated to exhibit antioxidant, anti-inflammatory and anti-cancer pharmacological properties. PB2 has shown good efficacy in treating hepatocellular carcinoma, type 2 diabetes mellitus, and ulcerative colitis. There are few studies on PB2 in treating periodontitis, and the molecular mechanism is unknown. This research focused on the effects of PB2 in Porphyromonas gingivalis-derived lipopolysaccharide (Pg.LPS)-stimulated RAW264.7 cells, as well as the potential mechanisms. CCK-8 assay was used to assess the cytotoxic effects of PB2. qRT-PCR assay and ELISA assay were used to evaluate the expression of inflammatory cytokines. DCFH-DA probe and other assay kits were employed to detect oxidative stress indicators. Western blot was conducted to assess important proteins of the PI3K/Akt/NF\u03baB pathway. The results showed that PB2 downregulated the overproduction of pro-inflammatory mediators IL-1\u03b2, IL-6, and TNF-\u03b1; reduced the generation of ROS, MDA, and NO; Enhanced the activities of anti-inflammatory factor IL-10 and the total antioxidant capacity; and inhibited the activation of PI3K/Akt/NF\u03baB pathway. In addition, the PI3K agonist 740Y-P was able to partially reverse the effects of PB2. This study indicates that PB2 exhibits significant anti-inflammatory and antioxidant effects in P. gingivalis LPS-stimulated RAW264.7 cells, primarily through the inhibition of the PI3K/Akt/NF\u03baB signaling pathway.",
+  "publication_date": "2025-03-10",
+  "journal": "Cytotechnology",
+  "doi": "10.1007/s10616-025-00734-6",
+  "entities": {
+    "POLYPHENOL": [
+      "a multifactorial chronic inflammatory infectious disease",
+      "a polyphenol",
+      "proanthocyanidin b2",
+      "significant anti-inflammatory and antioxidant effects",
+      "the cytotoxic effects",
+      "the effects",
+      "the molecular mechanism",
+      "the potential mechanisms"
+    ],
+    "SYMPTOM": [
+      "antioxidant, anti-inflammatory and anti-cancer pharmacological properties",
+      "oxidative stress indicators"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Multi-Index Quantitative Analysis of Pharyngiyan Tablet Characteristics by Screening Different Quality Control Components.",
+  "abstract": "Pharyngiyan tablet is a traditional Chinese medicine (TCM) renowned for its efficacy in moisturizing the lungs, clearing the throat. However, it exhibits quality variations due to discrepancies in regulatory standards and challenges in comprehensive evaluation. In this study, ultra-performance liquid chromatography-quadrupole time-of-flight tandem mass spectrometry (UPLC-Q-TOF-MS/MS) was used to qualitatively analyze the chemical composition of pharyngiyan tablets. Full composition analysis detected 131 chemical constituents. Gallic acid, paeoniflorin, rutin, baicalin, and harpagoside were identified as quality control (QC) indexes through rational screening. These indexes were selected based on their effectiveness in demonstrating differences, stability after processing, specificity, and cost-effectiveness in measurement. For the multimetric quality assessment of the five screening components, a high-performance liquid chromatography with diode array detector (HPLC-DAD) method with wavelength switching was developed. A total of 104 batches of samples from 10 manufacturers were included in the analyses. The content of each ingredient varied significantly across enterprises and batches, with certain enterprises characterized by inferior drug feeding, deviation from prescribed ingredient amounts, and nonstandardized feeding practices. Overall, aquality assessment method was established to provide a basis for the market regulation and quality assessment of pharyngiyan tablets.",
+  "publication_date": "2025-04-25",
+  "journal": "Journal of analytical methods in chemistry",
+  "doi": "10.1155/jamc/6691730",
+  "entities": {
+    "POLYPHENOL": [
+      "cost-effectiveness",
+      "diode array detector",
+      "gallic acid",
+      "rutin",
+      "specificity",
+      "their effectiveness"
+    ]
+  }
+}

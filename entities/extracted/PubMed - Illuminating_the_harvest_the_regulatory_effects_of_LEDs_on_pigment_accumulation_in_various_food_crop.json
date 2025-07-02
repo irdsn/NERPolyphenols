@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "anthocyanins",
+  "title": "Illuminating the harvest: the regulatory effects of LEDs on pigment accumulation in various food crops.",
+  "abstract": "Food plants provide vital nutrients for humans and are the basis for their survival. The pigments in food plants not only improve their sensory value, but also increase their medicinal and nutritional value, which has a positive effect on human health. Light can influence the accumulation of pigments in food plants, and different light qualities, intensities and cycles have different effects on the accumulation of different pigments. For example, blue light can promote the production of chlorophyll and anthocyanins, while red light favours the accumulation of carotenoids. With the development of plantation agriculture, LED light sources are gradually being used for the market-orientated production of food crops. In recent years, research has shown that non-coding RNAs such as miRNA and lncRNA significantly influence the process of light-regulated pigment accumulation. Non-coding RNA can modulate the expression of genes related to pigment metabolism and thus influence pigment accumulation. Investigating the effect of LED light on the expression of non-coding RNA can further elucidate the molecular mechanism of light regulation of pigment accumulation and provide a new theoretical basis for the precise regulation of pigment accumulation. Therefore, we summarised the effects of LED light quality, intensity and period on pigments in food plants and elucidated the regulatory role of LED light on non-coding RNAs related to pigment metabolism in food plants, which theoretically supports the application of LED light sources in food plants.",
+  "publication_date": "2025-05-26",
+  "journal": "Physiology and molecular biology of plants : an international journal of functional plant biology",
+  "doi": "10.1007/s12298-025-01596-0",
+  "entities": {
+    "POLYPHENOL": [
+      "a positive effect",
+      "different effects",
+      "recent years",
+      "the effect",
+      "the effects",
+      "the molecular mechanism",
+      "the precise regulation"
+    ]
+  }
+}

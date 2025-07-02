@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Hydration and Fortification of Common Bean (Phaseolus vulgarisL.) with Grape Skin Phenolics-Effects of Ultrasound Application and Heating.",
+  "abstract": "Ultrasound (US)-assisted soaking combined with fortification with red grape skin (GS) phenolics was applied on twoPhaseolusvarieties, namely White Kidney Bean (WKB) and Cranberry Bean (CB), before heat treatment. The aims were to investigate: (a) the effect of US application on the kinetic of hydration; (b) the extent of absorption of different phenolic classes of GS into the beans and the resulting effect on antioxidant activity; (c) the effects of heat treatment on the phenolic fraction and antioxidant activity of GS extract- and water-soaked beans. US fastened the soaking step of both WKB and CB beans, which showed the sigmoidal and the downward concave shape hydration curves, respectively. Anthocyanins, flavonols, flavanol and phenolic acids levels increased with GS soaking, but US application was effective only for increasing the level of flavonols, while it favored the loss of endogenous phenolic acids and it did not affect the uptake of anthocyanins and flavanols. Heat treatment decreased the levels of most of phenolic compounds, but increased the levels of monomeric flavanols. Overall, the antioxidant activity was 40% higher in WKB and 53% higher in CB upon GS-fortification than in the control beans, despite the effects of heating. This fortification strategy could be applied for value addition of varieties low in phenolics or as a pre-treatment before intensive processing.",
+  "publication_date": "2024-05-18",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox13050615",
+  "entities": {
+    "POLYPHENOL": [
+      "(c) the effects",
+      "phenolic compounds",
+      "the effect",
+      "the effects",
+      "the resulting effect"
+    ],
+    "FOOD": [
+      "both wkb and cb beans",
+      "the beans",
+      "the control beans"
+    ]
+  }
+}

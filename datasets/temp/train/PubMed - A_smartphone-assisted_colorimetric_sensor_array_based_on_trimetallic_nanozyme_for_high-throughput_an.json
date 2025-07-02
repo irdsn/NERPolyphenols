@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "quercetin",
+  "title": "A smartphone-assisted colorimetric sensor array based on trimetallic nanozyme for high-throughput and on-site discrimination of antioxidants in vegetables and teas.",
+  "abstract": "Identification of antioxidants plays an important role in evaluating the quality of agricultural products. In this study, trimetallic nanozymes (FeCeCu metal-organic coordination polymers (FeCeCu-MOPs)) with excellent peroxidase (POD)-like activity were fabricated using a metal-organic coordination strategy. The POD-like activity was inhibited by antioxidants (glutathione, tannic acid, gallic acid, quercetin, and kaempferol), generating distinct colorimetric fingerprints for each antioxidant when combined with three chromogenic substrates (TMB, OPD, and ABTS). Accordingly, a three-channel colorimetric sensor array based on FeCeCu-MOPs was designed, to overcome the \"lock-key\" limitation of traditional sensors. This sensor array demonstrated excellent discrimination of the five antioxidants even at low concentrations (0.2 μM). It also exhibited high discrimination capability for mixtures of antioxidants. The detection limit for individual antioxidants was lower than 85 nM. The practical applicability of the sensor array was further validated through successful discrimination and detection of the antioxidants in real samples with good anti-interference performance. In addition, a smartphone-assisted FeCeCu-MOP sensor array was developed, enabling simple, on-site, and accurate identification of the five antioxidants in real samples. This study presents an innovative approach for the identification and detection of antioxidants in agricultural products.",
+  "publication_date": "2025-06-11",
+  "journal": "Talanta",
+  "doi": "10.1016/j.talanta.2025.128457"
+}

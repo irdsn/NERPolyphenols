@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols gut microbiota",
+  "title": "Metatranscriptomics reveals that plant tannins regulate the expression of intestinal antibiotic resistance genes in Qinghai voles (Neodon fuscus).",
+  "abstract": "Antibiotic resistance genes (ARGs) are a persistent harmful environmental pollutant, epidemic of ARGs thought to be a result of antibiotic misuse. Tannin acid (TA) is a natural plant compounds with bactericidal properties. Nowadays, TA is considered to be a potential replacement of antibiotics. However, the role of TA on ARGs is also not yet clear. To address this knowledge gap, we fed the model plateau animal Qinghai voles (Neodon fuscus) with different concentrations of TA. We used 16S rDNA sequencing for revealing total bacteria, 16S rRNA sequencing for revealing active bacteria, and metatranscriptomics (active function) sequencing for revealing ARGs and other functions. Our results showed that although TA reduced macrolide ARGs, TA group enriched 6-fold for tetracycline ARGs, 3-fold for multidrug ARGs, and 5-fold for aminoglycoside ARGs compared with control group. Moreover, TA reduced animal growth performance, and regulated gut microbiome more stable by improving microbial diversity. And TA promoted the production of short-chain fatty acids by gut microbes, such as lactate and acetate. This study reveals modulation of ARGs and gut microbiome by TA and also provides scientific value for the proper use of TA in feed and medical treatment.",
+  "publication_date": "2025-02-12",
+  "journal": "Environmental research",
+  "doi": "10.1016/j.envres.2025.121119",
+  "entities": {
+    "POLYPHENOL": [
+      "tannin acid"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Effects of Bisphenol A on the Risk of Developing Obesity.",
+  "abstract": "Every year the global incidence of obesity increases considerably and among the factors that favor it is bisphenol A (BPA), an endocrine disruptor widely used in plastics and omnipresent in many everyday objects.",
+  "publication_date": "2024-10-31",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu16213740",
+  "entities": {
+    "SYMPTOM": [
+      "obesity increases"
+    ],
+    "POLYPHENOL": [
+      "many everyday objects"
+    ]
+  }
+}

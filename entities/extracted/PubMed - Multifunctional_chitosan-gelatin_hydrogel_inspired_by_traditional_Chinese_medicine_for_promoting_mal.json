@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Multifunctional chitosan-gelatin hydrogel inspired by traditional Chinese medicine for promoting malignant wound healing.",
+  "abstract": "Hydrogel dressings have emerged as promising tools for wound healing applications. However, the complex chemical synthesis and high cost of components, such as cytokines and stem cells, in most existing designs challenge their practical application. In this study, we adopted a modular design approach and natural materials to overcome these limitations, dividing the hydrogels into three distinct functional modules. The base module consisted of an interpenetrating polymer network of gelatin and chitosan. The drug release module incorporated liposomes loaded with quercetin, while the auxiliary module utilized a complex of protocatechuic aldehyde and trivalent iron. The presence of Schiff base crosslinking and hydrogen bond formation between the three modules enhanced the self-healing properties and mechanical strength of the hydrogel. Notably, the modular hydrogel exhibited excellent antioxidant, antibacterial, macrophage differentiation, and collagen promotion capabilities. This multifunctional hydrogel demonstrated the potential to provide safe and effective treatment, accelerate wound repair processes, and serve as a promising dressing for diabetic wound management. By utilizing natural components and a modular design strategy, this hydrogel offers a practical and cost-effective solution for improving wound healing outcomes, particularly in drug-resistant and diabetic wounds.",
+  "publication_date": "2025-05-20",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144461",
+  "entities": {
+    "POLYPHENOL": [
+      "a practical and cost-effective solution",
+      "mechanical strength",
+      "protocatechuic aldehyde",
+      "quercetin",
+      "safe and effective treatment"
+    ]
+  }
+}

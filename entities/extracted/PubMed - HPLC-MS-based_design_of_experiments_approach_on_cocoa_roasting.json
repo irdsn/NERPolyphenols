@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "HPLC-MS-based design of experiments approach on cocoa roasting.",
+  "abstract": "Modern statistical methods, such as the design of experiments and response surface methodology, are widely used to describe changes in multiparameter processes during the processing of food in both science and technology contexts. However, these approaches are described to a lesser degree in the case of cocoa roasting than other foods and processes. Our study aimed to use the design of experiments to establish a model of cocoa roasting for relevant flavor-related constituents. We have used HPLC-MS techniques to link standard process parameters with chemical compounds changing in concentration during cocoa roasting. Influence of time, temperature, the addition of water, acid, and base, on relative concentrations of procyanidin monomers, dimers, and trimers, an Amadori compound, and a peptide, was shown. High-quality models for each compound were established and validated, displaying good prediction accuracy. Such an approach could be used to optimize processing conditions for cocoa roasting in order to influence the concentration of certain chemical compounds, and in turn, improving the flavor of chocolate products.",
+  "publication_date": "2021-04-28",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2021.129694",
+  "entities": {
+    "POLYPHENOL": [
+      "hplc-ms techniques",
+      "procyanidin monomers",
+      "technology"
+    ],
+    "FOOD": [
+      "chocolate products",
+      "cocoa roasting"
+    ]
+  }
+}

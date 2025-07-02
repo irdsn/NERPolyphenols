@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "The evaluation of metabolites and anti-acute liver injury ofEucommia ulmoidesOliv. during sweating processing.",
+  "abstract": "Sweating is an indispensable step in the bark ofEucommia ulmoidesOliv.(BEU), but some farmers always skipped the processing. As a result, the evaluations of metabolites and activities were needed to be studied to guide farmers to process BEU. Fingerprinting analysis revealed that the correlation coefficients ranged from 0.776 to 0.998, indicating that there were differences. And the result of content determination by HPLC from FG0 to FG10 revealed that the composition during sweating undergoes dynamic changes. In addition, 1002 metabolites were identified by widely targeted metabolome, and there were 145 metabolites with significant differences during sweating processing. The colour transition in BEU during sweating might be related to levels of Phenolic acids that occurred browning reaction. Lastly, the sample FG10 demonstrated the best anti-acute liver injury activity. This paper unfolded that sweating contributed to accumulation of active ingredients which played a major role in pharmacology.",
+  "publication_date": "2025-06-27",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2524860",
+  "entities": {
+    "SYMPTOM": [
+      "the best anti-acute liver injury activity"
+    ]
+  }
+}

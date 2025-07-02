@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Inhibition of human maltase-glucoamylase, sucrase-isomaltase and \u03b1-amylases by gallotannins and ellagitannins.",
+  "abstract": "This research explored the inhibitory effects of walnut (Juglans regia) (poly)phenols on key starch digesting enzymes including human brush border \u03b1-glucosidases, maltase-glucoamylase (MGAM) and sucrase-isomaltase (SI), as well as pancreatic and salivary \u03b1-amylases. SI was obtained from Caco-2/TC7 cell-free extracts, while, for the first time, full-length MGAM was obtained from human A549 cell lysates. Among the tested gallo- and ellagitannins, 1,2,6-tri-O-galloyl-\u03b2-d-glucose and 1,3,4,6-tetra-O-galloyl-\u03b2-d-glucose were good inhibitors of human SI activity (IC50values of 29.7\u00a0\u00b1\u00a05.5 and 45.1\u00a0\u00b1\u00a04.7\u00a0\u03bcM), with the latter also effectively inhibiting human \u03b1-amylases. In a (poly)phenolic-rich extract from walnuts, 1,2,6-tri-O-galloyl-\u03b2-d-glucose contributed 60\u00a0% of total sucrase inhibition, whereas 1,3,4,6-tetra-O-galloyl-\u03b2-d-glucose accounted for only 2\u00a0% of sucrase inhibition. All tested gallo- and ellagitannins demonstrated poor inhibition of maltotriose (glucoamylase) hydrolysing activity of human MGAM, whereas the walnut extract inhibited maltase activity by ~50\u00a0%. The data show that (poly)phenols from walnuts can inhibit only some of the enzymes involved in starch digestion.",
+  "publication_date": "2025-05-13",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144204",
+  "entities": {
+    "POLYPHENOL": [
+      "-galloyl",
+      "ellagitannins",
+      "the inhibitory effects"
+    ],
+    "FOOD": [
+      "the walnut extract",
+      "walnut",
+      "walnuts"
+    ]
+  }
+}

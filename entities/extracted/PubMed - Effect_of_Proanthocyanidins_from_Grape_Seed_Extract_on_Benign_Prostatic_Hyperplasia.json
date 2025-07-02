@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Effect of Proanthocyanidins from Grape Seed Extract on Benign Prostatic Hyperplasia.",
+  "abstract": "Benign prostatic hyperplasia (BPH) is one of the most common chronic diseases affecting the urinary tract that occurs mainly in men over 40 years of age. Among the natural therapies, proanthocyanidins (PACs), which can treat a wide range of immune-mediated inflammatory diseases (IMIDs), have been shown to play an important role in the treatment of pathologies concerning prostate health. In this regard, the present study aimed to evaluate the different bioactivities of a grape seed extract (GSE), rich in polymeric PACs, and its version processed under alkaline conditions (ATGSE), characterized by a higher content of oligomeric PACs, in an animal model of BPH induced by subcutaneous injection of testosterone (1 mg/mouse).",
+  "publication_date": "2024-12-28",
+  "journal": "Nutrients",
+  "doi": "10.3390/nu17010073",
+  "entities": {
+    "POLYPHENOL": [
+      "proanthocyanidins",
+      "subcutaneous injection"
+    ],
+    "FOOD": [
+      "a grape seed extract"
+    ]
+  }
+}

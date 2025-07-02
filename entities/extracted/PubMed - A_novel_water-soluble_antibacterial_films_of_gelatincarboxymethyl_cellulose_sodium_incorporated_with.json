@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "fruit polyphenols",
+  "title": "A novel water-soluble antibacterial films of gelatin/carboxymethyl cellulose sodium incorporated with Grifola frondosa polysaccharides and pearl powder for fruit preservation.",
+  "abstract": "Grifola frondosa polysaccharides (GFG) is a polysaccharide-protein complex, rich in hydrophilic groups, and has antioxidant and antibacterial biological activities. Nano-pearl powder (PP) with a large amount of calcium carbonate can be used as a chelating agent, antioxidant, and antibacterial agent. The incorporation of PP and GFG into gelatin/carboxymethyl cellulose sodium (G/C) is a novel approach for the development of bioactive edible films, in line with the concept of sustainability and environmental protection. The results of the multispectral analysis revealed electrostatic interactions, hydrogen bonding interactions, and chelation of calcium ions as the main driving forces to promote the self-assembly of composite films. The thermal stability, hydrophilicity, mechanical properties, and barrier properties were improved of the G/C film with the addition of PP/GFG. In particular, the G/C/PP/GFG film showed high inhibition rates of 98.52\u00a0\u00b1\u00a00.39% and 95.26\u00a0\u00b1\u00a01.18\u00a0% against Escherichia coli and Staphylococcus aureus. The loss of weight, hardness, ascorbic acid, polyphenols, solubile sugar, acidity and catalase was also clearly decreased. The addition of GFG/PP to the G/C film improved the storage quality and extended the shelf life of strawberries, which provided a novel method to improve the performance of the film for fruit preservation.",
+  "publication_date": "2025-04-30",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.143704",
+  "entities": {
+    "FOOD": [
+      "nano-pearl powder",
+      "strawberries"
+    ],
+    "POLYPHENOL": [
+      "electrostatic interactions",
+      "environmental protection",
+      "mechanical properties",
+      "polyphenols",
+      "the multispectral analysis"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Regulation of Petal Coloration by the Auxin Amide Hydrolase GeneRhILL1in Rose (Rosa hybrida).",
+  "abstract": "This study aimed to elucidate the regulatory mechanism of an auxin amide hydrolase gene (IAA-Leucine Resistant1-like Hydrolase,RhILL1) in the petal pigmentation of rose (Rosa hybrida), providing theoretical insight into the hormonal regulation of flower coloration at the molecular level.",
+  "publication_date": "2025-06-06",
+  "journal": "Genes",
+  "doi": "10.3390/genes16060691",
+  "entities": {
+    "POLYPHENOL": [
+      "the molecular level",
+      "the regulatory mechanism"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Responses of Soil Microbial Communities in an Alkalized Meadow Soil to Biochar Addition.",
+  "abstract": "Biochar is increasingly being applied to improve various degraded soils. However, studies on its use in ameliorating saline-alkaline grasslands remain limited. This study conducted experimental trials using soil collected from an alkalized meadow grassland in the Horqin Steppe, applying biochar with the application rates of 0, 1.5, 3.0, and 4.5 kg/m2in planting boxes. The objectives were to evaluate the effects of biochar addition on soil properties and microbial community and to explore the feasibility of using biochar for alkalized grassland improvement. Biochar addition to alkalized meadow soil enhanced the biomass of plantedAstragalus adsurgensand improved soil properties. Soil bulk density was reduced; porosity, moisture content, and field moisture capacity significantly increased; soil nutrients were significantly ameliorated. Simultaneously, soil enzyme activities, including urease, phosphomonoesterase, protease, and polyphenol oxidase, significantly increased. Biochar application altered the microbial community structures in the alkalized meadow soil, primarily through the shifts in the relative abundance of dominant taxa rather than the fundamental changes in dominant phyla or genera. Biochar addition significantly raised the abundance ofphoD- andnifH-harboring microorganisms, suggesting the enhancement in functions of soil N fixation and P transformation. Key factors influencing bacterial community structure included electrical conductivity, total P, total K, bulk density, and available K, whereas fungal communities were primarily affected by bulk density, porosity, and available N. Excessive biochar application can diminish its yield-enhancing effects, and the recommended biochar application rate for alkalized meadow grasslands in practice is 1.5 kg/m2. These findings are expected to provide experimental evidence for utilizing biochar in degraded grasslands improvement.",
+  "publication_date": "2025-05-27",
+  "journal": "Microorganisms",
+  "doi": "10.3390/microorganisms13061228",
+  "entities": {
+    "POLYPHENOL": [
+      "electrical conductivity",
+      "its yield-enhancing effects",
+      "polyphenol oxidase",
+      "the effects",
+      "the objectives",
+      "the recommended biochar application rate"
+    ]
+  }
+}

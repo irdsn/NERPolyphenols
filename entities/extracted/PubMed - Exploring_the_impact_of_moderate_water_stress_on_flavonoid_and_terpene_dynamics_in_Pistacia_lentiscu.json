@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Exploring the impact of moderate water stress on flavonoid and terpene dynamics in Pistacia lentiscus L. fruits: Implications for nutraceutical value during ripening.",
+  "abstract": "Pistacia lentiscus L., a Mediterranean evergreen shrub, is well-adapted to drought and valued for its nutraceutical properties. This study investigated how water stress affects the flavonoid and terpene composition of its fruits at two ripening stages: red (R1) and dark purple/black (R2) fruits. Female P. lentiscus plants were subjected to well-watered (WW) and water-stressed (WS) conditions. WW plants were irrigated to pot capacity, while WS plants received 70\u00a0% of the water lost through evapotranspiration. Physiological measurements such as stomatal conductance (gsw), maximum photochemical efficiency of photosystem II (Fv/Fm), relative water content (RWC), leaf water potential (\u03a8w) and chlorophyll index (Chli) were assessed. Total Terpenes Content (TTC) was analyzed in fruit oil by GC-MS, while Total Anthocyanins (TAC) and Flavonol Contents (TFC) were quantified in residual pellets with HPLC-DAD. Results showed that gswand \u03a8wdeclined in WS plants at both ripening stages, while RWC, Fv/Fm, and Chliwere unaffected, highlighting the species' water-conservative strategy which limited carbon availability for secondary metabolism. Consequently, water stress reduced TTC, TAC, and TFC at both stages. Despite this decline, stage-specific adjustments in flavonoid biosynthesis were observed, with R1 fruits favoring tri-hydroxylated flavonoids and R2 prioritizing di-hydroxylated forms. Additionally, \u03b2-myrcene increased in WS fruits at R1. These changes suggest an adaptive antioxidant defense mechanism combined with a resource-conservation strategy. These findings demonstrate that water stress modulates secondary metabolite pathways in P. lentiscus fruits, influencing their nutraceutical profile. Targeted irrigation strategies could optimize these metabolic responses, enhancing the fruit antioxidant and therapeutic potential.",
+  "publication_date": "2025-05-21",
+  "journal": "Phytochemistry",
+  "doi": "10.1016/j.phytochem.2025.114557",
+  "entities": {
+    "SYMPTOM": [
+      "water stress",
+      "water-stressed (ws) conditions"
+    ],
+    "POLYPHENOL": [
+      "an adaptive antioxidant defense mechanism",
+      "flavonoid biosynthesis",
+      "secondary metabolism",
+      "secondary metabolite pathways",
+      "stage-specific adjustments",
+      "the flavonoid and terpene composition",
+      "the species' water-conservative strategy",
+      "this decline",
+      "tri-hydroxylated flavonoids"
+    ]
+  }
+}

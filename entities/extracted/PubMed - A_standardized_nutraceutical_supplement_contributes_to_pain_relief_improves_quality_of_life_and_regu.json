@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "A standardized nutraceutical supplement contributes to pain relief, improves quality of life and regulates inflammation in knee osteoarthritis patients; A randomized clinical trial.",
+  "abstract": "Osteoarthritis (OA) is a degenerative disease of the joints that affects greatly the elderly population and the health care systems and is on the increase due to aging and obesity. Interventions aim at palliative care and pharmaceutical therapies entail serious adverse events. Whereas polyphenols constitute a promising holistic approach in the arsenal of physicians, trials investigating biomarkers and questionnaires are scarce. As such, a randomized controlled trial (RCT) was conducted to evaluate the potency of a standardized polyphenolic supplement in the management of systemic inflammation, oxidative stress, pain and general quality of life (QoL) in patients with osteoarthritis. Sixty subjects were randomized to receive either a polyphenol supplement (curcuma phospholipid, rosemary extract, resveratrol, ascorbic acid), or an active comparator (ascorbic acid) twice, daily for 12 weeks. The group that received the polyphenols exhibited significantly lower symptoms of pain and improved physical function and QoL as it was depicted by validated questionnaires, compared to the control group. Furthermore, post intervention, inflammation was restrained in the polyphenol group. Since systemic inflammation promotes local inflammation, the decrease of pain herein might be attributed to the attenuation of systemic inflammation by the polyphenols.",
+  "publication_date": "2023-09-14",
+  "journal": "Heliyon",
+  "doi": "10.1016/j.heliyon.2023.e20143",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "inflammation",
+      "local inflammation",
+      "obesity",
+      "oxidative stress",
+      "pain",
+      "pain herein",
+      "systemic inflammation"
+    ],
+    "POLYPHENOL": [
+      "a standardized polyphenolic supplement",
+      "either a polyphenol supplement",
+      "polyphenols",
+      "resveratrol",
+      "sixty subjects",
+      "the decrease",
+      "the polyphenol group",
+      "the polyphenols"
+    ],
+    "FOOD": [
+      "rosemary extract"
+    ]
+  }
+}

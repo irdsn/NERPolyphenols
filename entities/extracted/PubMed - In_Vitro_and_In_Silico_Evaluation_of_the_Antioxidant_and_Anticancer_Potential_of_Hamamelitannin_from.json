@@ -1,0 +1,33 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "In Vitro and In Silico Evaluation of the Antioxidant and Anticancer Potential of Hamamelitannin from Hamamelis virginiana.",
+  "abstract": "Oxidative stress, caused by an imbalance between harmful prooxidants and the body's natural antioxidant defenses, plays a major role in the development of cancer. Plant-based compounds, especially polyphenols, are being widely explored for their ability to fight oxidative damage and support cancer therapy. Hamamelitannin (HAM), a natural gallotannin found in Hamamelis virginiana, has shown promising biological activity, but its effects on oxidative stress and cancer are not yet well understood. In this study, we explored the antioxidant and anticancer potential of HAM using a combination of laboratory experiments and computer-based analyses. HAM was found to scavenge free radicals effectively in several in vitro assays, including DPPH, ABTS, hydrogen peroxide, and superoxide tests. In liver cancer (HepG2) cells, HAM reduced cell viability and increased LDH release, suggesting its ability to induce cell damage selectively. It also boosted the activity of key antioxidant enzymes (SOD, CAT, GPx) and reduced oxidative stress. Gene expression analysis revealed that HAM promoted cancer cell death by increasing pro-apoptotic markers (Bax, caspase-3, caspase-9). Molecular docking showed strong interactions between HAM and several key proteins involved in oxidative stress and apoptosis, which were further supported by molecular dynamics simulations confirming stable binding. Together, these findings suggest that HAM can protect cells from oxidative damage while promoting cancer cell death, pointing to its potential as a therapeutic agent for oxidative stress-related diseases like liver cancer. Further in vivo studies are needed to fully understand its effectiveness and underlying mechanisms.",
+  "publication_date": "2025-06-23",
+  "journal": "Cell biochemistry and biophysics",
+  "doi": "10.1007/s12013-025-01798-z",
+  "entities": {
+    "SYMPTOM": [
+      "apoptosis",
+      "cancer",
+      "cancer cell death",
+      "cell damage",
+      "liver cancer",
+      "oxidative damage",
+      "oxidative stress",
+      "oxidative stress-related diseases",
+      "support cancer therapy",
+      "the antioxidant and anticancer potential"
+    ],
+    "POLYPHENOL": [
+      "a natural gallotannin",
+      "especially polyphenols",
+      "hamamelitannin",
+      "its effectiveness",
+      "its effects",
+      "molecular docking",
+      "molecular dynamics simulations",
+      "underlying mechanisms"
+    ]
+  }
+}

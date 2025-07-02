@@ -1,0 +1,9 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Single nucleotide polymorphism (SNP) analysis reveals ancestry and genetic diversity of cultivated and wild grapevines in Croatia.",
+  "abstract": "Croatia is a geographically small country with a remarkable diversity of cultivated and spontaneous grapevines. Local germplasm has been characterised by microsatellite markers, but a detailed analysis based on single nucleotide polymorphisms (SNPs) is still lacking. Here we characterize the genetic diversity of 149 accessions from three germplasm repositories and four natural sites using 516,101 SNPs to identify complete parent-offspring trios and their relations with spontaneous populations, offering a proof-of-concept for the use of reduced-representation genome sequencing in population genetics and genome-wide association studies (GWAS).",
+  "publication_date": "2024-10-17",
+  "journal": "BMC plant biology",
+  "doi": "10.1186/s12870-024-05675-4"
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "2-Hydroxychalcone Attenuates Airway Inflammation, Oxidative Stress, and NF-\u03baB Activation in Ovalbumin-Induced Asthma Model.",
+  "abstract": "BackgroundAsthma is a pulmonary disorder marked by limited lung function and a noticeable infiltrate of inflammatory cells. Chalcones are commonly found in food plants and are regarded as precursors of flavonoids. Moreover, they can also be synthesized by chemical processes in controlled laboratory conditions. 2-Hydroxychalcone (2HC) has been associated with several biological functions, such as antioxidant, anti-inflammatory, antidiabetic, and anticancer properties. However, we have yet to study its potential for treating asthma. This study aimed to investigate the inhibitory effects of 2HC on allergic asthma.MethodsWe established a mouse model of asthma by subjecting BALB/c mice to ovalbumin (OVA) exposure and sensitization. We conducted a study to examine the impact of 2HC on airway inflammation, the infiltration of inflammatory cells, oxidative stress, excessive mucus production, immunoglobulin E (IgE) levels, and the production of IL-4 and IL-1\u03b2. In addition, NF-\u03baB expression was quantified using ELISA and immunohistochemistry (IHC).ResultsThe administration of 2HC resulted in a considerable reduction in lung oxidative stress, infiltration of inflammatory cells, levels of IgE, IL-4, and IL-1\u03b2, production of mucus, and activation of NF-\u03baB.ConclusionOur findings showed that 2HC is anti-inflammatory and antioxidant, suggesting that it may be useful in treating asthma by blocking NF-\u03baB activation.",
+  "publication_date": "2025-06-27",
+  "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+  "doi": "10.1080/02770903.2025.2526384",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "precursors",
+      "subjecting balb/c mice",
+      "the inhibitory effects"
+    ],
+    "SYMPTOM": [
+      "airway inflammation",
+      "antioxidant, anti-inflammatory, antidiabetic, and anticancer properties",
+      "lung oxidative stress",
+      "oxidative stress"
+    ]
+  }
+}

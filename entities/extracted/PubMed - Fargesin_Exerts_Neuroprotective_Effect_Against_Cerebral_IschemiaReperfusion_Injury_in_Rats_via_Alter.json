@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Fargesin Exerts Neuroprotective Effect Against Cerebral Ischemia/Reperfusion Injury in Rats via Alteration of NF-\u03baB Signaling Pathway.",
+  "abstract": "Neuro-inflammation is an important contributor in neurological disorders. Increased levels of cytokines and inflammatory markers are observed during brain damage. Fargesin is a naturally occurring compound classified as a lignan, a type of polyphenol frequently found in plants. It is particularly notable for its abundance in certain medicinal plants, such as Magnolia species, which are extensively used in traditional Asian medicine. Fargesis possess the potent antioxidant and anti-inflammatory effect. We aim to investigate the inflammatory pathway-mediated neuroprotective effect of fargesin against cerebral ischemia/reperfusion (I/R) injury in rats. Different doses of fargesin were administered to the rats before they performed 2\u2009h of right middle cerebral artery occlusion (MCAO) using the intraluminal filament technique, followed by 22\u2009h of reperfusion. Neurological score, brain edema, brain water content, evans blue leakage, sodium (Na+)/calcium (Ca2+)/potassium (K+) ATPase, antioxidant, cytokines, matrix metalloproteinases (MMP) and inflammatory parameters were estimated. Treatment with fargesin significantly (p\u2009<\u20090.001) suppressed the neurological parameters alongwith reduction of brain water content, brain edema, evans blue leakage and infract volume. Fargesin treatment remarkably (p\u2009<\u20090.001) suppressed the level of malonaldehyde (MDA) and boosted the level of superoxide dismutase (SOD), glutathione reductase (GR), catalase (CAT), glutathione (GSH), glutathione peroxidase (GPx) along with alteration of inflammatory cytokines such as tumor necrosis factor-\u03b1 (TNF-\u03b1), interleukin (IL)-1\u03b2, IL-6 and IL-10. Fargesin treatment significantly (p\u2009<\u20090.001) suppressed the level of inflammatory parameters inducible nitric oxide synthase (iNOS), cyclooxygenase-2 (COX-2), prostaglandin (PGE2), Nuclear factor kappa factor (NF-\u03baB), transforming growth factor-\u03b2 (TGF-\u03b2) and MMP level such as MMP-2, MMP-3 and MMP-9 level. Fargesin treatment remarkably suppressed the mRNA expression of Toll-like receptor 4 (TLR4), syndecan, colony-stimulating factor (CSF), aquaporin-1, REX1 and organic cation transporter 3 (OCT3). Fargesin demonstrated a brain protective effect against cerebral ischemia reperfusion through a lowering of inflammatory markers.",
+  "publication_date": "2025-06-01",
+  "journal": "Journal of biochemical and molecular toxicology",
+  "doi": "10.1002/jbt.70354",
+  "entities": {
+    "SYMPTOM": [
+      "neuro-inflammation"
+    ],
+    "POLYPHENOL": [
+      "a brain protective effect",
+      "magnolia species",
+      "polyphenol",
+      "the inflammatory pathway-mediated neuroprotective effect",
+      "the intraluminal filament technique",
+      "the potent antioxidant and anti-inflammatory effect",
+      "toll-like receptor",
+      "tumor necrosis factor"
+    ]
+  }
+}

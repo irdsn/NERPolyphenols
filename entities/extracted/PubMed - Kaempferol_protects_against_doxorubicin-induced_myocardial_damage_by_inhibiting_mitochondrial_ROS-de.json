@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Kaempferol protects against doxorubicin-induced myocardial damage by inhibiting mitochondrial ROS-dependent ferroptosis.",
+  "abstract": "Doxorubicin (DOX), a widely used chemotherapeutic agent, is limited in clinical application due to its dose-dependent cardiotoxicity. Therefore, it is crucial to explore alternative therapeutic molecules or drugs for mitigating DOX-induced cardiomyopathy (DIC). In this study aimed to explore underlying mechanisms of the cardioprotective effects of Kaempferol (KP) against DIC.",
+  "publication_date": "2025-05-13",
+  "journal": "Redox report : communications in free radical research",
+  "doi": "10.1080/13510002.2025.2503130",
+  "entities": {
+    "POLYPHENOL": [
+      "alternative therapeutic molecules",
+      "kaempferol",
+      "the cardioprotective effects",
+      "underlying mechanisms"
+    ],
+    "SYMPTOM": [
+      "dox-induced cardiomyopathy (dic"
+    ]
+  }
+}

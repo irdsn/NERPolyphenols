@@ -1,0 +1,14 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Effect of screw pressing temperature on yield, bioactive compounds, and quality of hemp (Cannabis sativa L.) seed oil.",
+  "abstract": "Screw press extraction is widely used due to its simplicity and efficiency, but the impact of extraction temperature on oil characteristics requires further study. Existing studies highlight that high temperatures can improve yield but compromise oil quality. This study aims to assess the effects of different screw press extraction temperatures on hemp oil yield, composition and quality.",
+  "publication_date": "2025-06-18",
+  "journal": "Journal of cannabis research",
+  "doi": "10.1186/s42238-025-00296-6",
+  "entities": {
+    "POLYPHENOL": [
+      "the effects"
+    ]
+  }
+}

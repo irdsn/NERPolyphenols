@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Research opportunities: Traditional fermented beverages in Mexico. Cultural, microbiological, chemical, and functional aspects.",
+  "abstract": "In Mexico, close to 200 fermented products have been described, of which, approximately 20 are beverages. They were obtained through rustic and ancestral fermentation methods by different indigenous Mexican communities; most of them were used in ceremonies, agricultural work, and other occasions. For their elaboration, different substrates obtained from plants are used, where uncontrolled and low-scale spontaneous anaerobic fermentation occurs. In Mexico, some of these products are considered as nutritional sources and functional beverages; the study of those products has revealed the presence of multiple compounds of biological importance. Additionally, elder generations attribute healing properties against diverse illnesses to these beverages. The aim of this review is to highlight the available information on twelve traditional Mexican fermented beverages, their traditional uses, and their fermentation processes along with toxicological, chemical, nutritional, and functional studies as seen from different areas of investigation. In the literature, pulque, cocoa, and pozol were the beverages with the greatest amount of described health properties; sendech\u00f3 and guarapo were less characterized. Polyphenols, gallic and ferulic acid, anthocyanins and saponins were the most abundant molecules in all beverages. Finally, it is important to continue this research in order to determine the microorganisms that are involved in the fermentation process, as well as the organoleptic and beneficial properties they lend to the traditional Mexican fermented beverages.",
+  "publication_date": "2021-05-31",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2021.110482",
+  "entities": {
+    "FOOD": [
+      "cocoa"
+    ],
+    "POLYPHENOL": [
+      "polyphenols",
+      "sendech\u00f3",
+      "the most abundant molecules"
+    ]
+  }
+}

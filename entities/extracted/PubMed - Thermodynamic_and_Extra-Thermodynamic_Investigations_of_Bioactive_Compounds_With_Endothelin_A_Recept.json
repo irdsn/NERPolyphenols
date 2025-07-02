@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "phenolic acids",
+  "title": "Thermodynamic and Extra-Thermodynamic Investigations of Bioactive Compounds With Endothelin A Receptor by Nonlinear Chromatography.",
+  "abstract": "Understanding the thermodynamic and extra-thermodynamic interactions of a ligand to its target can provide important insights into ligand affinity and efficiency. Using endothelin receptor A (ETAR) as an example, ETAR was immobilized on ibrutinib-modified silica gels to prepare affinity stationary phase. After specificity and stability characterization, the affinity column was utilized to investigate the interactions between four ligands with ETAR. The four ligands were ambrisentan, paeoniflorin (PAE), ferulic acid (FA), and salvianolic acid B (SAB). Nonlinear chromatography was applied to determine the affinities of the ligands with ETAR at temperature range of 283.15~318.15\u2009K. Entropy change (\u0394H), enthalpy change (\u0394S), and Gibbs free energy change (\u0394G) were determined. The \u0394H and \u0394S remain constant for ambrisentan and PAE. While enthalpy-entropy compensation happened for FA and SAB, indicating conformational changes occurred during the binding of them with ETAR. PAE had similar thermodynamic behaviors to ambrisentan (an approved drug targeting ETAR for the treatment of pulmonary arterial hypertension), implying that the ligand has greater possibilities to be a lead than FA and SAB. This result was also confirmed by a survey of DrugBank. Together, the method may become an alternative for predicting the druglike property of a newly discovered bioactive compound.",
+  "publication_date": "2025-06-01",
+  "journal": "Biomedical chromatography : BMC",
+  "doi": "10.1002/bmc.70149",
+  "entities": {
+    "POLYPHENOL": [
+      "endothelin receptor",
+      "ibrutinib-modified silica gels",
+      "specificity and stability characterization"
+    ],
+    "SYMPTOM": [
+      "pulmonary arterial hypertension"
+    ]
+  }
+}

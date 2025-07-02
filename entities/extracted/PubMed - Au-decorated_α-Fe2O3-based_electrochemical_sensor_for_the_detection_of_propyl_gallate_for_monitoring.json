@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Au-decorated \u03b1-Fe2O3-based electrochemical sensor for the detection of propyl gallate for monitoring preservative levels in packaged foods.",
+  "abstract": "In this study, we developed an electrochemical sensor based on Au-decorated iron oxide (Au@Fe2O3) for the sensitive and selective detection of propyl gallate (PG). Iron oxide is an affordable and biocompatible material exhibiting considerable electrochemical activity. Herein, Au nanoparticles were added at a minimum concentration to the iron oxide matrix to enhance the conductivity and catalytic properties. Electrochemical studies demonstrated that the Au@Fe2O3-modified SPE sensor exhibited excellent sensitivity, a low limit of detection (10.3\u00a0nM), and a wide linear detection range (0.16-500\u00a0\u03bcM), enabling effective PG detection even in the presence of interfering compounds. It performed well in real sample tests conducted using different commercial food samples, demonstrating high recovery rates and low relative standard deviations. Through density functional theory studies, the highest occupied molecular orbital and lowest unoccupied molecular orbital of PG were analyzed, and electron affinity was determined as 1.89\u00a0eV to understand the redox-active site.",
+  "publication_date": "2025-05-08",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144597",
+  "entities": {
+    "POLYPHENOL": [
+      "a wide linear detection range",
+      "an electrochemical sensor",
+      "au-decorated iron oxide",
+      "considerable electrochemical activity",
+      "detection",
+      "effective pg detection",
+      "electrochemical studies",
+      "electron affinity",
+      "high recovery rates",
+      "the highest occupied molecular orbital and lowest unoccupied molecular orbital",
+      "the sensitive and selective detection"
+    ]
+  }
+}

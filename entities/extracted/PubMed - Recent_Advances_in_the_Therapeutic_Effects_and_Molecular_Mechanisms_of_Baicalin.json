@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Recent Advances in the Therapeutic Effects and Molecular Mechanisms of Baicalin.",
+  "abstract": "Baicalin, a kind of polyphenolic flavonoid, is a major bioactive flavone derived from the root ofScutellaria baicalensis, which has been widely utilized in clinical practice in China for thousands of years. In recent years, it has attracted increasing attention due to its potential therapeutic properties observed in preclinical studies involving various disease models. However, the precise mechanisms underlying its biological activities have not been fully elucidated. This review summarizes recent research progress on the molecular mechanisms through which baicalin exerts its effects, particularly in tumor suppression, cardiovascular protection, neuronal preservation, and glucose and lipid metabolism regulation in murine models. Additionally, we discuss the delivery methods of baicalin and its transformation by intestinal microbiota.",
+  "publication_date": "2025-05-30",
+  "journal": "Biology",
+  "doi": "10.3390/biology14060637",
+  "entities": {
+    "POLYPHENOL": [
+      "cardiovascular protection",
+      "its effects",
+      "polyphenolic flavonoid",
+      "preclinical studies",
+      "recent research progress",
+      "recent years",
+      "the molecular mechanisms",
+      "the precise mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source": "PubMed",
+  "query": "phenolic compounds metabolic syndrome",
+  "title": "Higher phenolic acid intake independently associates with lower prevalence of insulin resistance and non-alcoholic fatty liver disease.",
+  "abstract": "The inverse association between non-alcoholic fatty liver disease (NAFLD) and diets rich in fruit and vegetables has been demonstrated, but the specific compounds that may be responsible for this association need to be elucidated. The aim of this study was to test the association between phenolic acid consumption, NAFLD, and insulin resistance (IR).",
+  "publication_date": "2020-01-28",
+  "journal": "JHEP reports : innovation in hepatology",
+  "doi": "10.1016/j.jhepr.2020.100069",
+  "entities": {
+    "POLYPHENOL": [
+      "the specific compounds"
+    ],
+    "SYMPTOM": [
+      "insulin resistance"
+    ]
+  }
+}

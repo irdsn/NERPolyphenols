@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols inflammation",
+  "title": "Rosmarinic acid attenuates photophobia, hyperalgesia and neuroinflammation during nitroglycerine induced migraine like headache in mice.",
+  "abstract": "Rosmarinic acid (RA) is a polyphenolic compound with considerable anti-inflammatory and neuroprotective activities. Migraine is characterised by neuroinflammation, oxidative stress, and pain hypersensitivity. This study evaluated effects of RA in a nitroglycerine (NG) induced model of migraine like headache with sumatriptan as a standard drug. Mice were divided into five groups namely: control, NG-treated, NG\u2009+\u2009RA (20\u2009mg/kg), NG\u2009+\u2009RA (40\u2009mg/kg), and NG\u2009+\u2009sumatriptan. It was observed that NG administration led to reduced pain thresholds, increased head-scratching, photosensitivity, elevated nitrite levels, oxidative stress, and upregulated neuroinflammatory markers (IL-6, TNF-\u03b1, COX-2, CGRP). RA, particularly at 40\u2009mg/kg, significantly reversed these effects by enhancing antioxidant enzyme activity, reducing inflammation, and improving neuronal integrity. Histopathological analysis revealed reduced satellitosis and preserved cortical and trigeminal nucleus caudalis structures. These findings highlight RA's neuroprotective, anti-inflammatory, and antioxidant properties, suggesting its potential as a therapeutic agent for migraine.",
+  "publication_date": "2025-06-07",
+  "journal": "Natural product research",
+  "doi": "10.1080/14786419.2025.2515274",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenolic compound",
+      "considerable anti-inflammatory and neuroprotective activities",
+      "effects",
+      "rosmarinic acid",
+      "these effects"
+    ],
+    "SYMPTOM": [
+      "inflammation",
+      "neuroinflammation",
+      "oxidative stress",
+      "pain hypersensitivity",
+      "reduced pain thresholds"
+    ]
+  }
+}

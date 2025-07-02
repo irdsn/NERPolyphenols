@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Basic constituents, bioactive compounds and health-promoting benefits of wine skin pomace: A comprehensive review.",
+  "abstract": "Wine pomace (WP) is a major byproduct generated during winemaking, and skin pomace (SKP) comprises one of the most valuable components of WP. Since SKP differs in composition and properties from seed pomace (SDP), precise knowledge of SKP will aid the wine industry in the development of novel, high-value products. The current review summarizes recent advances in research relating to SKP presents a comprehensive description of the generation, composition, and bioactive components, primarily focusing on the biological activities of SKP, including antioxidant, gastrointestinal health promotion, antibacterial, anti-inflammatory, anticancer, and metabolic disease alleviation properties. Currently, the separation and recovery of skins and seeds is an important trend in the wine industry for the disposal of winemaking byproducts. In comparison to SDP, SKP is rich in polyphenols including anthocyanins, flavonols, phenolic acids, stilbenes, and some proanthocyanidins, as well as dietary fiber (DF). These distinctive benefits afford SKP the opportunity for further development and application. Accordingly, the health-promoting mechanism and appropriate application of SKP will be further elucidated in terms of physiological activity, with the progress of biochemical technology and the deepening of related research.",
+  "publication_date": "2023-03-30",
+  "journal": "Critical reviews in food science and nutrition",
+  "doi": "10.1080/10408398.2023.2195495",
+  "entities": {
+    "FOOD": [
+      "the wine industry",
+      "wine pomace",
+      "winemaking",
+      "winemaking byproducts"
+    ],
+    "POLYPHENOL": [
+      "biochemical technology",
+      "polyphenols",
+      "precise knowledge",
+      "recent advances",
+      "recovery",
+      "some proanthocyanidins",
+      "the health-promoting mechanism"
+    ]
+  }
+}

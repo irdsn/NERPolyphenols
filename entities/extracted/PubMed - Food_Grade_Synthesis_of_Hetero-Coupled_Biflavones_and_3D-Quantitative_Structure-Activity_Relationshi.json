@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Food Grade Synthesis of Hetero-Coupled Biflavones and 3D-Quantitative Structure-Activity Relationship (QSAR) Modeling of Antioxidant Activity.",
+  "abstract": "Biflavonoids are a unique subclass of dietary polyphenolic compounds known for their diverse bioactivities. Despite these benefits, these biflavonoids remain largely underexplored due to their limited natural availability and harsh conditions required for their synthesis, which restricts broader research and application in functional foods and nutraceuticals. To address this gap, we synthesized a library of rare biflavonoids using a radical-nucleophile coupling reaction previously reported by our group. The food grade coupling reaction under weakly alkaline water at room temperature led to isolation of 28 heterocoupled biflavones from 11 monomers, namely 3',4'-dihydroxyflavone, 5,3',4'-trihydroxyflavone, 6,3',4'-trihydroxyflavone, 7,3',4'-trihydroxyflavone, diosmetin, chrysin, acacetin, genistein, biochanin A, and wogonin. The structures of the dimers are characterized by nuclear magnetic resonance spectroscopy (NMR) and high-resolution mass spectroscopy (HRMS). In addition, we evaluated the antioxidant potential of these biflavones using a DPPH (2,2-diphenyl-1-picrylhydrazyl) radical scavenging assay and the DPPH value ranges between 0.75 to 1.82 mM of Trolox/mM of sample across the 28 synthesized dimers. Additionally, a three-dimensional quantitative structure-activity relationship (3D-QSAR) analysis was conducted to identify structural features associated with enhanced antioxidant activity. The partial least squares (PLS) regression QSAR model showed acceptable r2= 0.936 and q2= 0.869. Additionally, the average local ionization energy (ALIE), electrostatic potential (ESP), Fukui index (F-), and electron density (ED) were determined to identify the key structural moiety that was capable of donating electrons to neutralize reactive oxygen species.",
+  "publication_date": "2025-06-16",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "doi": "10.3390/antiox14060742",
+  "entities": {
+    "POLYPHENOL": [
+      "biflavonoids",
+      "chrysin",
+      "dietary polyphenolic compounds",
+      "electron density",
+      "electrons",
+      "electrostatic potential",
+      "genistein",
+      "high-resolution mass spectroscopy",
+      "nuclear magnetic resonance spectroscopy",
+      "rare biflavonoids",
+      "reactive oxygen species",
+      "these biflavonoids"
+    ],
+    "FOOD": [
+      "functional foods"
+    ]
+  }
+}

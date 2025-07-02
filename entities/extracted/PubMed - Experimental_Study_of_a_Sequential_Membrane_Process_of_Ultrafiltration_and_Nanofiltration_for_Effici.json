@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Experimental Study of a Sequential Membrane Process of Ultrafiltration and Nanofiltration for Efficient Polyphenol Extraction from Wine Lees.",
+  "abstract": "The wine industry is a sector of great importance in the Spanish economy, contributing substantial annual revenues. However, one challenge facing the industry is the amount of waste generated, reaching millions of tons annually. These residues consist of organic matter of industrial interest, such as polyphenols. These substances are characterised by their excellent antioxidant properties, making them ideal for use in the food, cosmetic, and pharmaceutical industries. Modern techniques, such as membrane technology, are explored for their extraction based on separating compounds according to size. This work studies a sequential filtration process using ultrafiltration (UF) and nanofiltration (NF) membranes at different operating conditions (2 bar and 9.5 bar for UF and NF, respectively, at 20 \u00b0C) to extract polyphenols from wine lees. The results show a total polyphenols rejection rate for each process of 54% for UF and 90% for NF. Pore blocking models have been studied for the UF process and an intermediate pore blocking of the membrane upon wine lees filtration has been identified. A mathematical model that justifies the behavior of a polymeric NF membrane with the filtration of pre-treated vinasse residues has been validated. This study shows a viable process for extracting polyphenols from wine lees with sequential membrane technology.",
+  "publication_date": "2024-03-30",
+  "journal": "Membranes",
+  "doi": "10.3390/membranes14040082",
+  "entities": {
+    "FOOD": [
+      "the wine industry",
+      "wine lees",
+      "wine lees filtration"
+    ],
+    "POLYPHENOL": [
+      "a sector",
+      "a total polyphenols rejection rate",
+      "membrane technology",
+      "modern techniques",
+      "polyphenols",
+      "sequential membrane technology",
+      "the spanish economy"
+    ]
+  }
+}

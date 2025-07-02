@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Ripening Stage and Phenolic Composition Characterization of Fruit from Different Date (Phoenix dactyliferaL.) Cultivars in Australia.",
+  "abstract": "We analyzed the antioxidant potential and composition of phenolic compounds in six Australian date palm cultivars (Mejhoul, Barhee, Deglet nour, Thoory, Halawi, and Khadrawy) at three ripening stages:Kimri,Khalal, andTamar. Total phenolic content in date fruits at theKimristage ranged from 19.7 to 117.5\u2009mg GAE/g, significantly exceeding that of theKhalal(1.22-24.4\u2009mg GAE/g) and theTamarstages (0.47-8.72\u2009mg GAE/g). Date fruits at theKimristage had higher antioxidant potential quantified in assays such as DPPH, FRAP, ABTS, RAP, FICA, and TAC compared to those at theKhalalandTamarstages. The LC-ESI-QTOF-MS/MS analysis identified 28 phenolic compounds, categorized as 4 phenolic acids, 17 flavonoids, and 7 other phenolic compounds. Quantitative analysis using LC-DAD suggested cultivar-specific variations in the phenolic profile, with the Khadrawy cultivar having the highest quercetin content during theKimristage. At theKhalalripening stage, Thoory and Mejhoul cultivars had higher quercetin and procyanidin A2 concentrations, respectively. At theTamarstage, the Deglet nour cultivar had higher concentrations of procyanidin A2, gallic acid, and caffeic acid as compared to other date cultivars. Our findings indicate that the phenolic content decreases as date fruit matures from theKimritoTamarstage, with significant variations in phenolic composition and antioxidant capacity across different cultivars.",
+  "publication_date": "2025-05-03",
+  "journal": "Food science & nutrition",
+  "doi": "10.1002/fsn3.70221",
+  "entities": {
+    "POLYPHENOL": [
+      "17 flavonoids",
+      "28 phenolic compounds",
+      "7 other phenolic compounds",
+      "cultivar-specific variations",
+      "higher quercetin",
+      "phenolic compounds",
+      "procyanidin a2 concentrations",
+      "procyanidin a2, gallic acid, and caffeic acid",
+      "the highest quercetin content"
+    ]
+  }
+}

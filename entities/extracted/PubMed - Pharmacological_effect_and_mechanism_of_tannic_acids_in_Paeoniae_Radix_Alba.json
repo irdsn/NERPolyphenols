@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "[Pharmacological effect and mechanism of tannic acids in Paeoniae Radix Alba].",
+  "abstract": "The chemical composition of Paeoniae Radix Alba(PRA) is complex, with primary secondary metabolites including monoterpenoids, tannins, triterpenoids, and flavonoids. In previous studies on the material basis of PRA, it was found that, in addition to the widely studied characteristic monoterpene glycosides, tannic acid components also play an important role in the efficacy of PRA. However, their pharmacological effects have not been thoroughly investigated. This paper reviews the tannic acid components in PRA, including pentagaloyl glucose(PGG), tetragaloyl glucose(TGG), trigaloyl glucose(TriGG), and gallic acid, along with their structures, properties, and characteristics to provide a detailed discussion of their pharmacological activities and related mechanisms, aiming to offer a theoretical basis for the material basis research and clinical application of PRA.",
+  "publication_date": "2025-05-01",
+  "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+  "doi": "10.19540/j.cnki.cjcmm.20241219.301",
+  "entities": {
+    "POLYPHENOL": [
+      "flavonoids",
+      "primary secondary metabolites",
+      "related mechanisms",
+      "tannins",
+      "their pharmacological effects"
+    ]
+  }
+}

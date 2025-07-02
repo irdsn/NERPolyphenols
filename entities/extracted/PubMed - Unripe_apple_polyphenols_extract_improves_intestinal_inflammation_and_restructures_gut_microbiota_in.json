@@ -1,0 +1,28 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Unripe apple polyphenols extract improves intestinal inflammation and restructures gut microbiota in spontaneously hypertensive rats.",
+  "abstract": "Natural polyphenolic extracts have been recognized to reduce the risk of hypertension. Coupled with evidence that gut dysbiosis is tightly linked to the development of hypertension, we hypothesized that modulating gut microbiota may be associated with the benefits of unripe apple polyphenols extract (UAPE). This study aimed to explore the effects of UAPE on hypertension and its complications, while elucidating the underlying mechanisms in spontaneously hypertensive rats (SHR). SHR received either vehicle (ddH2O), captopril (30\u00a0mg/kg body weight/day), or low-dose (10\u00a0mg/kg body weight/day), middle-dose (50\u00a0mg/kg body weight/day), or high-dose (250\u00a0mg/kg body weight/day) UAPE by oral gavage daily for 8\u00a0weeks. Concurrently, Wistar-Kyoto (WKY) rats received vehicle to serve as normotensive controls. We observed that UAPE offered protective effects against hypertension-induced blood pressure elevation (systolic blood pressure, diastolic blood pressure), glycolipid metabolic disorders (serum lipids, glucose), and renal damage (serum creatinine, renal histopathology) in SHR. Additionally, UAPE exerted gut health benefits via enhancing intestinal barrier integrity (colonic and ileal histopathology, colonic tight junction protein 1 and Occludin mRNA and protein) and mitigating intestinal inflammation (colonic TNF\u03b1 and IL-6 mRNA) in SHR. Moreover, UAPE effectively alleviated the development of left ventricular hypertrophy (cardiac histopathology, echocardiography) and endothelial dysfunction (serum endothelial nitric oxide synthase, endothelin-1), both critical markers of hypertensive progression. Mechanistically, the anti-inflammatory effects of UAPE may be linked to the colonic inhibition of the HMGB1-TLR4-NF-\u03baB signaling pathway (mRNA and protein for colonic HMGB1, TLR4, and P-P65) in SHR. Notably, UAPE elevated microbial richness and diversity, normalizing the Firmicutes/Bacteroidetes ratio. Besides, UAPE increased the beneficial bacteria linked to healthy states, including Intestinimonas_butyriciproducens, Lactobacillus_intestinalis, Ruminiclostridium, Oscillibacter_sp., and Bifidobacterium, reduced the harmful bacteria related to hypertension, upregulated health-promoting microbial function, and elevated the concentrations of gut microbiota-derived short chain fatty acids, including acetic acid and butyric acid, in SHR. Collectively, these observations support the antihypertensive effects of UAPE in the SHR model, highlighting the intimate link between UAPE, gut microbiota, and hypertension. Our findings provide novel insights into the UAPE-mediated improvements in hypertension and its complications, which may be intricately linked to the modulation of the microbiota-gut axis.",
+  "publication_date": "2025-04-21",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.116418",
+  "entities": {
+    "POLYPHENOL": [
+      "echocardiography",
+      "natural polyphenolic extracts",
+      "protective effects",
+      "the anti-inflammatory effects",
+      "the antihypertensive effects",
+      "the effects",
+      "the underlying mechanisms",
+      "unripe apple polyphenols"
+    ],
+    "SYMPTOM": [
+      "endothelial dysfunction",
+      "gut dysbiosis",
+      "hypertension",
+      "hypertension-induced blood pressure elevation",
+      "intestinal inflammation"
+    ]
+  }
+}

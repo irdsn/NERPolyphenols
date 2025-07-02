@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "chlorogenic acid",
+  "title": "Comparison of the anti-hyperuricemia effects of several cinnamic acid derivatives.",
+  "abstract": "Cinnamic acid derivatives, such as p-coumaric acid, caffeic acid, ferulic acid, and chlorogenic acid, exhibit uric acid-lowering effects through the inhibition of xanthine oxidase (XOD). While the clinically used XOD inhibitor allopurinol is associated with significant side effects, these natural polyphenolic compounds exhibit comparable efficacy with improved safety.",
+  "publication_date": "2025-05-09",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.14341",
+  "entities": {
+    "POLYPHENOL": [
+      "caffeic acid",
+      "chlorogenic acid",
+      "cinnamic acid derivatives",
+      "ferulic acid",
+      "p-coumaric acid",
+      "significant side effects",
+      "these natural polyphenolic compounds",
+      "uric acid-lowering effects"
+    ]
+  }
+}

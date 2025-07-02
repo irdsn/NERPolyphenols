@@ -1,0 +1,30 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "The Polyphenol (-)-Epigallocatechin-3-gallate (EGCG) Inhibits the Proliferation of Gastric Cancer Cells and Alters microRNA Signatures.",
+  "abstract": "The polyphenol (-)-epigallocatechin-3-gallate (EGCG), a primary catechin found in green tea, is known to inhibit cell proliferation and induce apoptosis in various cultured cells. However, its effect on gastric cancer cells and its effects on miRNA expression remain poorly understood. This study aimed to examine the effects of EGCG on gastric cancer cellsin vitroandin vivoand analyze the expression profiles of microRNAs (miRNAs) in EGCG-treated gastric cancer cells, with the ultimate goal of elucidating the anticancer mechanisms of EGCG.",
+  "publication_date": "2025-06-01",
+  "journal": "Anticancer research",
+  "doi": "10.21873/anticanres.17660",
+  "entities": {
+    "POLYPHENOL": [
+      "(-)-epigallocatechin-3-gallate",
+      "a primary catechin",
+      "egcg",
+      "egcg-treated gastric cancer cells",
+      "its effect",
+      "its effects",
+      "the anticancer mechanisms",
+      "the effects",
+      "the polyphenol"
+    ],
+    "FOOD": [
+      "green tea"
+    ],
+    "SYMPTOM": [
+      "apoptosis",
+      "gastric cancer cells",
+      "gastric cancer cellsin"
+    ]
+  }
+}

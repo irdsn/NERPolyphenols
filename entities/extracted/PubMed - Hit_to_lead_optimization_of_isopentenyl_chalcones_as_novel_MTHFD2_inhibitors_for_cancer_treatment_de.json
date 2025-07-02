@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cancer",
+  "title": "Hit to lead optimization of isopentenyl chalcones as novel MTHFD2 inhibitors for cancer treatment: design, synthesis, in-vitro, in-vivo and in-silico studies.",
+  "abstract": "Methylenetetrahydrofolate dehydrogenase 2 (MTHFD2) plays a key role in one-carbon metabolism, as it is highly upregulated in cancer cells while exhibiting minimal expression in healthy adult tissues. Consequently, MTHFD2 is regarded as a promising target for cancer therapies. In this study, a series of isopentenyl chalcones, based on hit compound sophoradin, were designed and synthesized by computer-aided drug design. Preliminary structure-activities relationship revealed the great significance of chalcone scaffold and isopentenyl groups. The optimized compound 41, with an isopentenyl group and three hydroxyl groups, demonstrated remarkable activity and high selectivity in enzymatic assays (MTHFD1 IC50=\u00a019.05\u00a0\u00b1\u00a07.10\u00a0\u03bcM, MTHFD2 IC50=\u00a01.46\u00a0\u00b1\u00a00.28\u00a0\u03bcM, SI\u00a0=\u00a013). The cellular thermal shift assay implied that 41 could directly bind to MTHFD2. In vitro, compound 41 dramatically promoted intracellular ROS accumulation, and exhibited potent antiproliferative activity against lung cancer cells H1299 with low toxicity to BEAS-2B cells. Furthermore, 41 also demonstrated considerable anti-lung cancer efficacy in a mouse xenograft model and favorable pharmacokinetic properties without significant abnormalities in major organs. This work enriches the structure-activity relationship of MTHFD2 inhibitors and provides a potential candidate for cancer treatment.",
+  "publication_date": "2025-05-03",
+  "journal": "European journal of medicinal chemistry",
+  "doi": "10.1016/j.ejmech.2025.117703",
+  "entities": {
+    "SYMPTOM": [
+      "cancer cells",
+      "cancer therapies",
+      "cancer treatment",
+      "considerable anti-lung cancer efficacy",
+      "lung cancer cells"
+    ],
+    "POLYPHENOL": [
+      "high selectivity"
+    ]
+  }
+}

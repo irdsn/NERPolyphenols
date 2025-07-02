@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "A Pilot Study on the Impact of Cranberry and Ascorbic Acid Supplementation on the Urinary Microbiome of Healthy Women: A Randomized Controlled Trial.",
+  "abstract": "Background: The collection of microorganisms that colonize the human genital and urinary tract is referred to as the genitourinary microbiome. Urinary tract infections (UTIs), which predominantly affect women, are linked to alterations in the genitourinary microbiome. Cranberries (Vaccinium oxycoccos), rich in proanthocyanidins, and ascorbic acid (vitamin C), known for their urinary acidification properties, are commonly used for UTI prevention. However, their effects on the genitourinary microbiome remain inadequately characterized. This pilot study assesses the genitourinary microbiome composition in healthy women and evaluates the influence of cranberry and ascorbic acid supplementation.Methods: In a randomized, controlled, and open-label trial, 27 healthy women in their reproductive age (18-40 years) were assigned to three groups: cranberry (n = 8), ascorbic acid (n = 10), and control (n = 9). Urine samples were collected at three time points and processed for 16S rRNA gene amplicon-based microbial community composition analysis. Microbiome composition was compared within and between groups, and between study visits.Results: Sufficient microbial DNA was extracted from all midstream urine samples. The genitourinary microbiome was predominantly composed ofLactobacillusspp., as reported previously. No significant shifts in microbial composition were observed in response to cranberry or ascorbic acid supplementation, and no statistically significant differences were detected between the intervention and control groups or between study visits.Conclusion: The genitourinary microbiome of healthy women remained stable during cranberry or ascorbic acid supplementation. Further studies in patients with recurrent UTIs are needed to explore the potential impacts of these supplements on the genitourinary microbiome in disease states.",
+  "publication_date": "2025-03-07",
+  "journal": "Antibiotics (Basel, Switzerland)",
+  "doi": "10.3390/antibiotics14030278",
+  "entities": {
+    "POLYPHENOL": [
+      "proanthocyanidins",
+      "recurrent utis",
+      "the collection",
+      "their effects",
+      "urinary tract infections"
+    ]
+  }
+}

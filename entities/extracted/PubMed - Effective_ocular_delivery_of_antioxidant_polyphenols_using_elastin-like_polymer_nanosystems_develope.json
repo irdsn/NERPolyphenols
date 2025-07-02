@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Effective ocular delivery of antioxidant polyphenols using elastin-like polymer nanosystems developed by sustainable process.",
+  "abstract": "The present study is centred on the development of a therapeutic strategy for Dry Eye Disease (DED), and all experimental models, formulation designs, and outcome measures have been specifically tailored to address this pathology. Elastin-like polymers (ELPs) are emerging as a groundbreaking nanobiomaterial for advanced drug delivery systems, thanks to their biomimetic, adaptable, and stimuli-responsive properties. Embracing sustainability, we employed supercritical CO2(scCO2) as an eco-friendly alternative to organic solvents to develop an innovative ELP-based particulate system. This system, designed for topical ophthalmic applications, incorporates two antioxidant and anti-inflammatory polyphenolic compounds, quercetin (QUE) and resveratrol (RSV), through a one-step supercritical antisolvent (SAS) process. Post-SAS process, we achieved solid microparticles loaded with QUE, RSV, or a combination of both. Remarkably, these microparticles transform into nanoparticles (NPs) with an average size of 56.7\u00a0\u00b1\u00a01.0 to 61.5\u00a0\u00b1\u00a02.6\u00a0nm when placed in solution at physiological temperature. This transformation leverages the stimulus-responsive nature of ELP, ensuring sustained polyphenol release. Our ELP-based formulations demonstrate exceptional biocompatibility with Human Corneal Epithelial cells (HCEs) and exhibit outstanding intracellular scavenging activity against reactive oxygen species (ROS). To track cellular uptake, we developed particles with a two fluorescent tags. This system successfully delivered the fluorescent payload to cells and efficiently targeted the corneal epithelium in ex vivo porcine eye globes, showcasing time-dependent delivery.",
+  "publication_date": "2025-05-07",
+  "journal": "International journal of pharmaceutics",
+  "doi": "10.1016/j.ijpharm.2025.125691",
+  "entities": {
+    "POLYPHENOL": [
+      "an eco-friendly alternative",
+      "quercetin",
+      "reactive oxygen species",
+      "sustained polyphenol release",
+      "two antioxidant and anti-inflammatory polyphenolic compounds"
+    ]
+  }
+}

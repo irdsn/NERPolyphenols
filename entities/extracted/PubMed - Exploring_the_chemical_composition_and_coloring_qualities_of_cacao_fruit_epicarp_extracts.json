@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Exploring the chemical composition and coloring qualities of cacao fruit epicarp extracts.",
+  "abstract": "Cacao pod husks (CHs), the most abundant by-product of cacao beans production, can potentially become a source of functional ingredients for the food, cosmetic, and pharmaceutical industries. Three pigment samples (yellow, red, and purple) from lyophilized and ground cacao pod husk epicarp (CHE), were isolated by ultrasound-assisted solvent extraction, with yields between 11 and 14 wt%. The pigments exhibited UV-Vis flavonoid-related absorption bands at 283 nm and 323 nm and, only for the purple extract, reflectance bands in the 400-700 nm range. As per the Folin-Ciocalteu method, the CHE extracts contain high yields of antioxidant phenolic compounds amounting to 161.6, 153.9, and 167.9 mg GAE per g extract for the yellow, red, and purple samples, respectively. Phloretin, quercetin, myricetin, jaceosidin, and procyanidin B1 were among the main flavonoids identified by MALDI-TOF MS. A biopolymeric bacterial-cellulose matrix can effectively retain up to 541.8 mg of CHE extract per g of cellulose in dry weight. Also, MTT assays revealed that CHE extracts are non-toxic and increase viability in cultured VERO cells.",
+  "publication_date": "2023-04-24",
+  "journal": "RSC advances",
+  "doi": "10.1039/d3ra01049j",
+  "entities": {
+    "FOOD": [
+      "cacao beans production"
+    ],
+    "POLYPHENOL": [
+      "antioxidant phenolic compounds",
+      "myricetin",
+      "phloretin",
+      "quercetin",
+      "the main flavonoids",
+      "uv-vis flavonoid-related absorption bands"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "natural antioxidants",
+  "title": "Mechanistic Elucidation ofTricholoma mongolicumPolysaccharides in Treating MAFLD via Regulation of the Gut Microbiota-Metabolite-Ferroptosis Axis: A Multi-Omics Perspective.",
+  "abstract": "This study aimed to elucidate the modulatory effects and underlying molecular mechanisms ofTricholoma mongolicumpolysaccharide (TMP) in the context of metabolic dysfunction-associated fatty liver disease (MAFLD). High-performance gel permeation chromatography (HPGPC) analysis indicated a bimodal molecular weight distribution. Monosaccharide composition profiling revealed a predominance of glucose and galactose among other constituents. Scanning electron microscopy (SEM) illustrated a porous, aggregated colloidal microstructure. In a model of MAFLD, TMP intervention significantly attenuated serum levels of TC, TG, and AST, ALT, accompanied by notable histological improvements, including reduced hepatic steatosis and inflammatory cell infiltration. Metagenomic analysis demonstrated that TMP substantially enhanced gut microbial \u03b1-diversity, restructured microbial community composition, decreased the Firmicutes/Bacteroidetes ratio, enriched SCFAs-producing genera, and suppressed the excessive proliferation of pro-inflammatory bacterial genera. Integrated proteomic and lipidomic analyses revealed that TMP inhibited hepatic immune-inflammatory responses and ferroptosis pathways, enhanced pathways associated with metabolic homeostasis. Furthermore, TMP modulated hepatic iron metabolism by upregulating the Nrf2/GPx4 antioxidant axis and FPN1 while downregulating TFR1, thereby alleviating oxidative stress and iron overload. These findings demonstrate that TMP exerts therapeutic efficacy through a bidirectional gut-liver regulatory mechanism involving microbial modulation, ferroptosis inhibition, metabolic reprogramming, and activation of antioxidant defenses. This research provides novel insights and molecular targets for the development of natural polysaccharide-based interventions for MAFLD.",
+  "publication_date": "2025-06-26",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c05877",
+  "entities": {
+    "POLYPHENOL": [
+      "a bidirectional gut-liver regulatory mechanism",
+      "a bimodal molecular weight distribution",
+      "electron microscopy",
+      "molecular targets",
+      "the modulatory effects",
+      "underlying molecular mechanisms"
+    ],
+    "SYMPTOM": [
+      "oxidative stress",
+      "reduced hepatic steatosis"
+    ]
+  }
+}

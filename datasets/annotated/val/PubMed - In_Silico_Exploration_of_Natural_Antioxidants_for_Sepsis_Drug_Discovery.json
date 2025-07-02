@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "In Silico Exploration of Natural Antioxidants for Sepsis Drug Discovery.",
+  "abstract": "Sepsis, a life-threatening condition characterized by immune dysregulation and organ damage, remains a significant clinical challenge. Natural antioxidant compounds (NAOs) such as quercetin, EGCG, resveratrol, curcumin, and chlorogenic acid have shown promising anti-inflammatory and anti-apoptotic effects in preclinical models of sepsis and related conditions, yet the molecular mechanisms underlying their actions remain incompletely defined. In this study, we performed comprehensive molecular docking analyses to investigate the binding affinities and interaction profiles of these NAOs with three key proteins central to inflammatory and apoptotic signaling: Toll-like receptor 4 (TLR-4), interleukin-1 receptor-associated kinase 1 (IRAK1), and caspase-3. Our results demonstrate that all five compounds exhibit favorable binding affinities with these targets, forming multiple hydrogen bonds and hydrophobic interactions with critical active site residues. Notably, curcumin and EGCG consistently displayed the strongest binding affinities across the three proteins, with docking scores comparable to or surpassing those of reference inhibitors. Resveratrol demonstrated highly stable binding poses, particularly with caspase-3, while quercetin and chlorogenic acid showed moderate but reproducible affinities. Overall, this study provides new mechanistic insights into how NAOs may target central mediators of inflammation and cell death. Experimental validation is essential to confirm these interactions, assess binding affinities, and fully elucidate the therapeutic potential of NAOs in sepsis.",
+  "publication_date": "2025-05-23",
+  "journal": "Molecules (Basel, Switzerland)",
+  "doi": "10.3390/molecules30112288",
+  "entities": {
+    "POLYPHENOL": [
+      "anti-inflammatory and anti-apoptotic effects",
+      "chlorogenic acid",
+      "comprehensive molecular docking analyses",
+      "curcumin",
+      "egcg",
+      "new mechanistic insights",
+      "preclinical models",
+      "quercetin",
+      "quercetin and chlorogenic acid",
+      "resveratrol",
+      "the molecular mechanisms",
+      "toll-like receptor"
+    ],
+    "SYMPTOM": [
+      "cell death",
+      "inflammation"
+    ]
+  }
+}

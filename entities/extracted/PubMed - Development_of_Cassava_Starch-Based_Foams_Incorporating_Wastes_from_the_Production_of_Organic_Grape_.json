@@ -1,0 +1,34 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Development of Cassava Starch-Based Foams Incorporating Wastes from the Production of Organic Grape Juice and Grape Seed Oil.",
+  "abstract": "The generation of nonbiodegradable waste from food packaging is increasing. Due to the economic unfeasibility of waste segregation and recycling, this material ends up in landfills. To mitigate the environmental impact and explore alternative biodegradable materials, the present study seeks to develop foams based on cassava starch by incorporating agro-industrial residues from whole grape juice and organic grape seed oil for applications in food packaging. The starch-based foams were prepared by thermal expansion, using varying amounts of grape skin waste (CA), grape seed (SE), and defatted grape seed with grape skin fragments (SEDC) at proportions ranging from 10 - 30 wt %. The resulting foams were characterized concerning apparent density, moisture content, morphology, water absorption capacity, content of total phenolic compounds, total anthocyanins, total flavonoids, antioxidant capacity, thermogravimetric analysis (TGA), Fourier transform infrared spectroscopy (FTIR), and mechanical resistance via tensile testing. Incorporating CA, SE, and SEDC residues provided foams with lower apparent density and greater expansion capacity. Furthermore, the addition of SE and SEDC residues led to a lower water absorption capacity of the foams, while the addition of CA residue promoted an increased absorption capacity. Adding these residues increased the levels of total anthocyanins, total phenolic compounds, and flavonoids, resulting in higher antioxidant activity in the packaging compared to the control (without residues). Regarding thermal stability, the addition of CA, SE, and SEDC residue caused a decrease in the thermal stability of the foams compared to the control. FTIR spectra revealed the characteristic bands associated with the added residues. The tensile strength, elongation at break, and modulus of elasticity of the packaging with the addition of CA, SE, and SEDC residues were lower than the control sample and expanded polystyrene (EPS). Generally, the foams that included SE and SEDC residues performed better than those with CA residues. However, further studies are needed to optimize the formulation, mainly regarding water absorption capacity and mechanical resistance.",
+  "publication_date": "2025-02-18",
+  "journal": "ACS omega",
+  "doi": "10.1021/acsomega.4c10904",
+  "entities": {
+    "SYMPTOM": [
+      "food packaging",
+      "the packaging"
+    ],
+    "POLYPHENOL": [
+      "a decrease",
+      "flavonoids",
+      "ftir spectra",
+      "infrared spectroscopy",
+      "mechanical resistance",
+      "recycling",
+      "the economic unfeasibility",
+      "total flavonoids",
+      "total phenolic compounds"
+    ],
+    "FOOD": [
+      "defatted grape seed",
+      "grape seed",
+      "grape skin fragments",
+      "grape skin waste",
+      "organic grape seed oil",
+      "whole grape juice"
+    ]
+  }
+}

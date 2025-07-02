@@ -1,0 +1,25 @@
+{
+  "source": "PubMed",
+  "query": "polyphenols",
+  "title": "Structure-Based Design and In-Silico Evaluation of Computationally Proposed Curcumin Derivatives as Potential Inhibitors of the Coronaviral PLpro Enzymes.",
+  "abstract": "Background/Objectives:Highly pathogenic coronaviruses (CoVs), including SARS-CoV, MERS-CoV, and SARS-CoV-2, continue to pose a significant threat to global public health. Therefore, this situation highlights the urgent need for effective broad-spectrum antiviral agents. Curcumin, a naturally occurring polyphenol known for its antiviral and anti-inflammatory properties, faces limitations such as poor bioavailability and rapid metabolic degradation, restricting its practical therapeutic application.Methods:To address these limitations, this study introduces a novel design strategy aimed at 42 new curcumin derivatives with improved pharmacokinetic profiles, specifically targeting the conserved coronavirus enzyme papain-like protease (PLpro). A comprehensive in silico evaluation was performed, including ADMET (Absorption, Distribution, Metabolism, Elimination, and Toxicity) analysis, molecular docking, molecular dynamics (MD) simulations, and Molecular Mechanics/Poisson-Boltzmann Surface Area (MM/PBSA) calculations.Results:Extensive pharmacokinetic and toxicological assessments (ADMET analyses) identified 19 derivatives exhibiting optimal drug-like characteristics according to Lipinski's Rule of Five (Ro5). Molecular docking analyses demonstrated that these novel derivatives possess significantly enhanced binding affinities to PLpro enzymes from SARS-CoV, MERS-CoV, and SARS-CoV-2 compared to standard antiviral agents and natural curcumin. Further validation through MD simulations and MM/PBSA calculations confirmed the structural stability and robust interactions of the most promising derivatives within the SARS-CoV PLpro active site.Conclusions:The results of this study provide essential structural and functional insights, reinforcing the potential of these newly developed curcumin derivatives as potent, broad-spectrum antiviral agents effective against current and future coronavirus threats.",
+  "publication_date": "2025-05-26",
+  "journal": "Pharmaceuticals (Basel, Switzerland)",
+  "doi": "10.3390/ph18060798",
+  "entities": {
+    "POLYPHENOL": [
+      "42 new curcumin derivatives",
+      "a naturally occurring polyphenol",
+      "background/objectives",
+      "curcumin",
+      "effective broad-spectrum antiviral agents",
+      "molecular docking",
+      "natural curcumin",
+      "potent, broad-spectrum antiviral agents",
+      "these newly developed curcumin derivatives"
+    ],
+    "SYMPTOM": [
+      "papain-like protease"
+    ]
+  }
+}

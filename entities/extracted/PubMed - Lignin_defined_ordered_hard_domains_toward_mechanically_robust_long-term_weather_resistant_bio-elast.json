@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "plant polyphenols",
+  "title": "Lignin defined ordered hard domains toward mechanically robust, long-term weather resistant bio-elastomer.",
+  "abstract": "High-performance elastomers with excellent mechanical strength, toughness, and weather resistance are attractive for service in complex environments, but face great challenge. Herein, this work proposed mechanically robust, highly stretchable, and long-term weather resistant polyurethane (PU) bio-elastomer with defined ordered hard domains based on lignin-mediated covalent and non-covalent assembly inspired by natural plants. Specifically, polyphenol lignin as structural and functional monomer was reacted with isocyanate to construct carbamate bonds (-NHCOO-) forming robust hard segments and strong H-bond interactions to facilitate the formation of soft-hard nanophase separation structures. Benefiting from the integration of polyphenol lignin as well as lignin-mediated multilevel structures, the synthesized lignin-derived polyurethane (LPU) displayed outstanding thermal and mechanical properties. The initial decomposition temperature of LPU increased by 75\u00a0\u00b0C compared with PU. The tensile strength, elongation at break, elastic modulus and toughness of LPU with lignin substitution of 70\u00a0% were high to 60.39\u00a0MPa, 532.52\u00a0%, 235.71\u00a0MPa and 183.24\u00a0MJ/m3, which were 2.82, 0.92, 5.43 and 2.73 times increment than PU, respectively. Importantly, such designed LPU being exposed to accelerated artificial weathering conditions including UV irradiation for 96\u00a0h, seawater corrosion for 60\u00a0d and heat aging at 100\u00a0\u00b0C for 7\u00a0d, demonstrated fascinating long-term weather resistance with excellent structural integrity and mechanical tolerance. The mechanism of weather resistance of LPU was investigated. Therefore, this work not only provides a novel strategy for developing superstrong, nonmigrating intrinsic weather-resistant PU elastomers for harsh environments, but also provides a promising application of lignin in green engineering materials.",
+  "publication_date": "2025-06-04",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144895",
+  "entities": {
+    "POLYPHENOL": [
+      "excellent mechanical strength",
+      "mechanical tolerance",
+      "mechanically robust, highly stretchable, and long-term weather resistant polyurethane",
+      "outstanding thermal and mechanical properties",
+      "polyphenol lignin",
+      "the initial decomposition temperature",
+      "the mechanism"
+    ]
+  }
+}

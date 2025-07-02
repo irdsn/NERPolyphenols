@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "The relevance of resveratrol in ameliorating carotid atherosclerosis through glycolysis.",
+  "abstract": "Atherosclerosis (AS) poses a pressing challenge in contemporary medicine. Glycolysis is a crucial bioenergetic metabolic pathway that provides the primary energy source for endothelial cells. Resveratrol (Res) is a natural compound that has been shown to possess AS. However, the underlying mechanisms of its anti-atherosclerotic effects are not yet fully understood.",
+  "publication_date": "2025-04-21",
+  "journal": "BMC cardiovascular disorders",
+  "doi": "10.1186/s12872-025-04735-3",
+  "entities": {
+    "SYMPTOM": [
+      "atherosclerosis"
+    ],
+    "POLYPHENOL": [
+      "its anti-atherosclerotic effects",
+      "resveratrol",
+      "the underlying mechanisms"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "vegetable phenolics",
+  "title": "Biotransformation-induced chemical modifications and nitrite production in beetroot and arugula extracts: Toward natural alternatives to synthetic preservatives in the meat industry.",
+  "abstract": "The search for natural food additives is a growing priority for the modern food industry, especially in efforts to replace synthetic curing salts, which are linked to adverse health effects in processed meat products. One promising approach involves the use of pre-converted nitrate-rich plant extracts as an alternative to commercial sodium nitrite. However, the impact of the biotransformation process on the chemical and antioxidant properties of these extracts remains poorly understood. This study investigated the effects of biotransformation duration on the chemical composition and antioxidant capacity of beetroot and arugula extracts using commercial starter culture (Lyocarni SBM-11). Three extract formulations were prepared: R100 (100\u00a0% arugula), R50B50 (50\u00a0% arugula +50\u00a0% beetroot) and B100 (100\u00a0% beetroot). Throughout the incubation period, the beetroot extract exhibited the highest levels of total phenolics (139.4 to 99.1\u00a0mg GAE.100\u00a0mL-1) and antioxidant activity, as assessed by DPPH (8.7 to 4.2\u00a0mmol TE.L-1) and FRAP (638.4 to 451.4\u00a0mmol TE.L-1) assays. The R100 sample demonstrated the highest iron-chelating ability during biotransformation until 12\u00a0h of biotransformation (95.6\u00a0% to 52.7\u00a0%). The duration of biotransformation significantly influenced the chemical properties and antioxidant capacity of arugula and beetroot extracts. Notably, the 100\u00a0% arugula extract produced the highest nitrite concentration at 24\u00a0h (245.4\u00a0ppm). However, extended incubation time appeared to diminish the antioxidant potential of the extracts. In conclusion, the biotransformation of beetroot, arugula, and their mixtures using commercial starter cultures presents a promising strategy for developing natural bio-additives for the meat industry, provided that phenolic content and antioxidant properties are carefully preserved.",
+  "publication_date": "2025-03-29",
+  "journal": "Food chemistry",
+  "doi": "10.1016/j.foodchem.2025.144127",
+  "entities": {
+    "POLYPHENOL": [
+      "adverse health effects",
+      "the effects"
+    ],
+    "FOOD": [
+      "100\u00a0% beetroot",
+      "50\u00a0% arugula +50\u00a0% beetroot",
+      "arugula and beetroot extracts",
+      "beetroot",
+      "beetroot and arugula extracts",
+      "the beetroot extract"
+    ]
+  }
+}

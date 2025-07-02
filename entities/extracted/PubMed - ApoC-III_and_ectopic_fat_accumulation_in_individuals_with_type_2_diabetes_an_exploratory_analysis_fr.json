@@ -1,0 +1,18 @@
+{
+  "source": "PubMed",
+  "query": "dietary polyphenols",
+  "title": "ApoC-III and ectopic fat accumulation in individuals with type 2 diabetes: an exploratory analysis from the MEDEA randomised controlled study.",
+  "abstract": "We aimed to investigate the effects of an isoenergetic multifactorial diet, previously shown to reduce liver and pancreatic fat content, compared with a monounsaturated fatty acid (MUFA)-rich diet, on plasma apolipoprotein C-III (ApoC-III) levels and their relationship with ectopic fat and beta cell function in people with type 2 diabetes.",
+  "publication_date": "2025-06-05",
+  "journal": "Diabetologia",
+  "doi": "10.1007/s00125-025-06464-w",
+  "entities": {
+    "POLYPHENOL": [
+      "ectopic fat",
+      "the effects"
+    ],
+    "SYMPTOM": [
+      "type 2 diabetes"
+    ]
+  }
+}

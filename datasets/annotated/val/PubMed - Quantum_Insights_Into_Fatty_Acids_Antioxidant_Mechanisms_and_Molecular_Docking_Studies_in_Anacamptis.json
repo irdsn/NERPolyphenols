@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "gallic acid",
+  "title": "Quantum Insights Into Fatty Acids, Antioxidant Mechanisms, and Molecular Docking Studies in Anacamptis papilionacea.",
+  "abstract": "This study examines the antioxidant activities, fatty acid composition, cytotoxicity predictions, and endocrine-disrupting potential of metabolites from orchid methanolic-flower extracts. In silico analyses, including molecular docking, NCI-RDG, FMO, ELF, LOL, and MEP mapping, were conducted to explore noncovalent interactions, electronic properties, reactivity, and charge distribution of key metabolites, providing insights into their bioactivity and mechanisms of action. Antioxidant activity, evaluated via the DPPH assay, showed an IC50value of 12.83\u2009mg/mL for the methanolic extract, outperforming the positive control (BHT, IC50=\u200918.00\u2009mg/mL). High flavonoid content, expressed as quercetin equivalents, confirmed the presence of bioactive compounds, including quercetin and gallic acid. The fatty acid (FA) profile of Anacamptis papilionacea fixed oil, analyzed by GC-MS, revealed palmitic acid, \u03b1-linolenic acid, 8,11,14-eicosatrienoic acid, and docosahexaenoic acid as dominant FAs, constituting 79.47% of the total oil. Molecular docking showed strong binding interactions of these FAs with the human glucocorticoid receptor. Cytotoxicity predictions indicated promising activity against melanoma and lung carcinoma cells, particularly with 8,11,14-eicosatrienoic acid and docosahexaenoic acid. Endocrine-disrupting potential was evaluated through molecular binding with 14 nuclear receptors, showing varying affinities, particularly for estrogen, androgen, and glucocorticoid receptors. These findings highlight the bioactivity and therapeutic potential of A. papilionacea metabolites, emphasizing their antioxidant, cytotoxic, and receptor-binding capabilities. Further experimental studies are warranted for clinical validation.",
+  "publication_date": "2025-05-19",
+  "journal": "Lipids",
+  "doi": "10.1002/lipd.12448",
+  "entities": {
+    "POLYPHENOL": [
+      "14 nuclear receptors",
+      "electronic properties",
+      "gallic acid",
+      "glucocorticoid receptors",
+      "high flavonoid content",
+      "mechanisms",
+      "molecular docking",
+      "quercetin",
+      "quercetin equivalents",
+      "the human glucocorticoid receptor",
+      "their antioxidant, cytotoxic, and receptor-binding capabilities"
+    ]
+  }
+}

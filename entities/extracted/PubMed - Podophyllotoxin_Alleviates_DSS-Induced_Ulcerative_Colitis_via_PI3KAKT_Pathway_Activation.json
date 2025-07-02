@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Podophyllotoxin Alleviates DSS-Induced Ulcerative Colitis via PI3K/AKT Pathway Activation.",
+  "abstract": "This study systematically evaluated the therapeutic effects of podophyllotoxin in a DSS-induced mouse model of ulcerative colitis. A total of 374 podophyllotoxin-related targets were identified through database screening, and by intersecting them with 1,741 UC-related targets, 120 potential therapeutic targets were obtained. Subsequent GO and KEGG enrichment analyses revealed that these targets are primarily involved in biological processes such as the positive regulation of protein kinase B signaling, cellular response to lipopolysaccharide, and inflammatory responses, with significant enrichment in key pathways like the PI3K-Akt signaling pathway. Molecular docking results indicated that podophyllotoxin has strong binding activity with several targets related to inflammation and signal transduction. Animal experiments further validated the significant therapeutic effects of podophyllotoxin in the DSS-induced ulcerative colitis mouse model. Particularly at high doses, podophyllotoxin effectively alleviated ulcerative colitis symptoms, reduced pathological damage to colonic tissues, and enhanced intestinal barrier function. Additionally, podophyllotoxin significantly lowered the levels of inflammatory cytokines (TNF-?, IL-1?, IL-6) in the serum and colonic tissues of ulcerative colitis model mice and improved oxidative stress status. More importantly, podophyllotoxin effectively restored the impaired intestinal mucosal barrier function by enhancing the expression of tight junction proteins such as ZO-1 and occludin. Finally, the study revealed that podophyllotoxin may alleviate ulcerative colitis symptoms and promote colonic tissue repair by activating the PI3K/AKT signaling pathway. These findings provide strong experimental evidence for the potential use of podophyllotoxin as a therapeutic agent for ulcerative colitis and offer valuable insights for the future development of ulcerative colitis treatment strategies targeting the PI3K/AKT pathway. Key words: Podophyllotoxin, Ulcerative Colitis, Inflammation, PI3K/AKT.",
+  "publication_date": "2025-05-01",
+  "journal": "Physiological research",
+  "doi": null,
+  "entities": {
+    "POLYPHENOL": [
+      "molecular docking results",
+      "the significant therapeutic effects",
+      "the therapeutic effects"
+    ],
+    "SYMPTOM": [
+      "improved oxidative stress status",
+      "inflammation"
+    ]
+  }
+}

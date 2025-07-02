@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids",
+  "title": "Chrysosplenetin B suppresses the growth of human prostate cancer cells by inducing G1 cell cycle arrest.",
+  "abstract": "Prostate cancer (PCa) often progresses to castration-resistant prostate cancer (CRPC), which is linked to higher treatment resistance and recurrence rates. This highlights the urgent need for new therapeutic options. Natural products, especially flavonoids, have shown promise in reducing drug resistance and possess both antioxidant and anticancer effects. Developing drugs that specifically target CRPC could offer significant therapeutic advantages.",
+  "publication_date": "2025-03-02",
+  "journal": "BioImpacts : BI",
+  "doi": "10.34172/bi.30688",
+  "entities": {
+    "SYMPTOM": [
+      "castration-resistant prostate cancer",
+      "prostate cancer"
+    ],
+    "POLYPHENOL": [
+      "both antioxidant and anticancer effects",
+      "especially flavonoids"
+    ]
+  }
+}

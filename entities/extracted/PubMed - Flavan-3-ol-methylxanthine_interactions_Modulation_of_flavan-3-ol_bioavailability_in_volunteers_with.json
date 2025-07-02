@@ -1,0 +1,27 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Flavan-3-ol-methylxanthine interactions: Modulation of flavan-3-ol bioavailability in volunteers with a functional colon and an ileostomy.",
+  "abstract": "Flavan-3-ols, including the flavan-3-ol monomer (-)-epicatechin, are dietary bioactives known to mediate beneficial cardiovascular effects in humans. Recent studies showed that flavan-3-ols could interact with methylxanthines, evidenced by an increase in flavan-3-ol bioavailability with a concomitant increase in flavan-3-ol intake-mediated vascular effects. This study aimed at elucidating flavan-3-ol-methylxanthine interactions in humans in vivo by evaluating the specific contributions of theobromine and caffeine on flavan-3-ol bioavailability. In ileostomists, the effect of methylxanthines on the efflux of flavan-3-ol metabolites in the small intestine was assessed, a parameter important to an understanding of the pharmacokinetics of flavan-3-ols in humans. In a randomized, controlled, triple cross-over study in volunteers with a functional colon (n\u00a0=\u00a010), co-ingestion of flavan-3-ols and cocoa methylxanthines, mainly represented by theobromine, increased peak circulatory levels (Cmax) of flavan-3-ols metabolites (+21\u00a0\u00b1\u00a08%; p\u00a0<\u00a00.05). Conversely, caffeine did not mediate a statistically significant effect on flavan-3-ol bioavailability (Cmax=\u00a0+10\u00a0\u00b1\u00a08%, p\u00a0=\u00a0n.s.). In a subsequent randomized, controlled, double cross-over study in ileostomists (n\u00a0=\u00a010), cocoa methylxanthines did not affect circulatory levels of flavan-3-ol metabolites, suggesting potential differences in flavan-3-ol bioavailability compared to volunteers with a functional colon. The main metabolite in ileal fluid was (-)-epicatechin-3'-sulfate, however, no differences in flavan-3-ol metabolites in ileal fluid were observed after flavan-3-ol intake with and without cocoa methylxanthines. Taken together, these results demonstrate a differential effect of caffeine and theobromine in modulating flavan-3-ol bioavailability when these bioactives are co-ingested. These findings should be considered when comparing the effects mediated by the intake of flavan-3-ol-containing foods and beverages and the amount and type of methylxanthines present in the ingested matrixes. Ultimately, these insights will be of value to further optimize current dietary recommendations for flavan-3-ol intake. CLINICAL TRIAL REGISTRATION NUMBER: This work was registered at clinicaltrials.gov as NCT03526107 (study part 1, volunteers with functional colon) and NCT03765606 (study part 2, volunteers with an ileostomy).",
+  "publication_date": "2023-01-05",
+  "journal": "Free radical biology & medicine",
+  "doi": "10.1016/j.freeradbiomed.2023.01.003",
+  "entities": {
+    "POLYPHENOL": [
+      "-)-epicatechin",
+      "a differential effect",
+      "a statistically significant effect",
+      "beneficial cardiovascular effects",
+      "current dietary recommendations",
+      "flavan-3-ol intake-mediated vascular effects",
+      "recent studies",
+      "the effect",
+      "the effects",
+      "the specific contributions"
+    ],
+    "FOOD": [
+      "cocoa methylxanthines",
+      "flavan-3-ols and cocoa methylxanthines"
+    ]
+  }
+}

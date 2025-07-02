@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "flavonoids cardiovascular",
+  "title": "Wogonin Attenuates Atherosclerosis via KLF11-Mediated Suppression of PPAR\u03b1-YAP1-Driven Glycolysis and Enhancement of ABCA1/G1-Mediated Cholesterol Efflux.",
+  "abstract": "Atherosclerosis, a chronic inflammatory disorder and leading cause of cardiovascular disease, is characterized by macrophage-derived inflammation and foam cell formation. Emerging evidence suggests that metabolic reprogramming of macrophages represents a promising therapeutic approach for atherosclerosis management. In this study, the therapeutic potential of wogonin, a bioactive flavonoid isolated from Scutellaria baicalensis, in modulating macrophage metabolism and attenuating atherogenesis is investigated. Wogonin reduces lesion size and plaque vulnerability, accompanied by a reduction in foam cell formation and inflammation. Mechanistically, wogonin reprogrammes macrophage metabolism from glycolysis to fatty acid oxidation (FAO) by activating the PPAR\u03b1-CPT1\u03b1 pathway and acts as a mitochondrial protector by activating PPAR\u03b1. Wogonin also promotes the KLF11 expression and KLF11 knockout exacerbated atherosclerosis and abolishes the inhibitory effect of wogonin on glycolysis and atherosclerosis. KLF11 forms a transcriptional complex with PPAR\u03b1 and YAP1, serving both as a brake on PPAR\u03b1-YAP1-mediated glycolysis and a transcriptional activator of ABCA1/G1. Collectively, wogonin reprograms macrophage metabolism from glycolysis to FAO through activation of the PPAR\u03b1-KLF11-YAP1 pathway, thereby reducing inflammation and foam cell formation, ultimately attenuating atherogenesis.",
+  "publication_date": "2025-05-21",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "doi": "10.1002/advs.202500610",
+  "entities": {
+    "SYMPTOM": [
+      "atherosclerosis",
+      "atherosclerosis management",
+      "inflammation",
+      "macrophage-derived inflammation"
+    ],
+    "POLYPHENOL": [
+      "a bioactive flavonoid",
+      "a mitochondrial protector",
+      "the inhibitory effect"
+    ]
+  }
+}

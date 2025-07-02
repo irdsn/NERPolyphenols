@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Impact of hydrolysable and condensed tannin sources and levels on in vitro equine cecal fermentation.",
+  "abstract": "Environmental impacts of animal agriculture are under intense scrutiny, thus strategies to decrease greenhouse gas emissions and volatile nitrogen waste are valuable. As dietary inclusion of tannins has been shown to decrease methanogenesis and improve nitrogen retention in ruminants, this study was designed to determine the effects of graded levels of hydrolysable tannin (chestnut) and condensed tannin (mimosa) on equine in vitro cecal fermentation.",
+  "publication_date": "2025-05-28",
+  "journal": "Research in veterinary science",
+  "doi": "10.1016/j.rvsc.2025.105732",
+  "entities": {
+    "POLYPHENOL": [
+      "condensed tannin",
+      "hydrolysable tannin",
+      "intense scrutiny",
+      "tannins",
+      "the effects",
+      "vitro cecal fermentation"
+    ]
+  }
+}

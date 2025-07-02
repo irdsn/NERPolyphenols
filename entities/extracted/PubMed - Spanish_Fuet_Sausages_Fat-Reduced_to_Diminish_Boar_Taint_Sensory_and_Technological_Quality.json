@@ -1,0 +1,22 @@
+{
+  "source": "PubMed",
+  "query": "grape skin",
+  "title": "Spanish Fuet Sausages Fat-Reduced to Diminish Boar Taint: Sensory and Technological Quality.",
+  "abstract": "Reduced-fat cured sausages were evaluated as a strategy to reduce boar taint in entire male pork products with high levels of androstenone and skatole, both lipophilic. Three fuet-type sausages (two replicates each) were developed: the control (C) (60% lean, 33.69% fat), and two reduced-fat (60% lean 21.19% fat) products; R1, 6% inulin, 0.5% \u03b2-glucan and R2, 3% inulin, 0.5% grape skin and 1% \u03b2-glucan. All of them were prepared from entire male pork with an androstenone concentration of 6.887 \u00b5g/g and 0.520 \u00b5g/g of skatole. Significant differences (p\u2264 0.001) in the moisture content were described between the fuet R1 and the C and R2, which obtained the highest percentage. Regarding the CIELAB, the C samples had the highest L* value, while the R2 sausages were the darkest. Boar taint was reduced in both R1 and R2, with a greater reduction in R2 (p\u2264 0.000). The addition of inulin and \u03b2-glucan in fuet R1 provided a similar technological and sensory profile to C. However, both strategies provided a reduction of sexual odour, which was higher when grape skins were included. In addition, R2 gave a characteristic sausage with more odour and flavour, dark colour and overall rating than C and R1.",
+  "publication_date": "2023-03-02",
+  "journal": "Animals : an open access journal from MDPI",
+  "doi": "10.3390/ani13050912",
+  "entities": {
+    "FOOD": [
+      "0.5% grape skin",
+      "a characteristic sausage",
+      "grape skins",
+      "reduced-fat cured sausages",
+      "the r2 sausages",
+      "three fuet-type sausages"
+    ],
+    "POLYPHENOL": [
+      "a similar technological and sensory profile"
+    ]
+  }
+}

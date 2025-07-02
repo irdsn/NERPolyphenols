@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "olive polyphenols",
+  "title": "Unlocking the potential of olive residues for functional purposes: update on human intervention trials with health and cosmetic products.",
+  "abstract": "Olive mill waste (OMW) is a promising source of valuable compounds such as polyphenols, terpenes, sterols, and other bioactive compounds, which are of interest to the pharmaceuticals and cosmeceutical industries. This review examines the potential of OMW extracts for health and beauty applications based on evidence reports from human clinical trials. The results achieved to date indicate health-enhancing properties, but little is known about the underlying mechanisms of action, dose-response relationships, and long-term impacts. Therefore, while olive by-products, extracted using eco-friendly methods, present opportunities for the development of high-value health and cosmetic products, further studies are necessary to determine the full range of their effects and establish specific therapeutic strategies. \u00a9 2024 The Authors. Journal of The Science of Food and Agriculture published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+  "publication_date": "2024-03-15",
+  "journal": "Journal of the science of food and agriculture",
+  "doi": "10.1002/jsfa.13451",
+  "entities": {
+    "POLYPHENOL": [
+      "eco-friendly methods",
+      "polyphenols",
+      "specific therapeutic strategies",
+      "the pharmaceuticals and cosmeceutical industries",
+      "the underlying mechanisms",
+      "their effects"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "wine polyphenols",
+  "title": "Investigating biological mechanisms of colour changes in sustainable food systems: The role of Starmerella bacillaris in white wine colouration using a combination of genomic and biostatistics strategies.",
+  "abstract": "This study explores the biological mechanisms behind colour changes in white wine fermentation using different strains of Starmerella bacillaris. We combined food engineering, genomics, machine learning, and physicochemical analyses to examine interactions between S. bacillaris and Saccharomyces cerevisiae. Significant differences in total polyphenol content were observed, with S. bacillaris fermentation yielding 6\u00a0% higher polyphenol content compared to S. cerevisiae EC1118. Genomic analysis identified 12 genes in S. bacillaris with high variant counts that could impact phenotypic properties related to wine color. Notably, SNP analysis revealed numerous missense and synonymous variants, as well as stop-gained and start-lost variants between PAS13 and FRI751, suggesting changes in metabolic pathways affecting pigment production. Besides that, high upstream gene variants in SSK1 and HIP1R indicated potential regulatory changes influencing gene expression. Fermentation trials revealed FRI751 consistently showed high antioxidant activity and polyphenol content (Total Polyphenol: 299.33\u00a0\u00b1\u00a03.51\u00a0mg GAE/L, DPPH: 1.09\u00a0\u00b1\u00a00.01\u00a0mmol TE/L, FRAP: 0.95\u00a0\u00b1\u00a00.02\u00a0mmol TE/L). PAS13 exhibited a balanced profile, while EC1118 had lower values, indicating moderate antioxidant activity. The Weibull model effectively captured nitrogen consumption dynamics, with EC1118 serving as a reliable benchmark. The scale parameter delta for EC1118 was 23.04\u00a0\u00b1\u00a02.63, indicating moderate variability in event times. These findings highlight S. bacillaris as a valuable component in sustainable winemaking, offering an alternative to chemical additives for maintaining wine quality and enhancing colours profiles. This study provides insights into the biotechnological and fermented food systems applications of yeast strains in improving food sustainability and supply chain, opening new avenues in food engineering and microbiology.",
+  "publication_date": "2024-08-02",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2024.114862",
+  "entities": {
+    "POLYPHENOL": [
+      "6\u00a0% higher polyphenol content",
+      "ec1118",
+      "polyphenol content",
+      "the biological mechanisms",
+      "the biotechnological and fermented food systems applications",
+      "total polyphenol",
+      "total polyphenol content"
+    ],
+    "FOOD": [
+      "sustainable winemaking",
+      "white wine fermentation",
+      "wine color",
+      "wine quality"
+    ]
+  }
+}

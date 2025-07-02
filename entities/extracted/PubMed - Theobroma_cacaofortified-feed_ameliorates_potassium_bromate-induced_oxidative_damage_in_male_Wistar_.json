@@ -1,0 +1,19 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Theobroma cacaofortified-feed ameliorates potassium bromate-induced oxidative damage in male Wistar rat.",
+  "abstract": "Some therapeutic and beneficial health properties of theTheobroma cacaoleaf have been documented. This study evaluated the ameliorative effect ofTheobroma cacao-fortifiedfeed against potassium bromate-induced oxidative damage in male Wistar rats. Thirty rats were randomly grouped into A-E. Except for E (the negative control), the rats in the other groups were administered 0.5\u00a0ml of 10\u00a0mg/kg body weight of potassium bromate daily using oral gavage and then allowed access to feed and water ad libitum. Groups B, C, and D were fed with 10 %, 20 %, and 30 % leaf-fortified feed respectively, while the negative and positive control (A) was fed with commercial feed. The treatment was carried out consecutively for fourteen days. In the liver and kidney, there was a significant increase (p\u00a0<\u00a00.05) in total protein concentration, a significant decrease (P\u00a0<\u00a00.05) in MDA level, and SOD activity in the fortified feed group compared to the positive control. Furthermore, in the serum, there was a significant increase (p\u00a0<\u00a00.05) in the albumin concentration, and ALT activity, and a significant decrease (p\u00a0<\u00a00.05) in urea concentration in the fortified feed groups compared to the positive control. The histopathology of the liver and kidney in the treated groups showed moderate cell degeneration compared to the positive control group. Antioxidant activity due to the presence of flavonoids and metal chelating activity of fiber inTheobroma cacaoleaf could be responsible for the ameliorative effect of the fortified feed against potassium bromate-induced oxidative damage.",
+  "publication_date": "2023-02-17",
+  "journal": "Toxicology reports",
+  "doi": "10.1016/j.toxrep.2023.02.007",
+  "entities": {
+    "POLYPHENOL": [
+      "a significant decrease",
+      "flavonoids",
+      "the ameliorative effect"
+    ],
+    "SYMPTOM": [
+      "potassium bromate-induced oxidative damage"
+    ]
+  }
+}

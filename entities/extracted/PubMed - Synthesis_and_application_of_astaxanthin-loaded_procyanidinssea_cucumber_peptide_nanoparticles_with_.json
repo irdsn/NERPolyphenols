@@ -1,0 +1,26 @@
+{
+  "source": "PubMed",
+  "query": "proanthocyanidins",
+  "title": "Synthesis and application of astaxanthin-loaded procyanidins/sea cucumber peptide nanoparticles with good antioxidant and pH-responsive capacities.",
+  "abstract": "Astaxanthin (AXT), a keto-carotenoid with potent antioxidant properties, has the ability to reduce lipid peroxidation and effectively inhibit lipid peroxidation caused by free radicals. Given the oxidative susceptibility of AXT during processing, storage, and digestion, along with the effectiveness of novel food-grade drug delivery systems, we engineered an AXT-loaded procyanidins (PCs) and sea cucumber peptide (SCP) nanoparticles (AXT@NPs) to enhance its bioavailability. The research results indicatedthat spherical AXT@NPs, approximately 686\u00a0nm in size, had a higher drug-loading capacity and an intelligent pH-response performance. Additionally, this carrier demonstrated excellent stability against temperature and ultra-violet radiation, as well as DPPH and ABTS free radical scavenging properties. In vitro cell experiments revealed that AXT@NPs significantly inhibited the production of reactive oxygen species (ROS) and the reduction of mitochondrial membrane potential caused by H2O2. The oxidative stress plays a pivotal role in the formation of liver fibrosis. In vivo liver fibrosis studies in mice confirmed that AXT@NPs could effectively alleviate damaged liver tissues, decreasing collagen deposition, and reducing oxidative damage by extending the action time of AXT in liver tissue. These findings indicate that AXT@NPs offer a novel nutritional intervention strategy for antifibrosis therapy by significantly enhancing bioavailability and effectively reducing oxidative stress.",
+  "publication_date": "2025-01-22",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "doi": "10.1016/j.foodres.2025.115821",
+  "entities": {
+    "POLYPHENOL": [
+      "an axt-loaded procyanidins",
+      "reactive oxygen species",
+      "the effectiveness"
+    ],
+    "FOOD": [
+      "sea cucumber peptide"
+    ],
+    "SYMPTOM": [
+      "liver fibrosis",
+      "oxidative damage",
+      "oxidative stress",
+      "the oxidative stress",
+      "vivo liver fibrosis studies"
+    ]
+  }
+}

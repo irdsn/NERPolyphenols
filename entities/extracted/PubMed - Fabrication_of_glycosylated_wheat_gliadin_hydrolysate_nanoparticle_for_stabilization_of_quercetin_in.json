@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "flavonols",
+  "title": "Fabrication of glycosylated wheat gliadin hydrolysate nanoparticle for stabilization of quercetin: interaction characteristics, conformational changes and stability.",
+  "abstract": "This study examined the impact of enzymolysis and glycosylation modification on the formation mechanism, structural changes and stability of the protein-quercetin nanoparticles. In comparison with wheat gliadin hydrolysates (WGH), glycosylated wheat gliadin hydrolysates (MWH) exhibited a tendency towards a more relaxed structure and better hydrophilicity. The flexible structure of protein caused a binding mode alteration of the complex, which changed from hydrophobic interaction (WGH) to hydrogen bonding (MWH). MWH exhibited enhanced binding capacity and higher encapsulation rate (84.3\u00a0%) for quercetin. Furthermore, the stability and bioaccessibility of quercetin was also significantly improved. The presence of soft protein crowns was observed during digestion via transmission electron microscopy. Correlation analyses demonstrated a strong correlation between the strength of the protein-quercetin interaction and changes in protein conformation. The present finding provides a novel framework for the development of composite modifications of proteins as functional food nanocarriers.",
+  "publication_date": "2025-05-21",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144481",
+  "entities": {
+    "POLYPHENOL": [
+      "quercetin",
+      "the formation mechanism",
+      "the protein-quercetin interaction",
+      "the protein-quercetin nanoparticles",
+      "transmission electron microscopy"
+    ],
+    "FOOD": [
+      "functional food nanocarriers",
+      "wheat",
+      "wheat gliadin hydrolysates"
+    ]
+  }
+}

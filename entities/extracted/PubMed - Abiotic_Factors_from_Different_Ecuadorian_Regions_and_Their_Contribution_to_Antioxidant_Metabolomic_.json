@@ -1,0 +1,29 @@
+{
+  "source": "PubMed",
+  "query": "cocoa flavonoids",
+  "title": "Abiotic Factors from Different Ecuadorian Regions and Their Contribution to Antioxidant, Metabolomic and Organoleptic Quality ofTheobroma cacaoL. Beans, Variety \"Arriba Nacional\".",
+  "abstract": "Fine flavor cocoa is a unique category of cocoa that produces almonds with high aromatic potential and several sensory benefits that make it different from the basic or ordinary cocoas. Ecuador is the world's leader in the production and export of fine flavor cocoa, responsible for 63% of the world's total production due to the commercialization of the Arriba Nacional variety, known to possess an intense aroma that is unique in the cocoa world market. Besides its organoleptic specificity, this variety represents a source of important bioactive compounds associated with both sensory and health properties. This study evaluates the influence of an abiotic factor, nutritional soil status, on the phytochemical composition (methylxantines and phenolic compounds), and antioxidant and sensory properties of Arriba variety cocoa beans originating from three different geographical regions of Ecuador. We used the Diagnosis and Recommendation Integrated System (DRIS), Folin-Ciocalteau, high-performance liquid chromatography (HPLC), ABTS free-radical-scavenging activity, the \u03b1, \u03b1-diphenyl-\u03b2-picrylhydrazyl free-radical-scavenging method (DPPH), and Ferric reducing antioxidant power (FRAP) analysis to reveal a significant correlation between Mn ions and total phenolic content, a positive implication of N in methylxanthine composition and antioxidant properties, and the importance of Ca, Mg, and K ions in increasing the flavonoid and anthocyanin content of raw cocoa beans. We showed that these nutritional elements can interfere with the nutraceutical and sensory properties of cocoa beans, as Cu, Mg, and K are correlated with anthocyaninic content, while Fe, Ca, P and Zn influenced the flavonoid content. We underline that the Arriba variety is suitable not only for the production of high-quality chocolate, but also for the increasing worldwide nutraceutical market, generating qualitative and competitive products.",
+  "publication_date": "2022-04-03",
+  "journal": "Plants (Basel, Switzerland)",
+  "doi": "10.3390/plants11070976",
+  "entities": {
+    "FOOD": [
+      "almonds",
+      "arriba variety cocoa beans",
+      "cocoa",
+      "cocoa beans",
+      "fine flavor cocoa",
+      "high-quality chocolate",
+      "raw cocoa beans",
+      "the basic or ordinary cocoas",
+      "the cocoa world market"
+    ],
+    "POLYPHENOL": [
+      "ecuador",
+      "its organoleptic specificity",
+      "phenolic compounds",
+      "the diagnosis and recommendation integrated system",
+      "the flavonoid content"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "PubMed",
+  "query": "lignans",
+  "title": "Asymmetric total synthesis of amovillosumins A and B and their hypoglycemic and anti-inflammatory activities.",
+  "abstract": "Motivated by the significant bioactivities and therapeutic potential of 1,4-benzodioxan derivatives, we reported the asymmetric total synthesis of amovillosumins A (1) and B (2), two architecturally unique norlignans isolated from Amomum villosum. The target compounds were achieved in nine and seven steps, respectively, from commercially available materials, delivering exceptional overall yields (45-47\u00a0%) with excellent enantiopurity (91-95\u00a0% ee). The key synthesis strategies encompassed Williamson ether formation, stereocontrolled ketone reduction, and Ullmann coupling to establish the pivotal 1,4-dioxan scaffold. This synthetic approach unambiguously confirmed the absolute configurations of amovillosumins A and B while providing sufficient quantities for comprehensive biological evaluation. Biological studies demonstrated that (+)-7S,8S-1 significantly stimulated GLP-1 secretion by 344.4\u00a0% at 25\u00a0\u03bcM, obviously stronger than its enantiomer (-)-7R,8R-1 (149.5\u00a0%). All isomers displayed significant anti-inflammatory activity in LPS-stimulated Raw264.7 cells, and especially, (+)-R-2 and (-)-S-2 (IC50=\u00a020.2 and 17.8 \u03bc\u039c) showed six-fold greater NO inhibition than indometacin (IC50=\u00a0113.2\u00a0\u03bcM). Mechanistic study demonstrated that (-)-S-2 significantly suppressed the mRNA expression of both Inos and Ptgs2. Network pharmacological analysis further confirmed PTGS2 as the primary target mediating the anti-inflammatory effects of (-)-S-2. This study integrates synthetic chemistry with pharmacological evaluation, offering structural confirmation and therapeutic insights into amovillosumins A and B.",
+  "publication_date": "2025-05-19",
+  "journal": "Bioorganic chemistry",
+  "doi": "10.1016/j.bioorg.2025.108613",
+  "entities": {
+    "POLYPHENOL": [
+      "glp-1 secretion",
+      "mechanistic study",
+      "the anti-inflammatory effects",
+      "two architecturally unique norlignans"
+    ],
+    "FOOD": [
+      "the absolute configurations"
+    ]
+  }
+}

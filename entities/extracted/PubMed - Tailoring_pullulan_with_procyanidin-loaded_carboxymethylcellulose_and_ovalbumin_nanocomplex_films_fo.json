@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Tailoring pullulan with procyanidin-loaded carboxymethylcellulose and ovalbumin nanocomplex films for preserving strawberries and mushrooms: In silico, in vitro, and in vivo signs.",
+  "abstract": "We created a biodegradable film by blending 4\u00a0% pullulan (P), 3\u00a0% procyanidin (PCN), 2\u00a0% ovalbumin (OVA), and 2\u00a0% carboxymethylcellulose (CMC). Results noted that OVA-CMC base formed nanoparticles (size of 165.11\u00a0\u00b1\u00a02.23\u00a0nm and \u03b6-potential of -41.38\u00a0\u00b1\u00a01.31\u00a0mV), while adding PCN increased particle size to 199.89\u00a0\u00b1\u00a03.12\u00a0nm, reduced \u03b6-potential to -38.92\u00a0\u00b1\u00a00.71\u00a0mV, and stabilized the system via electrostatic forces. The optimized films outperformed conventional materials, where 28\u00a0% lower water vapor permeability, 18\u00a0% reduced moisture, 22\u00a0% decreased solubility, 34\u00a0% higher tensile strength, and 15\u00a0% greater thickness versus controls were achieved. FTIR and molecular docking confirmed synergistic H-bonding and hydrophobic interactions, where XRD validated amorphous structures. The films inhibited Staphylococcus aureus and Escherichia coli by 16.8\u00a0\u00b1\u00a00.79 and 15.5\u00a0\u00b1\u00a00.82\u00a0mm, orderly, blocked 46.99\u00a0% of free radicals, and effectively preserved fresh produce. Strawberries and mushrooms stored with these films-maintained firmness, showed 50\u00a0% less spoilage, and retained color for 7\u00a0days at room temperature. Our integration of plant-derived antioxidants with biopolymers offers a scalable way to reduce plastic waste and extend food shelf-life, advancing sustainable agriculture and safer distribution. This innovation paves the way for next-gen smart packaging.",
+  "publication_date": "2025-05-16",
+  "journal": "International journal of biological macromolecules",
+  "doi": "10.1016/j.ijbiomac.2025.144299",
+  "entities": {
+    "POLYPHENOL": [
+      "22\u00a0% decreased solubility",
+      "3\u00a0% procyanidin",
+      "electrostatic forces",
+      "molecular docking"
+    ],
+    "FOOD": [
+      "strawberries"
+    ],
+    "SYMPTOM": [
+      "next-gen smart packaging"
+    ]
+  }
+}

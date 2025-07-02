@@ -1,0 +1,23 @@
+{
+  "source": "PubMed",
+  "query": "resveratrol aging",
+  "title": "The role and current research status of resveratrol in the treatment of osteoarthritis and its mechanisms: a narrative review.",
+  "abstract": "Osteoarthritis (OA) is a chronic degenerative disease caused by various factors such as aging, obesity, trauma, and genetics. It is a challenging condition faced by orthopedic doctors in clinical practice and places a heavy burden on patients and their families. Currently, the treatment of OA primarily focuses on symptomatic relief and lacks ideal therapeutic methods. Resveratrol is a natural polyphenolic compound with anti-inflammatory and antioxidant properties, and in recent years, it has gained attention as a candidate drug for OA treatment. This article provides an overview of the research status on the role and mechanisms of resveratrol in treating OA. It has been found that resveratrol can prevent the development of OA by inhibiting inflammatory responses, protecting chondrocytes, maintaining cartilage homeostasis, promoting autophagy, and has shown certain therapeutic effects. This process may be related to the regulation of signaling pathways such as nuclear factor-kappa B (NF-\u03baB), Toll-like receptor 4 (TLR4), and silent information regulator 1 (SIRT1). We summarize the current molecular mechanisms of resveratrol in treating OA, hoping to provide a reference for further research and application of resveratrol in OA treatment.",
+  "publication_date": "2024-10-08",
+  "journal": "Drug metabolism reviews",
+  "doi": "10.1080/03602532.2024.2402751",
+  "entities": {
+    "SYMPTOM": [
+      "aging",
+      "obesity"
+    ],
+    "POLYPHENOL": [
+      "a natural polyphenolic compound",
+      "certain therapeutic effects",
+      "mechanisms",
+      "recent years",
+      "resveratrol",
+      "the current molecular mechanisms"
+    ]
+  }
+}

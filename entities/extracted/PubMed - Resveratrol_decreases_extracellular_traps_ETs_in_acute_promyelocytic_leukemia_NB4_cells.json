@@ -1,0 +1,16 @@
+{
+  "source": "PubMed",
+  "query": "stilbenes",
+  "title": "Resveratrol decreases extracellular traps (ETs) in acute promyelocytic leukemia (NB4) cells.",
+  "abstract": "Activated neutrophils can create structures known as neutrophil extracellular traps (NETs/ETs) consisting of nuclear components and granules. The ETOsis phenomenon leads to activating the platelets and coagulation factors. Accordingly, coagulation and fibrinolysis can be promoted. Resveratrol (RSV) is a botanical antioxidant with anti-inflammatory and anti-leukemia effects. The present study was conducted to assess the effect of RSV on the occurrence of ETOsis in the NB4 cell line.",
+  "publication_date": "2025-04-17",
+  "journal": "PloS one",
+  "doi": "10.1371/journal.pone.0321221",
+  "entities": {
+    "POLYPHENOL": [
+      "-inflammatory and anti-leukemia effects",
+      "resveratrol",
+      "the effect"
+    ]
+  }
+}

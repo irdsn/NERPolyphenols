@@ -1,0 +1,21 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "In Silico Insights into the Inhibition of ADAMTS-5 by Punicalagin and Ellagic Acid for the Treatment of Osteoarthritis.",
+  "abstract": "ADAMTS-5 (aggrecanase-2) is a major metalloprotease involved in regulating the cartilage extracellular matrix. Due to its role in removing aggrecan in the progression of osteoarthritis (OA), ADAMTS-5 is often regarded as a potential therapeutic target for OA. Punicalagin (PCG), a polyphenolic ellagitannin found in pomegranate (Punica grunatumL.), and ellagic acid (EA), a hydrolytic metabolite of PCG, have been widely investigated as potential disease-modifying osteoarthritis drugs (DMOADs) due to their potent antioxidant and anti-inflammatory properties, but their interaction with ADAMTS-5 has yet to be determined. In this study, molecular docking simulations were used to predict enzyme-inhibitor binding interactions. The results suggest that both compounds may be able to bind within the active site via the formation of H bonds and interactions between the ligand's aromatic rings and hydrophobic residue in the enzyme with inhibition constants of 183.3 \u00b5M and 1.13 \u00b5M for PCG and EA, respectively. Biochemical activity against recombinant human ADAMTS-5 was assessed using a dimethylmethylene blue-based assay to determine residual sulfated glycosaminoglycan (sGAG) in porcine articular cartilage. Although its loss could not be attributed to ADAMTS-5, sGAG was effectively persevered by PCG and EA. The potential conversion of PCG to EA by enzyme-catalyzed hydrolysis activity was then investigated using liquid chromatography-mass spectroscopy to determine the potential for the use of PCG and EA as a prodrug-proactive metabolite pair in the development of drug delivery systems to arthritic synovial joints.",
+  "publication_date": "2025-04-25",
+  "journal": "International journal of molecular sciences",
+  "doi": "10.3390/ijms26094093",
+  "entities": {
+    "POLYPHENOL": [
+      "a polyphenolic ellagitannin",
+      "ellagic acid",
+      "liquid chromatography-mass spectroscopy",
+      "molecular docking simulations",
+      "recombinant human adamts-5"
+    ],
+    "FOOD": [
+      "pomegranate"
+    ]
+  }
+}

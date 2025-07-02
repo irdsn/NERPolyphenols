@@ -1,0 +1,24 @@
+{
+  "source": "PubMed",
+  "query": "tannins",
+  "title": "Fingerprinting and Quantification of Procyanidins via LC-MS/MS and ESI In-Source Fragmentation.",
+  "abstract": "Procyanidins (PCs), or condensed tannins (CTs), are critical for the quality of red wine and other polyphenol-rich foods because of their contribution to the mouthfeel. However, current analytical methods often show a lack of correlation with perceived astringency, biological activities (such as antioxidant activity), and health-related benefits. This is partly because methods such as the Folin-Ciocalteu and tannin affinity precipitation assays report a simplified total phenolic or tannin value that does not consider the diverse structures of CTs. Using procyanidin in-source fragmentation (PC-ISF) allows visualization of diverse CTs, from smaller oligomers to larger polymers, after chromatographic separation and compound depolymerization in the ion source. However, previous PC-ISF has not been optimized, particularly for predicting the structure of CTs with a degree of polymerization (DP) greater than 3. This study introduces a rapid ISF-based PC fingerprinting method, condensed tannin fragmentation fingerprinting (C-TFF), that uses three in-source energies per instrument, cone voltages of 30, 110, and 140 V on the Waters system and fragmentor voltages of 135, 330, and 380 V on the Agilent system, to depolymerize PCs and generate their in-source ions and fragments. The depolymerized spectra that contribute the most to PC differentiation are further fragmented in the collision cell, using multiple reaction monitoring (MRM). The collected MRM transitions of analytical PC standards are correlated to target samples with unidentified PCs via multiple linear regression (MLR), allowing for comprehensive fingerprinting by identifying and quantifying each PC. Nineteen mixtures of five B-type PCs (DPs 1-5) with a known mean degree of polymerization (mDP) and commercial cider samples were characterized via C-TFF, demonstrating high accuracy and precision. This study contributes to the analysis of CTs in complex samples. Future efforts will focus on characterizing structures with mDPs > 5, such as those found in wines with diverse CT profiles.",
+  "publication_date": "2025-05-16",
+  "journal": "Journal of agricultural and food chemistry",
+  "doi": "10.1021/acs.jafc.5c02379",
+  "entities": {
+    "POLYPHENOL": [
+      "a simplified total phenolic or tannin value",
+      "condensed tannins",
+      "other polyphenol-rich foods",
+      "precision",
+      "procyanidins",
+      "the collected mrm transitions",
+      "the depolymerized spectra"
+    ],
+    "FOOD": [
+      "red wine",
+      "wines"
+    ]
+  }
+}
