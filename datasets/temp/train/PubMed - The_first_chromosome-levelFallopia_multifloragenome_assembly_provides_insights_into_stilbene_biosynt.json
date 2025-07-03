@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol aging",
-  "title": "The first chromosome-levelFallopia multifloragenome assembly provides insights into stilbene biosynthesis.",
-  "abstract": "Fallopia multiflora(Thunb.) Harald, a vine belonging to the Polygonaceae family, is used in traditional medicine. The stilbenes contained in it have significant pharmacological activities in anti-oxidation and anti-aging. This study describes the assembly of theF. multifloragenome and presents its chromosome-level genome sequence containing 1.46 gigabases of data (with a contig N50 of 1.97 megabases), 1.44 gigabases of which was assigned to 11 pseudochromosomes. Comparative genomics confirmed thatF. multiflorashared a whole-genome duplication event with Tartary buckwheat and then underwent different transposon evolution after separation. Combining genomics, transcriptomics, and metabolomics data to map a network of associated genes and metabolites, we identified twoFmRSgenes responsible for the catalysis of one molecule ofp-coumaroyl-CoA and three molecules of malonyl-CoA to resveratrol inF. multiflora. These findings not only serve as the basis for revealing the stilbene biosynthetic pathway but will also contribute to the development of tools for increasing the production of bioactive stilbenes through molecular breeding in plants or metabolic engineering in microbes. Moreover, the reference genome ofF. multiflorais a useful addition to the genomes of the Polygonaceae family.",
-  "publication_date": "2023-03-15",
-  "journal": "Horticulture research",
-  "doi": "10.1093/hr/uhad047"
-}

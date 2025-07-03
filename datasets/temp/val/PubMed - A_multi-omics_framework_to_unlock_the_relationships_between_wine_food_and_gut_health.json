@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "polyphenols",
-  "title": "A multi-omics framework to unlock the relationships between wine, food, and gut health.",
-  "abstract": "Wine has long been studied for its cardioprotective effects, exemplified by the French Paradox-the observation of relatively lower cardiovascular disease (CVD) rates in the French population despite high dietary cholesterol and saturated fat intake, historically attributed to resveratrol and other bioactive factors from wine consumption. Recent findings suggest that the moderate consumption of wine could impact health well beyond CVD risk, including effects on intestinal physiology and gut microbial diversity and function. For example, wine contains a rich array of polyphenols, organic acids, and oligosaccharides, which may interact with the gut microbiota to alter microbial communities and to promote metabolism of wine-derived compounds into a diverse range of xenometabolites (microbe-produced metabolites) with local and systemic effects on the host. This interplay underscores the potential mechanisms by which moderate wine consumption impacts gut and systemic health. Furthermore, since wine is often consumed with meals, there is a critical need to understand how specific foods intersect with wine's chemical complexity to influence physiology in the gut and body-wide. This review explores how advancements in multi-omics technologies can be leveraged to characterize wine's \"dark matter\" and to consider interactions of wine components with complex food matrices to influence gut health. This framework holds potential to enhance our understanding of how moderate consumption of wine influences health and to inform the development of functional food innovations derived from wine's molecular components.",
-  "publication_date": "2025-06-20",
-  "journal": "Advances in nutrition (Bethesda, Md.)",
-  "doi": "10.1016/j.advnut.2025.100468"
-}

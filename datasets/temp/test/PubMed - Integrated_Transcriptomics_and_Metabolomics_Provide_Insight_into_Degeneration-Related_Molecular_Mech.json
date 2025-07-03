@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids",
-  "title": "Integrated Transcriptomics and Metabolomics Provide Insight into Degeneration-Related Molecular Mechanisms ofMorchella importunaDuring Repeated Subculturing.",
-  "abstract": "This study investigatedMorchella importunastrain degeneration during repeated subculturing and employed metabolomics, transcriptomics, and other techniques to explore its molecular mechanisms. Significant metabolic and transcriptional differences were observed between normal mycelia (NM) and degenerated mycelia (DG). Metabolomic analysis revealed 699 differentially expressed metabolites (DEMs) that were predominantly enriched in secondary metabolite biosynthesis pathways, particularly flavonoids and indole alkaloids. Total flavonoid content was markedly higher in NM than in DG, with most flavonoid compounds showing reduced levels in degenerated strains. Transcriptomic profiling revealed 2691 differentially expressed genes (DEGs), primarily associated with metabolic pathways and genetic information processing. Integrated analysis showed that metabolic dynamics were regulated by DEGs, with pyruvate metabolism being significantly enriched. The FunBGCeX tool identified biosynthetic gene clusters (BGCs) in theM. importunagenome, highlighting the critical role of the non-reducing polyketide synthase (NR-PKS) gene in flavonoid biosynthesis. This gene exhibited significantly downregulated expression in DG strains. These findings indicate thatM. importunadegeneration resulted from systemic dysregulation of gene expression networks and metabolic pathway reorganization. The results presented herein also provide theoretical insights into degeneration mechanisms and potential prevention strategies for this edible fungus.",
-  "publication_date": "2025-05-30",
-  "journal": "Journal of fungi (Basel, Switzerland)",
-  "doi": "10.3390/jof11060420"
-}

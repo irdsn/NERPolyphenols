@@ -1,46 +1,56 @@
-"""
-Script: entities_extractor.py
-Location: entities/
-Goal: Process all abstracts from datasets/raw/ and generate versions with extracted entity candidates
-      saved in entities/extracted/. Uses predefined lexicons (POLYPHENOL, FOOD, SYMPTOM).
-"""
+##################################################################################################
+#                               ENTITY EXTRACTION FROM ABSTRACTS                                #
+#                                                                                                #
+# This script processes abstracts from PubMed and extracts candidate entities using heuristics  #
+# based on predefined lexicons. The output is stored in JSON format for downstream use.         #
+##################################################################################################
 
-import os
+##################################################################################################
+#                                            IMPORTS                                             #
+##################################################################################################
+
 import json
-import spacy
 from collections import defaultdict
 from tqdm import tqdm
+import spacy
+
 from defined.polyphenols import KNOWN_POLYPHENOLS
 from defined.foods import KNOWN_FOODS
 from defined.symptoms import KNOWN_SYMPTOMS
-from utils.paths import RAW_DATA_DIR
-from pathlib import Path
+from utils.paths import RAW_DATA_DIR, EXTRACTED_ENTITIES_DIR
+from utils.logs_config import logger
 
-# === OUTPUT DIRECTORY ===
-EXTRACTED_DIR = Path(__file__).resolve().parent / "extracted"
-EXTRACTED_DIR.mkdir(parents=True, exist_ok=True)
+##################################################################################################
+#                                         CONFIGURATION                                           #
+##################################################################################################
 
-print(f"[INFO] Input directory: {RAW_DATA_DIR}")
-print(f"[INFO] Output directory: {EXTRACTED_DIR}")
-
-# Load spaCy biomedical model or fallback to general English
 try:
     nlp = spacy.load("en_core_web_sm")
-except:
+    logger.info("✅ Loaded spaCy model: en_core_web_sm")
+except Exception:
     nlp = spacy.load("en_core_sci_sm")
+    logger.warning("⚠️ Fallback to spaCy model: en_core_sci_sm")
 
-# === ENTITY EXTRACTION FUNCTION ===
-def extract_entities(text):
+##################################################################################################
+#                                     ENTITY EXTRACTION LOGIC                                    #
+##################################################################################################
+
+def extract_entities(text: str) -> dict:
     """
-    Extract candidate entities from input text using predefined lexicons and noun chunks.
-    Returns a dictionary with keys: POLYPHENOL, FOOD, SYMPTOM
+    Extract candidate entities from the input text using known lexicons
+    and noun chunking from spaCy.
+
+    Args:
+        text (str): Input abstract text.
+
+    Returns:
+        dict: Dictionary with keys 'POLYPHENOL', 'FOOD', 'SYMPTOM' and extracted terms.
     """
     doc = nlp(text)
     candidates = defaultdict(set)
 
     for chunk in doc.noun_chunks:
         span = chunk.text.lower().strip()
-
         if any(term in span for term in KNOWN_POLYPHENOLS):
             candidates['POLYPHENOL'].add(span)
         elif any(term in span for term in KNOWN_FOODS):
@@ -50,23 +60,36 @@ def extract_entities(text):
 
     return {k: sorted(list(v)) for k, v in candidates.items()}
 
-# === MAIN PROCESSING LOOP ===
-file_list = [f for f in os.listdir(RAW_DATA_DIR) if f.endswith('.json')]
-print(f"[INFO] Processing {len(file_list)} documents from '{RAW_DATA_DIR.name}'...")
+##################################################################################################
+#                                         MAIN EXECUTION                                         #
+##################################################################################################
 
-for fname in tqdm(file_list, desc="Extracting entities"):
-    in_path = RAW_DATA_DIR / fname
-    out_path = EXTRACTED_DIR / fname
+def main():
+    """
+    Process all raw abstracts and extract entity candidates.
+    Saves the enriched documents to the extracted/ directory.
+    """
+    file_list = sorted([f for f in RAW_DATA_DIR.iterdir() if f.suffix == ".json"])
+    logger.info(f"📁 Input directory: {RAW_DATA_DIR}")
+    logger.info(f"📂 Output directory: {EXTRACTED_ENTITIES_DIR}")
+    logger.info(f"📄 Documents to process: {len(file_list)}")
 
-    with open(in_path, 'r') as f:
-        doc = json.load(f)
+    for path in tqdm(file_list, desc="🔍 Extracting entities"):
+        with open(path, 'r', encoding='utf-8') as f:
+            doc = json.load(f)
 
-    text = doc.get("abstract", "")
-    entities = extract_entities(text)
+        abstract = doc.get("abstract", "")
+        doc["entities"] = extract_entities(abstract)
 
-    doc["entities"] = entities  # Use consistent key now (not "defined")
+        out_path = EXTRACTED_ENTITIES_DIR / path.name
+        with open(out_path, 'w', encoding='utf-8') as out_f:
+            json.dump(doc, out_f, indent=2, ensure_ascii=False)
 
-    with open(out_path, 'w') as f:
-        json.dump(doc, f, indent=2)
+    logger.info(f"✅ Extraction complete: {len(file_list)} documents processed.")
 
-print(f"\n[INFO] {len(file_list)} documents processed and saved to '{EXTRACTED_DIR}'")
+##################################################################################################
+#                                         SCRIPT ENTRYPOINT                                      #
+##################################################################################################
+
+if __name__ == "__main__":
+    main()

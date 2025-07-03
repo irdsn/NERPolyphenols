@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "secondary metabolites",
-  "title": "A genetically tractable branch of environmental Pedobacter from the phylum Bacteroidota represents a hotspot for natural product discovery.",
-  "abstract": "Emerging global challenges, such as antimicrobial resistance, have shifted the focus of natural product discovery from well-characterized microbial producers to underexplored taxonomic groups. Here, we computationally and experimentally characterize the biosynthetic potential of the genus Pedobacter, a Bacteroidota taxon known for antibiotic production that harbors numerous uncharacterized secondary metabolite (SM)-encoding biosynthetic gene clusters (BGCs). Through phylogenomic analysis of the genus Pedobacter, we identify a distinct clade enriched in lipopeptide-associated BGCs, most of which lack known chemical products. By developing de novo genetic tools and integrating metabolomics, we linked specific secondary metabolites to their corresponding BGCs. Using synthetic and analytical chemistry as proof of concept, we isolated and structurally characterized twelve linear lipopeptides (cryopeptins A-N), containing rare dehydrovalines from Pedobacter cryoconitis PAMC 27485. We demonstrate that all cryopeptins, despite their structural heterogeneity, are biosynthesized by a single multi-domain non-ribosomal peptide synthetase (NRPS) gene cluster. Mechanistically, we propose that this BGC drives chemical diversity through combinatorial fatty acid incorporation and iterative amino acid assembly, resulting in variable peptide chain lengths. This work highlights the biosynthetic versatility of Pedobacter and outlines methods for genetic manipulation in this genus to systematically access its cryptic natural product repertoire.",
-  "publication_date": "2025-06-20",
-  "journal": "Scientific reports",
-  "doi": "10.1038/s41598-025-03955-z"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol",
-  "title": "Amyloid beta peptides inhibit glucose transport at the blood-brain barrier by disrupting the insulin-AKT pathway.",
-  "abstract": "Molecular mechanisms underlying disruptions in brain glucose uptake and metabolism, linked with cognitive decline in Alzheimer's disease (AD) patients, are only partially understood. This study investigated how soluble amyloid beta (sAβ) peptides affect glucose transport at the blood-brain barrier (BBB), the primary portal for glucose entry into the brain. We demonstrated that [18F]-fluorodeoxyglucose (18FDG) uptake is reduced in sAβ overproducing APP,PS1 transgenic mice compared to wild-type mice. Moreover, the influx rate of18FDG decreased in sAβ40 or sAβ42 pre-infused mice, highlighting the inhibitory effect of sAβ peptides on glucose transport at the BBB. Consistently, the expression of GLUT1, the primary glucose transporter at the BBB, is reduced in polarized human cerebral microvascular endothelial cell (hCMEC/D3) monolayers upon exposure to sAβ peptides and in Aβ-laden cerebral vasculature in vivo. The study further examined the influence of sAβ on the insulin-AKT pathway, known to regulate glucose uptake through modulation of thioredoxin-interacting protein (TXNIP) expression. Results showed that sAβ peptides suppress AKT phosphorylation and reduce GLUT1 expression by upregulating TXNIP levels in hCMEC/D3 monolayers. Co-incubation of resveratrol with sAβ peptides reduced TXNIP expression and rectified reductions in GLUT1 expression. In summary, toxic sAβ impairs BBB glucose transport by disrupting the insulin/AKT/TXNIP axis.",
-  "publication_date": "2025-05-15",
-  "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
-  "doi": "10.1177/0271678X251332493"
-}

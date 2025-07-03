@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids cardiovascular",
-  "title": "Luteolin-7-O-glucuronide alleviates doxorubicin-induced cardiotoxicity by inhibiting PPAR-mediated ferroptosis.",
-  "abstract": "Inhibiting ferroptosis has been proposed to rescue myocardial cell death in Doxorubicin (DOX)-induced cardiotoxicity (DIC). Here, we aimed to investigate whether luteolin-7-O-glucuronide (LOG) alleviates DIC via ferroptosis suppression in zebrafish and H9C2 cardiomyocytes, as well as the potential mechanism. We found that LOG improved zebrafish cardiac function and mitigated the upregulation of CK-MB, cTnT, nppa, and nppb caused by DOX. Moreover, LOG suppressed the high levels of ROS, GSSG, and MDA in response to DOX and increased GSH activity and gpx4 levels in zebrafish. Additionally, LOG increased cell viability and the GSH/GSSG ratio, reduced oxidative damage and the accumulation of ferrous ions, and maintained mitochondrial function in H9C2 cells. Mechanistically, LOG improved the abnormal expression of key genes in the PPAR signaling pathway and ferroptosis induced by DOX. In conclusion, our study emphasized that LOG attenuates DIC by mitigating oxidative stress-triggered lipid peroxidation related to the inhibition of PPAR-mediated ferroptosis.",
-  "publication_date": "2025-05-08",
-  "journal": "Toxicology and applied pharmacology",
-  "doi": "10.1016/j.taap.2025.117381"
-}

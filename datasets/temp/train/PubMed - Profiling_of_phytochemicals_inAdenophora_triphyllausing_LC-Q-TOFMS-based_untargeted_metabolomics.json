@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "bioactive phytochemicals",
-  "title": "Profiling of phytochemicals inAdenophora triphyllausing LC-Q-TOF/MS-based untargeted metabolomics.",
-  "abstract": "Adenophora triphyllahas been widely used in traditional oriental medicine and can be used in the functional food industry because of its health-beneficial properties. However, although previous studies have focused on specific bioactive compounds, such as saponins and flavonoids, a comprehensive understanding of the overall chemical composition ofA. triphyllaroot and its processed extracts remains limited. To address this gap, this study applied a non-targeted metabolomics approach using LC-Q-TOF-MS to compare the metabolite profiles ofA. triphyllaroot (AR) and its hydrothermal extract (ARE). A total of 23 and 15 compounds were tentatively identified from AR in negative and positive ion modes, while 19 and 9 compounds were detected from ARE, respectively. Although the classes of compounds were largely similar, the results of multivariate analyses, such as principal component analysis (PCA), partial least-squares discriminant analysis (PLS-DA), and orthogonal partial least-squares discriminant analysis (OPLS-DA), revealed distinct metabolic patterns between AR and ARE. PCA accounted for more than 95% of the total variance, and theR2YandQ2values of PLS-DA and OPLS-DA exceeded 0.9, clearly distinguishing AR from ARE. Thirty-two compounds were identified as differential metabolites with variable importance in projection scores of 1 or higher, and 21 compounds were identified in AR and ARE. This study provides novel insights into how hydrothermal extraction affects the overall metabolite composition ofA. triphylla, supporting its potential application in the development of functional food ingredients.",
-  "publication_date": "2025-06-02",
-  "journal": "RSC advances",
-  "doi": "10.1039/d5ra00186b"
-}

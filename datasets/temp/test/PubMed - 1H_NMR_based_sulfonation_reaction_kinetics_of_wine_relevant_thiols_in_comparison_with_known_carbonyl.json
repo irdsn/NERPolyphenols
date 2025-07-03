@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "wine polyphenols",
-  "title": "1H NMR based sulfonation reaction kinetics of wine relevant thiols in comparison with known carbonyls.",
-  "abstract": "Sulfite addition is a common tool for ensuring wines' oxidative stability via the activity of its free and weakly bound molecular fraction. As a nucleophile, bisulfite forms covalent adducts with wine's most relevant electrophiles, such as carbonyls, polyphenols, and thiols. The equilibrium in these reactions is often represented as dissociation rather than formation. Recent studies from our laboratory demonstrate, first, the acetaldehyde sulfonate dissociation, and second, the chemical stability of cysteine and epicatechin sulfonates under wine aging conditions. Thus, the objective of this study was to monitor by1H NMR the binding specificity of known carbonyl-derived SO2binders (acetaldehyde and pyruvic acid) in the presence of S-containing compounds (cysteine and glutathione). We report that during simulated wine aging, the sulfur dioxide that is rapidly bound to carbonyl compounds will be released and will bind to cysteine and glutathione, demonstrating the long-term sulfur dioxide binding potential of S-containing compounds. These results are meant to serve as a complement to existing literature reviews focused on molecular markers related to wines' oxidative stability and emphasize once more the importance of S-containing compounds in wine aging chemical mechanisms.",
-  "publication_date": "2024-03-05",
-  "journal": "Food chemistry",
-  "doi": "10.1016/j.foodchem.2024.138944"
-}

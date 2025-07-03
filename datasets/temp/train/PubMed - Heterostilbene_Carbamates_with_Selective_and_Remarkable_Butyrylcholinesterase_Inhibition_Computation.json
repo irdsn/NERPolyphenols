@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "Heterostilbene Carbamates with Selective and Remarkable Butyrylcholinesterase Inhibition: Computational Study and Physico-Chemical Properties.",
-  "abstract": "This manuscript reports the synthesis and characterization of 19 novel heterostilbene carbamates, designed as selective butyrylcholinesterase (BChE) inhibitors with potential applications in the treatment of neurodegenerative disorders, particularly Alzheimer's disease. The compounds were synthesized from resveratrol analogs, and their structures were confirmed by NMR spectroscopy, high-resolution mass spectrometry (HRMS), and single-crystal X-ray diffraction for selected derivatives (compounds1and4). In vitro assays demonstrated high selectivity toward BChE over acetylcholinesterase (AChE), with compound16exhibiting exceptional inhibitory activity (IC50= 26.5 nM). Furthermore, compound16showed moderate anti-inflammatory effects by inhibiting LPS-stimulated TNF-α production in peripheral blood mononuclear cells. In silico ADME(T) profiling revealed favorable pharmacokinetic properties and low mutagenic potential for the majority of compounds. Molecular docking and molecular dynamics simulations confirmed stable binding interactions within the BChE active site. These results highlight heterostilbene carbamates as promising lead structures for developing novel therapeutic agents targeting neurodegenerative diseases.",
-  "publication_date": "2025-06-05",
-  "journal": "Biomolecules",
-  "doi": "10.3390/biom15060825"
-}

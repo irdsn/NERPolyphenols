@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "fruit polyphenols",
-  "title": "Foodomics approaches: New insights in phenolic compounds analysis.",
-  "abstract": "Fruits, vegetables, and plant-based foods contain several bioactive substances such as phenolic compounds (PCs), that are plant secondary metabolites with attributed health properties. The study of the metabolic pathways of PCs, including those related with their synthesis, transport, accumulation, and degradation are essential to advance in this field of research. In this regard, omics tools such as foodomics are gaining relevance due to their versatility and their tremendous potential to generate significant advances in PC research. In this review, we present a comprehensive overview of the applications of omics technologies in PC analysis, including transcriptomics, micromics, proteomics and metabolomics, highlighting their role in metabolic pathways, current limitations, and emerging insights. Omics techniques as well as data analyses are continuously progressing, emerging new opportunities with onset of artificial intelligence and machine learning. However, significant limitations and challenges still remain. The immense diversity of PC chemical structures and their variability across plant species, varieties, and impact of agronomic factors complicate the analyses and limit the extrapolation of findings. Additionally, high data dimensionality, strong correlations among measured variables, and general lack of standardization in the different omics techniques can impact in the results. Addressing these limitations requires integrating multi-omics approaches and developing standardized protocols to enhance comparability and interpretation in PC research. In summary, foodomics approaches arise as essential for the complete mapping of PC biosynthesis.",
-  "publication_date": "2025-03-13",
-  "journal": "Food research international (Ottawa, Ont.)",
-  "doi": "10.1016/j.foodres.2025.116168"
-}

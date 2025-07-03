@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "proanthocyanidins",
-  "title": "Evaluation of proanthocyanidins in treating Type 2 diabetic osteoporosis via SIRT6/Nrf2/GPX4 pathways.",
-  "abstract": "This study investigates the therapeutic potential of proanthocyanidins (PAC) in addressing Type 2 diabetic osteoporosis (T2DOP) by activating the SIRT6/Nrf2/GPX4 signaling pathways. T2DOP is characterized by compromised bone structure and heightened oxidative stress, where ferroptosis plays a pivotal role. Utilizing a T2DOP mouse model and MC3T3-E1 cells under high glucose conditions, we evaluated the impact of PAC on bone health and iron homeostasis. Our results, obtained through micro-CT, histological staining, Western blot, and immunofluorescence analyses, revealed reductions in bone density and decreased GPX4 expression in T2DOP conditions, indicating ferroptosis and oxidative stress. However, PAC treatment improved trabecular bone structure, reduced bone marrow adipocytes, decreased oxidative stress, and enhanced expression of key osteogenic proteins. These findings highlight PAC's potential in mitigating T2DOP through the SIRT6/Nrf2/GPX4 pathways, offering promising therapeutic insights for managing diabetic osteoporosis.",
-  "publication_date": "2025-05-01",
-  "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
-  "doi": "10.1096/fj.202403032R"
-}

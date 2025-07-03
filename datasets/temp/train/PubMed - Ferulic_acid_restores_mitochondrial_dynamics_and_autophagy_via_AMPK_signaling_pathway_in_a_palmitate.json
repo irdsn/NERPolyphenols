@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds metabolic syndrome",
-  "title": "Ferulic acid restores mitochondrial dynamics and autophagy via AMPK signaling pathway in a palmitate-induced hepatocyte model of metabolic syndrome.",
-  "abstract": "Mitochondrial dysfunction, characterized by elevated oxidative stress, impaired energy balance, and dysregulated mitochondrial dynamics, is a hallmark of metabolic syndrome (MetS) and its comorbidities. Ferulic acid (FA), a principal phenolic compound found in whole grains, has demonstrated potential in ameliorating oxidative stress and preserving energy homeostasis. However, the influence of FA on mitochondrial health within the context of MetS remains unexplored. Moreover, the impact of FA on autophagy, which is essential for maintaining energy homeostasis and mitochondrial integrity, is not fully understood. Here, we aimed to study the mechanisms of action of FA in regulating mitochondrial health and autophagy using palmitate-treated HepG2 hepatocytes as a MetS cell model. We found that FA improved mitochondrial health by restoring redox balance and optimizing mitochondrial dynamics, including biogenesis and the fusion/fission ratio. Additionally, FA was shown to recover autophagy and activate AMPK-related cell signaling. Our results provide new insights into the therapeutic potential of FA as a mitochondria-targeting agent for the prevention and treatment of MetS.",
-  "publication_date": "2024-08-16",
-  "journal": "Scientific reports",
-  "doi": "10.1038/s41598-024-66362-w"
-}

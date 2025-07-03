@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "A VqMAPK4-VqGT3-VqNSTS6 module regulates powdery mildew resistance via stilbene biosynthesis in Chinese wild grapevine.",
-  "abstract": "Grapes are widely cultivated around the world and valued for their rich nutritional content and versatile use in various industries. However, grape powdery mildew (PM) threatens grape production. This study aimed to identify and characterize PM resistance genes in Chinese wild grapevine (Vitis quinquangularis). Grape PM resistance is associated with stilbene synthases (STSs). Here, we isolated VqNSTS6 from the Chinese wild grapevine accession 'Danfeng-2' that exhibits high PM resistance. Overexpression of VqNSTS6 in the susceptible 'Thompson Seedless' variety induced PM resistance, whereas its transient knockdown in 'Danfeng-2' diminished this resistance. Furthermore, VqNSTS6 expression was upregulated by VqGT3, resulting in stilbene accumulation and enhanced PM resistance. However, stilbene overaccumulation induced Mitogen-Activated Protein Kinase 4 (MAPK4) phosphorylation, which in turn triggered VqGT3 phosphorylation and degradation, consequently downregulating VqNSTS6 and mitigating excessive stilbene accumulation. Additionally, VqNSTS6-GFP moved toward and wrapped around pathogen haustoria, forming a barrier preventing Golovinomyces cichoracearum invasion of Arabidopsis (Arabidopsis thaliana). The characterization of the STS gene VqNSTS6 conferring PM resistance opens avenues for breeding PM-resistant grapevine genotypes.",
-  "publication_date": "2025-05-01",
-  "journal": "Plant physiology",
-  "doi": "10.1093/plphys/kiaf140"
-}

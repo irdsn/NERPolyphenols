@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "grape skin",
-  "title": "Weighted Gene Co-Expression Network Analysis to Explore Hub Genes of Resveratrol Biosynthesis in Exocarp and Mesocarp of 'Summer Black' Grape.",
-  "abstract": "Resveratrol is a polyphenol compound beneficial to human health, and its main source is grapes. In the present study, the molecular regulation of resveratrol biosynthesis in developing grape berries was investigated using weighted gene co-expression network analysis (WGCNA). At the same time, the reason for the resveratrol content difference between grape exocarp (skin) and mesocarp (flesh) was explored. Hub genes (CHS, STS, F3'5'H, PAL, HCT) related to resveratrol biosynthesis were screened with Cytoscape software. The expression level of hub genes in the exocarp was significantly higher than that in the mesocarp, and the expressions of the hub genes and the content of resveratrol in exocarp peaked at the maturity stage. While the expression levels ofPAL, CHSandSTSin the mesocarp, reached the maximum at the maturity stage, andF3'5'HandHCTdecreased. These hub genes likely play a key role in resveratrol biosynthesis. Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis further indicated that resveratrol biosynthesis was related to flavonoid biosynthesis, phenylalanine metabolism, phenylpropanoid biosynthesis, and stilbene biosynthesis pathways. This study has theoretical significance for exploring genes related to resveratrol biosynthesis in the exocarp and mesocarp of grapes, and provides a theoretical basis for the subsequent function and regulatory mechanism of hub genes.",
-  "publication_date": "2023-01-28",
-  "journal": "Plants (Basel, Switzerland)",
-  "doi": "10.3390/plants12030578"
-}

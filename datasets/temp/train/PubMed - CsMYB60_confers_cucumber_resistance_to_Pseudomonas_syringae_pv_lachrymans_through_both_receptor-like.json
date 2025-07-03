@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "proanthocyanidins",
-  "title": "CsMYB60 confers cucumber resistance to Pseudomonas syringae pv. lachrymans through both receptor-like kinase CsFLS2-dependent and -independent pathways.",
-  "abstract": "Bacterial angular leaf spot (BALS), caused by Pseudomonas syringae pv. lachrymans (Psl), is a severe bacterial disease constraining the cucumber industry. However, few genes have been identified that regulate resistance to BALS in cucumber. Here, we identified a gene, CsFLS2, which encoded a receptor-like kinase and was significantly upregulated following infection with P. syringae pv. lachrymans. Overexpression of CsFLS2 enhanced cucumber resistance to BALS by promoting the occurrence of pattern-triggered immunity (PTI), while two knockout lines of CsFLS2 exhibited increased sensitivity to P. syringae pv. lachrymans. Additionally, an R2R3-MYB transcription factor, CsMYB60 was identified as directly binding to the CsFLS2 promoter to activate its transcription. Overexpression of CsMYB60 enhanced cucumber resistance to BALS, partly by inducing the expression of CsFLS2 to promote PTI and thereby enhance resistance, and partly by increasing the biosynthesis of proanthocyanidins (PAs) to improve resistance to BALS. Moreover, CsFLS2 restored the responses of Atfls2 mutant to flg22-induced reactive oxygen species production and growth inhibition. In conclusion, this study revealed the molecular mechanism of CsMYB60 in the biological process of resistance to BALS in cucumber, providing a theoretical basis and technical support for future molecular design breeding of disease-resistant cucumbers.",
-  "publication_date": "2025-06-01",
-  "journal": "The Plant journal : for cell and molecular biology",
-  "doi": "10.1111/tpj.70283"
-}

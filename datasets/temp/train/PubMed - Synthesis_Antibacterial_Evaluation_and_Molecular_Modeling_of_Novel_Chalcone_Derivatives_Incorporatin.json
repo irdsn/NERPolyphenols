@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids",
-  "title": "Synthesis, Antibacterial Evaluation and Molecular Modeling of Novel Chalcone Derivatives Incorporating the Diphenyl Ether Moiety.",
-  "abstract": "Twenty-one novel chalcone derivatives,5a-5u, incorporating a diphenyl ether moiety, were designed, prepared, and subsequently characterized using NMR and HR-MS and FR-IR techniques. Antibacterial evaluation of the target compounds was carried out againstStaphylococcus aureus,Escherichia coli,Salmonella, andPseudomonas aeruginosa. The in vitro results demonstrated that most compounds exhibited considerable potency in inhibiting bacterial growth, with MIC values ranging from 25.23 to 83.50 μM forS. aureus, 27.53 to 76.25 μM forE. coli, 29.73 to 71.73 μM forSalmonella, and 27.53 to 71.73 μM forP. aeruginosa. Notably, all synthesized compounds exhibited superior antibacterial activity compared to the lead chalcone. In particular, compound5u, which features two diphenyl ether moieties, displayed outstanding antibacterial performance, with MIC values of 25.23 μM forS. aureusand 33.63 μM forE. coli,Salmonella, andP. aeruginosa. Moreover, compound5uoutperformed both ciprofloxacin and gentamicin againstSalmonellaandP. aeruginosa, and time-kill curve assays further revealed that concentrations of compound5uat or above 33.63 μM provided potent and sustained inhibition of bothSalmonellaandP. aeruginosa. Additionally, molecular modeling of theP. aeruginosaLpxC-compound5ucomplex suggested that compound5ucould strongly bind to and interact with the binding site of the LpxC. Based on these findings, compound5urepresents a promising lead for future antimicrobial development.",
-  "publication_date": "2025-06-13",
-  "journal": "Molecules (Basel, Switzerland)",
-  "doi": "10.3390/molecules30122575"
-}

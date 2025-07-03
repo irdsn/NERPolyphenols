@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic acids",
-  "title": "Ecofriendly Extraction of Polyphenols fromAmpelopsis grossedentataLeaves Coupled with Response Surface Methodology and Artificial Neural Network-Genetic Algorithm.",
-  "abstract": "This study aimed to optimize a novel deep eutectic solvents (DESs)-assisted extraction process for polyphenols in the leaves ofAmpelopsis grossedentata(AGPL) with response surface methodology (RSM) and a genetic algorithm-artificial neural network (GA-ANN). Under the influence of ultrasonic excitation, the L-carnitine-1,4-butanediol system was selected for the phenolics extraction process. The ideal conditions for AGPL extraction were the following: liquid to solid ratio of 35.5 mL/g, ultrasonic power of 697 W and extraction duration of 46 min. Under those conditions, the actual AGPL yield was 15.32% ± 0.12%. The statistical analysis showed that both models could predict AGPL yield well and GA-ANN had relatively higher accuracy in the prediction of AGPL output, supported by the coefficient of determination (R2= 0.9809) in GA-based ANN compared to R2= 0.9145 in RSM, as well as lower values for mean squared error (MSE = 0.0279), root mean squared error (RMSE = 0.1669) and absolute average deviation (AAD = 0.1336) in the GA-ANN model. Moreover, the extracted polyphenols were determined by HPLC-MS to have 20 phenolic compounds corresponding to some bioactive acids such as nonadecanoic acid and neochlorogenic acid. The in vitro ORAC assay revealed that Carn-Bu4 assisted AGPL extract exhibited a notable antioxidant capacity of 275.3 ± 0.64 μmol TE/g.",
-  "publication_date": "2025-05-28",
-  "journal": "Molecules (Basel, Switzerland)",
-  "doi": "10.3390/molecules30112354"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol",
-  "title": "Construction and evaluation of pH-sensitive nanoparticles with resveratrol release to trigger the immunogenic cell death in colon cancer cellsin vitro.",
-  "abstract": "Colon cancer (CC) is a major global health menace, with its progression linked to immune cell activity in the tumor microenvironment (TME). A nanocarrier-based drug immunotherapy can effectively treat CC while reducing the toxicity of drug delivery systems. Here, a strategy for delivering antitumor agents to trigger immunogenic cell death (ICD) of tumor cells was demonstrated, enhancing the treatment of CC. Specifically, pH-sensitive nanoparticles (RPP NPs) were constructed utilizing poly (β-amino ester)-grafted polyetherimide (PBAE-PEI, PP) nanoparticles encapsulated resveratrol (RES). The drug delivery system exhibited good formulation characteristics and biocompatibility, enhancing RES release with pH reduction. Importantly, carrier PP showed weak cytotoxicity, whereas RPP NPs significantly inhibited cell growth. Meanwhile, after cellular endocytosis, RPP NPs could achieve lysosomal escape, rapidly releasing RES. Moreover, RPP NPs may elicit damage-associated molecular patterns (DAMPs) in CT26 cells via affecting organelle function, subsequently promoting the maturation of peripheral dendritic cells (DCs), and enhancing anti-cancer immunity. Consequently, RPP NPs demonstrated RES-mediated ICD activation in cancer cells, potentially offering a novel anti-CC therapeutic strategy.",
-  "publication_date": "2025-06-18",
-  "journal": "Colloids and surfaces. B, Biointerfaces",
-  "doi": "10.1016/j.colsurfb.2025.114895"
-}

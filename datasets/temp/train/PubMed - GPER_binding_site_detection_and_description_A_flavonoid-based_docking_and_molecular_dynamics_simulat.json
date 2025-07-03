@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "cocoa flavonoids",
-  "title": "GPER binding site detection and description: A flavonoid-based docking and molecular dynamics simulations study.",
-  "abstract": "Flavonoids, a phenolic compounds class widely distributed in the plant kingdom, have attracted much interest for their implications on several health and disease processes. Usually, the consumption of this type of compounds is approximately 1 g/d, primarily obtained from cereals, chocolate, and dry legumes ensuring its beneficial role in maintaining the homeostasis of the human body. In this context, in cancer disease prominent data points to the role of flavonoids as adjuvant treatment aimed at the regression of the disease. GPER, an estrogen receptor on the cell surface, has been postulated as a probable orchestrator of the beneficial effects of several flavonoids through modulation/inhibition of various mechanisms that lead to cancer progression. Therefore, applying pocket and cavity protein detection and docking and molecular dynamics simulations (MD), we generate, from a cluster composed of 39 flavonoids, crucial insights into the potential role as GPER ligands, of Puerarin, Isoquercetin, Kaempferol 3-O-glucoside and Petunidin 3-O-glucoside, aglycones whose sugar moiety delimits a new described sugar-acceptor sub-cavity into the cavity binding site on the receptor, as well as of the probable activation mechanism of the receptor and the pivotal residues involved in it. Altogether, our results shed light on the potential use of the aforementioned flavonoids as GPER ligands and for further evaluations in in vitro and in vivo assays to elucidate their probable anti-cancer activity.",
-  "publication_date": "2024-02-01",
-  "journal": "The Journal of steroid biochemistry and molecular biology",
-  "doi": "10.1016/j.jsbmb.2024.106474"
-}

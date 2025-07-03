@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol aging",
-  "title": "RNA m6A methylation regulatory mechanism of resveratrol in premature senescence cells.",
-  "abstract": "Resveratrol, a natural compound found in various plants, is known for its anti-inflammatory, antioxidant, and senescence-delaying properties. RNA N6-methyladenosine (m6A) methylation plays a crucial role in oxidative stress and premature cellular senescence processes and is closely associated with age-related disorders. However, the anti-premature senescence via RNA m6A methylation mechanism of resveratrol is still not fully understood. In this study, based on premature senescence model of human embryonic lung fibroblasts (HEFs) induced by hydrogen peroxide (H2O2), a widely accepted model of premature senescence caused by oxidative stress, we explored the anti-aging regulatory effects of resveratrol at the RNA m6A methylation level. Our data suggested that resveratrol significantly delayed premature senescence by increasing cell viability, reducing SA-β-gal blue staining rate, ROS levels, and senescence-associated secretory phenotypes (SASP) expression in HEFs. Meanwhile, resveratrol increased the whole RNA methyltransferases activity and the overall m6A level during senescence. Furthermore, three genesCCND2,E2F1, andGADD45Bhave been identified as the main ones regulating premature by resveratrol. Specifically, it decreasedE2F1,GADD45BRNA m6A methylation level, and increasedCCND2level in premature cells. Our study provided new clues for exploring the mechanism and application of resveratrol in the field of premature aging.",
-  "publication_date": "2024-09-30",
-  "journal": "Food science & nutrition",
-  "doi": "10.1002/fsn3.4487"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids cancer",
-  "title": "Vitexicarpin suppresses colorectal and non-small cell lung cancer via selective inhibition of Anoctamin 1.",
-  "abstract": "Colorectal cancer (CRC) and non-small cell lung cancer (NSCLC) remain among the most challenging malignancies to treat due to therapy complexity, adverse events, and dose-limiting toxicities, which often result in treatment failure. NSCLC, in particular, has a high mortality rate attributed to late-stage diagnosis and therapeutic resistance. Anoctamin 1 (ANO1), a calcium-activated chloride channel, has been implicated in cancer progression and is an emerging therapeutic target. In this study, we identified vitexicarpin, a flavonoid isolated from Vitex trifolia, as a novel ANO1 inhibitor with anticancer potential. Vitexicarpin inhibited ANO1 channel function, reduced ANO1 protein levels, decreased cancer cell viability, and induced apoptosis in CRC and NSCLC cell lines. Importantly, vitexicarpin exhibited minimal hepatotoxicity and negligible hERG channel inhibition, supporting its safety profile. Collectively, our findings suggest that vitexicarpin is a promising candidate for the treatment of CRC and NSCLC through selective inhibition of ANO1.",
-  "publication_date": "2025-05-30",
-  "journal": "Frontiers in pharmacology",
-  "doi": "10.3389/fphar.2025.1557193"
-}

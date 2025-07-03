@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "proanthocyanidins",
-  "title": "Interaction mechanisms between α-glucosidase and procyanidin dimers with different galloyl moiety: Multi-spectral analysis and molecular dynamics simulation.",
-  "abstract": "This study investigated the interaction mechanisms between α-glucosidase and procyanidin dimers containing varying galloyl moieties. The in vitro inhibitory assay demonstrated that a dose-dependent inhibition on α-glucosidase with IC₅₀ values spanning from 0.29 mg/mL (PCBDG) to 80.24 mg/mL (PCB), highlighting the pivotal role of galloyl groups. Multi-spectral analyses (UV-vis, fluorescence, FT-IR, CD) demonstrated that galloylated procyanidin dimers induced conformational changes in α-glucosidase, altering its secondary structure and hydrophobic microenvironment. DSC and ITC studies indicated PCBDG reduced enzyme thermal stability, and exhibited the highest binding affinity. Molecular docking revealed that PCBDG formed the most stable complex with α-glucosidase via extensive hydrogen bonds, hydrophobic interactions, and π-stacking with key residues, while MD simulations further confirmed its structural stability. These findings emphasized that the number of galloyl moieties enhanced inhibitory potency by optimizing enzyme-ligand interactions, offering insights for designing natural α-glucosidase inhibitors to manage postprandial hyperglycemia.",
-  "publication_date": "2025-04-14",
-  "journal": "Bioorganic chemistry",
-  "doi": "10.1016/j.bioorg.2025.108476"
-}

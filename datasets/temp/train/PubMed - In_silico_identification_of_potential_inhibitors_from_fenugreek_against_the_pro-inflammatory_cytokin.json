@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "quercetin",
-  "title": "In silico identification of potential inhibitors from fenugreek against the pro-inflammatory cytokine IL-17 and its receptor.",
-  "abstract": "Periodontitis is a chronic inflammatory disease of the oral cavity, which is characterized by the excessive immune response to microbial stimuli and poses significant systemic health risks. The pro-inflammatory cytokine Interleukin-17 (IL-17) plays a pivotal role in the progression of periodontitis, by promoting immune cell recruitment and activating tissue-destructive molecules. This study explores the potential of fenugreek-derived phytochemicals-specifically isovitexin, rhaponticin, galactomannan, and quercetin-as inhibitors of IL-17 and its receptor, IL-17R, to mitigate inflammatory pathways in periodontitis. Using an in silico approach, molecular docking, molecular dynamics (MD) simulations, and binding affinity analysis were employed to assess the interaction of these compounds with the IL-17-IL-17R complex. Results indicate that isovitexin (IVI) and rhaponticin (RHA) exhibit strong binding affinities, with stable protein-ligand interactions throughout the simulations, supporting their potential as therapeutic agents. The study's findings contribute to the growing evidence of the anti-inflammatory benefits of fenugreek phytochemicals, suggesting that they may be utilized to develop novel therapeutic strategies for managing chronic inflammatory conditions such as periodontitis.",
-  "publication_date": "2025-05-31",
-  "journal": "Odontology",
-  "doi": "10.1007/s10266-025-01123-3"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "tannins",
-  "title": "Enhancement of Hydrogen-Sensing Properties of Pd-Modified WO3Nanocubes via Tannic Acid-Assisted Surface Functionalization.",
-  "abstract": "The growing use of hydrogen as a clean energy source demands the development of efficient and reliable sensors to ensure safety. Traditional metal-oxide-semiconductors, particularly WO3, face challenges such as limited sensitivity, high operating temperatures, and slow response times. The present study explores the enhancement of hydrogen-sensing properties through the modification of WO3with Pd nanoparticles utilizing tannic acid (TA)-assisted surface functionalization. Due to its branched molecular structure and inherent phenolic characteristics, TA plays a significant role as a mediator in facilitating the adsorption of Pd onto the surface of WO3. Furthermore, TA effectively prevents the agglomeration of Pd, a result of the unique growth patterns of TA observed during high-temperature pyrolysis. Optimal content of Pd and TA is 0.10 atom % and 0.25 g, respectively. The gas sensor of 0.25 g TA@WO3-0.10 atom % Pd exhibits remarkable sensitivity with a response value of 456, alongside a rapid response time of 1 s at 200 °C toward 500 ppm hydrogen. Additionally, the gas sensor demonstrates excellent stability and reproducibility over multiple cycles. The enhanced performance is attributed to the synergistic effect of the formation of oxygen vacancies increasing active sites, the uniform dispersion of Pd nanoparticles facilitated by TA, and the catalytic activity of Pd accelerating hydrogen adsorption and reaction kinetics. This research highlights the potential of ecofriendly materials to enhance hydrogen sensor performance for safety monitoring.",
-  "publication_date": "2025-05-15",
-  "journal": "ACS sensors",
-  "doi": "10.1021/acssensors.5c00268"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "Three transcription factors form an activation-inhibition module to regulate anthocyanin accumulation in Asiatic hybrid lilies.",
-  "abstract": "Asiatic hybrid lilies (Lilium spp.) are favored by consumers for their vibrant colors and diverse anthocyanin pigmentations. Although the regulation of anthocyanin accumulation by transcription factors has been explored, the role of HD-Zip proteins with ethylene-responsive element binding factor associated amphiphilic repression (EAR) motifs in modulating anthocyanin levels through histone acetylation remains unclear. In this study, we identified Lhhomeobox-leucine zipper protein 4 (LhHB4) as a δ group member of the HD-Zip II family, acting as a repressor of anthocyanin accumulation in lilies. LhHB4 directly suppresses the expression of LhMYBSPLATTER by binding to its promoter. In addition, LhHB4 inhibits the gene expression of the anthocyanin activator LhWRKY44, which, in turn, activates LhMYBSPLATTER expression, forming a regulatory module involving LhHB4, LhWRKY44, and LhMYBSPLATTER. Moreover, LhHB4 interacts with the LhTOPLESS-RELATED protein (LhTPR3), a histone deacetylase corepressor, through the EAR motif to form a repressive complex. This interaction reduces histone H3 acetylation levels at the promoter regions of LhWRKY44 and LhMYBSPLATTER. The downregulation of LhWRKY44 and LhMYBSPLATTER results in reduced anthocyanin biosynthesis in lilies. Furthermore, LhHB4 and LhMYBSPLATTER establish a feedback loop that finely regulates flower coloration, with LhMYBSPLATTER inhibition by LhHB4 subsequently promoting LhHB4 expression. In conclusion, LhHB4, LhWRKY44, and LhMYBSPLATTER form an activation-inhibition module that controls anthocyanin accumulation through histone acetylation in Asiatic hybrid lilies.",
-  "publication_date": "2025-06-01",
-  "journal": "Plant physiology",
-  "doi": "10.1093/plphys/kiaf203"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "gallic acid",
-  "title": "Comprehensive relaxometric analysis of Fe(iii) coordination polymer nanoparticles forT1-MRI: unravelling the impact of coating on contrast enhancement.",
-  "abstract": "Coordination polymer-based systems, particularly Fe(iii)-based polymers, are attracting increasing interest due to their well-controlled morphology, biocompatibility, and versatile surface functionalization. With five unpaired electrons, Fe(iii) offers a promising and safer alternative to Gd(iii) for MRI applications. While some studies have investigated low molecular weight Fe(iii) chelates for MRI, the exploration of Fe(iii)-based nanosystems asT1MRI probes remains limited. This study focuses on the synthesis of Fe(iii)/gallic acid nanoparticles functionalized with a low molecular weight polyethylene glycol (PEG) shell, designed to enhance the second-sphere water interaction and improver1relaxivity at clinical magnetic fields. The1H NMR relaxometric properties of these nanoparticles were systematically analyzed as a function of proton Larmor frequencies and temperature, and their performance was compared with a similar system stabilized by polyvinylpyrrolidone (PVP). We aimed to determine the frequency dependence of relaxivity in Fe(iii)-based coordination polymers, and to assess the impact of coating modifications on their MRI contrast efficacy. This knowledge is crucial for the rational design of improved Fe(iii)-based nanoprobes, allowing for optimized performance in future MRI applications.",
-  "publication_date": "2025-05-09",
-  "journal": "Nanoscale advances",
-  "doi": "10.1039/d5na00250h"
-}

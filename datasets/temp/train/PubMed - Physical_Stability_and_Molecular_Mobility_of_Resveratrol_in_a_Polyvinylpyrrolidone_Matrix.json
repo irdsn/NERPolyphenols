@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol",
-  "title": "Physical Stability and Molecular Mobility of Resveratrol in a Polyvinylpyrrolidone Matrix.",
-  "abstract": "The physical stability, molecular mobility, and appearance of nanocrystalline resveratrol in a polyvinylpyrrolidone (PVP) matrix were investigated. Two formulations with resveratrol loadings of 30% and 50% were prepared and characterized using powder X-ray diffraction (PXRD) and time-domain nuclear magnetic resonance (TD-NMR). Samples were studied over time (up to 300 days post-preparation), across temperatures (80-300 K), and under varying humidity conditions (0% and 75% relative humidity). The results demonstrate that the 30% resveratrol-PVP sample is a homogeneous amorphous solid dispersion (ASD), while the 50% resveratrol-PVP sample contained resveratrol nanocrystals measuring about 40 nm. NMR measurements and molecular dynamics (MD) simulations revealed that incorporation of resveratrol into the polymer matrix modifies the system's dynamics and mobility compared to the pure PVP polymer. Additionally, MD simulations analyzed the hydrogen bonding network within the system, providing insights for a better understanding of the physical stability of the ASD under different conditions.",
-  "publication_date": "2025-04-25",
-  "journal": "Molecules (Basel, Switzerland)",
-  "doi": "10.3390/molecules30091909"
-}

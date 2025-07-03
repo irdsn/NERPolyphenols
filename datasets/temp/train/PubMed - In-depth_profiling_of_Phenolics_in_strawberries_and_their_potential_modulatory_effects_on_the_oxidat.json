@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "vegetable phenolics",
-  "title": "In-depth profiling of Phenolics in strawberries and their potential modulatory effects on the oxidative stress-disease Axis: Insights from UHPLC-QTOF-MS-based untargeted metabolomics, network pharmacology, and molecular docking.",
-  "abstract": "Strawberry phenolics, contributing to its potent antioxidant properties, yet due to limitations in detection and analysis techniques, the phenolic profiling of strawberries remains incomplete, hindering a deeper understanding of their mechanisms. In this study, a dual-phase extraction method was applied to extract both free and bound phenolics, followed by UHPLC-QTOF-MS-based untargeted metabolomics. A total of 57 phenolics were annotated, with 12 further identified using standards. Notably, twenty-six phenolics were first reported in strawberries. Network pharmacology analysis revealed that phenolic targets associated with oxidative stress-driven disease are primarily enriched in SRC, PIK3CA, PIK3R1, HSP90AA1, and TP53, which exert their effects through the PI3K-AKT signaling pathway. Molecular docking simulations further elucidated the interaction mechanisms, suggesting that strawberry phenolics modulate the oxidative stress-disease axis. These findings have enhanced our understanding of the phenolic profile of strawberries and lay the groundwork for further research into the physiological roles of strawberry phenolics.",
-  "publication_date": "2025-06-05",
-  "journal": "Food chemistry",
-  "doi": "10.1016/j.foodchem.2025.145044"
-}

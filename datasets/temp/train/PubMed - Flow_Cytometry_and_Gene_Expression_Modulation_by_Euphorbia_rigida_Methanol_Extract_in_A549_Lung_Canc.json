@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids cancer",
-  "title": "Flow Cytometry and Gene Expression Modulation by Euphorbia rigida Methanol Extract in A549 Lung Cancer Cells: Induction of Apoptosis Through Bax, Caspase-9, and Bcl-2 Pathways.",
-  "abstract": "Non-small cell lung cancer (NSCLC) remains a major cause of cancer-related mortality. This study investigates the cytotoxic effects of Euphorbia rigida extract on A549 NSCLC cells and its potential as a therapeutic agent. Cellular morphology was observed microscopically, and cell viability was evaluated using dose-dependent proliferation assays. Apoptosis-related gene expression-including Bax, Bcl-2, and Caspase-9-was analyzed via quantitative PCR (qPCR). Chromatographic methods identified bioactive flavonoids, and molecular docking assessed their binding to cancer-related proteins. Additionally, absorption, distribution, metabolism, excretion, and toxicity (ADMET) profiles were evaluated. The extract induced apoptotic morphological changes such as cell shrinkage and loss of intercellular contact. A dose-dependent reduction in A549 viability was observed, with an IC50of 0.5 mg mL-1. Gene expression indicated activation of the intrinsic mitochondrial apoptotic pathway, with increased Bax and Caspase-9 and decreased Bcl-2 expression. Flow cytometry using Annexin V-allophycocyanin (V-APC) staining revealed selective cytotoxicity: significant apoptosis in A549 cells while preserving viability in BEAS-2B normal lung epithelial cells. Identified flavonoids included quercetin, apigenin, and myricetin, which showed strong binding affinities in docking studies. ADMET profiling supported their drug-likeness. These findings highlight E. rigida potential in NSCLC treatment via apoptosis induction and selective cytotoxicity.",
-  "publication_date": "2025-05-28",
-  "journal": "Advanced biology",
-  "doi": "10.1002/adbi.202500136"
-}

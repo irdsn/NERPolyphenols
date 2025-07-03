@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "Decoding the color palette in the ornamental bracts of Globba spp.: insights from phenotypic, metabolomic, and transcriptomic analyses.",
-  "abstract": "The ornamental bracts of dancing girl ginger (Globba spp.) exhibit a rich diversity of colors. This study aimed to investigate the metabolic and transcriptional mechanisms underlying these bract color differences. Significant variations in bract color were observed among four varieties. UPLC-MS/MS identified 68 anthocyanin-related compounds, with delphinidin-3-O-rutinoside, delphinidin-3-O-glucoside, and cyanidin-3-O-glucoside identified as key pigments. RNA-seq and KEGG enrichment analyses highlighted the role of the plant hormone signal transduction pathway in bract color differences. The most abundant DEGs in this pathway included JAZ (89), ARF (73), BRI1 (68), DELLA (54), and MYC2 (56) genes. Eighty-six genes related to the anthocyanin biosynthesis pathway showed significant changes in the ornamental bracts of different dancing girl ginger varieties. WGCNA and Pearson correlation analyses identified several transcription factor families (ERFs, WRKYs, NACs, MYBs, bHLHs, C2H2 s, and bZIPs) significantly correlated with key synthase genes. This study provides insights into the genetic and metabolic basis of bract color diversity in dancing girl ginger, offering a foundation for future genetic improvement. Notably, the significant positive correlation between Cluster-58651.1 (MYB) and Cluster-74717.11 (WRKY) and anthocyanin content was validated in the bracts of 11 hybrid progeny materials. These findings provides valuable insights into the genetic and metabolic basis of bract color diversity, offering a foundation for future genetic improvement.",
-  "publication_date": "2025-06-02",
-  "journal": "Planta",
-  "doi": "10.1007/s00425-025-04726-w"
-}

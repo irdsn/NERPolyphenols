@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "lignans",
-  "title": "Antiviral potential of the arctigenin derivative COA in reducing viral adhesion to the epithelial cell surface against IHNV infection.",
-  "abstract": "Infectious hematopoietic necrosis virus (IHNV) is a major aquaculture threat, highlighting the need for effective antiviral agents. This study evaluates the arctigenin derivative COA for its antiviral potential against IHNV. COA demonstrated no cytotoxicity to EPC cells at concentrations up to 10 μM and inhibited over 90 % of IHNV gene expression in vitro. It preserved normal nuclear morphology in infected cells, reduced viral titers, and completely blocked IHNV infection at 10 μM. Time-gradient assays identified COA's antiviral action during early infection, specifically inhibiting viral adsorption (82 %) and internalization (92 %). Using DiO-labeled IHNV particles, we visualized COA preventing viral entry into EPC cells, marking a novel finding for arctigenin derivatives. COA remained stable in water for over four days, enhancing its suitability for aquaculture applications. In vivo, COA improved survival rates of IHNV-infected rainbow trout by 46 % (injection) and 22 % (immersion) while significantly reducing IHNV gene expression and viral titers in spleen and kidney. It also upregulated interferon genes, activating antiviral responses and effectively reducing horizontal transmission of IHNV. These results highlight COA's potential as an antiviral agent, providing insights for developing targeted therapies against rhabdoviruses in aquaculture.",
-  "publication_date": "2025-03-13",
-  "journal": "Fish & shellfish immunology",
-  "doi": "10.1016/j.fsi.2025.110278"
-}

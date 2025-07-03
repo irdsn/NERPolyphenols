@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "grape skin",
-  "title": "Transcriptomic Insights into Higher Anthocyanin Accumulation in 'Summer Black' Table Grapes in Winter Crop Under Double-Cropping Viticulture System.",
-  "abstract": "Anthocyanins are responsible for grape (Vitis viniferaL.) skin color. To obtain a more detailed understanding of the anthocyanin regulatory networks across' the summer and winter seasons in grapes under a double-cropping viticulture system, the transcriptomes of 'Summer Black' grapes were analyzed using RNA sequencing. The average daily temperature during the harvest stage in the summer crop, ranging from 26.18 °C to 32.98 °C, was higher than that in the winter crop, ranging from 11.03 °C to 23.90 °C. Grapes from the winter crop accumulated a greater content of anthocyanins than those from the summer crop, peaking in the harvest stage (E-L38) with 207.51 mg·100 g-1. Among them, malvidin-3-O-glucoside (Mv-3-G) had the highest monomer content, accounting for 32%. The content of Cy-3-G during winter increased by 55% compared to summer. KEGG analysis indicated that the flavonoid biosynthesis and circadian rhythm-plant pathways are involved in the regulation of anthocyanin biosynthesis during fruit development. Pearson's coefficient showed significant positive correlations between anthocyanin content and theVvDFR,VvUFGT,VvOMT,VvMYB, andVvbHLHgenes in the winter crop; at full veraison stage, their expressions were 1.34, 1.98, 1.28, 1.17, and 1.34 times greater than in summer, respectively. The higher expression ofVvUFGTandVvOMTled to higher contents of Cy-3-G and Mv-3-G in the winter berries, respectively.",
-  "publication_date": "2024-12-25",
-  "journal": "Plants (Basel, Switzerland)",
-  "doi": "10.3390/plants14010026"
-}

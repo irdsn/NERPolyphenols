@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "grape skin",
-  "title": "Application of Multivariate Regression and Artificial Neural Network Modelling for Prediction of Physicochemical Properties of Grape-Skin Compost.",
-  "abstract": "The reusability of by-products in the food industry is consistent with sustainable and greener production; therefore, the aim of this paper was to evaluate the applicability of multiple linear regression (MLR), piecewise linear regression (PLR) and artificial neural network models (ANN) to the prediction of grape-skin compost's physicochemical properties (moisture, dry matter, organic matter, ash content, carbon content, nitrogen content, C/N ratio, total colour change of compost samples, pH, conductivity, total dissolved solids and total colour change of compost extract samples) during in-vessel composting based on the initial composting conditions (air-flow rate, moisture content and day of sampling). Based on the coefficient of determination for prediction, the adjusted coefficient of determination for calibration, the root-mean-square error of prediction (RMSEP), the standard error of prediction (SEP), the ratio of prediction to deviation (RPD) and the ratio of the error range (RER), it can be concluded that all developed MLR and PLR models are acceptable for process screening. Furthermore, the ANN model developed for predicting moisture and dry-matter content can be used for quality control (RER >11). The obtained results show the great potential of multivariate modelling for analysis of the physicochemical properties of compost during composting, confirming the high applicability of modelling in greener production processes.",
-  "publication_date": "2024-03-16",
-  "journal": "Bioengineering (Basel, Switzerland)",
-  "doi": "10.3390/bioengineering11030285"
-}

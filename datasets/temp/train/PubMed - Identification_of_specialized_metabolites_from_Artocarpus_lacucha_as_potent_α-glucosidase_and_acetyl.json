@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "Identification of specialized metabolites from Artocarpus lacucha as potent α-glucosidase and acetylcholinesterase inhibitors: enzyme kinetic, in vitro and in silico study.",
-  "abstract": "Artocarpus species play an important role in the folk medicine of various ethnic groups in Africa, South Asia, and Southeast Asia. In the present study, we investigated the potential of Artocarpus lacucha in the treatment of diabetes mellitus and Alzheimer's disease. During this work, one previously undescribed compound (1), along with 10 known compounds (2-11), were isolated from the leaves of Artocarpus lacucha. Their molecular structures were established using NMR and HRMS experiments. Among the tested compounds, flavan-benzofuran artocarpinol B, displayed significant α-glucosidase inhibitory activity with an IC50value of 4.01 ± 0.04 µM (positive control acarbose: 475.14 ± 4.65 µM). The conducted enzyme kinetic study revealed their inhibition mode through competitive type. This is also supported by the molecular docking and dynamics simulations which gave insight into the interactions and stability between α-glucosidase and artocarpinol B in the active site. In addition, 4-geranyl-2',3,4',5-tetrahydroxy-trans-stilbene (5) further shows potent acetylcholinesterase inhibition, with IC50= 8.57 ± 0.39 µM. Compounds 5 and 6 displayed moderate activity against Staphylococcus aureus and Streptococcus agalactiae, with MIC and MBC values ranging from 26.9 to 69.9 μM. This study explored the potential of constituents from A. lacucha as α-glucosidase and acetylcholinesterase inhibitors, which are crucial in the treatment of Diabetes mellitus and Alzheimer's disease.",
-  "publication_date": "2025-05-06",
-  "journal": "Journal of natural medicines",
-  "doi": "10.1007/s11418-025-01904-8"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol",
-  "title": "Synergistic Antibacterial Mechanism of Benzyl Isothiocyanate and Resveratrol AgainstStaphylococcus aureusRevealed by Transcriptomic Analysis and Their Application in Beef.",
-  "abstract": "This study aims to elucidate the synergistic antibacterial mechanism of benzyl isothiocyanate (BITC) and resveratrol (RES) onStaphylococcus aureus(S. aureus) at the transcriptional level. Compared with the individuals, the combination of BITC and RES (BITC_RES) reducedS. aureusgrowth, inhibited biofilm formation, and increased cell membrane disruption. The transcriptomic results showed that the BITC_RES group presented 245 and 1150 more DEGs than the BITC group and the RES group, respectively. In addition, some other key genes in the BITC_RES group, including serine protease (splA,splE), Sae regulatory system (saeR,saeS,tsaE,sau300), accessory gene regulator protein C (agrC), cysteine protease (sspB), glutamyl endopeptidase (sspA), and hemolysin toxin family-related genes (hly,lukDv,lukEv), and the relative expression of these 12 genes was downregulated by 2.2-259.8-fold, 0.8-259.8-fold and 1.2-158.2-fold greater than those in the BITC group and the RES group, respectively. Finally, a synergistic antimicrobial effect of this combination was also observed in fresh lean beef at 4 °C and 25 °C. These findings provide information for future studies on the synergistic antimicrobial effects of BITC and RES onS. aureus.",
-  "publication_date": "2025-05-01",
-  "journal": "Foods (Basel, Switzerland)",
-  "doi": "10.3390/foods14091610"
-}

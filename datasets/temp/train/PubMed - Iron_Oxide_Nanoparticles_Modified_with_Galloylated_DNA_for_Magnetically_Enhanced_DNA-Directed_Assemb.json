@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds",
-  "title": "Iron Oxide Nanoparticles Modified with Galloylated DNA for Magnetically Enhanced DNA-Directed Assembly.",
-  "abstract": "A straightforward, one-step method is presented for DNA functionalization of iron oxide nanoparticles (IONP) using galloylated DNA through multidentate metal-phenol interactions. The DNA-modified IONPs exhibit excellent stability under diverse buffer conditions and display intriguing DNA binding properties, influenced by the superparamagnetic property of IONPs. The DNA denaturation behavior can be categorized into two regimes: the magnetic-dominant regime and the DNA-dominant regime. In the magnetic regime, where IONPs are assembled using relatively short DNA linkers, magnetic and DNA interactions jointly stabilize the assemblies, resulting in an unusually weak length dependence of DNA melting temperature. As the linker length increases, the system transitions into the DNA-dominant regime, where the magnetic effect diminishes, and the assemblies exhibit conventional DNA length-dependence. This study offers a simple and robust approach for DNA functionalization of IONPs, which can be extended to other metal compound nanoparticles, and highlights the potential of utilizing magnetic reinforcement to modulate DNA-based nanoparticle assembly.",
-  "publication_date": "2025-06-29",
-  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-  "doi": "10.1002/advs.202501491"
-}

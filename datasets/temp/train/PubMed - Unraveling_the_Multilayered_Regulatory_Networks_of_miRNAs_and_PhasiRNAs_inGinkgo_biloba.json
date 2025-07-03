@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "Unraveling the Multilayered Regulatory Networks of miRNAs and PhasiRNAs inGinkgo biloba.",
-  "abstract": "Small RNAs (sRNAs) are pivotal in regulating gene expression and are involved in a diverse array of biological processes. Among these, microRNAs (miRNAs) and phased small interfering RNAs (phasiRNAs) have been extensively investigated over the past decades. We conducted an in-depth analysis of deep sequencing data from the gymnospermGinkgo biloba, encompassing sRNA, transcriptome, and degradome libraries. Our analysis identified a total of 746 miRNAs and 654 phasiRNA precursor (PHAS) loci, with 526 (80%) of the PHAS loci predicted to be triggered by 515 miRNAs (69%). Several miRNA-PHAS modules, particularly the miR159/miR319-PHAS module, were found to potentially regulate reproductive development by targetingGAMYBgenes and triggering phasiRNA biogenesis. The miR390-PHAS module appears to be involved in flavonoid biosynthesis by targeting key enzyme genes such as chalcone synthase (CHS) and anthocyanin synthase (ANS). Through target gene identification and coexpression analysis, we uncovered two distinct models of complex regulatory networks: growth-related factors likeARFandGRFseem to be regulated exclusively by miRNAs (Model 1), while certain disease resistance-related genes are predicted to be regulated by both miRNAs and phasiRNAs (Model 2), indicating diverse regulatory mechanisms across different biological processes. Overall, our study provides a comprehensive annotation of miRNA and PHAS loci inG. bilobaand elucidates a post-transcriptional regulatory network, offering novel insights into sRNA research in gymnosperms.",
-  "publication_date": "2025-05-29",
-  "journal": "Plants (Basel, Switzerland)",
-  "doi": "10.3390/plants14111650"
-}

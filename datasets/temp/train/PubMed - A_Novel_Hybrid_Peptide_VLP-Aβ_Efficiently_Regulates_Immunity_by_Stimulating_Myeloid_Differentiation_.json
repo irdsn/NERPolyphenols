@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "natural antioxidants",
-  "title": "A Novel Hybrid Peptide VLP-Aβ Efficiently Regulates Immunity by Stimulating Myeloid Differentiation Protein and Activating the NF-κB Pathway.",
-  "abstract": "Immunosuppression dramatically increases tissue and organ susceptibility to infection, injury, and even cancer. This poses a serious threat to human and animal health. In a previous study, we established a platform for high-throughput design and screening of multifunctional peptides. Using this platform, we successfully identified a novel hybrid peptide, VLP-Aβ (VA), which exhibits both immunomodulatory and antioxidant properties. This study aimed to evaluate the immunomodulatory activity of VA and investigate the underlying molecular mechanisms. In the cyclophosphamide (CTX)-induced immunodeficient mouse model, VA significantly alleviated CTX-induced weight loss. It also restored thymus and spleen indices, and increased serum immunoglobulins (IgA, IgM, IgG) and cytokines (TNF-α, IL-6, IL-1β) levels. VA also improved splenic lymphocyte proliferation, CD4+/CD8+T cell ratios, and NK cell cytotoxicity. At the cellular level, western blot analysis showed that VA activated the TLR4-NF-κB pathway in RAW264.7 macrophages. Mechanistically, inhibition of the MD2 protein by L6H21 abolished VA's immunomodulatory effects. This confirms MD2 as a critical mediator. Molecular docking and dynamics simulations revealed that VA binds stably to the hydrophobic pocket of MD2. These findings suggest that VA exerts immunomodulatory effects by stimulating MD2 and activating the TLR4-NF-κB pathway, which provides new ideas, techniques, and approaches for the development of novel peptide immunomodulators.",
-  "publication_date": "2025-06-18",
-  "journal": "International journal of molecular sciences",
-  "doi": "10.3390/ijms26125834"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "Loss function of tumor suppressor FRMD8 confers resistance to tamoxifen therapy via a dual mechanism.",
-  "abstract": "Approximately 40% ERα-positive breast cancer patients suffer from therapeutic resistance to tamoxifen. Although reduced ERα level is the major cause of tamoxifen resistance, the underlying mechanisms remain elusive. Here, we report that FRMD8 raises the level of ERα at both transcriptional and post-translational layers. FRMD8 deficiency inMMTV-Cre+;Frmd8fl/fl;PyMTmice accelerates mammary tumor growth and loss of luminal phenotype, and confers tamoxifen resistance. Single-cell RNA profiling reveals that Frmd8 loss decreases the proportion of hormone-sensing differentiated epithelial cells and downregulates the levels of ERα. Mechanically, on one hand, loss of FRMD8 inhibitsESR1transcription via suppressing the expression of FOXO3A, a transcription factor ofESR1. On the other hand, FRMD8 interacts both with ERα and UBE3A, and disrupts the interaction of UBE3A with ERα, thereby blocking UBE3A-mediated ERα degradation. In breast cancer patients,FRMD8gene promoter is found hypermethylated and low level of FRMD8 predicts poor prognosis. Therefore, FRMD8 is an important regulator of ERα and may control therapeutic sensitivity to tamoxifen in ERα-positive breast cancer patients.",
-  "publication_date": "2025-04-11",
-  "journal": "eLife",
-  "doi": "10.7554/eLife.101888"
-}

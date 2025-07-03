@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "polyphenols",
-  "title": "Metabolic basis of resveratrol biosynthesis in P. megaterium PH3: Key roles of phenylpropanoid precursors and enzymatic feedback inhibition.",
-  "abstract": "Resveratrol, a bioactive polyphenol, has poorly characterized biosynthetic pathways in bacteria. Metabolomic analysis demonstrated that resveratrol biosynthesis in P. megaterium PH3 was primarily driven by the phenylpropanoid pathway, with phenylalanine and tyrosine acting as critical precursors that significantly promoted resveratrol synthesis. Specifically, phenylalanine exhibited superior precursor efficiency (3.2-fold higher utilization than tyrosine), showing concentration-dependent yield increases from 26.11 % (3 mmol/L) to 52.50 % (6 mmol/L) at 24 h. Tyrosine displayed moderate effects, achieving a maximal 23.37 % enhancement at 5 mmol/L. Synergistic optimization during the exponential phase (72 h) combining 4 mmol/L phenylalanine (48.65 % increase) and 5 mmol/L tyrosine (34.57 % increase) demonstrated stage-specific precursor coordination (p < 0.05). Enzyme kinetics and targeted gene expression analysis revealed a self-regulatory loop where resveratrol inhibits PAL (IC₅₀ = 1.13 mg/L) and C4H (IC₅₀ = 11.86 mg/L), establishing feedback inhibition of flux through this pathway. These evolutionarily conserved mechanisms provide actionable strategies for metabolic engineering and industrial-scale production.",
-  "publication_date": "2025-06-19",
-  "journal": "Food chemistry",
-  "doi": "10.1016/j.foodchem.2025.145098"
-}

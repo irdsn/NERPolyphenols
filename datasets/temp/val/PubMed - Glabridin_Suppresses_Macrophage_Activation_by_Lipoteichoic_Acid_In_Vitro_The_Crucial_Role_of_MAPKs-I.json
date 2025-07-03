@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids cardiovascular",
-  "title": "Glabridin Suppresses Macrophage Activation by Lipoteichoic Acid In Vitro: The Crucial Role of MAPKs-IL-1β-iNOS Axis Signals in Peritoneal and Alveolar Macrophages.",
-  "abstract": "Inflammation, a fundamental response to infection and injury, involves interactions among immune cells and signaling molecules. Dysregulated inflammation contributes to diseases such as autoimmune disorders and cancer. Interleukin-1 beta (IL-1β), produced by macrophages in response to lipoteichoic acid (LTA) from Gram-positive bacteria, is a key inflammatory mediator. Glabridin (GBD), a bioactive compound from licorice root, exhibits anti-inflammatory properties. This study investigates GBD's effects on LTA-induced proinflammatory signaling in RAW 264.7 murine macrophages and alveolar macrophages, MH-S, focusing onIL-1βexpression and signaling pathways. Cell viability assays confirmed that 20 μM GBD was non-cytotoxic. Confocal microscopy and quantitative PCR showed that GBD significantly reduced IL-1β fluorescence intensity, mRNA, and protein levels. GBD also inhibited inducible nitric oxide synthase (iNOS) expression and nitric oxide (NO) production. Further analysis revealed that GBD suppressed NF-κB p65 nuclear translocation and selectively modulated MAPK pathway activation by reducing JNK and p38 MAPK phosphorylation without affecting ERK. Studies using specific inhibitors demonstrated that IL-1β production reduction was mechanistically linked to MAPK pathway inhibition. These findings highlight GBD's potential as a therapeutic agent for inflammatory diseases through its ability to modulate critical inflammatory mediators and signaling pathways.",
-  "publication_date": "2025-01-24",
-  "journal": "Biomolecules",
-  "doi": "10.3390/biom15020174"
-}

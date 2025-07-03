@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids cardiovascular",
-  "title": "Fisetin ameliorates vascular smooth muscle cell calcification via DUSP1-dependent p38 MAPK inhibition.",
-  "abstract": "Medial vascular calcification is highly prevalent in advanced age and chronic kidney disease (CKD), where it is associated with increased risk for cardiovascular events and mortality. Vascular smooth muscle cells (VSMCs) actively regulate this process, which can be augmented by inflammation and cellular senescence. Thus, the present study investigated the impact of fisetin, a flavonol with anti-inflammatory and senolytic properties, on VSMC calcification. Fisetin treatment suppressed calcific marker expression and calcification of VSMCs as well as p38 MAPK phosphorylation induced by pro-calcific conditions. These effects were abolished by silencing of dual-specificity phosphatase 1 (DUSP1), a negative regulator of p38 MAPK activity. Moreover, knockdown of DUSP1 alone was sufficient to increase calcific marker expression in VSMCs, effects blunted by pharmacological p38 MAPK inhibition. Accordingly, DUSP1 knockdown aggravated calcification of VSMCs during pro-calcific conditions. In addition, fisetin ameliorated the effects of uremic conditions in VSMCs exposed to serum from dialysis patients. Fisetin also inhibited vascular calcification as well as calcific marker expressionex vivoin mouse aortic explants exposed to high phosphate andin vivoin a cholecalciferol overload mouse model. In conclusion, fisetin acts as a potent anti-calcific agent during VSMC calcification, an effect involving DUSP1-mediated regulation of p38 MAPK-dependent pro-calcific signaling.",
-  "publication_date": "2025-04-02",
-  "journal": "Aging",
-  "doi": "10.18632/aging.206233"
-}

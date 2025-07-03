@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonols",
-  "title": "Transcriptomic and Weighted Gene Coexpression Network Analyses Reveal Superior Multitarget Mechanisms of Dihydroquercetin Derivatives over Dihydroquercetin in Alleviating Energy Metabolism and Neurological Disorders in Diabetic Zebrafish.",
-  "abstract": "Diabetes-induced impairments in energy metabolism and neurological function significantly compromise physiological functions, highlighting the importance of exploring natural product-based therapeutic strategies. This study systematically investigated the effects of dihydroquercetin (DHQ) and its two derivatives, 8-hydroxy-dihydroquercetin (H-DHQ) and dihydroquercetin-7-O-β-d-(4″-O-methyl)-glucoside (DHQ-MG), which were derived from fermentation byBeauveria bassiana, on energy metabolism and neurological disorders in diabetic zebrafish larvae. The results demonstrated that both H-DHQ and DHQ-MG significantly ameliorated the motor dysfunction and neurodevelopmental impairments more effectively than DHQ, with DHQ-MG exhibiting the most pronounced effects. Enzymatic activity assays and neurochemical analyses confirmed enhanced neuroprotection, while transcriptomic analysis and weighted gene coexpression network analysis (WGCNA) revealed that H-DHQ and DHQ-MG modulate distinct sets of genes and signaling pathways, contributing to their superior effects on lipid metabolism, immune function, and neuroprotection compared to DHQ. The identified biologically relevant genes may serve as potential targets for H-DHQ or DHQ-MG, helping to alleviate diabetes-induced metabolic imbalance and neurodegenerative disorders. The results offer valuable insights into the potential use of DHQ-derived natural products for treating and managing diabetes and its complications.",
-  "publication_date": "2025-05-29",
-  "journal": "Journal of agricultural and food chemistry",
-  "doi": "10.1021/acs.jafc.5c03914"
-}

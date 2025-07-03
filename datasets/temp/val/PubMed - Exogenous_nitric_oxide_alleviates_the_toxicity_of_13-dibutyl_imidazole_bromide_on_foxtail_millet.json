@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "secondary metabolites",
-  "title": "Exogenous nitric oxide alleviates the toxicity of 1,3-dibutyl imidazole bromide on foxtail millet.",
-  "abstract": "Ionic liquids exhibit distinctive properties, including low vapor pressure, high thermal stability, good electrical conductivity, and versatile design possibilities, which render them applicable across various fields. However, their increasing utilization has raised concerns regarding ecotoxicity. This study investigates the impact of 1,3-dibutyl imidazole bromide (DIB) on foxtail millet and examines the effects of exogenously applied sodium nitroprusside, a nitric oxide donor, on the toxicity of DIB. Physiological analyses indicated that DIB treatment inhibits seed germination and seedling growth, and decreases chlorophyll content; conversely, malondialdehyde levels were notably elevated in foxtail millet. The exogenously applied nitric oxide mitigated these detrimental effects. Nitric oxide also enhanced peroxidase activity and increased the concentrations of two osmotic regulation compounds, proline and soluble sugars, in leaves of foxtail millet. RNA sequencing results suggested that nitric oxide alleviates DIB-induced phytotoxicity possibly through modulation of chlorophyll metabolism, biosynthesis pathways for various secondary metabolites, signaling transduction involving ethylene and jasmonate responses, as well as processes related to metal ion binding. These investigations not only elucidate the specific impacts of ionic liquids on plant physiology but also provide a scientific basis for employing exogenous nitric oxide as an effective strategy for mitigating toxicity in agricultural practices.",
-  "publication_date": "2025-06-25",
-  "journal": "Phytochemistry",
-  "doi": "10.1016/j.phytochem.2025.114604"
-}

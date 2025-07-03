@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "wine polyphenols",
-  "title": "Dual-signal detection of tannic acid in red wines based on the peroxidase activity of carbon dots.",
-  "abstract": "Herein, a novel type of phosphorus and iron-doped carbon dot (P,Fe-CD) with outstanding peroxidase activity and excellent fluorescence performance was hydrothermally synthesized to colorimetrically and fluorimetrically detect tannic acid (TA). In the presence of 3,3',5,5'-tetramethylbenzidine (TMB) and H2O2, the P,Fe-CDs could oxidize colorless TMB to a blue oxidation product (oxTMB) resulting in an increased value of absorbance. Simultaneously, the fluorescence intensity of P,Fe-CDs at 430 nm could be quenched owing to the fluorescence resonance energy transfer (FRET) between P,Fe-CDs and the generated oxTMB. Meanwhile, after adding the TA to the system containing TMB, H2O2and P,Fe-CDs, the value of absorbance could be decreased and the fluorescence could be recovered because of the reduction reaction between TA and oxTMB. Therefore, fluorescence intensity and value of absorbance could be applied to quantitatively detect TA with good linearities between the concentration of TA and the fluorescence intensity/value of absorbance (0.997 and 0.997 for the colorimetric signal and fluorimetric one, respectively) and low limits of detection (0.093 μmol L-1and 0.053 μmol L-1for the colorimetry and the fluorimetry, respectively), which was successfully applied to the detection of TA in red wines. Moreover, we applied a smartphone-assisted method to the point-of-care detection of TA with accurate results, providing a new technique for TA detection and food quality monitoring.",
-  "publication_date": "2024-05-09",
-  "journal": "Analytical methods : advancing methods and applications",
-  "doi": "10.1039/d4ay00526k"
-}

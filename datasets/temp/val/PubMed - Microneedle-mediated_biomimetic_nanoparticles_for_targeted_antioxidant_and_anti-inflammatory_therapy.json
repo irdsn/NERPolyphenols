@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol",
-  "title": "Microneedle-mediated biomimetic nanoparticles for targeted antioxidant and anti-inflammatory therapy in age-related macular degeneration.",
-  "abstract": "Age-related macular degeneration (AMD) remains the leading cause of vision loss worldwide, with the lack of effective treatment for dry AMD posing a significant clinical challenge. Current therapies for wet AMD, while effective, are invasive, costly, and associated with notable side effects. Dry AMD, which is characterized by progressive retinal damage driven by oxidative stress and inflammation, lacks targeted therapeutic options, underscoring the critical need for innovative intervention strategies. Here, we present a dissolving microneedle-based delivery platform incorporating retinal pigment epithelial (RPE) cell membrane-cloaked biomimetic nanoparticles loaded with resveratrol. This system is designed for minimally invasive, targeted drug delivery to the retina. Upon administration, the microneedles rapidly dissolve, enabling localized release of the nanoparticles. The RPE membrane coating provides homologous targeting, enhancing cellular uptake while mitigating systemic exposure. In a rabbit model of NaIO3-induced dry AMD, this approach demonstrated significant preservation of retinal architecture, including significant mitigation of oxidative stress, inflammation, and retinal degeneration, alongside excellent safety and biocompatibility profiles. This innovative delivery strategy addresses the critical barriers in AMD treatment by offering a safe, efficient, and patient-friendly solution, paving the way for its broader application in posterior eye diseases.",
-  "publication_date": "2025-05-30",
-  "journal": "Journal of controlled release : official journal of the Controlled Release Society",
-  "doi": "10.1016/j.jconrel.2025.113908"
-}

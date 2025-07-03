@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids",
-  "title": "Exploring the Nutritional and Antimicrobial Properties of Wild Fruit,Castanopsis tribuloides: In Vitro and In Silico Insights for Potential Antimicrobial Drug Development.",
-  "abstract": "A wild edible fruit, Castanopsis tribuloides, has been scientifically evaluated for its antibacterial capability and nutritional composition. In vitro analysis showed it possesses antimicrobial properties againstBacillus subtilis,Escherichia coli,Pseudomonas aeruginosa, andStaphylococcus aureus. In silico analysis revealed that out of the identified 27 compounds isolated, 1-phenylbicyclo (3.2.2) nona-6,8-dien-2-one demonstrated a solid adherence to the Lipinski rule of drug design and exhibited a strong binding affinity to antibacterial enzymes tyrosyl-tRNA synthase (-8.13 kcal/mol) and dihydropteroate synthase (-8.84 kcal/mol). The protein-ligand complex revealed with MD simulation showed low RMSD (< 1 nm), higher SASA (170-180 nm2), and more consistent hydrogen bonding (∼1.2 bonds/frame). The binding energy evaluated using gmx_MMPBSA also yields a favorable total binding free energy for dihydropteroate synthase (ΔGbind= -17.92 ± 0.84 kcal/mol) and tyrosyl-tRNA synthase (ΔGbind= -12.75 ± 1.46 kcal/mol), indicating stable complex formation. In addition, the nuts are rich in various nutrients, such as carbohydrates (31.2 ± 0.08), proteins (20.51 ± 0.1 mg/g), dietary fiber (5.41 ± 0.01%), vitamin C (86.3 ± 0.26 mg/100 gm), and vitamin E (4.76 ± 0.02 mg/100 gm). The nuts also demonstrated significant antioxidant activity (52.25 ± 0.02 μg/mL), with a high amount of total phenolic (76.83 ± 0.02 mg QE/g) and flavonoid (70.4 ± 0.21 mg QE/g) content. These findings indicate the importance ofC. tribuloidesnuts as a valuable antibacterial and health-promoting resource.",
-  "publication_date": "2025-06-17",
-  "journal": "Scientifica",
-  "doi": "10.1155/sci5/2106755"
-}

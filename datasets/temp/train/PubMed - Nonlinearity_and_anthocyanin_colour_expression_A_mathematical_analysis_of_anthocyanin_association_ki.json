@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "wine polyphenols",
-  "title": "Nonlinearity and anthocyanin colour expression: A mathematical analysis of anthocyanin association kinetics and equilibria.",
-  "abstract": "Anthocyanins are polyphenolic compounds that provide pigmentation in plants as reflected by pH-dependent structural transformations between the red flavylium cation, purple quinonoidal base, blue quinonoidal anion, colourless hemiketal, and pale yellow chalcone species. Thermodynamically stable conditions of hydrated plant cell vacuoles in vivo correspond to the colourless hemiketal, yet anthocyanin colour expression appears in an important variety of hues within plant organs such as flowers and fruit. Moreover, anthocyanin colour from grape berries is significant in red winemaking processes as it plays a crucial role in determining red wine quality. Here, nonlinear ordinary differential equations were developed to represent the evolution in concentration of various anthocyanin species in both monomeric (chemically reactive) and self-associated (temporally stable) forms for the first time, and simulations were verified experimentally. Results indicated that under hydrating conditions, anthocyanin pigmentation is preserved by self-association interactions, based on pigmented monomeric anthocyanins experiencing colour loss whereas colour-stable self-associated anthocyanins increase in concentration nonlinearly over time. In particular, self-association of the flavylium cation and the quinonoidal base was shown to influence colour expression and stability within Geranium sylvaticum flower petals and Vitis vinifera grape skins. This study ultimately characterises fundamental mechanisms of anthocyanin stabilisation and generates a quantitative framework for anthocyanin-containing systems.",
-  "publication_date": "2024-03-11",
-  "journal": "Food research international (Ottawa, Ont.)",
-  "doi": "10.1016/j.foodres.2024.114195"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "Sustainable Production of Cyanidin-3-O-galactoside by Metabolic EngineeredEscherichia colifrom Catechin.",
-  "abstract": "Cyanidin-3-O-galactoside (C3Ga), a natural pigment, has various beneficial biological activities and is widely used as a food colorant. However, traditional plant extraction methods are time-consuming and unsustainable. Rapid and sustainable synthesis of C3Ga by engineered microorganisms offers a promising alternative to traditional plant-based methods and deserves to be explored. In this study, the bioproduction of C3Ga byEscherichia coliwas achieved for the first time. The biosynthetic pathway of C3Ga from (+)-catechin was constructed by introducing anthocyanidin synthase (ANS) and UDP-galactose:cyanidin galactosyltransferase. Some strategies, including enhancement of the UDP-galactose biosynthesis pathway, identification of efficient ANS, overexpression of the C3Ga transporter, and modulation of multigene expression, were subsequently used to drive the metabolic flux toward C3Ga production. Next, the two-stage process for C3Ga production was optimized to mitigate limitations for further metabolic engineering. Combined with the knockout of β-phosphoglucomutase (ycjU), a newly identified competitive pathway for UDP-galactose, the production of C3Ga finally reached 217.9 mg/L. The strategies used in this study could be applied to the biosynthesis of other anthocyanins and galactosylated natural products.",
-  "publication_date": "2025-06-17",
-  "journal": "ACS synthetic biology",
-  "doi": "10.1021/acssynbio.5c00094"
-}

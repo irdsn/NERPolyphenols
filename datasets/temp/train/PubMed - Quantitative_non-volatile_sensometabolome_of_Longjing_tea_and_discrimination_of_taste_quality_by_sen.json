@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonols",
-  "title": "Quantitative non-volatile sensometabolome of Longjing tea and discrimination of taste quality by sensory analysis, large-scale quantitative metabolomics and machine learning.",
-  "abstract": "Study on quantitative non-volatile sensometabolome of Longjing tea remains lacked. Herein, the taste and molecular features of 42 Longjing tea samples were analyzed by sensory quantitative analysis and quantitative metabolomics. A comprehensive landscape was mapped for the first time by absolute quantification of 104 non-volatiles in tea infusions using ultra-high performance liquid chromatography-mass spectrometry. Flavan-3-ols were most abundant (1051.90-1571.98 mg/L), followed by alkaloids (447.16-620.26 mg/L), amino acids (378.15-730.41 mg/L), phenolic acids (296.88-516.93 mg/L), organic acid (98.92-163.38 mg/L), flavonol glycosides (34.02-111.59 mg/L), and others. Compound epigallocatechin gallate, caffeine, theanine, quinic acid, citric acid, kaempferol-3-O-galactosylrutinoside were most predominant in each category. Tea infusions with distinct tastes (umami vs. mellow) showed chemical differences mainly in amino acids and flavonoids, with 16 compounds as key differential. Furthermore, an effective taste evaluation and discrimination model was constructed using binary logistic regression (predictive accuracy 97.6 %, umami vs. mellow), utilizing critical marker compounds kaempferol-3-O-glucosylrutinoside and aspartic acid.",
-  "publication_date": "2025-04-27",
-  "journal": "Food chemistry",
-  "doi": "10.1016/j.foodchem.2025.144496"
-}

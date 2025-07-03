@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "tea polyphenols",
-  "title": "Deep Learning-Assisted Multiplexed Electrochemical Fingerprinting for Chinese Tea Identification.",
-  "abstract": "Selectively differential identification of natural components with similar chemical structures in complex matrices is still a challenging task by conventional analytical strategies. Herein, we developed a landmark (DaXing airport)-inspired laser engraving sensor array that combined multiplex electrochemical fingerprinting technology with a one-dimensional convolutional neural network (1D-CNN) for rapidly precise detection of three tea polyphenols and the differentiation of 24 distinct types of Chinese teas. This sensing strategy employs a diverse array of three different working electrode configurations as a multivariate sensor (bare electrode, nanoenzyme electrode, and bioenzyme electrode), generating distinct electrochemical fingerprints in complex samples. By utilizing a self-designed 1D-CNN algorithm for feature extraction, the identification of electrochemical fingerprints is significantly improved, thereby enhancing the predictive accuracy for tea polyphenols and Chinese teas. This platform successfully achieves detection of three tea polyphenols, distinguishing six Chinese tea series and 24 tea varieties with accuracy rates of 98.84 and 97.68%, respectively. Notably, the deep learning-assisted multiplexed electrochemical fingerprinting technique achieves better accuracy for tea identification compared with other representative machine learning methods. This advancement offers a rapid and reliable approach to enhancing the development of identification and authentication processes for agricultural products.",
-  "publication_date": "2025-04-10",
-  "journal": "Analytical chemistry",
-  "doi": "10.1021/acs.analchem.4c06651"
-}

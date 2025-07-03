@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds",
-  "title": "The Orthovanadate-Catalyzed Formation of a Thermally Inert and Low-Redox-Potential Melanin.",
-  "abstract": "Catechol-like compounds are found throughout biology in the form of both redox-active and metal-binding functional groups. Within the marine environment, catechol groups are known to coordinate strongly with vanadate and ferric ions, and this binding is regulated through redox mechanisms. While investigating marine melanin formation in vitro, we found that DOPA, a catechol-containing amino acid, reacts with both metals differently when provided with sulfite, a weak reductant, and selenite, a weak oxidant. Both compounds interacted with the DOPA-vanadium complex, but only selenite, the more redox-labile chalcogenide, led to the creation of melanin particulates. When DOPA, vanadate, and selenite are present together, a metal-binding spectra shift and a melanin variant are rapidly observed. This variant was found to form large, elongated filaments with a low carboxylic acid content and a unique electron paramagnetic resonance signature. When compared to enzymatically produced melanin, this chemically synthesized variant was more thermally and biologically inert, exhibiting a lower redox activity. The results demonstrate that the regulation of the redox environment from metal-catechol interactions can help to control both the chemical and physical properties of melanin aggregates, suggesting a scalable and cell- and enzyme-free synthesis pathway for applications that may require inert materials of strict composition.",
-  "publication_date": "2025-06-10",
-  "journal": "International journal of molecular sciences",
-  "doi": "10.3390/ijms26125537"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "polyphenols gut microbiota",
-  "title": "Characterizing the Sulfated and Glucuronidated (Poly)phenol Metabolome for Dietary Biomarker Discovery.",
-  "abstract": "(Poly)phenols, bioactive compounds abundant in plant-based diets, have attracted interest for their potential role in preventing chronic diseases including cardiometabolic and neurodegenerative diseases. This study investigates the global sulfatome and glucuronidated metabolome in urine samples from 100 healthy adults collected pre- and postintervention following a 3-day (poly)phenol-rich intervention consisting of flaxseeds, raspberry powder, and soy milk. Using untargeted mass spectrometric metabolomics combined with selective phase II enzymatic treatment, we detected 156 sulfated and 143 glucuronidated metabolites in urine samples. Significant changes postintervention were observed for 91 sulfates and 94 glucuronides. Receiver operating characteristic curve analysis identified a combination of six polyphenol-derived key metabolites: glucuronidated daidzein and the sulfated compounds of pyrogallol, ferulic acid, 4-methoxyphenol, enterolactone, and resorcinol, which resulted in the best combination with the highest predictive AUC of 0.97. These findings underscore the utility of these metabolites as sensitive and selective biomarkers of (poly)phenol dietary intake.",
-  "publication_date": "2025-03-02",
-  "journal": "Journal of agricultural and food chemistry",
-  "doi": "10.1021/acs.jafc.4c12596"
-}

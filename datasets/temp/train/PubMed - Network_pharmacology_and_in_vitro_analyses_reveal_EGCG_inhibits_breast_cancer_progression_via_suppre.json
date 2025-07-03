@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "catechins",
-  "title": "Network pharmacology and in vitro analyses reveal EGCG inhibits breast cancer progression via suppression of the EGFR/Src pathway.",
-  "abstract": "Breast cancer (BRCA) has emerged as a significant threat to women's health. Epigallocatechin gallate (EGCG) has shown promising therapeutic potential. However, its mechanisms of action are not yet fully understood. This study employed a network pharmacology (NP) approach to investigate the key targets and signaling pathways regulated by EGCG in BRCA, and validated the findings through cell experiments. Our comprehensive analysis identified 10 key targets of EGCG, suggesting that EGCG may inhibit the EGFR/Src pathway. Consistently, our cell experiments revealed that EGCG could significantly inhibit the migration, invasion, and proliferation of BRCA cells. Furthermore, EGCG downregulated the protein levels of EGFR, Src, PI3K, Akt, STAT3, and Bcl2. These experimental findings support the results of the NP analysis. In conclusion, our NP and in vitro studies indicate that EGCG inhibits BRCA progression by suppressing the EGFR/Src pathway and its downstream signals transduction including the PI3K/Akt and STAT3/Bcl2 pathways.",
-  "publication_date": "2025-05-06",
-  "journal": "Biochemical and biophysical research communications",
-  "doi": "10.1016/j.bbrc.2025.151942"
-}

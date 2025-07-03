@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "vegetable phenolics",
-  "title": "Comparative analysis and investigation of ultrasonication on juice yield and bioactive compounds of kinnow fruit using RSM and ANN models.",
-  "abstract": "Ultrasonication (US) is a promising non-thermal technique widely applied in the food sector for improving the extraction process and preserving nutrients. Kinnow fruits have yields of 40-60% juice; the rest of the parts are discarded as waste. The study explored ultrasonication (US) as a pre-treatment to improve juice expression and preserve heat-sensitive nutrients such as vitamin C. The optimization of US treatment was done by varying treatment time (30-90 min) and temperature (30-70 °C) using response surface methodology (RSM). Under optimal conditions, juice yield increased by 14.52% with 4.34% vitamin C loss. The artificial neural network (ANN) model (2-9-1 for yield and 2-10-1 for vitamin C) outperformed the RSM in terms of fitting, predictive ability and accuracy. The kinetic study further indicated that longer US treatment enhanced the total soluble solids (TSS), total phenolic content (TPC), and total color change (ΔE), whereas antioxidant activity and vitamin C content decreased. The yield followed an inverted parabola trend during the kinetic study; yield increased with a k-value of 0.0582 until 30 min and then declined until 60 min with a 0.0253 k-value. These results suggested that US technology has the potential to improve juice yield and maintain nutritional quality.",
-  "publication_date": "2025-03-21",
-  "journal": "Scientific reports",
-  "doi": "10.1038/s41598-025-94640-8"
-}

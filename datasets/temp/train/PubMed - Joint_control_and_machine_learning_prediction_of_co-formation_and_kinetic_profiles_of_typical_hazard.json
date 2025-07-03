@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "polyphenols",
-  "title": "Joint control and machine learning prediction of co-formation and kinetic profiles of typical hazardous Maillard reaction products by catechin treatment in air-fried potato chips.",
-  "abstract": "The Maillard reaction generates hazardous processing contaminants, including acrylamide (AA) and Nε-(carboxymethyl)lysine (CML), necessitating effective inhibitors. Here we use machine learning approaches to predict how catechin treatment reduces simultaneous formation of typical hazardous Maillard reaction products (hMRPs) in air-fried potato chips. Catechins significantly inhibited co-formation of AA, free CML, and bound CML in chips, with the highest inhibition using (-)-epigallocatechin gallate by 50.16 %, 48.73 %, and 33.60 %, and the mitigation using tea polyphenols by 48.05 %, 50.21 %, and 31.87 %, respectively, showing non-linear dose-dependent inhibitory effects. The in-depth kinetic analysis further revealed catechins significantly suppressed the generation phase but not the elimination phase of AA and CML production. The random forest model demonstrated high prediction accuracy and reliability. The R2values were all above 0.9, and the RPD values exceeded 3, indicating an excellent predictive accuracy and reliability for the estimation of both AA and CML levels.These findings contribute to the control of hMRPs and food safety management in fried food industry, while providing new insights for developing intelligent predictive models to forecast and mitigate the formation of thermal processing contaminants.",
-  "publication_date": "2025-06-20",
-  "journal": "Food chemistry",
-  "doi": "10.1016/j.foodchem.2025.145211"
-}

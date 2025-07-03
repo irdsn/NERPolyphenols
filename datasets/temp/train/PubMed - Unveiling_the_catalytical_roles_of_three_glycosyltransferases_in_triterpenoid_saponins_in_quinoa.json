@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "secondary metabolites",
-  "title": "Unveiling the catalytical roles of three glycosyltransferases in triterpenoid saponins in quinoa.",
-  "abstract": "Saponins constitute a class of characteristic compounds within quinoa grains. In this study, metabolomic analysis identified 20 triterpene saponins, the majority of which were exclusively localized within the pericarp. Furthermore, three crucial glycosyltransferases were identified in quinoa. CqCsl2 was characterized as a 3-O-glucuronosyltransferase, CqUGT73FG1 as a 2'-O-glucosyltransferase and CqUGT74BB3 as a C-28 carboxyl glucosyltransferase involved in triterpenoid glycosylation. To elucidate the catalytic mechanisms of CqUGT74BB3, molecular docking simulations and site-directed mutagenesis experiments revealed His13 and Asp104 as critical catalytic residues. Moreover, C-28 carboxyl glycosylation of oleanolic acid was observed to occur only when the C-3 position was modified with either mono-glucuronidation or di-O-glycosylation. This specific modification strategically positions the C-28 carboxyl group in close proximity to the catalytic centre of CqUGT74BB3 (His13-Asp104), enabling the glycosylation reaction. We successfully synthesized key triterpene saponins, exemplified by ginsenoside Ro, in tobacco. These findings have significant implications for future metabolic engineering endeavours aimed at developing quinoa varieties with enhanced nutritional and medicinal attributes.",
-  "publication_date": "2025-06-26",
-  "journal": "Plant biotechnology journal",
-  "doi": "10.1111/pbi.70214"
-}

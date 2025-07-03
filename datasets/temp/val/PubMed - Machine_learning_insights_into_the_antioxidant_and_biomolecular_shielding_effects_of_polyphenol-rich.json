@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "catechins",
-  "title": "Machine learning insights into the antioxidant and biomolecular shielding effects of polyphenol-rich 18 date palm pit extracts.",
-  "abstract": "This study investigated the antioxidant and biomolecular shielding effects of polyphenol-rich extracts from 18 date palm pit varieties. Phytochemical profiling revealed significant varietal differences, with catechin (358.48 mg/100 g in Maghool) and gallic acid (34.55 mg/100 g in Khalas) as dominant compounds. Antioxidant assays demonstrated robust activity, with Shikat alkahlas showing 64.10 % DPPH inhibition and Maghool exhibiting the highest FRAP value (190.57 mmol Fe2+/100 g). Enzyme inhibition varied widely: Maghool inhibited tyrosinase by 65.40 %, while Shabebe showed 42.21 % α-amylase inhibition. Protective effects against DNA and BSA damage were pronounced in Sagay (39.99 % supercoiled DNA retention) and Jabri (98.95 % BSA protection). An XGBoost model predicted antioxidant, enzyme inhibitory, and protective activities with up to 92.57 % accuracy, identifying catechin and cinnamic acid as key predictors. These findings underscore the potential of date pits as sustainable sources of bioactive compounds for nutraceutical and pharmaceutical applications.",
-  "publication_date": "2025-04-19",
-  "journal": "Food chemistry: X",
-  "doi": "10.1016/j.fochx.2025.102480"
-}

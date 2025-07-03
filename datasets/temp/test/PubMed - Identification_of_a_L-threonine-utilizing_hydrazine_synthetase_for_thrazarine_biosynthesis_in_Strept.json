@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "secondary metabolites",
-  "title": "Identification of a L-threonine-utilizing hydrazine synthetase for thrazarine biosynthesis in Streptomyces coerulescens MH802-fF5.",
-  "abstract": "Hydrazine synthetases (HSs), consisting of cupin and methionyl-tRNA synthetase (MetRS)-like domains, catalyze hydrazine formation in the biosynthesis of various nitrogen-nitrogen (N-N) bond-containing secondary metabolites. The structural diversity of the N-N bond-containing secondary metabolites synthesized using this system is attributed to the diversity of amino acids (e.g., L-Glu, L-Ala, L-Tyr, L-Ser, and Gly) that are recognized by the MetRS domain. However, there are still many HS genes in the genome database whose substrates are unknown. In this study, we discovered a putative biosynthetic gene cluster (BGC) for thrazarine, a diazo group-containing secondary metabolite with antitumor activity, by whole-genome sequencing of the thrazarine producer Streptomyces coerulescens MH802-fF5. In vivo and in vitro analyses showed that ThzN, an HS encoded by this BGC, synthesizes N-((5-carboxy-5-(amino)pentyl)amino)threonine from L-Thr and N6-hydroxylysine. This is the first example of L-Thr-utilizing HS. Sequence alignment analysis and structure prediction using Boltz-1 indicated that the space near Gly417 is important for accommodation of the threonine side chain. The comparison of thrazarine BGC with azaserine BGC indicated that the biosynthetic mechanism of the diazo group of thrazarine is different from that of azaserine. This study expands the diversity of HSs and provides new insights into the biosynthesis of diazo groups.",
-  "publication_date": "2025-06-26",
-  "journal": "Chembiochem : a European journal of chemical biology",
-  "doi": "10.1002/cbic.202500298"
-}

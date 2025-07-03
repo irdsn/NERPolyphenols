@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds",
-  "title": "Ellagic Acid and the Metabolite Urolithin A Suppress HSV-1 Infection and Brain Inflammation by Targeting Casein Kinase CK2.",
-  "abstract": "Plant-based phenolic components and their metabolites, such as ellagic acid (EA) and urolithin A (UA), possess a variety of biological activities. Here, we investigated the antiviral effect of EA and UA against HSV-1 infection, a virus that causes peripheral infection as well as brain inflammation. Both compounds demonstrated potent antiviral activity. Network pharmacology and molecular docking analyses identified protein kinase CK2 as a common target for their action. We showed that both EA and UA were direct CK2 inhibitors using an enzymatic assay, an observation substantiated in cell culture studies. The effect of EA and UA on HSV-1 infection through CK2 was confirmed in CK2 (CSNK2B) knockout cells. Finally, we demonstrated an antiviral effect using a murine model of herpetic stromal keratitis. EA or UA treatment reduced HSV-1 shedding and prevented viral neuroinvasion. CK2 is a critical enzyme involved in cell proliferation and the proinflammatory response. In addition to identifying CK2 as a putative target of EA and UA antiviral activities, this study also demonstrates that EA and its metabolite UA have the potential to reduce infection-associated neurodegenerative inflammation.",
-  "publication_date": "2025-06-25",
-  "journal": "Journal of agricultural and food chemistry",
-  "doi": "10.1021/acs.jafc.5c04281"
-}

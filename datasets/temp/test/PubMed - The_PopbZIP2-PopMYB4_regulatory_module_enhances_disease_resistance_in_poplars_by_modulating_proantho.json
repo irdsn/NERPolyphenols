@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "proanthocyanidins",
-  "title": "The PopbZIP2-PopMYB4 regulatory module enhances disease resistance in poplars by modulating proanthocyanidin accumulation.",
-  "abstract": "Anthracnose, caused by Colletotrichum gloeosporioides, is a significant fungal disease that affects poplar trees globally, leading to reduced yields and substantial economic losses. Proanthocyanidins (PAs) play a key role in resistance to fungal pathogens; however, the mechanisms by which PAs mediate resistance to anthracnose in poplar remain poorly understood. In this study, we identified PopbZIP2, a transcription factor-encoding gene that was initially expressed in infected leaves and subsequently in uninfected leaves in response to C. gloeosporioides infection. As a transcriptional activator, PopbZIP2 can bind to the promoters of target genes PopGRF3 and PopAPA1, increasing proanthocyanidin levels in cells to enhance defense against pathogens. It is noteworthy that the PopAPA1 protein can directly inhibit pathogen growth. We further demonstrated that PopMYB4 can interact with PopbZIP2, reducing its promoter binding activity and thereby inhibiting the expression of PopGRF3 and PopAPA1. Overexpression of PopMYB4 led to sensitivity to the pathogen C. gloeosporiodes. Under normal conditions, the soluble and insoluble proanthocyanidin contents in PopMYB4 transgenic plants were significantly lower compared to the control. The dual regulation of immune responses by the PopMYB4-PopbZIP2 module unveils a novel regulatory mechanism in Populus, enhancing our understanding of the complex networks governing immune responses.",
-  "publication_date": "2025-02-13",
-  "journal": "The New phytologist",
-  "doi": "10.1111/nph.20408"
-}

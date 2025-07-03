@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "tea polyphenols",
-  "title": "Novel (-)-eigallocatechin-3-gallate-erlotinib conjugates via triazole rings inhibit non-small cell lung cancer cells through EGFR signaling pathway.",
-  "abstract": "EGFR is frequently overexpressed in non-small cell lung cancer, and EGFR plays a crucial role in the occurrence and progression of malignant tumors. Currently, drug resistance often develops following treatment with EGFR tyrosine kinase inhibitors, such as erlotinib and gefitinib. Therefore, It is essential to investigate new compounds that can effectively target EGFR overexpression. The polyphenols epigallocatechin-3-gallate (EGCG), found in tea, have demonstrated anti-cancer properties. In this study, we linked EGCG and erlotinib through a click reaction using polyglycol to form an EGCG-erlotinib conjugated compounds (EGCG-Erls). We then explored its biological activity through various experiments. The results indicated that the compound 10 exhibited a superior inhibitory effect on NCI-H1975 cells, reduced their cloning and migratory capabilities, promoted cell apoptosis, and inhibited cell cycle progression. Furthermore, it was observed that compound 10 can bind to the EGFR protein and effectively inhibit the expression of phosphorylated EGFR (p-EGFR) and its downstream signaling proteins. Overall, the study suggests that compound 10 may induce apoptosis and inhibit cell proliferation via the EGFR signaling pathway, providing a promising avenue for the development of new EGFR inhibitors.",
-  "publication_date": "2025-02-08",
-  "journal": "Bioorganic chemistry",
-  "doi": "10.1016/j.bioorg.2025.108263"
-}

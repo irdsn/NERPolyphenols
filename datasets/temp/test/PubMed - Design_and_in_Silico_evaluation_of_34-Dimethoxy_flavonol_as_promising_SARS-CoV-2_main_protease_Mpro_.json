@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonols",
-  "title": "Design and in Silico evaluation of 3',4'-Dimethoxy flavonol as promising SARS-CoV-2 main protease (Mpro) inhibitor.",
-  "abstract": "Flavonoids possess various biological activities, including the ability to inhibit SARS-CoV-2. This study aimed to synthesize 3',4'-dimethoxyflavonol (F34) and assess its potential as an anti-SARS-CoV-2 agent. F34 was synthesized using the Flynn-Algar-Oyamada reaction, and molecular docking studies were performed using the MOE 2022.02 software, utilizing the SARS-CoV-2 crystal structure (PDB ID: 6M2N) from the RCSB Protein Data Bank. To further investigate the binding stability of F34, pharmacophore analysis and molecular dynamics (MD) simulations were conducted. The synthesis yielded F34 at 75.23% yield, as confirmed by 1 H-NMR, FT-IR, and UV-Vis analyses. Docking results indicated that F34 interacted with key amino acid residues in the SARS-CoV-2 active site, with a binding free energy of -8.42 kcal/mol and an RMSD of 1.03. F34 forms a hydrogen bond with Gly143 and His164, and interacts with the catalytic dyad residues His41 and Cys145, which are crucial for SARS-CoV-2 inhibition. MD simulations further suggested stable hydrogen-bond interactions between F34 and Gly143/His164 at distances below 2.9 Å. These findings suggest that F34 could be a promising SARS-CoV-2 inhibitor.",
-  "publication_date": "2025-05-31",
-  "journal": "In silico pharmacology",
-  "doi": "10.1007/s40203-025-00368-8"
-}

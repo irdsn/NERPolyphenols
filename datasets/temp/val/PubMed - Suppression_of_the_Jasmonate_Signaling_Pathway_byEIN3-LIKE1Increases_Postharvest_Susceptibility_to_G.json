@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "fruit polyphenols",
-  "title": "Suppression of the Jasmonate Signaling Pathway byEIN3-LIKE1Increases Postharvest Susceptibility to Gray Mold in Ripening Tomato Fruits.",
-  "abstract": "Postharvest decay, primarily occurring after ripening, leads to substantial losses. Ripening increases tomato susceptibility toBotrytis cinerea, linked to desensitization of jasmonate (JA) biosynthesis and defense signaling. During ripening, key JA biosynthesis genes such asallene oxide synthase(AOS) and12-oxophytodienoate reductase 3(OPR3) were downregulated in response to wounding or fungal challenges. TheSlmyc2mutants with impaired JA responses showed heightened pathogen sensitivity. Conversely,EIN3-Like sleil1mutants exhibited elevatedSlMYC2levels, which increased expression of JA biosynthesis genes such aslipoxygenase D(LOXD),OPR3,AOS, andallene oxide cyclase(AOC) alongside defense genes includingproteinase inhibitor PI-6,PI-27,polyphenol oxidase, andpathogenesis-related proteins, thereby enhancing resistance. Treatment with DNA methyltransferase inhibitor 5-azacytidine increased JA content, suggesting epigenetic regulation of JA-mediated defense. Collectively, intensified ethylene signaling during ripening, mediated bySlEIL1, suppressed JA-dependent responses againstB. cinerea, highlighting ethylene-JA antagonism as a key driver of postharvest decay.",
-  "publication_date": "2025-05-06",
-  "journal": "Journal of agricultural and food chemistry",
-  "doi": "10.1021/acs.jafc.5c00351"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "Tipping the ultrafast photochemical balance of cis-stilbene.",
-  "abstract": "Multi-state nonadiabatic molecular dynamics simulations combined with MRSF-TDDFT have revealed that the quantum yield of photoproducts in cis-stilbene is dependent on the initial temperature of the ground state, thereby resolving controversies regarding the competition between isomerization and ring-closure reactions. Specifically, 4,4-dihydrophenanthrene (DHP) is preferentially formed at low temperatures, while trans-stilbene is favored at high temperatures. The ethylenic torsional motions (θ) are particularly coupled with the initial thermal condition, tipping the balance of the competition.",
-  "publication_date": "2025-05-24",
-  "journal": "Photochemical & photobiological sciences : Official journal of the European Photochemistry Association and the European Society for Photobiology",
-  "doi": "10.1007/s43630-025-00737-4"
-}

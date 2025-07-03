@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "polyphenols",
-  "title": "Exploring the Molecular Mechanisms of Ocimum tenuiflorum Linn. Against Crohn's Disease: A Network Pharmacology and Molecular Modelling Approach.",
-  "abstract": "Crohn's disease is a chronic inflammatory condition of the gastrointestinal tract with symptoms like abdominal pain, diarrhoea and weight loss. Current treatments, including 5-aminosalicylic acid and immunosuppressant, often have side effects and limited efficacy. Alternatively, herbal medication, particularly Ocimum tenuiflorum, has gained attention for its historical use in Ayurveda against gastrointestinal and renal issues, supported by its anti-inflammatory, antioxidant, antimicrobial, and immune-modulatory properties. This study employs network pharmacology and molecular modelling to explore the multi-target and multi-pathway mechanisms of O. tenuiflorum as a complementary therapeutic approach for addressing Crohn's disease. The ADME screening of O. tenuiflorum identified 24 compounds with 550 targets and 5142 CD unique disease genes were found. Overlapping revealed 259 common targets and helped to identify the top 10 potential targets. Enrichment analysis indicated O. tenuiflorum's management potential via PI3K-AKT pathway modulation. Furthermore, molecular modelling revealed synergistic effects of O. tenuiflorum with identified key targets. Our study demonstrates the multi-target (AKT1, MAPK3, PIK3R1, SRC and STAT3) and multi-pathway (PI3K-AKT, Jak-STAT, MAPK and mTOR signalling) mechanisms of O. tenuiflorum in combating CD, providing new insight for further research towards developing complementary therapies.",
-  "publication_date": "2025-06-27",
-  "journal": "Chemistry & biodiversity",
-  "doi": "10.1002/cbdv.202403091"
-}

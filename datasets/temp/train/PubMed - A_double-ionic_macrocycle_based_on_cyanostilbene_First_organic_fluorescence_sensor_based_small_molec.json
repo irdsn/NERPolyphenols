@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "A double-ionic macrocycle based on cyanostilbene: First organic fluorescence sensor based small molecular system for detecting cholesterol.",
-  "abstract": "Cholesterol is an essential nutrient and an important biomarker for many diseases. While several analytical methods based on large-scale instruments and organic-inorganic hybrid quantum dots had been developed on examining cholesterol, the organic fluorescence sensor for rapid, simple and in-situ examining cholesterol have not been reported to date. In this work, a novel double-ionic macrocycle (DIM) based on cyanostilbene was designed and synthesized as the first organic fluorescence sensor based small molecular system for detecting cholesterol. A distinct fluorescence color change from green-yellow to green-blue was observed upon cholesterol detection. This method exhibited high selectivity among 22 biomolecules and 16 ions. The detection limit was as low as 1.03 × 10-8M, indicating exceptional sensitivity. The sensing mechanism, involving cholesterol inclusion whthin the cavity of DIM, was elucidated by Job's curve,1H NMR spectroscopy, MS spectroscopy, XRD analysis, POM investigation, CD spectroscopy, CPL investigation and density functional theory calculations. The practical utility of DIM was demonstrated in various applications including test paper, real egg yolk samples, and simulated water samples. These experiments confirmed its capability for both qualitative and quantitative in-situ cholesterol detection in real-world environments and daily applications, offering rapid and simple operation.",
-  "publication_date": "2025-04-16",
-  "journal": "Bioorganic chemistry",
-  "doi": "10.1016/j.bioorg.2025.108483"
-}

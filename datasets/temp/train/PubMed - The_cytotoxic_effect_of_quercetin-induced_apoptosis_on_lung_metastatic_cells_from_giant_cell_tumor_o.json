@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonols",
-  "title": "The cytotoxic effect of quercetin-induced apoptosis on lung metastatic cells from giant cell tumor of bone.",
-  "abstract": "The pulmonary parenchyma is the primary site of metastasis for giant cell tumor (GCT) of bone, a benign yet aggressive musculoskeletal tumor. Current treatments, including surgery and antibody therapy, are only partially effective and often lead to significant side effects. This study aimed to evaluate the apoptotic activity of quercetin, a naturally occurring flavonoid with anticancer properties, on metastatic GCT lung cells (TIB-223). The immunophenotype of the TIB-223 cell line was characterized using flow cytometry, revealing positivity for CD166 and CD47 markers and negativity for CD34, CD73, CD117, CD45, and fibroblast markers. The IC50 of quercetin was determined at 91.1 µM through MTT assays, demonstrating its cytotoxic effect in a dose-dependent manner. Apoptosis was confirmed via flow cytometry and Western blotting, showing increased caspase-3 expression after 24 hours of treatment. These findings indicate that quercetin induces apoptosis in metastatic GCT cells and could serve as a basis for developing phytopharmaceutical therapies targeting this pathology.",
-  "publication_date": "2025-05-26",
-  "journal": "Cellular and molecular biology (Noisy-le-Grand, France)",
-  "doi": "10.14715/cmb/2025.71.5.2"
-}

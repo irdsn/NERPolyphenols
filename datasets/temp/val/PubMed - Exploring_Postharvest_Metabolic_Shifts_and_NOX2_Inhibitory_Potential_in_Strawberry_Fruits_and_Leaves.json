@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "bioactive phytochemicals",
-  "title": "Exploring Postharvest Metabolic Shifts and NOX2 Inhibitory Potential in Strawberry Fruits and Leaves via Untargeted LC-MS/MS and Chemometric Analysis.",
-  "abstract": "Background/Objectives:Strawberries are highly appreciated for their rich phytochemical composition, but rapid postharvest deterioration limits their shelf life and nutritional quality. This study aimed to investigate the metabolic changes occurring in both strawberry fruits and leaves during storage and to evaluate the NADPH oxidase 2 (NOX2) inhibitory potential of strawberry-derived metabolites.Methods:Untargeted LC-MS/MS analysis was conducted on fruit and leaf tissues stored at 8 ± 0.5 °C. A total of 37 metabolites were identified, including organic acids, phenolic acids, flavonoids, and hydroxycinnamic acid derivatives. Multivariate statistical analyses (ANOVA, PLS-DA, and volcano plots) were used to assess temporal and tissue-specific metabolic shifts. Additionally, a machine learning-based predictive model was applied to evaluate the NOX2 inhibitory potential of 24 structurally characterized metabolites.Results:Storage induced significant and tissue-specific metabolic changes. In fruits, malic acid, caffeic acid, and quercetin-3-glucuronide showed notable variations, while ellagic acid aglycone and galloylquinic acid emerged as prominent markers in leaves. The predictive model identified 21 out of 24 metabolites as likely NOX2 inhibitors, suggesting potential antioxidant and anti-inflammatory bioactivity.Conclusions: These findings provide new insights into postharvest biochemical dynamics in both strawberry fruits and leaves. The results highlight the value of leaves as a source of bioactive compounds and support their potential valorization in functional food and nutraceutical applications.",
-  "publication_date": "2025-05-13",
-  "journal": "Metabolites",
-  "doi": "10.3390/metabo15050321"
-}

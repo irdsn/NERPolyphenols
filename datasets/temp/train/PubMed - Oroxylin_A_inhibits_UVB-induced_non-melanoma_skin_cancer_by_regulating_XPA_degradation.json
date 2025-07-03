@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids cancer",
-  "title": "Oroxylin A inhibits UVB-induced non-melanoma skin cancer by regulating XPA degradation.",
-  "abstract": "Oroxylin A (OA), a natural compound extracted from Scutellaria baicalensis, demonstrates preventive potential against ultraviolet B (UVB)-induced non-melanoma skin cancer (NMSC), the most prevalent cancer worldwide with increasing incidence. Utilizing SKH-1 hairless mice exposed to UVB, this study showed that OA delayed NMSC onset and alleviated acute skin damage. Mechanistic investigations revealed its dual action: inhibiting inflammation and enhancing nucleotide excision repair (NER) by stabilizing XPA, a crucial deoxyribonucleic acid (DNA) repair protein. This stabilization occurred through OA's interaction with glucose-regulated protein 94 (GRP94), which disrupted murine double minute 2 (MDM2)-mediated XPA ubiquitination and proteasomal degradation. By maintaining XPA levels, OA expedited photoproduct clearance and diminished genomic instability, ultimately impeding NMSC development. These findings suggest OA as a promising chemopreventive agent targeting the GRP94/MDM2-XPA axis to counteract UVB-induced carcinogenesis.",
-  "publication_date": "2025-06-01",
-  "journal": "Chinese journal of natural medicines",
-  "doi": "10.1016/S1875-5364(25)60893-4"
-}

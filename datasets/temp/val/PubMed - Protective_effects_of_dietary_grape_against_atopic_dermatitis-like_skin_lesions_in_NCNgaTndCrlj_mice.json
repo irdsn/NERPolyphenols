@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "grape skin",
-  "title": "Protective effects of dietary grape against atopic dermatitis-like skin lesions in NC/NgaTndCrlj mice.",
-  "abstract": "Atopic dermatitis (AD) is a chronic inflammatory skin disease with significant health/economic burdens. Existing therapies are not fully effective, necessitating development of new approaches for AD management. Here, we report that dietary grape powder (GP) mitigates AD-like symptoms in 2,4-dinitrofluorobenzene (DNFB)-induced AD in NC/NgaTndCrlj mice. Using prevention and intervention protocols, we tested the efficacy of 3% and 5% GP-fortified diet in a 13-weeks study. We found that GP feeding markedly inhibited development and progression of AD-like skin lesions, and caused reduction in i) epidermal thickness, mast cell infiltration, ulceration, excoriation and acanthosis in dorsal skin, ii) spleen weight, extramedullary hematopoiesis and lymph nodes sizes, and iii) ear weight and IgE levels. We also found significant modulations in 15 AD-associated serum cytokines/chemokines. Next, using quantitative global proteomics, we identified 714 proteins. Of these, 68 (normal control) and 21 (5% GP-prevention) were significantly modulated (≥2-fold) vs AD control (DNFB-treated) group, with many GP-modulated proteins reverting to normal levels. Ingenuity pathway analysis of GP-modulated proteins followed by validation using ProteinSimple identified changes in acute phase response signaling (FGA, FGB, FGG, HP, HPX, LRG1). Overall, GP supplementation inhibited DNFB-induced AD in NC/NgaTndCrlj mice in both prevention and intervention trials, and should be explored further.",
-  "publication_date": "2023-01-19",
-  "journal": "Frontiers in immunology",
-  "doi": "10.3389/fimmu.2022.1051472"
-}

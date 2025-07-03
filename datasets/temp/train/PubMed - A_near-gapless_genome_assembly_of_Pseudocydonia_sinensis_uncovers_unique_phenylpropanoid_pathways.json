@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic acids",
-  "title": "A near-gapless genome assembly of Pseudocydonia sinensis uncovers unique phenylpropanoid pathways.",
-  "abstract": "Pseudocydonia sinensis, commonly known as Chinese quince, belongs to the Rosaceae family and is closely related to apple and pear. Despite its botanical significance, genomic resources for this species remain limited. We present a high-quality, chromosome-scale, and haplotype-resolved genome assembly of P. sinensis, characterized by high BUSCO completeness and QV scores. The genome sizes of Haplotypes A and B are 581.29 Mb and 561.80 Mb, respectively, each spanning 17 chromosomes with a contig N50 of 15.76 Mb. Comparative genomic analyses place P. sinensis within the Maleae tribe, closely related to Malus domestica and Pyrus communis, both of which have undergone an additional whole-genome duplication event. Gene family and metabolomic analyses show that the genome has an expansion of 1603 gene families, with an accumulation of secondary metabolites such as flavonoids and phenolic acids (e.g. rutin and caffeoylquinic acid). This duplication has contributed to the expansion of gene families involved in secondary metabolite biosynthesis, particularly in the phenylpropanoid and flavonoid pathways. Integrative transcriptomic and metabolomic analyses further revealed the MYB transcription factor ODORANT1 (ODO1) is a key regulator of phenylpropanoid metabolism. Functional assays show that PsMYBODO1 directly binds to and activates the promoters of key genes in this pathway, including PsRT3, PsPAL, PsCAD and PsCOMT. This high-quality reference genome provides a valuable resource for functional genomic studies and breeding programmes aimed at enhancing the medicinal properties of P. sinensis.",
-  "publication_date": "2025-06-08",
-  "journal": "Plant biotechnology journal",
-  "doi": "10.1111/pbi.70167"
-}

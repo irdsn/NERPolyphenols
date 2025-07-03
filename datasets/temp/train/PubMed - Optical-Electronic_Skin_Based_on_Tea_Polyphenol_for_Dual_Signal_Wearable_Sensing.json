@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "tea polyphenols",
-  "title": "Optical-Electronic Skin Based on Tea Polyphenol for Dual Signal Wearable Sensing.",
-  "abstract": "The rapid development of smart electronic skin has led researchers to design a variety of flexible and stretchable devices that can be used to monitor physiological and environmental signals. In this work, we successfully demonstrate a color-adjustable and conductive wearable optical-electronic skin (OE-skin) based on photonic crystal hydrogel that is capable of delivering both optical and electrical signal responses synchronously. The OE-skin is fabricated by incorporating a structural colored layer, composed of periodically aligned magnetic nanoparticles, into a polyacrylamide hydrogel matrix that contains tea polyphenols and borax. The dynamic boronate ester bonds formed between borax and the catechol groups of tea polyphenols are able to enhance the mechanical properties of the OE-skin, while also conferring excellent electrical conductivity, high sensitivity, and a rapid electrical response. Additionally, the tea polyphenols, which are natural active compounds derived from tea, possess diverse bioactive properties, thereby endowing the OE-skin with excellent antibacterial and biocompatibility characteristics. In addition, the developed electronic skin successfully demonstrates its capability in synergistic electronic and optical sensing during human motion monitoring, indicating broad application prospects in the field of smart wearable sensors.",
-  "publication_date": "2025-04-29",
-  "journal": "Biosensors",
-  "doi": "10.3390/bios15050281"
-}

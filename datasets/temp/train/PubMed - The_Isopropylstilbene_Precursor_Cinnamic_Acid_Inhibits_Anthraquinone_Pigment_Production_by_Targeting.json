@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "The Isopropylstilbene Precursor Cinnamic Acid Inhibits Anthraquinone Pigment Production by Targeting AntI.",
-  "abstract": "Photorhabdusstrains, Gram-negative bacteria pathogenic to insect larvae, produce two signature compounds: the multifunctional isopropylstilbene (IPS), known for its antibiotic, insecticidal, and immunosuppressive activities, and orange-to-red pigmented anthraquinones (AQs), which attenuate oxidative stress. Here, we demonstrate an inverse correlation between the production of AQs and cinnamic acid (CA), the primary precursor for IPS formation in the model strainP. laumondiiTTO1. Metabolic and proteomic analyses following CA treatment show that CA inhibits AntI, a key enzyme in the final step of AQ-256 biosynthesis. The crystal structure of AntI in complex with CA reveals that cinnamic acid functions as a competitive inhibitor by inducing specific structural rearrangements in the lyase, resulting in noncovalent, reversible inhibition. These findings provide atomic insights into the intricate regulatory control of pigment biosynthesis and the production of bioactive compounds.",
-  "publication_date": "2025-06-05",
-  "journal": "Journal of the American Chemical Society",
-  "doi": "10.1021/jacs.5c07388"
-}

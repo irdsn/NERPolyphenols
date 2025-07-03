@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids cardiovascular",
-  "title": "Erythrocyte Membrane-Camouflaged Xanthohumol Nanoparticles Mitigate Doxorubicin-Induced Cardiotoxicity by Inhibiting Ferroptosis.",
-  "abstract": "Doxorubicin (DOX) chemotherapy is a cornerstone of cancer treatment, but its clinical application and effectiveness are severely restricted due to its life-threatening cardiotoxicity. Xanthohumol (XH), a compound from traditional Chinese medicine, is noted for its antioxidant properties and the potential to mitigate DOX-induced cardiotoxicity (DIC). However, its poor water solubility results in low biocompatibility, making it susceptible to immune system clearance, which severely restricts its application in vivo. In this study, we first identified and demonstrated that XH can effectively mitigate DIC by inhibiting ferroptosis. We designed a biomimetic nanodelivery system encapsulating XH within porous poly(lactic-co-glycolic acid) (PLGA) nanoparticles, further coated with an erythrocyte membrane (XH-NPs@RBCm). This system offers several advantages, including evasion of macrophage phagocytosis and prolonged circulation time, thereby enhancing the stability and bioavailability of XH in vivo. Treatment with XH-NPs@RBCm significantly reduced reactive oxygen species-dependent ferroptosis, improving the DOX-induced myocardial atrophy and cardiac dysfunction. Our study underscores the therapeutic promise of XH-NPs@RBCm in treating DIC through ferroptosis inhibition, offering key insights into biomimetic nanodelivery system development for DIC management.",
-  "publication_date": "2025-04-30",
-  "journal": "ACS biomaterials science & engineering",
-  "doi": "10.1021/acsbiomaterials.4c02467"
-}

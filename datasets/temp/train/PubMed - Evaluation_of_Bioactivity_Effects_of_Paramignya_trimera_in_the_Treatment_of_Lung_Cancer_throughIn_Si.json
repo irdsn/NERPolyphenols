@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "bioactive phytochemicals",
-  "title": "Evaluation of Bioactivity Effects of Paramignya trimera in the Treatment of Lung Cancer throughIn SilicoApproaches.",
-  "abstract": "The present study is an attempt to evaluate the bioactivity effects of the Paramignya trimera (P. trimera) extract usingin silicoapproaches. Network pharmacology was initially applied to identify potential pathways and key targets related to lung cancer. Molecular docking was subsequently used for screening 58 phytochemical compounds from P. trimera. The most promising anti-lung cancer targets of P. trimera were predicted, including PIK3CA, AKT1, MAPK3, MAPK1, TP53, and RELA due to their involvements in the main biochemical pathways. The top enriched pathways included the pathway in cancer, proteoglycans in cancer, the PI3K-Akt signaling pathway, and EGFR tyrosine kinase inhibitor resistance. These signaling pathways were found to be directly or indirectly related to the development and progression of lung cancer, implying the close connection to the anti-cancer mechanism of P. trimera. Three potential compounds of P. trimera against lung cancer were identified, namely C1 (coumarin dimer paratrimerin J), O4 (ellagic acid), and O5 (rutin).In vitrostudies might be required for these findings to assist in the drug discovery for lung cancer treatment.",
-  "publication_date": "2025-06-02",
-  "journal": "ACS omega",
-  "doi": "10.1021/acsomega.5c00914"
-}

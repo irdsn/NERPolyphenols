@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "tannins",
-  "title": "The inhibitory effect of mannoproteins on bitter aftertaste: From the salivary layer to the tongue surface to the receptor surface.",
-  "abstract": "To investigate the mechanisms by which mannoproteins (MPs, CECA, and 2082) with different chain conformations and concentrations inhibit the bitter aftertaste of monomeric and oligomeric proanthocyanidins (MOPC), a multilayer penetration approach was employed to reveal their mechanisms of action across different levels. At the salivary level, MPs formed a dense network with artificial saliva (AS) through key hydrophobic interactions. Fluorescence spectroscopy results indicated that the primary interaction force between CECA and AS were electrostatic interaction. However, as the concentration of CECA increased, the stacking of polysaccharide chains enhanced the exposure of protein components, thereby promoting additional hydrophobic interactions with AS. In contrast, the rigid triple-helical structure of 2082 facilitated greater exposure of its protein components, leading to predominant hydrophobic interactions with AS. Texture analysis demonstrated that MPs formed an adhesive layer on the tongue surface. Molecular docking analysis revealed that MPs inhibited the activation of the bitter taste receptor TAS2R14 by MOPC through two mechanisms: reducing binding sites and blocking receptor activation. These findings provided practical applications for improving the taste of wine and offered a theoretical foundation for modulating undesirable tastes in other beverage systems.",
-  "publication_date": "2025-05-12",
-  "journal": "Food chemistry",
-  "doi": "10.1016/j.foodchem.2025.144717"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "grape skin",
-  "title": "Unravelling the gene regulatory network linking red leaf and red flesh traits in teinturier grape.",
-  "abstract": "Despite the extensive research conducted on grape anthocyanins, previous studies have predominantly focused on grape skin colour changes, with limited research on flesh colour and leaf colour. In this study, we utilised the superior line 'Zhongshan 151' strain (red flesh and red leaves) as a target and identified that the primary driving force for the transition of leaf colour from green to red was the accumulation of anthocyanins. The study identified a candidate gene, VvMYBA6, and determined that the encoded protein is located in the nucleus and possesses transcriptional activation activity. Subsequent experiments revealed that VvMYBA6 significantly promoted anthocyanin accumulation in tobacco through its overexpression. Further mechanistic investigations elucidated the interaction of VvMYBA6 with the VvMYC1 protein, which activates the expression of VvUFGT, thereby promoting anthocyanin accumulation. Furthermore, an interaction between VvMYBA1 and VvMYC1 was identified in leaves, which is consistent with the mechanism of flesh colour regulation in red-fleshed grapes and affects anthocyanin accumulation by regulating the expression of VvUFGT. The interaction between VvMYBA1 and VvMYBA6 was further verified by yeast two-hybrid (Y2H) and pull-down experiments. This finding indicates that the interaction between VvMYBA6, VvMYBA1 and VvMYC1 plays a pivotal role in the regulation of anthocyanin synthesis, which may significantly impact the development of fruit colour in teinturier grapes.",
-  "publication_date": "2025-03-27",
-  "journal": "Journal of plant physiology",
-  "doi": "10.1016/j.jplph.2025.154488"
-}

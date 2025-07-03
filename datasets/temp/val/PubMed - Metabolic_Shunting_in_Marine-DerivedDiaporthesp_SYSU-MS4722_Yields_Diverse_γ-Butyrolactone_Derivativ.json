@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "secondary metabolites",
-  "title": "Metabolic Shunting in Marine-DerivedDiaporthesp. SYSU-MS4722 Yields Diverse γ-Butyrolactone Derivatives with Anti-inflammatory Activity.",
-  "abstract": "Filamentous fungi have significant potential to produce diverse secondary metabolites. However, the majority of fungal biosynthetic gene clusters (BGCs) remain cryptic under standard laboratory conditions, thereby limiting the chances of discovering novel metabolites. In our previous study, the marine fungusDiaporthesp. SYSU-MS4722 was found to contain 130 BGCs, despite predominately producing phomoxanthone A and its analogues. By deleting the polyketide synthase genephoE, which is responsible for the skeleton construction in the biosynthesis of phomoxanthone A, we successfully activated the metabolic shunting ofDiaporthesp. SYSU-MS4722, leading to the isolation of nine new γ-butyrolactone derivatives, colletolides C-K (1-9), along with known compound colletolide B (10). Their structures were elucidated by 1D and 2D NMR, modified Mosher's method, ECD calculations, and DP4+probability analysis. All compounds were evaluated for anti-inflammatory activity by measuring IL-6 inhibition in A549 cells using ELISA. Compounds1-9exhibited anti-inflammatory activity, with EC50values ranging from 24 to 106 μM. Among them, colletolide D (2) and colletolide B (10) showed the lowest EC50values of 24 μM, indicating relatively stronger activity within this series. These findings indicate that colletolides D (2) and B (10) are promising lead compounds for anti-inflammatory drug development.",
-  "publication_date": "2025-06-28",
-  "journal": "Journal of natural products",
-  "doi": "10.1021/acs.jnatprod.5c00357"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds",
-  "title": "Unveiling ortho-phenolic Mannich ciprofloxacin-chalcone conjugates with potential antineoplastic activity: synthesis, mechanistic study, in silico docking and molecular dynamic simulation.",
-  "abstract": "A new series of ortho-phenolic Mannich ciprofloxacin-chalcone hybrids 5a-j were synthesized and evaluated against the NCI-60 cancer cell lines, unveiling their promising potential as cytotoxic agents. Notably, compounds 5a, 5d and 5j exhibited notable anti-proliferative efficacy against both LOX IMVI and HCT 116 cell lines, indicating promising cytotoxic potential, with IC50= 2.53, 2.01, 17.36, 12.23 and 3.1 μM for HCT-116 cells, respectively and IC50= 0.73, 0.64, 3.32, 13.72 and 1.17 μM for leukemia SR cells, respectively. Mannich base 5j achieved excellent inhibitory effect on Topo IIβ in both LOX IMVI and HCT-116 cell lines with inhibition value of 75.51 % and 76.39 %. Cell cycle analysis and expression analysis of Bax, Bcl2, P53 and P21 genes were performed on LOX IMVI and HCT-116 cell lines with compound 5j and also on caspase 3 actifundation in HCT-116 and LOX- IMIV cell lines. The docking outcomes aligned with the biological screening revealed higher affinity of the most active compound 5j against topoisomerase-I and topoisomerase-II biotargets, serving it as promising antineoplastic agent. Besides, using atomistic standard 100 ns dynamic simulation consideration, the stability of the formed complexes between compound 5j and the topoisomerase-1 and topoisomerase-2 active sites was considered under dynamic behavior. Hence, Mannich base 5j is considered a promising antineoplastic candidate that requires further in vivo investigation.",
-  "publication_date": "2025-06-19",
-  "journal": "European journal of medicinal chemistry",
-  "doi": "10.1016/j.ejmech.2025.117891"
-}

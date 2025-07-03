@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "cocoa flavonoids",
-  "title": "Untargeted HPLC-MS-based metabolomics approach to reveal cocoa powder adulterations.",
-  "abstract": "Cocoa powder is a highly consumed product all over the world which could be substituted by cheaper raw materials resulting in food fraud. In this work, a non-targeted metabolomics approach based on the use of reversed-phase liquid chromatography coupled to high-resolution mass spectrometry was developed to carry out the characterization of cocoa powder samples adulterated, at two different levels, with carob flour, soy flour, and chicory. The sample preparation protocol and the chromatographic parameters were optimized to extract and detect the highest number of molecular features. Both non-supervised and supervised statistical methods were employed to analyze the most significant variables that gave rise to group discrimination. From the 21 and 37 significant variables analyzed in positive and negative ionization modes, respectively, a total of 20 were tentatively identified. Different families of compounds including flavonoids, fatty acids, terpenoids, lysophospholipids, and a galactolipid could be pointed out as cocoa adulteration markers.",
-  "publication_date": "2022-09-13",
-  "journal": "Food chemistry",
-  "doi": "10.1016/j.foodchem.2022.134209"
-}

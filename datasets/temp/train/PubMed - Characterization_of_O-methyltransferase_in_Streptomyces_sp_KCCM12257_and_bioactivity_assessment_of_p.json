@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "polyphenols",
-  "title": "Characterization of O-methyltransferase in Streptomyces sp. KCCM12257 and bioactivity assessment of polyphenols.",
-  "abstract": "Flavonoids undergo O-methylation, a modification catalyzed by O-methyltransferase (OMT), which transfers a methyl group from S-adenosyl-L-methionine (AdoMet/SAM) to nucleophilic acceptors in flavonoid structures. This study focused on an OMT gene isolated from Streptomyces sp. KCCM12257 that was cloned and expressed in Escherichia coli C41. The recombinant class I methyltransferase (36.12 kDa) utilized Mg2+as a cofactor for substrate binding, efficiently methylating various flavonoid substrates at pH 8.0. However, other metal co-factors, including divalent and monovalent ions, generally diminished the enzyme's activity, apart from Ca2+. To enhance the availability of SAM and improve biotransformation yields, we co-expressed the OMT12257 and metK genes from E. coli, achieving the production of 120 mg/L of 5-O-methylresveratrol, 75 mg/L of 3'-O-methyldiosmetin, 60 mg/L of 7-O-methylkaempferol (rhamnocitrin), and 85 mg/L of methylated luteolin derivatives. Analysis of the methylation patterns revealed that substrates such as luteolin, diosmetin, and resveratrol underwent double methylation at the A and B rings, whereas other flavonoids were singly methylated. Notably, the enzymatically methylated derivatives of diosmetin and resveratrol exhibited significant anti-tuberculosis activity, with the lowest Minimum Inhibitory Concentration (MIC) of 25 μg/mL, marking the first report of such activity. This study provides valuable insights into the enzymatic methylation of flavonoids, revealing the potential for developing bioactive compounds.",
-  "publication_date": "2025-06-24",
-  "journal": "International journal of biological macromolecules",
-  "doi": "10.1016/j.ijbiomac.2025.145520"
-}

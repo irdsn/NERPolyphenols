@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "polyphenols",
-  "title": "Engineering of Escherichia coli cytoplasm and periplasm for efficient synthesis of salvianic acid A.",
-  "abstract": "Plant polyphenols, a class of natural plant products with nutritional and medicinal value, can be alternatively produced by microbial cell factories. However, metabolic cross talk and enzyme incompatibility within the microbial host limits their synthesis. Therefore, we developed a sustainability-driven biotechnological process using cytoplasm periplasm combinatorial engineering to producing salvianic acid A (SAA), a plant polyphenol derived from the roots of Salvia miltiorrhiza. SAA possesses potent cardiovascular and therapeutic benefits, but its rising demand is constrained by limited natural yields. First, we optimized an artificial SAA pathway by identifying an efficient 4-hydroxyphenyllatic acid dehydrogenase and 4-hydroxyphenyllatic acid hydroxylase, followed by improving the catalytic performance of hydroxylase. Periplasm engineering further enhanced SAA synthesis while reducing by-product formation. Additionally, cofactor engineering was applied to ensure an adequate supply of both periplasmic and cytoplasmic cofactors. The resulting strain was capable of producing up to 37.26 g L-1of SAA, a new record in engineered microbial performance. The strategy reported here can be used for the large-scale production of other plant polyphenols and natural products.",
-  "publication_date": "2025-06-16",
-  "journal": "Metabolic engineering",
-  "doi": "10.1016/j.ymben.2025.06.006"
-}

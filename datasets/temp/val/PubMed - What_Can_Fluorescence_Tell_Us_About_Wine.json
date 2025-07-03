@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "What Can Fluorescence Tell Us About Wine?",
-  "abstract": "Rapid and cost-effective measurements of the autofluorescence of wine can provide valuable information on the brand, origin, age, and composition of wine and may be helpful for the authentication of wine and detection of forgery. The list of fluorescent components of wines includes flavonoids, phenolic acids, stilbenes, some vitamins, aromatic amino acids, NADH, and Maillard reaction products. Distinguishing between various fluorophores is not simple, and chemometrics are usually employed to analyze the fluorescence spectra of wines. Front-face fluorescence is especially useful in the analysis of wine, obviating the need for sample dilution. Front-face measurements are possible using most plate readers, so they are commonly available. Additionally, the use of fluorescent probes allows for the detection and quantification of specific wine components, such as resveratrol, oxygen, total iron, copper, hydrogen sulfite, and haze-forming proteins. Fluorescence measurements can thus be useful for at least a preliminary rapid evaluation of wine properties.",
-  "publication_date": "2025-04-04",
-  "journal": "International journal of molecular sciences",
-  "doi": "10.3390/ijms26073384"
-}

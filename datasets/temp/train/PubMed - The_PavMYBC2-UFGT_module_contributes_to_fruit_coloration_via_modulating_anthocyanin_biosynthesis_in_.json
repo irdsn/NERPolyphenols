@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "The PavMYB.C2-UFGT module contributes to fruit coloration via modulating anthocyanin biosynthesis in sweet cherry.",
-  "abstract": "Anthocyanins, vital secondary metabolites responsible for fruit coloration and health benefits, yet the genetic mechanisms regulating anthocyanin biosynthesis in fruits remain incompletely understood. In this study, we conducted a metabolomic analysis that revealed both the total anthocyanin content and the relative abundance of individual anthocyanin species are critical contributors of the color variation observed between yellow- and dark red-fruited cultivars. Integrating transcriptomic data with metabolic profiles, we identified a gene module central to anthocyanin biosynthesis, with PavMYB.C2 emerging as a key transcriptional activator. Functional validation through overexpression and silencing of PavMYB.C2 in cherry fruit confirmed its essential role in regulating both total anthocyanin and cyanidin-3-glucoside (Cy3G) levels. Furthermore, PavMYB.C2 upregulates transcription of the anthocyanin biosynthetic gene UFGT via its serine (S) 68 residue within the MYB domain, leading to enhanced Cy3G accumulation. These findings highlight the PavMYB.C2-UFGT regulatory module as a critical determinant of fruit coloration, offering potential avenues for improving fruit quality through genetic manipulation.",
-  "publication_date": "2025-06-17",
-  "journal": "PLoS genetics",
-  "doi": "10.1371/journal.pgen.1011761"
-}

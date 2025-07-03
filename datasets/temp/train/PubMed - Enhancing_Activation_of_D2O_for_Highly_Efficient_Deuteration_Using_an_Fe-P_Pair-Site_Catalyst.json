@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds",
-  "title": "Enhancing Activation of D2O for Highly Efficient Deuteration Using an Fe-P Pair-Site Catalyst.",
-  "abstract": "Deuterated amine derivatives have emerged as valuable compounds in medicinal chemistry and materials science due to their enhanced metabolic stability and unique physicochemical properties, emphasizing the need for cost-effective and efficient deuteration catalysts; yet this topic has rarely been explored. In this work, we present an atomically dispersed Fe-P pair-site catalyst with high catalytic efficiency and regioselectivity in the deuteration of arenes and heteroarenes using D2O as the deuterated source. Remarkably, these metal-nonmetal Fe-P catalytic pairs with low Fe loading (0.15 wt %) achieve superior catalytic efficiency with a turnover frequency of 131.3 h-1, demonstrating activity up to 30 times higher than the state-of-the-art Fe nanoparticle catalyst (4.9 wt %, TOF: 4.5 h-1). Mechanistic investigations and density functional theory reveal that Fe-P pair sites play a key role in activating D2O and the substrate, enabling the regioselective deuteration of (hetero)-arenes. The investigation further demonstrates the remarkable performance of the phosphorus-doped Fe single-atom catalyst (SAC) across a diverse array of substrates, including various functional group-substituted anilines, nitrogen-containing heterocycles, phenol derivatives, and even complex drug molecules, yielding a total of 39 deuterated compounds. The scale-up synthesis of the Fe-P-C catalyst and subsequent stability tests further underscore the catalyst's potential for practical applications. This methodology introduces a promising direction for developing low-cost, non-noble metal SACs, offering significant potential for advancing the sustainable synthesis of fine chemicals.",
-  "publication_date": "2025-05-21",
-  "journal": "JACS Au",
-  "doi": "10.1021/jacsau.5c00257"
-}

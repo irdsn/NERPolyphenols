@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "proanthocyanidins",
-  "title": "Combining AcquireX™ data acquisition and Feature-Based Molecular Networking approach to deeply explore oxidation markers of condensed tannins after depolymerization.",
-  "abstract": "Feature-Based Molecular Networking approach is widely used to investigate the composition of complex matrices in various fields, particularly in chemistry. In this research, to investigate oxidation markers of condensed tannins in grape seeds, this advanced approach was combined with a depolymerization reaction with thioglycolic acid as a nucleophilic reagent and an intelligent MS/MS data acquisition using AcquireX™ Deep Scan workflow. Through this innovative combined methodology, 104 oxidation markers were highlighted, including 49 previously unreported. MS/MS analysis revealed dimers and trimers, indicating linkages between extension and terminal units, or both, with oxidation levels from 1 to at least 8. These findings enhance understanding of the structural evolution of condensed tannins, which significantly impact the quality and the stability of tannin-containing products. Moreover, this innovative analytical approach, applied here for the first time, can be extrapolated to other complex tannin-containing matrices, notably wines, offering new possibilities for chemical analysis in biomolecule research.",
-  "publication_date": "2025-04-05",
-  "journal": "Food chemistry",
-  "doi": "10.1016/j.foodchem.2025.144207"
-}

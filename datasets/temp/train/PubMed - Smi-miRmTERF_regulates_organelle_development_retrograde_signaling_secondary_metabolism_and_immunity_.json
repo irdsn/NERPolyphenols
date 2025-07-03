@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic acids",
-  "title": "Smi-miRmTERF regulates organelle development, retrograde signaling, secondary metabolism and immunity via targeting a subset of SmmTERFs in Salvia miltiorrhiza.",
-  "abstract": "MicroRNAs are a class of endogenous small non-coding RNAs, some of which can trigger phased secondary small interfering RNA (phasiRNA) production from target genes. Mitochondrial transcription termination factors (mTERFs), mainly localized in chloroplasts and/or mitochondria, play critical roles in plant development and stress responses. We report here the identification of 63 mTERFs and a 22 nt novel miRNA (smi-miRmTERF), which directly cleave SmmTERF33 and SmmTERF45 transcripts to trigger phasiRNA biogenesis. The generated phasiRNAs could further trigger phasiRNA biogenesis from SmmTERF26 and regulated a subset of lineage-specific SmmTERFs. MIRmTERF widely existed in Nepetoideae plants and SmmTERF33 and SmmTERF45 proteins were localized in chloroplasts, mitochondria, and the cytoplasm. Smi-miRmTERF overexpression (MIRMTERF#OE) resulted in a dwarfing phenotype with severe defects in chloroplast and mitochondrial morphogenesis. Transcriptomic analysis showed up-regulation of defense-related and down-regulation of photosynthesis-related genes in MIRMTERF#OE plants. Under norflurazon and lincomycin treatments, MIRMTERF#OE plants displayed a gun phenotype, indicating the role of smi-miRmTERF in retrograde signaling. Furthermore, MIRMTERF#OE plants showed increased contents of phenolic acids, monoterpenoids, and sesquiterpenoids and reduced susceptibility to pathogenic bacteria Pst DC3000. The results suggest that smi-miRmTERF is a significant regulator of chloroplast and mitochondrial development, retrograde signaling, secondary metabolism, and immunity in S. miltiorrhiza.",
-  "publication_date": "2025-06-05",
-  "journal": "Molecular horticulture",
-  "doi": "10.1186/s43897-025-00153-3"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "Epigenetic Silencing ofMsMYB1R1Drives Anthocyanin Reduction in Developing Red-Fleshed Apple.",
-  "abstract": "Red-fleshed apples have attracted widespread attention for their rich anthocyanin content. However, some red-fleshed apples, such as \"Xiahongrou\" (Malus sieversii), exhibit a decline in red pigmentation and anthocyanin content as the fruit develops. The molecular mechanism underlying this flesh discoloration is poorly understood. In this study, through transcriptome analysis, we identified an R1-type MYB transcription factor,MsMYB1R1, whose expression exhibited a positive correlation with alterations in flesh anthocyanins during fruit development. Overexpression ofMsMYB1R1significantly enhanced anthocyanin accumulation and upregulated anthocyanin biosynthesis-related structural gene expression through transient expression assays in apple fruit and stable transformation experiments in calli. Conversely, it significantly inhibited the expression ofMsMYBL2, a known negative regulator of anthocyanin synthesis. In binding experiments, we demonstrated thatMsMYB1R1binds to the promoter ofMsMYBL2and inhibits its transcription. Additionally, we observed that the C5DNA methylation level of theMsMYB1R1promoter exhibited a gradual increase with fruit development, resulting in a concomitant decrease in its transcriptional level. Together, our results indicate thatMsMYB1R1functions as a repressor upstream ofMsMYBL2. Elevated methylation levels in theMsMYB1R1promoter inhibit its transcription, leading to a reduction in the anthocyanin content in the flesh during fruit develops.",
-  "publication_date": "2025-06-12",
-  "journal": "Journal of agricultural and food chemistry",
-  "doi": "10.1021/acs.jafc.5c02314"
-}

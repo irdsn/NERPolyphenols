@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "gallic acid",
-  "title": "Gallic acid based green corrosion inhibitor for mild steel in 1 M HCl electrochemical and microbial assessment with theoretical validation.",
-  "abstract": "The petroleum industry, characterized by the significant investment in costly equipment and devices utilized in the extraction, production, or processing of crude oil, can result in the loss of valuable assets or the crude itself. This research involved the synthesis of a Schiff base from substituted gallic acid derivatives through an intermediate reaction known as N-(2-{2-[2-(2-amino-ethylamino)-ethylamino]-ethylamino}-ethyl)-3,4,5-trihydroxy-benzamide (AEET). The synthesized compound was characterized using FTIR and 1HNMR spectroscopy to evaluate its effectiveness in inhibition. The performance of the inhibitors was assessed through an electrochemical process that included Tafel and EIS. This evaluation was supported by theoretical mechanisms involving density functional theory (DFT) and molecular dynamics simulations (MDS). To validate the findings from the electrochemical studies, the scanning electron microscopy (SEM) technique was employed to examine the topographic anisotropy characteristics between the treated and untreated samples of mild steel species. The bioassay diluted serial technique was utilized to assess the AEET as effective biocides for managing bacterial growth issues. This evaluation included an analysis of the AEET's efficiency in inhibiting sulfate-reducing bacteria (SRB). Additionally, computational methods were described, demonstrating optimal scores, RMSD values, and binding interaction energies associated with the formation of hydrogen bonds with specific receptor residues to investigate the biological activity.",
-  "publication_date": "2025-04-30",
-  "journal": "Scientific reports",
-  "doi": "10.1038/s41598-025-97647-3"
-}

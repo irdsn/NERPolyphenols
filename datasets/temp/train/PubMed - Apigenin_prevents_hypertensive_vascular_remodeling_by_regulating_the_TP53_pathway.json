@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids cardiovascular",
-  "title": "Apigenin prevents hypertensive vascular remodeling by regulating the TP53 pathway.",
-  "abstract": "Vascular remodeling is a critical independent risk factor contributing to the increased incidence of cardiovascular events in hypertensive patients. Apigenin plays a pivotal role in hypertension protection. However, its impact on hypertension-induced vascular remodeling remains underexplored. This study investigates the protective effects and underlying mechanisms of apigenin on vascular remodeling in hypertension. In vivo experiments demonstrated that apigenin attenuated aortic remodeling in spontaneously hypertensive rats (SHRs). Treatment with apigenin resulted in a reduction in the mid-membrane thickness, vessel wall diameter, and wall-to-lumen ratio in the vascular cross-sections of SHRs. In vitro, angiotensin II (Ang II)-induced vascular smooth muscle cell (VSMC) proliferation and migration were inhibited by apigenin. Western blot analysis revealed that apigenin downregulated the expression of Ang II-induced proliferating cell nuclear antigen (PCNA), matrix metalloproteinase-9 (MMP9), and matrix metalloproteinase-2 (MMP2). Furthermore, apigenin induced cell cycle arrest at the G0/G1 phase by activating tumor protein p53 (TP53) in VSMCs. Network pharmacology and molecular docking identified TP53 as the key target through which apigenin mitigates hypertension-induced vascular remodeling. The TP53 inhibitor Pifithrin-α (PFT-α) reversed the inhibitory effects of apigenin on Ang II-induced VSMC proliferation and migration. In conclusion, apigenin mitigates hypertension-induced vascular remodeling, potentially by upregulating the TP53 pathway.",
-  "publication_date": "2025-05-02",
-  "journal": "International immunopharmacology",
-  "doi": "10.1016/j.intimp.2025.114706"
-}

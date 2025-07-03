@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "plant polyphenols",
-  "title": "Regulating the rate-limiting step of cyclodextrin glycosyltransferase glycosylation reaction for efficient production of glycosylated polyphenols.",
-  "abstract": "CD complexation solubilization and enzymatic glycosylation synergistically enhance the utilization of polyphenols in biomass. In this study, a comprehensive strategy was proposed, to regulate the rate-limiting step where the efficiency of β-CD ring-opening (k1) exceeded the daidzein glycosylation (k2) catalyzed by CGTase in the efficient glycosylation system based on cyclodextrin (CD) dynamic complexation. This approach involved systematic regulation of the CD:polyphenol molar ratio and concentration, along with rational CGTase engineering, to enhance the glycosylation yield of polyphenols. Through molecular docking and sequence alignment, key residues Y195 and E264 near the acceptor subsites +1 and +3 were identified. Based on the principles of enhancing hydrophobicity and reducing steric hindrance, site-directed mutagenesis was performed on the two residues, and screening obtained seven single mutants with improved polyphenol glycosylation efficiency. The half-reaction kinetics analysis showed that mutants Y195F, E264A and E264V successfully narrowed the gap between k1and k2. Finally, the double mutants Y195F/E264A and Y195F/E264V were constructed, which showed higher glycosylation yields than single mutants. The optimal mutant Y195F/E264V achieved the highest reported yields of daidzein 7-O-α-d-glucopyranoside (65.6 %) and rutin 4″-O-α-d-glucopyranoside (89.4 %) in water, surpassing the wild-type (WT) by 37.4 % and 8.3 %, respectively. The study presents a universal approach for the valorization of plant biomass, with the potential for scalable application in plant polyphenol utilization.",
-  "publication_date": "2025-05-27",
-  "journal": "Bioresource technology",
-  "doi": "10.1016/j.biortech.2025.132727"
-}

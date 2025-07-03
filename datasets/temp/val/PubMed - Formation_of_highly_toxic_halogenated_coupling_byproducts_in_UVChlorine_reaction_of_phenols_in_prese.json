@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds",
-  "title": "Formation of highly toxic halogenated coupling byproducts in UV/Chlorine reaction of phenols in presence of halides.",
-  "abstract": "With drinking water disinfection techniques evolving from chlorination/chloramination to advanced oxidation processes, the conundrum of disinfection byproducts (DBPs) formation that remains for decades is becoming more challenging. This study focuses on the formation of unknown halogenated coupling byproducts, an important class of DBPs neglected in previous investigations, from UV/Chlorine reaction of phenols in presence of halides. To prioritize the highly toxic compounds, the effect-directed analysis strategy involving nontargeted identification with high-resolution mass spectrometry was utilized. The presence of bromide was found to enhance the formation of known DBPs, total organic halogens, and the overall toxicity of treated water. In contrast, iodide at environmentally relevant concentration exhibited minimal effects on the DBP formation and toxicity. Assisted with density functional theory calculation, a series of halogenated coupling byproducts were identified in the reaction involving bromide. The formation mechanisms of halogenated coupling byproducts consist of halogen substitution, free-radical-mediated electron transfer, hydroxylation, among others. As indicated by computational toxicity evaluation, these halogenated coupling byproducts were surprisingly harmful in human thyroperoxidase activity inhibition and aquatic toxicity. This study provides new insights into the DBP formation during UV/Chlorine reaction, and the findings unveiled the emergence of highly toxic halogenated coupling byproducts especially in presence of halides.",
-  "publication_date": "2025-06-12",
-  "journal": "Water research",
-  "doi": "10.1016/j.watres.2025.123981"
-}

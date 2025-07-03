@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "gallic acid",
-  "title": "Comprehensive Chemical Profiling of Moringa oleifera Leaves Extracts by LC-MS/MS Followed by In Silico ADMET Prediction Using SwissADME.",
-  "abstract": "This study analyses the nutritional and medicinal properties of Moringa oleifera leaves from sub-Saharan Africa using HPLC-PDA-ESI-MS. A method for simultaneous polyphenol quantification was developed to understand how different habitats influence the quality and polyphenolic profile of M. oleifera. The study specifically aimed to analyze the polyphenolic profile of phenolic compounds extracted from M. oleifera leaves from the Tabelbala region in Bechar, Algeria. The extract's complete polyphenolic profile was determined using liquid chromatography, photodiode array, and mass spectrometry detection via an electrospray ionization interface. A total of 16 compounds were identified, with variations observed between different extracts. The most abundant among these were quercetin-3-O-glucoside (964.43 μg/g dry matter), kaempferol (839.71 μg/g dry matter), and rutin (835.51 μg/g dry matter). The acetonic extract was the only source of gallic acid, which was measured at 496.14 μg/g dry matter. It provides a database for qualitative assessments and clinical applications of M. oleifera, laying the groundwork for future germplasm selection and development research. Quantitative analysis methodology can be applied to quality assessment protocols. Findings show compounds with low gastrointestinal absorption and skin permeability prevent CYP-related medication interactions, but poor bioavailability and efflux transport capabilities limit their therapeutic potential, necessitating formulation strategies.",
-  "publication_date": "2025-05-01",
-  "journal": "Biomedical chromatography : BMC",
-  "doi": "10.1002/bmc.70110"
-}

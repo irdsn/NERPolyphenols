@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "secondary metabolites",
-  "title": "Autoinducing peptides regulate antibiotic production to potentially shape root microbiome.",
-  "abstract": "Microbes use signaling molecules to regulate multiple physiological processes and mediate chemical interactions. Decoding these chemical languages is instrumental in comprehending microbial regulatory mechanisms within complex microbiota. Here, we discover previously unidentified autoinducing peptides (AIPs) derived from the plant probiotic bacteriumPaenibacillus polymyxa, identified as Pp-AIPs. Omics analyses coupled with genetic manipulations revealed that Pp-AIP1 could effectively modulate the production of multiple antimicrobial secondary metabolites at nanomolar concentration, expanding known AIP functions. Furthermore, through inoculatingP. polymyxain the natural rhizosphere microbiome and analyzing its antagonistic interactions against root microbes, we suggest that Pp-AIPs may influence the microbial community composition through modulating the antimicrobial spectrum. Global analysis of biosynthetic gene clusters (BGCs) reveal widespread co-occurrence of uncharacterized AIPs with secondary metabolite BGCs. This study underscores the unreported roles of AIPs in antibiotic regulation and the microbiome interactions, advancing knowledge of quorum-sensing mechanisms in microbial ecosystems.",
-  "publication_date": "2025-06-20",
-  "journal": "Science advances",
-  "doi": "10.1126/sciadv.adw5076"
-}

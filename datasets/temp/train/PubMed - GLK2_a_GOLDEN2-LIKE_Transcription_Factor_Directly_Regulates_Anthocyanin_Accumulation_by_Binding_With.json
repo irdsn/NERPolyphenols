@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "GLK2, a GOLDEN2-LIKE Transcription Factor, Directly Regulates Anthocyanin Accumulation by Binding With Promoters of Key Anthocyanin Biosynthetic Genes in Arabidopsis.",
-  "abstract": "Accumulation of anthocyanin is a protective response to high light in plants, by absorbing excess energy and serving as antioxidant. Our study in Arabidopsis revealed that GOLDEN2-LIKE 2 (GLK2), a key transcription factor regulating chloroplast development, plays a crucial role in anthocyanin biosynthesis during seedling photomorphogenesis, especially under high light stress. We demonstrate that GLK2 acts as a transcriptional activator by directly binding to the promoters of anthocyanin late biosynthetic genes (LBGs) and TRANSPARENT TESTA GLABRA 1 (TTG1) gene, that encodes a key component of the regulatory MYB-bHLH-WD40 (MBW) complex (which also activates LBGs). Another component of MBW complex, TT8, interacts with GLK2 and may take part in GLK2-mediated anthocyanin accumulation. DE-ETIOLATED 1 (DET1) facilitates the degradation of ELONGATED HYPOCOTYL5 (HY5) and GLKs in darkness by forming a ubiquitin ligase complex. Loss of DET1 resulted in increased anthocyanin production, while mutations of HY5 or GLK2 each partially suppresses the expression of anthocyanin biosynthetic genes in det1 mutant. In addition, HY5 and GLKs appear to regulate anthocyanin early and late biosynthesis with different preferences. We therefore propose the involvement of GLK2, partially independent of HY5, in promoting anthocyanin production as a protective measure against excessive light during seedling greening.",
-  "publication_date": "2025-06-15",
-  "journal": "Plant, cell & environment",
-  "doi": "10.1111/pce.15675"
-}

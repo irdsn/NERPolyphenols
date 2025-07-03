@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "lignans",
-  "title": "Discovery of novel inhibitors for malate synthase of Mycobacterium Tuberculosis from natural products.",
-  "abstract": "Tuberculosis (TB) caused by Mycobacterium tuberculosis (Mtb) remains a global public health threat, particularly due to dormant Mtb, which necessitates prolonged drug treatment. Mycobacterium tuberculosis malate synthase (MtbMS) is a key rate-limiting enzyme in the glyoxylate shunt, essential for the survival of dormant Mtb but absent in the host. Using target-based virtual screening and biochemical approaches, we identified novel natural inhibitors of MtbMS. Molecular docking by Schrödinger and subsequent manual selection identified 11 compounds as potential inhibitors. Molecular dynamics (MD) simulations and binding-free energy analysis (MM/GBSA) demonstrated high stability and binding affinity of MtbMS with Nordihydroguaiaretic Acids (NDGA) and Meso-NDGA. NDGA and Meso-NDGA by inhibition experiment exhibited half-maximal inhibitory concentrations (IC50) against MtbMS at 1.10 ± 0.01 μM and 14.29 ± 0.95 μM and by Isothermal Titration Calorimetry (ITC) showed binding constants (Kd) of 5.66 μM and 34.90 μM, respectively. Their minimum inhibitory concentrations (MIC) against Mtb H37Rv were 60.47 μg/mL and 30.24 μg/mL, respectively. In conclusion, natural products NDGA and Meso-NDGA are potent inhibitors of MtbMS and represent promising new scaffolds for combating dormant Mtb.",
-  "publication_date": "2025-04-03",
-  "journal": "Bioorganic & medicinal chemistry letters",
-  "doi": "10.1016/j.bmcl.2025.130217"
-}

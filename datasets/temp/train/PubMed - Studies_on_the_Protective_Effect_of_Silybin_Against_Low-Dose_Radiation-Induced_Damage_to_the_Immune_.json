@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids",
-  "title": "Studies on the Protective Effect of Silybin Against Low-Dose Radiation-Induced Damage to the Immune System.",
-  "abstract": "With growing public concern about the health effects of low-dose radiation, numerous studies have demonstrated that low-dose radiation can cause damage to the immune system, making intervention measures essential. This study investigated the protective effects of silybin against low-dose radiation-induced immune system damage and its underlying mechanisms at both the cellular and animal levels. At the cellular level, CCK-8 assays, ROS measurements, and RT-qPCR analysis revealed that silybin alleviated the reduction in RAW264.7 cell proliferation, intracellular ROS levels, and inflammatory cytokine expression following low-dose radiation exposure. At the animal level, comparative analyses of post-irradiation body weight, peripheral blood cell counts, immune organ coefficients, spleen HE/IHC staining, and spleen immune cell numbers demonstrated that silybin mitigated the radiation-induced decrease in body weight, reduction in peripheral blood leukocyte counts, inflammatory cell infiltration in the spleen, decline in spleen immune cell numbers, and increase in cGAS protein-positive cells. These findings indicate that silybin exerts protective effects against low-dose radiation-induced immune system damage, potentially by regulating the cGAS signaling pathway to reduce radiation-induced cellular injury, thereby enhancing its radioprotective properties.",
-  "publication_date": "2025-06-12",
-  "journal": "International journal of molecular sciences",
-  "doi": "10.3390/ijms26125656"
-}

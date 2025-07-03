@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids",
-  "title": "Integrated online DPPH-assisted multimodal dereplication workflow for identifying antioxidant compounds in complex mixtures and its application to a supercritical CO2extract of Makwaen pepper by-product.",
-  "abstract": "The identification of bioactive compounds in complex natural extracts remains a major challenge, particularly in the context of the sustainable valorization of by-products. In this study, an integrated dereplication strategy combining online 2,2-diphenyl-1-picrylhydrazyl (DPPH) assisted screening, high-resolution mass spectrometry (HRMS/MS), and13C nuclear magnetic resonance (NMR) based chemical profiling was developed to identify free-radical scavenging compounds in a supercritical CO₂ extract of Makwaen pepper (Zanthoxylum myriacanthum) by-product. A comprehensive offline centrifugal partition chromatography (CPC) and high-performance liquid chromatography (HPLC) coupling was employed to fractionate the extract, enhancing sensitivity and facilitating structure elucidation. The CATHEDRAL annotation tool was used to classify compounds based on annotation confidence levels, integrating data from HRMS/MS and NMR workflow. A total of 50 active compounds were identified, including flavonoids, caffeic and quinic acid esters, phloroglucinols, and lignans. This workflow provides a rapid and robust approach for dereplicating antioxidants in natural extracts, supporting the development of sustainable bioactive ingredients for cosmetic applications.",
-  "publication_date": "2025-06-25",
-  "journal": "Journal of chromatography. A",
-  "doi": "10.1016/j.chroma.2025.466172"
-}

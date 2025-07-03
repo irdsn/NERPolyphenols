@@ -1,7 +1,14 @@
-"""
-Polyphenol entity lexicon. This list includes generic polyphenol categories,
-chemical subgroups (flavonoids, stilbenes, etc.), and specific compounds frequently mentioned in biomedical literature.
-"""
+##################################################################################################
+#                                      POLYPHENOL LEXICON                                        #
+#                                                                                                #
+# This module defines a lexicon of polyphenols used in biomedical NER pipelines.                 #
+# It includes general polyphenol terms, chemical subclasses (e.g., flavonoids, stilbenes),       #
+# and specific molecules frequently found in scientific abstracts.                               #
+##################################################################################################
+
+##################################################################################################
+#                                 KNOWN POLYPHENOL ENTITIES                                      #
+##################################################################################################
 
 KNOWN_POLYPHENOLS = set([
     # General classes
@@ -11,7 +18,7 @@ KNOWN_POLYPHENOLS = set([
     "quercetin", "kaempferol", "myricetin", "isorhamnetin",
 
     # Flavan-3-ols
-    "catechin", "epicatechin", "epicatechin gallate", "epigallocatechin", "epigallocatechin gallate",  # EGCG
+    "catechin", "epicatechin", "epicatechin gallate", "epigallocatechin", "epigallocatechin gallate",
     "gallocatechin", "gallocatechin gallate", "galloylated catechins",
 
     # Anthocyanins
@@ -30,8 +37,8 @@ KNOWN_POLYPHENOLS = set([
     "resveratrol", "pterostilbene", "piceatannol",
 
     # Phenolic acids
-    "gallic acid", "ellagic acid", "ferulic acid", "caffeic acid", "chlorogenic acid", "p-coumaric acid", "sinapic acid",
-    "vanillic acid", "syringic acid", "protocatechuic acid",
+    "gallic acid", "ellagic acid", "ferulic acid", "caffeic acid", "chlorogenic acid",
+    "p-coumaric acid", "sinapic acid", "vanillic acid", "syringic acid", "protocatechuic acid",
 
     # Hydroxycinnamic acids
     "cinnamic acid", "o-coumaric acid", "m-coumaric acid",

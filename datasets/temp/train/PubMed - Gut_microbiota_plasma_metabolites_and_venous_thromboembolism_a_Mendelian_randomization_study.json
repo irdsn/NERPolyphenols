@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "secondary metabolites",
-  "title": "Gut microbiota, plasma metabolites, and venous thromboembolism: a Mendelian randomization study.",
-  "abstract": "Emerging evidence links gut microbiota (GM) to venous thromboembolism (VTE), deep vein thrombosis (DVT), and pulmonary embolism (PE), but causal insights are limited. Using two-sample Mendelian randomization (MR), we assessed causal effects of 211 GM taxa and 489 plasma metabolites on VTE/DVT/PE. Genetic instruments (single nucleotide polymorphism) for GM and metabolites were leveraged to infer causality, complemented by mediation and pathway analyses. Sixteen GM taxa (e.g., protective Firmicutes, Clostridia; risk-enhancing Bacteroidetes, Desulfovibrionaceae) and 40 metabolites showed causal associations with VTE/DVT/PE. Reverse MR identified 11 GM changes secondary to thrombosis. No pleiotropy or heterogeneity was detected. Ten metabolite-mediated pathways (e.g., arginine biosynthesis) bridged GM to thrombosis, suggesting GM-metabolite interactions as potential biomarkers for thrombotic risk stratification and prognosis.",
-  "publication_date": "2025-06-20",
-  "journal": "AMB Express",
-  "doi": "10.1186/s13568-025-01903-8"
-}

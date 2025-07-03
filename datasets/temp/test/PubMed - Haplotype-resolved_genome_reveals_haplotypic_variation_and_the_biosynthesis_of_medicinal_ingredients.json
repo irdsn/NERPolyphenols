@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonols",
-  "title": "Haplotype-resolved genome reveals haplotypic variation and the biosynthesis of medicinal ingredients in Areca catechu L.",
-  "abstract": "Areca catechu, as a traditional Chinese medicine, contains a high concentration of therapeutic compounds. However, the biosynthesis of these compounds is largely unexplored. We present a haplotype-resolved genome assembly and annotation for A. catechu, with chromosome-level genome sizes of 2.45 Gb (Ac. Hap1) and 2.49 Gb (Ac. Hap2). A comparative analysis of the haplotypes revealed significant divergence, including multiple Mb-level large inversions. Furthermore, A. catechu shared two whole genome duplications with other palm plants and its genome size had increased due to the insertion of transposons within the last 2.5 million years. By integrating transcriptomics and metabolomics, two tandem genes (AcGNMT1 and AcGNMT2) were negatively associated with guvacine and trigonelline in gene-metabolite interaction network. AcGNMT1, AcGNMT2 and their three homologous genes were involved in the conversion of guvacine to arecoline. Further analyses tested the function of AcUGT71CE15, AcUGT74CJ38, AcUGT87EE5 and AcUGT83S982 as glucosyltransferases, and AcUGT78AP14 was identified as a rhamnosyltransferase involved in flavonol glycosylation. Our study provides a high-quality genome of A. catechu, characterizes the arecoline biosynthetic pathway and expands the understanding of the diversity of UDP-glucosyltransferase and UDP-rhamnosyltransferase, offering insights into the potential of A. catechu for the biosynthesis of bioactive compounds.",
-  "publication_date": "2025-05-02",
-  "journal": "Molecular horticulture",
-  "doi": "10.1186/s43897-025-00146-2"
-}

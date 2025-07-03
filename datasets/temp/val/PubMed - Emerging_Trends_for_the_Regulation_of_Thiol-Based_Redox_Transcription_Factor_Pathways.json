@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "natural antioxidants",
-  "title": "Emerging Trends for the Regulation of Thiol-Based Redox Transcription Factor Pathways.",
-  "abstract": "Thiol-based redox transcription factor pathways play central roles in the cellular response to peroxide stress. We review the bacterial OxyR, yeast AP-1 and mammalian NRF2/Keap1 systems and the principles underlying the regulation of these pathways. In these systems, peroxides are sensed by specific thiol residues on a transcription factor or on a cognate sensor protein, leading to the activation of the transcription factor. However, transcription factor activity also depends on the oxidizing and reducing activities within their respective reaction networks. The transcriptional targets induced by these transcription factors include antioxidant defense genes and, significantly, genes required for meeting other cellular demands. We then describe new results on these systems, such as redox microdomains, signal transmission dynamics and phenotypic heterogeneity, which have extended our understanding of redox signaling. These results emphasize the multifaceted nature of the adaptive response to oxidative stress and provide connections to other cellular pathways that are critical for cell physiology.",
-  "publication_date": "2025-06-30",
-  "journal": "Biochemistry",
-  "doi": "10.1021/acs.biochem.5c00268"
-}

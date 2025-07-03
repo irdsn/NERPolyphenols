@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonols",
-  "title": "Functional characterization of promiscuous 2-ODD enzymes sheds light on the molecular basis for flavone and flavonol biosynthesis in ferns.",
-  "abstract": "Flavone synthase I (FNS I), flavanone 3-hydroxylase (F3H), and flavonol synthase (FLS) are essential enzymes involved in the biosynthesis of flavones and flavonols. Notably, while FNS I and F3H have been extensively studied in early land plants, FLS has predominantly been characterized in seed plants, and there is a lack of functional studies on FLS in ferns. This research identified four 2-oxoglutarate-dependent dioxygenase (2ODD) enzymes from four fern species: Pteris vittata, Cibotium barometz, Dicksonia antarctica, and Platycerium bifurcatum. These enzymes exhibited either trifunctional (FNS I/F3H/FLS) or bifunctional (FNS I/FLS) activities, indicating their significant roles in the biosynthesis of flavones and flavonols. Substituting the GxxTxLL/MQ motif in fern 2ODD with the conserved SxxTxLVP motif from seed plant FLS resulted in a marked decrease in FNS I activity, while FLS activity was maintained. Furthermore, overexpression of Pv2ODD in fls mutant Arabidopsis increased the flavone and flavonol content and improved seed germination under mannitol stress. Compared with the fls mutant, Pv2ODD/fls had lower reactive oxygen species (ROS) levels and higher superoxide dismutase (SOD) and catalase (CAT) activities under mannitol stress. These findings suggest that the synthesis of flavones and flavonols in ferns was catalyzed by the promiscuous 2ODD exhibiting FNS I/F3H/FLS activity. Additionally, the results lay the groundwork for further exploration of the evolutionary connection between FNS I and FLS.",
-  "publication_date": "2025-05-01",
-  "journal": "The Plant journal : for cell and molecular biology",
-  "doi": "10.1111/tpj.70189"
-}

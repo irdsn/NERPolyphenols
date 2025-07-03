@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "Molecular insights into the controlled release process of cyclodextrin-resveratrol inclusion complexes in the stratum corneum.",
-  "abstract": "Cyclodextrins (CDs) are efficient drug carriers for improving drug solubility, stability, and bioavailability. However, the mechanism underlying the interaction between cyclodextrin-drug inclusion complexes and skin remains unclear. In this work, molecular simulations were employed to study the release process of cyclodextrin-resveratrol inclusion complexes on the surface of the lipid bilayer. The results showed that structural orientation significantly influences release kinetics. Resveratrol (RES) is able to form inclusion complexes with β-CD in two possible orientations: M-form (Mono-hydroxyl group toward the primary rim of β-CD) and D-form (Di-hydroxyl group toward the secondary rim of β-CD). M-form inclusion structures facilitated RES release more efficiently than D-form configurations. Cavity-specific lipid interactions are the dominant driver of the release process. Meanwhile, it was determined that the β-CD/RES inclusion complex exhibited greater stability than γ-CD/RES and demonstrated superior release efficiency at the lipid membrane surface in comparison to α-CD/RES. This suggests that the cavity size of β-CD is more suitable for delivering resveratrol. Furthermore, umbrella sampling simulations reveal that hydroxypropyl-substituted β-CD could lessen the irritation to the lipid bilayer. The present study provides a theoretical foundation for the rational design of CD-based drug delivery systems.",
-  "publication_date": "2025-04-21",
-  "journal": "Colloids and surfaces. B, Biointerfaces",
-  "doi": "10.1016/j.colsurfb.2025.114725"
-}

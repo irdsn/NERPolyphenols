@@ -1,86 +1,90 @@
 ##################################################################################################
-#                                        IO HELPER FUNCTIONS                                     #
+#                                      IO HELPER FUNCTIONS                                       #
 #                                                                                                #
-# Utility functions for saving JSON outputs and logging performed queries across API clients.    #
+# Utility functions for saving JSON articles and logging performed queries across API clients.   #
+# All outputs are stored in standardized project directories using pathlib.                      #
 ##################################################################################################
 
 ##################################################################################################
 #                                            IMPORTS                                             #
 ##################################################################################################
 
-import os
 import json
 import re
 from datetime import datetime
 from typing import Dict, Any
+from pathlib import Path
+
+from utils.paths import RAW_DATA_DIR, API_QUERIES_LOG
+from utils.logs_config import logger
 
 ##################################################################################################
-#                              FUNCTION: SANITIZE FILENAME FROM TITLE                            #
+#                                        IMPLEMENTATION                                          #
 ##################################################################################################
 
 def sanitize_title(title: str) -> str:
     """
-    Sanitizes a title string to create a safe filename.
+    Converts an article title into a safe filename format.
 
-    Removes characters that are unsafe for filenames and replaces spaces with underscores.
-
-    Args:
-        title (str): The article title.
-
-    Returns:
-        str: Sanitized filename string.
-    """
-    title = re.sub(r'[^\w\s-]', '', title)          # Remove special characters
-    title = re.sub(r'\s+', '_', title.strip())      # Replace whitespace with underscores
-    return title[:100]                              # Limit length to avoid long filenames
-
-##################################################################################################
-#                               FUNCTION: SAVE ARTICLE TO JSON FILE                              #
-##################################################################################################
-
-def save_article_json(article: Dict[str, Any], output_dir: str) -> str:
-    """
-    Saves an article's metadata as a JSON file in the specified directory.
-
-    Creates the filename using the article source and a sanitized version of the title.
-    Skips saving if a file with the same name already exists.
+    Removes special characters and replaces spaces with underscores,
+    truncating the result to a reasonable filename length.
 
     Args:
-        article (Dict[str, Any]): Article metadata dictionary.
-        output_dir (str): Directory to save the file.
+        title (str): Raw article title.
 
     Returns:
-        str: Path to the saved file or empty string if skipped.
+        str: Sanitized filename.
     """
-    os.makedirs(output_dir, exist_ok=True)
+    title = re.sub(r'[^\w\s-]', '', title)
+    title = re.sub(r'\s+', '_', title.strip())
+    return title[:100]
+
+
+def save_article_json(article: Dict[str, Any], output_dir: Path = RAW_DATA_DIR) -> Path:
+    """
+    Saves a single article dictionary as a JSON file.
+
+    The filename includes the article source and a sanitized version of its title.
+    If a file already exists with the same name, it will not be overwritten.
+
+    Args:
+        article (Dict[str, Any]): Metadata and content of the article.
+        output_dir (Path): Output directory to save the JSON.
+
+    Returns:
+        Path: Full path to the saved file, or None if the file already existed.
+    """
+    output_dir.mkdir(parents=True, exist_ok=True)
     filename = f"{article['source']} - {sanitize_title(article['title'])}.json"
-    filepath = os.path.join(output_dir, filename)
+    filepath = output_dir / filename
 
-    if os.path.exists(filepath):
-        return ""
+    if filepath.exists():
+        logger.debug(f"Skipping duplicate: {filepath.name}")
+        return None
 
-    with open(filepath, "w", encoding="utf-8") as f:
+    with filepath.open("w", encoding="utf-8") as f:
         json.dump(article, f, indent=2, ensure_ascii=False)
+
+    logger.info(f"✅ Saved article: {filepath.name}")
     return filepath
 
-##################################################################################################
-#                             FUNCTION: REGISTER QUERY IN LOG FILE                               #
-##################################################################################################
 
-def log_query(source: str, query: str, log_path: str):
+def log_query(source: str, query: str, log_path: Path = API_QUERIES_LOG) -> None:
     """
-    Appends a record of the performed query to a text file.
+    Appends an API query log entry to the queries log file.
 
-    Each entry includes source, query, and UTC timestamp.
+    Includes source name, search query, and UTC timestamp.
 
     Args:
-        source (str): API source (e.g. PubMed).
-        query (str): Search keyword used.
-        log_path (str): File path for logging queries.
+        source (str): Name of the data source (e.g. PubMed).
+        query (str): Search term or keyword used.
+        log_path (Path): Path to the log file.
     """
-    os.makedirs(os.path.dirname(log_path), exist_ok=True)
+    log_path.parent.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.utcnow().isoformat()
     entry = f"{source} | {query} | {timestamp}\n"
 
-    with open(log_path, "a", encoding="utf-8") as f:
+    with log_path.open("a", encoding="utf-8") as f:
         f.write(entry)
+
+    logger.debug(f"📝 Logged query: [{source}] {query}")

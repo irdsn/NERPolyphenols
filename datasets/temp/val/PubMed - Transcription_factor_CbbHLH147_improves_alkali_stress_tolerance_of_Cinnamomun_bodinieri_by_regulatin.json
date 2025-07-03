@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "Transcription factor CbbHLH147 improves alkali stress tolerance of Cinnamomun bodinieri by regulating flavonoid metabolism.",
-  "abstract": "Soil salinization severely impairs plant growth, development, and crop productivity. The transcription factor CbbHLH147 in Cinnamomum bodinieri has been implicated in the alkali stress response. This study investigated the functional role of CbbHLH147 by transforming it into Arabidopsis thaliana and conducting transcriptome sequencing under alkali stress. The coding sequence (CDS) sequence of CbbHLH147 is 588-bp long, assumably encoding an hydrophilic, lipid-soluble, and alkaline protein. CbbHLH147 was predicted to localized to nucleus. Phylogenetic analysis demonstrated high conservation of CbbHLH147 within Lauraceae, suggesting a role in abiotic stress adaptation. Transgenic Arabidopsis lines (T147) exhibited enhanced alkali tolerance compared to wild-type (WT). Transcriptome profiling of T147 relative to wide type (WT) under alkali stress revealed up-regulation of many genes (DEGs) involved in flavonoid biosynthesis, nitrogen metabolism, circadian rhythm, and anthocyanin biosynthesis, and also downregulation of DEGs in pathways of photosynthesis-antenna proteins, photosynthesis, glutathione metabolism, phenylpropanoid biosynthesis, porphyrin and chlorophyll metabolism, zeatin biosynthesis, beta-Alanine metabolism, arginine and proline metabolism. The key flavonoid metabolism genes include AT5G13930 (CHS), AT5G42800 (DFR), AT1G30530 (UGT78D1), and AT4G27560 (UGTs), which were significantly upregulated in T147 versus WT. These findings suggest that CbbHLH147 may play important role in tolerance to alkali stress in the plants by modulating flavonoid metabolic pathways in Cinnamomum bodinieri.",
-  "publication_date": "2025-06-19",
-  "journal": "Gene",
-  "doi": "10.1016/j.gene.2025.149629"
-}

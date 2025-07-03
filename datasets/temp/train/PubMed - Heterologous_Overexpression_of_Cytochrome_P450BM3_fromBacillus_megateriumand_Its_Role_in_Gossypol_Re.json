@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "plant polyphenols",
-  "title": "Heterologous Overexpression of Cytochrome P450BM3 fromBacillus megateriumand Its Role in Gossypol Reduction.",
-  "abstract": "Gossypol is a polyphenolic toxic compound present in cotton plants. To determine whether the candidate cytochrome P450BM3 enzymes could reduce gossypol in vitro, functional recombinant cytochrome P450BM3 enzymes were successfully expressed inE. coli. Site-directed mutagenesis generated mutants (R162H, R162K, Q129H, Q129N) to explore structural determinants of catalytic efficiency. Both wild-type P450BM3 and mutants exhibited significant ability to reduce gossypol levels, with R162H and R162K showing 33.4% and 24.2% reduced catalytic efficiency compared with the wild-type enzyme, respectively. Q129H and Q129N mutants maintained comparable catalytic efficiency to the wild type. Metabolomic profiling revealed two distinct reducing pathways catalyzed by wild-type P450BM3 and its mutants (R162H/Q129H), involving decarboxylation, hydroxylation, and C-C bond cleavage. This study demonstrated the feasibility of P450BM3 as a highly efficient biocatalyst for reducing gossypol levels, speculated that Arg162 might be a critical active residue, and hypothesized the potential pathways by which P450BM3 catalyzes the reduction of gossypol content, thereby providing a theoretical foundation for the enzymatic reduction of gossypol.",
-  "publication_date": "2025-05-20",
-  "journal": "Toxins",
-  "doi": "10.3390/toxins17050253"
-}

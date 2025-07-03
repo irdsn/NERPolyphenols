@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "chlorogenic acid",
-  "title": "UPLC-ESI-QTOF-MS/MS Profiling, Antioxidant, and Cytotoxicity Potentials of Marrubium vulgare L. Extracts: Experimental Analysis and Computational Validation.",
-  "abstract": "Plant extracts are emerging as valuable options for food additives and therapeutic treatments. This study evaluated the phytochemical profile, antioxidant activity, and cytotoxicity of aerial parts of Marrubium vulgare L. crude extract (MVCE) and its subfractions. The MVCE (80% ethanol) contained steroids, phenolic compounds, flavonoids, terpenes, and cardiac glycosides, with total phenolic content (TPC) and total flavonoid content (TFC) of 14.96 ± 0.12 mg GAE/g DW and 12.27 ± 0.63 mg RE/g DW, respectively. All MV extracts exhibited potent antioxidant activity against DPPH•(0.106-1.864 mg/mL) and ABTS+•(0.298-17.084 mg/mL). The MV residual aqueous fraction (MVRF) showed significant cytotoxicity against human cancer cell lines, including MCF7 (IC50= 5.47 ± 1.32 µg/mL), HT29 (IC50= 17.48 ± 1.47 µg/mL), and SW480 (IC50= 7.51 ± 0.36 µg/mL). Ultra-performance liquid chromatography-mass spectrometry identified 26 bioactive compounds, with malic acid, caffeic acid, chlorogenic acid, kaempferol-3-glucuronide, and l-tryptophan as the major ones. Molecular docking revealed strong binding affinities of the above compounds to breast (PDB ID: 6CHZ) and colorectal cancer (PDB ID: 1HVY) proteins. Pharmacokinetic and toxicological studies confirmed their safety and efficacy, supporting MVRF as a potential therapeutic agent. These findings highlight MV as a promising candidate for future anticancer research.",
-  "publication_date": "2025-06-14",
-  "journal": "Chemistry & biodiversity",
-  "doi": "10.1002/cbdv.202500400"
-}

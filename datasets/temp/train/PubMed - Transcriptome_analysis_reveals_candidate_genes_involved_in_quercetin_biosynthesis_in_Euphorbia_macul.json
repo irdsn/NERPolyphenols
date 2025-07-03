@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonols",
-  "title": "Transcriptome analysis reveals candidate genes involved in quercetin biosynthesis in Euphorbia maculata.",
-  "abstract": "An investigation was conducted through transcriptome sequencing in various tissues at different stages to explore the quercetin biosynthesis pathway in Euphorbia maculata. A total of 83,028 unigenes was assembled utilizing Trinity software, with an N50 length of 1721 bp and a mean length of 1004 bp. Among these unigenes, 51,822 were annotated in six public databases. The transcriptome analysis revealed 45,727 CDS sequences and 56 TF families. Candidate genes involved in quercetin biosynthesis were also revealed, including phenylalanine ammonia-lyase (17 unigenes), cinnamate 4-hydroxylase (3 unigenes), 4-coumarate-CoA ligase (16 unigenes), chalcone synthase (5 unigenes), chalcone isomerase (4 unigenes), flavanone 3-hydroxylase (1 unigene), flavonoid 3'-hydroxylase (4 unigenes), and flavonol synthase (9 unigenes). Additionally, 42 key differentially expressed genes (DEGs) related to quercetin biosynthesis were identified in the same tissues at different stages, with 35 DEGs exhibiting down-regulated expression and 7 DEGs displaying up-regulated expression. These findings not only enhance the genetic knowledge of E. maculata, but also establish a basis for further investigating the mechanism of quercetin biosynthesis, and improving the quality of E. maculata.",
-  "publication_date": "2025-05-17",
-  "journal": "Scientific reports",
-  "doi": "10.1038/s41598-025-00794-w"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds",
-  "title": "Activation of O2within confined ultramicropores of carbon electrocatalyst for enhanced electrochemical oxidation of water contaminants.",
-  "abstract": "Electrochemical oxidation is effective for water decontamination, but its large-scale application is constrained by high energy demands. This work addresses this challenge by developing an ultramicroporous carbon (UMC) electrocatalyst to effectively activate molecular oxygen (O2) for assisting the electrochemical oxidation of contaminants. Participation of O2switches the electrochemical oxidation pathway of 2,4-dichlorophenol from polymerization to degradation, allowing its deep mineralization at low potentials. Experimental findings and density functional theory (DFT) calculations attribute the UMC's catalytic activity to the synergistic sp2-carbon conjugation and ultramicroporous structure. In the confined space of ultramicropores, O2convert into •OH by capturing electrons from the sp2-conjugated carbon wall. The ultramicropores supplies an inner surface exclusively available for O2activation, and the confinement effect enhances O2adsorption to the sp2-conjugated carbon wall and interfacial electron transfer. Taking advantage of the UMC electrocatalyst, the air-enhancing strategy reduces the energy consumption for electrochemical oxidation of phenolic compounds by over 50 %, and demonstrates stability across broad pH and real water conditions. These findings open up new opportunities for designing efficient O2activators towards more energy-efficient and less wasteful electrochemical oxidation processes.",
-  "publication_date": "2025-06-20",
-  "journal": "Journal of hazardous materials",
-  "doi": "10.1016/j.jhazmat.2025.138964"
-}

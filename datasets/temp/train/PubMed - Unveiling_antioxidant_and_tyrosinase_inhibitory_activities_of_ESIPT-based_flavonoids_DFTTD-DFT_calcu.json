@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonols",
-  "title": "Unveiling antioxidant and tyrosinase inhibitory activities of ESIPT-based flavonoids: DFT/TD-DFT calculations and molecular docking.",
-  "abstract": "The antioxidant and tyrosinase inhibitory activities of excited-state flavonoids (fisetin and luteolin) with excited state intramolecular proton transfer process (ESIPT) property have been explored by quantum chemical methods and molecular docking. Combined with transition-state theory, the thermodynamic parameter calculations indicate that fisetin and luteolin scavenge hydrogen peroxide radical (HOO) through hydrogen atom abstraction (HAA) and single electron transfer (SET) mechanisms, respectively, where the reaction energy barriers and rates based on the HAA mechanism are shown to indicate phenolic hydroxyl groups on the B-ring are more susceptible to HOO attack than that on the A-ring. Potential energy curves show energy-barrier and ultrafast ESIPT processes for fisetin and luteolin, respectively, thus determining excited-state structures. Further, utilizing frontier molecular orbitals and averaged local ionization energy, the antioxidant activity of excited state molecules is explored, which reveals that the activity is significantly boosted upon photoexcitation, especially the keto⁎form formed after ESIPT process. Additionally, the molecular docking indicates that the flavonoids achieve inhibition of tyrosinase. The relationship between the ESIPT process and bioactivity of excited-state flavonoids not only provides a theoretical basis for the design of natural antioxidant-active molecules, but also develops a novel pathway for the exploitation of anti-aging agents based on photoactivation mechanisms.",
-  "publication_date": "2025-05-29",
-  "journal": "Journal of photochemistry and photobiology. B, Biology",
-  "doi": "10.1016/j.jphotobiol.2025.113190"
-}

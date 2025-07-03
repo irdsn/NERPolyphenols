@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "catechins",
-  "title": "Neurotrophic and Neurotoxic Effects of Aβ42 and Its Oligomers on Neuronal Survival: Revealed by Their Opposite Influence on the Potency of Extracellular BDNF.",
-  "abstract": "Brain-derived neurotrophic factor (BDNF) is critical for neuronal survival. Amyloid-β monomers (Aβ42M) and oligomers (Aβ42O) have trophic and toxic effects on neuronal survival, respectively. Branched oligosaccharides (BOs) and catechins (CAs) can specifically bind to Aβ42M/Aβ42O, influencing both effects. However, whether and how Aβ42M/Aβ42O influences BDNF remains unknown. This study investigated the interaction between Aβ42M/Aβ42O and BDNF, the effects of Aβ42M and Aβ42O on BDNF binding to the TrkB/p75 receptor and their impact on BDNF-supported cell survival, and the roles of BOs and CAs in these processes. BDNF exhibited stronger binding affinity for Aβ42M and Aβ42O than BOs/CAs. Aβ42M increased neuronal viability by synergistically enhancing BDNF binding to TrkB and p75, whereas Aβ42O decreased neuronal viability by inactivating/consuming BDNF, thereby reducing its binding to these receptors. BDNF-Aβ42O binding appeared to mutually neutralize/counteract each other's biological effects; therefore, increasing BDNF levels might reduce Aβ42O's neurotoxicity. By competitively targeting Aβ42M/Aβ42O rather than BDNF or its receptors, BOs and CAs enhanced these effects. These findings suggest that Aβ42M's neurotrophicity was directly linked to its synergistic enhancement of BDNF activity, whereas Aβ42O's neurotoxicity was primarily due to its inactivation or consumption of BDNF. This study provided valuable insights for developing BOs/CAs-based neuroprotective therapeutics or nanomaterials against AD.",
-  "publication_date": "2025-05-08",
-  "journal": "International journal of molecular sciences",
-  "doi": "10.3390/ijms26104501"
-}

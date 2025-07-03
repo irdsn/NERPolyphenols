@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "Functional Characterization of 5-O-Glycosyltranferase Transforming 3-OAnthocyanins into 3,5-OAnthocyanins inFreesia hybrida.",
-  "abstract": "Floral coloration inFreesia hybridais predominantly attributed to anthocyanins, with glycosylation playing a critical role in their stability and diversity. This study investigates the molecular mechanisms underlying color variation betweenF. hybridacultivars, focusing on anthocyanin 5-O-glucosyltransferases (An5GTs). HPLC analysis revealed that 'Pink Passion' petals accumulate 3,5-O-diglucosidic anthocyanins, absent in 'Red River®' and 'Ambiance'. RNA-seq identified seven candidateFh5GTgenes, with phylogenetic and subcellular localization analyses confirming their classification as cytosolic glycosyltransferases. Expression profiling highlighted elevated transcript levels ofFh5GT1,Fh5GT3, andFh5GT7in 'Pink Passion', correlating with its di-glucosidic anthocyanin accumulation. In vitro enzymatic assays demonstrated that Fh5GT3 and Fh5GT7 preferentially glucosylate 3-O-monoglucosidic anthocyanins to form stable 3,5-O-diglucosides, with minimal activity on anthocyanidins to generate 5-O-glucosidic anthocyanins. Heterologous expression ofFh5GT3andFh5GT7inArabidopsiscomplemented anthocyanin deficiency in5gtmutants, restoring pigmentation. These findings elucidate the potential role of 5GTs in modulating floral color diversity through anthocyanin modification, providing insights for targeted breeding strategies to enhance ornamental traits in horticultural species.",
-  "publication_date": "2025-05-09",
-  "journal": "International journal of molecular sciences",
-  "doi": "10.3390/ijms26104542"
-}

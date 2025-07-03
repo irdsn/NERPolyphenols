@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "plant polyphenols",
-  "title": "Targeting Drug Resistance in Cancer: Dimethoxycurcumin as a Functional Antioxidant Targeting ABCC3.",
-  "abstract": "The development of new anticancer therapies remains challenging due to tumor heterogeneity and the frequent emergence of multidrug resistance (MDR). Natural products have garnered increasing attention as alternative or complementary therapeutic agents due to their bioactivity and reduced toxicity. Polyphenols, particularly curcumin and its derivatives, have shown promise in modulating signaling pathways, enhancing chemosensitivity, and overcoming drug resistance. The anticancer potential of dimethoxycurcumin, a chemically modified curcumin derivative identified through consensus fingerprint similarity screening, was investigated for its potential to inhibit ABCC3 (MRP3)-a member of the ATP-binding cassette (ABC) transporter family implicated in drug efflux, tumor cell survival, and resistance. In vitro experiments demonstrated that dimethoxycurcumin significantly reduced cancer cell viability and colony formation, indicating a strong inhibitory effect on ABCC3 function. These results suggest that dimethoxycurcumin may sensitize cancer cells to chemotherapy by targeting resistance pathways. The data presented contribute to the growing body of evidence suggesting that bioactive plant-derived compounds, including chemically modified derivatives, may hold therapeutic potential in oncology by modulating multidrug resistance pathways. Targeting ABC transporters with natural compound derivatives could offer a promising strategy for developing more effective and less toxic anticancer therapies.",
-  "publication_date": "2025-05-16",
-  "journal": "Antioxidants (Basel, Switzerland)",
-  "doi": "10.3390/antiox14050599"
-}

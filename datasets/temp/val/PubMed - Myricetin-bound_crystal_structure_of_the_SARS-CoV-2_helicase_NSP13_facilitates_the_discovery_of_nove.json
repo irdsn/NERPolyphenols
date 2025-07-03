@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "chlorogenic acid",
-  "title": "Myricetin-bound crystal structure of the SARS-CoV-2 helicase NSP13 facilitates the discovery of novel natural inhibitors.",
-  "abstract": "The SARS-CoV-2 helicase NSP13 is a highly conserved and essential component of the viral replication machinery, making it a promising target for antiviral drug development. Here, we present the 2 Å resolution crystal structure of NSP13 bound to the natural flavonoid myricetin, revealing a conserved allosteric binding site. Guided by these structural findings, a virtual screening campaign identified the caffeic acid derivatives rosmarinic acid and chlorogenic acid as potential novel natural inhibitors, which were experimentally validated to inhibit RNA-unwinding activity. This study provides structural insights that could support ongoing drug-discovery efforts targeting NSP13 in SARS-CoV-2 and other coronaviruses with pandemic potential.",
-  "publication_date": "2025-05-27",
-  "journal": "Acta crystallographica. Section D, Structural biology",
-  "doi": "10.1107/S2059798325004498"
-}

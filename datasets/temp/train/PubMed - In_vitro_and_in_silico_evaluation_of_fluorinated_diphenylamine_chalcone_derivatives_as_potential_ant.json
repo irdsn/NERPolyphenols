@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids cancer",
-  "title": "In vitro and in silico evaluation of fluorinated diphenylamine chalcone derivatives as potential antimalarial and anticancer agents.",
-  "abstract": "A series of novel diphenylamine fluorinated chalcone derivatives (B1-B10) were synthesized and characterized using1H and13C NMR, IR, and MS, and purity was determined using HPLC. The compounds were evaluated for their antimicrobial, antimalarial, and anticancer activities, with Chloramphenicol, Griseofulvin, and 5-Fluorouracil serving as standard reference drugs. Notably, B6 exhibited excellent antifungal activity, comparable to that of the standard drug Griseofulvin. Compounds B3 and B5 showed strong antimalarial effects against Plasmodium falciparum. Both B3 and B5 exhibit substantial cytotoxicity against HeLa cells, with IC50values of 24.53 µg/ml for B5 and 32.42 µg/ml for B3. These results clearly demonstrate that both compounds outperform the standard drug 5-Fluorouracil, establishing their strong potential as effective alternatives in cancer therapy. Molecular docking studies revealed that B3 and B6 effectively interacted with the active site of Falcilysin, while B5 and B7 showed favourable binding to proteins 6GUE and 2 × 7 F. Molecular dynamics simulations confirmed the stability of B3 and B6 with P. falciparum, while B5 and B3 exhibited promising interactions with 6GUE and 2X7F. These results suggest that compounds B3 and B5 are potential lead candidates for developing novel antimicrobial, antimalarial, and anticancer therapies.",
-  "publication_date": "2025-05-29",
-  "journal": "Scientific reports",
-  "doi": "10.1038/s41598-025-04073-6"
-}

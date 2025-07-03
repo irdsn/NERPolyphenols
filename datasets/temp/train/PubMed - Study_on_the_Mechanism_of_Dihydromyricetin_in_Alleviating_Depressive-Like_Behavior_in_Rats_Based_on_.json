@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonols",
-  "title": "Study on the Mechanism of Dihydromyricetin in Alleviating Depressive-Like Behavior in Rats Based on Network Pharmacology.",
-  "abstract": "Depression is a chronic and recurrent neuropsychiatric disorder with complex pathophysiology. Dihydromyricetin (DMY), a bioactive flavonoid compound isolated from Ampelopsis grossedentata (commonly known as rattan tea), has demonstrated multiple pharmacological properties including anti-inflammatory, antioxidant, antitumor, and antimicrobial activities. In the present study, a well-established rodent model of depression was generated through chronic unpredictable mild stress (CUMS) paradigm combined with social isolation. Following eight weeks of DMY intervention, comprehensive behavioral assessments were conducted to validate both the successful establishment of the depression model and the therapeutic efficacy of DMY treatment. We employed network pharmacology approaches to systematically predict potential antidepressant targets of DMY. Further mechanistic investigations were performed to elucidate the underlying molecular pathways, providing novel perspectives for developing innovative antidepressant therapeutics.Integrating network pharmacology prediction with molecular biology validation, our findings revealed that DMY exerts significant antidepressant-like effects through suppression of the advanced glycosylation end products (AGEs)-RAGE signaling pathway, activation of the nuclear factor E2-related factor 2 (NRF2)-mediated antioxidant defense system, and upregulation of synaptic plasticity-related proteins including postsynaptic density protein 95 (PSD95) and synaptophysin (SYP). These results suggest that DMY may represent a promising natural therapeutic candidate for depression treatment.",
-  "publication_date": "2025-05-26",
-  "journal": "Neurochemical research",
-  "doi": "10.1007/s11064-025-04419-6"
-}

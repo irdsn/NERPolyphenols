@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "quercetin",
-  "title": "mRNA-lncRNA-miRNA Co-Regulates the Accumulation of Flavonoids in Ginkgo biloba in Response to UV-B Stress.",
-  "abstract": "Flavonoids are key secondary metabolites involved in plant stress responses. As ultraviolet (UV) radiation intensity increases, plants experience heightened UV stress. To elucidate Ginkgo biloba's molecular adaptation to ultraviolet-B (UV-B) stress, we subjected G. biloba seedlings to daily UV-B irradiation at 10 kJ/m². The total flavonoid glycoside content in leaves increased significantly by Day 13 (2.64-fold compared to the CK), with quercetin accounting for over 90% of the accumulated flavonoids. Transcriptome analysis identified 3652 differentially expressed genes (DEGs), 209 lncRNAs (DElncRNAs), and 52 miRNAs (DEmiRNAs). Notably, UV-B radiation upregulated key genes involved in flavonoid biosynthesis, including the F3'H family gene evm.",
-  "publication_date": "2025-06-15",
-  "journal": "Plant, cell & environment",
-  "doi": "10.1111/pce.70003"
-}

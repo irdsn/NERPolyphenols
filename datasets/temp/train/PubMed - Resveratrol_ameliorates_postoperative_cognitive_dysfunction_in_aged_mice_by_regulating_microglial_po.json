@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol aging",
-  "title": "Resveratrol ameliorates postoperative cognitive dysfunction in aged mice by regulating microglial polarization through CX3CL1/CX3CR1 signaling axis.",
-  "abstract": "Postoperative cognitive dysfunction (POCD) is a common cognitive challenge faced by older adults. One of the key contributors to the development of POCD is neuroinflammation induced by microglia. Resveratrol has emerged as a promising candidate for the prevention of cognitive decline. Previous studies have demonstrated its potential in alleviating cognitive deterioration, yielding encouraging results. Nonetheless, the mechanism of resveratrol improving cognitive function remains unclear. Therefore, we assessed the effect of resveratrol in both aged POCD model mice and BV2 cells on CX3CL1/CX3CR1 axis, a critical signaling pathway mediating microglial activity. Both in vitro and in vivo experiments have revealed that pre-administration of resveratrol not only mitigates cognitive deficits but also significantly reduces the levels of inflammatory cytokines. Additionally, it enhanced the expression of SIRT1 and CX3CR1 within the hippocampal region. We also evaluated the impact of resveratrol on CX3CR1 siRNA transfected BV2 cells. Delete of CX3CR1 reversed the preventive role of resveratrol. Our findings implied that resveratrol might inhibit microglial activation and improve cognition by mediating CX3CL1/CX3CR1 signaling.",
-  "publication_date": "2024-12-21",
-  "journal": "Neuroscience letters",
-  "doi": "10.1016/j.neulet.2024.138089"
-}

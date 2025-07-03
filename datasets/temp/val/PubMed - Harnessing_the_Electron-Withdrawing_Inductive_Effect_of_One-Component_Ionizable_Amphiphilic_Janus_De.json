@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic acids",
-  "title": "Harnessing the Electron-Withdrawing Inductive Effect of One-Component Ionizable Amphiphilic Janus Dendrimers Unveils Cation-π Interactions and Their Important Roles to Targeted mRNA Delivery.",
-  "abstract": "It is expected that current medicine will be complemented or even replaced with genetic nanomedicine, which relies on the targeted delivery of nucleic acids. Delivery of mRNA is accomplished using viral and synthetic four-component vectors which deliver the nucleic acid predominantly to the liver. Our laboratories elaborated a one-component ionizable amphiphilic Janus dendrimer (IAJD) which targets the delivery of mRNA and, therefore, is complementary to viral and synthetic vectors. Here we report the study of a library of IAJDs containing derivatives of the natural gallic acid (GA) as branched hydrophobic domain and two ionizable amines connected via four linker length. The linker length mediates an electron-withdrawing inductive effect, which changes the pKaof the IAJDs. The same pKatrend was observed in a previously reported pentaerythritol (PE)-library, which has structures identical to those of the GA-library except that it does not contain the aromatic ring. Unpredictable, the GA-library of IAJDs has consistently higher pKavalues than the PE-library, although the linker length-pKadependence follows the same trend in both libraries. This trend indicates an unexpected cation-π interaction which explains some advantages of GA-IAJDs, including the 109p/s total luciferase activity reported here.",
-  "publication_date": "2025-06-13",
-  "journal": "Journal of the American Chemical Society",
-  "doi": "10.1021/jacs.5c07232"
-}

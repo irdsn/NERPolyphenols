@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "Study of tamoxifen derived perfluoroalkylated olefins in breast cancer treatment.",
-  "abstract": "Estrogen-responsive breast cancer has been treated with tamoxifen since 1998, yet challenges such as limited selectivity and emerging resistance remain significant hurdles to improving therapeutic outcomes. In recent years, the incorporation of fluorine atoms in the structure of potential drugs has gained importance due to their unique properties. Perfluoroalkyl chains, known for their chemical inertness and ability to target estrogen, offer promising modifications to improve treatment efficacy. In this study, we evaluated the biological activity of 21 perfluoroalkylated tamoxifen derivatives, synthesized under mild conditions with high stereoselectivity. Seven of these compounds exhibited superior cytotoxic and selectivity activity against estrogen receptor-positive breast cancer cells (MCF-7), with IC50 values of 10.68-18.18 nM compared to 29.41 nM for 4-hydroxytamoxifen, which is used in standard therapy. Preliminary mechanism-of-action studies, supported by siRNA knockdown of ESR1 (the estrogen receptor gene), revealed that the compounds act through a similar mechanism to tamoxifen, further confirming their potential as next-generation therapeutic agents for estrogen receptor-positive breast cancer.",
-  "publication_date": "2025-04-25",
-  "journal": "Bioorganic chemistry",
-  "doi": "10.1016/j.bioorg.2025.108525"
-}

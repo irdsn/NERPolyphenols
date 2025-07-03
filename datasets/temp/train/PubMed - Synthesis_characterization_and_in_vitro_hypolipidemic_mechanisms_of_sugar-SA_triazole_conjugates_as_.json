@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "gallic acid",
-  "title": "Synthesis, characterization, and in vitro hypolipidemic mechanisms of sugar-SA triazole conjugates as potent pancreatic lipase inhibitors.",
-  "abstract": "Plant-derived polyphenols such as syringic acid (SA) are promising modulators of lipid metabolism, yet their clinical utility is limited by poor aqueous solubility. Here, we report a four-step click chemistry strategy to conjugate hydrophilic sugar moieties to SA, yielding a series of sugar-SA triazole derivatives with markedly enhanced solubility and stability. Among these, the glucose conjugate (GS) exhibited the most potent pancreatic lipase (PL) inhibition, surpassing orlistat, and significantly improved cholesterol and bile salt binding. Enzyme kinetics revealed that GS acted via competitive inhibition, increasing Km without altering Vmax. Spectroscopic analyses demonstrated that GS binding induced disruption of PL's secondary and tertiary structures, diminishing thermal stability. Molecular docking confirmed strong interactions between GS and key catalytic residues, rationalizing its superior efficacy. The findings highlight the potential of GS as a novel lipid-lowering therapeutic or functional food ingredient targeting obesity and metabolic disorders.",
-  "publication_date": "2025-05-22",
-  "journal": "Food chemistry",
-  "doi": "10.1016/j.foodchem.2025.144876"
-}

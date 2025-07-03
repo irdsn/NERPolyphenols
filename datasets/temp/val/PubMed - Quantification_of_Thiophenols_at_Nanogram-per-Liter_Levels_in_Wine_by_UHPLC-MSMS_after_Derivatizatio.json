@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds",
-  "title": "Quantification of Thiophenols at Nanogram-per-Liter Levels in Wine by UHPLC-MS/MS after Derivatization withN-Ethylmaleimide.",
-  "abstract": "Thiophenols were recently identified in wine as undesirable compounds contributing to the ashy aftertaste associated with smoke taint. These potential odorants enhanced the unpleasant sensory properties associated with smoke taint at ultratrace (ng/L) levels when present in wine with volatile phenols, but accurate quantification of volatile sulfur compounds at this concentration remains challenging. A simple, stable isotope dilution assay (SIDA) method employing ultrahigh-pressure liquid chromatography tandem mass spectrometry (UHPLC-MS/MS) was developed and validated for accurate quantification of six thiophenols (benzenethiol, 2-methylbenzenethiol, 3-methylbenzenethiol, 4-methylbenzenethiol, 2-methoxybenzenethiol, and methylsulfanylbenzene) using N-ethylmaleimide (NEM) as a derivatizing agent and a chemically matched deuterated analogue (d5-benzenethiol) as the internal standard. It was shown that NEM reacted quickly with thiophenols to form stable derivatives in an unmodified wine matrix. The preparation of samples and the analytical method were optimized to achieve limits of quantification at nanogram-per-liter levels and validated in different wine matrices. The developed method was then applied to wines produced from grapes exposed to smoke (pre-veraison) during the 2019 Australian wildfires. The concentration of thiophenols ranged from below the limit of detection (LOD, <0.5 ng/L) to 445 ng/L; statistical relationships with smoke aroma and flavor were investigated.",
-  "publication_date": "2025-07-01",
-  "journal": "Journal of agricultural and food chemistry",
-  "doi": "10.1021/acs.jafc.5c02463"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol",
-  "title": "Lanthanide nanocrystals-based direct triple-state energy converters for mitophagy and ferroptosis-induced antitumor immunoreaction.",
-  "abstract": "Achieving multiple antitumor efficacy in a single nanostructure is important for the development of photo-functional nanomedicines. In this paper, we report a direct triplet state energy converter (NCPRB) based on lanthanide nanocrystals, which can reduce the loss of near-infrared (NIR) light and improve the efficiency of generating reactive oxygen species (ROS) to induce ferroptosis through the process of direct energy transfer from rare earth ions (Nd3+) to the triplet state of the photosensitive molecule (chlorin e6, Ce6). Experimental results showed that the generated ROS combined with loaded resveratrol (RES) inhibited oxidative phosphorylation (OXPHOS) and electron transport chain (ETC) processes in the mitochondria of tumor cells and induced the onset of mitochondrial autophagy. Meanwhile, RES also down-regulated the expression of recombinant solute carrier family 7 member 11 (SLC7A11) protein, which enhanced the ferroptosis response. Thus, this energy transducer enables efficient photodynamic therapy (PDT)-induced mitophagy and ferroptosis and activates cancer immunotherapy. More importantly, interferon γ (IFN γ) secreted by killer T (CD8+T) cells could have a positive feedback effect on ferroptosis by down-regulating the expression of SLC7A11, thus forming a \"closed loop\" of combined therapy. The above findings provide innovative perspectives for the design of photo-functional nanocancer drugs based on lanthanide nanocrystals.",
-  "publication_date": "2025-05-26",
-  "journal": "Journal of controlled release : official journal of the Controlled Release Society",
-  "doi": "10.1016/j.jconrel.2025.113887"
-}

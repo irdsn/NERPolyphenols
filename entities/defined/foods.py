@@ -1,9 +1,14 @@
+##################################################################################################
+#                                          FOOD LEXICON                                          #
+#                                                                                                #
+# This module defines the set of known food-related terms used in biomedical NER tasks.          #
+# These terms help detect FOOD entity candidates in PubMed abstracts during preprocessing.       #
+# The list can be expanded with domain-specific vocabulary.                                      #
+##################################################################################################
 
-"""
-Food entity lexicon used in biomedical NER tasks focused on polyphenols.
-This list is used to detect FOOD candidates in abstracts.
-Can be expanded as needed.
-"""
+##################################################################################################
+#                                      KNOWN FOOD ENTITIES                                       #
+##################################################################################################
 
 KNOWN_FOODS = set([
     # Common whole foods

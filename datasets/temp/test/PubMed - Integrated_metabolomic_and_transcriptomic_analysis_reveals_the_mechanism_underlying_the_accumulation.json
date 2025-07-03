@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "grape skin",
-  "title": "Integrated metabolomic and transcriptomic analysis reveals the mechanism underlying the accumulation of anthocyanins and other flavonoids in the flesh and skin of teinturier grapes.",
-  "abstract": "Vitis vinifera 'Yan73' is a teinturier grape cultivar with red flesh. To explore the mechanism of berry color development, we performed an integrated flavonoid-targeted analysis of the metabolome and transcriptome of the skin and flesh of Yan73 berries collected at three phenological stages (E-L 31, E-L 35, and E-L 38). We identified 234 flavonoid-related metabolites, including 61 flavonols, 22 anthocyanins, and 61 other flavonoids. Most flavonoid metabolites accumulated continuously during berry development and attained the highest contents in the skin at E-L 38. The transcript level of crucial genes (C4H, CHS, and GST) was highest in the skin at E-L 38. Seventeen distinct modules were identified in a weighted gene correlation network analysis. The MEcoral1 module was probably correlated with flavonoid metabolism and comprised 623 unigenes. The findings provide insights into the regulation of flavonoid metabolites during berry development of Yan73 grape.",
-  "publication_date": "2023-03-24",
-  "journal": "Plant physiology and biochemistry : PPB",
-  "doi": "10.1016/j.plaphy.2023.107667"
-}

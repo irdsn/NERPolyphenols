@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "lignans",
-  "title": "Sesamin Alleviates Ferroptosis in Perfluorooctanesulfonate-Induced Liver Injury by Targeting Foxo1.",
-  "abstract": "Perfluorooctanesulfonate (PFOS), a persistent organic pollutant, is closely related to liver diseases, with no effective therapies available. Sesamin (Ses), a major lignan in sesame, possesses antioxidant and anti-inflammatory properties. This study aimed to investigate the protective effects of Ses and its underlying mechanisms in preventing PFOS-induced liver injury. Our results indicated that Ses supplementation significantly reduced lipid accumulation and hepatocyte damage in PFOS-exposed mice. RNA-sequencing analysis revealed that Ses alleviated PFOS-induced liver injury by regulating ferroptosis and Foxo1 expression. In vivo and in vitro experiments confirmed that Ses significantly alleviated PFOS-induced hepatocyte ferroptosis, while hepatocyte-specific Foxo1 knockout abolished this protective effect of Ses. We further revealed that Ses promoted Foxo1 phosphorylation at T24 and enhanced its nuclear efflux. Our findings demonstrate that Ses supplementation protects against PFOS-induced liver injury by inhibiting ferroptosis through targeting Foxo1, suggesting its potential as a therapeutic candidate for preventing PFOS-related liver damage.",
-  "publication_date": "2025-06-06",
-  "journal": "Journal of agricultural and food chemistry",
-  "doi": "10.1021/acs.jafc.5c04019"
-}

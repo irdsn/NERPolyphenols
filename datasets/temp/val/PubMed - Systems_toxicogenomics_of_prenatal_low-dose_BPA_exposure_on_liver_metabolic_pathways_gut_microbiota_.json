@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "phenolic compounds metabolic syndrome",
-  "title": "Systems toxicogenomics of prenatal low-dose BPA exposure on liver metabolic pathways, gut microbiota, and metabolic health in mice.",
-  "abstract": "Bisphenol A (BPA) is an industrial plasticizer widely found in consumer products, and exposure to BPA during early development has been associated with the prevalence of various cardiometabolic diseases including obesity, metabolic syndrome, type 2 diabetes, and cardiovascular diseases. To elucidate the molecular perturbations underlying the connection of low-dose prenatal BPA exposure to cardiometabolic diseases, we conducted a multi-dimensional systems biology study assessing the liver transcriptome, gut microbial community, and diverse metabolic phenotypes in both male and female mouse offspring exposed to 5 μg/kg/day BPA during gestation. Prenatal exposure to low-dose BPA not only significantly affected liver genes involved in oxidative phosphorylation, PPAR signaling and fatty acid metabolism, but also affected the gut microbial composition in an age- and sex-dependent manner. Bacteria such as those belonging to the S24-7 and Lachnospiraceae families were correlated with offspring phenotypes, differentially expressed liver metabolic genes such as Acadl and Dgat1, and key drivers identified in our gene network modeling such as Malat1 and Apoa2. This multiomics study provides insight into the relationship between gut bacteria and host liver genes that could contribute to cardiometabolic disease risks upon low-dose BPA exposure.",
-  "publication_date": "2020-11-19",
-  "journal": "Environment international",
-  "doi": "10.1016/j.envint.2020.106260"
-}

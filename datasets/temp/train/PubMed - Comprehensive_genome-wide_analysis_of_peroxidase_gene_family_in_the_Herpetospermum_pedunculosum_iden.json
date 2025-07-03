@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "lignans",
-  "title": "Comprehensive genome-wide analysis of peroxidase gene family in the Herpetospermum pedunculosum identifies HpPRX involved in lignan-specific biosynthesis.",
-  "abstract": "In plateau plants, high expression of peroxidase is a physiological mechanism by which the reactive oxygen species system is activated. Peroxidase was identified to catalyze novel lignan biosynthesis in Herpetospermum pedunculosum, with phenolic oxidative coupling serving as the critical biosynthetic step. The enzyme involved in hepatoprotective lignan biosynthetic pathway was functionally characterized through whole genome analysis, which detected 84 peroxidase gene family members in H. pedunculosum, predominantly classified as heme-dependent class III peroxidases. Furthermore, in vitro reconstruction expression confirmed that Hsped.08 g00810 is involved in the biosynthesis of the key precursor dehydrodiconiferyl alcohol. HpWRKY75 was identified as the key transcription factor regulating the Hsped.08 g00810 promoter through yeast one-hybrid assays. Meanwhile, A potentially intact gene cluster on chromosome 8 was found to be involved in specialized lignan biosynthesis. Integrative multi-omics analysis elucidated the characteristic lignan biosynthetic pathway in H. pedunculosum, establishing a theoretical foundation for understanding peroxidase family functions and metabolic network regulation in plants. These findings advance understanding of plant secondary metabolism. They also provide a theoretical basis for the discovery of medicinally active components in extreme environments. As well as a potential strategy for genetic modification of medicinal plants to increase the source of active lignans.",
-  "publication_date": "2025-06-09",
-  "journal": "International journal of biological macromolecules",
-  "doi": "10.1016/j.ijbiomac.2025.145120"
-}

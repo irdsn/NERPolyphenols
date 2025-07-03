@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids",
-  "title": "Combined Multi-Omics and Co-Expression Network Analyses Uncover the Pigment Accumulation Mechanism of Orange-Red Petals inBrassica napusL.",
-  "abstract": "Rapeseed (Brassica napusL.) has been cultivated as an ornamental plant in recent years. However, the metabolic and regulatory processes involved in pigment accumulation in.B. napusflowers are poorly understood. To address this knowledge gap, we conducted a multi-omics analysis of the orange-red-flowered 'OrP' and the yellow-flowered 'ZS11' rapeseed cultivars. The total anthocyanin content of 'OrP' petals was 5.420-fold and 3.345-fold higher than 'ZS11' petals at the S2 and S4 developmental stages, respectively. The red coloration of 'OrP' flowers resulted primarily from the presence of anthocyanin pigment derivatives. The up-regulated differentially expressed genes (DEGs) of four stages in 'OrP' were found to be significantly enriched in phenylpropanoid, flavonoid, and anthocyanin metabolism-associated GO and KEGG terms. Weighted Gene Co-expression Network Analysis (WGCNA) revealed that 51 DEGs were linked to anthocyanin metabolism, including several structural genes such asBnaCHS,BnaF3H,BnaF3'H,BnaCHS,BnaDFR,BnaANS,BnaUGTs, and the transcription factor (TF) genesBnaHY5,BnaBBX22,BnaPIL1,BnaPAP2,BnaTT8,BnaTTG2, andBnaMYBL2. Furthermore, we found that three main factors affecting the relative content of anthocyanins in petals were likely responsible for the fading of 'OrP' petals, namely the significantly down-regulated expression of genes (BnaDFR,BnaANS,BnaPAP2,BnaTT8,andBnaTTG2) related to anthocyanin biosynthesis, the significantly up-regulated expression of genes (Bna.BGLUs,Bna.PRXs,andBnaMYBL2) related to anthocyanin degradation or the negative regulation of anthocyanin biosynthesis, and the rapidly increasing petals area.",
-  "publication_date": "2025-06-13",
-  "journal": "Biology",
-  "doi": "10.3390/biology14060693"
-}

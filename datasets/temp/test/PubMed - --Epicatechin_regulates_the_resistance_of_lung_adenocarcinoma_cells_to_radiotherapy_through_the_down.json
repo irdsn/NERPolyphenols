@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "catechins",
-  "title": "(-)-Epicatechin regulates the resistance of lung adenocarcinoma cells to radiotherapy through the downregulation of FOXM1.",
-  "abstract": "Radioresistance, particularly as manifested by cancer stem cells (CSCs), is the most common reason for the failure of cancer radiotherapy. It is essential for effective radiotherapy to inhibit cancer cell stemness. Research indicates that (-)-epicatechin (EC) enhances the radiosensitivity of non-small cell lung cancer (NSCLC); however, its influence on cell stemness in lung adenocarcinoma (LUAD) resistant to radiotherapy is still not well understood. In this study, radioresistant cell lines A549R and H1299R were constructed by repeatedly irradiating A549 and H1299 cells with gradient doses of X-rays. CCK-8, cell cloning, flow cytometry, RT-qPCR, Western blot, sphere formation detection, and other methods were used for experimental exploration. This study revealed that the radioresistance of LUAD cells was related to their stemness. By inhibiting KLF4, SOX2, CD133, and ALDH1A1 expression, EC treatment increased radiosensitivity and reduced cell sphere formation. Also, FOXM1 expression was upregulated in LUAD and in radioresistant LUAD cells. Knocking down FOXM1 inhibited the stemness of radioresistant LUAD cells. Mechanistically, EC inhibited radiotherapy-resistant LUAD cell stemness by downregulating FOXM1 expression, thereby increasing radiosensitivity. In summary, our study revealed that EC inhibited radiotherapy resistance in LUAD cells through downregulating FOXM1, and it provides a theoretical framework for treating LUAD clinically.",
-  "publication_date": "2025-05-07",
-  "journal": "In vitro cellular & developmental biology. Animal",
-  "doi": "10.1007/s11626-025-01038-x"
-}

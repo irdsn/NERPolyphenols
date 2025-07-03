@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "catechins",
-  "title": "Dietary compounds activates sirtuins - a computational modeling approach towards the management of ageing.",
-  "abstract": "In biogerontology, researchers are actively exploring the manipulation of sirtuin proteins, a family of enzymes that play a crucial role in regulating lifespan and age-related diseases through bioactive compounds found in the diet. This report explores potential new insights by leveraging the innovative intersection of natural bioactive compounds and sirtuin modulation through computational drug design. Using state-of-the-art in silico techniques, including high throughput virtual screening (HTVS) and molecular dynamics (MD) simulation, the study identifies natural compounds from various dietary sources for sirtuin proteins (SIRT 1, 3, 6, 7) related to the cellular process in aging. HTVS was automated with the AutoDock-VINA to pinpoint the novel candidate bioactive compounds for sirtuins, while the MD was conducted with GROMACS. The top hits, fagopyrine, emblicanin B, epicatechin-(4beta- > 8)-epicatechin-(2beta- > 7,4beta- > 8)-catechin (epicatechin), withanolide, and dulcisisoflavone, had superior docking scores ranging from - 12.7 to - 7.2 kcal/mol. The MD displayed steady interactions between target proteins and biocompounds throughout 100 ns without significant conformational shifts. This paper contributes significantly to anti-aging research by presenting a novel, computationally efficient approach to discovering and developing sirtuin-modulating compounds. Highlighting the untapped potential of natural bioactive substances in modulating key biological pathways associated with aging opens new avenues for future experimental exploration of diet-based therapeutic strategies that may support healthy aging.",
-  "publication_date": "2025-06-13",
-  "journal": "BMC biotechnology",
-  "doi": "10.1186/s12896-025-00985-3"
-}

@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol aging",
-  "title": "Resveratrol Upregulates Senescence Marker Protein 30 by Activating AMPK/Sirt1-Foxo1 Signals and Attenuating H2O2-Induced Damage in FAO Rat Liver Cells.",
-  "abstract": "Resveratrol (RSV) is a polyphenol with numerous biological functions, including anti-inflammatory, antioxidant, and anti-aging activities. The novel senescence marker protein-30 (SMP30) indicates aging, and it suppresses hepatic oxidative stress. However, the effects of RSV on SMP30 expression regulation remain unclear. We observed that RSV positively regulates SMP30 expression in rat hepatoma-derived FAO cells. However, this was abolished by Compound C and EX-527 that specifically inhibit AMP-activated protein kinase (AMPK) and Silent Information Regulator T1 (Sirt1), respectively. We predicted binding sites for AMPK, forkhead box protein O1 (Foxo1), and Sirt1 downstream molecules as possible SMP30 promoters using the JASPAR and UniProtKB databases. We identified a Foxo1 binding site in the promoter region of SMP30. Inhibiting Foxo1 with AS1842527 also decreased the RSV-induced upregulation of SMP30 expression. Moreover, RSV suppressed the substantial downregulation of SMP30 expression caused by oxidative stress and hydrogen peroxide (H2O2) and released accumulated lactate dehydrogenase. These results demonstrate that, as a novel food factor, RSV-induced upregulation of SMP30 by activating AMPK/Sirt1-Foxo1 signaling and may attenuates H2O2-induced oxidative damage. The findings of this study offer new perspectives of the anti-ageing properties of RSV.",
-  "publication_date": "2023-11-01",
-  "journal": "Journal of nutritional science and vitaminology",
-  "doi": "10.3177/jnsv.69.388"
-}

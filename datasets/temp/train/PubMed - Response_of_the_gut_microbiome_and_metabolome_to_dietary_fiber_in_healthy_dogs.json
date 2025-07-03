@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "polyphenols gut microbiota",
-  "title": "Response of the gut microbiome and metabolome to dietary fiber in healthy dogs.",
-  "abstract": "Dietary fiber confers multiple health benefits originating from the expansion of beneficial gut microbial activity. However, very few studies have established the metabolic consequences of interactions among specific fibers, microbiome composition, and function in either human or representative animal models. In a study design reflective of realistic population dietary variation, fecal metagenomic and metabolomic profiles were analyzed from healthy dogs fed 12 test foods containing different fiber sources and quantities (5-13% as-fed basis). Taxa and functions were identified whose abundances were associated either with overall fiber intake or with specific fiber compositions. Fourteen microbial species were significantly enriched in response to ≥1 specific fiber source; enrichment of fiber-derived metabolites was more pronounced in response to these fiber sources. Positively associated fecal metabolites, including short-chain fatty acids, acylglycerols, fiber bound sugars, and polyphenols, co-occurred with microbes enriched in specific food groups. Critically, the specific metabolite pools responsive to differential fiber intake were dependent on differences both in individual microbial community membership and in overall ecological configuration. This helps to explain, for the first time, differences in microbiome-diet associations observed in companion animal epidemiology. Thus, our study corroborates findings in human cohorts and reinforces the role of personalized microbiomes even in seemingly phenotypically homogeneous subjects.",
-  "publication_date": "2024-12-23",
-  "journal": "mSystems",
-  "doi": "10.1128/msystems.00452-24"
-}

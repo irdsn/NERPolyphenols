@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "resveratrol",
-  "title": "Investigating resveratrol-lipase interactions through multispectral analysis and molecular docking studies.",
-  "abstract": "Resveratrol (RES), a natural polyphenol with diverse pharmacological properties, has shown potential in modulating lipid metabolism through interactions with lipase (LPS). This study employed multispectral techniques and molecular docking to characterize the RES-LPS interaction mechanism quantitatively. Fluorescence quenching analysis revealed static quenching with a binding constant (KA) of 7.499 × 105L·mol-1at 298 K, supported by thermodynamic parameters (ΔG= -40.43 kJ·mol-1, ΔH= -44.26 kJ·mol-1, ΔS= -135.5 J·mol-1·K-1), indicating spontaneous, exothermic binding driven by hydrogen bonds and van der Waals forces. UV-vis spectroscopy demonstrated a 2 nm redshift in LPS's absorption peak, confirming complex formation. Circular dichroism revealed RES-induced secondary structural changes in LPS, with α-helix content decreasing from 17.2% to 17.0% and random coils increasing from 41.6% to 42.9%. Molecular docking identified key binding residues (ARG256, ASP79, TRP252) and a binding free energy of -3.86 kcal·mol-1, validating the experimental findings. These results provide a mechanistic basis for RES's role in lipid metabolism regulation and its potential therapeutic applications.",
-  "publication_date": "2025-06-11",
-  "journal": "Journal of biomolecular structure & dynamics",
-  "doi": "10.1080/07391102.2025.2514699"
-}

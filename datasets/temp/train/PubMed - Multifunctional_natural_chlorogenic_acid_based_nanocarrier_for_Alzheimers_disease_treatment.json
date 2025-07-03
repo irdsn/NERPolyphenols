@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "chlorogenic acid",
-  "title": "Multifunctional natural chlorogenic acid based nanocarrier for Alzheimer's disease treatment.",
-  "abstract": "Alzheimer's disease (AD) presents significant challenges due to its intricate pathogenic mechanisms and the limited efficacy of single-target therapies. In this study, we investigated the potential of chlorogenic acid (CHA), a multifunctional natural active compound, in AD therapy by developing a trifunctional nanocarrier (MC-H/R/si). CHA was effectively conjugated with iron-based metal-organic frameworks (MIL/Fe-100) through chelation interaction. The resulting nanocomplex (MC) not only enhances the bioavailability of CHA but also facilitates a synergistic antioxidant effect between CHA and MIL/Fe-100. Importantly, CHA can chelate Zn2+from β-amyloid/Zn2+(Aβ/Zn2+) polymers, inhibiting Aβ aggregation. Furthermore, small interfering RNA targeting BACE1 was covalently linked to MC to downregulate BACE1 expression. Bothin vitroandin vivoexperiments revealed that MC-H/R/si effectively scavenges ROS, reduces inflammation and Aβ plaque, and improves the learning and cognitive abilities of APP/PS1 mice. These findings confirm that the trifunctional nanocarrier MC-H/R/si has great potential for AD treatment.",
-  "publication_date": "2025-05-08",
-  "journal": "Materials today. Bio",
-  "doi": "10.1016/j.mtbio.2025.101841"
-}

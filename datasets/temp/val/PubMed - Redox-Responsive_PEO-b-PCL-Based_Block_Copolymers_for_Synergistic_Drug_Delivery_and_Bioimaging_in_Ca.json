@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "stilbenes",
-  "title": "Redox-Responsive PEO-b-PCL-Based Block Copolymers for Synergistic Drug Delivery and Bioimaging in Cancer Cells.",
-  "abstract": "Stimuli-responsive polymer-based nanocarriers enhance the drug delivery efficiency by enabling targeted release at tumor sites. However, integrating therapeutic and diagnostic functions into a single nanoplatform while maintaining control over both remains a significant challenge. This study presents a stimuli-responsive, multifunctional poly(ethylene oxide)-b-poly(ε-caprolactone) (PEO-b-PCL) nanocarrier for combination cancer therapy and bioimaging. The system codelivers chlorambucil (CHL) and methotrexate (MTX) to enhance therapeutic efficacy and overcome multidrug resistance. A redox-responsive disulfide linker enables CHL release in the tumor's glutathione-rich environment, ensuring selective drug activation. Additionally, an aggregation-induced emission (AIE) fluorophore, tetraphenylethylene (TPE), facilitates the monitoring of cellular uptake and drug release. The resulting TPE-(PEO-b-PCL)-S-S-CHL (P3) micelles encapsulated with MTX (P3-MTX) exhibited favorable size, morphology, and enhanced cytotoxicity, demonstrating a synergistic effect in combination therapy. Confocal laser scanning microscopy (CLSM) confirmed intracellular uptake by using TPE-based fluorescence. Thus, these nanocarriers offer a promising theranostic platform for simultaneous cancer treatment and monitoring.",
-  "publication_date": "2025-04-23",
-  "journal": "Biomacromolecules",
-  "doi": "10.1021/acs.biomac.5c00102"
-}

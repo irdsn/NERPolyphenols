@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "flavonoids",
-  "title": "Arabidopsis thaliana root responses to Cd exposure: insights into root tip-specific changes and the role of HY5 in limiting Cd accumulation and promoting tolerance.",
-  "abstract": "Cadmium (Cd) is a major environmental pollutant with high toxicity. While Cd exposure reduces root growth, its specific impact on the root meristem and differentiating parts remains poorly understood. This study investigates the spatial and temporal responses of Arabidopsis thaliana roots to Cd stress by dividing roots into root tips (RT) and remaining roots (RR) and employing transcriptomic, ionomic, and metabolomic analyses. Cd exposure altered mineral profiles, with RT accumulating less Cd but showing distinct changes in other elements compared to RR. Metabolomic analysis revealed root part-specific changes in phytochelatins, flavonoids, and glucosinolates. Transcriptomic data highlighted constitutive differences between RT and RR, reflecting functional specialization. Also, they revealed Cd-induced root part-specific and time-dependent transcriptional responses, including modulation of Fe-related genes. Phenotypic validation identified ELONGATED HYPOCOTYL 5 as a key regulator limiting Cd accumulation and promoting tolerance, as hy5 mutants exhibited increased Cd sensitivity and accumulation. Additionally, mutants of genes regulated by HY5, such as xyloglucan endotransglucosylase/hydrolase genes (XTH) and MYB12, also showed altered root growth under Cd stress, implicating cell wall remodeling and flavonoid biosynthesis in Cd responses. This study provides a spatially and temporally resolved understanding of Cd's impact on root growth, and highlights HY5's role in Cd tolerance, thereby advancing our knowledge of plant responses to trace metal excess.",
-  "publication_date": "2025-06-01",
-  "journal": "The Plant journal : for cell and molecular biology",
-  "doi": "10.1111/tpj.70298"
-}

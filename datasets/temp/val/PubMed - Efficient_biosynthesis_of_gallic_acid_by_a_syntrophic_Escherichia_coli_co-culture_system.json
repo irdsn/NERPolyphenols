@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "gallic acid",
-  "title": "Efficient biosynthesis of gallic acid by a syntrophic Escherichia coli co-culture system.",
-  "abstract": "Gallic acid (GA), a natural phenolic acid antioxidant, has significant therapeutic and industrial applications. However, its traditional manufacturing approach, based on plant extraction, has been associated with risks of environmental pollution as well as a limited range of applications. Consequently, microbial-based production of GA, being more environmental-friendly, is viewed as a potential alternative. This study reports the efficient biosynthesis of GA from renewable glucose via a syntrophic Escherichia coli co-culture system. An effective GA biosynthesis pathway was first analyzed and determined. Then the rate-limiting step involving the hydroxylation of protocatechuic acid (PCA) to GA was removed by integrating multiple copies of the key gene pobAT294A/Y385Finto the chromosome of a PCA-overproducing strain. The resulting strain GA10 produced 41.88 g/L GA with a yield of 0.185 mol/mol, but up to 9.54 g/L of the intermediate PCA accumulated in the fermentation broth. To overcome this issue, a catalytic strain COT03 was constructed by coupling the metabolism of excess intracellular NADPH supply with the NADPH-consuming reaction catalyzed by PobAT294A/Y385F. This yielded a syntrophic E. coli co-culture system that consisted of a GA-overproducing strain (GA10) and a growth-coupled biocatalytic strain (COT03). Following optimization of the culture conditions, the co-culture system produced 57.66 g/L GA from glucose within 75 h, with a yield of 0.233 mol/mol and an average productivity of 0.769 g/L/h. This study lays the foundation for the potential industrial biomanufacturing of GA from glucose.",
-  "publication_date": "2025-05-16",
-  "journal": "Metabolic engineering",
-  "doi": "10.1016/j.ymben.2025.05.005"
-}

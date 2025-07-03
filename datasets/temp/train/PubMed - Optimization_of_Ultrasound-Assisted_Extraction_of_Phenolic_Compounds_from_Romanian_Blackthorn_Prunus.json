@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "polyphenols",
-  "title": "Optimization of Ultrasound-Assisted Extraction of Phenolic Compounds from Romanian Blackthorn (Prunus spinosaL.) Fruits.",
-  "abstract": "Selecting factors that significantly affect the extraction process and optimizing them are essential to obtain high extraction efficiency. This study aimed at optimizing the ultrasonic-assisted extraction (UAE) of polyphenols from Romanian blackthorn fruits using aqueous solutions of ethanol as green extraction solvents. Six process factors, including solvent/plant material ratio (RLS= 4.95-15.1 cm3/g), ethanol concentration in the extraction solvent (cet= 16.4-83.6%), extraction temperature (t= 30-70 °C), pH of the solvent (pH= 2-7), amplitude of the ultrasonic probe (A= 30-70%), and extraction time (τ= 5-15 min), were screened and optimized based on a Plackett-Burman design (PBD) and a central composite design (CCD). Statistical analysis indicated thatRLS,cet, andtsignificantly affected the process response variables in terms of total phenolic content (TPC), total anthocyanin content (TAC), and antioxidant capacity (AC). Under optimal conditions (RLS,opt= 15.1 cm3/g,cet,opt= 33.2%,topt= 66.8 °C,pHopt= 7,Aopt= 50%, andτopt= 10 min), the following levels of response variables were experimentally determined:TPCopt= 14.45 ± 0.718 mg GAE/g DM,TACopt= 0.405 ± 0.057 mg C3GE/g DM, andACopt= 16.75 ± 1.144 mg TE/g DM. Six phenolic compounds were identified in the extract obtained at optimal levels of process factors, i.e., rutin (7.12 ± 0.06 mg/100 g DM), protocatechuic acid (6.83 ± 0.01 mg/100 g DM), neochlorogenic acid (4.88 ± 0.01 mg/100 g DM), vanillic acid (3.70 ± 0.01 mg/100 g DM), chlorogenic acid (1.93 ± 0.02 mg/100 g DM), and caffeic acid (1.51 ± 0.01 mg/100 g DM).",
-  "publication_date": "2025-06-03",
-  "journal": "Antioxidants (Basel, Switzerland)",
-  "doi": "10.3390/antiox14060680"
-}

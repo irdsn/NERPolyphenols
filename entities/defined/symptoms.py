@@ -1,8 +1,13 @@
-"""
-Symptom entity lexicon organized by pathological domain.
-This list includes variations of symptom and disease-related expressions
-commonly found in biomedical literature discussing polyphenols.
-"""
+##################################################################################################
+#                                      SYMPTOM LEXICON                                           #
+#                                                                                                #
+# This module defines a lexicon of symptom and disease terms relevant to biomedical NER tasks.   #
+# Terms are commonly associated with studies on polyphenols and cover a wide pathological range. #
+##################################################################################################
+
+##################################################################################################
+#                                 KNOWN SYMPTOM ENTITIES                                         #
+##################################################################################################
 
 KNOWN_SYMPTOMS = set([
     "aging",

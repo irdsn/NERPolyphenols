@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "anthocyanins",
-  "title": "Malvidin Alleviates Lipopolysaccharide-Induced Acute Lung Injury by Modulating JAK2/STAT3 Signaling to Inhibit Macrophage M1 Polarization and Oxidative Stress.",
-  "abstract": "Malvidin (Mv), a widely recognized anthocyanin, exhibits notable anti-inflammatory and antioxidant properties. However, its potential therapeutic effects on lipopolysaccharide (LPS)-induced acute lung injury (ALI) remain unknown. Therefore, in this study, we aimed to evaluate the effects of malvidin on ALI and investigate its underlying mechanisms. In a mouse model of intratracheal LPS administration-induced ALI, Mv markedly alleviated lung tissue damage. It reduced the lung wet-to-dry weight ratio and decreased total protein and inflammatory cytokine levels and total cell counts in the bronchoalveolar lavage fluid. Single-cell transcriptomics, drug target prediction, and RNA sequencing revealed that Mv exerts protective effects by modulating inflammatory responses and oxidative stress, potentially via JAK/STAT signaling. Hub gene analysis identified JAK2 and STAT3 as key regulatory targets, and molecular docking and dynamics simulations confirmed stable binding between Mv and JAK2. Mv exhibited up to 80% free radical-scavenging activity in DPPH and ABTS assays. Mv suppressed M1 polarization marker expression (CD86 and iNOS), reduced reactive oxygen species and malondialdehyde levels, and enhanced superoxide dismutase activity in vitro and in vivo. Western blots showed that Mv significantly inhibited LPS-induced JAK2/STAT3 phosphorylation. In conclusion, Mv ameliorates ALI by inhibiting JAK2/STAT3 signaling, thereby suppressing macrophage M1 polarization and oxidative stress.",
-  "publication_date": "2025-05-21",
-  "journal": "Journal of agricultural and food chemistry",
-  "doi": "10.1021/acs.jafc.5c00077"
-}

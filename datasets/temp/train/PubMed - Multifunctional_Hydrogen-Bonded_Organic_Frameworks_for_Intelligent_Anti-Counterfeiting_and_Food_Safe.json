@@ -1,9 +1,0 @@
-{
-  "source": "PubMed",
-  "query": "gallic acid",
-  "title": "Multifunctional Hydrogen-Bonded Organic Frameworks for Intelligent Anti-Counterfeiting and Food Safety Monitoring.",
-  "abstract": "In an era of increasing digital threats and product counterfeiting, this study introduces MA-IPA@NPA, a groundbreaking hydrogen-bonded organic framework (HOF) material designed for advanced anticounterfeiting applications. This innovative material showcases distinctive optical properties, including dual fluorescence-phosphorescence emission and an ultralong phosphorescence lifetime, making it exceptionally difficult to replicate. Additionally, MA-IPA@NPA demonstrates efficacy as a fluorescence sensor for detecting tryptamine and gallic acid in food products, addressing both security and food safety concerns. Through electrospinning technology, we successfully developed a multifunctional composite nanofiber membrane by integrating MA-IPA@NPA with poly(vinyl alcohol) nanofibers, thereby combining the superior optical properties of the HOF with the flexibility and durability of polymer nanofibers. This advanced composite forms the foundation of our Multiple-Responsive Intelligent Anticounterfeiting label, which exhibits dynamic responses to diverse stimuli and incorporates multilevel verification through sophisticated machine learning methods, including binary image recognition and a Back-Propagation Neural Network. Our comprehensive research not only presents a novel strategy for developing advanced, multifunctional anticounterfeiting systems but also offers a timely solution to the escalating demand for enhanced security and authenticity verification in our increasingly digital world, paving the way for more robust and reliable anticounterfeiting measures across various industries.",
-  "publication_date": "2025-05-28",
-  "journal": "ACS applied materials & interfaces",
-  "doi": "10.1021/acsami.5c04836"
-}
